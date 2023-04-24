@@ -8,6 +8,14 @@
 
  <p align="center">
  Unleash the Potential of Cross-Chain Swaps - Effortless, Efficient, and Rewarding!</p>
+
+<p align="center">
+Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+<br>
+Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+<br>
+Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+</p>
  
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
