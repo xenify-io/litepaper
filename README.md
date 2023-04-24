@@ -103,7 +103,7 @@ Xenify highlights the importance of equity and long-term investments, empowering
 
 ### ♦️ Fee Distribution
 
-- Xenify will distribute 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, incentivizing users to hold and stake their tokens. For unsupported chains, fees collected will be used to support the XenSwap team in funding future audits and marketing efforts.
+- Xenify will distribute 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, incentivizing users to hold and stake their tokens. For unsupported chains, fees collected will be used to support the Xenify team in funding future audits and marketing efforts.
 
 ### ♦️ Reward Distribution
 
@@ -121,7 +121,7 @@ Xenify is a revolutionary cross-chain aggregator of aggregators designed to stre
 
 For example, when a user wants to swap Token A on Chain 1 for Token B on Chain 2, Xenify makes it possible to execute this swap with just a single click and a single transaction on Chain 1. This eliminates the need to navigate complex chains or search for the best prices, as Xenify efficiently handles the swap at the best available rates.
 
-Xenify is an innovative platform that generates its revenue from swap fees, distributing 100% of the fees as native chain rewards to staked XNF holders on supported chains. For unsupported chains, the fees collected will be used to support the XenSwap team in funding future audits, development, and marketing efforts. This revenue model ensures a competitive edge in the market while benefiting its users.
+Xenify is an innovative platform that generates its revenue from swap fees, distributing 100% of the fees as native chain rewards to staked XNF holders on supported chains. For unsupported chains, the fees collected will be used to support the Xenify team in funding future audits, development, and marketing efforts. This revenue model ensures a competitive edge in the market while benefiting its users.
 
 Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting from the best rates and seamless integration with numerous aggregators and chains. This fosters a thriving ecosystem, encouraging user participation and promoting a community-driven environment. The innovative approach taken by Xenify, combined with its unique tokenomics model, ensures that the platform stays ahead of the curve and continues to attract a growing user base, contributing to the overall success of the project.
 
