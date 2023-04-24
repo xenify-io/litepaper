@@ -125,7 +125,7 @@ Xenify highlights the importance of equity and long-term investments, empowering
 
 # ◽️ Xenify
 
-Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 18 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
+Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 20 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
 
 For example, when a user wants to swap Token A on Chain 1 for Token B on Chain 2, Xenify makes it possible to execute this swap with just a single click and a single transaction on Chain 1. This eliminates the need to navigate complex chains or search for the best prices, as Xenify efficiently handles the swap at the best available rates.
 
