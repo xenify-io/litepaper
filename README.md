@@ -117,7 +117,7 @@ Xenify highlights the importance of equity and long-term investments, empowering
 
 - Staked XNF holders will receive native chain rewards from direct burns of DBXen or FENIX tokens, ensuring a comprehensive rewards system that benefits active participants in the ecosystem.
 
-### ♦️ Cross-chain Swapping
+### ♦️ Cross-Chain Swapping
 
 - XNF will integrate with Xenify, enabling users to execute cross-chain swaps between various tokens and blockchains. This feature streamlines the process of exchanging assets across different chains and offers users access to the most competitive rates available, ultimately providing a more efficient and user-friendly DeFi experience.
 
