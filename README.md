@@ -1,7 +1,7 @@
 <p align="center" dir="auto">
 <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/233877017-a858ae6e-13de-4db4-bd1b-9754bbaecd71.png" class="source-dark">
-  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233877014-a1f9f22d-1a37-431e-8042-adfe3aa3d6f3.png" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/233914336-09de72c1-26b3-4c6f-8447-40004a598028.png" class="source-dark">
+  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233914306-3c6c085c-af4f-4695-bb5c-a082caed9d9a.png" style="visibility:visible;max-width:100%;">
 </picture>
 </themed-picture>
 </p>
@@ -145,9 +145,19 @@ The platform integrates with the following aggregators to provide a comprehensiv
 - [Squid Router](https://app.squidrouter.com)
 - [Rubic Finance](https://rubic.finance)
 
-## ◽️ Supported Chains
+## ◽️ Fee Supported Chains
 
-Moreover, Xenify supports a wide range of chains, including:
+| Type       | Name        | Website                               |
+|------------|-------------|---------------------------------------|
+| Layer 1    | Fantom      | https://fantom.foundation             |
+| Layer 2    | Polygon     | https://polygon.technology            |
+| Layer 1    | Ethereum    | https://ethereum.org                  |
+| Layer 1    | Avalanche   | https://www.avax.network              |
+| Layer 1    | BNB Chain   | https://www.bnbchain.org              |
+| Layer 1    | OKEx Chain  | https://www.okex.com/okexchain        |
+| Parachain  | Moonbeam    | https://moonbeam.network              |
+
+## ◽️ Swap Supported Chains
 
 | Type       | Name        | Website                               |
 |------------|-------------|---------------------------------------|
