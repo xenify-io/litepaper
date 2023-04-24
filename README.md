@@ -1,11 +1,14 @@
 <p align="center" dir="auto">
 <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/233918790-400b4a4a-3719-4cec-88a7-a9c79bdc26cf.png" class="source-dark">
-  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233918773-84e1f3c1-94a7-4010-9c30-ebdb31190304.png" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/233929683-8265f2ba-a84d-4efe-ac84-6c9c708f0c82.png" class="source-dark">
+  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233929683-8265f2ba-a84d-4efe-ac84-6c9c708f0c82.png" style="visibility:visible;max-width:100%;">
 </picture>
 </themed-picture>
 </p>
 
+ <p align="center">
+ Unleash the Potential of Cross-Chain Swaps - Effortless, Efficient, and Rewarding!</p>
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 # ◽️ Contents
