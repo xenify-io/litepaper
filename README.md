@@ -10,19 +10,19 @@
 
 # ◽️ Contents
 
-- [Introduction](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
-- [Our Vision](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
-- [Our Mission](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
-- [Key Features](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
-- [Xenify](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-xenify)
-- [Tokenomics](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
-- [24hr Early Access](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-24hr-early-access)
-- [User Experience](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
-- [Security](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-security)
-- [Conclusion](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-conclusion)
-- [Glossary](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-glossary)
-- [Acknowledgements](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-acknowledgements)
-- [Important Links](https://github.com/xenify/litepaper/edit/main/README.md#%EF%B8%8F-important-links)
+- [Introduction](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
+- [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
+- [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
+- [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
+- [Xenify](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify)
+- [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
+- [24hr Early Access](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-24hr-early-access)
+- [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
+- [Security](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-security)
+- [Conclusion](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-conclusion)
+- [Glossary](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-glossary)
+- [Acknowledgements](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-acknowledgements)
+- [Important Links](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-important-links)
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
