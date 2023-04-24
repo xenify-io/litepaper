@@ -221,6 +221,7 @@ XNF will be deployed onto the following chains:
 - Moonbeam
 - Fantom
 - OKChain
+- Evmos
 
 ### ◽️ Minting Process and Incentives
 
