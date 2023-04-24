@@ -1,7 +1,7 @@
 <p align="center" dir="auto">
 <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/233929683-8265f2ba-a84d-4efe-ac84-6c9c708f0c82.png" class="source-dark">
-  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233929683-8265f2ba-a84d-4efe-ac84-6c9c708f0c82.png" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: light),(prefers-color-schehttps://user-images.githubusercontent.com/60996729/233944059-cb2eff27-80ba-474c-b0cf-856cf9aadca2.png" class="source-dark">
+  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233944033-fc5675ea-12b0-4caf-914a-a0aacbb9ed5c.png" style="visibility:visible;max-width:100%;">
 </picture>
 </themed-picture>
 </p>
