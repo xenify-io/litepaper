@@ -175,6 +175,7 @@ The platform integrates with the following aggregators to provide a comprehensiv
 |------------|-------------|---------------------------------------|
 | Layer 1    | Celo        | https://celo.org                      |
 | Layer 1    | Beam        | https://www.beam.mw                   |
+| Layer 1    | Tezos       | https://tezos.com                     |
 | Layer 1    | Zcash       | https://www.z.cash                    |
 | Layer 1    | Evmos       | https://evmos.dev                     |
 | Layer 1    | Aurora      | https://aurora.dev                    |
@@ -183,7 +184,6 @@ The platform integrates with the following aggregators to provide a comprehensiv
 | Layer 1    | Cronos      | https://crypto.com/chain              |
 | Layer 1    | Fantom      | https://fantom.foundation             |
 | Layer 1    | Monero      | https://www.getmonero.org             |
-| Layer 1	   | Litecoin	   | https://litecoin.org                  |
 | Layer 2    | Polygon     | https://polygon.technology            |
 | Layer 2    | Arbitrum    | https://arbitrum.io                   |
 | Layer 1    | Polkadot    | https://polkadot.network              |
