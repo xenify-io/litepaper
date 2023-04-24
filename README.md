@@ -88,23 +88,23 @@ Xenify leverages ChainZap's cutting-edge cross-chain aggregator technology to of
 
 ### ◽️ Emphasis on Equity and Long-term Investment
 
-Xenify highlights the importance of equity and long-term investments, empowering users to capitalize on the platform's growth and value appreciation. By owning a stake in Xenify, users gain the opportunity to participate in the project's success and generate potential passive income through staking and yield farming strategies. To achieve this, Xenify provides several key functionalities for its users:
+Xenify highlights the importance of equity and long-term investments, empowering users to capitalize on the platform's growth and value appreciation. By owning a stake in Xenify, users gain the opportunity to participate in the project's success and generate potential passive income through staking XNF. To achieve this, Xenify provides several key functionalities for its users:
 
 ### ♦️ Staking
 
-- Users can stake their XNF tokens to earn rewards in the form of protocol fees, collected in ETH. Staking XNF not only generates passive income but also bolsters the network's security and promotes the platform's growth.
+- Users can stake their XNF tokens to earn rewards in the form of native chain rewards, collected from swap fees on supported chains. Staking XNF not only generates passive income but also bolsters the network's security and promotes the platform's growth.
 
 ### ♦️ Token Burning
 
-- Users can burn DBXen or FENIX tokens to acquire XNF. This process contributes to decreasing the circulating supply of these tokens, consequently potentially increasing their value.
+- Users can burn DBXen or FENIX tokens to acquire XNF, serving as a layer 2 burner of XEN. This process contributes to decreasing the circulating supply of these tokens, potentially increasing their value.
 
 ### ♦️ Fee Distribution
 
-- Xenify will distribute 100% of generated swap fees as ETH rewards to XNF stakers, incentivizing users to hold and stake their tokens.
+- Xenify will distribute 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, incentivizing users to hold and stake their tokens. For unsupported chains, fees collected will be used to support the XenSwap team in funding future audits and marketing efforts.
 
 ### ♦️ Reward Distribution
 
-- XNF will allocate 50% of the total supply daily based on users' swap volume on Xenify. This system guarantees that active participants in the ecosystem receive a fair portion of the rewards.
+- Staked XNF holders will receive native chain rewards from direct burns of DBXen or FENIX tokens, ensuring a comprehensive rewards system that benefits active participants in the ecosystem.
 
 ### ♦️ Cross-chain Swapping
 
@@ -114,13 +114,13 @@ Xenify highlights the importance of equity and long-term investments, empowering
 
 # ◽️ Xenify
 
-Xenify is a revolutionary cross-chain token swapping platform designed to streamline and simplify the swapping process for users. By leveraging an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 18 leading chains. This allows users to easily swap tokens between chains such as Bitcoin, Polygon, and many more.
+Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 18 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
 
 For example, when a user wants to swap Token A on Chain 1 for Token B on Chain 2, Xenify makes it possible to execute this swap with just a single click and a single transaction on Chain 1. This eliminates the need to navigate complex chains or search for the best prices, as Xenify efficiently handles the swap at the best available rates.
 
-Xenify is a revolutionary platform that generates its revenue from the positive slippage of transactions, allowing users to enjoy Zero Fee token swaps. In doing so, the platform takes care of the rest, creating a mutually beneficial situation for both the users and the platform. By leveraging positive slippage or fixed fee revenue sharing given back from the aggregators, Xenify is able to offer a competitive edge in the market.
+Xenify is an innovative platform that generates its revenue from swap fees, distributing 100% of the fees as native chain rewards to staked XNF holders on supported chains. For unsupported chains, the fees collected will be used to support the XenSwap team in funding future audits, development, and marketing efforts. This revenue model ensures a competitive edge in the market while benefiting its users.
 
-Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting from the best rates and seamless integration with numerous aggregators and chains. This fosters a thriving ecosystem, encouraging user participation and promoting a community-driven environment. The innovative approach taken by Xenify ensures that the platform stays ahead of the curve and continues to attract a growing user base, contributing to the overall success of the project.
+Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting from the best rates and seamless integration with numerous aggregators and chains. This fosters a thriving ecosystem, encouraging user participation and promoting a community-driven environment. The innovative approach taken by Xenify, combined with its unique tokenomics model, ensures that the platform stays ahead of the curve and continues to attract a growing user base, contributing to the overall success of the project.
 
 ## ◽️ Aggregators
 
