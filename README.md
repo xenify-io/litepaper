@@ -1,9 +1,9 @@
 <p align="center" dir="auto">
-<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-  <source media="(prefers-color-scheme: light),(prefers-color-schehttps://user-images.githubusercontent.com/60996729/233944059-cb2eff27-80ba-474c-b0cf-856cf9aadca2.png" class="source-dark">
-  <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/233944033-fc5675ea-12b0-4caf-914a-a0aacbb9ed5c.png" style="visibility:visible;max-width:100%;">
-</picture>
-</themed-picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/234210076-b74ab33f-26de-4d1f-a3b8-a6968ee13c62.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/234210052-ead927e9-6d92-4e18-9f7e-2aba0de4742d.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/234210052-ead927e9-6d92-4e18-9f7e-2aba0de4742d.png" style="visibility:visible;max-width:100%;">
+  </picture>
 </p>
 
  <p align="center">
