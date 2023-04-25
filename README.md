@@ -223,30 +223,28 @@ XNF will be deployed onto the following chains:
 
 ### ◽️ Minting Process and Incentives
 
-Xenify's minting process is designed to provide dynamic rewards to users who actively participate in various platform activities, thereby contributing to the growth of the ecosystem. The incentive structure is tailored to ensure a fair and equitable distribution of XNF tokens, promoting a decentralized and community-driven platform. The platform activities that users can engage in include burning, swapping, and other platform-specific functions.
+Xenify's minting process is designed to provide equity to users who actively participate in various platform activities, contributing to the growth of the ecosystem. The incentive structure ensures a fair and equitable distribution of XNF tokens, promoting a decentralized and community-driven protocol. Users can engage in activities such as burning and swapping.
 
-The incentive structure of Xenify is designed to encourage users to actively participate in the platform's growth, thus driving value and fostering a thriving, decentralized ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, which in turn motivates users to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 10,000 XNF tokens. These tokens are allocated specifically to those who burn DXN or FENIX tokens.
+The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralized ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 10,000 XNF tokens, allocated specifically to those who burn DXN or FENIX tokens.
 
-The 10,000 XNF tokens are distributed evenly among the two token types, with 5,000 allocated to DXN burns and 5,000 to FENIX burns. This distribution structure ensures that users participating in the burning of different tokens are rewarded accordingly. By providing incentives for users to engage with the platform and burn tokens, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
+The 10,000 XNF tokens are distributed among the DXN burns and FENIX burns, ensuring that users participating in the burning of different tokens are rewarded accordingly. By providing incentives for users to engage with the platform and burn tokens, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
 
-The reward pool decreases by approximately 0.2% per cycle, leading to the full unlocking of nearly 21 million XNF tokens after about 62 years of continuous protocol usage. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or FENIX burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth, and fostering a thriving, community-driven environment.
+The reward pool decreases by approximately 0.2% per cycle, leading to the full unlocking of nearly 21 million XNF tokens after about 122 years of continuous protocol usage. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or FENIX burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth and fostering a thriving, community-driven environment.
 
 ### ♦️ Burning 
-  - Users can participate in burning DXN or FENIX tokens, which are directly tied to the Xenify ecosystem. By burning these tokens, users contribute to the platform's growth and deflationary tokenomics. In return, they are rewarded with XNF tokens based on their level of engagement in the burning process.
+  - Ignite your contribution to Xenify's growth and deflationary tokenomics by participating in the exhilarating process of burning DXN or FENIX tokens. In exchange for your engagement, you'll be rewarded with XNF tokens, amplifying your stake in the thriving Xenify ecosystem.
 
 ### ♦️ Swapping 
-  - Users can exchange tokens on the Xenify platform, benefiting from the aggregated trading volume across multiple aggregators. As a cross-chain aggregator of aggregators, Xenify does not rely on its own liquidity pool but instead sources liquidity from various aggregators. The more users swap, the more they contribute to the platform's growth, and the greater their potential rewards in XNF tokens.
+  - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your potential rewards in XNF tokens while benefiting from aggregated trading volume across multiple aggregators.
 
 ### ♦️ Staking 
-  - Users can stake their XNF tokens to earn a share of the protocol fees and swap fees generated within the platform. By staking their tokens, users not only secure the platform's network but also contribute to its growth. In return, they receive a portion of the protocol fees from burning activities and the swap fees generated on supported chains as native token rewards. This incentivizes users to continue participating in the Xenify ecosystem and hold their XNF tokens.
+  - Stake your XNF tokens and be part of Xenify's revolution. By doing so, you'll secure the network, contribute to its growth, and earn your rightful share of protocol fees and swap fees generated within the platform. With native token rewards from both burning activities and swap fees on supported chains, your participation in the Xenify ecosystem will be handsomely rewarded.
 
-### ◽️ Staking, Rewards, and Fees
+  - Discover Xenify's groundbreaking staking model that enables users to stake XNF tokens and earn a share of protocol fees generated from direct burns of DXN or FENIX. Enjoy the benefits of receiving rewards in the form of ETH, a highly valuable and liquid asset, ensuring an exceptional return on your investment.
 
-Xenify's staking model allows users to stake XNF tokens and earn a share of protocol fees generated from direct burns of DXN or FENIX. Staking rewards are paid out in ETH, providing users with a valuable and liquid asset as a return on their investment.
+  - Dive into Xenify's distinctive swap fee distribution mechanism, which allocates a remarkable 100% of the platform's swap fees to its stakers. By staking XNF tokens, you'll experience a continuous stream of income through native chain rewards. This generous distribution not only supports the token price but also further rewards stakers, fostering a sustainable token value and promoting long-term engagement.
 
-In addition to protocol fees, Xenify distributes a portion of the platform's swap fees to its stakers. 50% of these swap fees are allocated as ETH rewards to users who stake XNF tokens, ensuring a continuous income stream for stakers. The remaining 50% of swap fees are used to support the token price and further reward stakers, contributing to a sustainable token value and incentivizing long-term platform engagement.
-
-Transaction fees on Xenify play a vital role in fostering a healthy ecosystem, as they are fully utilized to support the token price and reward stakers. This approach helps maintain platform growth, incentivizes user participation, and promotes a thriving, community-driven environment. By offering various incentives to stakeholders, Xenify aims to create a robust ecosystem that benefits all participants and encourages sustained growth.
+  - Immerse yourself in Xenify's rewarding ecosystem, meticulously crafted to benefit all participants and nurture a thriving, community-driven environment. Embrace the opportunities that arise from engaging with this innovative platform and experience the power of a decentralized and interconnected financial future.
 
 ### ◽️ Costs of Burning DXN and FENIX
 
@@ -264,8 +262,8 @@ A batch is a fixed number of tokens to burn, depending on the token being burned
 
 For example, on Ethereum:
 
-- 1 batch = [Fixed Number] FENIX tokens
 - 1 batch = [Fixed Number] DXN tokens
+- 1 batch = [Fixed Number] FENIX tokens
 
 To execute the burn function on the Xenify Protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or FENIX) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
 
@@ -287,10 +285,10 @@ The "User Reward/Cycle" formula calculates the rewards percentage that a specifi
 
 **Where:**
 
-- **URC (User Reward/Cycle):** The reward earned by a specific user in a particular cycle.
-- **TCR (Total Cycle Reward):** The total amount of rewards distributed among all users in a particular cycle.
-- **UBN (User Batch Number):** The total number of batches a specific user has burned during the cycle.
-- **TBN (Total Batch Number):** The total number of batches burned by all users during the cycle.
+- **URC:** The reward earned by a specific user in a particular cycle.
+- **TCR:** The total amount of rewards distributed among all users in a particular cycle.
+- **UBN:** The total number of batches a specific user has burned during the cycle.
+- **TBN:** The total number of batches burned by all users during the cycle.
 
 The XNF rewards are calculated based on the gas consumed from burning DXN or FENIX. This represents the computational expense of executing the transaction.
 
