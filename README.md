@@ -302,7 +302,7 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 Once a cycle ends, the rewards associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
 
-### ◽️ Claiming Native Token Fees (native token of blockchain)
+### ◽️ Claiming Native Token Fees
 
 Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
 
