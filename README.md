@@ -318,11 +318,11 @@ The staked XNF tokens that have reached the cycle in which they are unlocked can
 
 # ◽️ Amplify Burns
 
-Introducing the Phoenix Ape NFT, an exclusive collectible that bridges the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
+Introducing the Phoenix Ape NFT, an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
 
 ### ◽️ Amplified Burn Effect
 
-Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between the XEN and YSL.IO communities while providing additional value to NFT holders.
+Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
 
 ### ◽️ Limited Edition Collectible
 
