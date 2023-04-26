@@ -225,9 +225,9 @@ XNF will be deployed onto the following chains:
 
 Xenify's minting process is designed to provide equity to users who actively participate in various platform activities, contributing to the growth of the ecosystem. The incentive structure ensures a fair and equitable distribution of XNF tokens, promoting a decentralized and community-driven protocol. Users can engage in activities such as burning and swapping.
 
-The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralized ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 10,000 XNF tokens, allocated specifically to those who burn DXN or FENIX tokens.
+The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralized ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 10,000 XNF tokens.
 
-The 10,000 XNF tokens are distributed among the DXN burns and FENIX burns, ensuring that users participating in the burning of different tokens are rewarded accordingly. By providing incentives for users to engage with the platform and burn tokens, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
+The 10,000 XNF tokens are divided into two categories: 5,000 XNF tokens are allocated specifically to those who burn DXN or FENIX tokens, while the other 5,000 XNF tokens are reserved for users contributing to swap volume on the platform. This distribution ensures that users participating in the burning of different tokens and generating swap volume are rewarded accordingly. By providing incentives for users to engage with the platform, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
 
 The reward pool decreases by approximately 0.2% per cycle, leading to the full unlocking of nearly 21 million XNF tokens after about 122 years of continuous protocol usage. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or FENIX burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth and fostering a thriving, community-driven environment.
 
@@ -422,57 +422,57 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 # ◽️ Glossary
 
-- #### XEN
+### ◽️ XEN
   
-  A decentralized platform from which Xenify has taken inspiration, particularly in terms of its Proof of Burn concept and First Principles methodology.
+  - A decentralized platform from which Xenify has taken inspiration, particularly in terms of its Proof of Burn concept and First Principles methodology.
   
-- #### XNF 
+### ◽️ XNF 
 
-  The native reward token of Xenify, distributed to users who participate in the platform's activities, such as staking and engaging with the ecosystem.
+  - The native reward token of Xenify, distributed to users who participate in the platform's activities, such as staking and engaging with the ecosystem.
 
-- #### Xenify
+### ◽️ Xenify
 
-  A decentralized finance (DeFi) platform that aims to redefine the DeFi experience by emphasizing fairness, simplicity, transparency, user empowerment, and interoperability.
+  - A decentralized finance (DeFi) platform that aims to redefine the DeFi experience by emphasizing fairness, simplicity, transparency, user empowerment, and interoperability.
   
-- #### Staking 
+### ◽️ Staking 
 
-  The process of locking up tokens in a wallet or platform to support the network's operations, such as validating transactions or securing the network, and receiving rewards in return.
+  - The process of locking up tokens in a wallet or platform to support the network's operations, such as validating transactions or securing the network, and receiving rewards in return.
 
-- #### Cross-chain
+### ◽️ Cross-chain
 
-  The ability to interact with and transfer assets between different blockchain networks, promoting interoperability and a more connected ecosystem.
+  - The ability to interact with and transfer assets between different blockchain networks, promoting interoperability and a more connected ecosystem.
 
-- #### Direct Burns 
+### ◽️ Direct Burns 
 
-  A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as rewards.
+  - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as rewards.
   
-- #### Swap Volume 
+### ◽️ Swap Volume 
   
-  The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
+  - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
 
-- #### Tokenomics
+### ◽️ Tokenomics
 
-  The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
+  - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
 
-- #### Proof of Burn
+### ◽️ Proof of Burn
 
-  A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive rewards in return.
+  - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive rewards in return.
 
-- #### First Principles 
+### ◽️ First Principles 
 
-  A methodology that involves breaking down complex problems into their fundamental elements to find innovative solutions.
+  - A methodology that involves breaking down complex problems into their fundamental elements to find innovative solutions.
 
-- #### Smart Contracts 
+### ◽️ Smart Contracts 
 
-  Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralized, and automated transactions on a blockchain platform.
+  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralized, and automated transactions on a blockchain platform.
 
-- #### Interoperability
+### ◽️ Interoperability
 
-  The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
+  - The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
 
-- #### DeFi (Decentralized Finance) 
+### ◽️ DeFi (Decentralized Finance) 
 
-  A financial system built on blockchain technology that aims to provide a more open, transparent, and accessible alternative to traditional financial services.
+  - A financial system built on blockchain technology that aims to provide a more open, transparent, and accessible alternative to traditional financial services.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
