@@ -27,7 +27,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
 - [Xenify](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify)
 - [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
-- [24hr Early Access](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-24hr-early-access)
+- [Amplify Burns](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-security)
 - [Conclusion](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-conclusion)
@@ -316,13 +316,13 @@ The staked XNF tokens that have reached the cycle in which they are unlocked can
 
 ![YSL IO - Line Only](https://user-images.githubusercontent.com/60996729/233761364-4d1b4b89-f76a-4593-9f07-246c57d689d9.png)
 
-# ◽️ 24hr Early Access
+# ◽️ Amplify Burns
 
-Introducing the Phoenix Ape NFT, an exclusive collectible that bridges the XEN and YSL.IO communities while offering 24-hour early access on Day 1 for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
+Introducing the Phoenix Ape NFT, an exclusive collectible that bridges the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
 
-### ◽️ Exclusive Early Access
+### ◽️ Amplified Burn Effect
 
-Holders of the Phoenix Ape NFT will receive 24-hour early access to Xenify on Day 1. This advantage allows NFT holders to be among the first to engage with the platform and participate in its features, fostering unity between the XEN and YSL.IO communities.
+Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between the XEN and YSL.IO communities while providing additional value to NFT holders.
 
 ### ◽️ Limited Edition Collectible
 
