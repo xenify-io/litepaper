@@ -330,7 +330,7 @@ The Phoenix Ape NFT is an exclusive digital collectible with only 500 available 
 
 ### ◽️ Phoenix Ape NFT Benefits
 
-Beyond early access to Xenify, the Phoenix Ape NFT offers additional perks, including:
+Beyond the amplified burn effect on Xenify, the Phoenix Ape NFT offers additional perks, including:
 
 #### 🔶 Bypassing the Sigma Exit Rate
     
