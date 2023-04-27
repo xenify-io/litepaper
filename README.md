@@ -279,6 +279,12 @@ Notations:
 
 The constant 0.00005 is used to factor in the discount on the protocol fee.
 
+### ◽️ Costs of Swapping on Xenify
+
+Swapping tokens on the Xenify platform involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.25% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem.
+
+The entire 0.25% swap fee is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. Additionally, the swap fee grants stakers a position in the daily cycle of XNF rewards. The team may receive referral rewards from aggregators, which help support Xenify's ongoing development, marketing, and outreach efforts. These rewards play a crucial role in raising awareness and adoption of XEN, DXN, FENIX, and XNF tokens, ensuring the platform's continued growth and success.
+
 ### ◽️ Reward Cycle Distribution
 
 The "User Reward/Cycle" formula calculates the rewards percentage that a specific user is entitled to receive for their contribution to a burn cycle. The calculation is performed by multiplying the total cycle reward amount by the number of batches the user has burned in that specific cycle and then dividing it by the total number of batches burned in that cycle by all users. This calculation ensures fair and proportionate distribution of rewards to all participants based on their burn contribution.
