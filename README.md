@@ -324,7 +324,7 @@ The staked XNF tokens that have reached the cycle in which they are unlocked can
 
 # ◽️ Amplify Burns
 
-Introducing the Phoenix Ape NFT, an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
+Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
 
 ### ◽️ Amplified Burn Effect
 
@@ -368,9 +368,9 @@ The platform provides a seamless experience for claiming rewards, staking, and u
 
 # ◽️ Security
 
-Xenify places great importance on security and governance to ensure the safety and reliability of the platform. The token contract is a fork from DBXen, with minor changes, and has been audited by Certik, a leading blockchain security firm. To further bolster the platform's security, Xenify plans to have the contract re-audited by Peckshield, another well-respected security company in the industry.
+Xenify prioritizes security to guarantee the safety and reliability of the protocol. The token contract, a fork from DBXen with minor modifications, has been audited by [Certik](https://twitter.com/CertiK), a renowned blockchain security firm. In addition to this audit, Xenify aims to enhance the protocol's security by scheduling a re-audit of the contracts by [Peckshield](https://twitter.com/peckshield), another prestigious security company in the industry.
 
-Xenify is designed with decentralization and autonomy in mind. The smart contracts do not have admin keys, which means that they cannot be upgraded or controlled by a centralized authority. This structure ensures that the platform remains truly decentralized and autonomous, with no decision-making power held by any single party. As Xenify evolves, it will continue to prioritize the interests of its users, promoting transparency and trust throughout the platform.
+Xenify is designed with decentralization and autonomy in mind. The smart contracts do not have admin keys, which means that they cannot be upgraded or controlled by a centralized authority. This structure ensures that the protocol remains truly decentralized and autonomous, with no decision-making power held by any single party. As Xenify evolves, it will continue to prioritize the interests of its users, promoting transparency and trust throughout the protocol.
 
 Xenify aims to create a transparent, equitable, and user-centric DeFi platform by adhering to the following principles. By adhering to these principles, Xenify aims to build a DeFi platform that fosters trust, equity, and community-driven growth in the DeFi space:
   
@@ -489,6 +489,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 **Links:**
 
 - [Website](https://ysl.io/)
+- [Whitepaper](https://docs.ysl.io)
 - [Twitter Profile](https://twitter.com/ysl_io)
 - [Telegram Channel](https://t.me/ysl_io)
 
@@ -497,31 +498,50 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
+### XEN Crypto (Oct 8, 2022) - Cross-chain protocol launch
+
+**Links:**
+
+- [Website](https://faircrypto.org)
+- [Litepaper](https://faircrypto.org/xencryptolp.pdf)
+- [Source Code](https://github.com/FairCrypto/XEN-crypto)
+- [Twitter Profile](https://twitter.com/XEN_Crypto)
+- [Telegram Channel](https://t.me/XENCryptoTalk)
+
+**Influential Concepts:**
+
+- [Proof of Burn](https://faircrypto.org/xencryptolp.pdf)
+- [First Principles](https://faircrypto.org/xencryptolp.pdf)
+
 ### DBXen (Feb 16, 2023) - Cross-chain token distribution
 
 **Links:**
 
 - [Website](https://dbxen.org/)
-- [Contract](https://etherscan.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
+- [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
 - [Source Code](https://github.com/deb0x/dbXenBurnerProject)
-
-### XEN Crypto (Oct 8, 2022) - Cross-chain protocol launch
-
-**Links:**
-
-- [Website](https://faircrypto.org/)
-- [Contract](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
-- [Source Code](https://github.com/FairCrypto/XEN-crypto)
-
-**Influential Concepts:**
-
-- [Proof of Burn](https://github.com/atomizexyz/litepaper#shares-burn)
-- [First Principles](https://github.com/atomizexyz/litepaper#fenix-principles)
+- [Twitter Profile](https://twitter.com/DBXencrypto)
+- [Telegram Channel](https://t.co/vprGbYeXqc)
 
 **Influential Concepts:**
 
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+### Fenix (April 13, 2023) - Cross-chain certificate of deposit (CD)
+
+**Links:**
+
+- [Website](https://fenix.fyi)
+- [Litepaper](https://github.com/atomizexyz/litepaper)
+- [Source Code](https://github.com/atomizexyz/fenix)
+- [Twitter Profile](https://twitter.com/fenix_protocol)
+- [Telegram Channel](https://t.me/FENIX_protocol)
+
+**Influential Concepts:**
+
+- [Proof of Burn](https://github.com/atomizexyz/litepaper#shares-burn)
+- [First Principles](https://github.com/atomizexyz/litepaper#fenix-principles)
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
