@@ -300,7 +300,7 @@ The "User Reward/Cycle" formula calculates the rewards percentage that a specifi
 <br>
 
 $$
-URC = TCR × UBN/TBN
+URC = TCR × UBN / TBN
 $$
 
 <br>
