@@ -484,7 +484,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 # ◽️ Acknowledgements
 
-### YSL.IO (Apr 21, 2023) - Cross-chain swaps
+### YSL.IO (Apr 21, 2023) - Cross-chain Swaps
 
 **Links:**
 
@@ -498,7 +498,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
-### XEN Crypto (Oct 8, 2022) - Cross-chain protocol launch
+### XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
 
 **Links:**
 
@@ -513,7 +513,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [Proof of Burn](https://faircrypto.org/xencryptolp.pdf)
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 
-### DBXen (Feb 16, 2023) - Cross-chain token distribution
+### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
 
 **Links:**
 
@@ -528,7 +528,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
-### Fenix (April 13, 2023) - Cross-chain certificate of deposit (CD)
+### Fenix (April 13, 2023) - Cross-chain Certificate of Deposit (CD)
 
 **Links:**
 
