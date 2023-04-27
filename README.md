@@ -338,21 +338,21 @@ The Phoenix Ape NFT is an exclusive digital collectible with only 7000 available
 
 Beyond the amplified burn effect on Xenify, the Phoenix Ape NFT offers additional perks, including:
 
-#### 🔶 Bypassing the Sigma Exit Rate
-    
-   Holders can sell up to 100% of their bYSL, xYSL, or USDy balance without restrictions.
+#### 🔶 Future Airdrops
 
-#### 🔶 Unique Rental Mechanism
-  
-   Rent out your NFT at a specified USDC price for a set number of days and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
+   Phoenix Ape NFT holders will be eligible for future airdrops, adding more value and incentives to owning this exclusive collectible.
 
 #### 🔶 Claimable USDC Rewards
 
    A portion of the rental income collected as tax will be distributed to all NFT holders as a claimable USDC reward at the end of each 8-hour epoch.
 
-#### 🔶 Future Airdrops
+#### 🔶 Unique Rental Mechanism
+  
+   Rent out your NFT at a specified USDC price for a set number of days and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
 
-   Phoenix Ape NFT holders will be eligible for future airdrops, adding more value and incentives to owning this exclusive collectible.
+#### 🔶 Bypassing the Sigma Exit Rate
+    
+   Holders can sell up to 100% of their bYSL, xYSL, or USDy balance without restrictions.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
