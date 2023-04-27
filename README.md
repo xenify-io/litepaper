@@ -238,13 +238,13 @@ The reward pool decreases by approximately 0.2% per cycle, leading to the full u
   - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your potential rewards in XNF tokens while benefiting from aggregated trading volume across multiple aggregators.
 
 ### ♦️ Staking 
-  - Stake your XNF tokens and be part of Xenify's revolution. By doing so, you'll secure the network, contribute to its growth, and earn your rightful share of protocol fees and swap fees generated within the platform. With native token rewards from both burning activities and swap fees on supported chains, your participation in the Xenify ecosystem will be handsomely rewarded.
+  - Join the Xenify revolution by staking your XNF tokens and become an integral part of the platform's growth. As a staker, you will earn a well-deserved share of protocol fees and swap fees generated within the ecosystem. Experience the exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly worthwhile.
 
-  - Discover Xenify's groundbreaking staking model that enables users to stake XNF tokens and earn a share of protocol fees generated from direct burns of DXN or FENIX. Enjoy the benefits of receiving rewards in the form of ETH, a highly valuable and liquid asset, ensuring an exceptional return on your investment.
+  - Explore Xenify's innovative staking model that empowers users to stake XNF tokens and earn a portion of protocol fees originating from direct burns of DXN or FENIX. Delight in the advantage of receiving rewards in the form of ETH, a highly sought-after and liquid asset, ensuring a remarkable return on your investment.
 
-  - Dive into Xenify's distinctive swap fee distribution mechanism, which allocates a remarkable 100% of the platform's swap fees to its stakers. By staking XNF tokens, you'll experience a continuous stream of income through native chain rewards. This generous distribution not only supports the token price but also further rewards stakers, fostering a sustainable token value and promoting long-term engagement.
+  - Uncover Xenify's unique swap fee distribution mechanism, allocating an astounding 100% of the platform's swap fees to its dedicated stakers. By staking XNF tokens, you'll enjoy a consistent flow of income through native chain rewards. This substantial distribution not only bolsters the token price but also further incentivizes stakers, cultivating a robust token value and fostering long-term commitment.
 
-  - Immerse yourself in Xenify's rewarding ecosystem, meticulously crafted to benefit all participants and nurture a thriving, community-driven environment. Embrace the opportunities that arise from engaging with this innovative platform and experience the power of a decentralized and interconnected financial future.
+  - Dive headfirst into Xenify's enticing ecosystem, masterfully designed to benefit every participant and cultivate a flourishing, community-driven environment. Seize the opportunities presented by this trailblazing platform and witness firsthand the potential of a decentralized and interconnected financial future.
 
 ### ◽️ Costs of Swapping on Xenify
 
