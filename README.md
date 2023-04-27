@@ -285,7 +285,7 @@ $$
 
 <br>
 
-Notations:
+**Notations:**
 
 - **PF** - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
 - **GS** - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
