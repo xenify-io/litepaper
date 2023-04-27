@@ -545,7 +545,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-# ◽️ Important Links
+# ◽️ Xenify Social Links
 
 - <https://xenify.io>
 - <https://t.me/xenify_io>
+- <https://twitter.com/xenify_io>
