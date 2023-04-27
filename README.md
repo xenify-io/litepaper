@@ -277,6 +277,14 @@ In essence, the Protocol fee calculation determines the fees charged from a user
 
 By structuring the fee calculation this way, Xenify encourages users to perform larger, more efficient burn operations by gradually charging them lower fees as they increase the number of batches being burned. This system promotes efficiency and incentivizes users to contribute to the platform while enjoying the benefits of reduced fees for larger transactions.
 
+<br>
+
+$$
+PF = GS (1 − 0.00005 * NB) * NB
+$$
+
+<br>
+
 Notations:
 
 - **PF** - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
@@ -288,6 +296,14 @@ The constant 0.00005 is used to factor in the discount on the protocol fee.
 ### ◽️ Reward Cycle Distribution
 
 The "User Reward/Cycle" formula calculates the rewards percentage that a specific user is entitled to receive for their contribution to a burn cycle. The calculation is performed by multiplying the total cycle reward amount by the number of batches the user has burned in that specific cycle and then dividing it by the total number of batches burned in that cycle by all users. This calculation ensures fair and proportionate distribution of rewards to all participants based on their burn contribution.
+
+<br>
+
+$$
+URC = TCR × UBN/TBN
+$$
+
+<br>
 
 **Where:**
 
