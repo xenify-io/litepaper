@@ -348,7 +348,7 @@ Holders of the Phoenix Ape NFT will have their burns amplified during the burn p
 
 ### ◽️ Limited Edition Collectible
 
-The Phoenix Ape NFT is an exclusive digital collectible with only 7000 available for purchase. Priced at 500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
+The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
 
 ### ◽️ Phoenix Ape NFT Benefits
 
