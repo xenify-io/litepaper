@@ -225,6 +225,8 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 | 7th Halving     |         48 Months|           312.5 XNF|   10,793,750 XNF|
 | 8th Halving     |         48 Months|          156.25 XNF|   11,021,875 XNF|
 
+It is important to note that after the 8th halving, it will take approximately 176.75 years to reach the max cap of 21 million XNF, given the decreasing daily distribution rate. This long timeframe ensures a gradual and fair distribution of XNF tokens to users who contribute to the protocol.
+
 ### ◽️ Deployed Chains
 
 XNF will be deployed onto the following chains:
