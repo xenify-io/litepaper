@@ -212,29 +212,18 @@ The distribution employs a halving model, which applies to both direct burns and
 
 To achieve this, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. The distribution differs from the DXN model, which has a 0.2% decrease per cycle, and instead follows the halving model outlined below:
 
-#### 🔶 First halving (3 Months)
-  - 20,000 XNF tokens/day
+<br>
 
-#### 🔶 Second halving (6 Months)
-  - 10,000 XNF tokens/day
-
-#### 🔶 Third halving (12 Months)
-  - 5,000 XNF tokens/day
-
-#### 🔶 Fourth halving (24 Months)
-  - 2,500 XNF tokens/day
-
-#### 🔶 Fifth halving (48 Months)
-  - 1,250 XNF tokens/day
-
-#### 🔶 Sixth halving (48 Months)
-  - 625 XNF tokens/day
-
-#### 🔶 Seventh halving (48 Months)
-  - 312.5 XNF tokens/day
-
-#### 🔶 Eighth halving (48 Months)
-  - 156.25 XNF tokens/day
+| Halving Period  | Halving Duration | Daily Distribution | Total Supply    |
+|:----------------|:-----------------|:-------------------|:----------------|
+| First Halving   |          3 Months|          20,000 XNF|    1,800,000 XNF|
+| Second Halving  |          6 Months|          10,000 XNF|    3,600,000 XNF|
+| Third Halving   |         12 Months|           5,000 XNF|    5,425,000 XNF|
+| Fourth Halving  |         24 Months|           2,500 XNF|    7,425,000 XNF|
+| Fifth Halving   |         48 Months|           1,250 XNF|    9,425,000 XNF|
+| Sixth Halving   |         48 Months|             625 XNF|   10,337,500 XNF|
+| Seventh Halving |         48 Months|           312.5 XNF|   10,793,750 XNF|
+| Eighth Halving  |         48 Months|          156.25 XNF|   11,021,875 XNF|
 
 ### ◽️ Deployed Chains
 
