@@ -259,7 +259,7 @@ It is important to note that after the 8th halving, it will take approximately 1
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
-### ◽️ Deployed Chains
+### ◽️ XNF Deployed Chains
 
 XNF will be deployed onto the following chains:
 
