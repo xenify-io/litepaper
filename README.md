@@ -58,18 +58,26 @@ Xenify's vision is founded on key guiding principles that steer the platform's d
 - ### Fairness 
   
   Promoting an equitable token distribution and equal access to the platform for all users, without preferential treatment for founders, team members, or investors.
+  
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 - ### Simplicity
 
   Creating an intuitive and user-friendly interface that allows both experienced and novice users to effortlessly navigate and engage with the platform.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 - ### Transparency
 
   Upholding open-source code and transparent communication channels to cultivate trust and accountability within the community.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 - ### Interoperability
 
   Embracing cross-chain capabilities to enable seamless interactions between various chains and broaden the scope of the DeFi ecosystem.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 - ### User Empowerment
 
@@ -95,25 +103,37 @@ Xenify is deeply committed to cultivating community-driven growth and collaborat
 
 Xenify sets itself apart in the DeFi space by adhering to core principles of fairness, simplicity, transparency, user empowerment, and interoperability. These guiding values lay the foundation for Xenify's development and growth, ensuring unwavering dedication to revolutionizing the DeFi experience and fostering a more inclusive, transparent, and interconnected ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Advanced Cross-chain Aggregator Capabilities
 
 Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users interact with decentralized finance.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Emphasis on Equity and Long-term Investment
 
 Xenify places great emphasis on equity and long-term investments, enabling users to benefit from the protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to be part of the protocol's success and potentially generate passive income through staking XNF. To accomplish this, Xenify offers an array of robust features for its users:
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ♦️ Staking
 
 - Xenify offers a comprehensive rewards mechanism that benefits staked XNF holders. The platform distributes 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, providing compelling incentives for users to hold and stake their tokens. Additionally, staked XNF holders receive native chain rewards generated from direct burns of DXN or FENIX tokens. This multifaceted incentive system ensures that active participants in the ecosystem are duly rewarded, fostering a thriving and engaged community. For unsupported chains, fees collected are used to support the Xenify team in funding future audits and marketing efforts.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ♦️ Token Burning
 
 - Users can burn DXN or FENIX tokens to acquire XNF, acting as a layer 2 burner of XEN. This process contributes to reducing the circulating supply of these tokens, potentially increasing their value over time to support the XEN ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ♦️ Cross-Chain Swapping
 
 - Xenify's integration with ChainZap enables users to execute seamless cross-chain swaps between various tokens and blockchains. This feature streamlines the process of exchanging assets across different chains, offering users access to the most competitive rates available and delivering a more efficient and user-friendly DeFi experience.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ♦️ Fair Equity Distribution
 
@@ -130,6 +150,8 @@ For example, when a user wants to swap Token A on Chain 1 for Token B on Chain 2
 Xenify is an innovative platform that generates its revenue from swap fees, distributing 100% of the fees as native chain rewards to staked XNF holders on supported chains. For unsupported chains, the fees collected will be used to support the Xenify team in funding future audits, development, and marketing efforts. This revenue model ensures a competitive edge in the market while benefiting its users.
 
 Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting from the best rates and seamless integration with numerous aggregators and chains. This fosters a thriving ecosystem, encouraging user participation and promoting a community-driven environment. The innovative approach taken by Xenify, combined with its unique tokenomics model, ensures that the platform stays ahead of the curve and continues to attract a growing user base, contributing to the overall success of the project.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ## ◽️ Aggregators
 
@@ -154,6 +176,8 @@ The platform integrates with the following aggregators to provide a comprehensiv
 - [Squid Router](https://app.squidrouter.com)
 - [Rubic Finance](https://rubic.finance)
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ## ◽️ Fee Supported Chains
 
 | Type       | Name        | Website                               |
@@ -166,6 +190,8 @@ The platform integrates with the following aggregators to provide a comprehensiv
 | Layer 1    | BNB Chain   | https://www.bnbchain.org              |
 | Layer 1    | OKEx Chain  | https://www.okex.com/okexchain        |
 | Parachain  | Moonbeam    | https://moonbeam.network              |
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ## ◽️ Swap Supported Chains
 
@@ -204,6 +230,8 @@ The platform integrates with the following aggregators to provide a comprehensiv
 
 Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central incentive for users who participate in diverse platform activities, such as token burning and swapping, while interacting with various components of the Xenify ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Token Supply and Distribution
 
 The XNF token serves as a reward for users engaging with the Xenify platform. The token has a total supply of 21 million XNF, and its distribution follows a fair launch model, excluding pre-mines, investor allocations, founder allocation, and team allocations. By participating in various activities on the platform, such as burning DXN or FENIX tokens and swapping tokens on supported chains, users can mint their XNF equity.
@@ -229,6 +257,8 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 
 It is important to note that after the 8th halving, it will take approximately 176.75 years to reach the max cap of 21 million XNF, given the decreasing daily distribution rate. This long timeframe ensures a gradual and fair distribution of XNF tokens to users who contribute to the protocol.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Deployed Chains
 
 XNF will be deployed onto the following chains:
@@ -241,6 +271,8 @@ XNF will be deployed onto the following chains:
 - Fantom
 - OKChain
 - Evmos
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Minting Process and Incentives
 
@@ -265,11 +297,15 @@ The reward pool decreases according to the halving model, leading to the distrib
 
   - Uncover Xenify's unique swap fee distribution mechanism, allocating an astounding 100% of the platform's swap fees to its dedicated stakers. By staking XNF tokens, you'll enjoy a consistent flow of income through native chain rewards. This substantial distribution not only bolsters the token price but also further incentivizes stakers, cultivating a robust token value and fostering long-term commitment.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Costs of Swapping on Xenify
 
 Swapping tokens on the Xenify protocol involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.25% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem.
 
 The entire 0.25% swap fee is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. Additionally, the swap fee grants stakers a position in the daily cycle of XNF rewards. The team may receive referral incentives from aggregators, which help support Xenify's ongoing development, marketing, and outreach efforts. These rewards play a crucial role in raising awareness and adoption of XEN, DXN, FENIX, and XNF tokens, ensuring the platform's continued growth and success.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Costs of Burning DXN and FENIX
 
@@ -312,6 +348,8 @@ $$
 
 The constant 0.00005 is used to factor in the discount on the protocol fee.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Reward Cycle Distribution
 
 The "User Reward/Cycle" formula calculates the rewards percentage that a specific user is entitled to receive for their contribution to a burn cycle. The calculation is performed by multiplying the total cycle reward amount by the number of batches the user has burned in that specific cycle and then dividing it by the total number of batches burned in that cycle by all users. This calculation ensures fair and proportionate distribution of rewards to all participants based on their burn contribution.
@@ -333,21 +371,31 @@ $$
 
 The XNF rewards are calculated based on the gas consumed from burning DXN or FENIX. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Staking XNF tokens
 
 Unclaimed XNF tokens are considered as staked within the protocol. Claimed or unstaked XNF needs to be staked back into the protocol in order to generate the respective rewards. Unclaimed+Staked XNF will generate passive income in the blockchain's native token based on the share from the reward pool entitled to each respective user.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Unstaking XNF tokens
 
 The staked XNF tokens that have reached the cycle in which they are unlocked can be unstaked, returning them to the user's possession.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Claiming Equity (XNF)
 
 Once a cycle ends, the equity associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Claiming Native Token Fees
 
 Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Native Token Fee Distribution
 
@@ -359,13 +407,19 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Amplified Burn Effect
 
 Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Limited Edition Collectible
 
 The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Phoenix Ape NFT Benefits
 
@@ -406,42 +460,60 @@ Xenify prioritizes security to guarantee the safety and reliability of the proto
 Xenify is designed with decentralization and autonomy in mind. The smart contracts do not have admin keys, which means that they cannot be upgraded or controlled by a centralized authority. This structure ensures that the protocol remains truly decentralized and autonomous, with no decision-making power held by any single party. As Xenify evolves, it will continue to prioritize the interests of its users, promoting transparency and trust throughout the protocol.
 
 Xenify aims to create a transparent, equitable, and user-centric DeFi platform by adhering to the following principles. By adhering to these principles, Xenify aims to build a DeFi platform that fosters trust, equity, and community-driven growth in the DeFi space:
-  
+
 ### ◽️ Fair Launch 
   
 - Xenify will have a fair launch, without any pre-mining or pre-allocation of tokens, to ensure a level playing field for all participants.
-  
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ No Sacrifice
 
 - Xenify tokenomics will not require users to sacrifice other tokens or assets, as tokens are earned through active participation and burning of DXN or FENIX.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ No Back Doors
 
 - The smart contracts and platform architecture will be developed without hidden functionalities or back doors to ensure the security and trustworthiness of the platform.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ No Team Allocation
 
 - The founders and team will not receive any token allocation, emphasizing the community-driven nature of the project and preventing potential conflicts of interest.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Starts at Zero Supply
 
 - XNF will start with a zero token supply, and tokens will be minted through user participation in the ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ No Investor Allocation
 
 - There is no token allocation for investors, ensuring a fair distribution of tokens among users who actively participate in the ecosystem.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Proof of Participation
 
 - Users will receive rewards based on their active participation and contribution to the ecosystem, promoting a fair and merit-based reward system.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Users Mint Their Equity
 
 - XNF tokens are not pre-mined or allocated to investors or the team. Instead, users obtain tokens by participating in the ecosystem and burning DXN or FENIX.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ No Initial Coin Offering 
 
 - Xenify will not conduct an ICO, further emphasizing its commitment to a fair and transparent launch for all participants.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Immutable, No Admin Keys
 
@@ -464,50 +536,74 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ### ◽️ XEN
   
   - A decentralized platform from which Xenify has taken inspiration, particularly in terms of its Proof of Burn concept and First Principles methodology.
-  
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ XNF 
 
   - The native reward token of Xenify, distributed to users who participate in the platform's activities, such as staking and engaging with the ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Xenify
 
   - A decentralized finance (DeFi) platform that aims to redefine the DeFi experience by emphasizing fairness, simplicity, transparency, user empowerment, and interoperability.
-  
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Staking 
 
   - The process of locking up tokens in a wallet or platform to support the network's operations, such as validating transactions or securing the network, and receiving rewards in return.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Cross-chain
 
   - The ability to interact with and transfer assets between different blockchain networks, promoting interoperability and a more connected ecosystem.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Direct Burns 
 
   - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as rewards.
-  
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Swap Volume 
   
   - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ Tokenomics
 
   - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Proof of Burn
 
   - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive rewards in return.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ First Principles 
 
   - A methodology that involves breaking down complex problems into their fundamental elements to find innovative solutions.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Smart Contracts 
 
   - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralized, and automated transactions on a blockchain platform.
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### ◽️ Interoperability
 
   - The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### ◽️ DeFi (Decentralized Finance) 
 
@@ -531,6 +627,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
 
 **Links:**
@@ -546,6 +644,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [Proof of Burn](https://faircrypto.org/xencryptolp.pdf)
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
+
 ### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
 
 **Links:**
@@ -560,6 +660,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235284594-feec7832-7511-404b-8c8a-67cc90655aee.png)
 
 ### Fenix (April 13, 2023) - Cross-chain Certificate of Deposit (CD)
 
