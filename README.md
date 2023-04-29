@@ -216,14 +216,14 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 
 | Halving Period  | Halving Duration | Daily Distribution | Total Supply    |
 |:----------------|:-----------------|:-------------------|:----------------|
-| First Halving   |          3 Months|          20,000 XNF|    1,800,000 XNF|
-| Second Halving  |          6 Months|          10,000 XNF|    3,600,000 XNF|
-| Third Halving   |         12 Months|           5,000 XNF|    5,425,000 XNF|
-| Fourth Halving  |         24 Months|           2,500 XNF|    7,425,000 XNF|
-| Fifth Halving   |         48 Months|           1,250 XNF|    9,425,000 XNF|
-| Sixth Halving   |         48 Months|             625 XNF|   10,337,500 XNF|
-| Seventh Halving |         48 Months|           312.5 XNF|   10,793,750 XNF|
-| Eighth Halving  |         48 Months|          156.25 XNF|   11,021,875 XNF|
+| 1st Halving     |          3 Months|          20,000 XNF|    1,800,000 XNF|
+| 2nd Halving     |          6 Months|          10,000 XNF|    3,600,000 XNF|
+| 3rd Halving     |         12 Months|           5,000 XNF|    5,425,000 XNF|
+| 4th Halving     |         24 Months|           2,500 XNF|    7,425,000 XNF|
+| 5th Halving     |         48 Months|           1,250 XNF|    9,425,000 XNF|
+| 6th Halving     |         48 Months|             625 XNF|   10,337,500 XNF|
+| 7th Halving     |         48 Months|           312.5 XNF|   10,793,750 XNF|
+| 8th Halving     |         48 Months|          156.25 XNF|   11,021,875 XNF|
 
 ### ◽️ Deployed Chains
 
