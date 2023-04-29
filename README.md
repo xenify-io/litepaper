@@ -284,17 +284,19 @@ The 20,000 XNF tokens are divided into two categories: 10,000 XNF tokens are all
 
 The reward pool decreases according to the halving model, leading to the distribution of nearly 21 million XNF tokens over time. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or FENIX burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth and fostering a thriving, community-driven environment.
 
-#### ♦️ Burning 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+### ♦️ Burning 
   - Ignite your contribution to Xenify's growth and deflationary tokenomics by participating in the exhilarating process of burning DXN or FENIX tokens. In exchange for your engagement, you'll be rewarded with XNF tokens, amplifying your stake in the thriving Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-#### ♦️ Swapping 
+### ♦️ Swapping 
   - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your potential rewards in XNF tokens while benefiting from aggregated trading volume across multiple aggregators.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-#### ♦️ Staking 
+### ♦️ Staking 
   - Join the Xenify revolution by staking your XNF tokens and become an integral part of the platform's growth. As a staker, you will earn a well-deserved share of protocol fees and swap fees generated within the ecosystem. Experience the exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly worthwhile.
 
   - Explore Xenify's innovative staking model that empowers users to stake XNF tokens and earn a portion of protocol fees originating from direct burns of DXN or FENIX. Delight in the advantage of receiving rewards in the form of native chain rewards, a highly sought-after and liquid asset, ensuring a remarkable return on your investment.
@@ -437,13 +439,13 @@ Beyond the amplified burn effect on Xenify, the Phoenix Ape NFT offers additiona
 
 #### ◽️ Claimable USDC Rewards
 
-  - A portion of the rental income collected as tax will be distributed to all NFT holders as a claimable USDC reward at the end of each 8-hour epoch.
+  - A portion of the rental income collected as tax will be distributed to all NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 #### ◽️ Unique Rental Mechanism
   
-  - Rent out your NFT at a specified USDC price for a set number of days and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
+  - Rent out your NFT at a specified USDC price for a set number of days while it remains on the BNB Chain, and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
