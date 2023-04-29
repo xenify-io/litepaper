@@ -332,21 +332,7 @@ $$
 - **UBN:** The total number of batches a specific user has burned during the cycle.
 - **TBN:** The total number of batches burned by all users during the cycle.
 
-The XNF rewards are calculated based on the gas consumed from burning DXN or FENIX. This represents the computational expense of executing the transaction.
-
-After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
-
-### ◽️ Native Token Fee Distribution
-
-Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or FENIX in the corresponding cycle.
-
-### ◽️ Claiming Rewards (XNF)
-
-Once a cycle ends, the rewards associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
-
-### ◽️ Claiming Native Token Fees
-
-Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
+The XNF rewards are calculated based on the gas consumed from burning DXN or FENIX. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
 
 ### ◽️ Staking XNF tokens
 
@@ -355,6 +341,18 @@ Unclaimed XNF tokens are considered as staked within the protocol. Claimed or un
 ### ◽️ Unstaking XNF tokens
 
 The staked XNF tokens that have reached the cycle in which they are unlocked can be unstaked, returning them to the user's possession.
+
+### ◽️ Claiming Equity (XNF)
+
+Once a cycle ends, the equity associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
+
+### ◽️ Claiming Native Token Fees
+
+Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
+
+### ◽️ Native Token Fee Distribution
+
+Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or FENIX in the corresponding cycle.
 
 ![YSL IO - Line Only](https://user-images.githubusercontent.com/60996729/233761364-4d1b4b89-f76a-4593-9f07-246c57d689d9.png)
 
