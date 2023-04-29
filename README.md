@@ -287,8 +287,12 @@ The reward pool decreases according to the halving model, leading to the distrib
 #### ♦️ Burning 
   - Ignite your contribution to Xenify's growth and deflationary tokenomics by participating in the exhilarating process of burning DXN or FENIX tokens. In exchange for your engagement, you'll be rewarded with XNF tokens, amplifying your stake in the thriving Xenify ecosystem.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 #### ♦️ Swapping 
   - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your potential rewards in XNF tokens while benefiting from aggregated trading volume across multiple aggregators.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 #### ♦️ Staking 
   - Join the Xenify revolution by staking your XNF tokens and become an integral part of the platform's growth. As a staker, you will earn a well-deserved share of protocol fees and swap fees generated within the ecosystem. Experience the exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly worthwhile.
@@ -429,13 +433,19 @@ Beyond the amplified burn effect on Xenify, the Phoenix Ape NFT offers additiona
 
   - Phoenix Ape NFT holders will be eligible for future airdrops, adding more value and incentives to owning this exclusive collectible.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 #### ◽️ Claimable USDC Rewards
 
   - A portion of the rental income collected as tax will be distributed to all NFT holders as a claimable USDC reward at the end of each 8-hour epoch.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 #### ◽️ Unique Rental Mechanism
   
   - Rent out your NFT at a specified USDC price for a set number of days and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 #### ◽️ Bypassing the Sigma Exit Rate
     
