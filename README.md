@@ -202,7 +202,7 @@ The platform integrates with the following aggregators to provide a comprehensiv
 
 # ◽️ Tokenomics
 
-Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model that rewards user engagement within its ecosystem. The XNF token, with a total supply of 21 million, serves as the primary reward for users participating in various platform activities such as burning, swapping, and interacting with the Xenify ecosystem.
+Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, which rewards users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central incentive for users who participate in diverse platform activities such as token burning, swapping, and interacting with various components of the Xenify ecosystem.
 
 ### ◽️ Token Supply and Distribution
 
