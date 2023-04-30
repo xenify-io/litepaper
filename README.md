@@ -25,7 +25,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
-- [Xenify](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify)
+- [Xenify Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-overview)
 - [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
 - [Amplify Burns](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
@@ -141,7 +141,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-# ◽️ Xenify
+# ◽️ Xenify Overview 
 
 Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 20 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
 
