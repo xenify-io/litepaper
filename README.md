@@ -334,7 +334,7 @@ For example, on Ethereum:
 - 1 batch = [Fixed Number] DXN tokens
 - 1 batch = [Fixed Number] FENIX tokens
 
-To execute the burn function on the Xenify Protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or FENIX) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
+To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or FENIX) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
 
 In essence, the Protocol fee calculation determines the fees charged from a user when they perform a burn operation on the Xenify Protocol. The fee is calculated by multiplying the gas spent on the operation by a factor that takes into account the number of batches being burned. This factor is calculated by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
 
