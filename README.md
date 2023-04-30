@@ -61,31 +61,31 @@ Xenify's vision is founded on a set of essential guiding principles that propel 
 
 ## ◽️ Fairness 
   
-  - Fostering an equitable token distribution and ensuring equal access to the protocol for all users, without preferential treatment for founders, team members, or investors.
+  - Creating a level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favoritism towards founders, team members, or investors.
   
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Simplicity
 
-  - Designing an intuitive and user-friendly interface that enables both experienced and novice users to seamlessly navigate and engage with the protocol.
+  - Delivering an effortlessly intuitive experience, Xenify's user-friendly interface welcomes both seasoned veterans and newcomers alike, enabling them to easily navigate and engage with the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Transparency
 
-  - Upholding open-source code and transparent communication channels to cultivate trust and accountability within the community.
+  - Building a strong foundation of trust and accountability within the community, Xenify upholds open-source solidity code and transparent communication channels to foster a collaborative and honest environment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Interoperability
 
-  - Incorporating cross-chain capabilities to facilitate seamless interactions between various chains and expand the reach of the DeFi ecosystem.
+  - Bridging the gap between various chains, Xenify incorporates cross-chain capabilities to enable seamless interactions and expand the reach of the DeFi ecosystem, unlocking limitless possibilities.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ User Empowerment
 
-  - Enabling users to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success.
+  - Putting users in the driver's seat, Xenify allows them to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success, making them an integral part of the journey.
 
 <br>
 
@@ -266,6 +266,14 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 | 8th Halving     |         48 Months|          156.25 XNF|   11,021,875 XNF|
 
 <br>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235352253-cf7aa641-5e79-46d6-bd2e-f991a52bcaed.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235352222-7267adbb-3a4c-44b5-9939-38087cab613b.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235352222-7267adbb-3a4c-44b5-9939-38087cab613b.png" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
 
 It is important to note that after the 8th halving, it will take approximately 176.75 years to reach the max cap of 21 million XNF, given the decreasing daily distribution rate. This long timeframe ensures a gradual and fair distribution of XNF tokens to users who contribute to the protocol.
 
