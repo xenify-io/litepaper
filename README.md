@@ -473,59 +473,61 @@ Xenify is designed with decentralization and autonomy in mind. The smart contrac
 
 Xenify aims to create a transparent, equitable, and user-centric DeFi platform by adhering to the following principles. By adhering to these principles, Xenify aims to build a DeFi platform that fosters trust, equity, and community-driven growth in the DeFi space:
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ### ◽️ Fair Launch 
   
 - Xenify will have a fair launch, without any pre-mining or pre-allocation of tokens, to ensure a level playing field for all participants.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ No Sacrifice
 
 - Xenify tokenomics will not require users to sacrifice other tokens or assets, as tokens are earned through active participation and burning of DXN or FENIX.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ No Back Doors
 
 - The smart contracts and platform architecture will be developed without hidden functionalities or back doors to ensure the security and trustworthiness of the platform.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ No Team Allocation
 
 - The founders and team will not receive any token allocation, emphasizing the community-driven nature of the project and preventing potential conflicts of interest.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Starts at Zero Supply
 
 - XNF will start with a zero token supply, and tokens will be minted through user participation in the ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ No Investor Allocation
 
 - There is no token allocation for investors, ensuring a fair distribution of tokens among users who actively participate in the ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Proof of Participation
 
 - Users will receive rewards based on their active participation and contribution to the ecosystem, promoting a fair and merit-based reward system.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Users Mint Their Equity
 
 - XNF tokens are not pre-mined or allocated to investors or the team. Instead, users obtain tokens by participating in the ecosystem and burning DXN or FENIX.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ No Initial Coin Offering 
 
 - Xenify will not conduct an ICO, further emphasizing its commitment to a fair and transparent launch for all participants.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Immutable, No Admin Keys
 
@@ -549,73 +551,73 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
   
   - A decentralized platform from which Xenify has taken inspiration, particularly in terms of its Proof of Burn concept and First Principles methodology.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ XNF 
 
   - The native reward token of Xenify, distributed to users who participate in the platform's activities, such as staking and engaging with the ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Xenify
 
   - A decentralized finance (DeFi) platform that aims to redefine the DeFi experience by emphasizing fairness, simplicity, transparency, user empowerment, and interoperability.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Staking 
 
   - The process of locking up tokens in a wallet or platform to support the network's operations, such as validating transactions or securing the network, and receiving rewards in return.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Cross-chain
 
   - The ability to interact with and transfer assets between different blockchain networks, promoting interoperability and a more connected ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Direct Burns 
 
   - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as rewards.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Swap Volume 
   
   - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Tokenomics
 
   - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Proof of Burn
 
   - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive rewards in return.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ First Principles 
 
   - A methodology that involves breaking down complex problems into their fundamental elements to find innovative solutions.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Smart Contracts 
 
   - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralized, and automated transactions on a blockchain platform.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Interoperability
 
   - The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ DeFi (Decentralized Finance) 
 
