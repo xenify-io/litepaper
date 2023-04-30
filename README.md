@@ -59,29 +59,31 @@ Xenify's vision is built upon key guiding principles that drive the development 
   
   Fostering an equitable token distribution and ensuring equal access to the protocol for all users, without preferential treatment for founders, team members, or investors.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - ### Simplicity
 
   Designing an intuitive and user-friendly interface that enables both experienced and novice users to seamlessly navigate and engage with the protocol.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - ### Transparency
 
   Upholding open-source code and transparent communication channels to cultivate trust and accountability within the community.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - ### Interoperability
 
   Incorporating cross-chain capabilities to facilitate seamless interactions between various chains and expand the reach of the DeFi ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - ### User Empowerment
 
   Enabling users to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success.
+
+<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
