@@ -58,7 +58,7 @@ Xenify's vision is built upon key guiding principles that drive the development 
 - ### Fairness 
   
   Fostering an equitable token distribution and ensuring equal access to the protocol for all users, without preferential treatment for founders, team members, or investors.
-
+  
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - ### Simplicity
@@ -101,43 +101,43 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 
 # ◽️ Key Features
 
-### ◽️ Xenify Principles
+## ◽️ Xenify Principles
 
 Xenify sets itself apart in the DeFi space by adhering to core principles of fairness, simplicity, transparency, user empowerment, and interoperability. These guiding values lay the foundation for Xenify's development and growth, ensuring unwavering dedication to revolutionizing the DeFi experience and fostering a more inclusive, transparent, and interconnected ecosystem.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Advanced Cross-chain Aggregator Capabilities
+## ◽️ Advanced Cross-chain Aggregator Capabilities
 
 Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users interact with decentralized finance.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Emphasis on Equity and Long-term Investment
+## ◽️ Emphasis on Equity and Long-term Investment
 
 Xenify places great emphasis on equity and long-term investments, enabling users to benefit from the protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to be part of the protocol's success and potentially generate passive income through staking XNF. To accomplish this, Xenify offers an array of robust features for its users:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Staking
+## ♦️ Staking
 
 - Xenify offers a comprehensive rewards mechanism that benefits staked XNF holders. The platform distributes 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, providing compelling incentives for users to hold and stake their tokens. Additionally, staked XNF holders receive native chain rewards generated from direct burns of DXN or FENIX tokens. This multifaceted incentive system ensures that active participants in the ecosystem are duly rewarded, fostering a thriving and engaged community. For unsupported chains, fees collected are used to support the Xenify team in funding future audits and marketing efforts.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Token Burning
+## ♦️ Token Burning
 
 - Users can burn DXN or FENIX tokens to acquire XNF, acting as a layer 2 burner of XEN. This process contributes to reducing the circulating supply of these tokens, potentially increasing their value over time to support the XEN ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Cross-Chain Swapping
+## ♦️ Cross-Chain Swapping
 
 - Xenify's integration with ChainZap enables users to execute seamless cross-chain swaps between various tokens and blockchains. This feature streamlines the process of exchanging assets across different chains, offering users access to the most competitive rates available and delivering a more efficient and user-friendly DeFi experience.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Fair Equity Distribution
+## ♦️ Fair Equity Distribution
 
 - Xenify is dedicated to promoting fairness and transparency in the distribution of equity among its users. The protocol's tokenomics and staking model are designed to reward active participants and long-term holders, providing incentives that encourage users to contribute to the ecosystem's growth. As the protocol expands and attracts more users, the equitable distribution of rewards and XNF helps maintain a strong, engaged community. Xenify's emphasis on equitable distribution fosters trust and collaboration within the ecosystem, promoting a sustainable and inclusive environment for all participants.
 
@@ -232,9 +232,9 @@ The platform integrates with the following aggregators to provide a comprehensiv
 
 Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central incentive for users who participate in diverse platform activities, such as token burning and swapping, while interacting with various components of the Xenify ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ Token Supply and Distribution
+## ◽️ Token Supply and Distribution
 
 The XNF token serves as a reward for users engaging with the Xenify platform. The token has a total supply of 21 million XNF, and its distribution follows a fair launch model, excluding pre-mines, investor allocations, founder allocation, and team allocations. By participating in various activities on the platform, such as burning DXN or FENIX tokens and swapping tokens on supported chains, users can mint their XNF equity.
 
@@ -259,9 +259,9 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 
 It is important to note that after the 8th halving, it will take approximately 176.75 years to reach the max cap of 21 million XNF, given the decreasing daily distribution rate. This long timeframe ensures a gradual and fair distribution of XNF tokens to users who contribute to the protocol.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ XNF Deployed Chains
+## ◽️ XNF Deployed Chains
 
 XNF will be deployed onto the following chains:
 
@@ -274,9 +274,9 @@ XNF will be deployed onto the following chains:
 - OKChain
 - Evmos
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ Minting Process and Incentives
+## ◽️ Minting Process and Incentives
 
 Xenify's minting process is designed to provide equity to users who actively participate in various platform activities, contributing to the growth of the ecosystem. The incentive structure ensures a fair and equitable distribution of XNF tokens, promoting a decentralized and community-driven protocol. Users can engage in activities such as burning and swapping.
 
@@ -305,17 +305,17 @@ The reward pool decreases according to the halving model, leading to the distrib
 
   - Uncover Xenify's unique swap fee distribution mechanism, allocating an astounding 100% of the platform's swap fees to its dedicated stakers. By staking XNF tokens, you'll enjoy a consistent flow of income through native chain rewards. This substantial distribution not only bolsters the token price but also further incentivizes stakers, cultivating a robust token value and fostering long-term commitment.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ Costs of Swapping on Xenify
+## ◽️ Costs of Swapping on Xenify
 
 Swapping tokens on the Xenify protocol involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.25% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem.
 
 The entire 0.25% swap fee is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. Additionally, the swap fee grants stakers a position in the daily cycle of XNF rewards. The team may receive referral incentives from aggregators, which help support Xenify's ongoing development, marketing, and outreach efforts. These rewards play a crucial role in raising awareness and adoption of XEN, DXN, FENIX, and XNF tokens, ensuring the platform's continued growth and success.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ Costs of Burning DXN and FENIX
+## ◽️ Costs of Burning DXN and FENIX
 
 In order to burn DXN, or FENIX on the Xenify platform, users must pay the transaction gas fee and an additional mandatory Protocol fee. The Protocol fee is calculated as follows:
 
@@ -356,9 +356,9 @@ $$
 
 The constant 0.00005 is used to factor in the discount on the protocol fee.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ◽️ Reward Cycle Distribution
+## ◽️ Reward Cycle Distribution
 
 The "User Reward/Cycle" formula calculates the rewards percentage that a specific user is entitled to receive for their contribution to a burn cycle. The calculation is performed by multiplying the total cycle reward amount by the number of batches the user has burned in that specific cycle and then dividing it by the total number of batches burned in that cycle by all users. This calculation ensures fair and proportionate distribution of rewards to all participants based on their burn contribution.
 
@@ -381,31 +381,31 @@ The XNF rewards are calculated based on the gas consumed from burning DXN or FEN
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Staking XNF tokens
+## ◽️ Staking XNF tokens
 
 Unclaimed XNF tokens are considered as staked within the protocol. Claimed or unstaked XNF needs to be staked back into the protocol in order to generate the respective rewards. Unclaimed+Staked XNF will generate passive income in the blockchain's native token based on the share from the reward pool entitled to each respective user.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Unstaking XNF tokens
+## ◽️ Unstaking XNF tokens
 
 The staked XNF tokens that have reached the cycle in which they are unlocked can be unstaked, returning them to the user's possession.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Claiming Equity (XNF)
+## ◽️ Claiming Equity (XNF)
 
 Once a cycle ends, the equity associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Claiming Native Token Fees
+## ◽️ Claiming Native Token Fees
 
 Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
-### ◽️ Native Token Fee Distribution
+## ◽️ Native Token Fee Distribution
 
 Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or FENIX in the corresponding cycle.
 
