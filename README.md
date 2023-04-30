@@ -240,19 +240,29 @@ The platform integrates with the following aggregators to provide a comprehensiv
 
 # ◽️ Tokenomics
 
-Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central incentive for users who participate in diverse platform activities, such as token burning and swapping, while interacting with various components of the Xenify ecosystem.
+Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central reward for users participating in diverse platform activities, such as token burning and swapping, while interacting with the various components of the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Token Supply and Distribution
+## ◽️ Token Supply
 
-The XNF token serves as a reward for users engaging with the Xenify platform. The token has a total supply of 21 million XNF, and its distribution follows a fair launch model, excluding pre-mines, investor allocations, founder allocation, and team allocations. By participating in various activities on the platform, such as burning DXN or FENIX tokens and swapping tokens on supported chains, users can mint their XNF equity.
+The XNF token fuels user engagement with the Xenify platform. With a total supply of 21 million XNF, its distribution follows a fair launch model, eliminating pre-mines, investor allocations, founder allocation, and team allocations. Users can mint their XNF equity by participating in a variety of activities on the platform, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
 
-The distribution employs a halving model, which applies to both direct burns and swap volume distributions. Starting from the 8th halving, the daily distribution rate will maintain a minimum of 156.25 tokens/day. This approach divides the total daily reward pool equally between direct burns and swap volume, ensuring that users are rewarded for both burning tokens and actively participating in the Xenify ecosystem. Adhering to the halving schedule allows for a fair distribution of rewards based on users' contributions to the platform.
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235362101-15fb26b4-19e4-479a-b40b-ab0cb109e102.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235362049-0c573deb-307c-4921-a301-d83a72a806e2.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235362049-0c573deb-307c-4921-a301-d83a72a806e2.png" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
 
-To achieve this, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. The distribution differs from the DXN model, which has a 0.2% decrease per cycle, and instead follows the halving model outlined below:
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-<br>
+## ◽️ Supply Distribution
+
+Xenify's distribution employs an exciting halving model, applying to both direct burns and swap volume distributions. From the 8th halving onwards, the daily distribution rate will maintain a minimum of 156.25 tokens/day. This approach equally divides the total daily reward pool between direct burns and swap volume, ensuring users are handsomely rewarded for both burning tokens and actively participating in the Xenify ecosystem. The halving schedule guarantees a fair distribution of rewards based on users' contributions to the platform.
+
+To achieve this thrilling distribution, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. This distribution deviates from the DXN model, which has a 0.2% decrease per cycle, and instead follows the captivating halving model outlined below:
 
 | Halving Period  | Halving Duration | Daily Distribution | Total Supply    |
 |:----------------|:-----------------|:-------------------|:----------------|
@@ -264,18 +274,6 @@ To achieve this, the 21 million XNF total supply is split into two equal parts: 
 | 6th Halving     |         48 Months|             625 XNF|   10,337,500 XNF|
 | 7th Halving     |         48 Months|           312.5 XNF|   10,793,750 XNF|
 | 8th Halving     |         48 Months|          156.25 XNF|   11,021,875 XNF|
-
-<br>
-
-<p align="center" dir="auto">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235352253-cf7aa641-5e79-46d6-bd2e-f991a52bcaed.png" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235352222-7267adbb-3a4c-44b5-9939-38087cab613b.png" class="source-dark">
-    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235352222-7267adbb-3a4c-44b5-9939-38087cab613b.png" style="visibility:visible;max-width:100%;">
-  </picture>
-</p>
-
-It is important to note that after the 8th halving, it will take approximately 176.75 years to reach the max cap of 21 million XNF, given the decreasing daily distribution rate. This long timeframe ensures a gradual and fair distribution of XNF tokens to users who contribute to the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -485,71 +483,71 @@ The platform provides a seamless experience for claiming rewards, staking, and u
 
 # ◽️ Security
 
-Xenify prioritizes security to guarantee the safety and reliability of the protocol. The token contract, a fork from DBXen with minor modifications, has been audited by [Certik](https://twitter.com/CertiK), a renowned blockchain security firm. In addition to this audit, Xenify aims to enhance the protocol's security by scheduling a re-audit of the contracts by [Peckshield](https://twitter.com/peckshield), another prestigious security company in the industry.
+Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by [Certik](https://twitter.com/CertiK) a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by [Peckshield](https://twitter.com/peckshield) another highly-regarded security company in the industry.
 
-Xenify is designed with decentralization and autonomy in mind. The smart contracts do not have admin keys, which means that they cannot be upgraded or controlled by a centralized authority. This structure ensures that the protocol remains truly decentralized and autonomous, with no decision-making power held by any single party. As Xenify evolves, it will continue to prioritize the interests of its users, promoting transparency and trust throughout the protocol.
+Xenify is thoughtfully designed with decentralization and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralized authority. This structure solidifies the protocol's truly decentralized and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritize users' interests, fostering transparency and trust throughout the protocol.
 
-Xenify aims to create a transparent, equitable, and user-centric DeFi platform by adhering to the following principles. By adhering to these principles, Xenify aims to build a DeFi platform that fosters trust, equity, and community-driven growth in the DeFi space:
+Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by adhering to the following exhilarating principles. By committing to these principles, Xenify aspires to create a DeFi platform that cultivates trust, fairness, and community-driven growth in the DeFi space:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Fair Launch 
   
-- Xenify will have a fair launch, without any pre-mining or pre-allocation of tokens, to ensure a level playing field for all participants.
+- Xenify's launch will be unbiased, with no pre-mining or pre-allocation of tokens, guaranteeing an even playing field for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ No Sacrifice
 
-- Xenify tokenomics will not require users to sacrifice other tokens or assets, as tokens are earned through active participation and burning of DXN or FENIX.
+- Xenify's tokenomics eliminates the need for users to relinquish other tokens or assets, as tokens are earned through active participation and burning of DXN or FENIX.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ No Back Doors
 
-- The smart contracts and platform architecture will be developed without hidden functionalities or back doors to ensure the security and trustworthiness of the platform.
+- The smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the protocol's security and trustworthiness.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ No Team Allocation
 
-- The founders and team will not receive any token allocation, emphasizing the community-driven nature of the project and preventing potential conflicts of interest.
+- Founders and team members will not receive any token allocation, highlighting the project's community-driven essence and preventing potential conflicts of interest.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Starts at Zero Supply
 
-- XNF will start with a zero token supply, and tokens will be minted through user participation in the ecosystem.
+- XNF will commence with a zero token supply, with tokens minted exclusively through user participation in the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ No Investor Allocation
 
-- There is no token allocation for investors, ensuring a fair distribution of tokens among users who actively participate in the ecosystem.
+- Token allocation for investors is non-existent, safeguarding a fair distribution of tokens among users who actively contribute to the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Proof of Participation
 
-- Users will receive rewards based on their active participation and contribution to the ecosystem, promoting a fair and merit-based reward system.
+- Users will reap rewards based on their active engagement and contribution to the ecosystem, endorsing a fair and merit-based reward system.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Users Mint Their Equity
 
-- XNF tokens are not pre-mined or allocated to investors or the team. Instead, users obtain tokens by participating in the ecosystem and burning DXN or FENIX.
+- XNF tokens will not be pre-mined or designated for investors or the team. Instead, users can acquire tokens by actively participating in the ecosystem, burning DXN or FENIX, and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ No Initial Coin Offering 
 
-- Xenify will not conduct an ICO, further emphasizing its commitment to a fair and transparent launch for all participants.
+- Xenify will abstain from conducting an ICO, further underlining its unwavering commitment to a fair and transparent launch for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Immutable, No Admin Keys
 
-- Xenify smart contracts will be designed without admin keys or centralized control, ensuring the platform's immutability and decentralized nature.
+- Xenify's smart contracts will be meticulously designed without admin keys or centralized control, securing the protocol's immutability and decentralized essence.
 
 <br>
 
