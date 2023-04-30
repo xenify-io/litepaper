@@ -427,33 +427,35 @@ Holders of the Phoenix Ape NFT will have their burns amplified during the burn p
 
 The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-### ◽️ Phoenix Ape NFT Benefits
+# ◽️ NFT Benefits
 
-Beyond the amplified burn effect on Xenify, the Phoenix Ape NFT offers additional perks, including:
-
-#### ◽️ Future Airdrops
-
-  - Phoenix Ape NFT holders will be eligible for future airdrops, adding more value and incentives to owning this exclusive collectible.
+The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT enhances the user experience and brings added value to the Xenify ecosystem:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-#### ◽️ Claimable USDC Rewards
+### ◽️ Future Airdrops
+
+  - Phoenix Ape NFT holders will be eligible for future airdrops of new projects within the YSL.IO ecosystem, adding more value and incentives to owning this exclusive collectible.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+### ◽️ Claimable USDC Rewards
 
   - A portion of the rental income collected as tax will be distributed to all NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-#### ◽️ Unique Rental Mechanism
+### ◽️ Unique Rental Mechanism
   
   - Rent out your NFT at a specified USDC price for a set number of days while it remains on the BNB Chain, and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-#### ◽️ Bypassing the Sigma Exit Rate
+### ◽️ Bypassing the Sigma Exit Rate
     
-  - Holders can sell up to 100% of their bYSL, xYSL, or USDy balance without restrictions.
+  - Enjoy the freedom to sell up to 100% of your bYSL, xYSL, or USDy balance without restrictions, bypassing the Sigma Exit Rate.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
