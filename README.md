@@ -53,35 +53,35 @@ By integrating ChainZap's state-of-the-art liquidity aggregation with its unique
 
 # ◽️ Our Vision
 
-Xenify's vision is built upon key guiding principles that drive the development and expansion of the protocol.
+Xenify's vision is founded on a set of essential guiding principles that propel the growth and advancement of the protocol. These core values shape the strategic direction, user experience, and long-term objectives of the platform, ensuring that it remains steadfast in its mission to revolutionize the DeFi landscape.
 
-- ### Fairness 
+## ◽️ Fairness 
   
-  Fostering an equitable token distribution and ensuring equal access to the protocol for all users, without preferential treatment for founders, team members, or investors.
+  - Fostering an equitable token distribution and ensuring equal access to the protocol for all users, without preferential treatment for founders, team members, or investors.
   
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-- ### Simplicity
+## ◽️ Simplicity
 
-  Designing an intuitive and user-friendly interface that enables both experienced and novice users to seamlessly navigate and engage with the protocol.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-- ### Transparency
-
-  Upholding open-source code and transparent communication channels to cultivate trust and accountability within the community.
+  - Designing an intuitive and user-friendly interface that enables both experienced and novice users to seamlessly navigate and engage with the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-- ### Interoperability
+## ◽️ Transparency
 
-  Incorporating cross-chain capabilities to facilitate seamless interactions between various chains and expand the reach of the DeFi ecosystem.
+  - Upholding open-source code and transparent communication channels to cultivate trust and accountability within the community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-- ### User Empowerment
+## ◽️ Interoperability
 
-  Enabling users to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success.
+  - Incorporating cross-chain capabilities to facilitate seamless interactions between various chains and expand the reach of the DeFi ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ User Empowerment
+
+  - Enabling users to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success.
 
 <br>
 
