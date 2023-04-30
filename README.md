@@ -115,25 +115,25 @@ Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify sta
 
 Xenify places great emphasis on equity and long-term investments, enabling users to benefit from the protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to be part of the protocol's success and potentially generate passive income through staking XNF. To accomplish this, Xenify offers an array of robust features for its users:
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Staking
 
 - Xenify offers a comprehensive rewards mechanism that benefits staked XNF holders. The platform distributes 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, providing compelling incentives for users to hold and stake their tokens. Additionally, staked XNF holders receive native chain rewards generated from direct burns of DXN or FENIX tokens. This multifaceted incentive system ensures that active participants in the ecosystem are duly rewarded, fostering a thriving and engaged community. For unsupported chains, fees collected are used to support the Xenify team in funding future audits and marketing efforts.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Token Burning
 
 - Users can burn DXN or FENIX tokens to acquire XNF, acting as a layer 2 burner of XEN. This process contributes to reducing the circulating supply of these tokens, potentially increasing their value over time to support the XEN ecosystem.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Cross-Chain Swapping
 
 - Xenify's integration with ChainZap enables users to execute seamless cross-chain swaps between various tokens and blockchains. This feature streamlines the process of exchanging assets across different chains, offering users access to the most competitive rates available and delivering a more efficient and user-friendly DeFi experience.
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Fair Equity Distribution
 
