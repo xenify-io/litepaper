@@ -455,7 +455,7 @@ The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers
 
 ### ◽️ Bypassing the Sigma Exit Rate
     
-  - Enjoy the freedom to sell up to 100% of your bYSL, xYSL, or USDy balance without restrictions, bypassing the Sigma Exit Rate.
+  - As a Phoenix Ape NFT holder, you can benefit from the ability to sell up to 100% of any bYSL, xYSL, or USDy tokens you may possess, without being subject to the Sigma Exit Rate. This exclusive perk offers greater flexibility and control over your YSL.IO native token holdings.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
