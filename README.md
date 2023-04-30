@@ -294,7 +294,7 @@ The reward pool decreases according to the halving model, leading to the distrib
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Swapping 
-  - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your potential rewards in XNF tokens while benefiting from aggregated trading volume across multiple aggregators.
+  - Experience the power of Xenify, a groundbreaking cross-chain aggregator of aggregators, and seamlessly exchange tokens on the platform. As you swap, you actively contribute to the platform's expansion, increasing your equity in the protocol through daily XNF token distributions while benefiting from aggregated routes across multiple aggregators.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
