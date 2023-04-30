@@ -413,31 +413,25 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 # ◽️ Amplify Burns
 
-Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. This limited edition NFT not only represents an innovative and unique digital asset, but it also provides additional benefits and functionalities to its holders.
-
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
-
-### ◽️ Amplified Burn Effect
-
-Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
-
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
-
-### ◽️ Limited Edition Collectible
-
-The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-# ◽️ NFT Benefits
-
-The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT enhances the user experience and brings added value to the Xenify ecosystem:
+Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT enhances the user experience and brings added value to the Xenify ecosystem:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Future Airdrops
 
   - Phoenix Ape NFT holders will be eligible for future airdrops of new projects within the YSL.IO ecosystem, adding more value and incentives to owning this exclusive collectible.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+### ◽️ Limited Collectible
+
+  - The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+### ◽️ Amplified Burn Effect
+
+  - Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
