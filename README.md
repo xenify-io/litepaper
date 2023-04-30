@@ -443,13 +443,13 @@ The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers
 
 ### ◽️ Claimable USDC Rewards
 
-  - A portion of the rental income collected as tax will be distributed to all NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch.
+  - A portion of the rental income collected as tax, combined with a share of the royalty taxes taken on OpenSea, will be distributed to all NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch. However, it is important to note that if the NFT is bridged to another chain to amplify the burns, the holder will not be part of the USDC distribution. The claimable USDC rewards are exclusively for addresses holding the NFT on the BNB Chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ◽️ Unique Rental Mechanism
   
-  - Rent out your NFT at a specified USDC price for a set number of days while it remains on the BNB Chain, and contribute to the stability of the USDy token through the creation of LP tokens for the USDy Incentive Buyback (UIB) mechanism.
+  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your NFT, you contribute to the generation of LP tokens that are utilized in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding an NFT.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
