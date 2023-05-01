@@ -552,7 +552,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ Users Mint Their Equity
 
-- XNF tokens will not be pre-mined or designated for investors or the team. Instead, users can acquire tokens by actively participating in the ecosystem, burning DXN or FENIX, and swapping tokens on supported chains.
+- XNF tokens won't be pre-mined or allocated to investors or team members. Instead, users can obtain tokens by actively engaging with the protocol, burning DXN or FENIX tokens, and swapping tokens across supported chains. This approach rewards users for their contributions and ensures a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
