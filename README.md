@@ -27,6 +27,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
 - [Xenify Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-overview)
 - [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
+- [Liquidity Provisioning](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-liquidity-provisioning)
 - [Amplify Burns](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-security)
@@ -421,6 +422,25 @@ Similar to claiming rewards, a user wishing to claim their accumulated fees will
 ## ◽️ Native Token Fee Distribution
 
 Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or FENIX in the corresponding cycle.
+
+<br>
+
+![YSL IO - Line Only](https://user-images.githubusercontent.com/60996729/233761364-4d1b4b89-f76a-4593-9f07-246c57d689d9.png)
+
+
+# ◽️ Liquidity Provisioning
+
+To ensure a smooth and successful start for Xenify, a special liquidity provisioning event will take place during the launch. The distribution of XNF tokens will be adjusted to meet the platform's liquidity needs and support its users across all chains. This well-planned launch guarantees sufficient liquidity is created on each chain, providing a strong foundation for the ecosystem. 
+
+The initial price of XNF tokens will be based on the amount of native tokens received against the 10,000 XNF. For example, if $10,000 worth of ETH is collected, the starting price will be set at $1.00. 
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Day 1: Burn and Liquidity Allocation
+  - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralized token sale. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
+
+## ◽️ Day 2: Return to Normal Distribution
+  - Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and FENIX tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
 
 <br>
 
