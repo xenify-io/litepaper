@@ -584,19 +584,19 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ XEN
   
-  - A decentralized platform from which Xenify has taken inspiration, particularly in terms of its Proof of Burn concept and First Principles methodology.
+  - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Partispation concept and First Principles methodology to build a groundbreaking decentralized protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF 
 
-  - The native reward token of Xenify, distributed to users who participate in the platform's activities, such as staking and engaging with the ecosystem.
+  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralized finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Xenify
 
-  - A decentralized finance (DeFi) platform that aims to redefine the DeFi experience by emphasizing fairness, simplicity, transparency, user empowerment, and interoperability.
+  - Xenify is a decentralized finance (DeFi) protocol designed to revolutionize the DeFi experience by offering a state-of-the-art cross-chain aggregator that simplifies the token swapping process across multiple chains. By tapping into the best routes and lowest fees from various aggregators, Xenify empowers users to seamlessly swap tokens between supported chains without the hassle of navigating through multiple protocols. The platform emphasizes fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-centric DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
