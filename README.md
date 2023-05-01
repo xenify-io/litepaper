@@ -614,7 +614,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ Direct Burns 
 
-  - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as rewards.
+  - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as equity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -632,7 +632,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ Proof of Burn
 
-  - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive rewards in return.
+  - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive equity in return.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
