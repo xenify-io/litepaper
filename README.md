@@ -264,16 +264,13 @@ Xenify's distribution employs an exciting halving model, applying to both direct
 
 To achieve this thrilling distribution, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. This distribution deviates from the DXN model, which has a 0.2% decrease per cycle, and instead follows the captivating halving model outlined below:
 
-| Halving Period  | Halving Duration | Daily Distribution | Total Supply    |
-|:----------------|:-----------------|:-------------------|:----------------|
-| 1st Halving     |          3 Months|          20,000 XNF|    1,800,000 XNF|
-| 2nd Halving     |          6 Months|          10,000 XNF|    3,600,000 XNF|
-| 3rd Halving     |         12 Months|           5,000 XNF|    5,425,000 XNF|
-| 4th Halving     |         24 Months|           2,500 XNF|    7,425,000 XNF|
-| 5th Halving     |         48 Months|           1,250 XNF|    9,425,000 XNF|
-| 6th Halving     |         48 Months|             625 XNF|   10,337,500 XNF|
-| 7th Halving     |         48 Months|           312.5 XNF|   10,793,750 XNF|
-| 8th Halving     |         48 Months|          156.25 XNF|   11,021,875 XNF|
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235386811-60111c45-f189-4a0b-a179-98490f26f37b.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235386806-21cd0636-0802-4cd7-9bf3-16de5b4e3007.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235386806-21cd0636-0802-4cd7-9bf3-16de5b4e3007.png" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
