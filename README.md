@@ -692,8 +692,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 **Influential Concepts:**
 
-- [Proof of Burn](https://faircrypto.org/xencryptolp.pdf)
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
+- [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
