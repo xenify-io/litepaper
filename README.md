@@ -529,7 +529,7 @@ The platform provides a seamless experience for claiming rewards, staking, and u
 
 <br>
 
-Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by [Certik](https://twitter.com/CertiK) a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by [Peckshield](https://twitter.com/peckshield) another highly-regarded security company in the industry.
+Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by Certik a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by Peckshield another highly-regarded security company in the industry.
 
 Xenify is thoughtfully designed with decentralization and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralized authority. This structure solidifies the protocol's truly decentralized and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritize users' interests, fostering transparency and trust throughout the protocol.
 
