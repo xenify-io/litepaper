@@ -102,7 +102,7 @@ Xenify is driven by a powerful vision that seeks to revolutionize the DeFi lands
 
 <br>
 
-Xenify's mission is to revolutionise the DeFi landscape by addressing the challenges and limitations that hinder the widespread adoption of decentralized finance. Our primary focus lies in facilitating cross-chain aggregation and delivering a seamless, exceptional user experience.
+Xenify's mission is to revolutionise the DeFi landscape by addressing the challenges and limitations that hinder the widespread adoption of decentralised finance. Our primary focus lies in facilitating cross-chain aggregation and delivering a seamless, exceptional user experience.
 
 As the leading cross-chain swap aggregator, we are dedicated to providing a frictionless, secure, and equitable platform for token swapping and staking across multiple blockchain networks. We pledge to continuously refine and optimise Xenify's features, adapting to the ever-evolving needs of the DeFi community while attracting a diverse and growing user base.
 
@@ -118,7 +118,7 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 
 <br>
 
-Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionising the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralized finance ecosystem.
+Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionising the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralised finance ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -130,7 +130,7 @@ Xenify sets itself apart in the DeFi space by adhering to core principles of fai
 
 ## ◽️ Advanced Cross-chain Aggregator Capabilities
 
-Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users interact with decentralized finance.
+Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users interact with decentralised finance.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -312,9 +312,9 @@ XNF will be deployed onto the following chains:
 
 ## ◽️ Minting Process and Incentives
 
-Xenify's minting process is designed to provide equity to users who actively participate in various platform activities, contributing to the growth of the ecosystem. The incentive structure ensures a fair and equitable distribution of XNF tokens, promoting a decentralized and community-driven protocol. Users can engage in activities such as burning and swapping.
+Xenify's minting process is designed to provide equity to users who actively participate in various platform activities, contributing to the growth of the ecosystem. The incentive structure ensures a fair and equitable distribution of XNF tokens, promoting a decentralised and community-driven protocol. Users can engage in activities such as burning and swapping.
 
-The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralized ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 20,000 XNF tokens.
+The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralised ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 20,000 XNF tokens.
 
 The 20,000 XNF tokens are divided into two categories: 10,000 XNF tokens are allocated specifically to those who burn DXN or FENIX tokens, while the other 10,000 XNF tokens are reserved for users contributing to swap volume on the platform. This distribution ensures that users participating in the burning of different tokens and generating swap volume are rewarded accordingly. By providing incentives for users to engage with the platform, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
 
@@ -458,7 +458,7 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
-  - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralized token sale. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
+  - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralised token sale. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
 
 ## ◽️ Day 2: Return to Normal Distribution
   - Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and FENIX tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
@@ -519,7 +519,7 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
 
 Xenify places a strong emphasis on user experience, striving to create an intuitive and user-friendly platform. The onboarding process is streamlined, with clear instructions and guidance to help users navigate the platform with ease. Users can interact with the platform through various functions, such as swapping tokens across multiple blockchains, staking, and claiming rewards.
 
-Unlike traditional decentralized exchanges, Xenify does not require users to provide liquidity. Instead, it operates as a cross-chain aggregator, utilizing APIs to source the best exchange rates and lowest fees from multiple decentralized exchanges. This approach simplifies the user experience and allows for seamless transactions across different blockchain networks.
+Unlike traditional decentralised exchanges, Xenify does not require users to provide liquidity. Instead, it operates as a cross-chain aggregator, utilizing APIs to source the best exchange rates and lowest fees from multiple decentralised exchanges. This approach simplifies the user experience and allows for seamless transactions across different blockchain networks.
 
 The platform provides a seamless experience for claiming rewards, staking, and unstaking tokens. Users can easily monitor their staked assets and accrued rewards, and claim or unstake their tokens with just a few clicks. This user-centric approach ensures that Xenify remains accessible to both novice and experienced users alike.
 
@@ -533,7 +533,7 @@ The platform provides a seamless experience for claiming rewards, staking, and u
 
 Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by Certik a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by Peckshield another highly-regarded security company in the industry.
 
-Xenify is thoughtfully designed with decentralization and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralized authority. This structure solidifies the protocol's truly decentralized and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritize users' interests, fostering transparency and trust throughout the protocol.
+Xenify is thoughtfully designed with decentralization and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralized authority. This structure solidifies the protocol's truly decentralised and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritize users' interests, fostering transparency and trust throughout the protocol.
 
 Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by adhering to the following exhilarating principles. By committing to these principles, Xenify aspires to create a DeFi platform that cultivates trust, fairness, and community-driven growth in the DeFi space:
 
@@ -595,7 +595,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ Immutable, No Admin Keys
 
-- Xenify's smart contracts will be meticulously designed without admin keys or centralized control, securing the protocol's immutability and decentralized essence.
+- Xenify's smart contracts will be meticulously designed without admin keys or centralized control, securing the protocol's immutability and decentralised essence.
 
 <br>
 
@@ -605,11 +605,11 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 <br>
 
-Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralized and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in ETH from protocol fees and a share of swap fees generated on the platform. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
+Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralised and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in ETH from protocol fees and a share of swap fees generated on the platform. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
 
-With a strong emphasis on security and dedication to fair token distribution, Xenify ensures that users can rely on the platform to safeguard their interests. Its adaptive minting process and incentive structure motivate users to contribute to the ecosystem, fostering platform growth and value. As Xenify progresses and broadens its offerings, it is well-positioned to become a prominent player in the decentralized exchange arena.
+With a strong emphasis on security and dedication to fair token distribution, Xenify ensures that users can rely on the platform to safeguard their interests. Its adaptive minting process and incentive structure motivate users to contribute to the ecosystem, fostering platform growth and value. As Xenify progresses and broadens its offerings, it is well-positioned to become a prominent player in the decentralised exchange arena.
 
-By nurturing a vibrant, community-driven environment and maintaining commitments to security, transparency, and fairness, Xenify is poised to make a lasting impact on the crypto landscape. Users who share the core values of decentralized finance and desire to contribute to an innovative and sustainable protocol should consider engaging with Xenify and joining its expanding community.
+By nurturing a vibrant, community-driven environment and maintaining commitments to security, transparency, and fairness, Xenify is poised to make a lasting impact on the crypto landscape. Users who share the core values of decentralised finance and desire to contribute to an innovative and sustainable protocol should consider engaging with Xenify and joining its expanding community.
 
 <br>
 
@@ -621,19 +621,19 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ XEN
   
-  - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Partispation concept and First Principles methodology to build a groundbreaking decentralized protocol.
+  - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Partispation concept and First Principles methodology to build a groundbreaking decentralised protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF 
 
-  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralized finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
+  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Xenify
 
-  - Xenify is a decentralized finance (DeFi) protocol designed to revolutionize the DeFi experience by offering a state-of-the-art cross-chain aggregator that simplifies the token swapping process across multiple chains. By tapping into the best routes and lowest fees from various aggregators, Xenify empowers users to seamlessly swap tokens between supported chains without the hassle of navigating through multiple protocols. The platform emphasizes fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-centric DeFi ecosystem.
+  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionize the DeFi experience by offering a state-of-the-art cross-chain aggregator that simplifies the token swapping process across multiple chains. By tapping into the best routes and lowest fees from various aggregators, Xenify empowers users to seamlessly swap tokens between supported chains without the hassle of navigating through multiple protocols. The platform emphasizes fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-centric DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -681,7 +681,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ Smart Contracts 
 
-  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralized, and automated transactions on a blockchain platform.
+  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralised, and automated transactions on a blockchain platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -691,7 +691,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ DeFi (Decentralized Finance) 
+## ◽️ DeFi (Decentralised Finance) 
 
   - A financial system built on blockchain technology that aims to provide a more open, transparent, and accessible alternative to traditional financial services.
 
