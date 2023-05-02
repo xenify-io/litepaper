@@ -621,6 +621,10 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 <br>
 
+Introducing the Xenify Glossary, a comprehensive resource that outlines key terms and concepts essential to understanding the Xenify ecosystem and the broader world of decentralized finance. With a focus on clarity and simplicity, this glossary aims to empower users by bridging the gap between complex crypto jargon and everyday language. Explore the glossary to deepen your knowledge of Xenify, DeFi, and the innovative technologies that bring our platform to life.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ XEN
   
   - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Partispation concept and First Principles methodology to build a groundbreaking decentralised protocol.
