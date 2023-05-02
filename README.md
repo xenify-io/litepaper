@@ -39,9 +39,11 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Introduction
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
 Xenify is a pioneering project that merges DBXen's trailblazing tokenomics with ChainZap's potent functionality, striving to redefine the DeFi landscape. With a total supply of 21,000,000 XNF tokens, Xenify allows users to acquire XNF by burning DXN or FENIX tokens, acting as a layer 2 burner of XEN. The primary goal of Xenify is to establish a seamless, efficient cross-chain swapping protocol that rewards users through native chain rewards and its capped supply token.
 
 At the heart of Xenify's vision lies ChainZap, an advanced liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 18 different aggregators across leading chains like Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Harnessing the power of advanced APIs, Xenify ensures smooth communication with various liquidity aggregators, significantly enhancing the user swapping experience and streamlining the process of identifying the best swap routes across multiple chains.
@@ -105,9 +107,9 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Key Features
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
 ## ◽️ Xenify Principles
 
 Xenify sets itself apart in the DeFi space by adhering to core principles of fairness, simplicity, transparency, user empowerment, and interoperability. These guiding values lay the foundation for Xenify's development and growth, ensuring unwavering dedication to revolutionizing the DeFi experience and fostering a more inclusive, transparent, and interconnected ecosystem.
