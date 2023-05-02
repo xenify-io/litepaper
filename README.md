@@ -458,7 +458,7 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
-  - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralised token sale. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
+  - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralised token sale. The native chain rewards generated on Day 1 will be utilised for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -503,7 +503,7 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
 
 ## ◽️ Unique Rental Mechanism
   
-  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your NFT, you contribute to the generation of LP tokens that are utilized in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding an NFT.
+  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your NFT, you contribute to the generation of LP tokens that are utilised in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding an NFT.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -521,7 +521,7 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
 
 Xenify places a strong emphasis on user experience, striving to create an intuitive and user-friendly platform. The onboarding process is streamlined, with clear instructions and guidance to help users navigate the platform with ease. Users can interact with the platform through various functions, such as swapping tokens across multiple blockchains, staking, and claiming rewards.
 
-Unlike traditional decentralised exchanges, Xenify does not require users to provide liquidity. Instead, it operates as a cross-chain aggregator, utilizing APIs to source the best exchange rates and lowest fees from multiple decentralised exchanges. This approach simplifies the user experience and allows for seamless transactions across different blockchain networks.
+Unlike traditional decentralised exchanges, Xenify does not require users to provide liquidity. Instead, it operates as a cross-chain aggregator, utilising APIs to source the best exchange rates and lowest fees from multiple decentralised exchanges. This approach simplifies the user experience and allows for seamless transactions across different blockchain networks.
 
 The platform provides a seamless experience for claiming rewards, staking, and unstaking tokens. Users can easily monitor their staked assets and accrued rewards, and claim or unstake their tokens with just a few clicks. This user-centric approach ensures that Xenify remains accessible to both novice and experienced users alike.
 
@@ -533,11 +533,11 @@ The platform provides a seamless experience for claiming rewards, staking, and u
 
 <br>
 
-Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by Certik a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by Peckshield another highly-regarded security company in the industry.
+Xenify prioritises security to guarantee the safety and reliability of the protocol. The contracts from DBXen have been rigorously audited by Certik, a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by Peckshield, another highly-regarded security company in the industry.
 
-Xenify is thoughtfully designed with decentralization and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralized authority. This structure solidifies the protocol's truly decentralised and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritize users' interests, fostering transparency and trust throughout the protocol.
+Xenify is thoughtfully designed with decentralisation and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralised authority. This structure solidifies the protocol's truly decentralised and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritise users' interests, fostering transparency and trust throughout the protocol.
 
-Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by adhering to the following exhilarating principles. By committing to these principles, Xenify aspires to create a DeFi platform that cultivates trust, fairness, and community-driven growth in the DeFi space:
+Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by adhering to the following exhilarating principles. By committing to these principles, Xenify aspires to create a DeFi platform that cultivates trust, fairness, and community-driven growth in the DeFi space.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
