@@ -67,7 +67,7 @@ Xenify's vision is founded on a set of essential guiding principles that propel 
 ## ◽️ Fairness 
   
   - Creating a level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favoritism towards founders, team members, or investors.
-  
+
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Simplicity
