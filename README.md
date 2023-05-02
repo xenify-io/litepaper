@@ -68,7 +68,7 @@ Xenify is driven by a powerful vision that seeks to revolutionize the DeFi lands
 
 ## ◽️ Fairness 
   
-  - Creating a level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favoritism towards founders, team members, or investors.
+  - Creating a level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favouritism towards founders, team members, or investors.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -102,13 +102,13 @@ Xenify is driven by a powerful vision that seeks to revolutionize the DeFi lands
 
 <br>
 
-Xenify's mission is to revolutionize the DeFi landscape by addressing the challenges and limitations that hinder the widespread adoption of decentralized finance. Our primary focus lies in facilitating cross-chain aggregation and delivering a seamless, exceptional user experience.
+Xenify's mission is to revolutionise the DeFi landscape by addressing the challenges and limitations that hinder the widespread adoption of decentralized finance. Our primary focus lies in facilitating cross-chain aggregation and delivering a seamless, exceptional user experience.
 
-As the leading cross-chain swap aggregator, we are dedicated to providing a frictionless, secure, and equitable platform for token swapping and staking across multiple blockchain networks. We pledge to continuously refine and optimize Xenify's features, adapting to the ever-evolving needs of the DeFi community while attracting a diverse and growing user base.
+As the leading cross-chain swap aggregator, we are dedicated to providing a frictionless, secure, and equitable platform for token swapping and staking across multiple blockchain networks. We pledge to continuously refine and optimise Xenify's features, adapting to the ever-evolving needs of the DeFi community while attracting a diverse and growing user base.
 
-Championing cross-chain capabilities and fostering interoperability, our endeavor is to support a wide array of blockchain networks, thereby fueling greater synergy within the DeFi ecosystem. By leveraging advanced liquidity aggregation and cross-chain functionality, we strive to streamline interactions between various chains, unlocking the full potential of the decentralized finance landscape.
+By championing cross-chain capabilities and fostering interoperability, our endeavour is to support a wide array of blockchain networks, thereby fueling greater synergy within the DeFi ecosystem. By leveraging advanced liquidity aggregation and cross-chain functionality, we strive to streamline interactions between various chains, unlocking the full potential of the decentralised finance landscape.
 
-Xenify is deeply committed to promoting community-driven growth and collaboration within the XEN ecosystem. We passionately empower our users to actively participate in decision-making, governance, and the protocol's ongoing development. Our mission is to cultivate a vibrant, global community of users and enthusiasts, united by a shared vision of transforming the world of decentralized finance into a more accessible, inclusive, and innovative space.
+Xenify is deeply committed to promoting community-driven growth and collaboration within the XEN ecosystem. We passionately empower our users to actively participate in decision-making, governance, and the protocol's ongoing development. Our mission is to cultivate a vibrant, global community of users and enthusiasts, united by a shared vision of transforming the world of decentralised finance into a more accessible, inclusive, and innovative space.
 
 <br>
 
@@ -118,7 +118,7 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 
 <br>
 
-Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionizing the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralized finance ecosystem.
+Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionising the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralized finance ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
