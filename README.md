@@ -52,7 +52,7 @@ Xenify's swap fee implementation is ingeniously designed to serve multiple objec
 
 The protocol's comprehensive reward mechanics establish a robust and attractive incentive system for participants. By providing native chain rewards from swap fees on supported chains and protocol fees generated through the direct burns of DXN or FENIX tokens, Xenify cultivates a thriving ecosystem for staked XNF holders. This multifaceted reward structure not only benefits users but also plays a crucial role in promoting the protocol's long-term growth and sustainability.
 
-By integrating ChainZap's state-of-the-art liquidity aggregation with its unique tokenomics, Xenify paves the way for a new era in DeFi. This comprehensive approach offers a one-stop solution for users navigating the complexities of decentralized finance, ensuring easy access to a wide array of swap routes and a user-centric platform that prioritizes their long-term success and satisfaction.
+By integrating ChainZap's state-of-the-art liquidity aggregation with its unique tokenomics, Xenify paves the way for a new era in DeFi. This comprehensive approach offers a one-stop solution for users navigating the complexities of decentralised finance, ensuring easy access to a wide array of swap routes and a user-centric platform that prioritises their long-term success and satisfaction.
 
 <br>
 
