@@ -62,7 +62,7 @@ By integrating ChainZap's state-of-the-art liquidity aggregation with its unique
 
 <br>
 
-Xenify's vision is founded on a set of essential guiding principles that propel the growth and advancement of the protocol. These core values shape the strategic direction, user experience, and long-term objectives of the platform, ensuring that it remains steadfast in its mission to revolutionize the DeFi landscape.
+Xenify is driven by a powerful vision that seeks to revolutionize the DeFi landscape by embracing a set of core guiding principles. These values not only shape the platform's strategic direction but also enhance the user experience and lay the groundwork for long-term success. By staying true to these principles, Xenify aims to create a groundbreaking DeFi experience that is fair, accessible, and empowering for users across the globe, taking the DeFi world to new heights.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
