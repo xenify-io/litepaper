@@ -116,6 +116,10 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 
 <br>
 
+Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionizing the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralized finance ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Xenify Principles
 
 Xenify sets itself apart in the DeFi space by adhering to core principles of fairness, simplicity, transparency, user empowerment, and interoperability. These guiding values lay the foundation for Xenify's development and growth, ensuring unwavering dedication to revolutionizing the DeFi experience and fostering a more inclusive, transparent, and interconnected ecosystem.
