@@ -1,14 +1,14 @@
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235558164-27bf1a3f-5df8-4f10-8c6f-31b9d2082902.png" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235558152-4a1cda8f-b27c-4750-afd4-ea2a232dad4c.png" class="source-dark">
-    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235558152-4a1cda8f-b27c-4750-afd4-ea2a232dad4c.png" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235561147-cb2d8d87-46aa-4098-8a3c-c7166c6b2b70.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235561136-e3693d97-00e7-4d24-82ce-69f9bd9d9c17.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235561136-e3693d97-00e7-4d24-82ce-69f9bd9d9c17.png" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
  <p align="center">
  Unleash the Potential of Cross-Chain Swaps - Effortless, Efficient, and Rewarding!</p>
-
+ 
 <p align="center">
 Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
