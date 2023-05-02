@@ -443,9 +443,7 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 <br>
 
-To ensure a smooth and successful start for Xenify, a special liquidity provisioning event will take place during the launch. The distribution of XNF tokens will be adjusted to meet the platform's liquidity needs and support its users across all chains. This well-planned launch guarantees sufficient liquidity is created on each chain, providing a strong foundation for the ecosystem. 
-
-The initial price of XNF tokens will be based on the amount of native tokens received against the 10,000 XNF. For example, if $10,000 worth of ETH is collected, the starting price will be set at $1.00. 
+To ensure a smooth and successful start for Xenify, a special liquidity provisioning event will take place during the launch. The distribution of XNF tokens will be adjusted to meet the platform's liquidity needs and support its users across all chains. This well-planned launch guarantees sufficient liquidity is created on each chain, providing a strong foundation for the ecosystem. The initial price of XNF tokens will be based on the amount of native tokens received against the 10,000 XNF. For example, if $10,000 worth of ETH is collected, the starting price will be set at $1.00. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
