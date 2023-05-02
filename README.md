@@ -21,6 +21,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 # ◽️ Contents
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
 - [Introduction](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
 - [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
@@ -113,6 +115,8 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Key Features
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 ## ◽️ Xenify Principles
 
