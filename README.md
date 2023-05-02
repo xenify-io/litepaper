@@ -509,7 +509,7 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
 
 ## ◽️ Bypassing the Sigma Exit Rate
     
-  - As a Phoenix Ape NFT holder, you can benefit from the ability to sell up to 100% of any bYSL, xYSL, or USDy tokens you may possess, without being subject to the Sigma Exit Rate. This exclusive perk offers greater flexibility and control over your YSL.IO native token holdings.
+  - As a Phoenix Ape NFT holder, you can benefit from the ability to sell up to 100% of any xYSL, bYSL, or USDy tokens you may possess, without being subject to the Sigma Exit Rate. This exclusive perk offers greater flexibility and control over your YSL.IO native token holdings.
 
 <br>
 
