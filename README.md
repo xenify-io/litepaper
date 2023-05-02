@@ -653,7 +653,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ Direct Burns 
 
-  - A process in which users burn tokens, such as DXN or FENIX, to support the platform's growth and receive XNF tokens as equity.
+  - Users burn tokens (e.g., DXN or FENIX) to support protocol growth and receive XNF tokens as equity, demonstrating commitment to the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -671,13 +671,13 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ Proof of Burn
 
-  - A mechanism in which users burn tokens to demonstrate their commitment to the platform and receive equity in return.
+  - A commitment mechanism where users burn tokens, demonstrating their support for the protocol and earning equity in return.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ First Principles 
 
-  - A methodology that involves breaking down complex problems into their fundamental elements to find innovative solutions.
+  - First principles in crypto are the fundamental concepts driving decentralized digital currencies, focusing on permissionless access, transparency, trustlessness, decentralisation, and immutability. These principles guide the growth and innovation of cryptocurrencies, enabling informed decision-making and shaping the future of decentralised finance.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
