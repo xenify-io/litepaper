@@ -18,8 +18,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 </p>
  
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Contents
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 - [Introduction](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
 - [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
@@ -41,7 +41,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 # ◽️ Introduction
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 Xenify is a pioneering project that merges DBXen's trailblazing tokenomics with ChainZap's potent functionality, striving to redefine the DeFi landscape. With a total supply of 21,000,000 XNF tokens, Xenify allows users to acquire XNF by burning DXN or FENIX tokens, acting as a layer 2 burner of XEN. The primary goal of Xenify is to establish a seamless, efficient cross-chain swapping protocol that rewards users through native chain rewards and its capped supply token.
 
 At the heart of Xenify's vision lies ChainZap, an advanced liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 18 different aggregators across leading chains like Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Harnessing the power of advanced APIs, Xenify ensures smooth communication with various liquidity aggregators, significantly enhancing the user swapping experience and streamlining the process of identifying the best swap routes across multiple chains.
@@ -55,8 +55,8 @@ By integrating ChainZap's state-of-the-art liquidity aggregation with its unique
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Our Vision
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify's vision is founded on a set of essential guiding principles that propel the growth and advancement of the protocol. These core values shape the strategic direction, user experience, and long-term objectives of the platform, ensuring that it remains steadfast in its mission to revolutionize the DeFi landscape.
 
@@ -91,8 +91,8 @@ Xenify's vision is founded on a set of essential guiding principles that propel 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Our Mission
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify's mission is to revolutionize the DeFi landscape by addressing the challenges and limitations that hinder the widespread adoption of decentralized finance. Our primary focus lies in facilitating cross-chain aggregation and delivering a seamless, exceptional user experience.
 
@@ -107,7 +107,7 @@ Xenify is deeply committed to promoting community-driven growth and collaboratio
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 # ◽️ Key Features
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 ## ◽️ Xenify Principles
 
 Xenify sets itself apart in the DeFi space by adhering to core principles of fairness, simplicity, transparency, user empowerment, and interoperability. These guiding values lay the foundation for Xenify's development and growth, ensuring unwavering dedication to revolutionizing the DeFi experience and fostering a more inclusive, transparent, and interconnected ecosystem.
@@ -151,8 +151,8 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Xenify Overview 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 20 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
 
@@ -238,8 +238,8 @@ The platform integrates with the following aggregators to provide a comprehensiv
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Tokenomics
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central reward for users participating in diverse platform activities, such as token burning and swapping, while interacting with the various components of the Xenify ecosystem.
 
@@ -427,10 +427,9 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 <br>
 
-![YSL IO - Line Only](https://user-images.githubusercontent.com/60996729/233761364-4d1b4b89-f76a-4593-9f07-246c57d689d9.png)
-
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Liquidity Provisioning
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 To ensure a smooth and successful start for Xenify, a special liquidity provisioning event will take place during the launch. The distribution of XNF tokens will be adjusted to meet the platform's liquidity needs and support its users across all chains. This well-planned launch guarantees sufficient liquidity is created on each chain, providing a strong foundation for the ecosystem. 
 
@@ -446,9 +445,9 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 
 <br>
 
-![YSL IO - Line Only](https://user-images.githubusercontent.com/60996729/233761364-4d1b4b89-f76a-4593-9f07-246c57d689d9.png)
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Amplify Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that bridges the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. The Phoenix Ape NFT not only amplifies the burn effect on Xenify but also offers a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT enhances the user experience and brings added value to the Xenify ecosystem:
 
@@ -489,8 +488,8 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
   - As a Phoenix Ape NFT holder, you can benefit from the ability to sell up to 100% of any bYSL, xYSL, or USDy tokens you may possess, without being subject to the Sigma Exit Rate. This exclusive perk offers greater flexibility and control over your YSL.IO native token holdings.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ User Experience
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify places a strong emphasis on user experience, striving to create an intuitive and user-friendly platform. The onboarding process is streamlined, with clear instructions and guidance to help users navigate the platform with ease. Users can interact with the platform through various functions, such as swapping tokens across multiple blockchains, staking, and claiming rewards.
 
@@ -499,8 +498,8 @@ Unlike traditional decentralized exchanges, Xenify does not require users to pro
 The platform provides a seamless experience for claiming rewards, staking, and unstaking tokens. Users can easily monitor their staked assets and accrued rewards, and claim or unstake their tokens with just a few clicks. This user-centric approach ensures that Xenify remains accessible to both novice and experienced users alike.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Security
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify prioritizes security to guarantee the safety and reliability of the protocol. The contracts from DBXen has been rigorously audited by [Certik](https://twitter.com/CertiK) a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by [Peckshield](https://twitter.com/peckshield) another highly-regarded security company in the industry.
 
@@ -571,8 +570,8 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Conclusion
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralized and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in ETH from protocol fees and a share of swap fees generated on the platform. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
 
@@ -581,8 +580,8 @@ With a strong emphasis on security and dedication to fair token distribution, Xe
 By nurturing a vibrant, community-driven environment and maintaining commitments to security, transparency, and fairness, Xenify is poised to make a lasting impact on the crypto landscape. Users who share the core values of decentralized finance and desire to contribute to an innovative and sustainable protocol should consider engaging with Xenify and joining its expanding community.
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Glossary
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ◽️ XEN
   
@@ -663,8 +662,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Acknowledgements
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ### YSL.IO (Apr 21, 2023) - Cross-chain Swaps
 
@@ -732,8 +731,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 - [First Principles](https://github.com/atomizexyz/litepaper#fenix-principles)
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Xenify Social Links
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 - <https://xenify.io>
 - <https://t.me/xenify_io>
