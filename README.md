@@ -460,6 +460,8 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 ## ◽️ Day 1: Burn and Liquidity Allocation
   - On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralised token sale. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Day 2: Return to Normal Distribution
   - Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and FENIX tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
 
