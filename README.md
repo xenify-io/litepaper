@@ -281,7 +281,7 @@ The XNF token fuels user engagement with the Xenify platform. With a total suppl
 
 Xenify's distribution employs an exciting halving model, applying to both direct burns and swap volume distributions. From the 8th halving onwards, the daily distribution rate will maintain a minimum of 156.25 tokens/day. This approach equally divides the total daily reward pool between direct burns and swap volume, ensuring users are handsomely rewarded for both burning tokens and actively participating in the Xenify ecosystem. The halving schedule guarantees a fair distribution of rewards based on users' contributions to the platform.
 
-To achieve this thrilling distribution, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. This distribution deviates from the DXN model, which has a 0.2% decrease per cycle, and instead follows the captivating halving model outlined below:
+To achieve this thrilling distribution, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. This distribution deviates from the DXN model, which has a 0.2% decrease per cycle, and instead follows the captivating halving model outlined below.
 
 <p align="center" dir="auto">
   <picture>
