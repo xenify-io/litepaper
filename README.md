@@ -655,6 +655,12 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Tokenomics
+
+  - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Direct Burns 
 
   - Users burn tokens (e.g., DXN or FENIX) to support protocol growth and receive XNF tokens as equity, demonstrating commitment to the protocol.
@@ -664,12 +670,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 ## ◽️ Swap Volume 
   
   - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Tokenomics
-
-  - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
