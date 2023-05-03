@@ -190,6 +190,18 @@ In conclusion, DBXen ($DXN) aims to create a sustainable and transparent ecosyst
 
 <br>
 
+xYSL is a revolutionary hyper-deflationary token engineered to create sustainable value appreciation through its unique tokenomics and autonomous algorithm. The token has been designed to increase in price and scarcity regardless of the market situation, making it an ideal investment for those seeking long-term success in the cryptocurrency space.
+
+The core of xYSL's deflationary mechanics lies in its integration with the USDy token, the YSL.IO reward token of the ecosystem. Every time USDy is sold or transferred, the protocol uses 10% of the USDy transaction to buy xYSL from the market, which is then immediately burned and sent to a dead address. This continuous supply reduction is further supported by a built-in transactional burn that sends 2.5% of every transfer or sell transaction to the dead address.
+
+Additionally, xYSL's positive feedback loop is enhanced by the increasing trading volume of USDy, as more people join the ecosystem. This creates an environment where the price of xYSL is constantly rising while its supply is being reduced, making it an increasingly attractive investment opportunity.
+
+To maximize earnings, investors can stake their xYSL tokens in the AceVault and earn Virtue-Rewards every 8 hours. The perpetual ratio feature also increases the xYSL balance with every deposit and withdrawal made from the vault, further contributing to the token's value appreciation.
+
+In summary, xYSL offers a unique and innovative approach to value appreciation through its hyper-deflationary mechanics, autonomous algorithm, and integration with the USDy reward token. As a result, it presents an exceptional opportunity for investors seeking long-term success and growth in the ever-evolving decentralized digital asset landscape.
+
+<br>
+
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
