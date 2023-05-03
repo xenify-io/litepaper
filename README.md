@@ -692,15 +692,15 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Smart Contracts 
-
-  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralised, and automated transactions on a blockchain platform.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Interoperability
 
   - The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Smart Contracts 
+
+  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralised, and automated transactions on a blockchain platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
