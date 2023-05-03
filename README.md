@@ -272,7 +272,7 @@ Xenify's innovative tokenomics design prioritizes a fair and sustainable distrib
 
 ## ◽️ Token Supply
 
-The XNF token fuels user engagement with the Xenify platform. With a total supply of 21 million XNF, its distribution follows a fair launch model, eliminating pre-mines, investor allocations, founder allocation, and team allocations. Users can mint their XNF equity by participating in a variety of activities on the platform, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
+The XNF token fuels user engagement with the Xenify platform. With a total supply of 21 million XNF, its distribution follows a fair launch model, eliminating pre-mines, investor allocations, founder allocation, and team allocations. Users can mint their XNF equity by participating in a variety of activities on the platform, such as burning DXN or XDOGE tokens and swapping tokens on supported chains.
 
 <p align="center" dir="auto">
   <picture>
@@ -323,14 +323,14 @@ Xenify's minting process is designed to provide equity to users who actively par
 
 The incentive structure of Xenify encourages users to actively participate in the platform's growth, driving value and fostering a thriving, decentralised ecosystem. As users engage more with Xenify, they receive a share of the newly minted XNF tokens based on their participation level, motivating them to contribute even more to the platform's success. XNF tokens are distributed through one-day cycles, starting with a reward pool of 20,000 XNF tokens.
 
-The 20,000 XNF tokens are divided into two categories: 10,000 XNF tokens are allocated specifically to those who burn DXN or FENIX tokens, while the other 10,000 XNF tokens are reserved for users contributing to swap volume on the platform. This distribution ensures that users participating in the burning of different tokens and generating swap volume are rewarded accordingly. By providing incentives for users to engage with the platform, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
+The 20,000 XNF tokens are divided into two categories: 10,000 XNF tokens are allocated specifically to those who burn DXN or XDOGE tokens, while the other 10,000 XNF tokens are reserved for users contributing to swap volume on the platform. This distribution ensures that users participating in the burning of different tokens and generating swap volume are rewarded accordingly. By providing incentives for users to engage with the platform, Xenify encourages a thriving, community-driven ecosystem that benefits all participants.
 
-The reward pool decreases according to the halving model, leading to the distribution of nearly 21 million XNF tokens over time. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or FENIX burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth and fostering a thriving, community-driven environment.
+The reward pool decreases according to the halving model, leading to the distribution of nearly 21 million XNF tokens over time. Staked XNF tokens accumulate native token fees (e.g., ETH, BNB, MATIC, etc.) from new DXN or XDOGE burns or swap fees generated on the Xenify platform across supported chains. This design incentivizes user participation, helping maintain platform growth and fostering a thriving, community-driven environment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Burning 
-  - Ignite your contribution to Xenify's growth and deflationary tokenomics by participating in the exhilarating process of burning DXN or FENIX tokens. In exchange for your engagement, you'll be rewarded with XNF tokens, amplifying your stake in the thriving Xenify ecosystem.
+  - Ignite your contribution to Xenify's growth and deflationary tokenomics by participating in the exhilarating process of burning DXN or XDOGE tokens. In exchange for your engagement, you'll be rewarded with XNF tokens, amplifying your stake in the thriving Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -342,7 +342,7 @@ The reward pool decreases according to the halving model, leading to the distrib
 ### ♦️ Staking 
   - Join the Xenify revolution by staking your XNF tokens and become an integral part of the platform's growth. As a staker, you will earn a well-deserved share of protocol fees and swap fees generated within the ecosystem. Experience the exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly worthwhile.
 
-  - Explore Xenify's innovative staking model that empowers users to stake XNF tokens and earn a portion of protocol fees originating from direct burns of DXN or FENIX. Delight in the advantage of receiving rewards in the form of native chain rewards, a highly sought-after and liquid asset, ensuring a remarkable return on your investment.
+  - Explore Xenify's innovative staking model that empowers users to stake XNF tokens and earn a portion of protocol fees originating from direct burns of DXN or XDOGE. Delight in the advantage of receiving rewards in the form of native chain rewards, a highly sought-after and liquid asset, ensuring a remarkable return on your investment.
 
   - Uncover Xenify's unique swap fee distribution mechanism, allocating an astounding 100% of the platform's swap fees to its dedicated stakers. By staking XNF tokens, you'll enjoy a consistent flow of income through native chain rewards. This substantial distribution not only bolsters the token price but also further incentivizes stakers, cultivating a robust token value and fostering long-term commitment.
 
@@ -352,13 +352,13 @@ The reward pool decreases according to the halving model, leading to the distrib
 
 Swapping tokens on the Xenify protocol involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.25% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem.
 
-The entire 0.25% swap fee is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. Additionally, the swap fee grants stakers a position in the daily cycle of XNF rewards. The team may receive referral incentives from aggregators, which help support Xenify's ongoing development, marketing, and outreach efforts. These rewards play a crucial role in raising awareness and adoption of XEN, DXN, FENIX, and XNF tokens, ensuring the platform's continued growth and success.
+The entire 0.25% swap fee is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. Additionally, the swap fee grants stakers a position in the daily cycle of XNF rewards. The team may receive referral incentives from aggregators, which help support Xenify's ongoing development, marketing, and outreach efforts. These rewards play a crucial role in raising awareness and adoption of XEN, DXN, XDOGE, and XNF tokens, ensuring the platform's continued growth and success.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costs of Burning DXN and FENIX
+## ◽️ Costs of Burning DXN and XDOGE
 
-In order to burn DXN, or FENIX on the Xenify platform, users must pay the transaction gas fee and an additional mandatory Protocol fee. The Protocol fee is calculated as follows:
+In order to burn DXN, or XDOGE on the Xenify platform, users must pay the transaction gas fee and an additional mandatory Protocol fee. The Protocol fee is calculated as follows:
 
 <br>
 
@@ -368,14 +368,14 @@ $$
 
 <br>
 
-A batch is a fixed number of tokens to burn, depending on the token being burned (DXN or FENIX).
+A batch is a fixed number of tokens to burn, depending on the token being burned (DXN or XDOGE).
 
 For example, on Ethereum:
 
 - 1 batch = [Fixed Number] DXN tokens
-- 1 batch = [Fixed Number] FENIX tokens
+- 1 batch = [Fixed Number] XDOGE tokens
 
-To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or FENIX) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
+To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or XDOGE) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
 
 In essence, the Protocol fee calculation determines the fees charged from a user when they perform a burn operation on the Xenify Protocol. The fee is calculated by multiplying the gas spent on the operation by a factor that takes into account the number of batches being burned. This factor is calculated by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
 
@@ -418,7 +418,7 @@ $$
 - **UBN:** The total number of batches a specific user has burned during the cycle.
 - **TBN:** The total number of batches burned by all users during the cycle.
 
-The XNF rewards are calculated based on the gas consumed from burning DXN or FENIX. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
+The XNF rewards are calculated based on the gas consumed from burning DXN or XDOGE. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -448,7 +448,7 @@ Similar to claiming rewards, a user wishing to claim their accumulated fees will
 
 ## ◽️ Native Token Fee Distribution
 
-Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or FENIX in the corresponding cycle.
+Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or XDOGE in the corresponding cycle.
 
 <br>
 
@@ -470,7 +470,7 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 2: Return to Normal Distribution
-  - Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and FENIX tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
+  - Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and XDOGE tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
 
 <br>
 
@@ -480,7 +480,7 @@ The initial price of XNF tokens will be based on the amount of native tokens rec
 
 <br>
 
-Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that unifies the XEN, DBXen, FENIX, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. The Phoenix Ape NFT not only enhances the burn effect on Xenify, but also provides a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT elevates the user experience and adds significant value to the Xenify ecosystem:
+Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that unifies the XEN, DBXen, XDOGE, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. The Phoenix Ape NFT not only enhances the burn effect on Xenify, but also provides a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT elevates the user experience and adds significant value to the Xenify ecosystem:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -556,7 +556,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ No Sacrifice
 
-- Xenify's tokenomics eliminates the need for users to relinquish other tokens or assets, as tokens are earned through active participation and burning of DXN or FENIX.
+- Xenify's tokenomics eliminates the need for users to relinquish other tokens or assets, as tokens are earned through active participation and burning of DXN or XDOGE.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -592,7 +592,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ Users Mint Their Equity
 
-- XNF tokens won't be pre-mined or allocated to investors or team members. Instead, users can obtain tokens by actively engaging with the protocol, burning DXN or FENIX tokens, and swapping tokens across supported chains. This approach rewards users for their contributions and ensures a fair distribution of XNF within the ecosystem.
+- XNF tokens won't be pre-mined or allocated to investors or team members. Instead, users can obtain tokens by actively engaging with the protocol, burning DXN or XDOGE tokens, and swapping tokens across supported chains. This approach rewards users for their contributions and ensures a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -640,7 +640,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ## ◽️ XNF 
 
-  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning DXN or FENIX tokens and swapping tokens on supported chains.
+  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning DXN or XDOGE tokens and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -670,7 +670,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ## ◽️ Direct Burns 
 
-  - Users burn tokens (e.g., DXN or FENIX) to support protocol growth and receive XNF tokens as equity, demonstrating commitment to the protocol.
+  - Users burn tokens (e.g., DXN or XDOGE) to support protocol growth and receive XNF tokens as equity, demonstrating commitment to the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -747,6 +747,21 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
+### XENDoge (April 20, 2023) - Cross-chain Meme Token
+
+**Links:**
+
+- [Website](https://xendoge.network)
+- [Litepaper](https://xendoge.network/XENDogeLitepaper.pdf)
+- [Source Code](https://explorer.x1-devnet.xen.network/address/0x61FCDa19aE5ac8ba5371a4933061D3409946c752/contracts#address-tabs)
+- [Twitter Profile](https://twitter.com/xendogetoken)
+- [Telegram Channel](https://t.me/xendogetoken)
+
+**Influential Concepts:**
+
+- [Maximum Supply](https://xendoge.network/XENDogeLitepaper.pdf)
+- [First Principles](https://xendoge.network/XENDogeLitepaper.pdf)
+
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
 ### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
@@ -763,23 +778,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
-
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
-
-### Fenix (April 13, 2023) - Cross-chain Certificate of Deposit (CD)
-
-**Links:**
-
-- [Website](https://fenix.fyi)
-- [Litepaper](https://github.com/atomizexyz/litepaper)
-- [Source Code](https://github.com/atomizexyz/fenix)
-- [Twitter Profile](https://twitter.com/fenix_protocol)
-- [Telegram Channel](https://t.me/FENIX_protocol)
-
-**Influential Concepts:**
-
-- [Proof of Burn](https://github.com/atomizexyz/litepaper#shares-burn)
-- [First Principles](https://github.com/atomizexyz/litepaper#fenix-principles)
 
 <br>
 
