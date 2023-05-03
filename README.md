@@ -182,27 +182,28 @@ Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting fro
 
 ## ◽️ Aggregators
 
-The platform integrates with the following aggregators to provide a comprehensive and user-friendly experience:
 
-- [LI.FI](https://li.fi)
-- [1inch](https://1inch.io)
-- [Swing](https://swing.xyz)
-- [Rango](https://rango.exchange)
-- [Krystal](https://defi.krystal.app)
-- [Matcha](https://matcha.xyz)
-- [Firebird](https://firebird.finance)
-- [DeSwap](https://app.debridge.finance)
-- [Voyager](https://app.thevoyager.io/swap)
-- [Paraswap](https://paraswap.io)
-- [ThorSwap](https://app.thorswap.finance/swap)
-- [ChainHop](https://chainhop.io)
-- [Stealth EX](https://stealthex.io)
-- [XY Finance](https://app.xy.finance)
-- [KyberSwap](https://kyberswap.com)
-- [OpenOcean](https://openocean.finance)
-- [SimpleSwap](https://simpleswap.io)
-- [Squid Router](https://app.squidrouter.com)
-- [Rubic Finance](https://rubic.finance)
+| Num | Aggregator        | Aggregator Website                 |
+|-----|-------------------|------------------------------------|
+| 1   | LI.FI             | https://li.fi                      |
+| 2   | 1inch             | https://1inch.io                   |
+| 3   | Swing             | https://swing.xyz                  |
+| 4   | Rango             | https://rango.exchange             |
+| 5   | Krystal           | https://defi.krystal.app           |
+| 6   | Matcha            | https://matcha.xyz                 |
+| 7   | Firebird          | https://firebird.finance           |
+| 8   | DeSwap            | https://app.debridge.finance       |
+| 9   | Voyager           | https://app.thevoyager.io/swap     |
+| 10  | Paraswap          | https://paraswap.io                |
+| 11  | ThorSwap          | https://app.thorswap.finance/swap  |
+| 12  | ChainHop          | https://chainhop.io                |
+| 13  | Stealth EX        | https://stealthex.io               |
+| 14  | XY Finance        | https://app.xy.finance             |
+| 15  | KyberSwap         | https://kyberswap.com              |
+| 16  | OpenOcean         | https://openocean.finance          |
+| 17  | SimpleSwap        | https://simpleswap.io              |
+| 18  | Squid Router      | https://app.squidrouter.com        |
+| 19  | Rubic Finance     | https://rubic.finance              |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
