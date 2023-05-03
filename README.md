@@ -778,8 +778,8 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 **Influential Concepts:**
 
-- [Maximum Supply](https://xendoge.network/XENDogeLitepaper.pdf)
 - [First Principles](https://xendoge.network/XENDogeLitepaper.pdf)
+- [Maximum Supply](https://xendoge.network/XENDogeLitepaper.pdf)
 
 <br>
 
