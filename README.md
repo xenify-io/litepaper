@@ -747,21 +747,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
-### XENDoge (April 20, 2023) - Cross-chain Meme Token
-
-**Links:**
-
-- [Website](https://xendoge.network)
-- [Litepaper](https://xendoge.network/XENDogeLitepaper.pdf)
-- [Source Code](https://explorer.x1-devnet.xen.network/address/0x61FCDa19aE5ac8ba5371a4933061D3409946c752/contracts#address-tabs)
-- [Twitter Profile](https://twitter.com/xendogetoken)
-- [Telegram Channel](https://t.me/xendogetoken)
-
-**Influential Concepts:**
-
-- [Maximum Supply](https://xendoge.network/XENDogeLitepaper.pdf)
-- [First Principles](https://xendoge.network/XENDogeLitepaper.pdf)
-
 ![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
 
 ### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
@@ -778,6 +763,23 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+
+### XENDoge (April 20, 2023) - Cross-chain Meme Token
+
+**Links:**
+
+- [Website](https://xendoge.network)
+- [Litepaper](https://xendoge.network/XENDogeLitepaper.pdf)
+- [Source Code](https://explorer.x1-devnet.xen.network/address/0x61FCDa19aE5ac8ba5371a4933061D3409946c752/contracts#address-tabs)
+- [Twitter Profile](https://twitter.com/xendogetoken)
+- [Telegram Channel](https://t.me/xendogetoken)
+
+**Influential Concepts:**
+
+- [Maximum Supply](https://xendoge.network/XENDogeLitepaper.pdf)
+- [First Principles](https://xendoge.network/XENDogeLitepaper.pdf)
 
 <br>
 
