@@ -46,7 +46,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 Xenify is a pioneering project that merges DBXen's trailblazing tokenomics with ChainZap's potent functionality, striving to redefine the DeFi landscape. With a total supply of 21,000,000 XNF tokens, Xenify allows users to acquire XNF by burning DXN or FENIX tokens, acting as a layer 2 burner of XEN. The primary goal of Xenify is to establish a seamless, efficient cross-chain swapping protocol that rewards users through native chain rewards and its capped supply token.
 
-At the heart of Xenify's vision lies ChainZap, an advanced liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 18 different aggregators across leading chains like Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Harnessing the power of advanced APIs, Xenify ensures smooth communication with various liquidity aggregators, significantly enhancing the user swapping experience and streamlining the process of identifying the best swap routes across multiple chains.
+At the heart of Xenify's vision lies ChainZap, an advanced liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 19 different aggregators across leading chains like Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Harnessing the power of advanced APIs, Xenify ensures smooth communication with various liquidity aggregators, significantly enhancing the user swapping experience and streamlining the process of identifying the best swap routes across multiple chains.
 
 Xenify's swap fee implementation is ingeniously designed to serve multiple objectives. Staked XNF holders on supported chains receive 100% of swap fees as native chain rewards, while swap fees from unsupported chains are redirected towards future audits and marketing initiatives for the Xenify team. This strategic allocation mechanism fosters long-term growth and sustainability for the protocol, benefiting both users and the platform itself.
 
@@ -170,7 +170,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 <br>
 
-Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 18 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 20 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
+Xenify is a revolutionary cross-chain aggregator of aggregators designed to streamline and simplify the swapping process for users. By leveraging ChainZap, an advanced liquidity aggregation protocol, Xenify seamlessly connects to 19 different aggregators, ensuring unparalleled liquidity and the most competitive rates across 32 leading chains. This allows users to easily swap tokens between chains such as Ethereum, BNB Chain, Polygon, and many more.
 
 For example, when a user wants to swap Token A on Chain 1 for Token B on Chain 2, Xenify makes it possible to execute this swap with just a single click and a single transaction on Chain 1. This eliminates the need to navigate complex chains or search for the best prices, as Xenify efficiently handles the swap at the best available rates.
 
@@ -194,6 +194,7 @@ The platform integrates with the following aggregators to provide a comprehensiv
 - [DeSwap](https://app.debridge.finance)
 - [Voyager](https://app.thevoyager.io/swap)
 - [Paraswap](https://paraswap.io)
+- [ThorSwap](https://app.thorswap.finance/swap)
 - [ChainHop](https://chainhop.io)
 - [Stealth EX](https://stealthex.io)
 - [XY Finance](https://app.xy.finance)
