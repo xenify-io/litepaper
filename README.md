@@ -165,6 +165,30 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ DXN Overview 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+DBXen ($DXN) is a groundbreaking digital asset within the XEN ecosystem, designed to contribute to $XEN deflation and provide its users with new opportunities to create value. The primary objective of the project is to offer a fair and equitable distribution of tokens with a community-driven approach, ultimately resulting in a decentralized and transparent ecosystem.
+
+The deflationary mechanism of $DXN is one of its key features. As a capped token, $DXN can only be minted through the burning of $XEN tokens. This process reduces the total supply of $XEN tokens and addresses inflation concerns. Additionally, $DXN token holders receive rewards as the token is further minted, creating a passive income stream for users until the entire $DXN supply is distributed over approximately 62 years.
+
+DBXen protocol is committed to a fair launch, ensuring that no pre-mines, treasury allocations, private/public sales, or developer fees are involved. This approach guarantees a fair distribution of tokens for all users. The token distribution algorithm is pre-programmed and cannot be altered or reverted once live, providing transparency and fairness for all participants.
+
+The total supply of $DXN tokens is capped at around 5.01 million, delivering long-term stability and scarcity. Distribution of $DXN tokens occurs in one-day cycles, with an initial reward pool of 10,000 $DXN tokens. The reward pool decreases by approximately 0.2% per cycle, ensuring a gradual distribution process.
+
+Lastly, $DXN tokens staked within the protocol accumulate native token fees, which are accrued every time a new $XEN burn is made. This feature adds another layer of incentive for users to participate in the DBXen ecosystem.
+
+In conclusion, DBXen ($DXN) aims to create a sustainable and transparent ecosystem that benefits the community by combating inflation and providing passive income opportunities. By leveraging the power of blockchain technology, DBXen seeks to establish a more equitable and decentralized digital asset landscape.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ xYSL Overview 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
