@@ -674,15 +674,15 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Swap Volume 
-  
-  - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Proof of Burn
 
   - A commitment mechanism where users burn tokens, demonstrating their support for the protocol and earning equity in return.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Swap Volume 
+  
+  - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
