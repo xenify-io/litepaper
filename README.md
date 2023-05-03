@@ -226,11 +226,11 @@ The platform integrates with the following aggregators to provide a comprehensiv
 | Num | Chain Type        | Chain Name    | Chain Website                         |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | KCC           | https://www.kcc.io                    |
-| 2   | Layer 2           | Fuse          | https://fuse.io                       |
+| 2   | Layer 1           | Fuse          | https://fuse.io                       |
 | 3   | Layer 1           | Tron          | https://tron.network                  |
 | 4   | Layer 1           | Celo          | https://celo.org                      |
 | 5   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 6   | Layer 1           | Boda          | https://boba.network                  |
+| 6   | Layer 2           | Boda          | https://boba.network                  |
 | 7   | Layer 1           | Beam          | https://www.beam.mw                   |
 | 8   | Layer 1           | Velas         | https://www.velas.com                 |
 | 9   | Layer 1           | Telos         | https://telos.net                     |
