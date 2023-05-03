@@ -208,49 +208,55 @@ The platform integrates with the following aggregators to provide a comprehensiv
 
 ## ◽️ Fee Supported
 
-| Chain Type    | Chain Name    | Chain Website                         |
-|---------------|---------------|---------------------------------------|
-| Layer 1       | Evmos         | https://evmos.dev                     |
-| Layer 1       | Fantom        | https://fantom.foundation             |
-| Layer 2       | Polygon       | https://polygon.technology            |
-| Layer 1       | Ethereum      | https://ethereum.org                  |
-| Layer 1       | Avalanche     | https://www.avax.network              |
-| Layer 1       | BNB Chain     | https://www.bnbchain.org              |
-| Layer 1       | OKEx Chain    | https://www.okex.com/okexchain        |
-| Parachain     | Moonbeam      | https://moonbeam.network              |
+| Num   | Chain Type        | Chain Name    | Chain Website                         |
+|-------|-------------------|---------------|---------------------------------------|
+|   1   | Layer 1           | Evmos         | https://evmos.dev                     |
+|   2   | Layer 1           | Fantom        | https://fantom.foundation             |
+|   3   | Layer 2           | Polygon       | https://polygon.technology            |
+|   4   | Layer 1           | Ethereum      | https://ethereum.org                  |
+|   5   | Layer 1           | Avalanche     | https://www.avax.network              |
+|   6   | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+|   7   | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+|   8   | Parachain         | Moonbeam      | https://moonbeam.network              |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Swap Supported
 
-| Chain Type      | Chain Name  | Chain Website                         |
-|-----------------|-------------|---------------------------------------|
-| Layer 1         | Heco        | https://www.hecochain.com             |
-| Layer 1         | Celo        | https://celo.org                      |
-| Layer 1         | Beam        | https://www.beam.mw                   |
-| Layer 1         | Tezos       | https://tezos.com                     |
-| Layer 1         | Zcash       | https://www.z.cash                    |
-| Layer 2         | Metis       | https://metis.io                      |
-| Layer 1         | Telos       | https://telos.net                     |
-| Layer 1         | Evmos       | https://evmos.dev                     |
-| Layer 1         | Klaytn      | https://www.klaytn.com                |
-| Layer 1         | Gnosis      | https://gnosis.io                     |
-| Layer 1         | Aurora      | https://aurora.dev                    |
-| Layer 2         | zkSync      | https://zksync.io                     |
-| Layer 1         | Bitcoin     | https://bitcoin.org                   |
-| Layer 1         | Cronos      | https://crypto.com/chain              |
-| Layer 1         | Fantom      | https://fantom.foundation             |
-| Layer 1         | Monero      | https://www.getmonero.org             |
-| Layer 2         | Polygon     | https://polygon.technology            |
-| Layer 2         | Arbitrum    | https://arbitrum.io                   |
-| Layer 1         | Polkadot    | https://polkadot.network              |
-| Layer 1         | Ethereum    | https://ethereum.org                  |
-| Layer 2         | Optimism    | https://optimism.io                   |
-| Layer 1         | Avalanche   | https://www.avax.network              |
-| Layer 1         | BNB Chain   | https://www.bnbchain.org              |
-| Layer 1         | OKEx Chain  | https://www.okex.com/okexchain        |
-| Parachain       | Moonbeam    | https://moonbeam.network              |
-| Parachain       | Moonriver   | https://moonbeam.network/moonriver    |
+| Num | Chain Type        | Chain Name    | Chain Website                         |
+|-----|-------------------|---------------|---------------------------------------|
+| 1   | Layer 1           | KCC           | https://www.kcc.io                    |
+| 2   | Layer 2           | Fuse          | https://fuse.io                       |
+| 3   | Layer 1           | Tron          | https://tron.network                  |
+| 4   | Layer 1           | Celo          | https://celo.org                      |
+| 5   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 6   | Layer 1           | Boda          | [Website not provided]                |
+| 7   | Layer 1           | Beam          | https://www.beam.mw                   |
+| 8   | Layer 1           | Velas         | https://www.velas.com                 |
+| 9   | Layer 1           | Telos         | https://telos.net                     |
+| 10  | Layer 1           | Tezos         | https://tezos.com                     |
+| 11  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 12  | Layer 2           | Metis         | https://metis.io                      |
+| 13  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 14  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 15  | Layer 2           | zkSync        | https://zksync.io                     |
+| 16  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 17  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 18  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 19  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 20  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 21  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 22  | Layer 2           | Polygon       | https://polygon.technology            |
+| 23  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 24  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 25  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 26  | Layer 2           | Optimism      | https://optimism.io                   |
+| 27  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 28  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 29  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 30  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 31  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 32  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
