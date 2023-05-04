@@ -759,7 +759,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 <br>
 
-### YSL.IO (Apr 21, 2023) - Cross-chain Swaps
+## YSL.IO (Apr 21, 2023) - Cross-chain Swaps
 
 **Links:**
 
@@ -776,7 +776,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
+## XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
 
 **Links:**
 
@@ -793,7 +793,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
+## DBXen (Feb 16, 2023) - Cross-chain Yield Generation
 
 **Links:**
 
