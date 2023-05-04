@@ -399,15 +399,22 @@ Of the entire 0.5% swap fee, half (0.25%) is distributed to XNF stakers in the f
 
 ## ◽️ Costs of Burning DXN and xYSL
 
-In order to burn DXN, or xYSL on the Xenify platform, users must pay the transaction gas fee and an additional mandatory Protocol fee. The Protocol fee is calculated as follows:
+Engaging with the Xenify platform to burn DXN or xYSL tokens involves the transaction gas fee and an additional, mandatory Protocol fee. This unique fee structure rewards users with discounts based on the number of batches they burn. The more batches you burn, the bigger the discount - reaching up to 50% off for 10,000 batches! The Protocol fee is calculated using the following formula:
 
 <br>
 
 $$
-Protocol fee = Gas Spent * (1 - 0.00005 * Number of Batches) * Number of Batches
+PF = GS \times (1 - (NB \times CS)) \times NB
 $$
 
 <br>
+
+- $PF$ - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
+- $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
+- $CS$ - The constant 0.00005, used to factor in the discount on the protocol fee.
+- $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in protocol fees as the number of batches increases.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 A batch is a fixed number of tokens to burn, depending on the token being burned (DXN or xYSL).
 
@@ -422,22 +429,6 @@ In essence, the Protocol fee calculation determines the fees charged from a user
 
 By structuring the fee calculation this way, Xenify encourages users to perform larger, more efficient burn operations by gradually charging them lower fees as they increase the number of batches being burned. This system promotes efficiency and incentivizes users to contribute to the platform while enjoying the benefits of reduced fees for larger transactions.
 
-<br>
-
-$$
-PF = GS (1 − 0.00005 * NB) * NB
-$$
-
-<br>
-
-**Notations:**
-
-- **PF** - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
-- **GS** - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
-- **NB** - Number of Batches, the number of batches the user burns, influencing the discount in protocol fees as the number of batches increases.
-
-The constant 0.00005 is used to factor in the discount on the protocol fee.
-
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Reward Cycle Distribution
@@ -447,17 +438,17 @@ The "User Reward/Cycle" formula calculates the rewards percentage that a specifi
 <br>
 
 $$
-URC = TCR × UBN / TBN
+URC = TCR \times \frac{UBN}{TBN}
 $$
 
 <br>
 
 **Where:**
 
-- **URC:** The reward earned by a specific user in a particular cycle.
-- **TCR:** The total amount of rewards distributed among all users in a particular cycle.
-- **UBN:** The total number of batches a specific user has burned during the cycle.
-- **TBN:** The total number of batches burned by all users during the cycle.
+- $URC$ - The reward earned by a specific user in a particular cycle.
+- $TCR$ - The total amount of rewards distributed among all users in a particular cycle.
+- $UBN$ - The total number of batches a specific user has burned during the cycle.
+- $TBN$ - The total number of batches burned by all users during the cycle.
 
 The XNF rewards are calculated based on the gas consumed from burning DXN or xYSL. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
 
@@ -504,14 +495,14 @@ To ensure a smooth and successful start for Xenify, a special liquidity provisio
 <br>
 
 $$
-IP = NT / TXT
+IP = NT \div TXT
 $$
 
 **Where:**
 
-- **IP:** Initial Price
-- **NT:** Total Value of Native Tokens Collected
-- **TXT:** Total XNF Tokens (10,000)
+- $IP$ - Initial Price
+- $NT$ - Total Value of Native Tokens Collected
+- $TXT$ - Total XNF Tokens (10,000)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
