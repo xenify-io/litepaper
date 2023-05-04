@@ -416,12 +416,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-A batch is a fixed number of tokens to burn, depending on the token being burned (DXN or xYSL).
-
-For example, on Ethereum:
-
-- 1 batch = [Fixed Number] DXN tokens
-- 1 batch = [Fixed Number] xYSL tokens
+A batch represents a fixed number of tokens designated for burning, depending on the specific token type, either DXN or xYSL. This setup ensures a straightforward and uniform method for token burning, contributing to a clear and concise understanding for litepaper readers. For example, one batch might consist of one DXN token, while another batch might include one xYSL token.
 
 To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or xYSL) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
 
