@@ -772,7 +772,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [xYSL Token](https://docs.ysl.io/overview-1/YSL-Nomics/xysl)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
 
@@ -789,7 +789,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### DBXen (Feb 16, 2023) - Cross-chain Yield Generation
 
@@ -806,7 +806,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
-![Grey V3](https://user-images.githubusercontent.com/60996729/235287145-8bfd340f-6111-4ba9-b029-3d39a2b61e34.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 <br>
 
