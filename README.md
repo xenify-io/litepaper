@@ -504,8 +504,14 @@ To ensure a smooth and successful start for Xenify, a special liquidity provisio
 <br>
 
 $$
-Initial Price = Native Tokens Collected / 10000
+IP = NT / TXT
 $$
+
+**Where:**
+
+- **IP:** Initial Price
+- **NT:** Total Value of Native Tokens Collected
+- **TXT:** Total XNF Tokens (10,000)
 
 <br>
 
