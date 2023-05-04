@@ -391,7 +391,7 @@ The reward pool decreases according to the halving model, leading to the distrib
 
 ## ◽️ Costs of Swapping on Xenify
 
-Swapping tokens on the Xenify protocol involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.5% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem and supporting the platform's growth.
+Swapping tokens on the Xenify protocol involves a swap fee, which contributes to the rewards pool for XNF token holders. When users perform a token swap on Xenify, they are required to pay a swap fee, set at 0.5% of the total swap amount. This fee is aimed at rewarding XNF stakers for their participation in the ecosystem and supporting the protocol's growth.
 
 Of the entire 0.5% swap fee, half (0.25%) is distributed to XNF stakers in the form of native chain tokens as an incentive for their participation in the ecosystem. The remaining half (0.25%) goes to the team. Additionally, the swap fee grants users a position in the daily cycle of XNF rewards. The team will use the funds to support Xenify's ongoing development, marketing, and outreach efforts, playing a crucial role in raising awareness and adoption of XEN, DXN, xYSL, and XNF tokens, and ensuring the platform's continued growth and success.
 
