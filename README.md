@@ -806,8 +806,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 - [Cost of Burning](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Token Distribution](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
