@@ -168,7 +168,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 # ◽️ DXN Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br>
+## ◽️ Total Supply: 5,010,000
 
 DBXen ($DXN) is a groundbreaking digital asset within the XEN ecosystem, designed to contribute to $XEN deflation and provide its users with new opportunities to create value. The primary objective of the project is to offer a fair and equitable distribution of tokens with a community-driven approach, ultimately resulting in a decentralized and transparent ecosystem.
 
@@ -188,7 +188,7 @@ In conclusion, DBXen ($DXN) aims to create a sustainable and transparent ecosyst
 # ◽️ xYSL Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br>
+## ◽️ Total Supply: 80,000
 
 xYSL is a revolutionary hyper-deflationary token engineered to create sustainable value appreciation through its unique tokenomics and autonomous algorithm. The token has been designed to increase in price and scarcity regardless of the market situation, making it an ideal investment for those seeking long-term success in the cryptocurrency space.
 
