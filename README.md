@@ -414,7 +414,7 @@ $$
 - $CS$ - The constant 0.00005, used to factor in the discount on the protocol fee.
 - $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in protocol fees as the number of batches increases.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 A batch represents a fixed number of tokens designated for burning, depending on the specific token type, either DXN or xYSL. This setup ensures a straightforward and uniform method for token burning, contributing to a clear and concise understanding for litepaper readers. For example, one batch might consist of one DXN token, while another batch might include one xYSL token.
 
@@ -444,6 +444,8 @@ $$
 - $TCR$ - The total amount of rewards distributed among all users in a particular cycle.
 - $UBN$ - The total number of batches a specific user has burned during the cycle.
 - $TBN$ - The total number of batches burned by all users during the cycle.
+
+<br>
 
 The XNF rewards are calculated based on the gas consumed from burning DXN or xYSL. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
 
