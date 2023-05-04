@@ -25,6 +25,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
+- [DXN Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-dxn-overview)
+- [xYSL Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xysl-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-overview)
 - [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
 - [Liquidity Provisioning](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-liquidity-provisioning)
