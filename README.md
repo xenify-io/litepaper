@@ -495,7 +495,7 @@ To ensure a smooth and successful start for Xenify, a special liquidity provisio
 
 On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralized token distribution. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability. The initial price of XNF tokens will be based on the amount of native tokens received against the 10,000 XNF. 
 
-The formula for the initial price is:
+#### ▫️ The formula for the initial price is:
 
 <br>
 
