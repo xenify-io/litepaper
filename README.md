@@ -595,12 +595,6 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Sacrifice
-
-- Xenify's tokenomics eliminates the need for users to relinquish other tokens or assets, as tokens are earned through active participation and burning of DXN or xYSL.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ No Back Doors
 
 - The smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the protocol's security and trustworthiness.
