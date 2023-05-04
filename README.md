@@ -463,21 +463,21 @@ The XNF rewards are calculated based on the gas consumed from burning DXN or xYS
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Staking XNF tokens
+## ◽️ Staking XNF Tokens
 
-Unclaimed XNF tokens are considered as staked within the protocol. Claimed or unstaked XNF needs to be staked back into the protocol in order to generate the respective rewards. Unclaimed+Staked XNF will generate passive income in the blockchain's native token based on the share from the reward pool entitled to each respective user.
+With Xenify, unclaimed XNF tokens are seamlessly staked within the protocol, generating native chain rewards for stakers. To further maximize these rewards, simply stake your collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens work in tandem to yield native chain rewards, based on each user's share from the native chain reward pool.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Unstaking XNF tokens
+## ◽️ Collecting XNF Equity
+
+As each cycle comes to an end, the equity you've earned becomes available for collection. Collecting your XNF rewards from previous cycles is entirely optional and depends on your preferences. You can choose to keep your equity staked to maximize native chain rewards or collect it for trading purposes.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Unstaking XNF Tokens
 
 The staked XNF tokens that have reached the cycle in which they are unlocked can be unstaked, returning them to the user's possession.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Claiming Equity (XNF)
-
-Once a cycle ends, the equity associated with it are ready to be claimed. A user claiming their rewards will be granted the entire amount of XNF tokens earned in all previous cycles.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
