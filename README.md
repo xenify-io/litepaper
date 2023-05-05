@@ -818,9 +818,9 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [Polygon](https://polygonscan.com/address/0x4F3ce26D9749C0f36012C9AbB41BF9938476c462)
  - [Ethereum](https://etherscan.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
  - [BNB Chain](https://bscscan.com/address/0x9caf6C4e5B9E3A6f83182Befd782304c7A8EE6De)
- - [Avalanche]()
- - [Moonbeam]()
- - [Ethereum PoW]()
+ - [Avalanche](https://snowtrace.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
+ - [Moonbeam](https://moonbeam.moonscan.io/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
+ - [Ethereum PoW](https://www.oklink.com/ethw/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
 
 ## ◽️XENFT APEX
 
