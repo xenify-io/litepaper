@@ -179,11 +179,9 @@ DBXen (DXN) is a groundbreaking digital asset within the XEN ecosystem that cont
 
 The deflationary mechanism of DXN is one of its key features. As a capped token, DXN can only be minted through the burning of XEN tokens, reducing their total supply and addressing inflation concerns. Furthermore, DXN tokens serve as an income stream for stakers, who receive native chain rewards until the entire DXN supply is distributed over approximately 62 years.
 
-DBXen protocol's commitment to a fair launch eliminates pre-mines, treasury allocations, and private/public sales, ensuring equal distribution for all users. The pre-programmed token distribution algorithm guarantees transparency and fairness, as it cannot be altered or reverted once live.
+DBXen protocol's commitment to a fair launch eliminates pre-mines, treasury allocations, and private/public sales, ensuring equal distribution for all users. This approach, coupled with the pre-programmed token distribution algorithm, guarantees transparency and fairness, as it cannot be altered or reverted once live.
 
-With a total supply capped at around 5.01 million, DXN tokens offer long-term stability and scarcity. Distribution occurs in one-day cycles, starting with an initial reward pool of 10,000 DXN tokens, which decreases by approximately 0.2% per cycle for a gradual distribution process.
-
-Additionally, DXN tokens staked within the protocol generate native token rewards each time a new XEN burn occurs, providing an extra incentive for users to participate in the DBXen ecosystem.
+With a total supply capped at around 5.01 million, DXN tokens offer long-term stability and scarcity. The distribution process occurs in one-day cycles, starting with an initial reward pool of 10,000 DXN tokens, which decreases by approximately 0.2% per cycle, promoting a gradual distribution. Moreover, DXN tokens staked within the protocol generate native token rewards each time a new XEN burn occurs, providing an extra incentive for users to participate in the DBXen ecosystem.
 
 In conclusion, DBXen (DXN) aspires to build a sustainable, transparent ecosystem that benefits the community by addressing inflation and offering passive income opportunities. By leveraging the collective power of the community, DBXen aims to create a more equitable, decentralized, and prosperous digital asset landscape within the XEN ecosystem. This environment allows users to actively participate and enjoy the rewards of their involvement. Committed to fairness, transparency, and innovation, DBXen is set to make a lasting impact on the XEN ecosystem, contributing to its overall success.
 
