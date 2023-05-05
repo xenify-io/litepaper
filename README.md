@@ -106,13 +106,13 @@ Xenify is driven by a powerful vision that seeks to revolutionize the DeFi lands
 
 <br>
 
-Xenify's mission is to revolutionise the DeFi landscape by overcoming the challenges and limitations that have impeded mainstream adoption of decentralised finance. Our primary focus is on simplifying cross-chain aggregation and delivering an enjoyable, seamless user experience.
+At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying cross-chain token movement, we strive to deliver a thrilling, seamless user experience.
 
-As a cutting-edge cross-chain swap aggregator, we're committed to creating an effortless, secure, and fair platform for swapping and staking tokens across various EVM networks. We pledge to continuously enhance and optimise Xenify's features, adapting to the dynamic needs of the XEN community while attracting a diverse user base.
+As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the XEN community while attracting a broad user base.
 
-By embracing cross-chain capabilities and interoperability, we aim to support an array of EVM networks, fostering stronger connections within the DeFi ecosystem. Utilising advanced liquidity aggregation and cross-chain functionality, we streamline interactions between different chains, unleashing the full potential of DeFi.
+By championing cross-chain capabilities and interoperability, we set our sights on supporting an extensive array of EVM networks, fostering robust connections within the DeFi ecosystem. Utilizing cutting-edge liquidity aggregation and cross-chain functionality, we enable seamless interactions between different chains, unlocking the immense potential of DeFi.
 
-Xenify is dedicated to promoting community-driven growth and collaboration within the XEN ecosystem. We're passionate about empowering our users to actively participate in the development and expansion of the protocol. Our mission is to cultivate a thriving, global community of users and enthusiasts, united by a shared vision of making decentralised finance more accessible, inclusive, and user-friendly.
+Xenify is dedicated to cultivating community-driven growth and collaboration within the XEN ecosystem. Our passion lies in empowering our users to actively participate in the development and expansion of the protocol. Our mission is to establish a thriving, global community of users and enthusiasts, united by a shared vision of making decentralized finance more accessible, inclusive, and exhilarating.
 
 <br>
 
