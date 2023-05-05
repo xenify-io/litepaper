@@ -347,15 +347,13 @@ To achieve this thrilling distribution, the 21 million XNF total supply is split
 
 XNF will be deployed onto the following chains:
 
+- Evmos
+- Fantom
+- Polygon
 - Ethereum
 - BNB Chain
-- Polygon
 - Avalanche
 - Moonbeam
-- Fantom
-- Evmos
-- OKChain
-- Dogechain
 - Ethereum PoW
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
