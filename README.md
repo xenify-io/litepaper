@@ -351,8 +351,8 @@ XNF will be deployed onto the following chains:
 - Fantom
 - Polygon
 - Ethereum
-- BNB Chain
 - Avalanche
+- BNB Chain
 - Moonbeam
 - Ethereum PoW
 
