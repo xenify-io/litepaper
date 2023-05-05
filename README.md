@@ -50,11 +50,13 @@ Welcome to Xenify, a groundbreaking protocol that combines DBXen's innovative to
 
 At the core of Xenify's vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 19 different aggregators across leading chains such as Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Utilizing advanced APIs, Xenify ensures smooth communication with various DEX aggregators, significantly enhancing the user swapping experience and simplifying the process of identifying the best swap routes across multiple chains.
 
-Xenify's ingenious swap fee implementation serves multiple objectives, creating a win-win situation for all. Staked XNF holders receive an impressive 50% of swap fees as native chain rewards on all chains, while the remaining 50% supports Xenify's ongoing development, marketing, and outreach efforts. This strategic allocation mechanism plays a crucial role in raising awareness, driving adoption, and promoting long-term growth and sustainability for the protocol, benefiting both users and the platform itself.
+Xenify's inbuilt swap fee and protocol fee allocation mechanisms foster a mutually beneficial environment for all participants. Staked XNF holders enjoy a remarkable 50% of swap fees as native chain rewards on all chains, while the remaining 50% supports Xenify's ongoing development, marketing, and outreach efforts. This strategic allocation plays a crucial role in raising awareness, driving adoption, and promoting long-term growth and sustainability for the protocol, benefiting both users and the protocol itself.
+
+Additionally, Xenify's unique design ensures that 100% of the protocol fees generated from the burning of DXN and xYSL are distributed back to XNF stakers. This approach further incentivizes user participation and enhances the rewards for those actively engaged with the platform.
 
 Central to Xenify's commitment to fairness and transparency is its unique distribution model. There will be no team, founder, or investor allocations, and the only way to mint XNF tokens is through active participation in the ecosystem by burning or swapping tokens. This approach ensures a truly equitable distribution of XNF tokens, rewarding users for their contributions and fostering a community-driven platform.
 
-By integrating ChainZap's state-of-the-art liquidity aggregation with its unique tokenomics, Xenify paves the way for a new era in DeFi. This comprehensive approach offers a one-stop solution for users navigating the complexities of decentralized finance, ensuring easy access to a wide array of swap routes and a user-centric platform that prioritizes their long-term success and satisfaction.
+By integrating ChainZap's state-of-the-art liquidity aggregation with its unique tokenomics, Xenify paves the way for a new era in DeFi. By combining these innovative allocation mechanisms, Xenify fosters a thriving ecosystem that prioritizes user satisfaction and long-term success, while continuously supporting the protocol's growth and development.
 
 <br>
 
