@@ -620,7 +620,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ Proof of Participation
 
-- Users will reap rewards based on their active engagement and contribution to the ecosystem, endorsing a fair and merit-based reward system.
+- Users will earn rewards proportionate to their active engagement and contributions within the ecosystem, fostering a merit-based reward system that promotes fairness and inclusivity for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -632,13 +632,13 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ No Initial Coin Offering 
 
-- Xenify will abstain from conducting an ICO, further underlining its unwavering commitment to a fair and transparent launch for all participants.
+- Xenify will forego an ICO, reinforcing its steadfast commitment to a fair and transparent launch that ensures equal opportunities for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Immutable, No Admin Keys
 
-- Xenify's smart contracts will be meticulously designed without admin keys or centralized control, securing the protocol's immutability and decentralised essence.
+- Xenify's smart contracts will be carefully crafted without admin keys or centralized control, safeguarding the protocol's immutability and preserving its decentralized nature..
 
 <br>
 
