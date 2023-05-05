@@ -347,7 +347,9 @@ XNF will be deployed onto the following chains:
 - Evmos
 - Fantom
 - Polygon
+- Arbitrum
 - Ethereum
+- Optimism
 - Avalanche
 - BNB Chain
 - Moonbeam
