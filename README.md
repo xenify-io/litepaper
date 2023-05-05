@@ -813,25 +813,14 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ## ◽️DXN
 
- - [Evmos](https://escan.live/address/0xc418B123885d732ED042b16e12e259741863F723)
- - [Fantom](https://ftmscan.com/address/0xc418B123885d732ED042b16e12e259741863F723)
- - [Polygon](https://polygonscan.com/address/0x47DD60FA40A050c0677dE19921Eb4cc512947729)
- - [Ethereum](https://etherscan.io/address/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
- - [Avalanche](https://snowtrace.io/address/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
- - [BNB Chain](https://bscscan.com/address/0xCcd09b80453335aa914f5d9174984b6586c315EC)
- - [Moonbeam](https://moonbeam.moonscan.io/address/0xc418B123885d732ED042b16e12e259741863F723)
- - [Ethereum PoW](https://www.oklink.com/ethw/address/0xc418B123885d732ED042b16e12e259741863F723)
-
-## ◽️DBXen
-
- - [Evmos](https://escan.live/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
- - [Fantom](https://ftmscan.com/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
- - [Polygon](https://polygonscan.com/address/0x4F3ce26D9749C0f36012C9AbB41BF9938476c462)
- - [Ethereum](https://etherscan.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
- - [Avalanche](https://snowtrace.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
- - [BNB Chain](https://bscscan.com/address/0x9caf6C4e5B9E3A6f83182Befd782304c7A8EE6De)
- - [Moonbeam](https://moonbeam.moonscan.io/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
- - [Ethereum PoW](https://www.oklink.com/ethw/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
+ - [Evmos](https://escan.live/token/0xc418B123885d732ED042b16e12e259741863F723)
+ - [Fantom](https://ftmscan.com/token/0xc418B123885d732ED042b16e12e259741863F723)
+ - [Polygon](https://polygonscan.com/token/0x47DD60FA40A050c0677dE19921Eb4cc512947729)
+ - [Ethereum](https://etherscan.io/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
+ - [Avalanche](https://snowtrace.io/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
+ - [BNB Chain](https://bscscan.com/token/0xCcd09b80453335aa914f5d9174984b6586c315EC)
+ - [Moonbeam](https://moonbeam.moonscan.io/token/0xc418B123885d732ED042b16e12e259741863F723)
+ - [Ethereum PoW](https://www.oklink.com/ethw/token/0xc418B123885d732ED042b16e12e259741863F723)
 
 ## ◽️XENFT APEX
 
