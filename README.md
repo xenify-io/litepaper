@@ -782,6 +782,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 **Influential Concepts:**
 
+- [XENFT APEX](https://faircrypto.org/xenft_litepaper.pdf)
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
