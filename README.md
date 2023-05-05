@@ -614,7 +614,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 ## ◽️ No Investor Allocation
 
-- Token allocation for investors is non-existent, safeguarding a fair distribution of tokens among users who actively contribute to the ecosystem.
+- There is no token allocation for privileged investors or venture capitalists, promoting a truly equitable distribution of tokens among users actively engaged in the ecosystem. This strategy removes any preferential treatment and fosters a more inclusive and fair environment for everyone involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
