@@ -67,9 +67,7 @@ By fusing ChainZap's state-of-the-art liquidity aggregation with its unique toke
 
 <br>
 
-Xenify's vision is fueled by an unwavering commitment to transform the DeFi landscape and uphold the First Principles of Crypto. Driven by a set of core guiding values that not only shape our protocol's strategic direction but also elevate the user experience, we aim to create a groundbreaking DeFi experience that is fair, accessible, and empowering for users around the world. By championing the First Principles of Crypto, including permissionless access, transparency, trustlessness, decentralization, and immutability, we strive to propel the DeFi ecosystem to new heights while making a positive difference in the world of cryptocurrency.
-
-As an integral part of the Xen ecosystem, Xenify shares the vision of bringing cryptocurrency back to its fundamentals and freeing it from the clutches of greed and malice that have clouded the space. We are grateful and proud to support and benefit from a protocol that is dedicated to making a transformative impact on the cryptocurrency landscape, and we remain focused on fostering a community that upholds the First Principles of Crypto, ensuring a bright and decentralized future for all.
+Xenify's vision is fueled by an unwavering commitment to transform the DeFi landscape and uphold the First Principles of Crypto. Driven by a set of core guiding values, we aim to create a groundbreaking DeFi experience that is fair, accessible, and empowering for users around the world. As an integral part of the Xen ecosystem, Xenify remains focused on fostering a community that upholds the First Principles of Crypto, ensuring a bright and decentralized future for all. These core values not only shape our protocol's strategic direction but also elevate the user experience:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
