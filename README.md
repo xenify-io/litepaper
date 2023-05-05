@@ -820,7 +820,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [Avalanche](https://snowtrace.io/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
  - [BNB Chain](https://bscscan.com/token/0xCcd09b80453335aa914f5d9174984b6586c315EC)
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xc418B123885d732ED042b16e12e259741863F723)
- - [Ethereum PoW](https://www.oklink.com/ethw/token/0xc418B123885d732ED042b16e12e259741863F723)
+ - [Ethereum PoW](https://www.oklink.com/ethw/address/0xc418b123885d732ed042b16e12e259741863f723)
 
 ## ◽️XENFT APEX
 
