@@ -523,7 +523,7 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 <br>
 
-Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT), an exclusive collectible that unifies the XEN, DBXen, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold one. The Phoenix Ape NFT not only enhances the burn effect on Xenify, but also provides a range of enticing benefits for its holders. By offering these additional perks, the Phoenix Ape NFT elevates the user experience and adds significant value to the Xenify ecosystem.
+Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XEN NFT Rare](https://faircrypto.org/xenft_litepaper.pdf), exclusive collectibles that unify the XEN, DBXen, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape and XEN NFT Rare elevate the user experience and add significant value to the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -541,7 +541,7 @@ Introducing the [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-
 
 ## ◽️ Amplified Burn Effect
 
-  - Holders of the Phoenix Ape NFT will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
+  - Holders of either the Phoenix Ape NFT or XEN NFT Rare will have their burns amplified during the burn process on Xenify. This advantage allows NFT holders to increase the burn effect, effectively doubling their batch burn. For instance, if they burn 1 batch, it will be considered as 2 batches if they hold an NFT at the time of the burn. This exclusive feature fosters unity between all four communities while providing additional value to NFT holders.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
