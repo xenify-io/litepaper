@@ -175,17 +175,17 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 ## ◽️ Total Supply: 5,010,000
 
-DBXen ($DXN) is a groundbreaking digital asset within the XEN ecosystem, designed to contribute to $XEN deflation and provide its users with new opportunities to create value. The primary objective of the project is to offer a fair and equitable distribution of tokens with a community-driven approach, ultimately resulting in a decentralized and transparent ecosystem.
+DBXen (DXN) is a groundbreaking digital asset within the XEN ecosystem that contributes to $XEN deflation while providing users with new value creation opportunities. The project's primary objective is to ensure a fair and equitable token distribution through a community-driven approach, fostering a decentralized and transparent ecosystem.
 
-The deflationary mechanism of $DXN is one of its key features. As a capped token, $DXN can only be minted through the burning of $XEN tokens. This process reduces the total supply of $XEN tokens and addresses inflation concerns. Additionally, $DXN token holders receive rewards as the token is further minted, creating a passive income stream for users until the entire $DXN supply is distributed over approximately 62 years.
+The deflationary mechanism of DXN is one of its key features. As a capped token, DXN can only be minted through the burning of XEN tokens, reducing their total supply and addressing inflation concerns. Furthermore, DXN tokens serve as an income stream for stakers, who receive native chain rewards until the entire DXN supply is distributed over approximately 62 years.
 
-DBXen protocol is committed to a fair launch, ensuring that no pre-mines, treasury allocations, private/public sales, or developer fees are involved. This approach guarantees a fair distribution of tokens for all users. The token distribution algorithm is pre-programmed and cannot be altered or reverted once live, providing transparency and fairness for all participants.
+DBXen protocol's commitment to a fair launch eliminates pre-mines, treasury allocations, and private/public sales, ensuring equal distribution for all users. The pre-programmed token distribution algorithm guarantees transparency and fairness, as it cannot be altered or reverted once live.
 
-The total supply of $DXN tokens is capped at around 5.01 million, delivering long-term stability and scarcity. Distribution of $DXN tokens occurs in one-day cycles, with an initial reward pool of 10,000 $DXN tokens. The reward pool decreases by approximately 0.2% per cycle, ensuring a gradual distribution process.
+With a total supply capped at around 5.01 million, DXN tokens offer long-term stability and scarcity. Distribution occurs in one-day cycles, starting with an initial reward pool of 10,000 DXN tokens, which decreases by approximately 0.2% per cycle for a gradual distribution process.
 
-Lastly, $DXN tokens staked within the protocol accumulate native token fees, which are accrued every time a new $XEN burn is made. This feature adds another layer of incentive for users to participate in the DBXen ecosystem.
+Additionally, DXN tokens staked within the protocol generate native token rewards each time a new XEN burn occurs, providing an extra incentive for users to participate in the DBXen ecosystem.
 
-In conclusion, DBXen ($DXN) aims to create a sustainable and transparent ecosystem that benefits the community by combating inflation and providing passive income opportunities. By leveraging the power of blockchain technology, DBXen seeks to establish a more equitable and decentralized digital asset landscape.
+In conclusion, DBXen (DXN) aspires to build a sustainable, transparent ecosystem that benefits the community by addressing inflation and offering passive income opportunities. By leveraging the collective power of the community, DBXen aims to create a more equitable, decentralized, and prosperous digital asset landscape within the XEN ecosystem. This environment allows users to actively participate and enjoy the rewards of their involvement. Committed to fairness, transparency, and innovation, DBXen is set to make a lasting impact on the XEN ecosystem, contributing to its overall success.
 
 <br>
 
