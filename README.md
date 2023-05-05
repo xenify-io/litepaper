@@ -36,6 +36,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Conclusion](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-conclusion)
 - [Glossary](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-glossary)
 - [Acknowledgements](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-acknowledgements)
+- [Contract Addresses](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-contract-addresses)
 - [Xenify Helpful Links](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-helpful-links)
 
 <br>
