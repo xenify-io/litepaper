@@ -822,9 +822,13 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xc418B123885d732ED042b16e12e259741863F723)
  - [Ethereum PoW](https://www.oklink.com/ethw/address/0xc418b123885d732ed042b16e12e259741863f723)
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️xYSL V1
 
  - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️XENFT APEX
 
@@ -836,6 +840,8 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [BNB Chain](https://bscscan.com/address/0x1ac17ffb8456525bff46870bba7ed8772ba063a5)
  - [Moonbeam](https://moonbeam.moonscan.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
  - [Ethereum PoW](https://www.oklink.com/ethw/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️Phoenix Ape NFTs
 
