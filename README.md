@@ -523,19 +523,19 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 <br>
 
-Introducing the [Phoenix Ape NFTs](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEX NFTs](https://faircrypto.org/xenft_litepaper.pdf), exclusive collectibles that unite the XEN, DBXen, and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify, but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape NFTs and XENFT APEX NFTs elevate the user experience and add significant value to the Xenify ecosystem.
+Introducing the [Phoenix Ape NFTs](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEX NFTs](https://faircrypto.org/xenft_litepaper.pdf), exclusive collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape NFTs and XENFT APEX NFTs elevate the user experience and add significant value to the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Future Airdrops
 
-  - Phoenix Ape NFT holders will be eligible for future airdrops of new projects within the YSL.IO ecosystem, adding more value and incentives to owning this exclusive collectible.
+  - Holders of either Phoenix Ape NFTs or XENFT APEX NFTs will be eligible for future airdrops of new projects within the YSL.IO ecosystem, adding more value and incentives to owning these exclusive collectibles.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Limited Collectible
 
-  - The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset.
+  - The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset. On the other hand, XENFT APEX NFTs have a larger supply of 10,000 and are based on classes, with the minting price determined by the amount of XEN burned for each NFT. This structure provides additional options and incentives for users who want to participate in the Xenify ecosystem and support its growth through the burning of XEN tokens.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -547,13 +547,13 @@ Introducing the [Phoenix Ape NFTs](https://docs.ysl.io/protocol-features/Phoenix
 
 ## ◽️ Claimable USDC Rewards
 
-  - A portion of the rental income collected as tax, combined with a share of the royalty taxes taken on OpenSea, will be distributed to all NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch. However, it is important to note that if the NFT is bridged to another chain to amplify the burns, the holder will not be part of the USDC distribution. The claimable USDC rewards are exclusively for addresses holding the NFT on the BNB Chain.
+  - A portion of the rental income collected as tax, combined with a share of the royalty taxes taken on OpenSea, will be distributed to all Phoenix Ape NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch. However, it is important to note that if the NFT is bridged to another chain to amplify the burns, the holder will not be part of the USDC distribution. The claimable USDC rewards are exclusively for addresses holding the Phoenix Ape NFT on the BNB Chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unique Rental Mechanism
   
-  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your NFT, you contribute to the generation of LP tokens that are utilised in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding an NFT.
+  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your Phoenix Ape NFT, you contribute to the generation of LP tokens that are utilised in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, Phoenix Ape NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding this exclusive NFT.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
