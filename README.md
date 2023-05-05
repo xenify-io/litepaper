@@ -808,6 +808,36 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Contract Addresses
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️DXN
+
+ - [Evmos](https://escan.live/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
+ - [Fantom](https://ftmscan.com/address/0x2A9C55b6Dc56da178f9f9a566F1161237b73Ba66)
+ - [Polygon](https://polygonscan.com/address/0x4F3ce26D9749C0f36012C9AbB41BF9938476c462)
+ - [Ethereum](https://etherscan.io/address/0xF5c80c305803280B587F8cabBcCdC4d9BF522AbD)
+ - [BNB Chain](https://bscscan.com/address/0x9caf6C4e5B9E3A6f83182Befd782304c7A8EE6De)
+ - [Avalanche]()
+ - [Moonbeam]()
+ - [Ethereum PoW]()
+
+## ◽️XENFT APEX
+
+ - [Evmos](https://escan.live/address/0x4c4CF206465AbFE5cECb3b581fa1b508Ec514692)
+ - [Fantom](https://ftmscan.com/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
+ - [Polygon](https://polygonscan.com/address/0x726bB6aC9b74441Eb8FB52163e9014302D4249e5)
+ - [Ethereum](https://etherscan.io/address/0x0a252663DBCc0b073063D6420a40319e438Cfa59)
+ - [BNB Chain](https://bscscan.com/address/0x1ac17ffb8456525bff46870bba7ed8772ba063a5)
+ - [Avalanche](https://snowtrace.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
+ - [Moonbeam](https://moonbeam.moonscan.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
+ - [Ethereum PoW](https://www.oklink.com/ethw/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Helpful Links
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
