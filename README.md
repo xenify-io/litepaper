@@ -109,7 +109,7 @@ Xenify's vision is fueled by an unwavering commitment to transform the DeFi land
 
 At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying cross-chain token movement, we strive to deliver a thrilling, seamless user experience.
 
-As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the XEN community while attracting a broad user base.
+As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the Xenian community while attracting a broad user base.
 
 By championing cross-chain capabilities and interoperability, we set our sights on supporting an extensive array of EVM networks, fostering robust connections within the DeFi ecosystem. Utilizing cutting-edge liquidity aggregation and cross-chain functionality, we enable seamless interactions between different chains, unlocking the immense potential of DeFi.
 
@@ -183,7 +183,7 @@ DBXen protocol's commitment to a fair launch eliminates pre-mines, treasury allo
 
 With a total supply capped at around 5.01 million, DXN tokens offer long-term stability and scarcity. The distribution process occurs in one-day cycles, starting with an initial reward pool of 10,000 DXN tokens, which decreases by approximately 0.2% per cycle, promoting a gradual distribution. Moreover, DXN tokens staked within the protocol generate native token rewards each time a new XEN burn occurs, providing an extra incentive for users to participate in the DBXen ecosystem.
 
-In conclusion, DBXen (DXN) aspires to build a sustainable, transparent protocol that benefits the community by addressing inflation and offering staking opportunities. By leveraging the collective power of the XEN community, DBXen aims to create a more equitable, decentralized, and prosperous digital asset landscape within the XEN ecosystem. This environment empowers users to actively participate and enjoy the rewards of their involvement. With a steadfast commitment to fairness, transparency, and innovation, DBXen is set to make a lasting impact on the XEN ecosystem, contributing to its overall success.
+In conclusion, DBXen (DXN) aspires to build a sustainable, transparent protocol that benefits the community by addressing inflation and offering staking opportunities. By leveraging the collective power of the Xenian community, DBXen aims to create a more equitable, decentralized, and prosperous digital asset landscape within the XEN ecosystem. This environment empowers users to actively participate and enjoy the rewards of their involvement. With a steadfast commitment to fairness, transparency, and innovation, DBXen is set to make a lasting impact on the XEN ecosystem, contributing to its overall success.
 
 <br>
 
