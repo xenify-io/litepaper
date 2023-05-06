@@ -481,6 +481,22 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Architecture 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/236628603-56a62e21-fd1a-4414-9bbb-a0427812304d.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/236628624-dfedb941-e1da-41c6-8e48-41a6e2922315.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/236628624-dfedb941-e1da-41c6-8e48-41a6e2922315.png" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Liquidity Provisioning
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
