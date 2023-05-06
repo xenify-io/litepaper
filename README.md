@@ -312,7 +312,7 @@ Xenify's groundbreaking tokenomics structure is centered around fairness, sustai
 
 ## ◽️ Token Supply
 
-The XNF token fuels user engagement with the Xenify platform. With a total supply of 21 million XNF, its distribution follows a fair launch model, eliminating pre-mines, investor allocations, founder allocation, and team allocations. Users can mint their XNF equity by participating in a variety of activities on the platform, such as burning DXN or xYSL tokens and swapping tokens on supported chains.
+The XNF token serves as the driving force for user engagement within the Xenify platform. Boasting a total supply cap of 21 million XNF, its distribution adheres to a transparent and equitable launch model. This approach eliminates pre-mines, investor allocations, founder allocations, and team allocations, ensuring a fair opportunity for all participants. Users can mint their XNF equity by taking part in a diverse range of platform activities, such as burning DXN or xYSL tokens and swapping tokens across supported chains. This innovative token supply model promotes active participation and fosters a thriving, community-driven ecosystem that values user contributions and commitment.
 
 <p align="center" dir="auto">
   <picture>
