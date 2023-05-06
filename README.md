@@ -485,8 +485,6 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 # ◽️ Architecture 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br>
-
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/236633031-7a29d351-a4cc-4279-8eaf-903dc9b6c2be.png" class="source-light">
