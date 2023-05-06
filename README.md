@@ -489,9 +489,9 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/236628603-56a62e21-fd1a-4414-9bbb-a0427812304d.png" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/236628624-dfedb941-e1da-41c6-8e48-41a6e2922315.png" class="source-dark">
-    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/236628624-dfedb941-e1da-41c6-8e48-41a6e2922315.png" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/236633031-7a29d351-a4cc-4279-8eaf-903dc9b6c2be.png" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/236633027-c1445a06-d951-4865-aae7-55ad393cd655.png" class="source-dark">
+    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/236633027-c1445a06-d951-4865-aae7-55ad393cd655.png" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
