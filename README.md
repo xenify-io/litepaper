@@ -306,7 +306,7 @@ Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting fro
 
 <br>
 
-Xenify's innovative tokenomics design prioritizes a fair and sustainable distribution model, rewarding users for actively engaging within its ecosystem. The XNF token, capped at a total supply of 21 million, serves as the central reward for users participating in diverse platform activities, such as token burning and swapping, while interacting with the various components of the Xenify ecosystem.
+Xenify's groundbreaking tokenomics structure is centered around fairness, sustainability, and rewarding users for actively participating in its ecosystem. The XNF token, with a maximum supply of 21 million, acts as the core incentive for users engaging in a range of platform activities, such as burning and swapping tokens, and interacting with the diverse features that Xenify has to offer. By implementing a well-thought-out tokenomics design, Xenify cultivates a robust, community-driven environment that benefits users based on their contributions and involvement in the platform. This approach not only fosters platform growth but also encourages long-term commitment and value creation within the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
