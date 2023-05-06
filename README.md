@@ -522,7 +522,7 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 <br>
 
-Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf), exclusive NFT collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape NFTs and XENFT APEX NFTs elevate the user experience and add significant value to the Xenify ecosystem.
+Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf), exclusive NFT collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Apes and XENFT APEXs elevate the user experience and add significant value to the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -534,7 +534,7 @@ Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT
 
 ## ◽️ Limited Collectible
 
-  - The Phoenix Ape NFT is an exclusive digital collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset. On the other hand, XENFT APEX NFTs have a larger supply of 10,000 and are based on classes, with the minting price determined by the amount of XEN burned for each NFT. This structure provides additional options and incentives for users who want to participate in the Xenify ecosystem and support its growth through the burning of XEN tokens.
+  - The Phoenix Apes are an exclusive NFT collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset. On the other hand, XENFT APEX NFTs have a max supply of 10,000 and are based on rarety classes, with the minting price determined by the amount of XEN burned for each NFT. This structure provides additional options and incentives for users who want to participate in the Xenify ecosystem and support its growth through the burning of XEN tokens.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
