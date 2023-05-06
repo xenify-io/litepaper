@@ -522,7 +522,7 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 <br>
 
-Introducing the [Phoenix Ape NFTs](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEX NFTs](https://faircrypto.org/xenft_litepaper.pdf), exclusive collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape NFTs and XENFT APEX NFTs elevate the user experience and add significant value to the Xenify ecosystem.
+Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf), exclusive NFT collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Ape NFTs and XENFT APEX NFTs elevate the user experience and add significant value to the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
