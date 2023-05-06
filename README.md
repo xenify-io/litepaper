@@ -452,7 +452,7 @@ The XNF rewards are calculated based on the gas consumed from burning DXN or xYS
 
 ## ◽️ Staking XNF Tokens
 
-With Xenify, unclaimed XNF tokens are seamlessly staked within the protocol, generating native chain rewards for stakers. To further maximize these rewards, simply stake your collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens work in tandem to yield native chain rewards, based on each user's share from the native chain reward pool.
+With Xenify, uncollected XNF tokens are seamlessly staked within the protocol, generating native chain rewards for XNF stakers. To further maximize these rewards, simply stake your collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens work in tandem to yield native chain rewards, based on each user's share from the native chain reward pool.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -464,13 +464,13 @@ As each cycle comes to an end, the equity you've earned becomes available for co
 
 ## ◽️ Unstaking XNF Tokens
 
-The staked XNF tokens that have reached the cycle in which they are unlocked can be unstaked, returning them to the user's possession.
+Upon staking XNF tokens, they will remain locked throughout the subsequent cycle, whether it's a gap cycle or not, and will begin to generate fees provided either DXN or xYSL tokens are burned. Once the cycle concludes, users have the option to unstake their tokens, returning them to their possession. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Claiming Native Token Fees
+## ◽️ Claiming Native Token Rewards
 
-Similar to claiming rewards, a user wishing to claim their accumulated fees will withdraw all the native tokens obtained beforehand.
+Just as with collecting equity, users who wish to claim their accumulated native token fees can do so by withdrawing all previously earned native tokens. This process allows users to easily access and manage their rewards, reinforcing the user-centric approach that Xenify is committed to providing. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
