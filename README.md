@@ -529,6 +529,21 @@ $$
 
 Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of DXN and xYSL tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ DEX Liquidity Providers
+
+- Fantom - [SpookySwap](https://spooky.fi) - XNF/FTM
+- Arbitrum - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
+- Ethereum - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
+- Optimism - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
+- Avalanche - [Trader Joe](https://traderjoexyz.com) - XNF/AVAX
+- Polygon - [Uniswap V3](https://app.uniswap.org) - XNF/MATIC
+- BNB Chain - [PancakeSwap](https://pancakeswap.finance) - XNF/BNB
+- Evmos - [SpaceSwap](https://swap-evmos.spacefi.io) - XNF/WEVMOS
+- Ethereum PoW - [Uniwswap](https://app.uniwswap.com) - XNF/ETHW
+- Moonbeam - [Stellaswap](https://app.stellaswap.com/pulsar) - XNF/WGLMR
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
