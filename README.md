@@ -533,16 +533,20 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 ## ◽️ DEX Liquidity Providers
 
-- Fantom - [SpookySwap](https://spooky.fi) - XNF/FTM
-- Arbitrum - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
-- Ethereum - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
-- Optimism - [Uniswap V3](https://app.uniswap.org) - XNF/ETH
-- Avalanche - [Trader Joe](https://traderjoexyz.com) - XNF/AVAX
-- Polygon - [Uniswap V3](https://app.uniswap.org) - XNF/MATIC
-- BNB Chain - [PancakeSwap](https://pancakeswap.finance) - XNF/BNB
-- Evmos - [SpaceSwap](https://swap-evmos.spacefi.io) - XNF/WEVMOS
-- Ethereum PoW - [Uniwswap](https://app.uniwswap.com) - XNF/ETHW
-- Moonbeam - [Stellaswap](https://app.stellaswap.com/pulsar) - XNF/WGLMR
+<br>
+
+| Chain Name         | DEX Name                                        | Liquidity Pairing   |
+| ------------------ | ----------------------------------------------- | ------------------- |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)      | XNF/WEVMOS          |
+| Fantom             | [SpookySwap](https://spooky.fi)                 | XNF/FTM             |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)           | XNF/MATIC           |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)           | XNF/ETH             |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)           | XNF/ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)           | XNF/ETH             |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)          | XNF/AVAX            |
+| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)      | XNF/BNB             |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar) | XNF/WGLMR           |
+| Ethereum PoW       | [Uniwswap](https://app.uniwswap.com)            | XNF/ETHW            |
 
 <br>
 
