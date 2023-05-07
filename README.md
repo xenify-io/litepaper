@@ -531,7 +531,7 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ DEX Liquidity Providers
+## ◽️ XNF Liquidity Pools
 
 <br>
 
