@@ -34,8 +34,8 @@ The data we process is divided into two categories: technical information and da
 
 | Type of data | Description of data | Legal basis | Reasons for processing |
 | --- | --- | --- | --- |
-| Provided | Email address, Binance wallet information (name and ID), unique signature, referral ID, history of referral integrations | Performance of the contract | Providing you service |
-| Provided | Email | Legitimate interest | Customer support |
+| Provided | Wallet information, unique signature | Performance of the contract | Providing you service |
+| Provided | History of swaps | Performance of the platform | Customer support |
 | Automatically collected data | Technical information | Session ID | Legitimate interest | Website operation, analytics, statistics |
 | Collected | Cookies | Consent | Analytics, statistics |
 
