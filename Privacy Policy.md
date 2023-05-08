@@ -22,13 +22,13 @@ The data we process is divided into two categories: technical information and da
 
 ### Technical information
 
-When you visit our website, some data is collected automatically. We need technical data to operate, maintain, and improve our website. This includes data such as IP address, UTM parameters, geolocation, device type, and data about your interaction with the website-session ID. The session ID includes your interaction with the website, the functions you use, the pages viewed on our website, the way you use our website, and the actions you take if such actions are present.
+  - When you visit our website, some data is collected automatically. We need technical data to operate, maintain, and improve our website. This includes data such as IP address, UTM parameters, geolocation, device type, and data about your interaction with the website-session ID. The session ID includes your interaction with the website, the functions you use, the pages viewed on our website, the way you use our website, and the actions you take if such actions are present.
 
 ### Data provided by the user
 
-To provide the service, we need your email address, Binance wallet information (name and ID), unique signature, referral ID, and history of referral integrations.
+  - To provide the service, we need your email address, Binance wallet information (name and ID), unique signature, referral ID, and history of referral integrations. Once again, briefly about what personal data we collect:
 
-Once again, briefly about what personal data we collect:
+<br>
 
 | Type of data | Description of data | Legal basis | Reasons for processing |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ We use your personal data to perform a contract and for communication between us
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️Do We Do Data Transfer Outside the European Economic Area?
+# ◽️ Do We Do Data Transfer Outside the European Economic Area?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
