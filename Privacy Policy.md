@@ -13,7 +13,7 @@ This Privacy Notice applies to our website and services. The website address is 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ What Data Do We Collect and Why?
+## ◽️ What Data Do We Collect and Why?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -40,7 +40,7 @@ The data we process is divided into two categories: technical information and da
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ How Long Do We Keep Your Data?
+## ◽️ How Long Do We Keep Your Data?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -50,7 +50,7 @@ We store personal data in one category - user’s data. We store the personal da
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Do We Share Data with Third Parties?
+## ◽️ Do We Share Data with Third Parties?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -64,7 +64,7 @@ We use your personal data to perform a contract and for communication between us
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Do We Do Data Transfer Outside the European Economic Area?
+## ◽️ Do We Do Data Transfer Outside the European Economic Area?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -74,7 +74,7 @@ The personal data we collect is stored on servers in the EU. By default, the dat
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Do We Use Cookies?
+## ◽️ Do We Use Cookies?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -89,7 +89,7 @@ If you want to disable cookies, then you can find instructions for managing your
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ What Rights Do You Have Regarding Your Data?
+## ◽️ What Rights Do You Have Regarding Your Data?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -112,7 +112,7 @@ To exercise your rights, write us an email at contact@xenify.io.
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ How Do We Update the Privacy Policy?
+## ◽️ How Do We Update the Privacy Policy?
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -122,7 +122,7 @@ This Privacy Notice and the relationships falling under its effect are regulated
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Conclusion
+## ◽️ Conclusion
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
