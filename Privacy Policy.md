@@ -84,9 +84,9 @@ We use cookies necessary for the functioning of the website. Using cookies, we r
 
 If you want to disable cookies, then you can find instructions for managing your browser settings at these links:
 
-- [link 1]
-- [link 2]
-- [link 3]
+- [https://xenify.io](https://xenify.io)
+- [https://xenify.io/swap](https://xenify.io/swap)
+- [https://xenify.io/burn](https://xenify.io/burn)
 
 <br>
 
