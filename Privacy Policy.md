@@ -124,5 +124,6 @@ This Privacy Notice and the relationships falling under its effect are regulated
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
+
 We take your privacy seriously and strive to protect your personal data. This Privacy Policy explains what data we collect, why we collect it, and how we protect it. If you have any questions or concerns, please do not hesitate to contact us at info@xenify.io.
 
