@@ -10,7 +10,13 @@ We are Xenify, located at [insert address]. Hereinafter, Xenify will be referred
 
 This Privacy Notice applies to our website and services. The website address is [xenfiy.io](https://xenify.io).
 
-## What Data Do We Collect and Why?
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ What Data Do We Collect and Why?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 The data we process is divided into two categories: technical information and data that is provided to us by the user.
 
@@ -31,11 +37,23 @@ Once again, briefly about what personal data we collect:
 | Automatically collected data | Technical information | Session ID | Legitimate interest | Website operation, analytics, statistics |
 | Collected | Cookies | Consent | Analytics, statistics |
 
-## How Long Do We Keep Your Data?
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ How Long Do We Keep Your Data?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 We store personal data in one category - user’s data. We store the personal data of users for the duration of the development and usage of the service. However, you can exercise your right to delete your data. In this case, your data will be deleted from our servers within 30 days of your request.
 
-## Do We Share Data with Third Parties?
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Do We Share Data with Third Parties?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 We use your personal data to perform a contract and for communication between us and the user. We use and transfer your personal data in measures that are needed to perform a contract. Also, we transfer your data on the following grounds:
 
@@ -43,12 +61,23 @@ We use your personal data to perform a contract and for communication between us
 - Compliance with the law: We will disclose your personal data to third parties to the extent that it is necessary to comply with a government request, court order, or applicable law; to prevent unlawful use of our website or violation of the Terms of Use of our website and our policies; to protect against claims of third parties; to help prevent or investigate fraud.
 - Transfer to third parties: We transfer your personal data to third parties on the basis of a public offer for processing on our behalf, subject to technical and organizational measures to protect your personal data.
 
-## Do We Do Data Transfer Outside the European Economic Area?
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️Do We Do Data Transfer Outside the European Economic Area?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 The personal data we collect is stored on servers in the EU. By default, the data is stored in OVH, but we may need to process your personal data in another country.
 
-## Do We Use Cookies?
+<br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Do We Use Cookies?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 We use cookies necessary for the functioning of the website. Using cookies, we receive the technical information specified in clause 3.
 
 If you want to disable cookies, then you can find instructions for managing your browser settings at these links:
@@ -57,8 +86,13 @@ If you want to disable cookies, then you can find instructions for managing your
 - [link 2]
 - [link 3]
 
-## What Rights Do You Have Regarding Your Data?
+<br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ What Rights Do You Have Regarding Your Data?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 You, as subjects of personal data, have the following rights:
 
 - The right to access information: You can request an explanation of the processing of your personal data.
@@ -74,11 +108,21 @@ If you are a user from the EU or EEA, you have the following additional rights:
 
 To exercise your rights, write us an email at contact@xenify.io.
 
-## How Do We Update the Privacy Policy?
+<br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ How Do We Update the Privacy Policy?
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 This Privacy Notice and the relationships falling under its effect are regulated by the St. Vincent legislation and by the GDPR for EEA users. Existing laws and requirements for the processing of personal data are subject to change. In this case, we will publish a new version of the Privacy Notice on our website. If significant material changes are made that affect your privacy and confidentiality, we will notify you by email or display information on the website and ask for your consent.
 
-## Conclusion
+<br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Conclusion
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 We take your privacy seriously and strive to protect your personal data. This Privacy Policy explains what data we collect, why we collect it, and how we protect it. If you have any questions or concerns, please do not hesitate to contact us at info@xenify.io.
 
