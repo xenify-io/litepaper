@@ -115,6 +115,7 @@ To exercise your rights, write us an email at contact@xenify.io.
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
+
 This Privacy Notice and the relationships falling under its effect are regulated by the St. Vincent legislation and by the GDPR for EEA users. Existing laws and requirements for the processing of personal data are subject to change. In this case, we will publish a new version of the Privacy Notice on our website. If significant material changes are made that affect your privacy and confidentiality, we will notify you by email or display information on the website and ask for your consent.
 
 <br>
