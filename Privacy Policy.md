@@ -1,4 +1,8 @@
-# Privacy Policy
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Privacy Policy
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 Xenify takes care of your personal data and does everything possible to protect it. This Privacy Notice is written to help you understand what personal data is collected, stored and used, and what happens to it when you use our website.
 
