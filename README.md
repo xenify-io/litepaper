@@ -38,7 +38,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Glossary](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-glossary)
 - [Acknowledgements](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-acknowledgements)
 - [Contract Addresses](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-contract-addresses)
-- [Xenify Helpful Links](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-helpful-links)
+- [Helpful Links](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-helpful-links)
 
 <br>
 
@@ -877,7 +877,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Xenify Helpful Links
+# ◽️ Helpful Links
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
