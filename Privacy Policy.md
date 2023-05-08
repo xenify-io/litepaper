@@ -93,6 +93,7 @@ If you want to disable cookies, then you can find instructions for managing your
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
+
 You, as subjects of personal data, have the following rights:
 
 - The right to access information: You can request an explanation of the processing of your personal data.
