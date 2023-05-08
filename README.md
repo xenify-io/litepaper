@@ -697,7 +697,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 - The innovative tokenomics of Xenify, coupled with its active community, contribute to the potential rise in XNF token value. As the platform continues to grow and add new features, users will be drawn to Xenify's unique offerings, leading to increased demand for the XNF token.
 
-- Furthermore, the scarcity of XNF tokens, created by adaptive minting, halving events, and direct burns, will likely enhance the token's value as the user base expands. As more users embrace Xenify for their cross-chain swapping needs and actively contribute to the platform's development, the increasing demand for XNF tokens could lead to a higher token value.
+- Furthermore, the scarcity of XNF tokens, created by halving events, will likely enhance the token's value as more users embrace Xenify for their swapping needs and actively contribute to the native chain rewards. The increasing demand for XNF tokens could lead to a higher token value, making Xenify a promising project in the XEN ecyosystem. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
