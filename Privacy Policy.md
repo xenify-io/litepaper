@@ -24,6 +24,8 @@ The data we process is divided into two categories: technical information and da
 
   - When you visit our website, some data is collected automatically. We need technical data to operate, maintain, and improve our website. This includes data such as IP address, UTM parameters, geolocation, device type, and data about your interaction with the website-session ID. The session ID includes your interaction with the website, the functions you use, the pages viewed on our website, the way you use our website, and the actions you take if such actions are present.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ### Data provided by the user
 
   - To provide the service, we need your email address, Binance wallet information (name and ID), unique signature, referral ID, and history of referral integrations. Once again, briefly about what personal data we collect:
