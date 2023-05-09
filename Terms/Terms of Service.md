@@ -24,7 +24,7 @@ Xenify reserves the right to change or modify these Terms at any time and in our
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-**“Ethereum”** refers to a Blockchain running Node software developed in accordance with Ethereum Protocol (developed by and distributed by Ethereum Foundation).
+**“Ethereum”** refers to a Blockchain running a Node software developed in accordance with Ethereum Protocol (developed by and distributed by Ethereum Foundation).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
