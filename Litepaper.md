@@ -26,6 +26,7 @@ Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenif
 - [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
+- [Our Founders](https://github.com/xenify-io/litepaper/edit/main/Litepaper.md#%EF%B8%8F-our-founders)
 - [DXN Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-dxn-overview)
 - [xYSL Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xysl-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-overview)
