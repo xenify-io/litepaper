@@ -129,5 +129,4 @@ This Privacy Notice and the relationships falling under its effect are regulated
 
 <br>
 
-We take your privacy seriously and strive to protect your personal data. This Privacy Policy explains what data we collect, why we collect it, and how we protect it. If you have any questions or concerns, please do not hesitate to contact us at info@xenify.io.
-
+We take your privacy seriously and strive to protect your personal data. This Privacy Policy explains what data we collect, why we collect it, and how we protect it. If you have any questions or concerns, please do not hesitate to contact us at [contact@xenify.io](mailto:contact@xenify.io).
