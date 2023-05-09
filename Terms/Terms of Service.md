@@ -150,6 +150,8 @@ Transaction is underpriced (in that case though it could be part of the Blockcha
 
 Such situations could have adverse effects with regards to User expectations and intentions. Typical examples involve competition for a popular scarce resource (e.g. a Token or other item), where a lot of Users submit their Transactions to a Smart Contract which allocates this scarce resource. In extreme cases this leads to situations known as ‘gas wars’ where due to market-driven nature of Gas ‘pricing’, Gas ‘price’ goes up, potentially by several orders of magnitude, causing Users to allocate more for the same amount of Gas as in regular circumstances. Since any Blockchain is a shared public resource, situations like that could be used by spikes of interest to any resource(s) deployed on the Blockchain, which could affect users of all resources. Another class of potentially disruptive situations stem from the ability of [some of the] Blockchains to fork. Forking occurs when different groups of Blockchain Nodes could disagree on the next State of the Blockchain, after the new block is approved. Albeit being rare, these situations do happen from time to time. Blockchain Nodes have strong economic incentives to support the version backed by the majority of the Nodes (the longest fork), however a User could find themselves where their transaction was included in the ‘minority’ version of the Blockchain and therefore will be eventually abandoned by the Blockchain in an event called ‘reorganization’ (‘reorg’).
 
+#### ◽️ Please Note
+
 - #### Users are advised that situations similar to the described above are inherent to the Blockchains and are outside of direct or indirect control or influence of Xenify.
 
 - #### Users are encouraged to take into account the described specific properties of Blockchains before interacting with Xenify and/or Xenify Smart Contracts.
@@ -171,6 +173,8 @@ Wallet connectors (middleware between the web app/native app and the Wallet app)
 Generally-available operational analytics / logging platforms (Google Analytics, MixPanel, Sentry, etc.).
 Xenify takes reasonable measures to avoid excessive dependency on Third Parties in general and to have backup plans in case of Third Parties’ outages, however it is beyond reasonable to eliminate dependencies altogether.
 Users are advised that Xenify cannot guarantee general availability or any of service levels, performance metrics, expectations, etc. due to its reliance on Third Parties.
+
+#### ◽️ Please Note
 
 - #### Users are advised to take that information into consideration before interacting with Xenify and/or Xenify Smart Contracts.
 
