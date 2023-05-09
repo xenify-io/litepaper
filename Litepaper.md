@@ -64,6 +64,29 @@ By fusing ChainZap's state-of-the-art liquidity aggregation with its unique toke
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Our Team
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️ Dayana Plaz - Co-Founder
+- [Telegram](https://t.me/Dayplaz)
+- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
+- [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
+
+## ◽️ Simran Dhillon - Co-Founder
+- [Telegram](https://t.me/SD_YSL)
+- [LinkedIn](https://www.linkedin.com/in/ssdhillon)
+- [Twitter](https://twitter.com/simran_ysl)
+
+## ◽️ Hardev Dhillon - Co-Founder
+- [Telegram](https://t.me/hardev_ysl)
+- [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
+- [Twitter](https://twitter.com/hardev_ysl)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Our Vision
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
