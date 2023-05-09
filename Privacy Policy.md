@@ -6,7 +6,7 @@
 
 Xenify takes care of your personal data and does everything possible to protect it. This Privacy Notice is written to help you understand what personal data is collected, stored and used, and what happens to it when you use our website.
 
-We are Xenify, located at [insert address]. Hereinafter, Xenify will be referred to as "we" and "our". We are the controller of your personal data, which means that we determine what, for what purpose and how your personal data will be processed. If you have any questions, you can contact us by sending an email to info@xenify.io.
+We are Xenify, located at [insert address]. Hereinafter, Xenify will be referred to as "we" and "our". We are the controller of your personal data, which means that we determine what, for what purpose and how your personal data will be processed. If you have any questions, you can contact us by sending an email to [contact@xenify.io](mailto:contact@xenify.io).
 
 This Privacy Notice applies to our website and services. The website address is [xenfiy.io](https://xenify.io).
 
