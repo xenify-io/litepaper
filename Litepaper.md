@@ -191,7 +191,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 - [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
 - [Telegram](https://t.me/Dayplaz)
 
-## ◽️ Team KYC Verified by Solidproof
+## ◽️ Team KYC Verified (by Solidproof)
 - [KYC Certificate](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
