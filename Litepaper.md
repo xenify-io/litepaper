@@ -10,11 +10,11 @@
  Unleash the Potential of Cross-Chain Swaps - Effortless, Efficient, and Rewarding!</p>
  
 <p align="center">
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
-<br>
 Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
 Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+<br>
+Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
  
@@ -176,11 +176,6 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 # ◽️ Our Founders
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-## ◽️ Dayana Plaz
-- [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
-- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
-- [Telegram](https://t.me/Dayplaz)
-
 ## ◽️ Simran Dhillon
 - [Twitter](https://twitter.com/simran_ysl)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
@@ -190,6 +185,11 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 - [Twitter](https://twitter.com/hardev_ysl)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
 - [Telegram](https://t.me/hardev_ysl)
+
+## ◽️ Dayana Plaz
+- [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
+- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
+- [Telegram](https://t.me/Dayplaz)
 
 ## ◽️ Team KYC Verified by Solidproof
 - [KYC Certificate](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
