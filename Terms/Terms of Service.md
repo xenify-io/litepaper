@@ -36,7 +36,7 @@ Xenify reserves the right to change or modify these Terms at any time and in our
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-**“Wallet”** or **“Crypto Wallet”**, as related to a Blockchain, refers to a class of software products (implemented as mobile apps, web apps, browser extensions, USB keys, etc.) that are used to store users’ private keys and sign transaction, other messages or any arbitrary data, as directed by user via UI and/or peripheral device(s). Wallet is typically protected by a pass-, seed or recovery phrase (a source of digital randomness or entropy) which is used to deterministically generate a number of accounts (private-public key pairs) with associated Addresses.
+**“Wallet”** or **“Crypto Wallet”**, as related to a Blockchain, refers to a class of software products (implemented as mobile apps, web apps, browser extensions, USB keys, etc.) that are used to store users’ private keys and sign transactions, other messages or any arbitrary data, as directed by user via UI and/or peripheral device(s). Wallet is typically protected by a pass-, seed or recovery phrase (a source of digital randomness or entropy) which is used to deterministically generate a number of accounts (private-public key pairs) with associated Addresses.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
