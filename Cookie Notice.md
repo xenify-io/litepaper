@@ -42,7 +42,8 @@ You can generally activate or later deactivate the use of cookies through a func
 - [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 - [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
 - [Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-- [Internet Explorer](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)
+- [Edge](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-21b9-836b-5ae5e5e5d10d)
+- [Opera](https://help.opera.com/en/latest/web-preferences/#cookies)
 
 If you want to learn more about cookies or how to control, disable, or delete them, please visit [www.allaboutcookies.org](https://www.allaboutcookies.org) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt-out of or customize preferences associated with their Internet browsing. To learn more about this feature from Google, click [here](https://support.google.com/ads/answer/2662922).
 
