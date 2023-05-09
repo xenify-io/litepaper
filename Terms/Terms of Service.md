@@ -143,10 +143,13 @@ The consequence of following these principles, especially the last one, is that 
 
 The public, decentralized and therefore generally unrestricted access to storing and reading data to and from Blockchains comes with a lot of advantages as compared to centralized, owned, controlled and regulated databases of Web 1.0 and Web 2.0 epochs. One of the most important property of Blockchains is their highly asynchronous nature, meaning that the time interval from the moment of clicking ‘Submit’ / ‘Send’ Transaction button on User’s Wallet and to the moment this Transaction is recorded on the Blockchain could not be predicted, and could be anything from the selected Blockchain’s block time (regular interval between blocks of transactions) and up to hours and days of waiting for the Transaction to be validated, approved, included in Blockchain’s block and the Blockchain State to be changed accordingly. Factors that could potentially delay User’s Transaction include but are not limited to the following:
 
-General Internet outages, where Transaction cannot be submitted to Blockchain RPC or relayed to the Blockchain Nodes,
-Blockchain RPC(s) being busy/unresponsive/down,
-Blockchain itself could be temporarily congested (more Transactions are submitted by Users than blocks can fit),
-Transaction is underpriced (in that case though it could be part of the Blockchain internal mempool, Nodes would be preferring and picking up Transactions with better economic rewards for them),
+- Blockchain RPC(s) being busy/unresponsive/down,
+
+- Blockchain itself could be temporarily congested (more Transactions are submitted by Users than blocks can fit),
+
+- General Internet outages, where Transaction cannot be submitted to Blockchain RPC or relayed to the Blockchain Nodes,
+
+- Transaction is underpriced (in that case though it could be part of the Blockchain internal mempool, Nodes would be preferring and picking up Transactions with better economic rewards for them).
 
 Such situations could have adverse effects with regards to User expectations and intentions. Typical examples involve competition for a popular scarce resource (e.g. a Token or other item), where a lot of Users submit their Transactions to a Smart Contract which allocates this scarce resource. In extreme cases this leads to situations known as ‘gas wars’ where due to market-driven nature of Gas ‘pricing’, Gas ‘price’ goes up, potentially by several orders of magnitude, causing Users to allocate more for the same amount of Gas as in regular circumstances. Since any Blockchain is a shared public resource, situations like that could be used by spikes of interest to any resource(s) deployed on the Blockchain, which could affect users of all resources. Another class of potentially disruptive situations stem from the ability of [some of the] Blockchains to fork. Forking occurs when different groups of Blockchain Nodes could disagree on the next State of the Blockchain, after the new block is approved. Albeit being rare, these situations do happen from time to time. Blockchain Nodes have strong economic incentives to support the version backed by the majority of the Nodes (the longest fork), however a User could find themselves where their transaction was included in the ‘minority’ version of the Blockchain and therefore will be eventually abandoned by the Blockchain in an event called ‘reorganization’ (‘reorg’).
 
