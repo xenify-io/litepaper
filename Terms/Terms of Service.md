@@ -125,11 +125,11 @@ Xenify Smart Contracts are developed and deployed by Xenify on supported Blockch
 
 - No backdoors,
 - No whitelists / blacklists,
-- Immutable, non-upgradeable, non-pausable code.
+- Immutable, non-upgradeable, non-pausable code,
 - No admin/management keys, or special accounts*,
 - No privileges for founders / creators / developers,
 - No initial allocation of resources (Tokens or similar),
-- No treasury accounts (Xenify Smart Contracts don’t hold Tokens that they issue)
+- No treasury accounts (Xenify Smart Contracts don’t hold Tokens that they issue).
 
 The consequence of following these principles, especially the last one, is that once the contracts are deployed on the target Blockchain(s), their code cannot be changed. This means (on the positive side) that no-one can interfere in Contracts’ operation once they are deployed - not developers or admins or anyone. All State change after deployment is via designed and documented Contract Protocol. This also means (on the negative side) that in case a flaw/bug/exploit is discovered in the Contract’s code it could have devastating effects as to the information stored in the Xenify Smart Contract State, without any direct mitigation possibilities. That’s the calculated risk taken by Xenify, which all Users should be aware of. In order to minimize the possibility of such an event, in addition to publicly-open source code, Xenify Smart Contracts code is subjected to rigorous audit by one or several of the global leaders in the subject matter. All steps and results of the audit are made public for all Users and other interested parties. Xenify Users are strongly encouraged to do their own research before using Xenify web app and/or interacting with Xenify Smart Contracts.
 
