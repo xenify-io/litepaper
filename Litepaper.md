@@ -192,7 +192,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
 - [Twitter](https://twitter.com/hardev_ysl)
 
-## ◽️ Team KYC Verified by Solidproof.io​
+## ◽️ Team KYC Verified by Solidproof
 - [KYC Certificate](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
