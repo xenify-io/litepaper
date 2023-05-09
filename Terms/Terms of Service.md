@@ -84,14 +84,14 @@ Xenify reserves the right to change or modify these Terms at any time and in our
 
 Xenify allows you to interact with certain Smart Contracts deployed on Ethereum (or ‘Mainnet’) and other Ethereum-compatible Blockchains (“Xenify Smart Contracts”) via interfaces and protocols provided by Ethereum and other respective Blockchains. Please note that due to the public nature of the Blockchains and Smart Contracts, other websites, apps, providers and computer scripts and tools can provide the same access and interaction with Xenify Smart Contracts. Xenify's main website (web app) is hosted on [https://xenify.io](https://xenify.io) domain. Xenify can also provide one or more testnet versions, hosted on [https://testnet.xenify.io](https://testnet.xenify.io) and other domains, as the case might be.
 
-## ◽️ Xenify provides the following core functions for its users:
+### ◽️ Xenify provides the following core functions for its users:
 
 Connection to one or several supported Blockchain transactional interfaces (RPCs) via supported Wallets (installed as browser extensions or separate apps or implemented as hardware wallets (USB sticks, etc.),
 Display the current State of Xenify Smart Contracts (parameters, counters, statistics, etc.),
 Provide UI controls (form fields and buttons) to input and validate various parameters of transactions allowed by Xenify Smart Contracts interfaces,
 Provide interfaces with other software components (Wallets, Blockchains’ RPC interfaces) to facilitate transactions signature by the user and their submission to the selected Blockchain for execution.
 
-## ◽️ Xenify can provide the auxiliary functions and resources for its users, including but not limited to:
+### ◽️ Xenify can provide the auxiliary functions and resources for its users, including but not limited to:
 
 General information about Blockchains where Xenify Smart Contracts are deployed (or will be deployed),
 Educational information on essential concepts of Blockchain, such as Wallets, Addresses, Transactions, Smart Contracts, etc.,
