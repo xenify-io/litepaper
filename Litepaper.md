@@ -30,8 +30,8 @@ Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenif
 - [DXN Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-dxn-overview)
 - [xYSL Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xysl-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-overview)
-- [Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-tokenomics)
-- [Architecture](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-architecture)
+- [Xenify Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-tokenomics)
+- [Xenify Architecture](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-xenify-architecture)
 - [Liquidity Provisioning](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-liquidity-provisioning)
 - [Amplify Burns](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
@@ -328,7 +328,7 @@ Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting fro
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Tokenomics
+# ◽️ Xenify Tokenomics
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -508,7 +508,7 @@ Each cycle has its own pool of accrued native token fees that accumulate while b
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Architecture 
+# ◽️ Xenify Architecture 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <p align="center" dir="auto">
