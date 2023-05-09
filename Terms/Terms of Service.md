@@ -18,31 +18,59 @@ Xenify reserves the right to change or modify these Terms at any time and in our
 
 "Xenify", “We” refer to YSL LLC and any website, product, API, or service owned and/or operated by YSL LLC and/or its affiliates, and excludes its shareholders, owners, or operators.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **"Blockchain"** refers to a decentralized peer-to-peer network of computers (“Nodes”) running specialized software (“Node software”) providing storage and retrieval of information according to a predefined set of rules (a “Protocol”). The said information is commonly referred to as Blockchain “State” or “Global State”. Given their form as a network of collaborating Nodes, Blockchains are frequently referred to as “Networks”. When used in the context of the document, terms Blockchain and Network could be used interchangeably, excluding the term “Xenify”.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Ethereum”** refers to a Blockchain running Node software developed in accordance with Ethereum Protocol (developed by and distributed by Ethereum Foundation).
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **“Address”**, as related to a Blockchain, refers to a unique number (sometimes represented by a hex-formatted string) that is used to identify an account (a user-owned or internal to the Blockchain) which can be used to store and access information on the Blockchain. Address is typically derived by ways of cryptographic transformation of a public key, which, in turn, is derived from a private key known only to its owner. (Private and public keys are common terms related to asymmetric keys cryptography).
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Transaction”**, as related to a Blockchain, refers to a digital message, constructed and formatted in a certain way as per Blockchain’ RPC (Remote Procedure Call) Protocol, which is cryptographically signed by the user's private key. Transactions are send to, distributed between Blockchain Nodes via peer-to-peer decentralized networks, and executed by Nodes in order to change Blockchain State.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **“Wallet”** or **“Crypto Wallet”**, as related to a Blockchain, refers to a class of software products (implemented as mobile apps, web apps, browser extensions, USB keys, etc.) that are used to store users’ private keys and sign transaction, other messages or any arbitrary data, as directed by user via UI and/or peripheral device(s). Wallet is typically protected by a pass-, seed or recovery phrase (a source of digital randomness or entropy) which is used to deterministically generate a number of accounts (private-public key pairs) with associated Addresses.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Smart Contract”** refers to a set of information stored in Blockchain State, along with the executable code that allows to change the State via incoming Transactions and read the State according to the [Smart Contract] Protocol. In the case of Ethereum and Ethereum-compatible Blockchains, the said code is run in a virtual compute environment called EVM (Ethereum Virtual Machine). Smart Contract Protocol is commonly made available to developers and users in a form of ABI (Application Binary Interface).
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **“DApp” (decentralized app)** refers to a website, web app or mobile app that uses Blockchain (fully or partially) to store and access user information instead of a centralized database. Xenify web app hosted at [https://xenify.io](https://xenify.io) is a DApp.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Coin”** or **“Native Coin”**, as related to a Blockchain, refers to a unit of exchange created and supported by a Blockchain and held by its users. Primary function of any Blockchain is to transfer Coins from a user to another user. Coins of public Blockchains typically have names, e.g. Native Coin of Ethereum Blockchain is called ‘ether’.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **“Testnet”** refers to a test version (or versions) of a Blockchain which is usually a community-operated resource, typically run by Blockchain developers, backers and other enthusiasts. It mirrors main production Network (‘mainnet’) functionality except that it uses a ‘test’ version of Blockchain Native Coin. Testnet Coin is usually provided by ‘faucets’, web services where developers and test users can request a small amount of test Coin (usually in exchange for social network sharing, registration, etc.).
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Gas”**, as related to a Blockchain (specifically Ethereum-compatible one), refers to a Blockchain resource-metering unit (‘cost’ of storage access and data compute). It’s necessary to prevent abuse of finite public resources provided by a Blockchain. ‘Cost’ of certain Blockchain operations (in gas units) is set by Blockchain Protocol. Every transaction submitted to Blockchain bears a certain gas amount due to process the transaction. Gas ‘price’ is nominated in Blockchain’s Native Coin and most frequently is set by the Blockchain algorithmically based on balancing of supply and demand (new pending transactions vs. Blockchain’s throughput). Gas ‘price’ is paid by the user submitting a transaction via the Blockchain deducting the due Transaction ‘cost’ (gas amount multiplied by gas ‘price) from the current user's Blockchain account holding Native Coins. In case of insufficient amount of Coins in the user's account to cover Transaction ‘cost’, Transaction is rejected by the Network.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **“Token”**, as related to Blockchain, refers to certain classes of Smart Contracts that can create (or “Mint”), transfer and destroy (or “Burn”) account records associated with user Address (or Addresses). Such records or Tokens could be ascribed any meaning and could represent anything as commonly agreed by the user base of the Smart Contract. In Ethereum-compatible blockchains there are several most common classes of Tokens designated by their respective interfaces and protocols - ERC-20 (or “Fungible Token”), ERC-721 (“Non-Fungible Token” or “NFT”) and ERC-1155 (“Semi-Fungible Token”). Property of fungibility in this context refers to the ability of two tokens to be indistinguishable from each other and therefore to be totally interchangeable.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **“Web3”**, **“Web 3.0”** refers colloquially to Blockchains, Blockchain Protocols, websites, and applications that interact with Blockchains and other types of decentralized databases and networks.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 **"You"**, **"Your"** refer to you, an individual who interacts with Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 **Please Note:** The “ ‘cost’ ” and “ ‘price’ ” terms (non-capitalized, used in text inside single quotes) are used throughout this document in an abstract manner and refer to a subjective ‘value’ of respective Blockchain-related concepts (Gas, Coin, Token, etc.) ascribed to these concepts by their Blockchain users. This subjective ‘value’ might have or might not have respective interpretation and/or denomination in terms of real-world legal tenders (currencies) or other assets.
 
