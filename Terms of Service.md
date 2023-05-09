@@ -95,13 +95,13 @@ Xenify website is a DApp (decentralized app), and as such does not have or provi
 
 Xenify Smart Contracts are developed and deployed by Xenify on supported Blockchains. They provide functionality as described by their respective Lite Papers or White Papers (the latter assumes more in-depth, technical description). For Ethereum Blockchain Xenify Smart Contracts are written in Solidity language. Xenify Smart Contracts have open code and are published under permissive MIT open-source license. Code could be accessed on GitHub public repo at https://github.com/Xenify/. The Community of Users is encouraged to scrutinize the code, look for logical errors, bugs, discrepancies between the code and logic described in Lite Papers, and edge cases and suggest changes to the Xenify Smart Contracts that are currently under development, and to immediately report / make public any such discoveries. All Xenify Smart Contracts feature the same principles, including but not limited to:
 
-No admin/management keys, or special accounts*,
-No backdoors,
-No whitelists / blacklists,
-No privileges for founders / creators / developers,
-No initial allocation of resources (Tokens or similar),
-No treasury accounts (Xenify Smart Contracts don’t hold Tokens that they issue),
-Immutable, non-upgradeable, non-pausable code.
+- No backdoors,
+- No whitelists / blacklists,
+- Immutable, non-upgradeable, non-pausable code.
+- No admin/management keys, or special accounts*,
+- No privileges for founders / creators / developers,
+- No initial allocation of resources (Tokens or similar),
+- No treasury accounts (Xenify Smart Contracts don’t hold Tokens that they issue)
 
 The consequence of following these principles, especially the last one, is that once the contracts are deployed on the target Blockchain(s), their code cannot be changed. This means (on the positive side) that no-one can interfere in Contracts’ operation once they are deployed - not developers or admins or anyone. All State change after deployment is via designed and documented Contract Protocol. This also means (on the negative side) that in case a flaw/bug/exploit is discovered in the Contract’s code it could have devastating effects as to the information stored in the Xenify Smart Contract State, without any direct mitigation possibilities. That’s the calculated risk taken by Xenify, which all Users should be aware of. In order to minimize the possibility of such an event, in addition to publicly-open source code, Xenify Smart Contracts code is subjected to rigorous audit by one or several of the global leaders in the subject matter. All steps and results of the audit are made public for all Users and other interested parties. Xenify Users are strongly encouraged to do their own research before using Xenify web app and/or interacting with Xenify Smart Contracts.
 
