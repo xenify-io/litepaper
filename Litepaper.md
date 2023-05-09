@@ -50,7 +50,7 @@ Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenif
 
 <br>
 
-Welcome to Xenify, a groundbreaking protocol that synergistically combines DBXen's innovative tokenomics with ChainZap's powerful functionality to revolutionize the DeFi landscape. Xenify, with a total supply of 21,000,000 XNF tokens, allows users to obtain XNF by burning DXN or xYSL tokens while simultaneously acting as a layer 2 burner of XEN. The primary objective of Xenify is to establish a seamless and efficient cross-chain swapping protocol that rewards users with native chain rewards and a capped supply token.
+Welcome to Xenify, a groundbreaking protocol that synergistically combines DBXen's innovative tokenomics with ChainZap's powerful functionality to revolutionize the DeFi landscape. Xenify, with a total supply of 21,000,000 XNF tokens, allows users to obtain XNF by burning DXN or xYSL tokens while simultaneously acting as a layer 2 burner of XEN token. The primary objective of Xenify is to establish a seamless and efficient cross-chain swapping protocol that rewards users with native chain rewards and a capped supply token.
 
 At the heart of Xenify's vision lies ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 19 different aggregators across leading chains, such as Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Utilizing advanced APIs, Xenify ensures smooth communication with various DEX aggregators, significantly enhancing user swapping experiences and simplifying the process of identifying the best swap routes across multiple chains.
 
