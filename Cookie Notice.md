@@ -57,8 +57,11 @@ If you want to learn more about cookies or how to control, disable, or delete th
 We use several types of cookies:
 
 - **Necessary cookies**: Necessary cookies make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. We use necessary cookies on Xenify and docs.xenify.com to enable you to browse the website and use its features.
+
 - **Statistics cookies**: Statistics cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. We use statistics cookies on Xenify and docs.xenify.com to help us improve our website and understand how users interact with our content.
+
 - **Marketing cookies**: Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third-party advertisers. We use marketing cookies on Xenify to display personalized advertising and promotions that may be of interest to you.
+
 - **Preference cookies**: Preference cookies enable a website to remember information that changes the way the website behaves or looks like your preferred language or the region that you are in. We use preference cookies on Xenify to remember your preferences and settings on our website.
 
 <br>
@@ -79,5 +82,5 @@ If there are any material changes to this Notice, you will be notified by the po
 
 <br>
 
-If you have any questions regarding this Policy or how we use cookies, you may contact us by submitting a help desk request [here](https://www.xenify.com/help) or by emailing: contact@xenify.com.
+If you have any questions regarding this Policy or how we use cookies, you may contact us by emailing: [contact@xenify.io](mailto:contact@xenify.io).
 
