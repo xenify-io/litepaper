@@ -138,7 +138,7 @@ Xenify sets itself apart in the DeFi space by adhering to core principles of fai
 
 ## ◽️ Advanced Cross-chain Aggregator Capabilities
 
-Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users interact with decentralised finance.
+Harnessing ChainZap's cutting-edge cross-chain aggregator technology, Xenify stands as a cross-chain meta aggregator of aggregators, offering users unparalleled access to the most competitive rates and exceptional liquidity across numerous blockchains. By integrating with various aggregators, Xenify ensures a seamless and efficient swapping experience that breaks down barriers and fosters a more interconnected DeFi ecosystem, revolutionizing the way users move between chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
