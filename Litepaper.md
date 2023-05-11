@@ -60,7 +60,7 @@ Moreover, Xenify's groundbreaking design ensures that a resounding 100% of burn 
 
 At the heart of Xenify's ethos is a steadfast commitment to fairness and transparency, embodied by its unique distribution model. There will be no team, founder, or investor allocations, and the only way to mint XNF tokens is through active participation in the ecosystem by either burning or swapping tokens. This approach certifies a genuinely equitable distribution of XNF tokens, rewarding users for their contributions and fostering a truly community-driven protocol.
 
-By synergizing ChainZap's state-of-the-art liquidity aggregation with its unique tokenomics, Xenify is poised to redefine the future of cross-chain swapping. Armed with these inventive allocation mechanisms, Xenify cultivates a flourishing ecosystem that prioritizes user satisfaction and long-term success. So step into the future with us. Experience Xenify – where innovation meets reward, where community fuels growth, and where the future of DeFi is being written. Welcome to the revolution!
+By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique tokenomics, Xenify is poised to redefine the future of cross-chain swapping. Armed with these inventive allocation mechanisms, Xenify cultivates a flourishing ecosystem that prioritizes user satisfaction and long-term success. So step into the future with us. Experience Xenify – where innovation meets reward, where community fuels growth, and where the future of DeFi is being written. Welcome to the revolution!
 
 <br>
 
