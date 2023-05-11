@@ -70,13 +70,13 @@ By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique
 
 <br>
 
-At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying token movement across 32 chains, we strive to deliver a thrilling, seamless user experience.
+At Xenify, our mission is to tackle the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying token movement across 32 chains, we strive to deliver a thrilling, seamless user experience.
 
 As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the Xenian community while attracting a broader user base.
 
 By championing cross-chain capabilities and interoperability, we set our sights on supporting an extensive array of EVM networks, fostering robust connections within the DeFi ecosystem. Utilizing cutting-edge liquidity aggregation and cross-chain functionality, we enable seamless interactions between different chains, unlocking the immense potential of DeFi.
 
-Xenify is dedicated to cultivating community-driven growth and collaboration within the XEN ecosystem. Our passion lies in empowering our users to actively participate in the development and expansion of the protocol. Our mission is to establish a thriving, global community of users and enthusiasts, united by a shared vision of making decentralized finance more accessible, inclusive, and exhilarating.
+Xenify is dedicated to cultivating community-driven growth and collaboration within the XEN ecosystem. Our passion lies in empowering our users to actively participate in the development and expansion of the protocol. We are dedicated to establishing a vibrant, global community of users and enthusiasts who share a common goal of making DeFi more accessible, inclusive, and thrilling.
 
 <br>
 
