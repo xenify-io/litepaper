@@ -156,7 +156,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 ## ♦️ Token Burning
 
-- Users can burn DXN tokens to acquire XNF, with DXN acting as a layer 2 burner of XEN. This process contributes to reducing the circulating supply of DXN tokens, potentially increasing their value over time to support the XEN ecosystem. On the other hand, xYSL serves to unify both communities by providing a shared hyper-deflationary token that encourages collaboration and mutual growth. By participating in xYSL-related activities, users from both communities can benefit from the increased value and scarcity of the token while working together towards a common goal.
+- DXN and xYSL tokens can be burned to acquire XNF, with the burning of DXN acting as a strategic layer 2 burner of XEN. This process doesn't merely reduce the circulating supply of DXN and xYSL tokens - it could also potentially boost their value over time. By doing so, it strengthens both the XEN ecosystem and YSL.IO ecosystem. Now, let's talk about xYSL tokens. They aren't just another token to burn - they're the glue that binds two communities together. The burning mechanism has been designed to merge both communities under a shared hyper-deflationary umbrella.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
