@@ -23,8 +23,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 - [Introduction](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
-- [Our Vision](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-vision)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
+- [Our Commitment](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-commitment)
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper/edit/main/Litepaper.md#%EF%B8%8F-our-founders)
 - [DXN Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-dxn-overview)
@@ -65,7 +65,23 @@ By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Our Vision
+# ◽️ Our Mission
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying cross-chain token movement, we strive to deliver a thrilling, seamless user experience.
+
+As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the Xenian community while attracting a broad user base.
+
+By championing cross-chain capabilities and interoperability, we set our sights on supporting an extensive array of EVM networks, fostering robust connections within the DeFi ecosystem. Utilizing cutting-edge liquidity aggregation and cross-chain functionality, we enable seamless interactions between different chains, unlocking the immense potential of DeFi.
+
+Xenify is dedicated to cultivating community-driven growth and collaboration within the XEN ecosystem. Our passion lies in empowering our users to actively participate in the development and expansion of the protocol. Our mission is to establish a thriving, global community of users and enthusiasts, united by a shared vision of making decentralized finance more accessible, inclusive, and exhilarating.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Our Commitment
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -101,22 +117,6 @@ Xenify thrives on an audacious ambition to revolutionize the world of cross-chai
 ## ◽️ User Empowerment
 
   - Putting users in the driver's seat, Xenify allows them to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success, making them an integral part of the journey.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Our Mission
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying cross-chain token movement, we strive to deliver a thrilling, seamless user experience.
-
-As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the Xenian community while attracting a broad user base.
-
-By championing cross-chain capabilities and interoperability, we set our sights on supporting an extensive array of EVM networks, fostering robust connections within the DeFi ecosystem. Utilizing cutting-edge liquidity aggregation and cross-chain functionality, we enable seamless interactions between different chains, unlocking the immense potential of DeFi.
-
-Xenify is dedicated to cultivating community-driven growth and collaboration within the XEN ecosystem. Our passion lies in empowering our users to actively participate in the development and expansion of the protocol. Our mission is to establish a thriving, global community of users and enthusiasts, united by a shared vision of making decentralized finance more accessible, inclusive, and exhilarating.
 
 <br>
 
