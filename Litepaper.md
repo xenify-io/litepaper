@@ -24,7 +24,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 - [Introduction](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-introduction)
 - [Our Mission](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-mission)
-- [Our Commitment](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-commitment)
+- [Our Principles](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-our-principles)
 - [Key Features](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper/edit/main/Litepaper.md#%EF%B8%8F-our-founders)
 - [DXN Overview](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-dxn-overview)
@@ -81,7 +81,7 @@ Xenify is more than a protocol - it's a thriving community. Our passion for empo
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Our Commitment
+# ◽️ Our Principles 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
