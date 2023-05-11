@@ -70,7 +70,7 @@ By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique
 
 <br>
 
-At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying cross-chain token movement, we strive to deliver a thrilling, seamless user experience.
+At Xenify, our mission is to revolutionize the DeFi landscape by tackling the challenges and limitations that have held back mainstream adoption of decentralized finance. With a primary focus on simplifying token movement across 32 chains, we strive to deliver a thrilling, seamless user experience.
 
 As an innovative cross-chain swap aggregator, we are wholeheartedly committed to developing an effortless, secure, and equitable platform for swapping and staking tokens across a diverse range of EVM networks. We pledge to continuously innovate and optimize Xenify's features, dynamically adapting to the ever-evolving needs of the Xenian community while attracting a broad user base.
 
@@ -86,7 +86,7 @@ Xenify is dedicated to cultivating community-driven growth and collaboration wit
 
 <br>
 
-Xenify thrives on an audacious ambition to revolutionize the world of cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative DeFi experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an essential component of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a dynamic community that advocates for a bright, decentralized future. In all our endeavours, we remain committed to upholding the First Principles of Crypto:
+Xenify thrives on an audacious ambition to revolutionize the experience of cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an essential component of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a dynamic community that advocates for a bright, decentralized future. In all our endeavours, we remain committed to upholding the First Principles of Crypto:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
