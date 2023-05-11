@@ -495,15 +495,15 @@ Upon staking XNF tokens, they will remain locked throughout the subsequent cycle
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Claiming Native Token Rewards
-
-Just as with collecting equity, users who wish to claim their accumulated native token fees can do so by withdrawing all previously earned native tokens. This process allows users to easily access and manage their rewards, reinforcing the user-centric approach that Xenify is committed to providing. 
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Native Token Fee Distribution
 
 Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or xYSL in the corresponding cycle.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Claiming Native Token Rewards
+
+Just as with collecting equity, users who wish to claim their accumulated native token fees can do so by withdrawing all previously earned native tokens. This process allows users to easily access and manage their rewards, reinforcing the user-centric approach that Xenify is committed to providing. 
 
 <br>
 
