@@ -56,7 +56,7 @@ At the heart of Xenify's vision lies ChainZap, a cutting-edge liquidity aggregat
 
 Xenify's inbuilt swap fee and protocol fee allocation mechanisms create a mutually beneficial environment for all participants. Staked XNF holders receive an impressive 50% of swap fees as native chain rewards on all supported chains, while the remaining 50% supports Xenify's ongoing development, marketing, and outreach initiatives. This strategic allocation is crucial for raising awareness, driving adoption, and fostering long-term growth and sustainability for the protocol, benefiting both users and the protocol itself.
 
-Furthermore, Xenify's unique design ensures that 100% of the protocol fees generated from the burning of DXN and xYSL are distributed back to XNF stakers. This approach further incentivizes user participation and enhances rewards for those actively engaged with the protocol.
+Furthermore, Xenify's unique design ensures that 100% of the burn fees generated from the burning of DXN and xYSL are distributed back to XNF stakers. This approach further incentivizes user participation and enhances rewards for those actively engaged with the protocol.
 
 Central to Xenify's commitment to fairness and transparency is its distinctive distribution model. There will be no team, founder, or investor allocations, and the only way to mint XNF tokens is through active participation in the ecosystem by burning or swapping tokens. This approach guarantees a truly equitable distribution of XNF tokens, rewarding users for their contributions and nurturing a community-driven protocol.
 
@@ -407,9 +407,9 @@ The reward pool decreases according to the halving model, leading to the distrib
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Staking 
-  - Embrace the Xenify revolution and become an integral part of the protocol's growth by staking your XNF tokens. As a staker, you will earn a well-deserved share of protocol fees and swap fees generated within the ecosystem. Delight in exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly gratifying.
+  - Embrace the Xenify revolution and become an integral part of the protocol's growth by staking your XNF tokens. As a staker, you will earn a well-deserved share of burn fees and swap fees generated within the ecosystem. Delight in exceptional rewards from both burning activities and swap fees across supported chains, making your participation in Xenify's ecosystem truly gratifying.
 
-  - Explore Xenify's groundbreaking staking model, empowering users to stake XNF tokens and earn 100% of the protocol fees originating from direct burns of DXN or xYSL. Capitalize on the opportunity to receive rewards in the form of native chain rewards, a highly sought-after and liquid asset, assuring an impressive return on your investment.
+  - Explore Xenify's groundbreaking staking model, empowering users to stake XNF tokens and earn 100% of the burn fees originating from direct burns of DXN or xYSL. Capitalize on the opportunity to receive rewards in the form of native chain rewards, a highly sought-after and liquid asset, assuring an impressive return on your investment.
 
   - Dive into Xenify's distinctive swap fee distribution mechanism, allocating a remarkable 50% of the platform's swap fees to its committed stakers. By staking XNF tokens, you'll indulge in a consistent flow of income through native chain rewards. This generous distribution not only bolsters the token price but also further incentivizes stakers, cultivating a robust token value and promoting long-term dedication.
 
@@ -438,7 +438,7 @@ $$
 - $PF$ - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
 - $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
 - $CS$ - The constant 0.00005, used to factor in the discount on the protocol fee.
-- $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in protocol fees as the number of batches increases.
+- $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
 <br>
 
@@ -704,7 +704,7 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 <br>
 
-Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralised and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in native chain token from protocol fees and a share of swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
+Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralised and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in native chain token from burn fees and a share of swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
 
 With a strong emphasis on security and dedication to fair token distribution, Xenify ensures that users can rely on the platform to safeguard their interests. Its adaptive minting process and incentive structure motivate users to contribute to the ecosystem, fostering protocol growth and value. As Xenify progresses and broadens its offerings, it is well-positioned to become a prominent player in the decentralised exchange arena.
 
@@ -731,7 +731,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ How do you generate rewards with Xenify?
-- Users can generate rewards with Xenify through staking their XNF equity. By doing so, they receive 100% of the protocol fees and a share of the swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the protocol's growth and sustainability. As users participate actively in the ecosystem, they not only benefit from the rewards but also help shape the future of the Xenify platform.
+- Users can generate rewards with Xenify through staking their XNF equity. By doing so, they receive 100% of the burn fees and a share of the swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the protocol's growth and sustainability. As users participate actively in the ecosystem, they not only benefit from the rewards but also help shape the future of the Xenify platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
