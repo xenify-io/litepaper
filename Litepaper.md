@@ -204,7 +204,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 ## ◽️ Total Supply: 5,010,000
 
-DBXen (DXN) is a groundbreaking digital asset within the XEN ecosystem that contributes to $XEN deflation while providing users with new value creation opportunities. The project's primary objective is to ensure a fair and equitable token distribution through a community-driven approach, fostering a decentralized and transparent ecosystem.
+DBXen (DXN) is a groundbreaking digital asset within the XEN ecosystem that contributes to XEN deflation while providing users with new value creation opportunities. The project's primary objective is to ensure a fair and equitable token distribution through a community-driven approach, fostering a decentralized and transparent ecosystem.
 
 The deflationary mechanism of DXN is one of its key features. As a capped token, DXN can only be minted through the burning of XEN tokens, reducing their total supply and addressing inflation concerns. Furthermore, DXN tokens serve as an income stream for stakers, who receive native chain rewards until the entire DXN supply is distributed over approximately 62 years.
 
