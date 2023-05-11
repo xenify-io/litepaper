@@ -429,7 +429,7 @@ By paying the swap fee, users not only facilitate their transaction but also sec
 
 ## ◽️ Costs of Burning DXN and xYSL
 
-Engaging with the Xenify platform to burn DXN or xYSL tokens involves the transaction gas fee and an additional, mandatory burn fee. This unique fee structure rewards users with discounts based on the number of batches they burn. The more batches you burn, the bigger the discount - reaching up to 50% off for 10,000 batches! The burn fee is calculated using the following formula:
+Participating in the burning process of DXN or xYSL tokens on the Xenify protocol incurs certain costs, including transaction gas fees and a mandatory burn fee. The burn fee structure is designed to offer users discounts based on the number of batches they burn, incentivizing larger burns. The more batches you burn, the greater your discount, which can reach up to 50% off for 10,000 batches. The burn fee is determined using this formula:
 
 <br>
 
@@ -446,13 +446,13 @@ $$
 
 <br>
 
-A batch represents a fixed number of tokens designated for burning, depending on the specific token type, either DXN or xYSL. This setup ensures a straightforward and uniform method for token burning, contributing to a clear and concise understanding for litepaper readers. For example, one batch might consist of one DXN token, while another batch might include one xYSL token.
+A batch represents a fixed number of tokens, either DXN or xYSL, set aside for burning. This setup ensures a clear and consistent method for token burning, simplifying the process for users.
 
-To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The burn fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or xYSL) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
+To initiate the burn function on Xenify, users must have at least the Number of Batches multiplied by a fixed number of tokens in their wallet, depending on the token type being burned. The burn fee is directed towards the rewards pool, benefiting XNF token holders based on their stake in XNF. The fee calculation is designed to provide a discount based on the volume of a specific token (DXN or xYSL) a user burns, with the maximum discount being 50% for 10,000 batches.
 
-In essence, the burn fee calculation determines the fees charged from a user when they perform a burn operation on the Xenify Protocol. The fee is calculated by multiplying the gas spent on the operation by a factor that takes into account the number of batches being burned. This factor is calculated by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
+In summary, the burn fee calculation sets the fees a user incurs when they execute a burn operation on Xenify. The fee is determined by multiplying the gas spent on the operation by a factor that accounts for the number of batches being burned. This factor is computed by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
 
-By structuring the fee calculation this way, Xenify encourages users to perform larger, more efficient burn operations by gradually charging them lower fees as they increase the number of batches being burned. This system promotes efficiency and incentivizes users to contribute to the platform while enjoying the benefits of reduced fees for larger transactions.
+This fee structure encourages users to perform larger burn operations by providing them with progressively lower fees as they increase the number of batches being burned. This approach encourages efficiency and incentivizes users to contribute to the platform, while simultaneously benefiting from reduced fees for larger transactions.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
