@@ -180,6 +180,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 - [Twitter](https://twitter.com/simran_ysl)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
 - [Telegram](https://t.me/SD_YSL)
+- [Past Experience](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ◽️ Hardev Dhillon
 - [Twitter](https://twitter.com/hardev_ysl)
