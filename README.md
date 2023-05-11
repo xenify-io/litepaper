@@ -483,31 +483,31 @@ The XNF rewards are calculated based on the gas consumed from burning DXN or xYS
 
 ## ◽️ Staking XNF Tokens
 
-With Xenify, uncollected XNF tokens are seamlessly staked within the protocol, generating native chain rewards for XNF stakers. To further maximize these rewards, simply stake your collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens work in tandem to yield native chain rewards, based on each user's share from the native chain reward pool.
+Xenify protocol automatically stakes any uncollected XNF tokens, allowing XNF stakers to earn native chain rewards. Users can enhance their rewards by staking collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens contribute to earning native chain rewards, with each user's share determined by their portion of the native chain reward pool.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Collecting XNF Equity
 
-As each cycle comes to an end, the equity you've earned becomes available for collection. Collecting your XNF rewards from previous cycles is entirely optional and depends on your preferences. You can choose to keep your equity staked to maximize native chain rewards or collect it for trading purposes.
+At the end of each cycle, the earned equity becomes available for collection. Users have the option to collect their XNF rewards from previous cycles, but this is not mandatory. Users may choose to leave their equity staked to optimize native chain rewards or collect it for trading.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-Upon staking XNF tokens, they will remain locked throughout the subsequent cycle, whether it's a gap cycle or not, and will begin to generate fees provided either DXN or xYSL tokens are burned. Once the cycle concludes, users have the option to unstake their tokens, returning them to their possession. 
+Once XNF tokens are staked, they remain locked for the duration of the next cycle, whether it's a gap cycle or not, and begin accruing fees if DXN or xYSL tokens are burned. After the cycle ends, users can choose to unstake their tokens and reclaim ownership.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Native Token Fee Distribution
+## ◽️ Native Token Reward Distribution
 
-Each cycle has its own pool of accrued native token fees that accumulate while burnBatch transactions are executed. Per cycle, these are distributed based on how many locked XNF tokens a user has inside the protocol (locked - unclaimed XNF + staked XNF) added with how many XNF tokens were gained from burning DXN or xYSL in the corresponding cycle.
+Each cycle has a pool of accumulated native token rewards, which build up as burnBatch transactions are executed. These fees are distributed per cycle based on the number of locked XNF tokens a user has in the protocol (which includes unclaimed XNF and staked XNF), plus the number of XNF tokens earned from burning DXN or xYSL in that cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Claiming Native Token Rewards
 
-Just as with collecting equity, users who wish to claim their accumulated native token fees can do so by withdrawing all previously earned native tokens. This process allows users to easily access and manage their rewards, reinforcing the user-centric approach that Xenify is committed to providing. 
+Just like collecting equity, users can claim their accumulated native token rewards by withdrawing all previously earned native tokens. This feature allows users to easily access and manage their rewards, demonstrating Xenify's commitment to a user-friendly experience.
 
 <br>
 
