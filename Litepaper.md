@@ -126,7 +126,7 @@ Xenify thrives on an audacious ambition to revolutionize the experience of cross
 
 <br>
 
-Xenify distinguishes itself as a leading player in the DeFi space by offering a range of innovative and user-centric features. These key features embody the platform's commitment to revolutionising the DeFi landscape while adhering to the principles of fairness, simplicity, transparency, user empowerment, and interoperability. Here, we provide an overview of the standout functionalities that make Xenify a powerful and versatile platform for all users within the decentralised finance ecosystem.
+Xenify is more than just another addition to the XEN ecosystem. It's a powerful amalgamation of innovative, user-centric features designed to revolutionize the way we navigate and interact across multiple chains. Committed to core principles of fairness, simplicity, transparency, user empowerment, and interoperability, Xenify is not merely playing the game - it's rewriting the rulebook. Let's delve into some of the standout functionalities that distinguish Xenify from conventional protocols.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
