@@ -54,7 +54,7 @@ Welcome to Xenify, a groundbreaking protocol that synergistically combines DBXen
 
 At the heart of Xenify's vision lies ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 19 different aggregators across leading chains, such as Ethereum, BNB Chain, Polygon, and Arbitrum, Xenify guarantees unparalleled liquidity and optimal rates for users. Utilizing advanced APIs, Xenify ensures smooth communication with various DEX aggregators, significantly enhancing user swapping experiences and simplifying the process of identifying the best swap routes across multiple chains.
 
-Xenify's inbuilt swap fee and protocol fee allocation mechanisms create a mutually beneficial environment for all participants. Staked XNF holders receive an impressive 50% of swap fees as native chain rewards on all supported chains, while the remaining 50% supports Xenify's ongoing development, marketing, and outreach initiatives. This strategic allocation is crucial for raising awareness, driving adoption, and fostering long-term growth and sustainability for the protocol, benefiting both users and the protocol itself.
+Xenify's inbuilt swap fee and burn fee allocation mechanisms create a mutually beneficial environment for all participants. Staked XNF holders receive an impressive 50% of swap fees as native chain rewards on all supported chains, while the remaining 50% supports Xenify's ongoing development, marketing, and outreach initiatives. This strategic allocation is crucial for raising awareness, driving adoption, and fostering long-term growth and sustainability for the protocol, benefiting both users and the protocol itself.
 
 Furthermore, Xenify's unique design ensures that 100% of the burn fees generated from the burning of DXN and xYSL are distributed back to XNF stakers. This approach further incentivizes user participation and enhances rewards for those actively engaged with the protocol.
 
@@ -425,28 +425,28 @@ Of the entire 0.5% swap fee, half (0.25%) is distributed to XNF stakers in the f
 
 ## ◽️ Costs of Burning DXN and xYSL
 
-Engaging with the Xenify platform to burn DXN or xYSL tokens involves the transaction gas fee and an additional, mandatory Protocol fee. This unique fee structure rewards users with discounts based on the number of batches they burn. The more batches you burn, the bigger the discount - reaching up to 50% off for 10,000 batches! The Protocol fee is calculated using the following formula:
+Engaging with the Xenify platform to burn DXN or xYSL tokens involves the transaction gas fee and an additional, mandatory burn fee. This unique fee structure rewards users with discounts based on the number of batches they burn. The more batches you burn, the bigger the discount - reaching up to 50% off for 10,000 batches! The burn fee is calculated using the following formula:
 
 <br>
 
 $$
-PF = GS \times (1 - (NB \times CS)) \times NB
+BF = GS \times (1 - (NB \times CS)) \times NB
 $$
 
 <br>
 
-- $PF$ - Protocol fee, charged for the burn function, paid in the native token of the blockchain.
+- $BF$ - Burn fee, charged for the burn function, paid in the native token of the blockchain.
 - $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
-- $CS$ - The constant 0.00005, used to factor in the discount on the protocol fee.
+- $CS$ - The constant 0.00005, used to factor in the discount on the burn fee.
 - $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
 <br>
 
 A batch represents a fixed number of tokens designated for burning, depending on the specific token type, either DXN or xYSL. This setup ensures a straightforward and uniform method for token burning, contributing to a clear and concise understanding for litepaper readers. For example, one batch might consist of one DXN token, while another batch might include one xYSL token.
 
-To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The Protocol fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or xYSL) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
+To execute the burn function on the Xenify protocol, users need to have at least the Number of Batches * [Fixed Number of Tokens] in their wallet, depending on the token being burned. The burn fee is directed towards the reward pool, from which XNF token holders are rewarded based on their accrued XNF. The fee calculation is designed to apply a discount based on the amount of a specific token (DXN or xYSL) the user burns, with the maximum discount being 50% for 10,000 batches (the larger the number of batches, the bigger the discount).
 
-In essence, the Protocol fee calculation determines the fees charged from a user when they perform a burn operation on the Xenify Protocol. The fee is calculated by multiplying the gas spent on the operation by a factor that takes into account the number of batches being burned. This factor is calculated by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
+In essence, the burn fee calculation determines the fees charged from a user when they perform a burn operation on the Xenify Protocol. The fee is calculated by multiplying the gas spent on the operation by a factor that takes into account the number of batches being burned. This factor is calculated by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
 
 By structuring the fee calculation this way, Xenify encourages users to perform larger, more efficient burn operations by gradually charging them lower fees as they increase the number of batches being burned. This system promotes efficiency and incentivizes users to contribute to the platform while enjoying the benefits of reduced fees for larger transactions.
 
