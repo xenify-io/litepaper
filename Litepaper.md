@@ -70,7 +70,7 @@ By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique
 
 <br>
 
-At Xenify, we are on a mission to break down the barriers that have held back mainstream adoption of DeFi. Our primary goal is to streamline token movement across an expansive network of 32 chains, ensuring a fluid and seamless experience for users when swapping tokens between chains.
+At Xenify, we are on a mission to break down the barriers that have held back mainstream adoption of DeFi. Our foremost ambition is to revolutionize token transfers across an extensive network of 32 chains, promising a fluid and seamless experience for users navigating the intricate world of token swapping across multiple chains.
 
 As pioneers in cross-chain swap aggregation, our commitment runs deep. We aspire to build an intuitive, secure, and fair protocol where swapping and staking tokens across a vast number of EVM networks feels effortless. Our mission is to persistently innovate and refine Xenify's features, adaptively responding to the evolving needs of our diverse Xenian community, and continuously expanding our user base.
 
