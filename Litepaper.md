@@ -70,7 +70,7 @@ By synergizing ChainZap's state-of-the-art liquidity aggregation with our unique
 
 <br>
 
-Xenify's vision is fueled by an unwavering commitment to transform the DeFi landscape and uphold the First Principles of Crypto. Driven by a set of core guiding values, we aim to create a groundbreaking DeFi experience that is fair, accessible, and empowering for users around the world. As an integral part of the XEN ecosystem, Xenify remains focused on fostering a community that upholds the First Principles of Crypto, ensuring a bright and decentralized future for all. These core values not only shape our protocol's strategic direction but also elevate the user experience:
+At the heart of Xenify pulses a relentless ambition to redefine the landscape of cross-chain token swapping. Steered by a potent set of guiding principles, our mission is to craft a transformative DeFi experience that breaks barriers, widens accessibility, and empowers every user, everywhere. As a crucial part of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a vibrant community that champions a luminous and decentralized tomorrow. In every action we take, we stand true to the First Principles of Crypto:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
