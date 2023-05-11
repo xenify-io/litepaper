@@ -150,7 +150,7 @@ Xenify places great emphasis on equity and long-term investments, enabling users
 
 ## ♦️ Staking
 
-- Xenify offers a comprehensive rewards mechanism that benefits staked XNF holders. The platform distributes 100% of generated swap fees on supported chains as native chain rewards to XNF stakers, providing compelling incentives for users to hold and stake their tokens. Additionally, staked XNF holders receive native chain rewards generated from direct burns of DXN or xYSL tokens. This multifaceted incentive system ensures that active participants in the ecosystem are duly rewarded, fostering a thriving and engaged community. For unsupported chains, fees collected are used to support the Xenify team in funding future audits and marketing efforts.
+- Xenify integrates a robust staking rewards mechanism, significantly benefiting XNF stakers. The platform distributes 50% of the generated swap fees on supported chains as native chain rewards to XNF stakers, making it enticing for users to hold and stake their tokens. In addition to that, staked XNF holders also receive 100% of the native chain rewards generated from the direct burning of DXN or xYSL tokens. This dual-pronged incentive system ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
