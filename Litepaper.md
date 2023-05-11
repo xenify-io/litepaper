@@ -56,7 +56,7 @@ At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggreg
 
 With Xenify's built-in swap and burn fee mechanisms, a reciprocal environment that benefits all participants is established. XNF stakers are rewarded with a generous 50% of swap fees as native chain rewards across all supported chains. The remaining half is funneled towards Xenify's continuous development, marketing, and outreach initiatives – a strategic distribution that is critical in raising visibility, spurring adoption, and championing sustainable growth for the protocol, all to the advantage of both users and the protocol itself.
 
-Moreover, Xenify's groundbreaking design ensures that a resounding 100% of burn fees, derived from the burning of DXN and xYSL, are routed back to XNF stakers. This strategy fuels user participation and heightens rewards for those deeply engaged with the protocol.
+Moreover, Xenify's groundbreaking design ensures that a resounding 100% of the burn fees, derived from the burning of DXN and xYSL, are routed back to XNF stakers. This strategy fuels user participation and heightens rewards for those deeply engaged with the protocol.
 
 At the heart of Xenify's ethos is a steadfast commitment to fairness and transparency, embodied by its unique distribution model. There will be no team, founder, or investor allocations, and the only way to mint XNF tokens is through active participation in the ecosystem by either burning or swapping tokens. This approach certifies a genuinely equitable distribution of XNF tokens, rewarding users for their contributions and fostering a truly community-driven protocol.
 
