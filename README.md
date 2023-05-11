@@ -335,13 +335,13 @@ Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting fro
 
 <br>
 
-Xenify's groundbreaking tokenomics structure is centered around fairness, sustainability, and rewarding users for actively participating in its ecosystem. The XNF token, with a maximum supply of 21 million, acts as the core incentive for users engaging in a range of platform activities, such as burning and swapping tokens, and interacting with the diverse features that Xenify has to offer. By implementing a well-thought-out tokenomics design, Xenify cultivates a robust, community-driven environment that benefits users based on their contributions and involvement in the platform. This approach not only fosters platform growth but also encourages long-term commitment and value creation within the Xenify ecosystem.
+Xenify's tokenomics structure is designed with fairness, sustainability, and active user participation at its core. The protocol's native token, XNF, with a capped supply of 21 million, serves as the primary incentive for users. It rewards them for engaging in various protocol activities, such as burning and swapping tokens. This thoughtful tokenomics design helps foster a robust, community-driven platform where benefits accrue based on users' contributions and involvement.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-The XNF token serves as the driving force for user engagement within the Xenify platform. Boasting a total supply cap of 21 million XNF, its distribution adheres to a transparent and equitable launch model. This approach eliminates pre-mines, investor allocations, founder allocations, and team allocations, ensuring a fair opportunity for all participants. Users can mint their XNF equity by taking part in a diverse range of platform activities, such as burning DXN or xYSL tokens and swapping tokens across supported chains. This innovative token supply model promotes active participation and fosters a thriving, community-driven ecosystem that values user contributions and commitment.
+XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21 million. The distribution of XNF is executed through a transparent and equitable model, devoid of pre-mines, investor allocations, founder allocations, and team allocations. This process ensures fairness and inclusivity. Users can earn XNF equity by participating in a range of activities, including burning DXN or xYSL tokens and swapping tokens across supported chains. This token supply model encourages active participation and contributes to a vibrant, community-centric ecosystem.
 
 <p align="center" dir="auto">
   <picture>
@@ -355,9 +355,9 @@ The XNF token serves as the driving force for user engagement within the Xenify 
 
 ## ◽️ Supply Distribution
 
-Xenify's distribution employs an exciting halving model, applying to both direct burns and swap volume distributions. From the 8th halving onwards, the daily distribution rate will maintain a minimum of 156.25 tokens/day. This approach equally divides the total daily reward pool between direct burns and swap volume, ensuring users are handsomely rewarded for both burning tokens and actively participating in the Xenify ecosystem. The halving schedule guarantees a fair distribution of rewards based on users' contributions to the platform.
+Xenify employs a unique halving model for its supply distribution. This model applies equally to both direct burns and swap volume distributions. After the 8th halving, the daily distribution rate will stabilize, ensuring a minimum output of 156.25 tokens per day. This approach guarantees an equitable division of the total daily reward pool between direct burns and swap volume, rewarding users who actively participate in burning tokens and engaging within the ecosystem.
 
-To achieve this thrilling distribution, the 21 million XNF total supply is split into two equal parts: 10,500,000 XNF tokens allocated for direct burns and another 10,500,000 XNF tokens designated for swap volume. This distribution deviates from the DXN model, which has a 0.2% decrease per cycle, and instead follows the captivating halving model outlined below.
+The total supply of XNF is capped at 21 million, which is divided equally: 10,500,000 XNF tokens are designated for direct burns, and another 10,500,000 XNF tokens are allocated for swap volume. This distribution model, unlike the DXN model that undergoes a 0.2% decrease per cycle, adheres to the halving model. Such a method also ensures a fair distribution of tokens based on users' active contributions, further solidifying Xenify's commitment to fostering an equitable and engaged community.
 
 <p align="center" dir="auto">
   <picture>
