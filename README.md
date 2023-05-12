@@ -530,13 +530,11 @@ Each cycle has a pool of accumulated native token rewards, which build up as bur
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d4babeb6-a996-44d5-aa4c-065f9dae2b2e" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4fc62571-2e05-42c7-9c2b-0d069ec0a08d" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/4fc62571-2e05-42c7-9c2b-0d069ec0a08d" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b00e542f-9e58-46f6-884e-67041af19ee0" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/c0e4f9db-5eb7-42ce-ba06-17ce245c4d9c" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/c0e4f9db-5eb7-42ce-ba06-17ce245c4d9c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
-
-<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Architecture 
