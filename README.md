@@ -524,6 +524,18 @@ Just like collecting equity, users can claim their accumulated native token rewa
 
 Each cycle has a pool of accumulated native token rewards, which build up as burnBatch transactions are executed. These fees are distributed per cycle based on the number of locked XNF tokens a user has in the protocol (which includes unclaimed XNF and staked XNF), plus the number of XNF tokens earned from burning DXN or xYSL in that cycle.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Explainer Diagram
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/66f72ab2-8499-4931-ad6e-e518dd7a2f5e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b75e501a-9183-4e6a-a01d-693061887511" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/b75e501a-9183-4e6a-a01d-693061887511" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
