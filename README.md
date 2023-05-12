@@ -458,7 +458,7 @@ This fee structure encourages users to perform larger burn operations by providi
 
 ## ◽️ XNF Cycle Distribution
 
-Xenify protocol employs an equitable mechanism for the distribution of XNF tokens. It considers two primary factors: the user's involvement in the token burn cycle and the swap fees they've rendered during the said cycle. Each contribution holds equal weight, accounting for 50% of the total distribution. The burn contribution is computed with the following formula:
+The protocol establishes a balanced approach for the distribution of XNF tokens. It carefully considers two crucial aspects: the user's active participation in the token burn cycle, and the swap fees they've incurred during the cycle. Both elements are granted equal significance, each accounting for 50% of the total distribution. The user's contribution to the burn cycle is calculated using the following formula:
 
 <br>
 
@@ -468,7 +468,7 @@ $$
 
 <br>
 
-In this equation, the total amount of XNF tokens allocated for distribution in a cycle (e.g., 20,000 XNF tokens) is halved and then divided by the cumulative number of batches that all users have burned in that cycle. This yields a value per batch burned. The user's specific contribution is ascertained by multiplying this value by the number of batches that they have burned in that cycle. The swap contribution is calculated similarly:
+In this formula, the total quantity of XNF tokens designated for distribution during a cycle (for instance, 20,000 XNF tokens) is halved and then divided by the sum of batches burned by all participants in that cycle. This results in a value per batch burned. The user's individual contribution is then determined by multiplying this batch value by the number of batches they have specifically burned within that cycle. The calculation of the swap contribution follows a similar logic:
 
 <br>
 
@@ -490,9 +490,9 @@ $$
 
 <br>
 
-In the swap contribution equation, the total cycle distribution is halved and divided by the total swap fees paid by all users during the cycle. This provides a value per unit of swap fee. The user's contribution via swaps is then deduced by multiplying this value by the swap fees the user has paid in the cycle.
+In the swap contribution formula, the total cycle distribution is halved and then divided by the cumulative swap fees paid by all users during the cycle. This computation yields a value per unit of swap fee. The user's contribution through swaps is then deduced by multiplying this per-unit value by the swap fees the user has paid during the cycle.
 
-Xenify protocol sums up the burn contribution and the swap contribution to precisely determine the total distribution a user is eligible to receive. This meticulous method guarantees a just distribution, duly recognizing both the user's engagement in burning tokens and their contribution to transaction fees.
+The protocol merges the calculated burn contribution and swap contribution to accurately determine the total XNF distribution each user should receive. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
