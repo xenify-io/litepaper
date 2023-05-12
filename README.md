@@ -490,7 +490,7 @@ $$
 
 <br>
 
-In the swap contribution formula, the total cycle distribution is halved and then divided by the cumulative swap fees paid by all users during the cycle. This computation yields a value per unit of swap fee. The user's contribution through swaps is then deduced by multiplying this per-unit value by the swap fees the user has paid during the cycle.
+In the swap contribution formula, half of the total cycle distribution is proportionally divided based on the sum total of swap fees contributed by all users in the cycle. This process generates a specific value for each unit of swap fee paid. The individual user's swap contribution is then determined by multiplying this derived value by the amount of swap fees that the user has individually contributed during the cycle.
 
 The protocol merges the calculated burn contribution and swap contribution to accurately determine the total XNF distribution each user should receive. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
 
