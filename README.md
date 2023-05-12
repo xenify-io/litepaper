@@ -526,7 +526,7 @@ Each cycle has a pool of accumulated native token rewards, which build up as bur
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Explainer Diagram
+## ◽️ Visual Explainer
 
 <p align="center" dir="auto">
   <picture>
