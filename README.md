@@ -957,8 +957,8 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ## ◽️Phoenix Ape NFTs
 
-- [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 - [Opensea](https://opensea.io/collection/phoenix-ape-nft)
+- [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 
 <br>
 
