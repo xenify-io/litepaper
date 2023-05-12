@@ -530,9 +530,9 @@ Each cycle has a pool of accumulated native token rewards, which build up as bur
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/272d46e3-ab8f-4d12-8998-e90868cabf08" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/a69d3521-9b26-4106-beb6-f4156ee26756" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/a69d3521-9b26-4106-beb6-f4156ee26756" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d4babeb6-a996-44d5-aa4c-065f9dae2b2e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4fc62571-2e05-42c7-9c2b-0d069ec0a08d" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/4fc62571-2e05-42c7-9c2b-0d069ec0a08d" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
