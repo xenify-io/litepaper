@@ -456,28 +456,43 @@ This fee structure encourages users to perform larger burn operations by providi
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Reward Cycle Distribution
+## ◽️ XNF Cycle Distribution
 
-The formula calculates the rewards percentage that a specific user is entitled to receive for their contribution to a burn cycle. The calculation is performed by multiplying the total cycle reward amount by the number of batches the user has burned in that specific cycle and then dividing it by the total number of batches burned in that cycle by all users. This calculation ensures fair and proportionate distribution of rewards to all participants based on their burn contribution.
+Xenify protocol employs an equitable mechanism for the distribution of XNF tokens. It considers two primary factors: the user's involvement in the token burn cycle and the swap fees they've rendered during the said cycle. Each contribution holds equal weight, accounting for 50% of the total distribution. The burn contribution is computed with the following formula:
 
 <br>
 
 $$
-URC = TCR \times \frac{UBN}{TBN}
+BC = (TCD \div 2) \times (UBB \div TBB)
+$$
+
+<br>
+
+In this equation, the total amount of XNF tokens allocated for distribution in a cycle (e.g., 20,000 XNF tokens) is halved and then divided by the cumulative number of batches that all users have burned in that cycle. This yields a value per batch burned. The user's specific contribution is ascertained by multiplying this value by the number of batches that they have burned in that cycle. The swap contribution is calculated similarly:
+
+<br>
+
+$$
+SC = (TCD \div 2) \times (USF \div TSF)
 $$
 
 <br>
 
 **Where:**
 
-- $URC$ - The reward earned by a specific user in a particular cycle.
-- $TCR$ - The total amount of rewards distributed among all users in a particular cycle.
-- $UBN$ - The total number of batches a specific user has burned during the cycle.
-- $TBN$ - The total number of batches burned by all users during the cycle.
+- *BC* - represents the burn contribution of the user.
+- *SC* - represents the swap contribution of the user.
+- *TSF* - is the total swap fees paid in a cycle by all users.
+- *USF* - is the swap fees paid by a specific user in a cycle.
+- *TCD* - is the total amount of XNF tokens distributed in a cycle.
+- *TBB* - is the total number of batches burned in a cycle by all users.
+- *UBB* - is the number of batches a specific user has burned in a cycle.
 
 <br>
 
-The XNF rewards are calculated based on the gas consumed from burning DXN or xYSL. This represents the computational expense of executing the transaction. After the cycle ends, the reward calculated per user for a specific cycle is given by the total amount of gas consumed divided by the amount of gas consumed by a specific user. Rewards are claimable only after the corresponding cycle ends.
+In the swap contribution equation, the total cycle distribution is halved and divided by the total swap fees paid by all users during the cycle. This provides a value per unit of swap fee. The user's contribution via swaps is then deduced by multiplying this value by the swap fees the user has paid in the cycle.
+
+Xenify protocol sums up the burn contribution and the swap contribution to precisely determine the total distribution a user is eligible to receive. This meticulous method guarantees a just distribution, duly recognizing both the user's engagement in burning tokens and their contribution to transaction fees.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
