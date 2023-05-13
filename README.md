@@ -498,19 +498,19 @@ The protocol merges the calculated burn contribution and swap contribution to ac
 
 ## ◽️ Staking XNF Tokens
 
-Through the protocol, any uncollected XNF tokens are automatically staked, enabling XNF stakers to accumulate native chain rewards. Users have the opportunity to increase these rewards by restaking their collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens participate in accruing native chain rewards, with each user's share determined by their stake in the overall native chain reward pool.
+Within the protocol, all uncollected XNF tokens are automatically staked. This enables holders of XNF tokens to accrue native chain rewards. By restaking their already collected or unstaked XNF tokens, users can further boost their rewards. Both unclaimed and staked XNF tokens contribute to the accrual of native chain rewards, with each user's proportion determined by their stake in the total native chain reward pool.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Collecting XNF Equity
 
-At the end of each cycle, the earned equity becomes available for collection. Users have the option to collect their XNF equity from previous cycles, but this is not mandatory. Users may choose to leave their equity staked to optimize native chain rewards or collect it for trading.
+Upon the conclusion of each cycle, earned equity is ready for collection. While users can opt to collect their XNF equity from prior cycles, this action is not obligatory. Users may prefer to let their equity remain staked to maximize their native chain rewards or decide to collect it for trading purposes.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-Once XNF tokens are staked, they're securely held for two full daily cycles, including during any 'gap cycles'. After the first cycle, your staked tokens begin to accrue native chain rewards from both the swap fees and burn fees. These fees are pooled and distributed amongst the community of XNF stakers. After the completion of two cycles, you have the option to unstake your XNF tokens, reclaiming full ownership. At this point, all accumulated native chain rewards are dispensed to you.
+When XNF tokens are staked, they are held securely for two full daily cycles, including during any 'gap cycles'. After the initial cycle, staked tokens start to gather native chain rewards, derived from both the swap fees and burn fees. These fees are gathered into a pool and shared amongst XNF stakers. Once two cycles have elapsed, users can opt to unstake their XNF tokens, thereby reclaiming full ownership. At this juncture, all accumulated native chain rewards are dispersed to the user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -522,7 +522,7 @@ Just like collecting equity, users can claim their accumulated native token rewa
 
 ## ◽️ Native Token Reward Distribution
 
-Each cycle, a reward pool accumulates native tokens, swelling with each transaction - be it swap or burn. Swap transactions add to the pool through swap fees, while burn transactions add through burn fees. These rewards are then allocated at the end of each cycle, reflecting the total number of XNF tokens a user has locked within the protocol, including both uncollected and staked tokens. Further adding to these rewards are the XNF tokens gained from burning DXN or xYSL and from swaps during the cycle. This reward structure highlights the benefits of active participation in the protocol.
+Each cycle sees a pool of native tokens accruing rewards, increasing with every transaction, whether it's a swap or a burn. Swap transactions contribute swap fees to the pool, while burn transactions contribute burn fees. These rewards are subsequently allocated at the end of each cycle, corresponding to the total number of XNF tokens a user has locked within the protocol, including both uncollected and staked tokens. In addition, the XNF tokens obtained from burning DXN or xYSL and from swaps during the cycle also contribute to the total rewards. This reward structure emphasizes the benefits of active participation within the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
