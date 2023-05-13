@@ -50,7 +50,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-Welcome to Xenify, a groundbreaking protocol that synergistically blends DBXen's innovative tokenomics with ChainZap's powerful functionality, setting the stage for a seismic shift in the DeFi landscape. Xenify, with a maximum total supply of only 21,000,000 XNF tokens, empowers users to earn XNF by burning DXN or xYSL tokens, while simultaneously functioning as a second-layer burner for the XEN token. Our overarching mission? To revolutionize the DeFi space with a seamless, ultra-efficient cross-chain swapping expierance that lavishes users with native chain rewards and a token with a finite supply.
+Welcome to Xenify, a groundbreaking protocol that synergistically blends DBXen's innovative tokenomics with ChainZap's powerful functionality, setting the stage for a seismic shift in the DeFi landscape. Xenify, with a maximum total supply of only 21,500,000 XNF tokens, empowers users to earn XNF by burning DXN or xYSL tokens, while simultaneously functioning as a second-layer burner for the XEN token. Our overarching mission? To revolutionize the DeFi space with a seamless, ultra-efficient cross-chain swapping expierance that lavishes users with native chain rewards and a token with a finite supply.
 
 At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. By connecting to 19 different aggregators across 32 leading chains, such as Ethereum, BNB Chain, Polygon, and Arbitrum. Xenify guarantees unparalleled liquidity and optimal rates for users. Leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the user swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
@@ -335,13 +335,13 @@ Users can effortlessly conduct cross-chain token swaps on Xenify, benefiting fro
 
 <br>
 
-Xenify's tokenomics structure is designed with fairness, sustainability, and active user participation at its core. The protocol's native token, XNF, with a capped supply of 21 million, serves as the primary incentive for users. It rewards them for engaging in various protocol activities, such as burning and swapping tokens. This thoughtful tokenomics design helps foster a robust, community-driven platform where benefits accrue based on users' contributions and involvement.
+Xenify's tokenomics structure is designed with fairness, sustainability, and active user participation at its core. The protocol's native token, XNF, with a capped supply of 21.5 million, serves as the primary incentive for users. It rewards them for engaging in various protocol activities, such as burning and swapping tokens. This thoughtful tokenomics design helps foster a robust, community-driven platform where benefits accrue based on users' contributions and involvement.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21 million. The distribution of XNF is executed through a transparent and equitable model, devoid of pre-mines, investor allocations, founder allocations, and team allocations. This process ensures fairness and inclusivity. Users can earn XNF equity by participating in a range of activities, including burning DXN or xYSL tokens and swapping tokens across supported chains. This token supply model encourages active participation and contributes to a vibrant, community-centric ecosystem.
+XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21.5 million. The distribution of XNF is executed through a transparent and equitable model, devoid of pre-mines, investor allocations, founder allocations, and team allocations. This process ensures fairness and inclusivity. Users can earn XNF equity by participating in a range of activities, including burning DXN or xYSL tokens and swapping tokens across supported chains. This token supply model encourages active participation and contributes to a vibrant, community-centric ecosystem.
 
 <p align="center" dir="auto">
   <picture>
@@ -357,7 +357,7 @@ XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21 milli
 
 Xenify employs a unique halving model for its supply distribution. This model applies equally to both direct burns and swap volume distributions. After the 8th halving, the daily distribution rate will stabilize, ensuring a minimum output of 156.25 tokens per day. This approach guarantees an equitable division of the total daily reward pool between direct burns and swap volume, rewarding users who actively participate in burning tokens and engaging within the ecosystem.
 
-The total supply of XNF is capped at 21 million, which is divided equally: 10,500,000 XNF tokens are designated for direct burns, and another 10,500,000 XNF tokens are allocated for swap volume. This distribution model, unlike the DXN model that undergoes a 0.2% decrease per cycle, adheres to the halving model. Such a method also ensures a fair distribution of tokens based on users' active contributions, further solidifying Xenify's commitment to fostering an equitable and engaged community.
+The total supply of XNF is capped at 21.5 million, which is divided equally: 10,500,000 XNF tokens are designated for direct burns, and another 10,500,000 XNF tokens are allocated for swap volume. This distribution model, unlike the DXN model that undergoes a 0.2% decrease per cycle, adheres to the halving model. Such a method also ensures a fair distribution of tokens based on users' active contributions, further solidifying Xenify's commitment to fostering an equitable and engaged community.
 
 <p align="center" dir="auto">
   <picture>
@@ -394,7 +394,7 @@ Xenify's incentive structure encourages active participation in the protocol's d
 
 The initial 20,000 XNF tokens are divided into two categories: half are allocated to those who burn DXN or xYSL tokens, and the other half are reserved for users who contribute to the platform's swap volume. This dual-pronged approach ensures that users are rewarded for both burning tokens and generating swap volume.
 
-The reward pool decreases over time, adhering to a halving model, eventually leading to the full distribution of the 21 million XNF tokens. Staked XNF tokens accumulate native token fees (such as ETH, BNB, MATIC, etc.) from new DXN or xYSL burns or swap fees generated on the Xenify platform. This arrangement incentivizes user participation, promoting platform growth and a vibrant and engaged user base.
+The reward pool decreases over time, adhering to a halving model, eventually leading to the full distribution of the 21.5 million XNF tokens. Staked XNF tokens accumulate native token fees (such as ETH, BNB, MATIC, etc.) from new DXN or xYSL burns or swap fees generated on the Xenify platform. This arrangement incentivizes user participation, promoting platform growth and a vibrant and engaged user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -610,6 +610,8 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 In a bid to encourage active participation and kickstart liquidity creation, an airdrop of 500,000 XNF tokens will be conducted on Day 2. This airdrop is exclusively available to those who take part in swaps and pay the accompanying 0.5% swap fee before the deployment of the XNF contract. From this fee, 0.25% is allocated to the team to finance continual operational expenses, including platform development, marketing campaigns, and community engagement activities. The remaining 0.25% will be collected until the deployment, and then distributed as part of the first native reward distribution to users who burn either DXN or xYSL tokens on Day 1. This approach not only stimulates early engagement but also helps to establish a solid liquidity pool across all the chains from the very first day.
+
+<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Amplify Burns
