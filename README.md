@@ -33,6 +33,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-xenify-architecture)
 - [Liquidity Provisioning](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-liquidity-provisioning)
+- [Xenify Airdrop](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xenify-airdrop)
 - [Amplify Burns](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-security)
@@ -606,7 +607,7 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF Airdrop
+# ◽️ Xenify Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 In a bid to encourage active participation and kickstart liquidity creation, an airdrop of 500,000 XNF tokens will be conducted on Day 2. This airdrop is exclusively available to those who take part in swaps and pay the accompanying 0.5% swap fee before the deployment of the XNF contract. From this fee, 0.25% is allocated to the team to finance continual operational expenses, including platform development, marketing campaigns, and community engagement activities. The remaining 0.25% will be collected until the deployment, and then distributed as part of the first native reward distribution to users who burn either DXN or xYSL tokens on Day 1. This approach not only stimulates early engagement but also helps to establish a solid liquidity pool across all the chains from the very first day.
