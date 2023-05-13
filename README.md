@@ -778,6 +778,14 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ## ◽️ Are there different ways to participate with Xenify?
 - Yes, there are multiple ways to participate with Xenify, including staking XNF tokens, engaging in direct burns of DXN or xYSL, swapping tokens across multiple chains, and contributing to the protocol's growth through community involvement.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ What happens if no user burns or swaps during the daily cycle?
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ What happens if no user burns but swaps or vice versa during the daily cycle?
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
