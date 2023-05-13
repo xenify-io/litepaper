@@ -522,7 +522,7 @@ Just like collecting equity, users can claim their accumulated native token rewa
 
 ## ◽️ Native Token Reward Distribution
 
-Each cycle has a pool of accumulated native token rewards, which build up as burnBatch transactions are executed. These fees are distributed per cycle based on the number of locked XNF tokens a user has in the protocol (which includes unclaimed XNF and staked XNF), plus the number of XNF tokens earned from burning DXN or xYSL in that cycle.
+Each cycle, a reward pool accumulates native tokens, swelling with each transaction - be it swap or burn. Swap transactions add to the pool through swap fees, while burn transactions add through burn fees. These rewards are then allocated at the end of each cycle, reflecting the total number of XNF tokens a user has locked within the protocol, including both uncollected and staked tokens. Further adding to these rewards are the XNF tokens gained from burning DXN or xYSL and from swaps during the cycle. This reward structure highlights the benefits of active participation in the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
