@@ -945,15 +945,10 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️xYSL V1
+## ◽️xYSL
 
- - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️xYSL V2
-
- - [BNB Chain](https://bscscan.com/token/0xbB0Ae29392eE663B89c7C91429513Ad8de32e371)
+ - [V1 - BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
+ - [V2 - BNB Chain](https://bscscan.com/token/0xbB0Ae29392eE663B89c7C91429513Ad8de32e371)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
