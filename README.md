@@ -979,4 +979,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 - <https://xenify.io>
 - <https://t.me/xenify_io>
+- <https://medium.com/xenify>
 - <https://twitter.com/xenify_io>
+- <https://www.youtube.com/@xenify-io>
