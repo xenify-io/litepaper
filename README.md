@@ -498,19 +498,19 @@ The protocol merges the calculated burn contribution and swap contribution to ac
 
 ## ◽️ Staking XNF Tokens
 
-Xenify protocol automatically stakes any uncollected XNF tokens, allowing XNF stakers to earn native chain rewards. Users can enhance their rewards by staking collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens contribute to earning native chain rewards, with each user's share determined by their portion of the native chain reward pool.
+Through the protocol, any uncollected XNF tokens are automatically staked, enabling XNF stakers to accumulate native chain rewards. Users have the opportunity to increase these rewards by restaking their collected or unstaked XNF tokens back into the protocol. Both unclaimed and staked XNF tokens participate in accruing native chain rewards, with each user's share determined by their stake in the overall native chain reward pool.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Collecting XNF Equity
 
-At the end of each cycle, the earned equity becomes available for collection. Users have the option to collect their XNF rewards from previous cycles, but this is not mandatory. Users may choose to leave their equity staked to optimize native chain rewards or collect it for trading.
+At the end of each cycle, the earned equity becomes available for collection. Users have the option to collect their XNF equity from previous cycles, but this is not mandatory. Users may choose to leave their equity staked to optimize native chain rewards or collect it for trading.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-Once XNF tokens are staked, they remain locked for the duration of the next cycle, whether it's a gap cycle or not, and begin accruing fees if DXN or xYSL tokens are burned. After the cycle ends, users can choose to unstake their tokens and reclaim ownership.
+Once XNF tokens are staked, they're securely held for two full daily cycles, including during any 'gap cycles'. After the first cycle, your staked tokens begin to accrue native chain rewards from both the swap fees and burn fees. These fees are pooled and distributed amongst the community of XNF stakers. After the completion of two cycles, you have the option to unstake your XNF tokens, reclaiming full ownership. At this point, all accumulated native chain rewards are dispensed to you.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
