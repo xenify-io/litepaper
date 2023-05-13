@@ -780,11 +780,11 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ What happens if no user burns or swaps during the daily cycle?
+## ◽️ What would be the scenario if, throughout the course of a daily cycle, there are no instances of users performing either token swapping or burning activities?
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ What happens if no user burns but swaps or vice versa during the daily cycle?
+## ◽️ What transpires if, during the daily cycle, all user activity is limited to either solely swapping or exclusively burning tokens, with no mix of the two actions?
 
 <br>
 
