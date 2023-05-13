@@ -503,7 +503,7 @@ Within the protocol, all uncollected XNF tokens are automatically staked. This e
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Collecting XNF Equity
+## ◽️ Collecting XNF Token
 
 Upon the conclusion of each cycle, earned equity is ready for collection. While users can opt to collect their XNF equity from prior cycles, this action is not obligatory. Users may prefer to let their equity remain staked to maximize their native chain rewards or decide to collect it for trading purposes.
 
