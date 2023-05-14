@@ -354,9 +354,9 @@ XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21.5 mil
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235362101-15fb26b4-19e4-479a-b40b-ab0cb109e102.png" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235362049-0c573deb-307c-4921-a301-d83a72a806e2.png" class="source-dark">
-    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235362049-0c573deb-307c-4921-a301-d83a72a806e2.png" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/ef7f3d15-98b3-492e-94ce-6d738892db4f" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9c11e051-68af-4981-b930-cc32c8265e0e" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/9c11e051-68af-4981-b930-cc32c8265e0e" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
