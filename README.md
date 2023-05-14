@@ -75,7 +75,7 @@ Xenify isn't just here to push boundaries - we’re on a mission to obliterate t
 
 As true pioneers in cross-chain swap aggregation, our commitment to breaking down barriers runs deep. We aspire to build an intuitive, secure, and fair environment where swapping and staking tokens across a vast number of EVM chains feels effortless. Our mission is to persistently innovate and refine Xenify's features, adapt to the ever-evolving needs of our diverse community, and continuously expand our user base.
 
-We're not just champions of cross-chain capabilities and interoperability - we're visionaries. Our mission is to extend our support to a vast spectrum of EVM networks and foster strong bonds within the broader decentralized ecosystem. By harnessing the power of avant-garde liquidity aggregation and cross-chain functionality, we're building bridges between different chains and unlocking the enormous potential of cross-chain interoperability.
+We're not just champions of cross-chain capabilities and interoperability - we're visionaries. Our mission is to extend our support to a vast spectrum of EVM networks and foster strong bonds within the broader decentralised ecosystem. By harnessing the power of avant-garde liquidity aggregation and cross-chain functionality, we're building bridges between different chains and unlocking the enormous potential of cross-chain interoperability.
 
 But Xenify is more than just a protocol - it's a community. We’re passionate about empowering users to actively participate in the growth and expansion of the protocol. That’s what truly sets us apart. Our mission is to cultivate a vibrant, global community of like-minded individuals who are united by the shared aspiration of making DeFi more accessible, inclusive, and, dare we say it, undeniably exhilarating.
 
@@ -87,7 +87,7 @@ But Xenify is more than just a protocol - it's a community. We’re passionate a
 
 <br>
 
-At Xenify, we're not content with the status quo! Our unyielding ambition has led us to pursue the audacious goal of revolutionizing cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an integral part of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a vibrant community that shares our vision of a bright, decentralized future. We're constantly striving to elevate our standards and remain committed to upholding the First Principles of Crypto in all our endevours:
+At Xenify, we're not content with the status quo! Our unyielding ambition has led us to pursue the audacious goal of revolutionising cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an integral part of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a vibrant community that shares our vision of a bright, decentralised future. We're constantly striving to elevate our standards and remain committed to upholding the First Principles of Crypto in all our endeavours:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -139,13 +139,13 @@ Xenify sets itself apart in the DeFi space with its unwavering commitment to fai
 
 ## ◽️ Advanced Cross-chain Aggregator Capabilities
 
-A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. Yes, it's a mouthful, but bear with us! By leveraging ChainZap's cutting-edge technology, we're able to revolutionize the way users move between chains. This means users have unparalleled access to competitive rates and exceptional liquidity from various aggregators across multiple blockchains. With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem.
+A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. Yes, it's a mouthful, but bear with us! By leveraging ChainZap's cutting-edge technology, we're able to revolutionise the way users move between chains. This means users have unparalleled access to competitive rates and exceptional liquidity from various aggregators across multiple blockchains. With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Emphasis on Equity and Long-term Investment
 
-Xenify places great emphasis on equity and long-term investments. We believe in empowering our users to reap the rewards of our protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to become a part of our success and stand to potentially generate passive income through staking XNF. To accomplish this, we've developed a range of robust features designed to maximize your benefits as a Xenify user:
+Xenify places great emphasis on equity and long-term investments. We believe in empowering our users to reap the rewards of our protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to become a part of our success and stand to potentially generate passive income through staking XNF. To accomplish this, we've developed a range of robust features designed to maximise your benefits as a Xenify user:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -157,7 +157,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Token Burning
 
-- If users want to acquire XNF tokens, they can do so by burning XEN and USDy tokens. But this is not just a smart move to reduce the circulating supply of XEN and USDy - it is also a powerful way to connect our communities. The burning mechanism has been integrated to not only strengthen the XEN and YSL.IO ecosystems but to also strategically align both communities under a shared vision.
+- If users want to acquire XNF tokens, they can do so by burning XEN and USDy tokens. But this is not just a smart move to reduce the circulating supply of XEN and USDy - it is also a powerful way to connect our communities. The burning mechanism has been integrated to not only strengthen the XEN and YSL.IO ecosystems but to also strategically unify both communities under a shared vision.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -205,9 +205,11 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 <br>
 
-XEN is a decentralised virtual mining project that was launched on the principles of self-custody, trustless consensus, and decentralisation. It is a joint effort of several blockchain enthusiasts who aim to create a fairer, more transparent mining ecosystem.
+XEN is a project that was launched on the principles of self-custody, trustless consensus, and decentralisation. It is a joint effort of several blockchain enthusiasts who aim to create a fairer, more transparent mining ecosystem.
 
-One of the main goals of XEN is to democratise mining by providing a decentralised platform that allows anyone to participate in the mining process. This is achieved by utilising a Proof-of-Work (PoW) consensus algorithm that is resistant to ASIC mining, thus ensuring that the network remains accessible to individual miners. In addition to its mining capabilities, XEN also features a native cryptocurrency, XEN token, which is used to incentivise miners and maintain the security of the network. XEN tokens are also used to pay for transaction fees and other network services.
+One of the main goals of XEN is to democratise mining by providing a decentralised platform that allows anyone to participate in the mining process. This is achieved by utilising a Proof-of-Work (PoW) consensus algorithm that is resistant to ASIC mining, thus ensuring that the network remains accessible to individual miners.
+
+In addition to its mining capabilities, XEN also features a native cryptocurrency, XEN token, which is used to incentivise miners and maintain the security of the network. XEN tokens are also used to pay for transaction fees and other network services.
 
 XEN operates on a Proof of Participation (PoP) system, which allows participants to mint their coins. The XEN smart contract employs a fair distribution system based on reward time locks and the total number of participants. XEN's value is linked to its difficulty to be minted, similar to Bitcoin. As more participants join and mint XEN, the total amount of generated XEN drops, making it more scarce and valuable.
 
@@ -225,15 +227,17 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 <br>
 
-USDy is a stablecoin developed by YSL.IO with a focus on sustainability and price stability. The protocol is designed to ensure that USDy liquidity will continue to increase, even in the face of sell pressure. This is achieved through a combination of a Price Stability Model, the ability to create USDy-USDC Treasury-Owned Liquidity autonomously, and an innovative Buyback and Burn feature (UBB) that actively works to stabilize the price of USDy.
+USDy is a reward token that incentivizes participation in the YSL.IO ecosystem with stability and sustainability at its core. Developed with cutting-edge tokenomincs, the YSL.IO protocol boasts a host of innovative features that make USDy a standout reward token in the DeFi landscape.
 
-During UBB activation, the Incentive Buyback mechanism (UIB) kicks in on every purchase of YSL using ChainZap. This mechanism uses 100% of the sent USDC to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. This creates a positive feedback loop that increases the demand for YSL, raises the price of USDy, and reduces its supply.
+One of the key highlights of USDy is its Price Stability Model (PSM), which ensures a continuous increase in liquidity, even in the face of sell pressure. The protocol achieves this through a combination of autonomous Treasury-Owned Liquidity creation and an ingenious Buyback and Burn feature (UBB), which actively works to stabilise the price of USDy.
 
-The protocol generates Treasury-Owned Liquidity for USDy at every point of user interaction. As more users join the ecosystem, USDy's liquidity grows autonomously. The UBB is activated every 4-epochs if the USDy-USDC pool price falls below $0.95. During this time, a portion of the tax from every trade of YSL, xYSL, bYSL, and USDy will be used to purchase and/or burn USDy. Additionally, 15% of every HydraVault deposit will also be used to purchase and burn USDy, resulting in a reduction of USDy supply and an increase in price.
+Here's how it works: the UBB is activated every 4-epochs if the USDy pool price falls below $0.95. During this time, a portion of the tax from every trade of YSL, xYSL, bYSL, and USDy will be used to purchase and/or burn USDy. Additionally, 15% of every HydraVault deposit will also be used to purchase and burn USDy.
 
-The USDy Incentive Buyback (UIB) mechanism stabilizes the price of USDy by incorporating a 25% incentive to purchase YSL and actively reducing the supply of USDy in the process. The UIB performs an automated buyback and burn of USDy from the USDC received for every YSL purchase, and in return, the user receives YSL as well as a 25% bonus in USDy. The UIB is only in effect while the UBB is active and USDy is trading at a maximum of $1.05.
+What's more, the protocol generates Treasury-Owned Liquidity for USDy at every point of user interaction, ensuring that as more users join the YSL.IO ecosystem, USDy's liquidity grows autonomously. And to further reduce the supply of USDy and increase its price, the Incentive Buyback mechanism (UIB) kicks in every time someone purchases the YSL token using ChainZap. This mechanism incorporates a 25% incentive to purchase YSL while actively reducing the supply of USDy.
 
-In summary, USDy is a stablecoin developed by YSL.IO with a focus on sustainability, price stability, and liquidity growth. Its unique features, such as UBB and UIB mechanisms, ensure that USDy remains stable and continues to grow in value and liquidity.
+Here's how it works: all of the USDC sent will be used to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. The result is a reduction in USDy supply and an increase in its price, benefiting USDy holders.
+
+In conclusion, USDy is a carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile and more robust ecosystem.
 
 <br>
 
