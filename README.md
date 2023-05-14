@@ -203,7 +203,17 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 # ◽️ XEN Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+XEN is not your average cryptocurrency. It's the brainchild of the Fair Crypto Foundation, a group dedicated to realizing the original vision of blockchain: mass market adoption. They've sought to lower the entry barrier in the cryptosphere, unlike any other coins currently available. XEN is about making a difference, connecting like-minded individuals, and addressing issues such as overbought and under-recognized cryptocurrencies.
 
+At its heart, XEN is beautifully simple. Based on the ERC20 token standard, it has a minimalistic codebase with zero pre-minting, zero hidden doors, and no admin keys or origin wallets. XEN kicks off with no supply at all and is minted purely by the community's participation. This gives XEN a unique flavor - it starts off as inflationary, then transforms to become disinflationary as the community grows.
+
+What's even cooler is that you don't need to deposit funds to start minting XEN. All you need is an Ethereum-compatible wallet. XEN is a pure, unadulterated digital asset, not propped up by investors or intrinsic value. It's immutable, unchangeable, unstoppable.
+
+Underpinning XEN is a unique Proof of Participation (PoP) system, allowing you, the participant, to mint your own coins. The system of new token distribution is fair and based on reward time locks and the total number of participants. The harder it is to mint XEN, the more valuable it becomes. And as more people jump on board, the total number of XEN drops, making it rarer and more sought after.
+
+Imagine minting your own XEN. You connect your Ethereum-compatible wallet to the XEN smart contract and set the number of days you're willing to wait for your XEN. The smart contract then generates a XEN rank (cRANK) based on how many people got there before you. You can stake your XEN for anywhere between 1 and 1,000 days, with APY rewards starting at 20% on XEN Genesis and decreasing by 1% every 90 days until it stabilizes at 2%. The beauty of it? Your stake's APY is locked in at the time of the stake, based on the number of days since XEN Genesis.
+
+XEN is an exciting experiment in crypto economics, a community-driven initiative that promises to inject a fresh, participatory spirit into the cryptosphere. It's all about democratizing the crypto space, making it accessible to everyone, and letting the community drive its value. It's a brave new world, and XEN is leading the way.
 
 <br>
 
