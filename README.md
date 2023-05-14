@@ -366,7 +366,6 @@ XNF will be deployed onto the following chains:
 - BNB Chain
 - OKX Chain
 - Moonbeam
-- Ethereum PoW
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -933,7 +932,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
  - [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
- - [Ethereum PoW](https://www.oklink.com/ethw/address/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -952,7 +950,6 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
  - [Avalanche](https://snowtrace.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
  - [BNB Chain](https://bscscan.com/address/0x1ac17ffb8456525bff46870bba7ed8772ba063a5)
  - [Moonbeam](https://moonbeam.moonscan.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
- - [Ethereum PoW](https://www.oklink.com/ethw/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
