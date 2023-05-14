@@ -551,9 +551,9 @@ Each cycle sees a pool of native tokens accruing rewards, increasing with every 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/67a68c33-79d6-4dc7-9830-ee5c34ecc7d1" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d162c8eb-51f6-41f7-814d-ed7cf08ea9d1" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/d162c8eb-51f6-41f7-814d-ed7cf08ea9d1" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/848230a2-38e2-4769-a29c-8414141a4987" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0e2c082f-f6d3-489c-bec6-35a90fd5106c" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/0e2c082f-f6d3-489c-bec6-35a90fd5106c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
