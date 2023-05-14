@@ -923,15 +923,16 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 <br>
 
 ## ◽️XEN
-
- - [Evmos](https://escan.live/token/0xc418B123885d732ED042b16e12e259741863F723)
- - [Fantom](https://ftmscan.com/token/0xc418B123885d732ED042b16e12e259741863F723)
- - [Polygon](https://polygonscan.com/token/0x47DD60FA40A050c0677dE19921Eb4cc512947729)
- - [Ethereum](https://etherscan.io/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
- - [Avalanche](https://snowtrace.io/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F)
- - [BNB Chain](https://bscscan.com/token/0xCcd09b80453335aa914f5d9174984b6586c315EC)
- - [Moonbeam](https://moonbeam.moonscan.io/token/0xc418B123885d732ED042b16e12e259741863F723)
- - [Ethereum PoW](https://www.oklink.com/ethw/address/0xc418b123885d732ed042b16e12e259741863f723)
+ - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
+ - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
+ - [Avalanche](https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389)
+ - [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
+ - [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
+ - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
+ - [Ethereum PoW](https://www.oklink.com/ethw/address/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
