@@ -223,7 +223,17 @@ XEN is an exciting experiment in crypto economics, a community-driven initiative
 # ◽️ USDy Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
 
+USDy is a stablecoin developed by YSL.IO with a focus on sustainability and price stability. The protocol is designed to ensure that USDy liquidity will continue to increase, even in the face of sell pressure. This is achieved through a combination of a Price Stability Model, the ability to create USDy-USDC Treasury-Owned Liquidity autonomously, and an innovative Buyback and Burn feature (UBB) that actively works to stabilize the price of USDy.
+
+During UBB activation, the Incentive Buyback mechanism (UIB) kicks in on every purchase of YSL using ChainZap. This mechanism uses 100% of the sent USDC to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. This creates a positive feedback loop that increases the demand for YSL, raises the price of USDy, and reduces its supply.
+
+The protocol generates Treasury-Owned Liquidity for USDy at every point of user interaction. As more users join the ecosystem, USDy's liquidity grows autonomously. The UBB is activated every 4-epochs if the USDy-USDC pool price falls below $0.95. During this time, a portion of the tax from every trade of YSL, xYSL, bYSL, and USDy will be used to purchase and/or burn USDy. Additionally, 15% of every HydraVault deposit will also be used to purchase and burn USDy, resulting in a reduction of USDy supply and an increase in price.
+
+The USDy Incentive Buyback (UIB) mechanism stabilizes the price of USDy by incorporating a 25% incentive to purchase YSL and actively reducing the supply of USDy in the process. The UIB performs an automated buyback and burn of USDy from the USDC received for every YSL purchase, and in return, the user receives YSL as well as a 25% bonus in USDy. The UIB is only in effect while the UBB is active and USDy is trading at a maximum of $1.05.
+
+In summary, USDy is a stablecoin developed by YSL.IO with a focus on sustainability, price stability, and liquidity growth. Its unique features, such as UBB and UIB mechanisms, ensure that USDy remains stable and continues to grow in value and liquidity.
 
 <br>
 
