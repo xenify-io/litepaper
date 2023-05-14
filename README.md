@@ -71,13 +71,13 @@ As we bring together the cutting-edge liquidity aggregation of ChainZap and our 
 
 <br>
 
-At Xenify, we are on a mission to break down the barriers that have held back mainstream adoption of DeFi. Our foremost ambition is to revolutionize token transfers across an extensive network of 32 chains, promising a fluid and seamless experience for our users navigating the intricate world of token swapping across multiple chains.
+Xenify isn't just here to push boundaries - we’re on a mission to obliterate the barriers that have been holding back mainstream adoption of DeFi. Our purpose-built protocol is set to revolutionise token transfers across a vast network of 32 chains, while ensuring a fluid and seamless experience for users navigating the intricate world of token swapping across multiple chains.
 
-As pioneers in cross-chain swap aggregation, our commitment runs deep. We aspire to build an intuitive, secure, and fair protocol where swapping and staking tokens across a vast number of EVM chains feels effortless. Our mission is to persistently innovate and refine Xenify's features, adaptively responding to the evolving needs of our diverse Xenian community, and continuously expanding our user base.
+As true pioneers in cross-chain swap aggregation, our commitment to breaking down barriers runs deep. We aspire to build an intuitive, secure, and fair environment where swapping and staking tokens across a vast number of EVM chains feels effortless. Our mission is to persistently innovate and refine Xenify's features, adapt to the ever-evolving needs of our diverse community, and continuously expand our user base.
 
-We are champions of cross-chain capabilities and interoperability. Our vision is to extend our support to a vast spectrum of EVM networks, thereby fostering strong bonds within the broader decentralized ecosystem. By harnessing the power of avant-garde liquidity aggregation and cross-chain functionality, we are building bridges between different chains, unlocking the enormous potential of cross-chain interoperability.
+We're not just champions of cross-chain capabilities and interoperability - we're visionaries. Our mission is to extend our support to a vast spectrum of EVM networks and foster strong bonds within the broader decentralized ecosystem. By harnessing the power of avant-garde liquidity aggregation and cross-chain functionality, we're building bridges between different chains and unlocking the enormous potential of cross-chain interoperability.
 
-Xenify is more than a protocol - it's a thriving community. Our passion for empowering users to actively participate in the growth and expansion of the protocol is what sets us apart. We are dedicated to creating a vibrant global community of users and enthusiasts, united by a shared aspiration of making DeFi more accessible, inclusive, and undeniably exhilarating. 
+But Xenify is more than just a protocol - it's a community. We’re passionate about empowering users to actively participate in the growth and expansion of the protocol. That’s what truly sets us apart. Our mission is to cultivate a vibrant, global community of like-minded individuals who are united by the shared aspiration of making DeFi more accessible, inclusive, and, dare we say it, undeniably exhilarating.
 
 <br>
 
@@ -87,37 +87,37 @@ Xenify is more than a protocol - it's a thriving community. Our passion for empo
 
 <br>
 
-Xenify thrives on an audacious ambition to revolutionize the experience of cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an essential component of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a dynamic community that advocates for a bright, decentralized future. In all our endeavours, we remain committed to upholding the First Principles of Crypto:
+At Xenify, we're not content with the status quo! Our unyielding ambition has led us to pursue the audacious goal of revolutionizing cross-chain token swapping. Guided by our steadfast core values, we are on a mission to build a transformative experience that dismantles barriers, broadens accessibility, and empowers users around the globe. As an integral part of the XEN ecosystem, Xenify is unwavering in its dedication to nurturing a vibrant community that shares our vision of a bright, decentralized future. We're constantly striving to elevate our standards and remain committed to upholding the First Principles of Crypto in all our endevours:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Fairness 
   
-  - Creating a level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favouritism towards founders, team members, or investors.
+  - We believe in creating a fair and level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favouritism towards founders, team members, or investors.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Simplicity
 
-  - Delivering an effortlessly intuitive experience, Xenify's user-friendly interface welcomes both seasoned veterans and newcomers alike, enabling them to easily navigate and engage with the protocol.
+  - We aim to deliver a simple and effortlessly intuitive experience for everyone. Xenify's user-friendly interface welcomes both seasoned veterans and newcomers alike, enabling them to easily navigate and engage with the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Transparency
 
-  - Building a strong foundation of trust and accountability within the community, Xenify upholds open-source solidity code and transparent communication channels to foster a collaborative and honest environment.
+  - We strive to build a strong foundation of trust and accountability within the community. Xenify upholds open-source solidity code and maintains clear communication channels to foster a collaborative and honest environment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Interoperability
 
-  - Bridging the gap between various chains, Xenify incorporates cross-chain capabilities to enable seamless interactions and expand the reach of the DeFi ecosystem, unlocking limitless possibilities.
+  - We embrace diversity and innovation as the drivers of the DeFi ecosystem. Bridging the gap between various chains, Xenify leverages cross-chain capabilities to enable seamless interactions and expand the scope of the protocol, unlocking endless possibilities.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ User Empowerment
 
-  - Putting users in the driver's seat, Xenify allows them to mint their equity, actively participate in decision-making processes, and share in the protocol's growth and success, making them an integral part of the journey.
+  - We empower our users to take control of their equity, governance, and growth. Xenify enables users to mint their own tokens, have a voice in the protocol's direction, and share in its success. Our users are not just a passenger on this journey - they are an essential part of it, and have the power to steer their own course.
 
 <br>
 
