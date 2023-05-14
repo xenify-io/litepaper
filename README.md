@@ -364,6 +364,7 @@ XNF will be deployed onto the following chains:
 - Optimism
 - Avalanche
 - BNB Chain
+- OKX Chain
 - Moonbeam
 - Ethereum PoW
 
