@@ -748,7 +748,7 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Does Xenify have an initial supply?
-- No, Xenify does not have an initial supply or pre-mine of XNF tokens. Instead, the protocol distribute XNF tokens dynamically as users participate in the ecosystem, such as through direct burns of DXN and xYSL or swapping of tokens through the Xenify aggregator. This approach ensures a fair distribution model and promotes active user involvement in the protocol.
+- No, Xenify does not have an initial supply or pre-mine of XNF tokens. Instead, the protocol distribute XNF tokens dynamically as users participate in the ecosystem, such as through direct burns of XEN and USDy or swapping of tokens through the Xenify aggregator. This approach ensures a fair distribution model and promotes active user involvement in the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -876,7 +876,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 **Influential Concepts:**
 
 - [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
-- [xYSL Token](https://docs.ysl.io/overview-1/YSL-Nomics/xysl)
+- [USDy Token](https://docs.ysl.io/overview-1/YSL-Nomics/USDy)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -922,7 +922,7 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 <br>
 
-## ◽️DXN
+## ◽️XEN
 
  - [Evmos](https://escan.live/token/0xc418B123885d732ED042b16e12e259741863F723)
  - [Fantom](https://ftmscan.com/token/0xc418B123885d732ED042b16e12e259741863F723)
@@ -935,10 +935,9 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️xYSL
+## ◽️USDy
 
- - [V1 - BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
- - [V2 - BNB Chain](https://bscscan.com/token/0xbB0Ae29392eE663B89c7C91429513Ad8de32e371)
+ - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
