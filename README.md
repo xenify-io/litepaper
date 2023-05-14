@@ -203,6 +203,8 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 # ◽️ XEN Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
 XEN is not your average cryptocurrency. It's the brainchild of the Fair Crypto Foundation, a group dedicated to realizing the original vision of blockchain: mass market adoption. They've sought to lower the entry barrier in the cryptosphere, unlike any other coins currently available. XEN is about making a difference, connecting like-minded individuals, and addressing issues such as overbought and under-recognized cryptocurrencies.
 
 At its heart, XEN is beautifully simple. Based on the ERC20 token standard, it has a minimalistic codebase with zero pre-minting, zero hidden doors, and no admin keys or origin wallets. XEN kicks off with no supply at all and is minted purely by the community's participation. This gives XEN a unique flavor - it starts off as inflationary, then transforms to become disinflationary as the community grows.
