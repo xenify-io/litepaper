@@ -352,13 +352,15 @@ In short, Xenify is the ultimate cross-chain aggregator of aggregators that prov
 
 <br>
 
-Xenify's tokenomics structure is designed with fairness, sustainability, and active user participation at its core. The protocol's native token, XNF, with a capped supply of 21.5 million, serves as the primary incentive for users. It rewards them for engaging in various protocol activities, such as burning and swapping tokens. This thoughtful tokenomics design helps foster a robust, community-driven platform where benefits accrue based on users' contributions and involvement.
+Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.5 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21.5 million. The distribution of XNF is executed through a transparent and equitable model, devoid of pre-mines, investor allocations, founder allocations, and team allocations. This process ensures fairness and inclusivity. Users can earn XNF equity by participating in a range of activities, including burning XEN or USDy tokens and swapping tokens across supported chains. This token supply model encourages active participation and contributes to a vibrant, community-centric ecosystem.
+XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.5 million tokens. The distribution process of XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
+
+With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning XEN or USDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
 <p align="center" dir="auto">
   <picture>
@@ -372,9 +374,11 @@ XNF, the lifeblood of the Xenify protocol, has a capped total supply of 21.5 mil
 
 ## ◽️ Supply Distribution
 
-Xenify employs a unique halving model for its supply distribution. This model applies equally to both direct burns and swap volume distributions. After the 8th halving, the daily distribution rate will stabilize, ensuring a minimum output of 156.25 tokens per day. This approach guarantees an equitable division of the total daily reward pool between direct burns and swap volume, rewarding users who actively participate in burning tokens and engaging within the ecosystem.
+Xenify's total supply of XNF tokens is capped at 21.5 million, thoughtfully divided into three distinct parts: 10,500,000 XNF tokens reserved for direct burns of XEN and USDy, another 10,500,000 XNF tokens allocated for swap volume, and another 500,000 XNF tokens dedicated to the launch airdrop.
 
-The total supply of XNF is capped at 21.5 million, which is divided equally: 10,500,000 XNF tokens are designated for direct burns, and another 10,500,000 XNF tokens are allocated for swap volume. This distribution model, unlike the XEN model that undergoes a 0.2% decrease per cycle, adheres to the halving model. Such a method also ensures a fair distribution of tokens based on users' active contributions, further solidifying Xenify's commitment to fostering an equitable and engaged community.
+Breaking away from the XEN model, which undergoes a 0.2% decrease per cycle, Xenify's distribution model embraces the halving principle. As the graph below illustrates, after the 8th halving, Xenify's daily distribution rate stabilises, ensuring a minimum output of 156.25 XNF tokens per day.
+
+With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees an equitable division of the daily reward pool between users who actively participate in either burning tokens to acquire XNF or utilise Xenify for cross-chain swapping. This distinctive approach has been meticulously designed to ensure a fair supply distribution based on users' active contributions, showcasing Xenify's unwavering commitment to fostering an equitable and engaged community.
 
 <p align="center" dir="auto">
   <picture>
