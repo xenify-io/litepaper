@@ -771,6 +771,10 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ what does the recycle button do?
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Why will XNF appreciate in value?
   - Xenify's value has the potential to appreciate significantly, thanks to its groundbreaking tokenomics, thriving ecosystem, and surging demand for native chain rewards. With Xenify's state-of-the-art cross-chain aggregator, users can experience seamless token swapping and participate in various rewarding activities, driving protocol adoption and value.
 
@@ -780,6 +784,14 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 
 ## ◽️ How do you generate rewards with Xenify?
 - Users can generate rewards with Xenify through staking their XNF equity. By doing so, they receive 100% of the burn fees and a share of the swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the protocol's growth and sustainability. As users participate actively in the ecosystem, they not only benefit from the rewards but also help shape the future of the Xenify platform.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ If i make a stake now when can i unstake?
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ If i make a stake now when will i recieve rewards?
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
