@@ -376,7 +376,7 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 Xenify's total supply of XNF tokens is capped at 21.5 million, thoughtfully divided into three distinct parts: 10,500,000 XNF tokens reserved for direct burns of XEN and USDy, another 10,500,000 XNF tokens allocated for swap volume, and another 500,000 XNF tokens dedicated to the launch airdrop.
 
-Breaking away from the XEN model, which undergoes a 0.2% decrease per cycle, Xenify's distribution model embraces the halving principle. As the graph below illustrates, after the 8th halving, Xenify's daily distribution rate stabilises, ensuring a minimum output of 156.25 XNF tokens per day.
+Breaking away from the DXN model, which undergoes a 0.2% decrease per cycle, Xenify's distribution model embraces the halving principle. As the graph below illustrates, after the 8th halving, Xenify's daily distribution rate stabilises, ensuring a minimum output of 156.25 XNF tokens per day.
 
 With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees an equitable division of the daily reward pool between users who actively participate in either burning tokens to acquire XNF or utilise Xenify for cross-chain swapping. This distinctive approach has been meticulously designed to ensure a fair supply distribution based on users' active contributions, showcasing Xenify's unwavering commitment to fostering an equitable and engaged community.
 
