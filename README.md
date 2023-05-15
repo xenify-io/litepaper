@@ -364,9 +364,9 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/ef7f3d15-98b3-492e-94ce-6d738892db4f" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9c11e051-68af-4981-b930-cc32c8265e0e" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/9c11e051-68af-4981-b930-cc32c8265e0e" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4f27e89b-4530-4494-affd-59687065bde2" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d925d098-0621-4200-8164-6e3f127113ce" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/d925d098-0621-4200-8164-6e3f127113ce" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -382,9 +382,9 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60996729/235386811-60111c45-f189-4a0b-a179-98490f26f37b.png" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60996729/235386806-21cd0636-0802-4cd7-9bf3-16de5b4e3007.png" class="source-dark">
-    <img alt="Xenify" src="https://user-images.githubusercontent.com/60996729/235386806-21cd0636-0802-4cd7-9bf3-16de5b4e3007.png" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/a6c80285-ccf1-4579-8b84-5008cdb438c5" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4e746fa3-4aec-4233-887d-9d300591ec22" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/4e746fa3-4aec-4233-887d-9d300591ec22" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
