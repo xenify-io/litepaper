@@ -237,7 +237,7 @@ What's more, the protocol generates Treasury-Owned Liquidity for USDy at every p
 
 Here's how it works: all of the USDC sent will be used to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. The result is a reduction in USDy supply and an increase in its price, benefiting USDy holders.
 
-In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile and more robust ecosystem.
+In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
 
 <br>
 
@@ -257,9 +257,9 @@ Here’s how it works: When users opt to pay the swap fee, they not only facilit
 
 Moreover, Xenify's design integrates an ingenious burn mechanism that enables users to burn XEN and USDy tokens to mint XNF, positioning the XEN burning process as a strategic layer 2 burner of XEN. But here’s the best part, a whopping 100% of burn fees are channelled back to XNF stakers. 
 
-Xenify's built-in swap and burn fee mechanisms help create a reciprocal environment that rewards platform users with XNF as part of the daily reward cycle, and XNF stakers with a generous 100% of burn fees and 50% of swap fees across all supported chains. The team's portion of the swap fee is instrumental in promoting and enhancing the Xenify platform and its associated tokens (XEN, USDy, and XNF), ensuring increased awareness and adoption.This strategy not only fosters user engagement, but amplifies rewards for those deeply involved with the protocol.
+Xenify's built-in swap and burn fee mechanisms help create a reciprocal environment that rewards platform users with XNF as part of the daily reward cycle, and XNF stakers with a generous 100% of burn fees and 50% of swap fees across all supported chains. The team's portion of the swap fee is instrumental in promoting and enhancing the Xenify platform and its associated tokens (XEN, USDy, and XNF), ensuring increased awareness and adoption. This strategy not only fosters user engagement, but also amplifies rewards for those deeply involved with the protocol.
 
-With Xenify, users can effortlessly execute cross-chain token swaps through seamless integration with numerous aggregators and chains, while reaping the benefits of the best rates and having the opportunity to earn XNF. This cultivates a vibrant ecosystem that sparks user participation and nurtures a community-driven environment. Xenify's innovative approach, paired with its unique tokenomics model, guarantees that the platform will remain ahead of the curve, attract a growing user base and contribute to the project's overall success.
+With Xenify, users can effortlessly execute cross-chain token swaps through seamless integration with numerous aggregators and chains, while reaping the benefits of the best rates and having the opportunity to earn XNF. This cultivates a vibrant ecosystem that sparks user participation and nurtures a community-driven environment. Xenify's innovative approach, paired with its unique tokenomics model, guarantees that the platform will remain ahead of the curve, attract a growing user base, and contribute to the project's overall success.
 
 In short, Xenify is the ultimate cross-chain aggregator of aggregators that provides users with unparalleled simplicity and efficiency when swapping tokens across 32 leading chains. With a thoughtfully designed ecosystem, Xenify's unique tokenomics model benefits all participants, from platform users to XNF stakers. Xenify truly offers the best of both worlds: effortless cross-chain token swapping and significant earning potential. Whether executing cross-chain token swaps or burning tokens to mint XNF, every action taken on the Xenify platform contributes to a reciprocal environment of rewards and engagement. With Xenify, users can experience the best rates, earn XNF, and be part of a vibrant community - making it the go-to choice for anyone looking to simplify the cross-chain swapping process while maximising their earning potential.
 
@@ -358,7 +358,7 @@ Xenifiy is a groundbreaking protocol that champions fairness, sustainability, an
 
 ## ◽️ Token Supply
 
-XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.5 million tokens. The distribution process of XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
+XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.5 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
 
 With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning XEN or USDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
