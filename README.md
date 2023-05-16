@@ -151,13 +151,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Staking
 
-- Xenify integrates a robust staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users are eligible to receive 50% of the generated swap fees on supported chains as native chain rewards. This makes it extremely enticing for users to hold and stake their XNF tokens. But that’s not all! XNF stakers also receive 100% of the native chain rewards generated from the direct burning of XEN or USDy tokens. This dual-pronged incentive system ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
+- Xenify integrates a robust staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users are eligible to receive 50% of the generated swap fees on supported chains as native chain rewards. This makes it extremely enticing for users to hold and stake their XNF tokens. But that’s not all! XNF stakers also receive 100% of the native chain rewards generated from the direct burning of XEN or USDy tokens. This equitable incentive model ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Token Burning
 
-- If users want to acquire XNF tokens, they can do so by burning XEN and USDy tokens. But this is not just a smart move to reduce the circulating supply of XEN and USDy - it is also a powerful way to connect our communities. The burning mechanism has been integrated to not only strengthen the XEN and YSL.IO ecosystems but to also strategically unify both communities under a shared vision.
+- If users want to acquire XNF tokens, they can do so by burning XEN and USDy tokens. But this is not just a smart move to reduce the circulating supply of XEN and USDy - it is also a powerful way to connect our communities. The burning mechanism has been integrated to not only strengthen the XEN and YSL.IO ecosystems but to also strategically unify both communities under a shared vision. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -237,7 +237,7 @@ What's more, the protocol generates Treasury-Owned Liquidity for USDy at every p
 
 Here's how it works: all of the USDC sent will be used to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. The result is a reduction in USDy supply and an increase in its price, benefiting USDy holders.
 
-In conclusion, USDy is a carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile and more robust ecosystem.
+In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile and more robust ecosystem.
 
 <br>
 
@@ -253,7 +253,7 @@ Picture this: a user wants to swap Token-A on Ethereum for Token-B on BNB Chain.
 
 But wait, there's more! Xenify is not just a platform for cross-chain swaps; it's a thoughtfully designed ecosystem with distinct tokenomics, utilising swap and burn fee mechanisms to benefit all participants. The optional 0.5% swap fee, which users can opt to pay when making a swap, not only fuels Xenify's competitive edge but also rewards Xenify users and XNF stakers. Talk about a win-win! 
 
-Here’s how it works: When users opt to pay the swap fee, they not only facilitate their transactions but also secure a position in the daily XNF reward cycle. From the swap fee, 50% is sent to support the team in funding future audits, development, and marketing efforts, while the remaining 50% is sent as native chain rewards to staked XNF holders on supported chains. That's right – XNF stakers can benefit from every swap! 
+Here’s how it works: When users opt to pay the swap fee, they not only facilitate their transactions but also secure a position in the daily XNF reward cycle. From the swap fee, 50% is sent to support the team in funding future audits, development, and marketing efforts, while the remaining 50% is sent as native chain rewards to staked XNF holders on supported chains. That's right – XNF stakers can benefit from every swap on supported chains! 
 
 Moreover, Xenify's design integrates an ingenious burn mechanism that enables users to burn XEN and USDy tokens to mint XNF, positioning the XEN burning process as a strategic layer 2 burner of XEN. But here’s the best part, a whopping 100% of burn fees are channelled back to XNF stakers. 
 
@@ -374,11 +374,11 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-Xenify's total supply of XNF tokens is capped at 21.5 million, thoughtfully divided into three distinct parts: 10,500,000 XNF tokens reserved for direct burns of XEN and USDy, another 10,500,000 XNF tokens allocated for swap volume, and another 500,000 XNF tokens dedicated to the launch airdrop.
+Xenify's total supply of XNF tokens is capped at 21.5 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of XEN and USDy, an additional 10,500,000 XNF tokens reserved for swap volume, and a separate 500,000 XNF tokens earmarked for the launch airdrop.
 
-Breaking away from the DXN model, which undergoes a 0.2% decrease per cycle, Xenify's distribution model embraces the halving principle. As the graph below illustrates, after the 8th halving, Xenify's daily distribution rate stabilises, ensuring a minimum output of 156.25 XNF tokens per day.
+Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle.  As demonstrated in the graph below, following the 8th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
 
-With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees an equitable division of the daily reward pool between users who actively participate in either burning tokens to acquire XNF or utilise Xenify for cross-chain swapping. This distinctive approach has been meticulously designed to ensure a fair supply distribution based on users' active contributions, showcasing Xenify's unwavering commitment to fostering an equitable and engaged community.
+With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees a fair distribution of the daily reward pool among active users. This can be in the form of burning tokens to acquire XNF or by utilising Xenify on supported chains to execute swaps. This distinctive strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around users' active participation, underscoring Xenify's steadfast dedication to fostering an equitable and engaged community.
 
 <p align="center" dir="auto">
   <picture>
@@ -409,48 +409,62 @@ XNF will be deployed onto the following chains:
 
 ## ◽️ Minting Process and Incentives
 
-Xenify's minting process is structured to reward users who contribute to the protocol's growth by participating in various activities. This approach promotes an equitable distribution of XNF tokens, thereby fostering a decentralized and community-driven environment.
+The minting process for XNF has been structured to reward users who actively contribute to Xenify's growth through various activities. This approach promotes an equitable distribution of XNF tokens, cultivating a truly decentralised and community-driven protocol.
 
-Xenify's incentive structure encourages active participation in the protocol's development, fostering a vibrant, decentralized ecosystem. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, thereby motivating further involvement. XNF tokens are distributed through one-day cycles, starting with a reward pool of 20,000 XNF tokens.
+Similarly, Xenify's incentive structure has been meticulously crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fueling further involvement.
 
-The initial 20,000 XNF tokens are divided into two categories: half are allocated to those who burn XEN or USDy tokens, and the other half are reserved for users who contribute to the platform's swap volume. This dual-pronged approach ensures that users are rewarded for both burning tokens and generating swap volume.
+XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining half is reserved for those contributing through the platform's swap fee.
 
-The reward pool decreases over time, adhering to a halving model, eventually leading to the full distribution of the 21.5 million XNF tokens. Staked XNF tokens accumulate native token fees (such as ETH, BNB, MATIC, etc.) from new XEN or USDy burns or swap fees generated on the Xenify platform. This arrangement incentivizes user participation, promoting platform growth and a vibrant and engaged user base.
+With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated from swap fees (e.g., ETH, BNB, MATIC). In addition, stakers will also benefit from the burn fees collected from XEN or USDy burns performed on the Xenify platform. 
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-### ♦️ Burning 
-  - The Xenify ecosystem facilitates the burning of XEN and USDy tokens to mint XNF, positioning the XEN burning process as a strategic layer 2 burner of XEN. This approach does not merely diminish the circulating supply of XEN and USDy tokens, but it also has the potential to enhance their value over time. 
+This innovative three-pronged incentive model not only helps generate swap volume with users seeking to earn XNF but also rewards user participation through burning and staking. Ultimately, this approach fosters platform growth and cultivates a thriving, engaged user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Swapping 
-  - Experience the capabilities of Xenify, a pioneering cross-chain aggregator of aggregators, and enjoy seamless token exchanges on the platform. Your swapping activities contribute to the platform's growth, simultaneously increasing your equity in the protocol through daily XNF token distributions. Furthermore, you benefit from the efficiency and competitive rates offered by aggregated routes across multiple aggregators, which add a layer of convenience to your cross-chain transactions. As such, you're not just a user, but an active participant shaping the future of this dynamic ecosystem.
+### ♦️ Burn to earn XNF 
+  - The Xenify platform empowers its users by providing the ability to burn XEN and USDy tokens, resulting in the minting of XNF. This positions Xenify as a key player in the strategic layer 1 burning of XEN tokens. The approach adopted by Xenify goes beyond simply reducing the circulating supply of XEN and USDy tokens. It aims to unify the XEN and YSL.IO ecosystems, while also strategically integrating both communities under a shared vision.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Staking 
-  - Participating in Xenify's growth is made possible by staking your XNF tokens. As a staker, you have the opportunity to earn a proportionate share of burn and swap fees generated within the ecosystem. Exceptional rewards stemming from both burning activities and swap fees across supported chains augment the value of your involvement within the Xenify ecosystem.
+### ♦️ Swap to earn XNF 
+  - Xenify is a pioneering cross-chain aggregator of aggregators that transforms the way users experience token exchanges.  With its seamless single-click transactions and the opportunity to earn XNF tokens, Xenify sets itself apart from the competition.
 
-  - Xenify's staking model offers users the chance to stake XNF tokens and earn 100% of the burn fees originating from direct burns of XEN or USDy. This opportunity leads to rewards in the form of native chain tokens, a highly liquid asset, promising a potential return on your investment.
+  - By swapping with Xenify and choosing to pay the swap fee, users actively contribute to the platform's growth. The 0.5% swap fee is divided, with half being distributed as rewards to XNF stakers, celebrating those who fully engage with the protocol. The remaining portion of the fee is utilised by the team to promote and enhance the Xenify platform and its associated tokens (XEN, USDy, and XNF), ensuring increased awareness and adoption.
 
-  - Xenify's swap fee distribution mechanism is distinctive, allocating an impressive 50% of the platform's swap fees to committed stakers. Staking XNF tokens provides a steady stream of income through native chain rewards. This distribution mechanism not only supports the token's value but also provides additional motivation for stakers, promoting a stable token value and encouraging sustained commitment.
+  - What truly sets Xenify apart from other platforms is the added benefit users receive when opting to pay the swap fee. Users can increase their XNF holdings through daily XNF token distributions, making Xenify a rewarding experience. Users not only enjoy a seamless cross-chain token swapping experience but also earn XNF in the process.
+
+  - The XNF rewards can either be collected by the user or staked to earn even more from the native tokens generated from swap and burn fees. As a result, users benefit from the efficiency and competitive rates offered by Xenify while earning rewards and  actively participating in shaping the future of Xenify's dynamic ecosystem.
+
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+### ♦️ Stake XNF to earn native tokens 
+  - Setting itself apart from generic aggregators, Xenify boasts a unique burn and swap fee distribution mechanism. This will empower platform users to not only execute seamless swaps but to also embark on a rewarding journey by staking the XNF tokens acquired from daily distributions. 
+
+  - XNF token stakers play an essential role in Xenify's long-term growth, and in return reap the benefits of a proportionate share of burn and swap fees generated across all supported chains. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. This, in turn, leads to increased native chain rewards for XNF stakers! This equitable model establishes a positive feedback loop, guaranteeing that all participants can benefit from the ecosystem's growth in proportion to their engagement.
+
+  - Here’s how it works: every day, the protocol distributes 100% of burn fees (originating from direct burns of XEN or USDy) and 50% of the platform's swap fees (generated on supported chains) to XNF stakers. These rewards are allocated in the form of native chain tokens—a highly liquid asset—signaling a potentially lucrative return for users staking XNF.
+
+  - Xenify's innovative staking model enables users to stake their XNF tokens for an opportunity to receive a steady stream of exceptional rewards in the form of native chain rewards. This distinctive rewards distribution model not only strengthens the demand and value for XNF but also serves as an added incentive for holders to stake their daily distribution of XNF. This strategy has been integrated to encourage long-term engagement with the protocol while cultivating a growing user base.
+
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Costs of Swapping on Xenify
 
-Using the Xenify protocol to swap tokens incurs a fee, primarily aimed at maintaining the rewards pool for XNF stakers. When a user engages in a token swap on Xenify, they are charged a swap fee that amounts to 0.5% of the total swap value. This fee serves a dual purpose: it rewards the XNF stakers for their involvement and investment in the ecosystem, and it supports the ongoing growth and development of the protocol.
+Xenify offers a ground-breaking token swap solution that not only simplifies cross-chain transactions but also rewards its platform users, all the while nurturing the expansion of its ecosystem. By implementing an optional 0.5% fee on every token swap, Xenify achieves three fundamental objectives: rewarding Xenify platform users, providing native chain rewards to XNF stakers, and fortifying the continuous development of the protocol.
 
-The collected 0.5% swap fee is partitioned in a way that promotes balance and incentivization within the ecosystem. Half of the fee, or 0.25%, is distributed to XNF stakers in the form of native chain tokens, rewarding them for their active participation. The remaining 0.25% is allocated to the Xenify team to fund ongoing operational costs, such as platform development, marketing initiatives, and community outreach efforts.
+Here's how it works: When a user initiates a token swap on Xenify, they have the option to pay a 0.5% swap fee. This fee is strategically divided to promote future growth and incentivise user participation. A portion of 0.25% is allocated to XNF stakers in the form of native chain tokens, recognising their valuable contribution to the ecosystem. The remaining 0.25% is designated for the Xenify team, funding essential operational expenses such as platform development, marketing campaigns, and community engagement initiatives.
 
-By paying the swap fee, users not only facilitate their transaction but also secure a position in the daily XNF reward cycle, providing an added benefit for their engagement with the protocol. The portion of the fee dedicated to the team plays a vital role in promoting and enhancing the Xenify platform and the associated tokens (XEN, USDy, and XNF). This ensures heightened awareness and adoption, contributing to the overall growth and success of the Xenify protocol.
+By choosing to pay the nominal 0.5% swap fee, users not only facilitate their transactions but also secure a position in the daily XNF reward cycle. These XNF rewards can be collected by the user or strategically staked to unlock even greater gains from the native tokens generated through swap and burn fees. Consequently, users enjoy the benefits of Xenify's efficiency and competitive rates, all while reaping rewards and actively shaping the evolution of Xenify's dynamic ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Costs of Burning XEN and USDy
 
-Participating in the burning process of XEN or USDy tokens on the Xenify protocol incurs certain costs, including transaction gas fees and a mandatory burn fee. The burn fee structure is designed to offer users discounts based on the number of batches they burn, incentivizing larger burns. The more batches you burn, the greater your discount, which can reach up to 50% off for 10,000 batches. The burn fee is determined using this formula:
+The Xenify protocol enables users to engage in the burning of XEN or USDy tokens to secure XNF from the daily XNF reward cycle. By participating in this process, users will encounter specific costs such as transaction gas fees and a mandatory burn fees. However, the burn fee calculation has been meticulously designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts. 
+
+The burn fee is determined using this formula:
 
 <br>
 
@@ -467,19 +481,21 @@ $$
 
 <br>
 
-A batch represents a fixed number of tokens, either XEN or USDy, set aside for burning. This setup ensures a clear and consistent method for token burning, simplifying the process for users.
+Our ingenious burn fee calculation takes various factors into consideration: including the gas consumed by the burn function, the number of batches, and a discount factor based on the number of batches. This powerful combination serves as a compelling incentive for users to undertake larger burn operations. And the best part? The more batches a user burns, the greater the discount they will enjoy, with potential savings of up to 50% off for 10,000 batches. But what exactly is a batch? A batch represents a fixed number of tokens, either XEN or USDy, that have been set aside for burning. 
 
-To initiate the burn function on Xenify, users must have at least the Number of Batches multiplied by a fixed number of tokens in their wallet, depending on the token type being burned. The burn fee is directed towards the rewards pool, benefiting XNF token holders based on their stake in XNF. The fee calculation is designed to provide a discount based on the volume of a specific token (XEN or USDy) a user burns, with the maximum discount being 50% for 10,000 batches.
+Here’s how it works: To initiate the burn function on Xenify, users must have a wallet balance that meets or exceeds the “Number of Batches” multiplied by a fixed number of tokens, depending on the token type being burned. The protocol calculates the Burn fee by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS). The more batches a user burns, the greater the discount on the burn fee. This discount is represented by the term (1 - (NB x CS)).
 
-In summary, the burn fee calculation sets the fees a user incurs when they execute a burn operation on Xenify. The fee is determined by multiplying the gas spent on the operation by a factor that accounts for the number of batches being burned. This factor is computed by subtracting the product of the number of batches and 0.00005 from 1, which is then multiplied by the number of batches.
-
-This fee structure encourages users to perform larger burn operations by providing them with progressively lower fees as they increase the number of batches being burned. This approach encourages efficiency and incentivizes users to contribute to the platform, while simultaneously benefiting from reduced fees for larger transactions.
+By implementing this calculation, we ensure that users receive discounts in proportion to the volume of a specific token (XEN or USDy) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are directed toward XNF stakers. This approach not only encourages efficiency but also rewards our valuable contributors, establishing a mutually beneficial ecosystem. Plus, with the maximum discount set at an impressive 50% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for users but also generates enhanced rewards for XNF stakers.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF Cycle Distribution
 
-The protocol establishes a balanced approach for the distribution of XNF tokens. It carefully considers two crucial aspects: the user's active participation in the token burn cycle, and the swap fees they've incurred during the cycle. Both elements are granted equal significance, each accounting for 50% of the total distribution. The user's contribution to the burn cycle is calculated using the following formula:
+Xenify adopts a balanced approach to reward distribution, placing equal emphasis on two essential components of the protocol: token burns and the swap fees. With both elements granted equal significance, each receives an equal allocation of the daily reward cycle distribution. For example, if the daily XNF cycle distribution is 20,000 XNF tokens, Xenify will divide the rewards, designating 10,000 XNF for burn contributions and 10,000 XNF for swap contributions.
+
+To ascertain each user's allocation of the daily distribution of XNF tokens, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
+
+The protocol calculates the burn contribution (BC) of a specific user in a cycle, based on the total XNF tokens distributed (TCD), the total number of batches burned by all users (TBB), and the number of batches burned by the specific user (UBB). Here's the formula explained in detail:
 
 <br>
 
@@ -489,7 +505,18 @@ $$
 
 <br>
 
-In this formula, the total quantity of XNF tokens designated for distribution during a cycle (for instance, 20,000 XNF tokens) is halved and then divided by the sum of batches burned by all participants in that cycle. This results in a value per batch burned. The user's individual contribution is then determined by multiplying this batch value by the number of batches they have specifically burned within that cycle. The calculation of the swap contribution follows a similar logic:
+**Where:**
+
+- *BC* - represents the burn contribution of the user.
+- *TCD* - is the total amount of XNF tokens distributed in a cycle.
+- *UBB* - is the number of batches a specific user has burned in a cycle.
+- *TBB* - is the total number of batches burned in a cycle by all users.
+
+<br>
+
+Here’s how it works: The protocol calculates the burn contribution by first dividing the total tokens distributed during a cycle (TCD) by 2, as half of the XNF daily reward cycle is allocated to participants that burn XEN or USDy. It then calculates the proportion of batches burned by the specific user (UBB) to the total batches burned by all users (TBB). This results in a value per batch burned. Finally, the protocol multiplies these two values to determine the user's individual burn contribution within that cycle (BC).
+
+The calculation of the swap contribution follows a similar logic, whereby the protocol calculates the swap contribution (SC) of a specific user in a cycle, based on the total XNF tokens distributed (TCD), the total swap fees paid by all users (TSF), and the swap fees paid by the specific user (USF). Here's the formula explained in detail:
 
 <br>
 
@@ -501,49 +528,48 @@ $$
 
 **Where:**
 
-- *BC* - represents the burn contribution of the user.
 - *SC* - represents the swap contribution of the user.
-- *TSF* - is the total swap fees paid in a cycle by all users.
-- *USF* - is the swap fees paid by a specific user in a cycle.
 - *TCD* - is the total amount of XNF tokens distributed in a cycle.
-- *TBB* - is the total number of batches burned in a cycle by all users.
-- *UBB* - is the number of batches a specific user has burned in a cycle.
+- *USF* - is the swap fees paid by a specific user in a cycle.
+- *TSF* - is the total swap fees paid in a cycle by all users.
 
 <br>
 
-In the swap contribution formula, half of the total cycle distribution is proportionally divided based on the sum total of swap fees contributed by all users in the cycle. This process generates a specific value for each unit of swap fee paid. The individual user's swap contribution is then determined by multiplying this derived value by the amount of swap fees that the user has individually contributed during the cycle.
-
-The protocol merges the calculated burn contribution and swap contribution to accurately determine the total XNF distribution each user should receive. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
+Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TCD) by 2, as half of the XNF daily reward cycle is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Staking XNF Tokens
+## ◽️ Automatic Staking of XNF Tokens
 
-Within the protocol, all uncollected XNF tokens are automatically staked. This enables holders of XNF tokens to accrue native chain rewards. By restaking their already collected or unstaked XNF tokens, users can further boost their rewards. Both unclaimed and staked XNF tokens contribute to the accrual of native chain rewards, with each user's proportion determined by their stake in the total native chain reward pool.
+Both unclaimed and staked XNF tokens contribute to the accrual of native chain rewards, with each user's proportion determined by their stake in the total native chain reward pool. Designed with users in mind, the Xenify protocol has been integrated with an automated staking mechanism to ensure all uncollected XNF tokens are automatically staked on behalf of the user. 
+
+This means that holders can enjoy the benefits of accruing native chain rewards without the hassle of collecting and staking XNF tokens on each cycle. Users who prefer a hands-on approach can also stake their tokens manually. By staking already collected or unstaked XNF tokens, users have the opportunity to further boost their rewards.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Collecting XNF Token
 
-Upon the conclusion of each cycle, earned equity is ready for collection. While users can opt to collect their XNF equity from prior cycles, this action is not obligatory. Users may prefer to let their equity remain staked to maximize their native chain rewards or decide to collect it for trading purposes.
+Upon the conclusion of each cycle, users have the opportunity to collect their allocation of the daily XNF distribution. However, collecting XNF is not mandatory as all uncollected XNF tokens are automatically staked by the protocol. This will allow users to reap the benefits of native chain rewards. On the other hand, users may decide to collect their XNF for trading purposes. Whatever the preference, Xenify offers flexibility and control for every user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-When XNF tokens are staked, they are held securely for two full daily cycles, including during any 'gap cycles'. After the initial cycle, staked tokens start to gather native chain rewards, derived from both the swap fees and burn fees. These fees are gathered into a pool and shared amongst XNF stakers. Once two cycles have elapsed, users can opt to unstake their XNF tokens, thereby reclaiming full ownership. At this juncture, all accumulated native chain rewards are dispersed to the user.
+To promote a secure and efficient ecosystem, staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. After the initial cycle, staked tokens begin to accumulate native chain rewards, generated from both swap fees and burn fees. These fees are collected into a reward pool, which is then distributed by the protocol among XNF stakers. Once the two cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Claiming Native Token Rewards
 
-Just like collecting equity, users can claim their accumulated native token rewards by withdrawing all previously earned native tokens. This feature allows users to easily access and manage their rewards, demonstrating Xenify's commitment to a user-friendly experience.
+Xenify allows users to effortlessly claim and withdraw their accumulated native token rewards at any time. This feature has been designed to simplify reward access and management, demonstrating Xenify's dedication to creating a user-friendly experience that sets it apart from the competition.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Native Token Reward Distribution
 
-Each cycle sees a pool of native tokens accruing rewards, increasing with every transaction, whether it's a swap or a burn. Swap transactions contribute swap fees to the pool, while burn transactions contribute burn fees. These rewards are subsequently allocated at the end of each cycle, corresponding to the total number of XNF tokens a user has locked within the protocol, including both uncollected and staked tokens. In addition, the XNF tokens obtained from burning XEN or USDy and from swaps during the cycle also contribute to the total rewards. This reward structure emphasizes the benefits of active participation within the protocol.
+During each cycle, the accumulation of native reward tokens unfolds, wherein the reward pool gradually accumulates tokens collected from burn and swap fees. This will continue to grow with every transaction during the cycle, be it a swap or a burn. 
+
+As the cycle comes to an end, these rewards are carefully allocated among XNF stakers based on the total number of XNF tokens an individual has staked within the protocol. This will encompass both uncollected and staked tokens, ensuring fairness and inclusivity. With this unique reward structure, Xenify is able to strengthen the demand and value for XNF and provide a compelling incentive for holders to actively participate in the protocol. This in turn, encourages long-term engagement while cultivating a growing user base and fortifying the protocol's growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
