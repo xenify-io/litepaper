@@ -364,9 +364,9 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4f27e89b-4530-4494-affd-59687065bde2" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d925d098-0621-4200-8164-6e3f127113ce" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/d925d098-0621-4200-8164-6e3f127113ce" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -382,9 +382,9 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/a6c80285-ccf1-4579-8b84-5008cdb438c5" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/4e746fa3-4aec-4233-887d-9d300591ec22" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/4e746fa3-4aec-4233-887d-9d300591ec22" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/c03ca417-e065-4b51-8281-d4ce57e7972e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/601c70c6-65af-4165-bd6f-e50b26016506" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/601c70c6-65af-4165-bd6f-e50b26016506" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -577,9 +577,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f8e13e33-7967-4b07-b9c5-557358f14616" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6240531e-8930-4d95-acba-939c508d5b04" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/6240531e-8930-4d95-acba-939c508d5b04" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/dd1e9513-353d-4576-9e3d-e43cbddc26c2" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/8b2b2fb4-b818-437a-b238-57b5fc641b74" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/8b2b2fb4-b818-437a-b238-57b5fc641b74" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -589,9 +589,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/848230a2-38e2-4769-a29c-8414141a4987" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0e2c082f-f6d3-489c-bec6-35a90fd5106c" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/0e2c082f-f6d3-489c-bec6-35a90fd5106c" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/37247312-1c3c-4365-b890-2b60bff8a6d1" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/310b0c42-3d99-46c6-b8ff-70f53d0d4d1a" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/310b0c42-3d99-46c6-b8ff-70f53d0d4d1a" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
