@@ -674,7 +674,7 @@ Lastly, the protocol will distribute the Native Chain Rewards (such as ETH, BNB,
 
 <br>
 
-To inspire participation and initiate liquidity creation, an exclusive airdrop event of 500,000 XNF tokens will be conducted on each chain the XNF contract is to be deployed. This airdrop is solely available to those who partake in swaps and pay the accompanying 0.5% swap fee on Xenify on or before Day 1 (prior to the deployment of the XNF contract). Out of this fee, 0.25% is allocated to the team to cover ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
+To inspire participation and initiate liquidity creation, an exclusive airdrop event of 500,000 XNF tokens will be conducted on each chain where the XNF contract is to be deployed. This airdrop is solely available to those who partake in swaps and pay the accompanying 0.5% swap fee on Xenify on or before Day 1 (prior to the deployment of the XNF contract). Out of this fee, 0.25% is allocated to the team to cover ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
 
 The remaining 0.25% will be collected until deployment, and then distributed as part of the first native token reward distribution to users who burn either XEN or USDy tokens during the Liquidity Provisioning Event on Day 1. This distinctive approach not only encourages early user engagement through swap participation for the airdrop but also helps Xenify establish a strong liquidity pool across all supported chains from day one.
 
