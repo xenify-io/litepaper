@@ -639,7 +639,7 @@ $$
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Starting on Day 2, the protocol will recommence its standard XNF reward distribution schedule. This means an allocation of 10,000 XNF will be designated for users who burn XEN and USDy tokens, while an allocation of 10,000 XNF will be reserved for swap volume.
+Starting on Day 2, the protocol will activate its default XNF reward distribution schedule. This means an allocation of 10,000 XNF will be designated for users who burn XEN and USDy tokens, while anther 10,000 XNF will be reserved for swap volume.
 
 As Day 2 comes to a close, three pivotal events will unfold. First, the protocol will distribute the Xenify Airdrop, with 500,000 XNF allocated for the airdrop being shared among users based on their swap contributions on and before Day 1. 
 
