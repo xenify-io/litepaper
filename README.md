@@ -615,7 +615,7 @@ Subsequent to the event, the standard XNF reward distribution cycle will recomme
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
 
-During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn XEN or USDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that has been accumalting. 
+During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn XEN or USDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that have been accumulating.
 
 When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned XEN or USDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
 
