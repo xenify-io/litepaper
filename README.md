@@ -730,11 +730,13 @@ Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT
 
 <br>
 
-Xenify places a strong emphasis on user experience, striving to create an intuitive and user-friendly platform. The onboarding process is streamlined, with clear instructions and guidance to help users navigate the platform with ease. Users can interact with the platform through various functions, such as swapping tokens across multiple blockchains, staking, and claiming rewards.
+Xenify places utmost importance on providing an exceptional user experience, with a primary focus on creating a platform that is both intuitive and user-friendly. The onboarding process is designed to be seamless, offering clear instructions and guidance that empower users to effortlessly navigate the platform. 
 
-Unlike traditional decentralised exchanges, Xenify does not require users to provide liquidity. Instead, it operates as a cross-chain aggregator, utilising APIs to source the best exchange rates and lowest fees from multiple decentralised exchanges. This approach simplifies the user experience and allows for seamless transactions across different blockchain networks.
+Setting itself apart from traditional decentralised exchanges, Xenify eliminates the need for users to provide liquidity. Instead, it operates as a cross-chain aggregator, leveraging APIs to obtain the most favourable exchange rates and minimal fees from multiple decentralised exchanges. This approach simplifies the user experience and facilitates seamless single-click transactions across different blockchain networks.
 
-The platform provides a seamless experience for claiming rewards, staking, and unstaking tokens. Users can easily monitor their staked assets and accrued rewards, and claim or unstake their tokens with just a few clicks. This user-centric approach ensures that Xenify remains accessible to both novice and experienced users alike.
+Users can actively engage with Xenify through a range of functions, including token swaps, burning XEN or USDy, staking or unstaking XNF, and claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
+
+This incentive model ensures that Xenify users are consistently recognised for their participation and encourages continued usage of the platform. Additionally, users can conveniently monitor their staked XNF and accrued rewards, allowing them to easily claim or unstake their XNF tokens with just a few clicks. By adopting this user-centric approach, Xenify remains accessible to both novice and experienced users alike.
 
 <br>
 
