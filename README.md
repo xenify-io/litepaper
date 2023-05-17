@@ -603,13 +603,23 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <br>
 
-To ensure a smooth and successful start for Xenify, a special liquidity provisioning event will take place during the launch. The distribution of XNF tokens will be adjusted to meet the platform's liquidity needs and support its users across all chains. This well-planned launch guarantees sufficient liquidity is created on each chain, providing a strong foundation for the ecosystem.
+In a strategic effort to ensure sufficient liquidity for all supported chains, Xenify has crafted a unique liquidity provisioning event to coincide with each launch. This forward-thinking initiative has been designed to facilitate the seamless distribution of XNF tokens in alignment with the platform's liquidity needs, effectively catering to the demands of users across every chain.
+
+For this exclusive, one-day event, half of the 20,000 XNF tokens typically reserved for the daily reward cycle distribution will be utilised to bolster the platform's liquidity. The remaining 10,000 XNF tokens will be allocated to individuals who burn XEN or USDy during the one-day event. This offers an unprecedented opportunity to secure a substantial share of the native chain rewards that have accumulated during Day 1 and from swaps executed on Xenify prior to the launch.
+
+By burning XEN or USDy on Day 1, users will not only receive an allotment of XNF tokens at the end of the day, but will also be in line to secure a portion of the native chain rewards (e.g., ETH, BNB, MATIC) distributed at the conclusion of Day 2. With a limited number of XNF holders or stakers on Day 2, only those who engage in the burning of XEN or USDy on Day 1 can reap the benefits of the accrued native chain rewards, collected from swap fees both prior to and during Day 1.
+
+Subsequent to the event, the standard XNF reward distribution cycle will recommence and continue thereafter. This entails XNF stakers receiving a share of the burn and swap fees (based on the fees collected during the previous cycle), while users performing a burn or swap will earn XNF (in accordance with their contributions during each cycle). Through the successful execution of these events on each chain, Xenify aims to secure protocol-owned liquidity across the entire ecosystem, laying the groundwork for sustainable, long-term growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
 
-On the first day of the event, 20,000 XNF tokens will be allocated. Of these tokens, 10,000 XNF will be designated for liquidity provisioning, to be used for protocol-owned liquidity. The remaining 10,000 XNF will be made available for the burning, allowing users to participate in a fair and decentralized token distribution. The native chain rewards generated on Day 1 will be utilized for liquidity pairing, with the corresponding LP tokens being burned to ensure the platform's long-term sustainability. The initial price of XNF tokens will be based on the amount of native tokens received against the 10,000 XNF. 
+During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn XEN or USDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that has been accumalting. 
+
+When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned XEN or USDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
+
+The second crucial event involves the protocol generating protocol-owned liquidity using the burn fees collected during Day 1. The associated LP tokens will be retained by Xenify as protocol-owned liquidity. By dividing the total value of native tokens collected from burn fees (NT) by the XNF tokens allocated for liquidity provisioning (TXT), the protocol is able to calculate the initial price of the XNF token (IP) for the chain.
 
 #### ▫️ The formula for the initial price is:
 
@@ -629,7 +639,13 @@ $$
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Starting from Day 2, the distribution of XNF tokens will return to its regular schedule, with 10,000 XNF allocated for the burning of XEN and USDy tokens and another 10,000 XNF designated for swap volume. This balanced distribution model will continue to incentivize users to actively engage with the protocol, contributing to its growth and success while maintaining a fair and sustainable token economy.
+Starting on Day 2, the protocol will recommence its standard XNF reward distribution schedule. This means an allocation of 10,000 XNF will be designated for users who burn XEN and USDy tokens, while an allocation of 10,000 XNF will be reserved for swap volume.
+
+As Day 2 comes to a close, three pivotal events will unfold. First, the protocol will distribute the Xenify Airdrop, with 500,000 XNF allocated for the airdrop being shared among users based on their swap contributions on and before Day 1. 
+
+Next, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be set aside for those who executed swaps on Day 2. 
+
+Lastly, the protocol will distribute the Native Chain Rewards (such as ETH, BNB, and MATIC) collected from swaps made during Day 1 and from swaps executed on Xenify prior to the launch. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of XEN and USDy on Day 1.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -658,7 +674,13 @@ Starting from Day 2, the distribution of XNF tokens will return to its regular s
 
 <br>
 
-In a bid to encourage active participation and kickstart liquidity creation, an airdrop of 500,000 XNF tokens will be conducted on Day 2. This airdrop is exclusively available to those who take part in swaps and pay the accompanying 0.5% swap fee before the deployment of the XNF contract. From this fee, 0.25% is allocated to the team to finance continual operational expenses, including platform development, marketing campaigns, and community engagement activities. The remaining 0.25% will be collected until the deployment, and then distributed as part of the first native reward distribution to users who burn either XEN or USDy tokens on Day 1. This approach not only stimulates early engagement but also helps to establish a solid liquidity pool across all the chains from the very first day.
+To inspire participation and initiate liquidity creation, an exclusive airdrop event of 500,000 XNF tokens will be conducted on each chain the XNF contract is to be deployed. This airdrop is solely available to those who partake in swaps and pay the accompanying 0.5% swap fee on Xenify on or before Day 1 (prior to the deployment of the XNF contract). Out of this fee, 0.25% is allocated to the team to cover ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
+
+The remaining 0.25% will be collected until deployment, and then distributed as part of the first native token reward distribution to users who burn either XEN or USDy tokens during the Liquidity Provisioning Event on Day 1. This distinctive approach not only encourages early user engagement through swap participation for the airdrop but also helps Xenify establish a strong liquidity pool across all supported chains from day one.
+
+The accrued native token rewards generated from swap fees incentivise users to burn XEN or USDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
+
+At the end of Day 2, the airdrop of 500,000 XNF tokens will be distributed to users in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch.
 
 <br>
 
