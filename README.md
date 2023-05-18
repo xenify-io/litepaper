@@ -918,13 +918,13 @@ For example, if the daily allocation for a cycle was 20,000 XNF, with half alloc
 
 <br>
 
-Introducing the Xenify Glossary, a comprehensive resource that outlines key terms and concepts essential to understanding the Xenify ecosystem and the broader world of decentralized finance. With a focus on clarity and simplicity, this glossary aims to empower users by bridging the gap between complex crypto jargon and everyday language. Explore the glossary to deepen your knowledge of Xenify, DeFi, and the innovative technologies that bring our protocol to life.
+Welcome to the Xenify Glossary, your go-to resource for understanding key terms and concepts essential to the Xenify ecosystem and the broader world of decentralised finance (DeFi). Our glossary aims to bridge the gap between complex crypto jargon and everyday language. Using everyday language and straightforward explanations, our glossary will enable you to deepen your knowledge of Xenify, DeFi, and the innovative technologies that bring our protocol to life with clarity and simplicity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XEN
   
-  - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Partispation concept and First Principles methodology to build a groundbreaking decentralised protocol.
+  - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Participation concept and First Principles methodology to build a groundbreaking decentralised protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -936,67 +936,67 @@ Introducing the Xenify Glossary, a comprehensive resource that outlines key term
 
 ## ◽️ Xenify
 
-  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionize the DeFi experience by offering a state-of-the-art cross-chain aggregator that simplifies the token swapping process across multiple chains. By tapping into the best routes and lowest fees from various aggregators, Xenify empowers users to seamlessly swap tokens between supported chains without the hassle of navigating through multiple protocols. The platform emphasizes fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-centric DeFi ecosystem.
+  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across different chains. With access to the best routes and lowest fees from various aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Staking 
 
-  - The process of locking up tokens in a wallet or platform to support the network's operations, such as validating transactions or securing the network, and receiving rewards in return.
+  - Staking involves locking up tokens in a wallet or platform to support network operations, like validating transactions or securing the network. In return, participants receive rewards.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Cross-chain
 
-  - The ability to interact with and transfer assets between different blockchain networks, promoting interoperability and a more connected ecosystem.
+  - Cross-chain refers to the ability to interact with and transfer assets between different blockchain networks. It promotes interoperability and a more connected ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Tokenomics
 
-  - The study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
+  - Tokenomics is the study of the economic aspects of a cryptocurrency or token, such as supply, distribution, and incentives.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Direct Burns 
 
-  - Users burn tokens (e.g., XEN or USDy) to support protocol growth and receive XNF tokens as equity, demonstrating commitment to the protocol.
+  - When a token is burned it's usually sent to an inactive address and removed from circulation, effectively reducing the total supply by the amount burned. On Xenify, Direct Burns happen when users purposefully burn tokens (XEN or USDy) to promote the growth of the protocol.  As a reward for their commitment to the protocol, users receive XNF tokens in exchange for their burned XEN or USDy tokens.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Proof of Burn
 
-  - A commitment mechanism where users burn tokens, demonstrating their support for the protocol and earning equity in return.
+  - Proof of Burn is a commitment mechanism where users burn tokens to show their support for the protocol. In exchange, they receive equity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Swap Volume 
   
-  - The total value of token swaps executed on the Xenify platform, used as a basis for distributing XNF tokens to users.
+  - Swap volume refers to the total value of token swaps executed on the Xenify platform. It serves as the basis for distributing XNF tokens to users during the daily reward cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ First Principles 
 
-  - First principles in crypto are the fundamental concepts driving decentralized digital currencies, focusing on permissionless access, transparency, trustlessness, decentralisation, and immutability. These principles guide the growth and innovation of cryptocurrencies, enabling informed decision-making and shaping the future of decentralised finance.
+  - First principles in crypto are the fundamental concepts that underpin decentralised digital currencies. They focus on permissionless access, transparency, trustlessness, decentralisation, and immutability. These principles guide the growth and innovation of cryptocurrencies, enabling informed decision-making and shaping the future of decentralised finance.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Interoperability
 
-  - The ability of different systems, networks, or platforms to work together seamlessly, allowing for the exchange of data, assets, and information without barriers.
+  - Interoperability is the ability of different systems, networks, or platforms to seamlessly work together. It allows for the exchange of data, assets, and information without barriers.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Smart Contracts 
 
-  - Self-executing contracts with the terms of the agreement directly written into code, which allows for secure, decentralised, and automated transactions on a blockchain platform.
+  - Smart Contracts are digital agreements that automatically execute when specific conditions are met, allowing two or more parties to exchange things like money, property, or shares in a transparent and hassle-free way, without needing a middleman. These contracts are like mini-programs stored on a blockchain, and they run as soon as the agreed-upon terms are fulfilled. By automating the process, everyone involved can be confident in the outcome without delays or interference from intermediaries.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ DeFi (Decentralised Finance) 
 
-  - A financial system built on blockchain technology that aims to provide a more open, transparent, and accessible alternative to traditional financial services.
+  - DeFi, short for Decentralised Finance, is a financial system that cuts out the middlemen by using blockchain technology. It blends traditional banking with blockchain, replacing some parts of the usual financial system with smart contracts on a blockchain. DeFi delivers financial services on a blockchain, offering a more open, transparent, and user-friendly alternative to traditional financial services.
 
 <br>
 
