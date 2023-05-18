@@ -713,7 +713,7 @@ Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts t
 <br>
 
 $$
-BF = GS \times (1 \minus (NB \times CS)) \times NB
+BF = GS \times (1 - (NB \times CS)) \times NB
 $$
 
 **Where:**
