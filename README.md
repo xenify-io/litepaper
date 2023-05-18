@@ -706,15 +706,17 @@ Furthermore, holders of the Phoenix NFT will be offered a range of benefits, suc
 
   - Holders of either a XENFT APEX NFT or Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
 
-When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
+  - When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
 
-Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
+  - Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
+
+<br>
 
 $$
-BF = GS x (1 - (NB x CS)) x NB
+BF = GS \times (1 \minus (NB \times CS)) \times NB
 $$
 
-**Where:**
+◽️ **Where:**
 
 - $BF$ (Burn Fee): The fee charged for the burn function, paid in the native token of the blockchain.
 - $GS$ (Gas Spent): The total amount of gas consumed by the burn function to execute the code.
@@ -727,7 +729,7 @@ $$
 
   - The Phoenix NFT has been ingeniously designed with a rental mechanism that allows users to generate rental income while renters reap the benefits of bypassing the Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a fraction of the user's rental income is collected as tax. This, coupled with a share of royalty taxes from OpenSea, is distributed among all Phoenix Ape NFT holders on the BNB Chain as USDC rewards.
 
-These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
+  - These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -856,6 +858,8 @@ In summary, Xenify represents a paradigm shift in the world of cross-chain token
 <br>
 
 We understand that you may have questions about Xenify, its features, and its potential. To help you navigate our platform, we've compiled a list of frequently asked questions that provide clarity and insights into Xenify and its ecosystem.
+
+<br>
 
 ## ◽️ Does XNF have an initial supply?
 - No, Xenify does not have an initial supply or pre-mine of XNF tokens. Instead, the protocol distribute XNF tokens dynamically as users participate in the ecosystem, such as through direct burns of XEN and USDy or swapping of tokens through the Xenify aggregator. This approach ensures a fair distribution model and promotes active user involvement in the protocol.
