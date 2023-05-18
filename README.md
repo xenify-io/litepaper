@@ -698,17 +698,17 @@ Furthermore, holders of the Phoenix NFT will be offered a range of benefits, suc
 
 ## ◽️ Limited Collectible
 
-  - XENFT APEX, an exclusive NFT collection developed for Xenify, has a limited supply of 10,000, based on rarity classes. Minting prices are determined by the amount of XEN burned for each NFT, empowering users with a variety of ways to engage with the Xenify ecosystem and help bolster its growth. In contrast, the Phoenix Apes boast a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
+XENFT APEX, an exclusive NFT collection developed for Xenify, has a limited supply of 10,000, based on rarity classes. Minting prices are determined by the amount of XEN burned for each NFT, empowering users with a variety of ways to engage with the Xenify ecosystem and help bolster its growth. In contrast, the Phoenix Apes boast a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Amplified Burn Effect
 
-  - Holders of either a XENFT APEX NFT or Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
+Holders of either a XENFT APEX NFT or Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
 
-  - When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
+When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
 
-  - Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
+Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
 
 <br>
 
@@ -716,7 +716,7 @@ $$
 BF = GS \times (1 \minus (NB \times CS)) \times NB
 $$
 
-◽️ **Where:**
+**Where:**
 
 - $BF$ - Burn Fee, the fee charged for the burn function, paid in the native token of the blockchain.
 - $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
@@ -727,25 +727,25 @@ $$
 
 ## ◽️ Claimable USDC Rewards
 
-  - The Phoenix NFT has been ingeniously designed with a rental mechanism that allows users to generate rental income while renters reap the benefits of bypassing the Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a fraction of the user's rental income is collected as tax. This, coupled with a share of royalty taxes from OpenSea, is distributed among all Phoenix Ape NFT holders on the BNB Chain as USDC rewards.
+The Phoenix NFT has been ingeniously designed with a rental mechanism that allows users to generate rental income while renters reap the benefits of bypassing the Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a fraction of the user's rental income is collected as tax. This, coupled with a share of royalty taxes from OpenSea, is distributed among all Phoenix Ape NFT holders on the BNB Chain as USDC rewards.
 
-  - These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
+These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unique Rental Mechanism
   
-  - The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of LP tokens utilised by the YSL.IO protocol for the USDy Incentive Buyback (UIB) mechanism. This groundbreaking model not only ensures the stability of the USDy token but also plays a pivotal role in fostering the overall health of the YSL.IO ecosystem.
+The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of LP tokens utilised by the YSL.IO protocol for the USDy Incentive Buyback (UIB) mechanism. This groundbreaking model not only ensures the stability of the USDy token but also plays a pivotal role in fostering the overall health of the YSL.IO ecosystem.
 
-  - Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT on the OpenSea Marketplace. This tax will be combined with a portion of OpenSea’s royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT. 
+Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT on the OpenSea Marketplace. This tax will be combined with a portion of OpenSea’s royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Bypassing the Sigma Exit Rate
     
-  - The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of Treasury-owned liquidity.
+The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of Treasury-owned liquidity.
 
-  - A crucial component of the PSM is the Sigma Exit Rate, which restricts token sales from a wallet by considering the user's acquisition or last sale of the token. However, privileged Phoenix Ape NFT holders can enjoy the freedom to sell up to 100% of their xYSL, bYSL, or USDy tokens without being subjected to the Sigma Exit Rate. This exclusive feature grants users ultimate flexibility and control over their YSL.IO native token holdings.
+A crucial component of the PSM is the Sigma Exit Rate, which restricts token sales from a wallet by considering the user's acquisition or last sale of the token. However, privileged Phoenix Ape NFT holders can enjoy the freedom to sell up to 100% of their xYSL, bYSL, or USDy tokens without being subjected to the Sigma Exit Rate. This exclusive feature grants users ultimate flexibility and control over their YSL.IO native token holdings.
 
 <br>
 
