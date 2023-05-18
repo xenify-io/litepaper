@@ -718,10 +718,10 @@ $$
 
 ◽️ **Where:**
 
-- $BF$ (Burn Fee): The fee charged for the burn function, paid in the native token of the blockchain.
-- $GS$ (Gas Spent): The total amount of gas consumed by the burn function to execute the code.
-- $CS$ (Constant): A constant value of 0.00005, used to factor in the discount on the burn fee.
-- $NB$ (Number of Batches): The number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
+- $BF$ - Burn Fee, the fee charged for the burn function, paid in the native token of the blockchain.
+- $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
+- $CS$ - A constant value of 0.00005, used to factor in the discount on the burn fee.
+- $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
