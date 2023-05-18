@@ -743,7 +743,7 @@ Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out th
 
 ## ◽️ Bypassing the Sigma Exit Rate
     
-The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of Treasury-owned liquidity.
+The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of treasury-owned liquidity.
 
 A crucial component of the PSM is the Sigma Exit Rate, which restricts token sales from a wallet by considering the user's acquisition or last sale of the token. However, privileged Phoenix Ape NFT holders can enjoy the freedom to sell up to 100% of their xYSL, bYSL, or USDy tokens without being subjected to the Sigma Exit Rate. This exclusive feature grants users ultimate flexibility and control over their YSL.IO native token holdings.
 
