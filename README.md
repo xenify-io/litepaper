@@ -862,11 +862,12 @@ We understand that you may have questions about Xenify, its features, and its po
 <br>
 
 ## ◽️ Does XNF have an initial supply?
-- No, Xenify does not have an initial supply or pre-mine of XNF tokens. Instead, the protocol distribute XNF tokens dynamically as users participate in the ecosystem, such as through direct burns of XEN and USDy or swapping of tokens through the Xenify aggregator. This approach ensures a fair distribution model and promotes active user involvement in the protocol.
+- No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol distributes XNF tokens through a daily reward to users that participate in the ecosystem through direct burns of XEN and USDy or swapping of tokens via the Xenify aggregator. This approach ensures a fair distribution model and encourages active user engagement in the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What does the recycle button do?
+- The recycle button is an intuitive feature designed with user-centricity at its core. By clicking the recycle button, XNF stakers can instantly convert their accumulated native chain rewards into staked XNF with a single click. The protocol will first sell your accrued native chain rewards, such as ETH, BNB, and MATIC, and use the proceeds to purchase XNF. Subsequently, the newly acquired XNF will be staked on your behalf, streamlining the process for your convenience.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -878,28 +879,35 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ How do you generate rewards with Xenify?
-- Users can generate rewards with Xenify through staking their XNF equity. By doing so, they receive 100% of the burn fees and a share of the swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the protocol's growth and sustainability. As users participate actively in the ecosystem, they not only benefit from the rewards but also help shape the future of the Xenify platform.
+- Users can generate rewards with Xenify by staking their XNF tokens. In doing so, they receive a share of the burn and swap fees generated through the protocol on each daily cycle. This incentive model encourages engagement and contributes to the protocol's long-term growth and sustainability.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If i make a stake now when can i unstake?
+  - Staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two full cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If i make a stake now when will i recieve rewards?
+  - Please be aware that when you stake XNF tokens, you will not accumulate rewards within the same cycle in which you make the stake. This approach helps prevent front-running scenarios. Your staked tokens will only begin to accumulate native chain rewards after one reward distribution cycle has elapsed. These rewards are generated from both swap fees and burn fees and are gathered into a reward pool during the cycle. At the conclusion of the cycle, the protocol distributes the rewards among XNF stakers, guaranteeing a fair and transparent allocation.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Are there different ways to participate with Xenify?
-- Yes, there are multiple ways to participate with Xenify, including staking XNF tokens, engaging in direct burns of XEN or USDy, swapping tokens across multiple chains, and contributing to the protocol's growth through community involvement.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ What occurs during a daily cycle if all user interactions are restricted to either just token swapping or only token burning, with no combination of the two?
+- Yes, there are several ways to participate with Xenify, including:
+  - Engaging in direct burns of XEN or USDy to acquire XNF.
+  - Purchasing a XENFT APEX NFT to unlock amplified burns.
+  - Contributing to the protocol's growth through community initiatives.
+  - Staking XNF tokens to earn native chain rewards such as ETH, BNB and MATIC.
+  - Using the Xenify aggregator to perform seamless single-click swaps and earning XNF in the process.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What would be the scenario if, throughout the course of a daily cycle, there are no instances of users performing either token swapping or burning activities?
+
+In the event that no swaps have taken place on Xenify and no users have burned either XEN or USDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
+
+For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
 
 <br>
 
