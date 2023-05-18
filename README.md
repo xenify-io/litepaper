@@ -690,37 +690,60 @@ At the end of Day 2, the airdrop of 500,000 XNF tokens will be distributed to us
 
 <br>
 
-Introducing the [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) and [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf), exclusive NFT collectibles that bring together the XEN and YSL.IO communities while offering an amplified burn effect for Xenify users who hold either of them. These NFTs not only enhance the burn effect on Xenify but also provide a range of enticing benefits for their holders. By offering these additional perks, the Phoenix Apes and XENFT APEXs elevate the user experience and add significant value to the Xenify ecosystem.
+Introducing [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf) and [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectibles that bring together the XEN and YSL.IO communities. By owning either of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning XEN or USDy. Remember, the more batches a user burns, the greater the burn fee discount.
+
+Furthermore, holders of the Phoenix NFT will be offered a range of benefits, such as the opportunity to earn USDC rewards every 8 hours and the ability to bypass the Sigma Exit Rate on the YSL.IO protocol. With these added perks, Phoenix Apes and XENFT APEXs aim to heighten user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Limited Collectible
 
-  - The Phoenix Apes are an exclusive NFT collectible with only a 520 total supply. Priced at 2500 USDC, these rare NFTs offer a unique opportunity for collectors and investors who are looking for a valuable and innovative digital asset. On the other hand, XENFT APEX NFTs have a max supply of 10,000 and are based on rarety classes, with the minting price determined by the amount of XEN burned for each NFT. This structure provides additional options and incentives for users who want to participate in the Xenify ecosystem and support its growth through the burning of XEN tokens.
+  - XENFT APEX, an exclusive NFT collection developed for Xenify, has a limited supply of 10,000, based on rarity classes. Minting prices are determined by the amount of XEN burned for each NFT, empowering users with a variety of ways to engage with the Xenify ecosystem and help bolster its growth. In contrast, the Phoenix Apes boast a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Amplified Burn Effect
 
-  - Holders of either Phoenix Ape NFTs or XENFT APEX NFTs will benefit from an amplified burn effect during the burn process on Xenify. This unique advantage enables NFT holders to enhance the burn effect, effectively doubling their batch burn. For example, if a user burns 1 batch, it will count as 2 batches if they possess an NFT at the time of the burn. This exclusive feature promotes unity between both communities and adds value to the NFT holders.
+  - Holders of either a XENFT APEX NFT or Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
+
+When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
+
+Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
+
+$$
+BF = GS x (1 - (NB x CS)) x NB
+$$
+
+**Where:**
+
+- $BF$ (Burn Fee): The fee charged for the burn function, paid in the native token of the blockchain.
+- $GS$ (Gas Spent): The total amount of gas consumed by the burn function to execute the code.
+- $CS$ (Constant): A constant value of 0.00005, used to factor in the discount on the burn fee.
+- $NB$ (Number of Batches): The number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Claimable USDC Rewards
 
-  - A portion of the rental income collected as tax, combined with a share of the royalty taxes taken on OpenSea, will be distributed to all Phoenix Ape NFT holders on the BNB Chain as claimable USDC rewards at the end of each 8-hour epoch. However, it is important to note that if the NFT is bridged to another chain to amplify the burns, the holder will not be part of the USDC distribution. The claimable USDC rewards are exclusively for addresses holding the Phoenix Ape NFT on the BNB Chain.
+  - The Phoenix NFT has been ingeniously designed with a rental mechanism that allows users to generate rental income while renters reap the benefits of bypassing the Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a fraction of the user's rental income is collected as tax. This, coupled with a share of royalty taxes from OpenSea, is distributed among all Phoenix Ape NFT holders on the BNB Chain as USDC rewards.
+
+These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unique Rental Mechanism
   
-  - The Phoenix Ape NFT introduces a one-of-a-kind rental mechanism, allowing you to lease your NFT at a predetermined USDC price for a specific duration while it stays on the BNB Chain. This innovative feature plays a crucial role in maintaining the stability of the USDy token. By renting out your Phoenix Ape NFT, you contribute to the generation of LP tokens that are utilised in the USDy Incentive Buyback (UIB) mechanism, promoting the token's overall stability and health within the ecosystem. Moreover, Phoenix Ape NFT holders on the BNB Chain receive a portion of the rental tax, further rewarding their participation and investment in holding this exclusive NFT.
+  - The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of LP tokens utilised by the YSL.IO protocol for the USDy Incentive Buyback (UIB) mechanism. This groundbreaking model not only ensures the stability of the USDy token but also plays a pivotal role in fostering the overall health of the YSL.IO ecosystem.
+
+  - Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT on the OpenSea Marketplace. This tax will be combined with a portion of OpenSea’s royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Bypassing the Sigma Exit Rate
     
-  - As a Phoenix Ape NFT holder, you can benefit from the ability to sell up to 100% of any xYSL, bYSL, or USDy tokens you may possess, without being subject to the Sigma Exit Rate. This exclusive perk offers greater flexibility and control over your YSL.IO native token holdings.
+  - The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of Treasury-owned liquidity.
+
+  - A crucial component of the PSM is the Sigma Exit Rate, which restricts token sales from a wallet by considering the user's acquisition or last sale of the token. However, privileged Phoenix Ape NFT holders can enjoy the freedom to sell up to 100% of their xYSL, bYSL, or USDy tokens without being subjected to the Sigma Exit Rate. This exclusive feature grants users ultimate flexibility and control over their YSL.IO native token holdings.
 
 <br>
 
@@ -746,65 +769,65 @@ This incentive model ensures that Xenify users are consistently recognised for t
 
 <br>
 
-Xenify prioritises security to guarantee the safety and reliability of the protocol. The contracts from DBXen have been rigorously audited by Certik, a leading blockchain security firm. To further bolster the protocol's security, Xenify plans to schedule a re-audit of the contracts by Peckshield, another highly-regarded security company in the industry.
+At Xenify, security is paramount to ensuring the utmost safety and reliability of our protocol. Rigorous audits have been conducted on our contracts from DBXen by CertiK, a renowned blockchain security firm. To further fortify our protocol's security, we are planning a re-audit of the contracts by PeckShield, another highly-regarded security company in the industry.
 
-Xenify is thoughtfully designed with decentralisation and autonomy as its guiding principles. The smart contracts lack admin keys, meaning they cannot be upgraded or governed by a centralised authority. This structure solidifies the protocol's truly decentralised and autonomous nature, with decision-making power distributed equitably among participants. As Xenify evolves, it will continue to prioritise users' interests, fostering transparency and trust throughout the protocol.
+Our platform is thoughtfully designed with decentralisation and autonomy as guiding principles. Xenify's smart contracts are devoid of admin keys, meaning they cannot be upgraded or governed by a centralised authority. This structure reinforces our protocol's truly decentralised and autonomous nature, with decision-making power equitably distributed among participants. As Xenify evolves, we aim to prioritise our users' interests, nurturing transparency and trust throughout the protocol.
 
-Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by adhering to the following exhilarating principles. By committing to these principles, Xenify aspires to create a DeFi platform that cultivates trust, fairness, and community-driven growth in the DeFi space.
+Xenify's mission is to forge a transparent, equitable, and user-centric DeFi platform by upholding the First Principles of Crypto in all our endeavours. By committing to these core values, we aspire to establish a protocol that champions trust, fairness, and community-driven growth in the DeFi space.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fair Launch 
+## ◽️ Fair Launch: Equality for All
   
-- Xenify's launch will be unbiased, with no pre-mining or pre-allocation of tokens, guaranteeing an even playing field for all participants.
+- Xenify's launch is designed to be impartial, with no pre-mining or pre-allocation of XNF tokens. This guarantees an even playing field for all participants, cultivating an environment of fairness and equal opportunity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Back Doors
+## ◽️ No Back Doors: Secure & Trustworthy
 
-- The smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the protocol's security and trustworthiness.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ No Team Allocation
-
-- Founders and team members will not receive any token allocation, underscoring the project's dedication to a community-driven approach and removing potential conflicts of interest. Instead, the team will participate alongside the community, fostering a fair and level playing field for all involved.
+- Xenify's smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the utmost security and trustworthiness of our protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Starts at Zero Supply
+## ◽️ No Team Allocation: Community-Driven
 
-- XNF will commence with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach ensures that there will be no stealth launch, which often provides an unfair advantage to a select few. Instead, all participants will have an equal opportunity to engage with and benefit from the protocol.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Proof of Participation
-
-- Users will earn rewards proportionate to their active engagement and contributions within the ecosystem, fostering a merit-based reward system that promotes fairness and inclusivity for all participants.
+- Founders and team members will not receive any token allocation, underscoring the project's dedication to a community-driven approach and eliminating potential conflicts of interest. Instead, Xenify's team will participate alongside the community, fostering a fair and level playing field for all involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Investor Allocation
+## ◽️ Starts at Zero Supply: Equal Opportunities
 
-- There is no token allocation for privileged investors or venture capitalists, promoting a truly equitable distribution of tokens among users actively engaged in the ecosystem. This strategy removes any preferential treatment and fosters a more inclusive and fair environment for everyone involved.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Users Mint Their Equity
-
-- XNF tokens won't be pre-mined or allocated to investors or team members. Instead, users can obtain tokens by actively engaging with the protocol, burning XEN or USDy tokens, and swapping tokens across supported chains. This approach rewards users for their contributions and ensures a fair distribution of XNF within the ecosystem.
+- XNF will begin with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach guarantees that there is no possibility for a stealth launch, which often favours a select few. Instead, all participants will have equal opportunities to engage with and benefit from the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Initial Coin Offering 
+## ◽️ Proof of Participation: Merit-Based Rewards
 
-- Xenify will forego an ICO, reinforcing its steadfast commitment to a fair and transparent launch that ensures equal opportunities for all participants.
+- Users will earn rewards proportional to their active engagement and contributions within the ecosystem, fostering a merit-based reward system that promotes fairness and inclusivity for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable, No Admin Keys
+## ◽️ No Investor Allocation: Truly Equitable Distribution
 
-- Xenify's smart contracts will be carefully crafted without admin keys or centralized control, safeguarding the protocol's immutability and preserving its decentralized nature..
+- There will be no token allocation for privileged investors or venture capitalists, ensuring a genuinely equitable distribution of tokens among users actively engaged in the ecosystem. This strategy eliminates preferential treatment and fosters a more inclusive and fair environment for everyone involved.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Users Mint Their Equity: Fair Distribution
+
+- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning XEN or USDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ No Initial Coin Offering: Transparent Launch 
+
+- Xenify will forego an Initial Coin Offering (ICO), reinforcing our unwavering commitment to a fair and transparent launch that ensures equal opportunities for all participants.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Immutable, No Admin Keys: Truly Decentralised
+
+- Xenify's smart contracts will be carefully crafted without admin keys or centralised control, safeguarding the protocol's immutability and preserving its decentralised nature.
 
 <br>
 
@@ -814,11 +837,15 @@ Xenify aims to craft a transparent, equitable, and user-centric DeFi platform by
 
 <br>
 
-Xenify is a revolutionary cross-chain aggregator that focuses on delivering a seamless user experience when swapping between chains, rewarding community involvement, and promoting a fair and sustainable token distribution model. By leveraging innovative tokenomics, Xenify aspires to build a decentralised and community-driven platform that appreciates users' active participation in the ecosystem. The platform offers an appealing staking model, enabling users to earn rewards in native chain token from burn fees and a share of swap fees generated through the protocol. This model incentivizes long-term engagement and contributes to the platform's growth and sustainability.
+Xenify, a cross-chain aggregator of aggregators, has been meticulously built from the ground up to transform the way users engage in token swaps. Its primary focus is to deliver a seamless user experience, reward active community members, and establish a fair and sustainable token distribution model. By harnessing innovative tokenomics, Xenify aspires to establish a decentralised, community-driven platform that values and encourages users' active participation within the ecosystem.
 
-With a strong emphasis on security and dedication to fair token distribution, Xenify ensures that users can rely on the platform to safeguard their interests. Its adaptive minting process and incentive structure motivate users to contribute to the ecosystem, fostering protocol growth and value. As Xenify progresses and broadens its offerings, it is well-positioned to become a prominent player in the decentralised exchange arena.
+What sets Xenify apart is its seamless connection to 19 different aggregators, enabling effortless single-click swaps at unbeatable rates across 32 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
 
-By nurturing a vibrant, community-driven environment and maintaining commitments to security, transparency, and fairness, Xenify is poised to make a lasting impact on the crypto landscape. Users who share the core values of decentralised finance and desire to contribute to an innovative and sustainable protocol should consider engaging with Xenify and joining its expanding community.
+With Xenify, users are granted an exclusive opportunity to earn XNF tokens on every swap, complemented by an attractive staking model that enables users to earn native chain tokens such as ETH, BNB, and MATIC derived directly from the burn and swap fees. This unique incentive model undeniably makes Xenify the top choice for those seeking to simplify the cross-chain swapping process while maximising their earning potential.
+
+Security and a commitment to fair token distribution are at the core of Xenify's principles. The protocol has been carefully designed to safeguard the interests of users, as it implements an equitable minting process and an incentive structure that encourages users to actively participate in the ecosystem's growth. This unique approach cultivates a mutually beneficial relationship among all participants, contributing to the platform's long-term growth and sustainability. By promoting this vibrant, community-driven environment and upholding commitments to security, transparency, and fairness, Xenify is poised to emerge as a leader in the decentralised exchange arena.
+
+In summary, Xenify represents a paradigm shift in the world of cross-chain token swapping. With its seamless efficiency, rewarding tokenomics, and unwavering commitment to security and fairness, Xenify offers users an unparalleled opportunity to engage in a truly decentralised ecosystem that values participation and fosters mutual growth. By choosing Xenify, individuals can experience the best of both worlds: effortless token swapping and the ability to maximise their earning potential.
 
 <br>
 
@@ -827,6 +854,8 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
+
+We understand that you may have questions about Xenify, its features, and its potential. To help you navigate our platform, we've compiled a list of frequently asked questions that provide clarity and insights into Xenify and its ecosystem.
 
 ## ◽️ Does XNF have an initial supply?
 - No, Xenify does not have an initial supply or pre-mine of XNF tokens. Instead, the protocol distribute XNF tokens dynamically as users participate in the ecosystem, such as through direct burns of XEN and USDy or swapping of tokens through the Xenify aggregator. This approach ensures a fair distribution model and promotes active user involvement in the protocol.
@@ -838,9 +867,9 @@ By nurturing a vibrant, community-driven environment and maintaining commitments
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Why will XNF appreciate in value?
-  - Xenify's value has the potential to appreciate significantly, thanks to its groundbreaking tokenomics, thriving ecosystem, and surging demand for native chain rewards. With Xenify's state-of-the-art cross-chain aggregator, users can experience seamless token swapping and participate in various rewarding activities, driving protocol adoption and value.
+  - The value of XNF holds the potential to appreciate significantly due to Xenify’s innovative tokenomics, thriving ecosystem, and the increasing demand for native chain rewards. With Xenify's cutting-edge cross-chain aggregator, users can enjoy seamless token swapping and engage in various rewarding activities, which drives protocol adoption and ultimately the value of XNF.
 
-  - Furthermore, the scarcity of XNF tokens, created by halving events, will likely enhance the token's value as more users embrace Xenify as their go-to place for swapping tokens. This will contribute to more native chain rewards for XNF stakers, leading to an increasing demand for the XNF tokens. As a result, the token value is likely to rise due to the demand, solidifying Xenify's place as a promising project within the XEN ecosystem.
+  - Additionally, the scarcity of XNF tokens, brought about by halving events, is likely to boost the token's value as more users choose Xenify as their preferred platform for swapping tokens. This will lead to more native chain rewards for XNF stakers, resulting in a growing demand for XNF tokens. Consequently, the token value is poised to rise due to demand, cementing Xenify's position as a promising project within the XEN ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
