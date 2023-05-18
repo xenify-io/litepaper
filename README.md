@@ -895,6 +895,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ## ◽️ Are there different ways to participate with Xenify?
 - Yes, there are several ways to participate with Xenify, including:
+
   - Engaging in direct burns of XEN or USDy to acquire XNF.
   - Purchasing a XENFT APEX NFT to unlock amplified burns.
   - Contributing to the protocol's growth through community initiatives.
