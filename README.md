@@ -878,13 +878,13 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ How do you generate rewards with Xenify?
-- Users can generate rewards with Xenify by staking their XNF tokens. In doing so, they receive a share of the burn and swap fees generated through the protocol on each daily cycle. This incentive model encourages engagement and contributes to the protocol's long-term growth and sustainability.
+## ◽️ If i make a stake now when can i unstake?
+  - Staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two full cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ If i make a stake now when can i unstake?
-  - Staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two full cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
+## ◽️ How do you generate rewards with Xenify?
+- Users can generate rewards with Xenify by staking their XNF tokens. In doing so, they receive a share of the burn and swap fees generated through the protocol on each daily cycle. This incentive model encourages engagement and contributes to the protocol's long-term growth and sustainability.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
