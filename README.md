@@ -621,7 +621,7 @@ When Day 1 draws to a close, two significant events take place. First, the 10,00
 
 The second crucial event involves the protocol generating protocol-owned liquidity using the burn fees collected during Day 1. The associated LP tokens will be retained by Xenify as protocol-owned liquidity. By dividing the total value of native tokens collected from burn fees (NT) by the XNF tokens allocated for liquidity provisioning (TXT), the protocol is able to calculate the initial price of the XNF token (IP) for the chain.
 
-#### ▫️ The formula for the initial price is:
+#### The formula for the initial price is:
 
 <br>
 
