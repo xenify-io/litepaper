@@ -779,55 +779,55 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fair Launch: Equality for All
+## ◽️ Fair Launch
   
 - Xenify's launch is designed to be impartial, with no pre-mining or pre-allocation of XNF tokens. This guarantees an even playing field for all participants, cultivating an environment of fairness and equal opportunity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Back Doors: Secure & Trustworthy
+## ◽️ No Back Doors
 
 - Xenify's smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the utmost security and trustworthiness of our protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Team Allocation: Community-Driven
+## ◽️ No Team Allocation
 
 - Founders and team members will not receive any token allocation, underscoring the project's dedication to a community-driven approach and eliminating potential conflicts of interest. Instead, Xenify's team will participate alongside the community, fostering a fair and level playing field for all involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Starts at Zero Supply: Equal Opportunities
+## ◽️ Starts at Zero Supply
 
 - XNF will begin with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach guarantees that there is no possibility for a stealth launch, which often favours a select few. Instead, all participants will have equal opportunities to engage with and benefit from the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Proof of Participation: Merit-Based Rewards
+## ◽️ Proof of Participation
 
 - Users will earn rewards proportional to their active engagement and contributions within the ecosystem, fostering a merit-based reward system that promotes fairness and inclusivity for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Investor Allocation: Truly Equitable Distribution
+## ◽️ No Investor Allocation
 
 - There will be no token allocation for privileged investors or venture capitalists, ensuring a genuinely equitable distribution of tokens among users actively engaged in the ecosystem. This strategy eliminates preferential treatment and fosters a more inclusive and fair environment for everyone involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Users Mint Their Equity: Fair Distribution
+## ◽️ Users Mint Their Equity
 
 - XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning XEN or USDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Initial Coin Offering: Transparent Launch 
+## ◽️ No Initial Coin Offering
 
 - Xenify will forego an Initial Coin Offering (ICO), reinforcing our unwavering commitment to a fair and transparent launch that ensures equal opportunities for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable, No Admin Keys: Truly Decentralised
+## ◽️ Immutable, No Admin Keys
 
 - Xenify's smart contracts will be carefully crafted without admin keys or centralised control, safeguarding the protocol's immutability and preserving its decentralised nature.
 
