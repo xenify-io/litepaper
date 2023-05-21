@@ -739,9 +739,13 @@ In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved f
 
 ## ◽️ Unique Rental Mechanism
   
-The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of LP tokens utilised by the YSL.IO protocol for the USDy Incentive Buyback (UIB) mechanism. This groundbreaking model not only ensures the stability of the USDy token but also plays a pivotal role in fostering the overall health of the YSL.IO ecosystem.
+The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate.
 
-Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT on the OpenSea Marketplace. This tax will be combined with a portion of OpenSea’s royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT. 
+When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
+
+These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution.
+
+In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
