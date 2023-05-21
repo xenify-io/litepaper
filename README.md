@@ -727,9 +727,13 @@ $$
 
 ## ◽️ Claimable USDC Rewards
 
-The Phoenix NFT has been ingeniously designed with a rental mechanism that allows users to generate rental income while renters reap the benefits of bypassing the Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a fraction of the user's rental income is collected as tax. This, coupled with a share of royalty taxes from OpenSea, is distributed among all Phoenix Ape NFT holders on the BNB Chain as USDC rewards.
+The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate.
 
-These rewards will be available for holders to claim at the end of each 8-hour epoch. However, it's important to note that if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they will not be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards are exclusively reserved for addresses that hold the Phoenix Ape NFT on the BNB Chain.
+When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
+
+These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution.
+
+In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
