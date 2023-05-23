@@ -374,7 +374,7 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-Xenify's total supply of XNF tokens is capped at 21.5 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of XEN and USDy, an additional 10,500,000 XNF tokens reserved for swap volume, and a separate 500,000 XNF tokens earmarked for the launch airdrop.
+Xenify's total supply of XNF tokens is capped at 21.5 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of XEN and USDy, an additional 10,500,000 XNF tokens reserved for swap volume, and a separate 500,000 XNF tokens earmarked for the launch airdrop. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle.  As demonstrated in the graph below, following the 8th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
 
@@ -641,7 +641,7 @@ $$
 
 Starting on Day 2, the protocol will activate its default XNF reward distribution schedule. This means an allocation of 10,000 XNF will be designated for users who burn XEN and USDy tokens, while anther 10,000 XNF will be reserved for swap volume.
 
-As Day 2 comes to a close, three pivotal events will unfold. First, the protocol will distribute the Xenify Airdrop, with 500,000 XNF allocated for the airdrop being shared among users based on their swap contributions on and before Day 1. 
+As Day 2 comes to a close, three pivotal events will unfold. First, the protocol will begin the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block. 
 
 Next, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be set aside for those who executed swaps on Day 2. 
 
@@ -680,7 +680,7 @@ The remaining 0.25% will be collected until deployment, and then distributed as 
 
 The accrued native token rewards generated from swap fees incentivise users to burn XEN or USDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
 
-At the end of Day 2, the airdrop of 500,000 XNF tokens will be distributed to users in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch.
+At the end of Day 2, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the the protocol on each new block over a period of 365 days.
 
 <br>
 
