@@ -1,8 +1,8 @@
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/673c0c02-0f1b-4156-bab6-c303269887c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/02787a2d-b0e3-4421-a264-ad89b07d1e10" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/02787a2d-b0e3-4421-a264-ad89b07d1e10" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5b1f7b78-83b2-4059-86e1-2720e388213a" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b7540868-4a9a-4faf-9d62-709dc2055f28" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/b7540868-4a9a-4faf-9d62-709dc2055f28" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -688,9 +688,9 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9a8e9952-7396-4c36-8a42-5517627aacca" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5ad79c23-f664-48bb-ae34-d4e571cd6e67" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/5ad79c23-f664-48bb-ae34-d4e571cd6e67" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/70b3d7cc-7de5-4a05-850f-f9e7ccfc8d48" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f06f3880-63b5-4d51-b6ab-6d1e0bd6dcf4" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f06f3880-63b5-4d51-b6ab-6d1e0bd6dcf4" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
