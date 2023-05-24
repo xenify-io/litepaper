@@ -689,8 +689,8 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9a8e9952-7396-4c36-8a42-5517627aacca" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/ab0ec612-4e44-42d0-b607-75a828b484a9" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/ab0ec612-4e44-42d0-b607-75a828b484a9" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5ad79c23-f664-48bb-ae34-d4e571cd6e67" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/5ad79c23-f664-48bb-ae34-d4e571cd6e67" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
