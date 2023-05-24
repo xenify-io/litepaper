@@ -1,8 +1,8 @@
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5b1f7b78-83b2-4059-86e1-2720e388213a" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b7540868-4a9a-4faf-9d62-709dc2055f28" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/b7540868-4a9a-4faf-9d62-709dc2055f28" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/db94db48-4704-4328-89b1-49e882769ff0" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/570a9bb0-403c-454b-8796-c170c7fbbf50" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/570a9bb0-403c-454b-8796-c170c7fbbf50" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
