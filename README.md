@@ -1,8 +1,8 @@
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/1d76368a-3b51-4a82-a5a8-652ce704958d" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5518a01b-e8ed-4612-ad36-65809e19ef76" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/5518a01b-e8ed-4612-ad36-65809e19ef76" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/673c0c02-0f1b-4156-bab6-c303269887c9" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/02787a2d-b0e3-4421-a264-ad89b07d1e10" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/02787a2d-b0e3-4421-a264-ad89b07d1e10" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -682,7 +682,7 @@ The accrued native token rewards generated from swap fees incentivise users to b
 
 At the end of Day 2, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the the protocol on each new block over a period of 365 days.
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Visual Explainer
 
