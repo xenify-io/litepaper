@@ -302,8 +302,10 @@ In short, Xenify is the ultimate cross-chain aggregator of aggregators that prov
 |   4   | Layer 1           | Ethereum      | https://ethereum.org                  |
 |   5   | Layer 1           | Avalanche     | https://www.avax.network              |
 |   6   | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-|   7   | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-|   8   | Parachain         | Moonbeam      | https://moonbeam.network              |
+|   7   | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+|   8   | Layer 2           | Optimism      | https://optimism.io                   |
+|   9   | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+|   10  | Parachain         | Moonbeam      | https://moonbeam.network              |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
