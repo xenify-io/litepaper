@@ -648,13 +648,13 @@ $$
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Starting on Day 2, the protocol will activate its default XNF reward distribution schedule. This means an allocation of 10,000 XNF will be designated for users who burn XEN and USDy tokens, while anther 10,000 XNF will be reserved for swap volume.
+Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn XEN and USDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and YSL.IO vault contributions.
 
-As Day 2 comes to a close, three pivotal events will unfold. First, the protocol will begin the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block. 
+As Day 2 comes to an end, three crucial events will unfold. Firstly, the protocol will initiate the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
 
-Next, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be set aside for those who executed swaps on Day 2. 
+Subsequently, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps on Day 2 and the contributions received from YSL.IO vaults.
 
-Lastly, the protocol will distribute the Native Chain Rewards (such as ETH, BNB, and MATIC) collected from swaps made during Day 1 and from swaps executed on Xenify prior to the launch. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of XEN and USDy on Day 1.
+Lastly, the protocol will distribute the Native Chain Rewards collected from swaps made during Day 1, as well as swaps executed on Xenify prior to the launch, and from yield generated from YSL.IO AlphaVaults and MetaVaults. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of XEN and USDy on Day 1.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
