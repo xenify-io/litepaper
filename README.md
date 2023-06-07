@@ -500,7 +500,7 @@ By implementing this calculation, we ensure that users receive discounts in prop
 
 ## ◽️ XNF Cycle Distribution
 
-Xenify adopts a balanced approach to reward distribution, placing equal emphasis on two essential components of the protocol: token burns and the swap fees. With both elements granted equal significance, each receives an equal allocation of the daily reward cycle distribution. For example, if the daily XNF cycle distribution is 20,000 XNF tokens, Xenify will divide the rewards, designating 10,000 XNF for burn contributions and 10,000 XNF for swap contributions.
+Xenify adopts a balanced approach to reward distribution, focusing on essential components of the protocol: burn fees, swap fees, and contributions from the YSL.IO protocol. Each element is granted an allocation of the daily reward cycle distribution, with 50% reserved for token burns, and the remaining 50% apportioned between swap fee contributions and contributions from YSL.IO vaults. For instance, if the daily XNF cycle distribution is 20,000 XNF tokens, Xenify will divide the rewards, allocating 10,000 XNF for burn fee contributions and 10,000 XNF between swap fee contributions and YSL.IO vault contributions.
 
 To ascertain each user's allocation of the daily distribution of XNF tokens, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
 
