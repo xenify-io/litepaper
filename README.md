@@ -413,15 +413,18 @@ XNF will be deployed onto the following chains:
 
 ## ◽️ Minting Process and Incentives
 
-The minting process for XNF has been structured to reward users who actively contribute to Xenify's growth through various activities. This approach promotes an equitable distribution of XNF tokens, cultivating a truly decentralised and community-driven protocol.
+The minting process for XNF has been meticulously designed to reward users who actively contribute to Xenify's growth through various activities. This approach promotes an equitable distribution of XNF tokens, cultivating a truly decentralised and community-driven protocol.
 
-Similarly, Xenify's incentive structure has been meticulously crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fueling further involvement.
+Likewise, Xenify's incentive structure has been carefully crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fuelling further involvement.
 
-XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining half is reserved for those contributing through the platform's swap fee.
+XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining 50% is reserved for those who contribute through the platform's 0.5% swap fee and the YSL.IO protocol based on the yield generated from the AlphaVaults and MetaVaults.
 
-With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated from swap fees (e.g., ETH, BNB, MATIC). In addition, stakers will also benefit from the burn fees collected from XEN or USDy burns performed on the Xenify platform. 
+With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
+
+Additionally, XNF stakers will benefit from Xenify's strategic integration of the YSL.IO protocol, as the yield generated from assets deposited in YSL.IO AlphaVaults and MetaVaults will be routed as native token rewards to stakers.
 
 This innovative three-pronged incentive model not only helps generate swap volume with users seeking to earn XNF but also rewards user participation through burning and staking. Ultimately, this approach fosters platform growth and cultivates a thriving, engaged user base.
+
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
