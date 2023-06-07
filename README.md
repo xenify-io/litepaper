@@ -711,25 +711,25 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 
 <br>
 
-Introducing [XENFT APEXs](https://faircrypto.org/xenft_litepaper.pdf) and [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectibles that bring together the XEN and YSL.IO communities. By owning either of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning XEN or USDy. Remember, the more batches a user burns, the greater the burn fee discount.
+Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that brings together the Xenify and YSL.IO communities. By owning one of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning XEN or USDy. Remember, the more batches a user burns, the greater the burn fee discount.
 
-Furthermore, holders of the Phoenix NFT will be offered a range of benefits, such as the opportunity to earn USDC rewards every 8 hours and the ability to bypass the Sigma Exit Rate on the YSL.IO protocol. With these added perks, Phoenix Apes and XENFT APEXs aim to heighten user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
+Furthermore, holders of the Phoenix NFT will be offered a range of benefits, such as the opportunity to earn USDC rewards every 8 hours and the ability to bypass the Sigma Exit Rate on the YSL.IO protocol. With these added perks, Phoenix Apes heighten user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Limited Collectible
 
-XENFT APEX, an exclusive NFT collection developed for Xenify, has a limited supply of 10,000, based on rarity classes. Minting prices are determined by the amount of XEN burned for each NFT, empowering users with a variety of ways to engage with the Xenify ecosystem and help bolster its growth. In contrast, the Phoenix Apes boast a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
+The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Amplified Burn Effect
 
-Holders of either a XENFT APEX NFT or Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
+Holders of a Phoenix Ape NFT will benefit from an amplified burn during the burning of XEN or USDy on Xenify. This exclusive advantage empowers these NFT holders to secure a substantial discount on their burn fees, fostering unity between both communities and driving user engagement and growth for both protocols.
 
-When holders of either a XENFT APEX NFT or Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
+When holders of a Phoenix Ape NFT choose to burn XEN or USDy on Xenify, they will enjoy a burn boost that effectively doubles their batch count (NB). This means that users can achieve the maximum savings of up to 50% off for 10,000 batches by burning the equivalent of just 5,000 batches.
 
-Here's how it works: when a holder of a XENFT APEX NFT or Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
+Here's how it works: when a holder of a Phoenix Ape NFT opts to burn the equivalent of 1 batch, it will be counted as 2 batches during the burn process. When a user burns more batches, they unlock greater discounts on the burn fee, with the maximum discount set at 50% for 10,000 batches. The discount obtained by a user is represented by the term (1 - (NB x CS)), and has been integrated with the burn fee formula:
 
 <br>
 
