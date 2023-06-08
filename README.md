@@ -648,11 +648,11 @@ $$
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn XEN and USDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and YSL.IO vault contributions.
+Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn XEN and USDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and contributions from YSL.IO AlphaVaults and MetaVaults.
 
 As Day 2 comes to an end, three crucial events will unfold. Firstly, the protocol will initiate the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
 
-Subsequently, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps on Day 2 and the contributions received from YSL.IO vaults.
+Subsequently, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps on Day 2 and the contributions received from YSL.IO AlphaVaults and MetaVaults.
 
 Lastly, the protocol will distribute the Native Chain Rewards collected from swaps made during Day 1, as well as swaps executed on Xenify prior to the launch, and from yield generated from YSL.IO AlphaVaults and MetaVaults. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of XEN and USDy on Day 1.
 
