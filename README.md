@@ -1059,7 +1059,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 **Influential Concepts:**
 
 - [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
-- [USDy Token](https://docs.ysl.io/overview-1/YSL-Nomics/USDy)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
