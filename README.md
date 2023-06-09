@@ -642,21 +642,7 @@ During the first day of launch, a strategic allocation of 20,000 XNF tokens will
 
 When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned XEN or USDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
 
-The second crucial event involves the protocol generating protocol-owned liquidity using the burn fees collected during Day 1. The associated LP tokens will be retained by Xenify as protocol-owned liquidity. By dividing the total value of native tokens collected from burn fees (NT) by the XNF tokens allocated for liquidity provisioning (TXT), the protocol is able to calculate the initial price of the XNF token (IP) for the chain.
-
-#### The formula for the initial price is:
-
-<br>
-
-$$
-IP = NT \div TXT
-$$
-
-**Where:**
-
-- $IP$ - Initial Price
-- $NT$ - Total Value of Native Tokens Collected
-- $TXT$ - Total XNF Tokens (10,000)
+The second pivotal event involves the protocol generating protocol-owned liquidity. This entails the protocol collecting the sum of all native tokens received from burn fees incurred during Day 1 (when users burn XEN or USDy) and pairing it with the 10,000 XNF tokens allocated specifically for the liquidity provisioning event. The initial price of the XNF token will be set at $1.00, and all associated LP tokens acquired will be retained by Xenify as protocol-owned liquidity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
