@@ -548,6 +548,18 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Visual Explainer
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/63e0d489-aaac-4e02-9dcc-92b2a5b1eea0" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/dc010f17-2403-4159-ad79-e372006bbd47" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/dc010f17-2403-4159-ad79-e372006bbd47" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Automatic Staking of XNF Tokens
 
 Both unclaimed and staked XNF tokens contribute to the accumulation of native chain rewards, with each user's share determined by their stake in the total native chain reward pool. Crafted with users at the forefront, the Xenify protocol incorporates an automated staking mechanism to guarantee that all uncollected XNF tokens are seamlessly staked on the user's behalf.
