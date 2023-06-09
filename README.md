@@ -417,7 +417,7 @@ The minting process for XNF has been meticulously designed to reward users who a
 
 Likewise, Xenify's incentive structure has been carefully crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fuelling further involvement.
 
-XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining 50% is reserved for those who contribute through the platform's 0.5% swap fee and the YSL.IO protocol based on the yield generated from the AlphaVaults and MetaVaults.
+XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining 50% is reserved for those who contribute through the platform's 0.5% swap fee and the YSL.IO protocol based on the yield generated from the rehypothecation of AlphaVault and MetaVault assets.
 
 With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
 
