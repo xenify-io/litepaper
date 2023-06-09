@@ -550,9 +550,11 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ## ◽️ Automatic Staking of XNF Tokens
 
-Both unclaimed and staked XNF tokens contribute to the accrual of native chain rewards, with each user's proportion determined by their stake in the total native chain reward pool. Designed with users in mind, the Xenify protocol has been integrated with an automated staking mechanism to ensure all uncollected XNF tokens are automatically staked on behalf of the user. 
+Both unclaimed and staked XNF tokens contribute to the accumulation of native chain rewards, with each user's share determined by their stake in the total native chain reward pool. Crafted with users at the forefront, the Xenify protocol incorporates an automated staking mechanism to guarantee that all uncollected XNF tokens are seamlessly staked on the user's behalf.
 
-This means that holders can enjoy the benefits of accruing native chain rewards without the hassle of collecting and staking XNF tokens on each cycle. Users who prefer a hands-on approach can also stake their tokens manually. By staking already collected or unstaked XNF tokens, users have the opportunity to further boost their rewards.
+This means that holders can reap the benefits of accruing native chain rewards without the inconvenience of collecting and staking XNF tokens during each cycle. For users who prefer a hands-on approach, manual staking of tokens is also an option. By staking already collected or unstaked XNF tokens, users have the opportunity to amplify their rewards.
+
+When the Xenify protocol automatically stakes XNF tokens, the tokens will adhere to the two-cycle unstaking rule, whereby staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two cycles have passed, users have the option to unstake their XNF tokens, regaining total ownership.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
