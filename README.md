@@ -1076,7 +1076,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 **Influential Concepts:**
 
-- [XENFT APEX](https://faircrypto.org/xenft_litepaper.pdf)
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Proof of Participation](https://faircrypto.org/xencryptolp.pdf)
 
@@ -1121,18 +1120,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 ## ◽️USDy
 
  - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️XENFT APEX
-
- - [Evmos](https://escan.live/address/0x4c4CF206465AbFE5cECb3b581fa1b508Ec514692)
- - [Fantom](https://ftmscan.com/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
- - [Polygon](https://polygonscan.com/address/0x726bB6aC9b74441Eb8FB52163e9014302D4249e5)
- - [Ethereum](https://etherscan.io/address/0x0a252663DBCc0b073063D6420a40319e438Cfa59)
- - [Avalanche](https://snowtrace.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
- - [BNB Chain](https://bscscan.com/address/0x1ac17ffb8456525bff46870bba7ed8772ba063a5)
- - [Moonbeam](https://moonbeam.moonscan.io/address/0x94d9E02D115646DFC407ABDE75Fa45256D66E043)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
