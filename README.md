@@ -731,8 +731,6 @@ When Phoenix Ape NFT holders opt to burn XEN or USDy on Xenify, they are rewarde
 
 But don't worry! If you own or rent at least 4 of these coveted  NFTs, your wallet will be granted a daily bonus of 1,000 batches. Remember, the more batches that you burn the more you save on your burn fees. So, what does this mean for you? By holding 4 NFTs, you can obtain the maximum savings of 50% off your burn fees by burning just 9,000 batches, instead of the usual 10,000 required to achieve a 50% discount.
 
-And the best part? Your bonus multiplier (whether from holding one NFT or four NFTs) can be bridged across to any chain that Xenify launches. For example, if you hold 4 Phoenix Ape NFTs in your wallet on the BNB Chain, and have exhausted your daily 1,000 batch bonus on BNB Chain, you can bridge the NFTs utility to Polygon, and enjoy 1,000 bonus batches. With the multiplier resetting every day, it  gives you the opportunity to benefit from this amplified burn effect across all chains Xenify launches on a daily basis!
-
 And here's the best part: Your bonus multiplier, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs in your BNB Chain wallet. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
 
 Let's take a closer look at how the amplified burn works in different situations:
