@@ -752,16 +752,18 @@ $$
 
 ### ◽️Example: Amplified Burn Effect
 
+
 Let's take a closer look at how the amplified burn works in different situations:
 
-  **1. If you hold between one and three Phoenix Ape NFTs:** 
+
+  **1. If you hold between one and three Phoenix Ape NFTs** 
 
   - Each Phoenix Ape NFT comes with a bonus multiplier, which is limited to 100 batches. When you decide to burn a certain number of batches, the protocol first checks if any of the NFTs you hold have a bonus balance. If they do, and you choose to burn an amount that is lower than the current bonus balance for a specific NFT ID, the system will match the burn amount and effectively double the batch count.
 For example, let's say you have a bonus of 100 batches on your NFT and you decide to burn 10 batches. In this case, the burn process will count it as 20 batches, with 10 bonus batches being used. As a result, 10 batches from the 100 bonus allocated to your NFT ID will be deducted, leaving you with 90 bonus batches for that NFT. 
 
   - On the other hand, if you choose to burn an amount greater than your bonus balance, the protocol will use up the entire balance of your NFT. For instance, if your current balance is 100 batches and you decide to burn 5,000 batches, the burn process will count it as 5,100 batches, and the protocol will utilise the entire 100 batches from your NFT's bonus. As a result, 100 batches from the bonus allocated to the NFT ID will be removed, leaving zero bonus batches remaining for that NFT, even when its bridged to another chain.
 
-  **2. If you hold at least 4 Phoenix Ape NFTs:** 
+  **2. If you hold at least 4 Phoenix Ape NFTs** 
 
   - If you hold 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. For instance, if you have 4 NFTs and a daily bonus of 1,000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
 
