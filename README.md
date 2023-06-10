@@ -748,6 +748,7 @@ $$
 - $CS$ - A constant value of 0.00005, used to factor in the discount on the burn fee.
 - $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
+##£ ◽️Example: Amplified Burn Effect
 
 Let's take a closer look at how the amplified burn works in different situations:
 
