@@ -700,22 +700,38 @@ Lastly, the protocol will distribute the Native Chain Rewards collected from swa
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Liquidity Pools
+## ◽️ XNF Liquidity Pools When Deployed
 
 <br>
 
-| Chain Name         | DEX Name                                        | Liquidity Pairing   |
-| ------------------ | ----------------------------------------------- | ------------------- |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)      | XNF-WEVMOS          |
-| Fantom             | [SpookySwap](https://spooky.fi)                 | XNF-FTM             |
-| Polygon            | [Uniswap V3](https://app.uniswap.org)           | XNF-MATIC           |
-| Arbitrum           | [Uniswap V3](https://app.uniswap.org)           | XNF-ETH             |
-| Ethereum           | [Uniswap V3](https://app.uniswap.org)           | XNF-ETH             |
-| Optimism           | [Uniswap V3](https://app.uniswap.org)           | XNF-ETH             |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)          | XNF-AVAX            |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)      | XNF-BNB             |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar) | XNF-WGLMR           |
-| Ethereum PoW       | [Uniwswap](https://app.uniwswap.com)            | XNF-ETHW            |
+| Chain Name         | DEX Name                                              | Liquidity Pairing   |
+| ------------------ | ----------------------------------------------------- | ------------------- |
+| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | XNF-KCS             |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | XNF-CELO            |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | XNF-FUSE            |
+| Boba               | [SushiSwap](https://www.sushi.com)                    | XNF-BOBA            |
+| Heco               | [MDex](https://mdex.com)                              | XNF-HT              |
+| Telos              | [ApeSwap AMM](https://apeswap.finance)                | XNF-TELOS           |
+| Velas              | [Wavelength](https://app.wavelength.exchange)         | XNF-VLX             |
+| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | XNF-METIS           |
+| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | XNF-CANTO           |
+| Klaytn             | [KlaySwap](https://klayswap.com)                      | XNF-KLAY            |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | XNF-WEVMOS          |
+| Aurora             | [Polaris Finance](https://polarisfinance.io)          | XNF-ETH             |
+| Gnosis             | [Balancer V2](https://balancer.finance)               | XNF-GNO             |
+| zkSync             | [SyncSwap](https://syncswap.xyz)                      | XNF-ETH             |
+| Cronos             | [VVS Finance](https://vvs.finance)                    | XNF-CRO             |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | XNF-FTM             |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | XNF-MATIC           |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | XNF-AVAX            |
+| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | XNF-MOVR            |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | XNF-OKT             |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | XNF-WGLMR           |
+| PulseChain         | [PulseX](https://pulsex.com)                          | XNF-PLS             |
+| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | XNF-MATIC           |
 
 <br>
 
