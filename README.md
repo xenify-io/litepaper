@@ -399,6 +399,8 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 - BNB Chain
 - Arbitrum
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ XNF Upcoming Chains
 
 XNF may be launched on various chains based on airdrop participation, contingent on the accumulation of a minimum of $10,000 in native tokens from each respective chain:
@@ -413,21 +415,21 @@ XNF may be launched on various chains based on airdrop participation, contingent
 - Velas
 - Metis
 - Canto
+- Klaytn
 - Evmos
+- Aurora
+- Gnosis
 - zkSync
 - Cronos
 - Fantom
-- Klaytn
-- Aurora
-- Gnosis
 - Polygon
 - Arbitrum
 - Ethereum
 - Optimism
-- Moonbeam
 - Moonriver
 - Avalanche
 - OKX Chain
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
