@@ -396,18 +396,36 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 
 ## ◽️ XNF Deployed Chains
 
-XNF will be deployed onto the following chains:
+- BNB Chain
+- Arbitrum
 
+XNF may be launched on various chains based on airdrop participation, contingent on the accumulation of a minimum of $10,000 in native tokens from each respective chain:
+
+- KCC
+- Kava
+- Celo
+- Fuse
+- Boba
+- Heco
+- Telos
+- Velas
+- Metis
+- Canto
 - Evmos
+- zkSync
+- Cronos
 - Fantom
+- Klaytn
+- Aurora
+- Gnosis
 - Polygon
 - Arbitrum
 - Ethereum
 - Optimism
-- Avalanche
-- BNB Chain
-- OKX Chain
 - Moonbeam
+- Moonriver
+- Avalanche
+- OKX Chain
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
