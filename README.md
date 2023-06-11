@@ -249,7 +249,7 @@ In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price s
 
 <br>
 
-Introducing Xenify, not just an aggregator of aggregators, but a cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify's capabilities are truly unparalleled. Powered by ChainZap, an advanced liquidity aggregation protocol, Xenify connects to 19 different aggregators, delivering exceptional liquidity and unbeatable rates across 34 leading chains. Swapping tokens between Ethereum, BNB Chain, Polygon, and many more has never been more effortless.
+Introducing Xenify, not just an aggregator of aggregators, but a cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify's capabilities are truly unparalleled. Powered by ChainZap, an advanced liquidity aggregation protocol, Xenify connects to 19 different aggregators, delivering exceptional liquidity and unbeatable rates across 36 leading chains. Swapping tokens between Ethereum, BNB Chain, Polygon, and many more has never been more effortless.
 
 Imagine this scenario: a user wishes to swap Token-A on Ethereum for Token-B on BNB Chain. With Xenify, the swap is executed with a single click and a single transaction on Ethereum. No more complicated chain navigation or price hunting – Xenify takes care of everything, providing the best available rates.
 
@@ -303,26 +303,28 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 4     | Layer 1           | Celo          | https://celo.org                      |
 | 5     | Layer 1           | Heco          | https://www.hecochain.com             |
 | 6     | Layer 2           | Boba          | https://boba.network                  |
-| 9     | Layer 1           | Telos         | https://telos.net                     |
-| 10    | Layer 2           | Metis         | https://metis.io                      |
-| 11    | Layer 1           | Canto         | https://canto.io                      |
-| 12    | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 13    | Layer 2           | zkSync        | https://zksync.io                     |
-| 14    | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 15    | Layer 1           | Aurora        | https://aurora.dev                    |
-| 16    | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 17    | Layer 1           | Evmos         | https://evmos.dev                     |
-| 18    | Layer 1           | Fantom        | https://fantom.foundation             |
-| 19    | Layer 2           | Polygon       | https://polygon.technology            |
-| 20    | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 21    | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 22    | Layer 2           | Optimism      | https://optimism.io                   |
-| 23    | Layer 1           | Avalanche     | https://avax.network                  |
-| 24    | Layer 1           | BNB Chain     | https://bnbchain.org                  |
-| 25    | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 26    | Layer 1           | OKEx Chain    | https://okex.com/okexchain            |
-| 27    | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 28    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 7     | Layer 1           | Kava          | https://www.kava.io                   |
+| 8     | Layer 1           | Telos         | https://telos.net                     |
+| 9     | Layer 2           | Metis         | https://metis.io                      |
+| 10    | Layer 1           | Canto         | https://canto.io                      |
+| 11    | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 12    | Layer 2           | zkSync        | https://zksync.io                     |
+| 13    | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 14    | Layer 1           | Aurora        | https://aurora.dev                    |
+| 15    | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 16    | Layer 1           | Evmos         | https://evmos.dev                     |
+| 17    | Layer 1           | Fantom        | https://fantom.foundation             |
+| 18    | Layer 2           | Polygon       | https://polygon.technology            |
+| 19    | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 20    | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 21    | Layer 2           | Optimism      | https://optimism.io                   |
+| 22    | Layer 1           | Avalanche     | https://avax.network                  |
+| 23    | Layer 1           | BNB Chain     | https://bnbchain.org                  |
+| 24    | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 25    | Layer 1           | OKEx Chain    | https://okex.com/okexchain            |
+| 26    | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 27    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 28    | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -333,37 +335,39 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 1   | Layer 1           | KCC           | https://www.kcc.io                    |
 | 2   | Layer 1           | Fuse          | https://fuse.io                       |
 | 3   | Layer 1           | Tron          | https://tron.network                  |
-| 4   | Layer 1           | Celo          | https://celo.org                      |
-| 5   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 6   | Layer 2           | Boba          | https://boba.network                  |
-| 7   | Layer 1           | Beam          | https://www.beam.mw                   |
-| 8   | Layer 1           | Velas         | https://www.velas.com                 |
-| 9   | Layer 1           | Telos         | https://telos.net                     |
-| 10  | Layer 1           | Tezos         | https://tezos.com                     |
-| 11  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 12  | Layer 2           | Metis         | https://metis.io                      |
-| 13  | Layer 1           | Canto         | https://canto.io                      |
-| 14  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 15  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 16  | Layer 2           | zkSync        | https://zksync.io                     |
-| 17  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 18  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 19  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 20  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 21  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 22  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 23  | Layer 2           | Polygon       | https://polygon.technology            |
-| 24  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 25  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 26  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 27  | Layer 2           | Optimism      | https://optimism.io                   |
-| 28  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 29  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 30  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 31  | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 32  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 33  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 34  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 4   | Layer 1           | Kava          | https://www.kava.io                   |
+| 5   | Layer 1           | Celo          | https://celo.org                      |
+| 6   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 7   | Layer 2           | Boba          | https://boba.network                  |
+| 8   | Layer 1           | Beam          | https://www.beam.mw                   |
+| 9   | Layer 1           | Velas         | https://www.velas.com                 |
+| 10  | Layer 1           | Telos         | https://telos.net                     |
+| 11  | Layer 1           | Tezos         | https://tezos.com                     |
+| 12  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 13  | Layer 2           | Metis         | https://metis.io                      |
+| 14  | Layer 1           | Canto         | https://canto.io                      |
+| 15  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 16  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 17  | Layer 2           | zkSync        | https://zksync.io                     |
+| 18  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 19  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 20  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 21  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 22  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 23  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 24  | Layer 2           | Polygon       | https://polygon.technology            |
+| 25  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 26  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 27  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 28  | Layer 2           | Optimism      | https://optimism.io                   |
+| 29  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 30  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 31  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 32  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 33  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 34  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 35  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 36  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
 
 <br>
 
