@@ -298,16 +298,31 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 | Num   | Chain Type        | Chain Name    | Chain Website                         |
 |-------|-------------------|---------------|---------------------------------------|
-|   1   | Layer 1           | Evmos         | https://evmos.dev                     |
-|   2   | Layer 1           | Fantom        | https://fantom.foundation             |
-|   3   | Layer 2           | Polygon       | https://polygon.technology            |
-|   4   | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-|   5   | Layer 1           | Ethereum      | https://ethereum.org                  |
-|   6   | Layer 2           | Optimism      | https://optimism.io                   |
-|   7   | Layer 1           | Avalanche     | https://www.avax.network              |
-|   8   | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-|   9   | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-|   10  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 1     | Layer 1           | KCC           | https://www.kcc.io                    |
+| 2     | Layer 1           | Fuse          | https://fuse.io                       |
+| 4     | Layer 1           | Celo          | https://celo.org                      |
+| 5     | Layer 1           | Heco          | https://www.hecochain.com             |
+| 6     | Layer 2           | Boba          | https://boba.network                  |
+| 9     | Layer 1           | Telos         | https://telos.net                     |
+| 10    | Layer 2           | Metis         | https://metis.io                      |
+| 11    | Layer 1           | Canto         | https://canto.io                      |
+| 12    | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 13    | Layer 2           | zkSync        | https://zksync.io                     |
+| 14    | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 15    | Layer 1           | Aurora        | https://aurora.dev                    |
+| 16    | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 17    | Layer 1           | Evmos         | https://evmos.dev                     |
+| 18    | Layer 1           | Fantom        | https://fantom.foundation             |
+| 19    | Layer 2           | Polygon       | https://polygon.technology            |
+| 20    | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 21    | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 22    | Layer 2           | Optimism      | https://optimism.io                   |
+| 23    | Layer 1           | Avalanche     | https://www.avax.network              |
+| 24    | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 25    | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 26    | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 27    | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 28    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -327,26 +342,28 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 10  | Layer 1           | Tezos         | https://tezos.com                     |
 | 11  | Layer 1           | Zcash         | https://www.z.cash                    |
 | 12  | Layer 2           | Metis         | https://metis.io                      |
-| 13  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 14  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 15  | Layer 2           | zkSync        | https://zksync.io                     |
-| 16  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 17  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 18  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 19  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 20  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 21  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 22  | Layer 2           | Polygon       | https://polygon.technology            |
-| 23  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 24  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 25  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 26  | Layer 2           | Optimism      | https://optimism.io                   |
-| 27  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 28  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 29  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 30  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 31  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 32  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 13  | Layer 1           | Canto         | https://canto.io                      |
+| 14  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 15  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 16  | Layer 2           | zkSync        | https://zksync.io                     |
+| 17  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 18  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 19  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 20  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 21  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 22  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 23  | Layer 2           | Polygon       | https://polygon.technology            |
+| 24  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 25  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 26  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 27  | Layer 2           | Optimism      | https://optimism.io                   |
+| 28  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 29  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 30  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 31  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 32  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 33  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 34  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -406,7 +423,6 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 XNF may be launched on various chains based on airdrop participation, contingent on the accumulation of a minimum of $10,000 in native tokens from each respective chain:
 
 - KCC
-- Kava
 - Celo
 - Fuse
 - Boba
@@ -430,6 +446,7 @@ XNF may be launched on various chains based on airdrop participation, contingent
 - Moonriver
 - OKX Chain
 - Moonbeam
+- PulseChain
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
