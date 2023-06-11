@@ -399,6 +399,8 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 - BNB Chain
 - Arbitrum
 
+## ◽️ XNF Upcoming Chains
+
 XNF may be launched on various chains based on airdrop participation, contingent on the accumulation of a minimum of $10,000 in native tokens from each respective chain:
 
 - KCC
