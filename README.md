@@ -426,8 +426,8 @@ XNF may be launched on various chains based on airdrop participation, contingent
 - Arbitrum
 - Ethereum
 - Optimism
-- Moonriver
 - Avalanche
+- Moonriver
 - OKX Chain
 - Moonbeam
 
