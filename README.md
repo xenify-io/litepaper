@@ -322,9 +322,9 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 23    | Layer 1           | BNB Chain     | https://bnbchain.org                  |
 | 24    | Layer 2           | PulseChain    | https://pulsechain.com                |
 | 25    | Layer 1           | OKEx Chain    | https://okex.com/okexchain            |
-| 26    | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 27    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
-| 28    | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 26    | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 27    | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 28    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -365,9 +365,9 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 31  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
 | 32  | Layer 2           | PulseChain    | https://pulsechain.com                |
 | 33  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 34  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 35  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
-| 36  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 34  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 35  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 36  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
