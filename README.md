@@ -55,13 +55,13 @@ Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s 
 
 At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 32 supported chains, Xenify has you covered. With access to 19 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
-With Xenify's built-in swap and burn fee mechanisms, a reciprocal environment that benefits all participants is established. XNF stakers are handsomely rewarded with a generous 50% of swap fees and an impressive 100% of burn fees as Native Chain Rewards across all supported chains. That's right, stakers earn from every swap and burn! 
+With Xenify's built-in swap and burn fee mechanisms, a reciprocal environment that benefits all participants is established. Wherein XNF stakers are generously rewarded with a substantial 50% of swap fees and an impressive 100% of burn fees as Native Chain Rewards across all supported chains. That's right, stakers earn from every swap and burn!
 
-The remaining 50% of swap fees are strategically allocated to support Xenify's continuous development, marketing, and outreach initiatives. This approach enables us to enhance visibility, drive adoption, and champion sustainable growth, all for the benefit of our users and the protocol itself.
+The remaining 50% of swap fees are strategically allocated to support Xenify's ongoing development, marketing, and outreach initiatives. This approach enables us to enhance visibility, drive adoption, and champion sustainable growth, all for the benefit of our users and the protocol itself.
 
-Furthermore, Xenify's innovative design has facilitated seamless integration with the YSL.IO protocol. This integration directs a remarkable 100% of yields acquired from the rehypothecation of assets held within it’s state-of-the-art AlphaVaults and MetaVaults straight to XNF stakers. This strategy guarantees a consistent stream of Native Chain Rewards for stakers, even if there are no swaps or burns performed on Xenify. As a result, long-term user engagement is encouraged, and rewards are boosted for those who are deeply committed to the protocol.
+What's more, Xenify's innovative design has enabled the seamless integration of the YSL.IO protocol, incorporating its state-of-the-art AlphaVaults and MetaVaults into the daily reward distribution process. Thanks to this integration, an incredible 100% of yields obtained from the rehypothecation of vault assets are directed straight to Xenify, fuelling development and rewarding XNF stakers. In return, YSL.IO acquires an XNF position and channels 100% of the Native Chain Rewards it earns to vault participants. This win-win strategy guarantees a continuous flow of Native Chain Rewards for XNF stakers and ensures Xenify's expansion, even without swaps or burns. As a result, long-term user engagement is fostered for both Xenify and YSL.IO, and rewards are boosted for those who are truly dedicated to each protocol.
 
-At the heart of Xenify's ethos is a steadfast commitment to fairness and transparency, embodied by our exemplary  token distribution model. There will be no team, founder, or investor allocation. In fact, the only way to mint XNF tokens is through active participation in the ecosystem - by either burning or swapping tokens. This approach certifies a genuinely equitable distribution of XNF tokens, rewarding users for their contributions and fostering a truly community-driven protocol.
+At the heart of Xenify's ethos is a steadfast commitment to fairness and transparency, embodied by our exemplary token distribution model. There will be no team, founder, or investor allocation. In fact, the only way to mint XNF tokens is through active participation in the ecosystem - by either burning or swapping tokens. This approach certifies a genuinely equitable distribution of XNF tokens, rewarding users for their contributions and fostering a truly community-driven protocol.
 
 As we bring together the cutting-edge liquidity aggregation of ChainZap and our own distinctive tokenomics, Xenify is poised to redefine the landscape of cross-chain swapping, all while nurturing a thriving ecosystem that places utmost importance on user satisfaction and sustainable growth. Join us as we take a leap into the future, and experience the world of Xenify - a realm where innovation meets reward, where community powers expansion, and where the foundation for DeFi's bright tomorrow is being laid. Welcome to the revolution!
 
@@ -153,7 +153,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Staking
 
-- Xenify integrates a dynamic staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users become eligible to receive a resounding 100% of burn fees and 50% of generated swap fees on supported chains as Native Chain Rewards. But that’s not all! Owing to Xenify's seamless integration with the YSL.IO protocol, an additional layer of rewards is offered to XNF stakers. Within this framework, a full 100% of the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets are distributed amongst XNF stakers. This equitable incentive model ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
+- Xenify integrates a dynamic staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users become eligible to receive a resounding 100% of burn fees and 50% of generated swap fees on supported chains as Native Chain Rewards. But that’s not all! Owing to Xenify's seamless integration with the YSL.IO protocol, an additional layer of rewards is offered to XNF stakers. Within this framework, a full 100% of the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets are redirected to Xenify, with 50% shared amongst XNF stakers. This equitable incentive model ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -320,7 +320,7 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 3   | Layer 1           | Tron          | https://tron.network                  |
 | 4   | Layer 1           | Celo          | https://celo.org                      |
 | 5   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 6   | Layer 2           | Boda          | https://boba.network                  |
+| 6   | Layer 2           | Boba          | https://boba.network                  |
 | 7   | Layer 1           | Beam          | https://www.beam.mw                   |
 | 8   | Layer 1           | Velas         | https://www.velas.com                 |
 | 9   | Layer 1           | Telos         | https://telos.net                     |
@@ -417,14 +417,13 @@ The minting process for XNF has been meticulously designed to reward users who a
 
 Likewise, Xenify's incentive structure has been carefully crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fuelling further involvement.
 
-XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining 50% is reserved for those who contribute through the platform's 0.5% swap fee and the YSL.IO protocol based on the yield generated from the rehypothecation of AlphaVault and MetaVault assets.
+XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn XEN or USDy tokens, while the remaining 50% is apportioned between contributions through the platform's 0.5% swap fee and contributions obtained from the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets.
 
 With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
 
-Additionally, XNF stakers will benefit from Xenify's strategic integration of the YSL.IO protocol, as the yield generated from assets deposited in YSL.IO AlphaVaults and MetaVaults will be routed as native token rewards to stakers.
+Additionally, XNF stakers will benefit from Xenify's strategic integration of the YSL.IO protocol, with 100% of the yield generated from assets deposited in YSL.IO AlphaVaults and MetaVaults being routed to Xenify to fuel development (50%) and reward XNF stakers (50%).
 
 This innovative three-pronged incentive model not only helps generate swap volume with users seeking to earn XNF but also rewards user participation through burning and staking. Ultimately, this approach fosters platform growth and cultivates a thriving, engaged user base.
-
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -689,7 +688,7 @@ The remaining 0.25% will be collected until deployment, and then distributed as 
 
 The accrued native token rewards generated from swap fees incentivise users to burn XEN or USDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
 
-At the end of Day 2, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the the protocol on each new block over a period of 365 days.
+At the end of Day 2, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the protocol on each new block over a period of 365 days.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -761,7 +760,7 @@ Let's take a closer look at how the amplified burn works in different situations
   - Each Phoenix Ape NFT comes with a bonus multiplier, which is limited to 100 batches. When you decide to burn a certain number of batches, the protocol first checks if any of the NFTs you hold have a bonus balance. If they do, and you choose to burn an amount that is lower than the current bonus balance for a specific NFT ID, the protocol will match the burn amount and effectively double the batch count.
 For example, let's say you have a bonus of 100 batches on your NFT and you decide to burn 10 batches. In this case, the burn process will count it as 20 batches, with 10 bonus batches being used. As a result, 10 batches from the 100 bonus allocated to your NFT ID will be deducted, leaving you with 90 bonus batches for that NFT. 
 
-  - On the other hand, if you choose to burn an amount greater than your bonus balance, the protocol will use up the entire balance of your NFT. For instance, if your current balance is 100 batches and you decide to burn 5,000 batches, the burn process will count it as 5,100 batches, and the protocol will utilise the entire 100 batches from your NFT's bonus. As a result, 100 batches from the bonus allocated to the NFT ID will be removed, leaving zero bonus batches remaining for that NFT, even when its bridged to another chain.
+  - On the other hand, if you choose to burn an amount greater than your bonus balance, the protocol will use up the entire balance of your NFT. For instance, if your current balance is 100 batches and you decide to burn 5,000 batches, the burn process will count it as 5,100 batches, and the protocol will utilise the entire 100 batches from your NFT's bonus. As a result, 100 batches from the bonus allocated to the NFT ID will be removed, leaving zero bonus batches remaining for that NFT, even when it's bridged to another chain.
 
   **2. If you hold at least 4 Phoenix Ape NFTs** 
 
