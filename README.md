@@ -814,7 +814,7 @@ $$
 
 Let's take a closer look at how the amplified burn works in different situations:
 
-#### 1) If you hold between one and three Phoenix Ape NFTs
+### If you hold between 1 and 3 Phoenix Ape NFTs
 
   - Each Phoenix Ape NFT is equipped with a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
 
@@ -824,7 +824,7 @@ Let's take a closer look at how the amplified burn works in different situations
 
   - Additionally, you have the option to bridge your NFT's utility to another chain where Xenify has launched. By doing so, you can access an extra 100 daily bonus batches on that day, effectively granting you 200 daily bonus batches for your NFT. For example, if you've exhausted your daily bonus on the BNB Chain, simply bridge your NFT's utility to Polygon and receive 1,000 daily bonus batches on Polygon. This process can be repeated for each chain where Xenify has been deployed.
 
-#### 2) If you hold at least 4 Phoenix Ape NFTs
+### If you hold 4 or more Phoenix Ape NFTs
 
   - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
