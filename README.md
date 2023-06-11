@@ -808,13 +808,11 @@ $$
 - $CS$ - A constant value of 0.00005, used to factor in the discount on the burn fee.
 - $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-
-### ◽️Example: Amplified Burn Effect
-
+## ◽️ Example: Amplified Burn Effect
 
 Let's take a closer look at how the amplified burn works in different situations:
-
 
   **1. If you hold between one and three Phoenix Ape NFTs** 
 
@@ -835,7 +833,6 @@ Let's take a closer look at how the amplified burn works in different situations
   - On the other hand, if you decide to burn a batch amount greater than your current daily bonus, the protocol will utilise your entire bonus balance. Let's say you have 4 NFTs and a daily bonus of 1,000 batches. If you choose to burn the equivalent of 6,000 batches, it will be counted as 7,000 batches during the burn process. The protocol will use your entire daily batch bonus of 1,000 for this. As a result, you won't have any bonus batches remaining to use for that particular day on that chain. But don't worry, once the next day begins, your bonus batch count will reset back to 1,000.
 
   - Additionally, you can choose to bridge the utility of your 4 NFTs to another chain that Xenify has launched. By doing this, you can use an additional 1,000 daily bonus batches on that day, effectively giving you 2,000 daily bonus batches. For example, if you've used up your daily bonus on the BNB Chain, you can simply bridge your NFTs' utility to Polygon and receive 1,000 daily bonus batches on Polygon. You can repeat this process for each chain where Xenify has been deployed.
-
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
