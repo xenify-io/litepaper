@@ -710,7 +710,7 @@ Lastly, the protocol will distribute the Native Chain Rewards collected from swa
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | XNF-CELO            |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | XNF-FUSE            |
 | Boba               | [SushiSwap](https://www.sushi.com)                    | XNF-BOBA            |
-| Heco               | [MDex](https://mdex.com)                              | XNF-HT              |
+| Heco               | [MDEX](https://mdex.com)                              | XNF-HT              |
 | Telos              | [ApeSwap AMM](https://apeswap.finance)                | XNF-TELOS           |
 | Velas              | [Wavelength](https://app.wavelength.exchange)         | XNF-VLX             |
 | Metis              | [Hummus Exchange](https://www.hummus.exchange)        | XNF-METIS           |
