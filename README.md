@@ -583,7 +583,7 @@ $$
 
 <br>
 
-Here’s how it works: The protocol calculates the burn contribution by first dividing the total tokens distributed during a cycle (TCD) by 2, as half of the XNF daily reward cycle is allocated to participants that burn XEN or USDy. It then calculates the proportion of batches burned by the specific user (UBB) to the total batches burned by all users (TBB). This results in a value per batch burned. Finally, the protocol multiplies these two values to determine the user's individual burn contribution within that cycle (BC).
+Here’s how it works: The protocol calculates the burn contribution by first dividing the total tokens distributed during a cycle (TCD) by 2, as half of the XNF daily reward cycle is allocated to participants that burn vXEN or vUSDy. It then calculates the proportion of batches burned by the specific user (UBB) to the total batches burned by all users (TBB). This results in a value per batch burned. Finally, the protocol multiplies these two values to determine the user's individual burn contribution within that cycle (BC).
 
 The calculation of the swap contribution follows a similar logic, whereby the protocol calculates the swap contribution (SC) of a specific user in a cycle, based on the total XNF tokens distributed (TCD), the total swap fees paid by all users (TSF), and the swap fees paid by the specific user (USF). Here's the formula explained in detail:
 
@@ -688,9 +688,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 In a strategic effort to ensure sufficient liquidity for all supported chains, Xenify has crafted a unique liquidity provisioning event to coincide with each launch. This forward-thinking initiative has been designed to facilitate the seamless distribution of XNF tokens in alignment with the platform's liquidity needs, effectively catering to the demands of users across every chain.
 
-For this exclusive, one-day event, half of the 20,000 XNF tokens typically reserved for the daily reward cycle distribution will be utilised to bolster the platform's liquidity. The remaining 10,000 XNF tokens will be allocated to individuals who burn XEN or USDy during the one-day event. This offers an unprecedented opportunity to secure a substantial share of the native chain rewards that have accumulated during Day 1 and from swaps executed on Xenify prior to the launch.
+For this exclusive, one-day event, half of the 20,000 XNF tokens typically reserved for the daily reward cycle distribution will be utilised to bolster the platform's liquidity. The remaining 10,000 XNF tokens will be allocated to individuals who burn vXEN or vUSDy during the one-day event. This offers an unprecedented opportunity to secure a substantial share of the native chain rewards that have accumulated during Day 1 and from swaps executed on Xenify prior to the launch.
 
-By burning XEN or USDy on Day 1, users will not only receive an allotment of XNF tokens at the end of the day, but will also be in line to secure a portion of the native chain rewards (e.g., ETH, BNB, MATIC) distributed at the conclusion of Day 2. With a limited number of XNF holders or stakers on Day 2, only those who engage in the burning of XEN or USDy on Day 1 can reap the benefits of the accrued native chain rewards, collected from swap fees both prior to and during Day 1.
+By burning vXEN or vUSDy on Day 1, users will not only receive an allotment of XNF tokens at the end of the day, but will also be in line to secure a portion of the native chain rewards (e.g., ETH, BNB, MATIC) distributed at the conclusion of Day 2. With a limited number of XNF holders or stakers on Day 2, only those who engage in the burning of vXEN or vUSDy on Day 1 can reap the benefits of the accrued native chain rewards, collected from swap fees both prior to and during Day 1.
 
 Subsequent to the event, the standard XNF reward distribution cycle will recommence and continue thereafter. This entails XNF stakers receiving a share of the burn and swap fees (based on the fees collected during the previous cycle), while users performing a burn or swap will earn XNF (in accordance with their contributions during each cycle). Through the successful execution of these events on each chain, Xenify aims to secure protocol-owned liquidity across the entire ecosystem, laying the groundwork for sustainable, long-term growth.
 
@@ -698,23 +698,23 @@ Subsequent to the event, the standard XNF reward distribution cycle will recomme
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
 
-During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn XEN or USDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that have been accumulating.
+During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn vXEN or vUSDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that have been accumulating.
 
-When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned XEN or USDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
+When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned vXEN or vUSDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
 
-The second pivotal event involves the protocol generating protocol-owned liquidity. This entails the protocol collecting the sum of all native tokens received from burn fees incurred during Day 1 (when users burn XEN or USDy) and pairing it with the 10,000 XNF tokens allocated specifically for the liquidity provisioning event. The initial price of the XNF token will be set at $1.00, and all associated LP tokens acquired will be retained by Xenify as protocol-owned liquidity.
+The second pivotal event involves the protocol generating protocol-owned liquidity. This entails the protocol collecting the sum of all native tokens received from burn fees incurred during Day 1 (when users burn vXEN or vUSDy) and pairing it with the 10,000 XNF tokens allocated specifically for the liquidity provisioning event. The initial price of the XNF token will be set at $1.00, and all associated LP tokens acquired will be retained by Xenify as protocol-owned liquidity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn XEN and USDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and contributions from YSL.IO AlphaVaults and MetaVaults.
+Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn vXEN and vUSDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and contributions from YSL.IO AlphaVaults and MetaVaults.
 
 As Day 2 comes to an end, three crucial events will unfold. Firstly, the protocol will initiate the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
 
 Subsequently, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps on Day 2 and the contributions received from YSL.IO AlphaVaults and MetaVaults.
 
-Lastly, the protocol will distribute the Native Chain Rewards collected from swaps made during Day 1, as well as swaps executed on Xenify prior to the launch, and from yield generated from YSL.IO AlphaVaults and MetaVaults. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of XEN and USDy on Day 1.
+Lastly, the protocol will distribute the Native Chain Rewards collected from swaps made during Day 1, as well as swaps executed on Xenify prior to the launch, and from yield generated from YSL.IO AlphaVaults and MetaVaults. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of vXEN and vUSDy on Day 1.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -761,9 +761,9 @@ Lastly, the protocol will distribute the Native Chain Rewards collected from swa
 
 To inspire participation and initiate liquidity creation, an exclusive airdrop event of 500,000 XNF tokens will be conducted on each chain where the XNF contract is to be deployed. This airdrop is solely available to those who partake in swaps and pay the accompanying 0.5% swap fee on Xenify on or before Day 1 (prior to the deployment of the XNF contract). Out of this fee, 0.25% is allocated to the team to cover ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
 
-The remaining 0.25% will be collected until deployment, and then distributed as part of the first native token reward distribution to users who burn either XEN or USDy tokens during the Liquidity Provisioning Event on Day 1. This distinctive approach not only encourages early user engagement through swap participation for the airdrop but also helps Xenify establish a strong liquidity pool across all supported chains from day one.
+The remaining 0.25% will be collected until deployment, and then distributed as part of the first native token reward distribution to users who burn either vXEN or vUSDy tokens during the Liquidity Provisioning Event on Day 1. This distinctive approach not only encourages early user engagement through swap participation for the airdrop but also helps Xenify establish a strong liquidity pool across all supported chains from day one.
 
-The accrued native token rewards generated from swap fees incentivise users to burn XEN or USDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
+The accrued native token rewards generated from swap fees incentivise users to burn vXEN or vUSDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
 
 At the end of Day 2, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the protocol on each new block over a period of 365 days.
 
@@ -787,7 +787,7 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 
 <br>
 
-Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that brings together the Xenify and YSL.IO communities. By owning one of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning XEN or USDy. Remember, the more batches a user burns, the greater the burn fee discount.
+Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that brings together the Xenify and YSL.IO communities. By owning one of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning vXEN or vUSDy. Remember, the more batches a user burns, the greater the burn fee discount.
 
 Furthermore, holders of the Phoenix NFT will be offered a range of benefits, such as the opportunity to earn USDC rewards every 8 hours and the ability to bypass the Sigma Exit Rate on the YSL.IO protocol. With these added perks, Phoenix Apes heighten user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems. 
 
@@ -801,9 +801,9 @@ The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a sca
 
 ## ◽️ Amplified Burn Effect
 
-Phoenix Ape NFT holders unlock an exclusive amplified burn effect when they choose to burn XEN or USDy on Xenify. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging both communities, this exceptional benefit fosters unity and fuels growth for both protocols.
+Phoenix Ape NFT holders unlock an exclusive amplified burn effect when they choose to burn vXEN or vUSDy on Xenify. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging both communities, this exceptional benefit fosters unity and fuels growth for both protocols.
 
-Here's how it works: When Phoenix Ape NFT holders decide to burn XEN or USDy on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their Phoenix Ape NFT, that specific NFT will no longer offer an amplified burn for that day.
+Here's how it works: When Phoenix Ape NFT holders decide to burn vXEN or vUSDy on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their Phoenix Ape NFT, that specific NFT will no longer offer an amplified burn for that day.
 
 Looking for extra firepower? We've got fantastic news! By owning or renting at least 4 of these highly sought-after NFTs, you'll benefit from even greater amplification, with your wallet receiving a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your four NFT IDs. In short, if you hold 4 NFTs, your total daily bonus will be capped at 1,000 batches, not 1,400 batches.
 
@@ -896,7 +896,7 @@ Xenify places utmost importance on providing an exceptional user experience, wit
 
 Setting itself apart from traditional decentralised exchanges, Xenify eliminates the need for users to provide liquidity. Instead, it operates as a cross-chain aggregator, leveraging APIs to obtain the most favourable exchange rates and minimal fees from multiple decentralised exchanges. This approach simplifies the user experience and facilitates seamless single-click transactions across different blockchain networks.
 
-Users can actively engage with Xenify through a range of functions, including token swaps, burning XEN or USDy, staking or unstaking XNF, and claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
+Users can actively engage with Xenify through a range of functions, including token swaps, burning vXEN or vUSDy, staking or unstaking XNF, and claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
 
 This incentive model ensures that Xenify users are consistently recognised for their participation and encourages continued usage of the platform. Additionally, users can conveniently monitor their staked XNF and accrued rewards, allowing them to easily claim or unstake their XNF tokens with just a few clicks. By adopting this user-centric approach, Xenify remains accessible to both novice and experienced users alike.
 
@@ -954,7 +954,7 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ## ◽️ Users Mint Their Equity
 
-- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning XEN or USDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
+- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or vUSDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -999,7 +999,7 @@ We understand that you may have questions about Xenify, its features, and its po
 <br>
 
 ## ◽️ Does XNF have an initial supply?
-- No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol distributes XNF tokens through a daily reward to users that participate in the ecosystem through direct burns of XEN and USDy or swapping of tokens via the Xenify aggregator. This approach ensures a fair distribution model and encourages active user engagement in the protocol.
+- No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol distributes XNF tokens through a daily reward to users that participate in the ecosystem through direct burns of vXEN and vUSDy or swapping of tokens via the Xenify aggregator. This approach ensures a fair distribution model and encourages active user engagement in the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1033,7 +1033,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ## ◽️ Are there different ways to participate with Xenify?
 - Yes, there are several ways to participate with Xenify, including:
 
-  - Engaging in direct burns of XEN or USDy to acquire XNF.
+  - Engaging in direct burns of vXEN or vUSDy to acquire XNF.
   - Purchasing a Phoenix Ape NFT to unlock amplified burns.
   - Contributing to the protocol's growth through community initiatives.
   - Staking XNF tokens to earn native chain rewards such as ETH, BNB and MATIC.
@@ -1043,7 +1043,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ## ◽️ What would be the scenario if, throughout the course of a daily cycle, there are no instances of users performing either token swapping or burning activities?
 
-In the event that no swaps have taken place on Xenify and no users have burned either XEN or USDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
+In the event that no swaps have taken place on Xenify and no users have burned either vXEN or vUSDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
 
 For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
 
@@ -1067,7 +1067,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ XNF 
 
-  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning XEN or USDy tokens and swapping tokens on supported chains.
+  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning vXEN or vUSDy tokens and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1097,7 +1097,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ Direct Burns 
 
-  - When a token is burned it's usually sent to an inactive address and removed from circulation, effectively reducing the total supply by the amount burned. On Xenify, Direct Burns happen when users purposefully burn tokens (XEN or USDy) to promote the growth of the protocol.  As a reward for their commitment to the protocol, users receive XNF tokens in exchange for their burned XEN or USDy tokens.
+  - When a token is burned it's usually sent to an inactive address and removed from circulation, effectively reducing the total supply by the amount burned. On Xenify, Direct Burns happen when users purposefully burn tokens (vXEN or vUSDy) to promote the growth of the protocol.  As a reward for their commitment to the protocol, users receive XNF tokens in exchange for their burned vXEN or vUSDy tokens.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
