@@ -159,7 +159,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Token Burning
 
-- If users want to acquire XNF tokens, they can do so by burning XEN and USDy tokens. But this is not just a smart move to reduce the circulating supply of XEN and USDy - it is also a powerful way to connect our communities. The burning mechanism has been integrated to not only strengthen the XEN and YSL.IO ecosystems but to also strategically unify both communities under a shared vision. 
+- If users want to acquire XNF tokens, they can do so by burning vXEN and vUSDy tokens. Think of vXEN and vUSDy as virtual counterparts of XEN and USDy, respectively. These tokens have been designed exclusively for the purpose of converting into XNF. 
+
+- To get your hands on vXEN, you'll need XEN tokens or a version of the XEN token supported by Xenify. For example, if you have bXEN (the XEN token residing on the BNB Chain), you can easily convert it into vXEN. And once you have vXEN, you can burn it to acquire XNF tokens. It's as straightforward as that. Keep in mind that the conversion rate will be fixed but may vary based on the version of the XEN token you're exchanging.
+
+- Similarly, if you're interested in obtaining vUSDy, you'll need to possess YSL.IO native tokens like bYSL, xYSL, or USDy. Just like with vXEN, the conversion rate for vUSDy is fixed, but it depends on the specific YSL.IO native token you're swapping.
+
+- Now, you may be wondering why we've integrated the burning of XEN and USDy tokens. Well, it's not just a smart move to reduce the circulating supply of both these tokens; it's also a powerful way to connect our communities. We want to strengthen both the XEN and YSL.IO ecosystems while strategically unifying our communities under a shared vision.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
