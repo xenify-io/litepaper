@@ -826,7 +826,7 @@ Let's take a closer look at how the amplified burn works in different situations
 
 ### ♦️ If you hold 4 or more Phoenix Ape NFTs
 
-  - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
+  - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
   - For instance, if you have 4 NFTs and a daily bonus of 1,000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
 
