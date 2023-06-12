@@ -163,7 +163,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 - To get your hands on vXEN, you'll need XEN tokens or a version of the XEN token supported by Xenify. For example, if you have bXEN (the XEN token residing on the BNB Chain), you can easily convert it into vXEN. And once you have vXEN, you can burn it to acquire XNF tokens. It's as straightforward as that. Keep in mind that the conversion rate will be fixed but may vary based on the version of the XEN token you're exchanging.
 
-- Similarly, if you're interested in obtaining vUSDy, you'll need to possess YSL.IO native tokens like bYSL, xYSL, or USDy. Just like with vXEN, the conversion rate for vUSDy is fixed, but it depends on the specific YSL.IO native token you're swapping.
+- Similarly, if you're interested in obtaining vUSDy, you'll need to possess YSL.IO native tokens like bYSL, xYSL, or USDy. Just like with vXEN, the conversion rate for vUSDy is fixed, but it depends on the specific YSL.IO native token you're exchanging.
 
 - Now, you may be wondering why we've integrated the burning of XEN and USDy tokens. Well, it's not just a smart move to reduce the circulating supply of both these tokens; it's also a powerful way to connect our communities. We want to strengthen both the XEN and YSL.IO ecosystems while strategically unifying our communities under a shared vision.
 
