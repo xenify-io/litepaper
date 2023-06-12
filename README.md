@@ -477,7 +477,13 @@ This innovative three-pronged incentive model not only helps generate swap volum
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ### ♦️ Burn to earn XNF 
-  - The Xenify platform empowers its users by providing the ability to burn vXEN and vUSDy tokens, resulting in the minting of XNF. This positions Xenify as a key player in the strategic layer 1 burning of XEN tokens. The approach adopted by Xenify goes beyond simply reducing the circulating supply of XEN and USDy tokens. It aims to unify the XEN and YSL.IO ecosystems, while also strategically integrating both communities under a shared vision.
+  - The Xenify platform empowers its users by providing the ability to burn vXEN and vUSDy tokens, resulting in the minting of XNF. vXEN and vUSDy are virtual counterparts of XEN and USDy tokens, respectively. Their sole purpose is to facilitate the conversion into XNF tokens. 
+
+  - It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain. Once you possess vXEN, you can burn it to participate in Xenify's daily distribution of XNF tokens. During this process, both the XEN token variant and vXEN token are permanently removed from circulation. Please bear in mind that the conversion rate for vXEN remains fixed, although it may vary depending on the specific version of the XEN token you choose to exchange.
+
+  - Similarly, users interested in obtaining vUSDy will need YSL.IO native tokens like bYSL, xYSL, or USDy. Once you have acquired vUSDy, you can take part in Xenify's daily distribution of XNF tokens by burning it. Just like with vXEN burn process, the protocol ensures that both the bYSL and vUSDy tokens are removed from circulation. It is worth noting that the conversion rate for vUSDy remains fixed, but it depends on the specific YSL.IO native token you opt to exchange.
+
+  - Xenify distinguishes itself by integrating this unique burn mechanism, positioning the protocol as a key player in the strategic layer 1 burning of XEN tokens. This strategic approach extends beyond simply reducing the circulating supply of XEN and USDy tokens. Xenify aspires to unify the XEN and YSL.IO ecosystems, fostering a shared vision that brings both communities together.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
