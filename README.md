@@ -294,7 +294,7 @@ Once you possess vUSDy, you can burn it to participate in Xenify's daily distrib
 
 <br>
 
-| YSL.IO Native Token | Conversion Rate      |
+| Native Token        | Conversion Rate      |
 |---------------------|----------------------|
 | USDy                | 1 USDy = 1 vUSDy     |
 | bYSL                | 1 bYSL = 5 vUSDy     |
