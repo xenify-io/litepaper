@@ -610,11 +610,11 @@ By implementing this calculation, we ensure that users receive discounts in prop
 A single batch is set at a fixed amount of 2,500,000 XEN, equivalent to 2,500,000 vXEN or 2.50 in USDy (equivalent to 2.50 vUSDy). For those holding a XEN token variant from a network other than Ethereum or a YSL.IO native token other than USDy, please refer to the tables below to find the number of tokens required for one batch.
 
 
-| YSL.IO Native Token | Tokens Required for One Batch (2.50 vUSDy) |
-|---------------------|--------------------------------------------|
-| USDy                | 2.50 USDy                                  |
-| bYSL                | 0.50 bYSL                                  |
-| xYSL                | 0.0208 xYSL                                |
+| YSL.IO Native Token | vUSDy Conversion Rate | Tokens Required for One Batch (2.50 vUSDy) |
+|---------------------|-----------------------|--------------------------------------------|
+| USDy                | 1 USDy = 1 vUSDy      | 2.50 USDy                                  |
+| bYSL                | 1 bYSL = 5 vUSDy      | 0.50 bYSL                                  |
+| xYSL                | 1 xYSL = 120 vUSDy    | 0.0208 xYSL                                |
 
 
 | Network   | Native XEN Token | vXEN Conversion Rate | Tokens Required for One Batch (2,500,000 vXEN) |
