@@ -803,6 +803,7 @@ Lastly, the protocol will distribute the Native Chain Rewards collected from swa
 | Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | XNF-MOVR            |
 | OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | XNF-OKT             |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | XNF-WGLMR           |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | XNF-BNB             |
 | PulseChain         | [PulseX](https://pulsex.com)                          | XNF-PLS             |
 | Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | XNF-MATIC           |
 
