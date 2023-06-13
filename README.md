@@ -227,7 +227,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
-## ♦️ vXEN: Unifying the XEN Ecosystem
+## ♦️ Unifying the XEN Ecosystem (vXEN)
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
@@ -274,7 +274,7 @@ Here's how it works: all of the USDC sent will be used to purchase and burn USDy
 
 In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
 
-## ♦️ vUSDy: Unifying the YSL.IO Ecosystem
+## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
 
 Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens. 
 
