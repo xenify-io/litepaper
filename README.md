@@ -472,7 +472,7 @@ vXEN can be thought of as the virtual counterpart of XEN tokens, designed solely
 
 Once you possess vXEN, you can burn it to participate in Xenify's daily distribution of XNF tokens. With each XEN variant having a fixed conversion rate, it eliminates the guesswork from determining how much XEN you're required to burn as a batch. In other words, users can always be confident in the amount of vXEN they'll obtain when burning their native XEN tokens. Please bear in mind that although the conversion rate for vXEN remains fixed, it will vary depending on the specific version of the XEN token you choose to exchange, as outlined in the table below:
 
-| Network     | Native XEN Token | Conversion Rate  |
+|Network     | Native XEN Token | vXEN Conversion Rate  |
 |-------------|------------------|-----------------|
 | Ethereum    | XEN              | 1 XEN = 1 vXEN  |
 | Avalanche   | aXEN             | 67 aXEN = 1 vXEN   |
