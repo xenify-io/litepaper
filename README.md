@@ -1069,9 +1069,9 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ## ◽️ What would be the scenario if, throughout the course of a daily cycle, there are no instances of users performing either token swapping or burning activities?
 
-In the event that no swaps have taken place on Xenify and no users have burned either vXEN or vUSDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
+- In the event that no swaps have taken place on Xenify and no users have burned either vXEN or vUSDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
 
-For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
+- For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
 
 <br>
 
