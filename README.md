@@ -863,7 +863,7 @@ The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a sca
 
 By merely holding a Phoenix Ape NFT, you automatically secure 100 complimentary batches for Xenify’s Day 1 Burns. And guess what? This applies to all the chains Xenify launches. And here’s the best part: You don’t even need to burn any vXEN or vUSDy on Day 1! That’s right, by simply holding a Phoenix Ape NFT you will be rewarded with XNF tokens through the contribution of your 100 bonus batches. But that’s not all! You’ll also be eligible for an allocation of the Native Chain Rewards distributed on Day 2 across every chain! It’s an opportunity you don’t want to miss!
 
-Now, you might be wondering, why are we providing such incredible benefits to Phoenix Ape NFT holders? The answer is simple: A significant amount of the $2,500 USDC generated from each NFT purchase has been dedicated to funding the initial audit of Xenify and its development.
+Now, you might be wondering, why are we providing such incredible benefits to Phoenix Ape NFT holders? The answer is simple: A significant amount of the 2,500 USDC generated from each NFT purchase has been dedicated to funding the initial audit of Xenify and its development.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
