@@ -243,7 +243,7 @@ Once you possess vXEN, you can burn it to participate in Xenify's daily distribu
 
 <br>
 
-| Network     | Native XEN Token | vXEN Conversion Rate  |
+| Network     | Native Token     | Conversion Rate       |
 |-------------|------------------|-----------------------|
 | Ethereum    | XEN              | 1 XEN = 1 vXEN        |
 | Avalanche   | aXEN             | 67 aXEN = 1 vXEN      |
