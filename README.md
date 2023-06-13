@@ -464,9 +464,9 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
-Now, users are no longer required to hold the native XEN token based on the Ethereum network to participate in the burn process. Instead, Xenify allows users to effortlessly burn their native XEN tokens from various EVM-compatible networks for vXEN directly from their wallets.
+Now, users are no longer required to hold the native XEN token based on the Ethereum network to participate in the burn process. Instead, Xenify empowers users from the wider XEN ecosystem to effortlessly burn their native XEN tokens from various EVM-compatible networks for vXEN directly from their wallets.
 
-This solution stems from Xenify's dedication to the interoperability of the XEN ecosystem and the shared vision of making Xenify accessible to XEN holders across multiple chains. This enables Xenify to be seamlessly interoperable with any chain supported by the XEN ecosystem and positions Xenify's burn process as a strategic layer 2 burner of XEN.
+This solution stems from Xenify's dedication to the interoperability of the XEN ecosystem and the shared vision of making Xenify accessible to XEN holders (or Xenians) across multiple chains. This enables Xenify to be seamlessly interoperable with any chain supported by the XEN ecosystem and positions Xenify's burn process as a strategic layer 2 burner of XEN.
 
 vXEN can be thought of as the virtual counterpart of XEN tokens, designed solely to facilitate the conversion of native XEN token variants into XNF tokens. It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
 
