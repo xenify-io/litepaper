@@ -843,9 +843,13 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 
 <br>
 
-Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that brings together the Xenify and YSL.IO communities. By owning one of these remarkable NFTs, users of Xenify will unlock an amplified burn effect that effectively doubles the user's batch count when burning vXEN or vUSDy. Remember, the more batches a user burns, the greater the burn fee discount.
+Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that unites the Xenify and YSL.IO communities. By owning one of these extraordinary NFTs, users of Xenify will unlock a daily amplified burn effect, exponentially boosting their batch count by up to 100 when burning vXEN or vUSDy. Moreover, owning or renting a minimum of 4 of these highly coveted NFTs will grant you an even greater amplification, with your wallet receiving a daily bonus of up to 1,000 batches.
 
-Furthermore, holders of the Phoenix NFT will be offered a range of benefits, such as the opportunity to earn USDC rewards every 8 hours and the ability to bypass the Sigma Exit Rate on the YSL.IO protocol. With these added perks, Phoenix Apes heighten user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems. 
+Furthermore, holders of the Phoenix NFT will enjoy a range of extra perks.First and foremost, all holders will have a guaranteed allocation of XNF on every chain Xenify launches through the Day 1 bonus contribution. Additionally, they will have the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
+
+Every wallet that holds a Phoenix Ape NFT is subject to a Weekly Outbound Quota (WOQ) that permits a single outbound transaction involving a Phoenix Ape NFT every 7 days. Outbound transactions include transferring a Phoenix Ape NFT to another wallet or selling the NFT. Please note that while the WOQ restriction is in effect, wallet holders are still permitted to bridge the utility of their Phoenix Ape NFT(s) to another chain. In short, bridging the utility of an NFT to a different chain neither triggers the WOQ nor impacts the user's ability to bridge their Phoenix Ape NFT(s) utility.
+
+And here's the best part: Your daily batch bonus, whether you possess one NFT or four NFTs, can seamlessly be bridged to any chain that Xenify launches. With your burn bonus resetting each day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
