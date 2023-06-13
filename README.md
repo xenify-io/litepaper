@@ -247,14 +247,14 @@ Once you possess vXEN, you can burn it to participate in Xenify's daily distribu
 
 | Network     | Native Token     | Conversion Rate       |
 |-------------|------------------|-----------------------|
-| Ethereum    | XEN              | 1 XEN = 1 vXEN        |
-| Avalanche   | aXEN             | 67 aXEN = 1 vXEN      |
-| BNB Chain   | bXEN             | 108 bXEN = 1 vXEN     |
-| Polygon     | mXEN             | 144 mXEN = 1 vXEN     |
-| MoonBeam    | mbXEN            | 372 mbXEN = 1 vXEN    |
-| Fantom      | fmXEN            | 529 fmXEN = 1 vXEN    |
-| OKX         | okXEN            | 1380 okXEN = 1 vXEN   |
-| Evmos       | coXEN            | 3349 coXEN = 1 vXEN   |
+| Ethereum    | XEN              | 1 vXEN = 1 XEN        |
+| Avalanche   | aXEN             | 1 vXEN = 67 aXEN      |
+| BNB Chain   | bXEN             | 1 vXEN = 108 bXEN     |
+| Polygon     | mXEN             | 1 vXEN = 144 mXEN     |
+| MoonBeam    | mbXEN            | 1 vXEN = 372 mbXEN    |
+| Fantom      | fmXEN            | 1 vXEN = 529 fmXEN    |
+| OKX         | okXEN            | 1 vXEN = 1380 okXEN   |
+| Evmos       | coXEN            | 1 vXEN = 3349 coXEN   |
 
 <br>
 
