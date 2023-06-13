@@ -460,7 +460,32 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Minting Process and Incentives
+## ◽️ vXEN: Unifying the XEN Ecosystem
+
+Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+
+Now, users are no longer required to hold the native XEN token based on the Ethereum network to participate in the burn process. Instead, Xenify allows users to effortlessly burn their native XEN tokens from various EVM-compatible networks for vXEN directly from their wallets.
+
+This solution stems from Xenify's dedication to the interoperability of the XEN ecosystem and the shared vision of making Xenify accessible to XEN holders across multiple chains. This enables Xenify to be seamlessly interoperable with any chain supported by the XEN ecosystem and positions Xenify's burn process as a strategic layer 2 burner of XEN.
+
+vXEN can be thought of as the virtual counterpart of XEN tokens, designed solely to facilitate the conversion of native XEN token variants into XNF tokens. It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
+
+Once you possess vXEN, you can burn it to participate in Xenify's daily distribution of XNF tokens. With each XEN variant having a fixed conversion rate, it eliminates the guesswork from determining how much XEN you're required to burn as a batch. In other words, users can always be confident in the amount of vXEN they'll obtain when burning their native XEN tokens. Please bear in mind that although the conversion rate for vXEN remains fixed, it will vary depending on the specific version of the XEN token you choose to exchange, as outlined in the table below:
+
+| Network     | Native XEN Token | Conversion Rate  |
+|-------------|------------------|-----------------|
+| Ethereum    | XEN              | 1 XEN = 1 vXEN  |
+| Avalanche   | aXEN             | 67 aXEN = 1 vXEN   |
+| Binance     | bXEN             | 108 bXEN = 1 vXEN  |
+| Polygon     | mXEN             | 144 mXEN = 1 vXEN  |
+| MoonBeam    | mbXEN            | 372 mbXEN = 1 vXEN |
+| Fantom      | fmXEN            | 529 fmXEN = 1 vXEN  |
+| OKX         | okXEN            | 1380 okXEN = 1 vXEN |
+| Evmos       | coXEN            | 3349 coXEN = 1 vXEN |
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF Minting Process and Incentives
 
 The minting process for XNF has been meticulously designed to reward users who actively contribute to Xenify's growth through various activities. This approach promotes an equitable distribution of XNF tokens, cultivating a truly decentralised and community-driven protocol.
 
@@ -523,7 +548,7 @@ By choosing to pay the nominal 0.5% swap fee, users not only facilitate their tr
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costs of Burning vXEN and vUSDy
+## ◽️ Costs of Burning on Xenify
 
 The Xenify protocol enables users to engage in the burning of vXEN or vUSDy tokens to secure XNF from the daily XNF reward cycle. Think of vXEN and vUSDy as virtual counterparts of XEN and USDy, respectively. These tokens have been specifically created for seamless conversion into XNF.
 
