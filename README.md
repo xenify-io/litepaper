@@ -1067,11 +1067,11 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ What would be the scenario if, throughout the course of a daily cycle, there are no instances of users performing either token swapping or burning activities?
+## ◽️ What would happen if there are no token swapping or burning activities, and no yield contributions from YSL.IO AlphaVault and MetaVault assets during a daily cycle?
 
-- In the event that no swaps have taken place on Xenify and no users have burned either vXEN or vUSDy, the protocol will not carry out the daily XNF cycle distribution. During that cycle, the XNF tokens scheduled for distribution will simply not be minted. Consequently, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle. 
+- In the unlikely event that no swaps occur on Xenify, no users burn either vXEN or vUSDy, and the protocol does not receive any yields from the rehypothecation of YSL.IO AlphaVault and MetaVault assets, the daily XNF cycle distribution will not be carried out. In this scenario, the XNF tokens scheduled for distribution during that cycle will simply not be minted. As a result, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle.
 
-- For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
+- For example, if the daily allocation for a cycle was 20,000 XNF, with half allocated for burning activities and the other half reserved for those who perform swaps on Xenify, and no swaps or burns take place during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF when the cycle concludes.
 
 <br>
 
