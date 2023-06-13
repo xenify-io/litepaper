@@ -529,7 +529,7 @@ This innovative three-pronged incentive model not only helps generate swap volum
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Burn to earn XNF 
+## ♦️ Burn to earn XNF 
   - The Xenify platform empowers its users by providing the ability to burn vXEN and vUSDy tokens, resulting in the minting of XNF. vXEN and vUSDy are virtual counterparts of XEN and USDy tokens, respectively. Their sole purpose is to facilitate the conversion into XNF tokens. 
 
   - It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain. Once you possess vXEN, you can burn it to participate in Xenify's daily distribution of XNF tokens. During this burn process, both the XEN token variant and vXEN token are permanently removed from circulation. Please bear in mind that the conversion rate for vXEN remains fixed, although it may vary depending on the specific version of the XEN token you choose to exchange.
@@ -540,7 +540,7 @@ This innovative three-pronged incentive model not only helps generate swap volum
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Swap to earn XNF 
+## ♦️ Swap to earn XNF 
   - Xenify is a pioneering cross-chain aggregator of aggregators that transforms the way users experience token exchanges.  With its seamless single-click transactions and the opportunity to earn XNF tokens, Xenify sets itself apart from the competition.
 
   - By swapping with Xenify and choosing to pay the swap fee, users actively contribute to the platform's growth. The 0.5% swap fee is divided, with half being distributed as rewards to XNF stakers, celebrating those who fully engage with the protocol. The remaining portion of the fee is utilised by the team to promote and enhance the Xenify platform and its associated tokens (XEN, USDy, and XNF), ensuring increased awareness and adoption.
@@ -552,7 +552,7 @@ This innovative three-pronged incentive model not only helps generate swap volum
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-### ♦️ Stake XNF to earn native tokens 
+## ♦️ Stake XNF to earn native tokens 
   - Distinguishing itself from generic aggregators, Xenify takes pride in its innovative staking model that incorporates a burn fee and swap fee distribution mechanism, as well as a secondary layer involving the YSL.IO protocol. This unique approach empowers platform users to execute seamless swaps and embark on a rewarding journey by staking the XNF tokens acquired from daily distributions.
 
   - XNF token stakers play an essential role in Xenify's long-term growth, and in return reap the benefits of a proportionate share of burn and swap fees generated across all supported chains. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. This, in turn, leads to increased Native Chain Rewards for XNF stakers! This equitable model establishes a positive feedback loop, guaranteeing that all participants can benefit from the ecosystem's growth in proportion to their engagement.
@@ -887,7 +887,9 @@ $$
 
 Let's take a closer look at how the amplified burn works in different situations:
 
-### ♦️ If you hold between 1 and 3 Phoenix Ape NFTs
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ If you hold between 1 and 3 Phoenix Ape NFTs
 
   - Each Phoenix Ape NFT is equipped with a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
 
@@ -897,7 +899,9 @@ Let's take a closer look at how the amplified burn works in different situations
 
   - Additionally, you have the option to bridge your NFT's utility to another chain where Xenify has launched. By doing so, you can access an extra 100 daily bonus batches on that day, effectively granting you 200 daily bonus batches for your NFT. For example, if you've exhausted your daily bonus on the BNB Chain, simply bridge your NFT's utility to Polygon and receive 1,000 daily bonus batches on Polygon. This process can be repeated for each chain where Xenify has been deployed.
 
-### ♦️ If you hold 4 or more Phoenix Ape NFTs
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ If you hold 4 or more Phoenix Ape NFTs
 
   - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
