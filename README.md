@@ -227,6 +227,8 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ♦️ Unifying the XEN Chains (vXEN)
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
@@ -273,6 +275,8 @@ What's more, the protocol generates Treasury-Owned Liquidity for USDy at every p
 Here's how it works: all of the USDC sent will be used to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. The result is a reduction in USDy supply and an increase in its price, benefiting USDy holders.
 
 In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
 
