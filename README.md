@@ -727,9 +727,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/ddc33706-a9a5-4606-ab80-c9519757ac9a" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/fc5a0710-58e6-4825-91cc-5559355359f7" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/fc5a0710-58e6-4825-91cc-5559355359f7" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/707bd907-b742-479e-b975-77cbc0d78827" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/3dbd70e8-e3ea-41a2-972f-74ebfe45d1d2" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/3dbd70e8-e3ea-41a2-972f-74ebfe45d1d2" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -784,7 +784,7 @@ Lastly, the protocol will distribute the Native Chain Rewards collected from swa
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | XNF-FUSE            |
 | Boba               | [SushiSwap](https://www.sushi.com)                    | XNF-BOBA            |
 | Heco               | [MDEX](https://mdex.com)                              | XNF-HT              |
-| Telos              | [ApeSwap AMM](https://apeswap.finance)                | XNF-TELOS           |
+| Telos              | [ApeSwap](https://apeswap.finance)                    | XNF-TELOS           |
 | Velas              | [Wavelength](https://app.wavelength.exchange)         | XNF-VLX             |
 | Metis              | [Hummus Exchange](https://www.hummus.exchange)        | XNF-METIS           |
 | Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | XNF-CANTO           |
