@@ -227,7 +227,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
-## ♦️ Unifying the XEN Ecosystem (vXEN)
+## ♦️ Unifying the XEN Chains (vXEN)
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
