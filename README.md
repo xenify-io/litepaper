@@ -464,9 +464,11 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
-Now, users are no longer required to hold the native XEN token based on the Ethereum network to participate in the burn process. Instead, Xenify empowers users from the wider XEN ecosystem to effortlessly burn their native XEN tokens from various EVM-compatible networks for vXEN directly from their wallets.
+Thanks to vXEN, users are not required to hold native XEN tokens based on the Ethereum network to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users from the wider XEN ecosystem to acquire XNF by effortlessly burning their native XEN tokens from various EVM-compatible networks directly from their wallets.
 
-This solution stems from Xenify's dedication to the interoperability of the XEN ecosystem and the shared vision of making Xenify accessible to XEN holders (or Xenians) across multiple chains. This enables Xenify to be seamlessly interoperable with any chain supported by the XEN ecosystem and positions Xenify's burn process as a strategic layer 2 burner of XEN.
+This remarkable solution stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN holders across multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, establishing itself as a strategic layer 2 burner of XEN.
+
+Think of vXEN as the virtual counterpart of XEN tokens, designed exclusively to facilitate the conversion of native XEN token variants into XNF tokens. It's worth noting that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
 
 vXEN can be thought of as the virtual counterpart of XEN tokens, designed solely to facilitate the conversion of native XEN token variants into XNF tokens. It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
 
@@ -483,6 +485,29 @@ Once you possess vXEN, you can burn it to participate in Xenify's daily distribu
 | Fantom      | fmXEN            | 529 fmXEN = 1 vXEN  |
 | OKX         | okXEN            | 1380 okXEN = 1 vXEN |
 | Evmos       | coXEN            | 3349 coXEN = 1 vXEN |
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ vUSDy: Unifying the YSL.IO Ecosystem
+
+Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens. 
+
+This innovative approach to token burning has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+
+Similar to vXEN, users are not obligated to possess the native XEN token on the Ethereum network in order to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users within the YSL.IO ecosystem to effortlessly burn their YSL.IO native tokens directly from their wallets and acquire XNF.
+
+This solution truly reflects Xenify's dedication to interoperability, by expanding the protocol's scope and unlocking endless possibilities through the strategic unification of the XEN and YSL.IO ecosystems, fostering a shared vision that brings both communities together.
+
+vUSDy can be regarded as the virtual counterpart of YSL.IO's reward token, known as USDy. The sole purpose of vUSDy is to facilitate the conversion of YSL.IO native token variants into XNF tokens. It's important to note that acquiring vUSDy requires USDy tokens or a YSL.IO token variant supported by Xenify, such as bYSL or xYSL.
+
+Once you possess vUSDy, you can burn it to participate in Xenify's daily distribution of XNF tokens. With each YSL.IO token variant having a fixed conversion rate, it eliminates the guesswork from determining how much XEN you're required to burn as a batch. In other words, users can always have confidence in the amount of vUSDy they will obtain when burning their YSL.IO native tokens. Please bear in mind that although the conversion rate for vUSDy remains fixed, it will vary depending on the specific YSL.IO native token you choose to exchange, as outlined in the table below:
+
+
+| YSL.IO Native Token | vUSDy Conversion Rate      |
+|---------------------|----------------------|
+| USDy                | 1 USDy = 1 vUSDy     |
+| bYSL                | 1 bYSL = 5 vUSDy     |
+| xYSL                | 1 xYSL = 120 vUSDy   |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
