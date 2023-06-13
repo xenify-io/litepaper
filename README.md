@@ -610,23 +610,23 @@ By implementing this calculation, we ensure that users receive discounts in prop
 A single batch is set at a fixed amount of 2,500,000 XEN, equivalent to 2,500,000 vXEN or 2.50 in USDy (equivalent to 2.50 vUSDy). For those holding a XEN token variant from a network other than Ethereum or a YSL.IO native token other than USDy, please refer to the tables below to find the number of tokens required for one batch.
 
 
-| Network  | YSL.IO Native Token | vUSDy Conversion Rate | Tokens Required for One Batch (2.50 vUSDy) |
-|----------|---------------------|-----------------------|--------------------------------------------|
-| BNB Chain| USDy                | 1 USDy = 1 vUSDy      | 2.50 USDy                                  |
-| BNB Chain| bYSL                | 1 bYSL = 5 vUSDy      | 0.50 bYSL                                  |
-| BNB Chain| xYSL                | 1 xYSL = 120 vUSDy    | 0.0208 xYSL                                |
+| YSL.IO Native Token | Network   | vUSDy Conversion Rate | Tokens Required for One Batch (2.50 vUSDy) |
+|---------------------|-----------|-----------------------|--------------------------------------------|
+| USDy                | BNB Chain | 1 USDy = 1 vUSDy      | 2.50 USDy                                  |
+| bYSL                | BNB Chain | 1 bYSL = 5 vUSDy      | 0.50 bYSL                                  |
+| xYSL                | BNB Chain | 1 xYSL = 120 vUSDy    | 0.0208 xYSL                                |
 
 
-| Network   | Native XEN Token | vXEN Conversion Rate | Tokens Required for One Batch (2,500,000 vXEN) |
-|-----------|------------------|----------------------|-----------------------------------------------|
-| Ethereum  | XEN              | 1 XEN = 1 vXEN       | 2,500,000 XEN                                 |
-| Avalanche | aXEN             | 1 vXEN = 67 aXEN     | 167,500,000 aXEN                              |
-| BNB Chain | bXEN             | 1 vXEN = 108 bXEN    | 270,000,000 bXEN                              |
-| Polygon   | mXEN             | 1 vXEN = 144 mXEN    | 360,000,000 mXEN                              |
-| MoonBeam  | mbXEN            | 1 vXEN = 372 mbXEN   | 930,000,000 mbXEN                             |
-| Fantom    | fmXEN            | 1 vXEN = 529 fmXEN   | 1,322,500,000 fmXEN                           |
-| OKX       | okXEN            | 1 vXEN = 1380 okXEN  | 3,450,000,000 okXEN                           |
-| Evmos     | coXEN            | 1 vXEN = 3349 coXEN  | 8,372,500,000 coXEN                           |
+| Native XEN Token | Network   | vXEN Conversion Rate | Tokens Required for One Batch (2,500,000 vXEN) |
+|------------------|-----------|----------------------|-----------------------------------------------|
+| XEN              | Ethereum  | 1 XEN = 1 vXEN       | 2,500,000 XEN                                 |
+| aXEN             | Avalanche | 1 vXEN = 67 aXEN     | 167,500,000 aXEN                              |
+| bXEN             | Binance   | 1 vXEN = 108 bXEN    | 270,000,000 bXEN                              |
+| mXEN             | Polygon   | 1 vXEN = 144 mXEN    | 360,000,000 mXEN                              |
+| mbXEN            | MoonBeam  | 1 vXEN = 372 mbXEN   | 930,000,000 mbXEN                             |
+| fmXEN            | Fantom    | 1 vXEN = 529 fmXEN   | 1,322,500,000 fmXEN                           |
+| okXEN            | OKX       | 1 vXEN = 1380 okXEN  | 3,450,000,000 okXEN                           |
+| coXEN            | Evmos     | 1 vXEN = 3349 coXEN  | 8,372,500,000 coXEN                           |
 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
