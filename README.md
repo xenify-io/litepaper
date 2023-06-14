@@ -667,9 +667,9 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/38bb0c46-a0fd-4628-b7e2-d03b78f20e97" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5aa24bc5-4317-446c-aa61-bb74ca51751a" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/5aa24bc5-4317-446c-aa61-bb74ca51751a" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e6051a4-ba17-47f2-b731-1fc0231c3dd4" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/02e0f55d-a222-4c63-a2a6-013b45b92c33" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/02e0f55d-a222-4c63-a2a6-013b45b92c33" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -715,9 +715,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/dd1e9513-353d-4576-9e3d-e43cbddc26c2" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/8b2b2fb4-b818-437a-b238-57b5fc641b74" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/8b2b2fb4-b818-437a-b238-57b5fc641b74" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/7d907fba-555d-4e9c-a921-34169de5caeb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
