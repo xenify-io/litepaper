@@ -667,9 +667,9 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/63e0d489-aaac-4e02-9dcc-92b2a5b1eea0" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/dc010f17-2403-4159-ad79-e372006bbd47" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/dc010f17-2403-4159-ad79-e372006bbd47" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/38bb0c46-a0fd-4628-b7e2-d03b78f20e97" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/5aa24bc5-4317-446c-aa61-bb74ca51751a" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/5aa24bc5-4317-446c-aa61-bb74ca51751a" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -829,9 +829,9 @@ At the end of Day 2, the protocol will initiate the first distribution of the Xe
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0e1ef267-6860-4050-bc81-dc7c2d7118a3" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e9cb1337-fdc4-469a-a84a-c9e798d9eaa6" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/e9cb1337-fdc4-469a-a84a-c9e798d9eaa6" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/61b81880-2207-4167-a720-4f5f963b2487" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/7d4ce6f4-9955-42eb-b4e9-49b327cbf8f9" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/7d4ce6f4-9955-42eb-b4e9-49b327cbf8f9" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
