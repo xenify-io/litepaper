@@ -727,9 +727,9 @@ As the cycle comes to an end, these rewards are carefully allocated among XNF st
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0fe1e1c8-5bad-4d2d-b8ad-42a2199f1828" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f947acf8-2f0c-4b75-9d84-36378827646f" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f947acf8-2f0c-4b75-9d84-36378827646f" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f322a768-0ce7-438a-833d-8cffc7d4b893" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e2f0c1bc-c02e-4deb-8c7d-9aa0780dde6a" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/e2f0c1bc-c02e-4deb-8c7d-9aa0780dde6a" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
