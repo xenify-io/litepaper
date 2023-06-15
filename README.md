@@ -677,23 +677,25 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ## ◽️ Automatic Staking of XNF Tokens
 
-Both unclaimed and staked XNF tokens contribute to the accumulation of native chain rewards, with each user's share determined by their stake in the total native chain reward pool. Crafted with users at the forefront, the Xenify protocol incorporates an automated staking mechanism to guarantee that all uncollected XNF tokens are seamlessly staked on the user's behalf.
+Unclaimed and staked XNF tokens both contribute to a user's accumulation of native chain rewards, with each user's share determined by their stake in the total reward pool. The Xenify protocol has been designed with users in mind, incorporating an automatic staking system to ensure their allocation of XNF tokens is seamlessly staked on their behalf upon distribution.
 
-This means that holders can reap the benefits of accruing native chain rewards without the inconvenience of collecting and staking XNF tokens during each cycle. For users who prefer a hands-on approach, manual staking of tokens is also an option. By staking already collected or unstaked XNF tokens, users have the opportunity to amplify their rewards.
+This means that token holders can enjoy the benefits of earning native chain rewards the moment they receive their XNF tokens, eliminating the hassle of collecting and staking XNF tokens during each cycle. For users who prefer a more hands-on approach, manual staking of tokens is also available. With this auto-staking mechanism, users can compound their XNF stake and increase their share of the rewards.
 
-When the Xenify protocol automatically stakes XNF tokens, the tokens will adhere to the two-cycle unstaking rule, whereby staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two cycles have passed, users have the option to unstake their XNF tokens, regaining total ownership.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Collecting XNF Token
-
-Upon the conclusion of each cycle, users have the opportunity to collect their allocation of the daily XNF distribution. However, collecting XNF is not mandatory as all uncollected XNF tokens are automatically staked by the protocol. This will allow users to reap the benefits of native chain rewards. On the other hand, users may decide to collect their XNF for trading purposes. Whatever the preference, Xenify offers flexibility and control for every user.
+When the Xenify protocol automatically stakes XNF tokens, it adheres to the one-cycle unstaking rule. This means that staked XNF tokens are held for one full daily cycle, even during any 'gap cycles'. Once the required staking cycle is complete, users can choose to unstake their XNF tokens and regain full ownership.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-To promote a secure and efficient ecosystem, staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. After the initial cycle, staked tokens begin to accumulate native chain rewards, generated from both swap fees and burn fees. These fees are collected into a reward pool, which is then distributed by the protocol among XNF stakers. Once the two cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
+To guarantee a secure and effective ecosystem, staked XNF tokens are held for one complete daily cycle, even during any 'gap cycles'. Staked tokens begin to accumulate native chain rewards within the same cycle they are staked. These native chain rewards are collected into a reward pool during each cycle, and subsequently distributed by the protocol among XNF stakers at the end of the daily cycle.
+
+Once the compulsory staking cycle has concluded, users can opt to unstake their XNF tokens and regain full ownership. At this stage, all earned native chain rewards are instantly sent to the user, ensuring a seamless and rewarding experience.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Collecting XNF Token
+
+Collecting XNF is not necessary, as all XNF tokens are automatically staked for the user by the protocol with each daily distribution. This auto-staking mechanism enables users to enjoy an allocation of the native chain rewards accumulated during that cycle. Alternatively, users can choose to collect or unstake their XNF for trading purposes once the mandatory staking cycle for the tokens has ended. Regardless of the preference, Xenify provides flexibility and control for every user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -707,7 +709,9 @@ Xenify allows users to effortlessly claim and withdraw their accumulated native 
 
 During each cycle, the accumulation of native reward tokens unfolds, wherein the reward pool gradually accumulates tokens collected from burn and swap fees. This will continue to grow with every transaction during the cycle, be it a swap or a burn. 
 
-As the cycle comes to an end, these rewards are carefully allocated among XNF stakers based on the total number of XNF tokens an individual has staked within the protocol. This will encompass both uncollected and staked tokens, ensuring fairness and inclusivity. With this unique reward structure, Xenify is able to strengthen the demand and value for XNF and provide a compelling incentive for holders to actively participate in the protocol. This in turn, encourages long-term engagement while cultivating a growing user base and fortifying the protocol's growth.
+As the cycle concludes, the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets is added to the reward pool. Subsequently, the total sum of the reward pool is carefully distributed among XNF stakers based on the total number of XNF tokens an individual has staked within the protocol.
+
+This will encompass both uncollected and staked tokens, ensuring fairness and inclusivity. With this unique reward structure, Xenify is able to strengthen the demand and value for XNF and provide a compelling incentive for holders to actively participate in the protocol. This in turn, encourages long-term engagement while cultivating a growing user base and fortifying the protocol's growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
