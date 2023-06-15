@@ -867,9 +867,11 @@ The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a sca
 
 ## ◽️ Day 1 Bonus Contribution
 
-By merely holding a Phoenix Ape NFT, you automatically secure 100 complimentary batches for Xenify’s Day 1 Burns. And guess what? This applies to all the chains Xenify launches. And here’s the best part: You don’t even need to burn any vXEN or vUSDy on Day 1! That’s right, by simply holding a Phoenix Ape NFT you will be rewarded with XNF tokens through the contribution of your 100 bonus batches. But that’s not all! You’ll also be eligible for an allocation of the Native Chain Rewards distributed on Day 2 across every chain! It’s an opportunity you don’t want to miss!
+By merely holding a Phoenix Ape NFT, you automatically secure 100 complimentary batches for Xenify’s Day 1 Burns. And guess what? This applies to all the chains Xenify launches. So, if Xenify happens to launch on 8 chains, you’ll receive 800 bonus batches!
 
-Now, you might be wondering, why are we providing such incredible benefits to Phoenix Ape NFT holders? The answer is simple: A significant amount of the 2,500 USDC generated from each NFT purchase has been dedicated to funding the initial audit of Xenify and its development.
+And here’s the best part: You don’t even need to burn any vXEN or vUSDy on Day 1! That’s right, by simply holding a Phoenix Ape NFT you will be rewarded with XNF tokens through the contribution of your 100 bonus batches. But that’s not all! You’ll also be eligible for an allocation of the Native Chain Rewards distributed on Day 1 across every chain! It’s an opportunity you don’t want to miss!
+
+Now, you might be wondering, why are we providing such incredible benefits to Phoenix Ape NFT holders? The answer is simple: A significant amount of the $2,500 USDC generated from each NFT purchase has been dedicated to funding the initial audit of Xenify and its development.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1094,7 +1096,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I make a stake now when can I unstake?
-  - Staked XNF tokens are held for two full daily cycles, even during any 'gap cycles'. Once the two full cycles have elapsed, users have the option to unstake their XNF tokens, regaining complete ownership. At this point, all earned native chain rewards are promptly delivered to the user.
+  - Staked XNF tokens are held for one full daily cycle, even during any 'gap cycles'. After one complete daily cycle has passed, users have the option to unstake their XNF tokens, regaining full ownership. Upon unstaking, all earned native chain rewards are promptly delivered to the user.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1104,7 +1106,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I make a stake now when will I recieve rewards?
-  - Please be aware that when you stake XNF tokens, you will not accumulate rewards within the same cycle in which you make the stake. This approach helps prevent front-running scenarios. Your staked tokens will only begin to accumulate native chain rewards after one reward distribution cycle has elapsed. These rewards are generated from both swap fees and burn fees and are gathered into a reward pool during the cycle. At the conclusion of the cycle, the protocol distributes the rewards among XNF stakers, guaranteeing a fair and transparent allocation.
+  - When you stake XNF tokens, you will receive rewards at the end of the same cycle in which you make the stake. These rewards comprise native chain tokens generated from both swap fees and burn fees collected during the cycle, as well as the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets. Throughout the cycle, these rewards accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among XNF stakers at the end of the cycle, ensuring a fair and transparent allocation.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
