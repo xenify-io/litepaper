@@ -757,23 +757,27 @@ Subsequent to the event, the standard XNF reward distribution cycle will recomme
 
 ## ◽️ Day 1: Burn and Liquidity Allocation
 
-During the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn vXEN or vUSDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that have been accumulating.
+On the first day of launch, a strategic allocation of 20,000 XNF tokens will take place. Of these tokens, 10,000 XNF tokens are set aside for the establishment of protocol-owned liquidity. The remaining 10,000 XNF tokens are reserved for individuals that burn vXEN or vUSDy, offering users an unique opportunity to actively participate in the token distribution process while securing an allocation of the native chain rewards that have been accumulating. 
 
-When Day 1 draws to a close, two significant events take place. First, the 10,000 XNF tokens designated for burns will be distributed among those who burned vXEN or vUSDy. It is important to note that at this stage, there will be a limited number of XNF stakers. Consequently, individuals who opt to burn on Day 1 will be well-positioned to secure an allocation of the accrued native chain rewards distributed on Day 2. 
+As Day 1 comes to an end, three significant events take place. Firstly, the protocol generates protocol-owned liquidity. This involves the protocol collecting the sum of all native tokens received from burn fees incurred during Day 1 (when users burn vXEN or vUSDy) and pairing it with the 10,000 XNF tokens allocated specifically for the liquidity provisioning event. The initial price of the XNF token will be set at $1.00, and all associated LP tokens acquired will be retained by Xenify as protocol-owned liquidity.
 
-The second pivotal event involves the protocol generating protocol-owned liquidity. This entails the protocol collecting the sum of all native tokens received from burn fees incurred during Day 1 (when users burn vXEN or vUSDy) and pairing it with the 10,000 XNF tokens allocated specifically for the liquidity provisioning event. The initial price of the XNF token will be set at $1.00, and all associated LP tokens acquired will be retained by Xenify as protocol-owned liquidity.
+The second important event is the distribution of the 10,000 XNF tokens designated for those who burned vXEN or vUSDy on Day 1. These XNF tokens will be automatically staked by the protocol on the user's behalf.
+
+Lastly, the protocol will distribute Native Chain Rewards among the XNF stakers. It is crucial to note that at this stage, there will be a limited number of XNF stakers based on the contributions received from the burn process during Day 1. In other words, only individuals who choose to contribute on Day 1 will secure an allocation of the Day 1 distribution of native chain rewards.
+
+This initial reward distribution will not only include native chain tokens collected from swap fees during Day 1 and the yield generated from the rehypothecation of YSL.IO AlphaVaults and MetaVaults assets, but also includes native chain tokens that have been gradually accruing from swaps executed on the chain prior to Xenify's deployment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Day 2: Return to Normal Distribution
 
-Commencing on Day 2, the protocol will activate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn vXEN and vUSDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and contributions from YSL.IO AlphaVaults and MetaVaults.
+Starting on Day 2, the protocol will initiate its default XNF reward distribution schedule. This involves reserving 10,000 XNF for users who burn vXEN and vUSDy tokens, while an additional 10,000 XNF will be apportioned between swap contributions and YSL.IO AlphaVault and MetaVault contributions.
 
-As Day 2 comes to an end, three crucial events will unfold. Firstly, the protocol will initiate the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
+As Day 2 concludes, three crucial events will unfold. Firstly, the protocol will initiate the distribution of the Xenify Airdrop. The 500,000 XNF allocated for the airdrop will be shared among users based on their swap contributions on and before Day 1. The airdrop will be distributed to participants over a period of 365 days, with each eligible participant receiving XNF on each new block.
 
-Subsequently, the protocol will disburse 20,000 XNF tokens as part of the regular cycle reward distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps on Day 2 and the contributions received from YSL.IO AlphaVaults and MetaVaults.
+Subsequently, the protocol will distribute 20,000 XNF tokens as part of its default XNF cycle distribution. In this distribution, 10,000 XNF will be allocated to those who performed burns on Day 2, and 10,000 XNF will be apportioned between those who executed eligible swaps during Day 2 as well as the YSL.IO protocol based on the contribution received from the rehypothecation of its AlphaVault and MetaVault assets. These 20,000 XNF tokens will be automatically staked by the protocol on the user's behalf.
 
-Lastly, the protocol will distribute the Native Chain Rewards collected from swaps made during Day 1, as well as swaps executed on Xenify prior to the launch, and from yield generated from YSL.IO AlphaVaults and MetaVaults. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user participated in the burning of vXEN and vUSDy on Day 1.
+Lastly, the protocol will distribute Native Chain Rewards among XNF stakers. These rewards will include the fees collected from swaps and burns made during Day 2, as well as the yield generated from the rehypothecation of YSL.IO AlphaVaults and MetaVaults assets on Day 2. These rewards will be exclusively distributed to those who have staked XNF, which is only attainable if a user contributed to the burn process during Day 1 and Day 2.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
