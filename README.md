@@ -584,7 +584,7 @@ To acquire vXEN, you simply need to have XEN tokens or any XEN token variant sup
 
 Likewise, if you're looking to burn vUSDy, you'll need to possess YSL.IO native tokens such as bYSL, xYSL, or USDy. For example, by holding bYSL, you can easily convert it into vUSDy. Once you possess vUSDy, you can burn it to participate in Xenify's daily distribution of XNF tokens. Both the bYSL and vUSDy you provide will be permanently removed from circulation. Similar to vXEN, the conversion rate for vUSDy remains fixed, but it is contingent upon the particular YSL.IO native token you're exchanging.
 
-By participating in the burning of vXEN and vUSDy, users will encounter specific costs such as transaction gas fees and a mandatory burn fees. However, the burn fee calculation has been meticulously designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts on their burn fees of up to 50%.
+By participating in the burning of vXEN and vUSDy, users will encounter specific costs such as transaction gas fees and mandatory burn fees. However, the burn fee calculation has been meticulously designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts on their burn fees of up to 50%.
 
 The burn fee is determined using this formula:
 
@@ -699,7 +699,7 @@ Collecting XNF is not necessary, as all XNF tokens are automatically staked for 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Claiming Native Token Rewards
+## ◽️ Claiming Native Chain Rewards
 
 Xenify enables users to seamlessly claim and withdraw their accumulated native chain rewards whenever they wish. However, please note that a 10% Claim Fee will be applied when users claim their native chain rewards.
 
@@ -711,13 +711,13 @@ To avoid the 10% Claim Fee, users can simply click the "Recycle" button. This al
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Recycling Native Token Rewards
+## ◽️ Recycling Native Chain Rewards
 
 Choosing to Recycle native chain rewards means users can avoid the 10% Claim Fee, with their accumulated native chain rewards being used to participate in the daily burn of vUSDy to acquire XNF. Please note that the Recycle mechanism only acquires vUSDy for the burn process, not vXEN.
 
 To take advantage of this Recycle mechanism, users must have a sufficient balance of native chain rewards to acquire a minimum of one batch (5 vUSDy) and cover the associated burn fee within the vUSDy burn process. In other words, the Recycle mechanism will be unavailable if a user lacks the necessary native chain tokens to acquire the minimum amount of one batch (5 vUSDy) and cover its related burn fee.
 
-With a sufficient balance, the protocol uses the user's balance to acquire vUSDy, burn it, and subsequently disburse any remaining balance of native tokens that couldn't cover the minimum of one batch. For example, if a user has $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilise $99.00 of the BNB to cover 18 batches of vUSDy ($90.00) and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be disbursed to the user's wallet.
+With a sufficient balance, the protocol uses the user's balance to acquire vUSDy, burn it, and subsequently disburse any remaining balance of native tokens that couldn't cover the minimum of one batch. For example, if a user has $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilise $99.00 of the BNB to cover 18 batches of vUSDy ($90.00), and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be disbursed to the user's wallet.
 
 During the Recycling process, the protocol determines the most optimal route to acquire vUSDy for burning. If the price of USDy is trading below $1.00, the protocol will use the BNB to purchase USDy from the USDy-USDC liquidity pool. This is because the vUSDy conversion rate is fixed, with 1 USDy always being converted for 1 vUSDy. 
 
