@@ -721,9 +721,10 @@ Opting to recycle your native chain rewards allows you to bypass the 10% claim f
   1. You choose to recycle your native chain rewards.
   2. Your rewards are converted into USDC and deposited into the USDy HydraVault on YSL.IO to acquire USDy.
   3. The associated HydraVault receipt tokens (USDy-LP) are burnt, increasing the Perpetual Ratio for the vault.
-  4. The protocol then mints vUSDy equivalent to the amount of USDy minted for your recycled contribution, with 100% of the vUSDy being burned to acquire XNF.
-  5. You receive XNF tokens at the end of the daily cycle based on the vUSDy burned from your recycled contribution.
-  6. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards and your allocation of the tokens accumulated from the claim fee.
+  4. The protocol then mints vUSDy equivalent to the amount of USDy minted for your recycled contribution.
+  5. 100% of the acquired vUSDy will be burned to acquire XNF.
+  6. You receive XNF tokens at the end of the daily cycle based on the vUSDy burned from your recycled contribution.
+  7. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards and your allocation of the tokens accumulated from the claim fee.
 
 To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable. 
 
