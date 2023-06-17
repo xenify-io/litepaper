@@ -665,7 +665,7 @@ Let's take a closer look at how the Burn Fee Discount operates in different scen
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 1: User burns during hour 1 of a cycle
+## ♦️ Scenario 1: User burns during Hour-1 of a cycle
 
   - Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle, with a constant of 0.00005 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $2,500:
 
@@ -679,7 +679,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 2: User burns during hour 24 of a cycle
+## ♦️ Scenario 2: User burns during Hour-24 of a cycle
 
   - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle, with a constant of 0 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $5,000:
 
