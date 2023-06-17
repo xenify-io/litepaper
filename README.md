@@ -609,7 +609,7 @@ Here’s how it works: To initiate the burn function on Xenify, users must have 
 
 By implementing this calculation, we ensure that users receive discounts in proportion to the volume of a specific token (vXEN or vUSDy) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are directed toward XNF stakers. This approach not only encourages efficiency but also rewards our valuable contributors, establishing a mutually beneficial ecosystem. Plus, with the maximum discount set at an impressive 50% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for users but also generates enhanced rewards for XNF stakers.
 
-A single batch is set at a fixed amount of 2,500,000 XEN, equivalent to 2,500,000 vXEN or 2.50 in USDy (equivalent to 2.50 vUSDy). For those holding a XEN token variant from a network other than Ethereum or a YSL.IO native token other than USDy.
+A single batch for vXEN is set at a fixed amount of 2,500,000 XEN, equivalent to 2,500,000 vXEN. However, the amount of vUSDy needed per batch is dynamic, adapting to the ever-changing market price of XEN. This means that the required amount for each daily cycle is tailored to the current market value, ensuring a fair exchange for all users. For example, if the market value of 2,500,000 XEN stands at $4.00, you'll only need $4.00 worth of vUSDy per batch (equivalent to 4 USDy or 4 vUSDy). But if the value drops to $3.00 on the next cycle, a user will need $3.00 worth of vUSDy per batch for that cycle (equivalent to 3 USDy or 3 vUSDy).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
