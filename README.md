@@ -615,6 +615,86 @@ Before each cycle begins, the protocol will determine the amount of vUSDy requir
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Time-Weighted Burn Fee Discount
+
+Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method curbs unfair practices where users strategically time transactions to maximise their rewards or incentives. 
+
+The protocol calculates the Burn Fee (BF) by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS), as shown in the formula below:
+
+<br>
+
+$$
+BF = GS \times (1 - (NB \times CS)) \times NB
+$$
+
+<br>
+
+The constant (CS) factors in the discount on the burn fee. The more batches a user burns, the greater the discount on the burn fee, represented by the term (1 - (NB x CS)).
+
+The value of the constant varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. The constant starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
+
+
+| Hour | Constant Value | Max Burn Fee Discount |
+|------|----------------|-------------------|
+| 1    | 0.00005        | 50%              |
+| 2    | 0.0000475      | 47.5%              |
+| 3    | 0.000045       | 45%              |
+| 4    | 0.0000425      | 42.5%              |
+| 5    | 0.00004        | 40%              |
+| 6    | 0.0000375      | 37.5%              |
+| 7    | 0.000035       | 35%              |
+| 8    | 0.0000325      | 32.5%              |
+| 9    | 0.00003        | 30%              |
+| 10   | 0.0000275      | 27.5%              |
+| 11   | 0.000025       | 25%              |
+| 12   | 0.0000225      | 22.5%              |
+| 13   | 0.00002        | 20%              |
+| 14   | 0.0000175      | 17.5%              |
+| 15   | 0.000015       | 15%              |
+| 16   | 0.0000125      | 12.5%              |
+| 17   | 0.00001        | 10%              |
+| 18   | 0.0000075      | 7.5%              |
+| 19   | 0.000005       | 5%              |
+| 20   | 0.0000025      | 2.5%              |
+| 21   | 0              | 0%               |
+| 22   | 0              | 0%               |
+| 23   | 0              | 0%               |
+| 24   | 0              | 0%               |
+
+Let's take a closer look at how the Burn Fee Discount operates in different scenarios:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 1: User burns during hour 1 of a cycle
+
+  - Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle, with a constant of 0.00005 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $2,500:
+
+<br>
+
+$$
+BF = $0.50 \times (1 - (10,000 \times 0.00005)) \times 10,000 = $2,500
+$$
+
+<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 2: User burns during hour 24 of a cycle
+
+  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle, with a constant of 0 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $5,000:
+
+<br>
+
+$$
+BF = $0.50 \times (1 - (10,000 \times 0.00)) \times 10,000 = $5,000
+$$
+
+<br>
+
+Comparing these scenarios highlights the benefits of burning batches in the first hour versus the final hour. The maximum savings of 50% are only possible if you burn 10,000 batches during the first hour of the daily cycle. This time-weighted mechanism mitigates unfair practices and enhances fairness, rewarding users who execute burns earlier in the cycle with the greatest discounts.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ XNF Cycle Distribution
 
 Xenify adopts a balanced approach to reward distribution, focusing on essential components of the protocol: burn fees, swap fees, and contributions from the YSL.IO protocol. Each element is granted an allocation of the daily reward cycle distribution, with 50% reserved for token burns, and the remaining 50% apportioned between swap fee contributions and contributions from YSL.IO vaults. For instance, if the daily XNF cycle distribution is 20,000 XNF tokens, Xenify will divide the rewards, allocating 10,000 XNF for burn fee contributions and 10,000 XNF between swap fee contributions and YSL.IO vault contributions.
