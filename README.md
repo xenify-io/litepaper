@@ -701,7 +701,47 @@ Collecting XNF is not necessary, as all XNF tokens are automatically staked for 
 
 ## ◽️ Claiming Native Token Rewards
 
-Xenify allows users to effortlessly claim and withdraw their accumulated native token rewards at any time. This feature has been designed to simplify reward access and management, demonstrating Xenify's dedication to creating a user-friendly experience that sets it apart from the competition.
+Xenify enables users to seamlessly claim and withdraw their accumulated native chain rewards whenever they wish. However, please note that a 10% Claim Fee will be applied when users claim their native chain rewards.
+
+Throughout each cycle, the native tokens gathered from this fee are temporarily stored in a pool. At the end of the cycle, these tokens are redirected back to XNF stakers as part of the daily reward distribution process.
+
+This exclusive distribution is reserved for XNF stakers who haven't made a claim in the previous cycle. Each participant receives a share based on their position. For example, if a user claims their rewards during a cycle, they will not be included in the distribution of daily proceeds from the Claim Fee at the end of that cycle.
+
+To avoid the 10% Claim Fee, users can simply click the "Recycle" button. This allows them to use their accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, bypassing the Claim Fee altogether.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Recycling Native Token Rewards
+
+Choosing to Recycle native chain rewards means users can avoid the 10% Claim Fee, with their accumulated native chain rewards being used to participate in the daily burn of vUSDy to acquire XNF. Please note that the Recycle mechanism only acquires vUSDy for the burn process, not vXEN.
+
+To take advantage of this Recycle mechanism, users must have a sufficient balance of native chain rewards to acquire a minimum of one batch (5 vUSDy) and cover the associated burn fee within the vUSDy burn process. In other words, the Recycle mechanism will be unavailable if a user lacks the necessary native chain tokens to acquire the minimum amount of one batch (5 vUSDy) and cover its related burn fee.
+
+With a sufficient balance, the protocol uses the user's balance to acquire vUSDy, burn it, and subsequently disburse any remaining balance of native tokens that couldn't cover the minimum of one batch. For example, if a user has $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilise $99.00 of the BNB to cover 18 batches of vUSDy ($90.00) and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be disbursed to the user's wallet.
+
+During the Recycling process, the protocol determines the most optimal route to acquire vUSDy for burning. If the price of USDy is trading below $1.00, the protocol will use the BNB to purchase USDy from the USDy-USDC liquidity pool. This is because the vUSDy conversion rate is fixed, with 1 USDy always being converted for 1 vUSDy. 
+
+As a result, the user benefits from more vUSDy per native token exchanged when the USDy pool price is trading below $1.00. Conversely, when USDy is trading above $1.00, the protocol will not purchase USDy for conversion but will instead mint vUSDy for the burn process. This ensures the user always obtains vUSDy at its predetermined value or at a discount when the USDy pool price is trading below $1.00.
+
+Let's take a closer look at how the Recycle process operates in different scenarios:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 1: USDy pool price trading at or above $1.00
+
+  - Suppose you have BNB native chain rewards worth $100.00, and you opt to Recycle when the USDy pool price is $1.00. In this case, the protocol will mint vUSDy for the burn process, ensuring you receive vUSDy at its predetermined value.
+
+  - Let’s say the cost of burning a batch is $0.50, by taking this into account the protocol will utilise $90.00 of the BNB to mint 18 batches of vUSDy, with $9.00 (18*$0.50) of the BNB being used to cover the total associated burn fees for the 18 batches. The remaining $1.00 of BNB will be disbursed to your wallet.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 2: USDy pool price trading below $1.00
+
+  - Suppose you have BNB native chain rewards worth £100.00, and you opt to Recycle when the USDy pool price is $0.95. In this case, the protocol will purchase USDy for the burn process, allowing you to receive vUSDy at a discount. With the USDy pool price at $0.95, the cost per batch (5 USDy) will be $4.75.
+
+  - Let’s say the cost of burning a batch is $0.50, by taking this into account the protocol will utilise $90.25 of the BNB to purchase 19 batches of USDy, with $9.50 (19*$0.50) of the BNB being used to cover the total associated burn fees for the 19 batches. The remaining $0.25 of BNB will be disbursed to your wallet.
+
+  - By purchasing USDy at a discount, the protocol enables you to secure an extra batch at a cost of $0.25, which would have otherwise cost you $5.00. This comparison demonstrates the benefits of recycling when the USDy pool price is trading below $1.00.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -906,11 +946,11 @@ $$
 
 ## ◽️ Example: Amplified Burn Effect
 
-Let's take a closer look at how the amplified burn works in different situations:
+Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ If you hold between 1 and 3 Phoenix Ape NFTs
+## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs
 
   - Each Phoenix Ape NFT is equipped with a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
 
@@ -922,7 +962,7 @@ Let's take a closer look at how the amplified burn works in different situations
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ If you hold 4 or more Phoenix Ape NFTs
+## ♦️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs
 
   - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
