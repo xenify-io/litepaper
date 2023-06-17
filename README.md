@@ -729,7 +729,7 @@ Let's take a closer look at how the Recycle process operates in different scenar
 
 ## ♦️ Scenario 1: USDy pool price trading at or above $1.00
 
-  - Suppose you have BNB native chain rewards worth $100.00, and you opt to Recycle when the USDy pool price is $1.00, and 2,500,000 XEN is currently equivalent to 5 vUSDy. In this case, the protocol will mint vUSDy for the burn process, ensuring you receive vUSDy at its predetermined value.
+  - Suppose you have BNB native chain rewards worth $100.00, and you opt to Recycle when the USDy pool price is $1.00, and 2,500,000 XEN is currently equivalent to 5 vUSDy (or 5 USDy). In this case, the protocol will mint vUSDy for the burn process, ensuring you receive vUSDy at its predetermined value.
 
   - Let’s say the cost of burning a batch is $0.50, by taking this into account the protocol will utilise $90.00 of the BNB to mint 18 batches of vUSDy, with $9.00 (18*$0.50) of the BNB being used to cover the total associated burn fees for the 18 batches. The remaining $1.00 of BNB will be disbursed to your wallet.
 
@@ -737,7 +737,7 @@ Let's take a closer look at how the Recycle process operates in different scenar
 
 ## ♦️ Scenario 2: USDy pool price trading below $1.00
 
-  - Suppose you have BNB native chain rewards worth $100.00, and you opt to Recycle when the USDy pool price is $0.95, and 2,500,000 XEN is currently equivalent to 5 vUSDy. In this case, the protocol will purchase USDy for the burn process, allowing you to receive vUSDy at a discount. With the USDy pool price at $0.95, the cost per batch (5 USDy) will be $4.75.
+  - Suppose you have BNB native chain rewards worth $100.00, and you opt to Recycle when the USDy pool price is $0.95, and 2,500,000 XEN is currently equivalent to 5 vUSDy (or 5 USDy). In this case, the protocol will purchase USDy for the burn process, allowing you to receive vUSDy at a discount. With the USDy pool price at $0.95, the cost per batch (5 USDy) will be $4.75.
 
   - Let’s say the cost of burning a batch is $0.50, by taking this into account the protocol will utilise $90.25 of the BNB to purchase 19 batches of USDy, with $9.50 (19*$0.50) of the BNB being used to cover the total associated burn fees for the 19 batches. The remaining $0.25 of BNB will be disbursed to your wallet.
 
