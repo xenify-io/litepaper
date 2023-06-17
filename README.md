@@ -617,7 +617,7 @@ Before each cycle begins, the protocol will determine the amount of vUSDy requir
 
 ## ◽️ Time-Weighted Burn Fee Discount
 
-Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method curbs unfair practices where users strategically time transactions to maximise their rewards or incentives. 
+Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method helps curb unfair practices where users strategically time transactions to maximise their rewards or incentives. 
 
 The protocol calculates the Burn Fee (BF) by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS), as shown in the formula below:
 
