@@ -703,27 +703,33 @@ Collecting XNF is not necessary, as all XNF tokens are automatically staked for 
 
 ## ◽️ Claiming Native Chain Rewards
 
-Xenify enables users to seamlessly claim and withdraw their accumulated native chain rewards whenever they wish. However, please note that a 10% Claim Fee will be applied when users claim their native chain rewards.
+Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 10% Claim Fee will be applied when claiming your native chain rewards.
 
-Throughout each cycle, the native tokens gathered from this fee are temporarily stored in a pool. At the end of the cycle, these tokens are redirected back to XNF stakers as part of the daily reward distribution process.
+To sidestep the 10% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely.
 
-This exclusive distribution is reserved for XNF stakers who haven't made a claim in the previous cycle. Each participant receives a share based on their position. For example, if a user claims their rewards during a cycle, they will not be included in the distribution of daily proceeds from the Claim Fee at the end of that cycle.
+Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. At the end of the cycle, these tokens are exclusively distributed among XNF stakers who have employed the Recycle function during the cycle.
 
-To avoid the 10% Claim Fee, users can simply click the "Recycle" button. This allows them to use their accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, bypassing the Claim Fee altogether.
+This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Recycling Native Chain Rewards
 
-Choosing to Recycle native chain rewards means users can avoid the 10% Claim Fee, with their accumulated native chain rewards being used to participate in the daily burn of vUSDy to acquire XNF. Please note that the Recycle mechanism only acquires vUSDy for the burn process, not vXEN.
+Opting to recycle your native chain rewards allows you to bypass the 10% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle.
 
-To take advantage of this Recycle mechanism, users must have a sufficient balance of native chain rewards to acquire a minimum of one batch (5 vUSDy) and cover the associated burn fee within the vUSDy burn process. In other words, the Recycle mechanism will be unavailable if a user lacks the necessary native chain tokens to acquire the minimum amount of one batch (5 vUSDy) and cover its related burn fee.
+###  Recycling Process Overview:
+  1. You choose to recycle your native chain rewards.
+  2. Your rewards are converted into USDC and deposited into the USDy HydraVault on YSL.IO to acquire USDy.
+  3. The associated HydraVault receipt tokens (USDy-LP) are burnt, increasing the Perpetual Ratio for the vault.
+  4. The protocol then mints vUSDy equivalent to the amount of USDy minted for your recycled contribution, with 100% of the vUSDy being burned to acquire XNF.
+  5. You receive XNF tokens at the end of the daily cycle based on the vUSDy burned from your recycled contribution.
+  6. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards and your allocation of the tokens accumulated from the claim fee.
 
-With a sufficient balance, the protocol uses the user's balance to acquire vUSDy, burn it, and subsequently disburse any remaining balance of native tokens that couldn't cover the minimum of one batch. For example, if a user has $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilise $99.00 of the BNB to cover 18 batches of vUSDy ($90.00) and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be disbursed to the user's wallet.
+To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable. 
 
-Here's an overview of the recycling process: When a user decides to recycle, their native chain rewards will be converted into USDC and deposited into the YSL.IO USDy HydraVault to acquire USDy. All acquired USDy will then be immediately converted for vUSDy by the protocol, with the associated vault LP tokens being burnt. The user will receive XNF tokens at the end of the daily cycle based on their recycled contribution.
+With a sufficient balance, the protocol will use your balance to acquire vUSDy, burn it, and disburse any remaining native tokens that couldn't cover the minimum of one batch. For instance, if you have $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilize $99.00 of the BNB to cover 18 batches of vUSDy ($90.00) and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be returned to your wallet.
 
-The best part is this innovative approach to reward recycling ensures users always obtain vUSDy at a discount when the USDy pool price is trading above $1.00. This is because the USDy HydraVault mints USDy at the current market value but up to a maximum of $1.00. As a result, users benefit from more vUSDy per native token exchanged when the USDy pool price is trading above $1.00. 
+And here’s the best part: This innovative approach to reward recycling ensures you always obtain vUSDy at a discount when the USDy pool price is trading above $1.00. The USDy HydraVault mints USDy at the current market value but up to a maximum of $1.00, allowing you to benefit from more vUSDy per native token exchanged when the USDy pool price is trading above $1.00.
 
 Let's take a closer look at how the Recycle process operates in different scenarios:
 
