@@ -923,18 +923,22 @@ Next, the protocol will distribute Native Chain Rewards among XNF stakers. These
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Xenify Airdrop
+# ◽️ Genesis Xenify Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-To inspire participation and initiate liquidity creation, an exclusive airdrop event of 500,000 XNF tokens will be conducted on each chain where the XNF contract is to be deployed. This airdrop is solely available to those who partake in swaps and pay the accompanying 0.5% swap fee on Xenify on or before Day 1 (prior to the deployment of the XNF contract). Out of this fee, 0.25% is allocated to the team to cover ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
+To kickstart liquidity creation on the Genesis chain and encourage user participation, we're conducting an exclusive Genesis Xenify Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
 
-The remaining 0.25% will be collected until deployment, and then distributed as part of the first native token reward distribution to users who contribute to the burn process during the Liquidity Provisioning Event on Day 1. This distinctive approach not only encourages early user engagement through swap participation for the airdrop but also helps Xenify establish a strong liquidity pool across all supported chains from day one.
+This exclusive airdrop is available to those who engage in swaps and pay the 0.5% swap fee on Xenify on or before Day 1 (prior to the XNF contract deployment on the BNB Chain), and the YSL.IO protocol based on the yield contributed from the rehypothecation of AlphaVault and MetaVault assets. 
 
-The accrued native token rewards generated from swap fees incentivise users to burn vXEN or vUSDy on Day 1, thereby creating protocol-owned liquidity. With 100% of the burn fees being used to create liquidity, a powerful positive feedback loop is formed. As more users swap on Xenify to be part of the airdrop, it entices additional users to burn on Day 1. This leads to an increased amount of burn fees being collected, ultimately resulting in greater liquidity generation.
+Out of the accrued native tokens generated from the swap fee and YSL.IO AlphaVaults and MetaVaults, 50% will go towards covering ongoing operational expenses, such as platform development, marketing campaigns, and community engagement activities. The remaining 50% will be collected until deployment and then distributed as part of the first native token reward distribution to users who contribute to the burn process during the Liquidity Provisioning Event on Day 1. This innovative approach not only incentivises early user engagement through swap participation but also helps Xenify establish a robust liquidity pool from day one.
 
-At the end of Day 1, the protocol will initiate the first distribution of the Xenify Airdrop. This exclusive airdrop will be allocated among eligible participants in proportion to the value of their individual swap contributions relative to the total swap contributions collected during Day 1 and from swaps executed on Xenify before the launch. The 500,000 XNF tokens that make up the airdrop will be distributed by the protocol on each new block over a period of 365 days.
+Accrued native token rewards generated from swap fees and the rehypothecation of YSL.IO AlphaVault and MetaVault assets, will motivate users to burn vXEN or vUSDy on Day 1, ultimately leading to the creation of XNF protocol-owned liquidity. With 100% of the burn fees used for liquidity creation, a powerful positive feedback loop emerges. As more users swap on Xenify to join the airdrop, it attracts additional users to burn on Day 1, resulting in increased burn fees and ultimately, greater liquidity generation.
+
+At the end of Day 1, the Genesis Xenify Airdrop distribution will commence. The airdrop distribution will be based on the sum total contributions received from the swap fee and yield contributed from YSL.IO AlphaVaults and MetaVaults. Each eligible swap participant will receive their share of the airdrop in proportion to their individual swap contributions and the YSL.IO protocol will receive an allocation based on the yield contributed from the rehypothecation of AlphaVault and MetaVault assets.
+
+The 500,000 XNF tokens will be distributed as locked tokens, gradually unlocking with each new block over a period of 730 days. Please note that locked XNF tokens will not be eligible for staking. For example, if you receive 100 locked XNF tokens from the airdrop, you can expect approximately 0.13699 XNF tokens to be unlocked in your wallet each day (100 XNF tokens / 730 days = 0.13699 XNF tokens per day).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
