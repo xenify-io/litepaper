@@ -798,45 +798,17 @@ This unique distribution occurs during the protocol's daily distribution of nati
 Opting to recycle your native chain rewards allows you to bypass the 10% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle.
 
 ###  Recycle Process Overview:
+
   1. You choose to recycle your native chain rewards.
-  2. Your rewards are converted into USDC and deposited into the USDy HydraVault on YSL.IO to acquire USDy.
-  3. The associated HydraVault receipt tokens (USDy-LP) are burnt, increasing the Perpetual Ratio for the vault.
-  4. The protocol then mints vUSDy equivalent to the amount of USDy minted for your recycled contribution.
-  5. 100% of the acquired vUSDy will be burned to acquire XNF.
-  6. You receive XNF tokens at the end of the daily cycle based on the vUSDy burned from your recycled contribution.
-  7. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards and your allocation of the tokens accumulated from the claim fee.
+  2. By utilising Chainlink’s price oracle, the protocol will first determine the value of your native chain rewards in dollar terms.
+  3. The protocol then mints an optimal amount of vUSDy batches based on the dollar value of your recycled contribution. This will be dependent on the current value of one batch of vUSDy, with the protocol rounding down to the closest batch count. For instance if 2,500,000 XEN (1 batch) equates to 5 vUSDy, and your native chain rewards are equivalent to $101.00 BNB, the protocol will mint 100 vUSDy, equivalent to 20 batches of vUSDy. This is the optimal amount of batches from your native chain reward balance, with the protocol rounding down from 20.2 ($101.00/5) to an optimal batch amount of 20.
+  4. 100% of the minted vUSDy will be burned to acquire XNF during the burning cycle, with the protocol collecting the burn fee from your balance of native chain rewards.
+  5. The remaining native chain rewards after the burn process will be deposited into the XNF HydraVault on YSL.IO. For instance, if $20.00 BNB from your  $101.00 BNB recycle contribution was used towards the burn fee of 100 vUSDy, the remaining $81.00 BNB will be deposited into the XNF HydraVault.
+  6. The associated HydraVault receipt tokens (XNF-LP) are burnt, this means the USDy minted from the deposit remains in the vault, resulting in the Perpetual Ratio for the vault increasing.
+  7. You’ll receive XNF tokens at the end of the daily burn cycle based on the vUSDy burned from your recycled contribution.
+  8. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards, as well as your shar
 
 To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable. 
-
-With a sufficient balance, the protocol will use your balance to acquire vUSDy, burn it, and disburse any remaining native tokens that couldn't cover the minimum of one batch. For instance, if you have $100.00 worth of BNB native chain rewards and the cost of burning one batch is $0.50, the protocol will utilize $99.00 of the BNB to cover 18 batches of vUSDy ($90.00) and the total associated burn fees for 18 batches ($9.00). The remaining $1.00 of BNB will be returned to your wallet.
-
-And here’s the best part: This innovative approach to reward recycling ensures you always obtain vUSDy at a discount when the USDy pool price is trading above $1.00. The USDy HydraVault mints USDy at the current market value but up to a maximum of $1.00, allowing you to benefit from more vUSDy per native token exchanged when the USDy pool price is trading above $1.00.
-
-Let's take a closer look at how the Recycle process operates in different scenarios:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Scenario 1: USDy pool price trading at or above $1.00
-
-  - Suppose you have BNB native chain rewards worth $100.00, and you choose to recycle when the USDy pool price is $1.05, and 2,500,000 XEN is currently equivalent to 5 vUSDy (or 5 USDy).
-    
-  - With the USDy pool price at $1.05, the cost to acquire a batch of 5 vUSDy would be $5.25. However, with the protocol acquiring USDy from the USDy HydraVault for the burn process, you're effectively obtaining 5 vUSDy at a cost of $5.00. This is because the USDy HydraVault mints USDy according to the USDy pool price but only up to a maximum of $1.00. So, if the current price is $1.05, it mints at $1.00, leading you to obtain more USDy per native chain token.
-
-  - Assuming the cost of burning a batch is $0.50, taking this into account, the protocol will utilise $90.00 of the BNB to acquire USDy from the USDy HydraVault, and set aside $9.00 (18*$0.50) of the BNB to cover the total associated burn fees for the 18 batches. The remaining $1.00 of BNB will be disbursed to your wallet.
-
-  - If you were to use your BNB native chain rewards worth $100.00 to acquire USDy at $1.05, you would only be able to acquire 17 batches. With $89.25 of the BNB to purchase 17 batches of USDy, and $8.50 (17*$0.50) of the BNB being used to cover the total associated burn fees for the 17 batches.
-
-  - However, thanks to the protocol using the USDy HydraVault to acquire USDy at a discount, you secured an extra batch at a cost of $1.25, which would have otherwise cost you $5.00. This comparison demonstrates the benefits of recycling when the USDy pool price is trading above $1.00.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Scenario 2: USDy pool price trading below $1.00
-
-  - Suppose you have BNB native chain rewards worth $100.00, and you choose to recycle when the USDy pool price is $0.95, and 2,500,000 XEN is currently equivalent to 5 vUSDy (or 5 USDy). 
-
-  - The protocol will acquire USDy from the USDy HydraVault for the burn process, with USDy being minted at a price of $0.95. As the USDy pool price is $0.95, the cost per batch (5 USDy) will be $4.75.
-
-  - Assuming the cost of burning a batch is $0.50, taking this into account, the protocol will utilise $90.25 of the BNB to purchase 19 batches of USDy, with $9.50 (19*$0.50) of the BNB being used to cover the total associated burn fees for the 19 batches. The remaining $0.25 of BNB will be disbursed to your wallet.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
