@@ -617,9 +617,7 @@ Before each cycle begins, the protocol will determine the amount of vUSDy requir
 
 ## ◽️ Time-Weighted Burn Fee Discount
 
-Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method helps curb unfair practices where users strategically time transactions to maximise their rewards or incentives. 
-
-The protocol calculates the Burn Fee (BF) by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS), as shown in the formula below:
+Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method helps curb unfair practices where users strategically time transactions to maximise their rewards or incentives. The protocol calculates the Burn Fee (BF) by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS), as shown in the formula below:
 
 <br>
 
@@ -629,9 +627,7 @@ $$
 
 <br>
 
-The constant (CS) factors in the discount on the burn fee. The more batches a user burns, the greater the discount on the burn fee, represented by the term (1 - (NB x CS)).
-
-The value of the constant varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. The constant starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
+The constant (CS) factors in the discount on the burn fee. The more batches a user burns, the greater the discount on the burn fee, represented by the term (1 - (NB x CS)). The value of the constant varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. The constant starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
 
 <br>
 
