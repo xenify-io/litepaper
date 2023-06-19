@@ -782,7 +782,7 @@ Collecting XNF is not necessary, as all XNF tokens are automatically staked for 
 
 ## ◽️ Claiming Native Chain Rewards
 
-Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 10% Claim Fee will be applied when claiming your native chain rewards. To sidestep the 10% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely. Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. 
+Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 25% Claim Fee will be applied when claiming your native chain rewards. To sidestep the 25% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely. Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. 
 
 At the end of the cycle, these tokens are exclusively distributed among XNF stakers who have employed the Recycle function during the cycle. This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
 
@@ -790,7 +790,7 @@ At the end of the cycle, these tokens are exclusively distributed among XNF stak
 
 ## ◽️ Recycling Native Chain Rewards
 
-Opting to recycle your native chain rewards allows you to bypass the 10% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle. To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable.
+Opting to recycle your native chain rewards allows you to bypass the 25% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle. To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -833,9 +833,9 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f322a768-0ce7-438a-833d-8cffc7d4b893" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e2f0c1bc-c02e-4deb-8c7d-9aa0780dde6a" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/e2f0c1bc-c02e-4deb-8c7d-9aa0780dde6a" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0619f0c1-8fb8-4b4e-b969-324f9502502c" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9492356b-f2dd-4c88-b531-a11a01302d92" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/9492356b-f2dd-4c88-b531-a11a01302d92" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1203,7 +1203,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ If I make a stake now when will I recieve rewards?
+## ◽️ If I make a stake now when will I receive rewards?
   - When you stake XNF tokens, you will receive rewards at the end of the same cycle in which you make the stake. These rewards comprise native chain tokens generated from both swap fees and burn fees collected during the cycle, as well as the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets. Throughout the cycle, these rewards accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among XNF stakers at the end of the cycle, ensuring a fair and transparent allocation.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
