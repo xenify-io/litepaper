@@ -800,7 +800,7 @@ This unique distribution occurs during the protocol's daily distribution of nati
 
 Opting to recycle your native chain rewards allows you to bypass the 10% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle.
 
-### ♦️ Recycle Process Overview:
+## ♦️ Recycle Process Overview
 
   1. You choose to recycle your native chain rewards.
   2. By utilising Chainlink’s price oracle, the protocol will first determine the value of your native chain rewards in dollar terms.
