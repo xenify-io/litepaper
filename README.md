@@ -782,13 +782,9 @@ Collecting XNF is not necessary, as all XNF tokens are automatically staked for 
 
 ## ◽️ Claiming Native Chain Rewards
 
-Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 10% Claim Fee will be applied when claiming your native chain rewards.
+Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 10% Claim Fee will be applied when claiming your native chain rewards. To sidestep the 10% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely. Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. 
 
-To sidestep the 10% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely.
-
-Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. At the end of the cycle, these tokens are exclusively distributed among XNF stakers who have employed the Recycle function during the cycle.
-
-This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
+At the end of the cycle, these tokens are exclusively distributed among XNF stakers who have employed the Recycle function during the cycle. This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1046,25 +1042,17 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ## ◽️ Claimable USDC Rewards
 
-The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate.
+The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
 
-When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
-
-These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution.
-
-In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
+These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unique Rental Mechanism
   
-The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate.
+The Phoenix NFT has been designed to be a game-changer in the world of NFTs. With its innovative rental mechanism, this unique NFT actively supports the YSL.IO ecosystem and allows users to generate rental income, whilst renters enjoy the advantage of bypassing the protocol’s Sigma Exit Rate. When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
 
-When a Phoenix Ape NFT is rented through the YSL.IO marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain.
-
-These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution.
-
-In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
+These USDC rewards will be available for holders to claim at the end of each 8-hour epoch. And here's the cherry on top: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
