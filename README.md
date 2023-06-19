@@ -541,12 +541,11 @@ This innovative three-pronged incentive model not only helps generate swap volum
 ## ♦️ Swap to earn XNF 
   - Xenify is a pioneering cross-chain aggregator of aggregators that transforms the way users experience token exchanges.  With its seamless single-click transactions and the opportunity to earn XNF tokens, Xenify sets itself apart from the competition.
 
-  - By swapping with Xenify and choosing to pay the swap fee, users actively contribute to the platform's growth. The 0.5% swap fee is divided, with half being distributed as rewards to XNF stakers, celebrating those who fully engage with the protocol. The remaining portion of the fee is utilised by the team to promote and enhance the Xenify platform and its associated tokens (XEN, USDy, and XNF), ensuring increased awareness and adoption.
+  - By swapping tokens on Xenify and opting to pay the swap fee, users actively contribute to the platform's growth. The entire 0.5% swap fee is distributed as rewards to XNF stakers, empowering those who actively engage with the protocol.
 
-  - What truly sets Xenify apart from other platforms is the added benefit users receive when opting to pay the swap fee. Users can increase their XNF holdings through daily XNF token distributions, making Xenify a rewarding experience. Users not only enjoy a seamless cross-chain token swapping experience but also earn XNF in the process.
+  - However, what truly sets Xenify apart is the remarkable value our users receive by opting to pay the swap fee. When users pay the optional swap fee, they can boost their XNF holdings through daily XNF token distributions, making Xenify a truly rewarding experience. Not only do users enjoy a seamless cross-chain token-swapping experience, but they also earn XNF tokens along the way. 
 
-  - The XNF rewards can either be collected by the user or staked to earn even more from the native tokens generated from swap and burn fees. As a result, users benefit from the efficiency and competitive rates offered by Xenify while earning rewards and  actively participating in shaping the future of Xenify's dynamic ecosystem.
-
+  - These XNF rewards are automatically staked, enabling users to earn native chain tokens on a daily basis (such as BNB, ETH & MATIC). These native chain rewards are generated through the protocol’s swap fees, burn fees, and reypothecation of assets held by YSL.IO’s AlphaVaults and MetaVaults. As a result, users benefit from the efficiency and competitive rates offered by Xenify while earning rewards and actively participating in shaping the future of Xenify's dynamic ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
