@@ -565,11 +565,11 @@ This innovative three-pronged incentive model not only helps generate swap volum
 
 ## ◽️ Costs of Swapping on Xenify
 
-Xenify offers a ground-breaking token swap solution that not only simplifies cross-chain transactions but also rewards its platform users, all the while nurturing the expansion of its ecosystem. By implementing an optional 0.5% fee on every token swap, Xenify achieves three fundamental objectives: rewarding Xenify platform users, providing native chain rewards to XNF stakers, and fortifying the continuous development of the protocol.
+Xenify offers a ground-breaking token swap solution that not only simplifies cross-chain transactions but also rewards its platform users, all the while nurturing the expansion of its ecosystem. By implementing an optional 0.5% fee on every token swap, Xenify accomplishes three essential objectives: rewarding Xenify platform users, providing native chain rewards to XNF stakers, and encouraging continuous engagement with the protocol.
 
-Here's how it works: When a user initiates a token swap on Xenify, they have the option to pay a 0.5% swap fee. This fee is strategically divided to promote future growth and incentivise user participation. A portion of 0.25% is allocated to XNF stakers in the form of native chain tokens, recognising their valuable contribution to the ecosystem. The remaining 0.25% is designated for the Xenify team, funding essential operational expenses such as platform development, marketing campaigns, and community engagement initiatives.
+Here's the process: When a user initiates a token swap on Xenify, they have the option to pay a 0.5% swap fee. This fee is strategically allocated to promote future growth and incentivise user participation, with 100% being distributed to XNF stakers in the form of native chain tokens.
 
-By choosing to pay the nominal 0.5% swap fee, users not only facilitate their transactions but also secure a position in the daily XNF reward cycle. These XNF rewards can be collected by the user or strategically staked to unlock even greater gains from the native tokens generated through swap and burn fees. Consequently, users enjoy the benefits of Xenify's efficiency and competitive rates, all while reaping rewards and actively shaping the evolution of Xenify's dynamic ecosystem.
+By opting to pay the nominal 0.5% swap fee, users not only expedite their transactions but also secure a spot in the daily XNF reward cycle. These XNF rewards are automatically staked on the users' behalf to unlock even greater gains from the native tokens distributed at the conclusion of each daily cycle. As a result, users enjoy the advantages of Xenify's efficiency and competitive rates, all while reaping rewards and actively shaping the evolution of Xenify's dynamic ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
