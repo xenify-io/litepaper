@@ -800,13 +800,13 @@ This unique distribution occurs during the protocol's daily distribution of nati
 
 Opting to recycle your native chain rewards allows you to bypass the 10% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle.
 
-###  Recycle Process Overview:
+### ♦️ Recycle Process Overview:
 
   1. You choose to recycle your native chain rewards.
   2. By utilising Chainlink’s price oracle, the protocol will first determine the value of your native chain rewards in dollar terms.
-  3. The protocol then mints an optimal amount of vUSDy batches based on the dollar value of your recycled contribution. This will be dependent on the current value of one batch of vUSDy, with the protocol rounding down to the closest batch count. For instance if 2,500,000 XEN (1 batch) equates to 5 vUSDy, and your native chain rewards are equivalent to $101.00 BNB, the protocol will mint 100 vUSDy, equivalent to 20 batches of vUSDy. This is the optimal amount of batches from your native chain reward balance, with the protocol rounding down from 20.2 ($101.00/5) to an optimal batch amount of 20.
+  3. The protocol then mints an optimal amount of vUSDy batches based on the dollar value of your recycled contribution. This will be dependent on the current value of one batch of vUSDy, with the protocol rounding down to the closest batch count. For instance if 2,500,000 XEN (1 batch) equates to 5 vUSDy, and your native chain rewards are equivalent to $101.00, the protocol will mint 100 vUSDy, equivalent to 20 batches of vUSDy. This is the optimal amount of batches from your native chain reward balance, with the protocol rounding down from 20.2 ($101.00/5) to an optimal batch amount of 20.
   4. 100% of the minted vUSDy will be burned to acquire XNF during the burning cycle, with the protocol collecting the burn fee from your balance of native chain rewards.
-  5. The remaining native chain rewards after the burn process will be deposited into the XNF HydraVault on YSL.IO. For instance, if $20.00 BNB from your  $101.00 BNB recycle contribution was used towards the burn fee of 100 vUSDy, the remaining $81.00 BNB will be deposited into the XNF HydraVault.
+  5. The remaining native chain rewards after the burn process will be deposited into the XNF HydraVault on YSL.IO. For instance, if $20.00 from your $101.00 native chain reward recycle contribution was used towards the burn fee of 100 vUSDy, the remaining $81.00 BNB will be deposited into the XNF HydraVault.
   6. The associated HydraVault receipt tokens (XNF-LP) are burnt, this means the USDy minted from the deposit remains in the vault, resulting in the Perpetual Ratio for the vault increasing.
   7. You’ll receive XNF tokens at the end of the daily burn cycle based on the vUSDy burned from your recycled contribution.
   8. The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards, as well as your share of the native chain tokens (eg. BNB) accumulated from the claim fee during the cycle.
