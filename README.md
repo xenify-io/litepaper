@@ -151,7 +151,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Staking
 
-- Xenify integrates a dynamic staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users become eligible to receive a resounding 100% of burn fees and 50% of generated swap fees on supported chains as Native Chain Rewards. But that’s not all! Owing to Xenify's seamless integration with the YSL.IO protocol, an additional layer of rewards is offered to XNF stakers. Within this framework, a full 100% of the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets are redirected to Xenify, with 50% shared amongst XNF stakers. This equitable incentive model ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
+- Xenify integrates a dynamic staking rewards mechanism that offers significant benefits to XNF stakers. By staking XNF tokens, users become eligible to receive a resounding 100% of burn fees and swap fees generated on supported chains as Native Chain Rewards. But that’s not all! Owing to Xenify's seamless integration with the YSL.IO protocol, an additional layer of rewards is offered to XNF stakers. Within this framework, a full 100% of the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets are redirected to Xenify and shared amongst XNF stakers. This equitable incentive model ensures that active participants in the ecosystem are amply rewarded, helping us foster a vibrant and engaged community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
