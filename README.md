@@ -633,33 +633,36 @@ The constant (CS) factors in the discount on the burn fee. The more batches a us
 
 The value of the constant varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. The constant starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
 
+<br>
 
 | Hour | Constant Value | Max Burn Fee Discount |
-|------|----------------|-------------------|
-| 1    | 0.00005        | 50%              |
-| 2    | 0.0000475      | 47.5%              |
-| 3    | 0.000045       | 45%              |
-| 4    | 0.0000425      | 42.5%              |
-| 5    | 0.00004        | 40%              |
-| 6    | 0.0000375      | 37.5%              |
-| 7    | 0.000035       | 35%              |
-| 8    | 0.0000325      | 32.5%              |
-| 9    | 0.00003        | 30%              |
-| 10   | 0.0000275      | 27.5%              |
-| 11   | 0.000025       | 25%              |
-| 12   | 0.0000225      | 22.5%              |
-| 13   | 0.00002        | 20%              |
-| 14   | 0.0000175      | 17.5%              |
-| 15   | 0.000015       | 15%              |
-| 16   | 0.0000125      | 12.5%              |
-| 17   | 0.00001        | 10%              |
-| 18   | 0.0000075      | 7.5%              |
-| 19   | 0.000005       | 5%              |
-| 20   | 0.0000025      | 2.5%              |
-| 21   | 0              | 0%               |
-| 22   | 0              | 0%               |
-| 23   | 0              | 0%               |
-| 24   | 0              | 0%               |
+|------|----------------|-----------------------|
+| 1    | 0.00005        | 50%                   |
+| 2    | 0.0000475      | 47.5%                 |
+| 3    | 0.000045       | 45%                   |
+| 4    | 0.0000425      | 42.5%                 |
+| 5    | 0.00004        | 40%                   |
+| 6    | 0.0000375      | 37.5%                 |
+| 7    | 0.000035       | 35%                   |
+| 8    | 0.0000325      | 32.5%                 |
+| 9    | 0.00003        | 30%                   |
+| 10   | 0.0000275      | 27.5%                 |
+| 11   | 0.000025       | 25%                   |
+| 12   | 0.0000225      | 22.5%                 |
+| 13   | 0.00002        | 20%                   |
+| 14   | 0.0000175      | 17.5%                 |
+| 15   | 0.000015       | 15%                   |
+| 16   | 0.0000125      | 12.5%                 |
+| 17   | 0.00001        | 10%                   |
+| 18   | 0.0000075      | 7.5%                  |
+| 19   | 0.000005       | 5%                    |
+| 20   | 0.0000025      | 2.5%                  |
+| 21   | 0              | 0%                    |
+| 22   | 0              | 0%                    |
+| 23   | 0              | 0%                    |
+| 24   | 0              | 0%                    |
+
+<br>
 
 Let's take a closer look at how the Burn Fee Discount operates in different scenarios:
 
