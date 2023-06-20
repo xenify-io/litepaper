@@ -802,16 +802,6 @@ Opting to recycle your native chain rewards allows you to bypass the 25% claim f
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Automatic Recycling of Rewards
-
-At Xenify, we're committed to making your native chain rewards work harder for you. That's why we've introduced an automatic recycling feature to help your staked XNF balance grow and boost your rewards. Let's break down how it works.
-
-Every month (that's 730 hours), any unclaimed native chain rewards are automatically recycled. So, if you forget to claim or recycle your rewards during this time, don't worry! We've got your back. The protocol handles the recycling process, ensuring you receive more XNF. To preserve the decentralised nature of our protocol, only user interactions can trigger this auto-recycle process. Whether a user burns vXEN or vUSDy, stakes XNF, unstakes XNF, claims rewards, or recycles rewards, once the 730-hour condition is met, the automatic recycling process kicks into action.
-
-Why do we do this? It's all about keeping things fair and engaging for everyone involved. By automatically recycling unclaimed rewards, we prevent native tokens from accumulating on the contract. This balanced approach benefits the entire ecosystem and promotes ongoing engagement from XNF stakers, ensuring all users remain actively involved with the protocol. And don't forget, by recycling your rewards, you'll be eligible for future XNF airdrops when Xenify launches on new chains!
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Native Token Reward Distribution
 
 During each cycle, the accumulation of native tokens unfolds, wherein the protocol's reward pool gradually accumulates tokens generated from burn fees and swap fees. The balance of this reward pool will continue to grow with every transaction during the cycle, be it a swap or a burn. 
