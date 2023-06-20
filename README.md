@@ -955,6 +955,20 @@ The 500,000 XNF tokens will be distributed as locked tokens, gradually unlocking
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Future Xenify Airdrops
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Just like the Genesis Xenify Airdrop, we'll be distributing 500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
+
+When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain.
+
+From that point on, the 500,000 XNF tokens will be equally divided among each active chain where Xenify has been deployed. For example, let's say Xenify is currently operating on two chains, BNB Chain and Polygon. In this scenario, the next 500,000 XNF airdrop will be evenly distributed between the two active chains, with 50% going to eligible XNF stakers who have recycled on BNB Chain and 50% to eligible XNF stakers who have recycled on Polygon.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Amplify Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
