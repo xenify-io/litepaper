@@ -231,15 +231,13 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
-Thanks to vXEN, users are not required to hold native XEN tokens based on the Ethereum network to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users from the wider XEN ecosystem to acquire XNF by effortlessly burning their native XEN tokens from various EVM-compatible networks directly from their wallets.
+Thanks to vXEN, you don't need to have native XEN tokens on the Ethereum network to take part in Xenify's burn process and get your hands on XNF. Instead, Xenify makes it easy for users in the broader XEN community to acquire XNF by simply burning their native XEN tokens from various EVM-compatible networks, right from their wallets.
 
-This remarkable solution stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN holders across multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, establishing itself as a strategic layer 2 burner of XEN.
+This innovative approach stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN holders on multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, positioning itself as a strategic layer 2 burner of XEN.
 
-Think of vXEN as the virtual counterpart of XEN tokens, designed exclusively to facilitate the conversion of native XEN token variants into XNF tokens. It's worth noting that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
+vXEN can be thought of as the virtual counterpart of XEN tokens, designed specifically to simplify the process of converting various versions of XEN tokens into XNF tokens. It's important to note that you'll need XEN tokens or a XEN token variant supported by Xenify, like bXEN on the BNB Chain, to obtain vXEN. Once you have vXEN, you can burn it to join Xenify's daily distribution of XNF tokens.
 
-vXEN can be thought of as the virtual counterpart of XEN tokens, designed solely to facilitate the conversion of native XEN token variants into XNF tokens. It's important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain.
-
-Once you possess vXEN, you can burn it to participate in Xenify's daily distribution of XNF tokens. With each XEN variant having a fixed conversion rate, it eliminates the guesswork from determining how much XEN you're required to burn as a batch. In other words, users can always be confident in the amount of vXEN they'll obtain when burning their native XEN tokens. Please bear in mind that although the conversion rate for vXEN remains fixed, it will vary depending on the specific version of the XEN token you choose to exchange, as outlined in the table below:
+And here's the best part: Xenify has implemented a fixed conversion rate for each XEN variant. With these predetermined rates, you can always be confident about the number of batches your native XEN tokens will produce during the burning process. This simplifies the entire process and eliminates the need for continuous calculations of XEN per batch. However, keep in mind that while the conversion rate for vXEN remains fixed, it will vary depending on the specific version of the XEN token you choose to exchange. Please refer to the table below for details:
 
 <br>
 
