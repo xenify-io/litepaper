@@ -478,7 +478,7 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 
 ## ◽️ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. How are we going to decide which one to choose? It's simple - airdrop participation. Our strategy is to collect at least $10,000 in native tokens from any chain before we start the deployment process. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Ethereum, Polygon, and Arbitrum to the new kids on the blockchain like zkEVM and zkSync, there's no shortage of options. The full list includes:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Ethereum, Polygon, and Arbitrum to the new kids on the blockchain like zkEVM and zkSync, there's no shortage of options. The full list includes:
 
 - KCC
 - Celo
