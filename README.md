@@ -785,20 +785,26 @@ At the end of the cycle, these tokens are exclusively distributed among XNF stak
 
 ## ◽️ Recycling Native Chain Rewards
 
-Opting to recycle your native chain rewards allows you to bypass the 25% claim fee while using your accumulated rewards to participate in the daily vUSDy burn and acquire XNF tokens. Plus, by utilising the recycle function, you'll also receive a share of the claim fees generated during a cycle. To take advantage of this recycle mechanism, you will need to have an adequate balance of native chain rewards to obtain a minimum of one batch and cover the associated burn fee within the vUSDy burn process. If you don't have enough native chain tokens to meet these requirements, the recycle mechanism will be unavailable.
+Opting to recycle your native chain rewards is a smart move, as it not only helps you avoid the 25% claim fee but also enables you to grow your XNF position, with 100% of your accumulated rewards used to join the daily vXEN burn. 
+
+What's even better is that the protocol mints vXEN equal to 100% of your rewards' value and takes the burn fee from your reward balance. This means you're effectively burning vXEN without adding an extra burn fee to your contribution!
+
+Moreover, by utilising the recycle function, you'll be part of the exclusive distribution of native tokens generated from the 25% claim fee during a cycle. To benefit from this recycling feature, you’ll need to have a sufficient balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance lacks the necessary amount of native chain tokens, the recycle option will be unavailable to you.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Recycle Process Overview
 
-  - You choose to recycle your native chain rewards.
-  - By utilising Chainlink’s price oracle, the protocol will first determine the value of your native chain rewards in dollar terms.
-  - The protocol then mints an optimal amount of vUSDy batches based on the dollar value of your recycled contribution. This will be dependent on the current value of one batch of vUSDy, with the protocol rounding down to the closest batch count. For instance if 2,500,000 XEN (1 batch) equates to 5 vUSDy, and your native chain rewards are equivalent to $101.00, the protocol will mint 100 vUSDy, equivalent to 20 batches of vUSDy. This is the optimal amount of batches from your native chain reward balance, with the protocol rounding down from 20.2 ($101.00/5) to an optimal batch amount of 20.
-  - 100% of the minted vUSDy will be burned to acquire XNF during the burning cycle, with the protocol collecting the burn fee from your balance of native chain rewards.
-  - The remaining native chain rewards after the burn process will be deposited into the XNF HydraVault on YSL.IO. For instance, if $20.00 from your $101.00 native chain reward recycle contribution was used towards the burn fee of 100 vUSDy, the remaining $81.00 BNB will be deposited into the XNF HydraVault.
-  - The associated HydraVault receipt tokens (XNF-LP) are burnt, this means the USDy minted from the deposit remains in the vault, resulting in the Perpetual Ratio for the vault increasing.
-  - You’ll receive XNF tokens at the end of the daily burn cycle based on the vUSDy burned from your recycled contribution.
-  - The XNF tokens are automatically staked on your behalf, and subsequently you’ll receive your share of daily native chain rewards, as well as your share of the native chain tokens (eg. BNB) accumulated from the claim fee during the cycle. 
+  - You decide to recycle your native chain rewards.
+  - When this happens, the protocol will use Chainlink's price oracle to determine the dollar value of the native chain token balance.
+  - Next, the protocol mints an appropriate number of vXEN batches based on the dollar value of your contribution. This depends on the current value of your native chain rewards, with the protocol rounding down to the nearest batch count.
+  - For example, If the protocol determines your native chain rewards to be worth $101.00 in BNB, the protocol will mint 100 vXEN, equal to 20 batches of vXEN. As one batch equals 5 vXEN, 20 batches is the optimal batch amount for your native chain reward balance, rounding down from 20.2 ($101.00/5) to an optimal batch amount of 20.
+  - All of the minted vXEN will be burned to obtain XNF (distributed at the end of the burn cycle), with the protocol collecting a burn fee from your native chain rewards balance. The burn fee collected will depend on four variables: the value of the batches (VB) being burned, the number of batches (NB) being burned, the time-weighted gas coefficient (GC) and time-weighted discount (CS).
+  - After the burn process, the remaining native chain rewards are sent to the XEN recycling contract. For example, if $20.00 BNB from your $101.00 BNB recycling contribution was used for the burn fee for 100 vXEN, the remaining $81.00 BNB will go to the XEN recycling contract.
+  - The XEN recycling contract splits the native tokens three ways: 50% for creating XNF liquidity, 25% for creating XEN liquidity, and 25% allocated to the team as USDC to support Xenify's ongoing development, marketing, and outreach initiatives.
+  - The XNF LP tokens and XEN LP tokens acquired from the recycling process are burned.
+  - At the end of the daily burn cycle, you'll receive XNF tokens based on the vXEN burned from your recycled contribution. The protocol automatically stakes these XNF tokens on your behalf.
+  - Finally, you'll receive your share of daily native chain rewards based on your staked XNF balance, as well as your share of the native chain tokens (e.g., BNB) collected from the claim fee during the cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
