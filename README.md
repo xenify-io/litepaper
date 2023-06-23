@@ -1022,7 +1022,7 @@ From that point on, the 500,000 XNF tokens will be equally divided among each ac
 
 Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that unites the Xenify and YSL.IO communities. By owning one of these extraordinary NFTs, users of Xenify will unlock a daily amplified burn effect, exponentially boosting their batch count by up to 100 when burning vXEN or vUSDy. Moreover, owning or renting a minimum of 4 of these highly coveted NFTs will grant you an even greater amplification, with your wallet receiving a daily bonus of up to 1,000 batches.
 
-Furthermore, holders of the Phoenix NFT will enjoy a range of extra perks. First and foremost, all holders will have a guaranteed allocation of XNF on every chain Xenify launches through the Day 1 bonus contribution. Additionally, they will have the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
+Furthermore, holders of the Phoenix NFT will enjoy a range of extra perks. This includes the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
 
 Every wallet that holds a Phoenix Ape NFT is subject to a Weekly Outbound Quota (WOQ) that permits a single outbound transaction involving a Phoenix Ape NFT every 7 days. Outbound transactions include transferring a Phoenix Ape NFT to another wallet or selling the NFT. Please note that while the WOQ restriction is in effect, wallet holders are still permitted to bridge the utility of their Phoenix Ape NFT(s) to another chain. In short, bridging the utility of an NFT to a different chain neither triggers the WOQ nor impacts the user's ability to bridge their Phoenix Ape NFT(s) utility.
 
@@ -1033,16 +1033,6 @@ And here's the best part: Your daily batch bonus, whether you possess one NFT or
 ## ◽️ Limited Collectible
 
 The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a scarce supply of just 520. Priced at 2,500 USDC, these sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Day 1 Bonus Contribution
-
-By merely holding a Phoenix Ape NFT, you automatically secure 100 complimentary batches for Xenify’s Day 1 Burns. And guess what? This applies to all the chains Xenify launches. So, if Xenify happens to launch on 8 chains, you’ll receive 800 bonus batches!
-
-And here’s the best part: You don’t even need to burn any vXEN or vUSDy on Day 1! That’s right, by simply holding a Phoenix Ape NFT you will be rewarded with XNF tokens through the contribution of your 100 bonus batches. But that’s not all! You’ll also be eligible for an allocation of the Native Chain Rewards distributed on Day 1 across every chain! It’s an opportunity you don’t want to miss!
-
-Now, you might be wondering, why are we providing such incredible benefits to Phoenix Ape NFT holders? The answer is simple: A significant amount of the $2,500 USDC generated from each NFT purchase has been dedicated to funding the initial audit of Xenify and its development.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
