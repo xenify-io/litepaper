@@ -612,17 +612,19 @@ Before each cycle begins, the protocol will determine the amount of vUSDy requir
 
 ## ◽️ Time-Weighted Burn Fee Discount
 
-Introducing Xenify's time-weighted approach to burn fee discounts, designed to promote fairness and prevent manipulation such as reward front-running or sniping. This innovative method helps curb unfair practices where users strategically time transactions to maximise their rewards or incentives. The protocol calculates the Burn Fee (BF) by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS), as shown in the formula below:
+Introducing Xenify's time-weighted burn fee discount, designed to promote fairness and curb unfair practices such as reward sniping and front-running. The burn fee formula helps the protocol determine the fee required to execute the burn function, and it's calculated using the following equation:
 
 <br>
 
 $$
-BF = GS \times (1 - (NB \times CS)) \times NB
+BF = (GC \times VB) \times (1 - (NB \times CS))
 $$
 
 <br>
 
-The constant (CS) factors in the discount on the burn fee. The more batches a user burns, the greater the discount on the burn fee, represented by the term (1 - (NB x CS)). The value of the constant varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. The constant starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
+In this formula, BF represents the Burn Fee, which is the fee you will need to pay in the native tokens when using the burn function. The burn fee discount you receive is represented by the term (1 - (NB x CS)). The discount you obtain will be influenced by the Number of Batches (NB) you burn and the applicable Discount Constant (CS).
+
+The Discount Constant (CS) is a time-weighted factor that varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. It starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
 
 <br>
 
@@ -661,12 +663,12 @@ Let's take a closer look at how the Burn Fee Discount operates in different scen
 
 ## ♦️ Scenario 1: User burns during Hour-1 of a cycle
 
-  - Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle, with a constant of 0.00005 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $2,500:
+  - Let’s say you decide to burn 10,000 batches valued at $5,000 during the first hour of the daily cycle. Taking into account that the Discount Constant (CS) during the first hour of a cycle is 0.00005 and the Gas Coefficient (GC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as $1,250.
 
 <br>
 
 $$
-BF = $0.50 \times (1 - (10,000 \times 0.00005)) \times 10,000 = $2,500
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250
 $$
 
 <br>
@@ -675,17 +677,17 @@ $$
 
 ## ♦️ Scenario 2: User burns during Hour-24 of a cycle
 
-  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle, with a constant of 0 and gas spent at $0.50. Taking the burn fee formula into account, the protocol will determine your Burn Fee (BF) as $5,000:
+  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle. Taking into account that the Discount Constant (CS) during the last hour of a cycle is 0 and the Gas Coefficient (GC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as $5,000.
 
 <br>
 
 $$
-BF = $0.50 \times (1 - (10,000 \times 0.00)) \times 10,000 = $5,000
+BF = (1 \times 5,000) x (1 - (10,000 \times 0)) = $5,000
 $$
 
 <br>
 
-Comparing these scenarios highlights the benefits of burning batches in the first hour versus the final hour. The maximum savings of 50% are only possible if you burn 10,000 batches during the first hour of the daily cycle. This time-weighted mechanism mitigates unfair practices and enhances fairness, rewarding users who execute burns earlier in the cycle with the greatest discounts.
+Comparing these scenarios highlights the benefits of burning batches in the first hour versus the final hour. The maximum savings of 75% are only possible if you burn 10,000 batches during the first hour of the daily cycle. This time-weighted mechanism mitigates unfair practices and enhances fairness, rewarding users who execute burns earlier in the cycle with the greatest discounts.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
