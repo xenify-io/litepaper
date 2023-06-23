@@ -438,7 +438,7 @@ Xenifiy is a groundbreaking protocol that champions fairness, sustainability, an
 
 ## ◽️ Token Supply
 
-XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.5 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
+XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
 
 With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning vXEN or vUSDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
@@ -454,7 +454,7 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-Xenify's total supply of XNF tokens is capped at 21.5 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of vXEN and vUSDy, an additional 10,500,000 XNF tokens reserved for swap volume, and a separate 500,000 XNF tokens earmarked for the launch airdrop. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
+Xenify's total supply of XNF tokens is capped at 21.6 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of vXEN and vUSDy, an additional 10,500,000 XNF tokens reserved for swap volume, 100,000 XNF set aside for the XEN Recycling Contract for liquidity creation, and a separate 500,000 XNF tokens earmarked for the launch airdrop. The airdrop will be distributed over a period of 365 days, with eligible participants receiving XNF on each new block.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle.  As demonstrated in the graph below, following the 7th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
 
