@@ -579,34 +579,26 @@ To acquire vXEN, you simply need to have XEN tokens or any XEN token variant sup
 
 Likewise, if you're looking to burn vUSDy, you'll need to possess YSL.IO native tokens such as bYSL, xYSL, or USDy. For example, by holding bYSL, you can easily convert it into vUSDy. Once you possess vUSDy, you can burn it to participate in Xenify's daily distribution of XNF tokens. Both the bYSL and vUSDy you provide will be permanently removed from circulation. Similar to vXEN, the conversion rate for vUSDy remains fixed, but it is contingent upon the particular YSL.IO native token you're exchanging.
 
-By participating in the burning of vXEN and vUSDy, users will encounter specific costs such as transaction gas fees and mandatory burn fees. However, the burn fee calculation has been meticulously designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts on their burn fees of up to 50%.
+By participating in the burning of vXEN and vUSDy, users will encounter specific costs such as transaction gas fees and mandatory burn fees. However, the burn fee calculation has been meticulously designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts on their burn fees of up to 75%.
 
 The burn fee is determined using this formula:
 
 <br>
 
 $$
-BF = GS \times (1 - (NB \times CS)) \times NB
+BF = (GC \times VB) \times (1 - (NB \times CS))
 $$
 
 <br>
 
-- $BF$ - Burn fee charged for the burn function, paid in the native token of the chain.
-- $GS$ - The total amount of gas consumed by the burn function to execute the code.
-- $CS$ - The constant 0.00005, used to factor in the discount on the burn fee.
-- $NB$ - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
+- $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
+- $GS$ (Gas Coefficient) - A time-weighted coefficient used to determine the value of gas required for the burn function to execute the transaction.
+- $VB$ (Value of Batches) - The dollar value of batches being burned by the user.
+- $CS$ (Discount Coefficient) - A time-weighted coefficient used to factor in the discount on the burn fee.
+- $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
 
 <br>
 
-Our ingenious burn fee calculation takes various factors into consideration: including the gas consumed by the burn function, the number of batches, and a discount factor based on the number of batches. This powerful combination serves as a compelling incentive for users to undertake larger burn operations. And the best part? The more batches a user burns, the greater the discount they will enjoy, with potential savings of up to 50% off for 10,000 batches. But what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or vUSDy, that have been set aside for burning. 
-
-Here’s how it works: To initiate the burn function on Xenify, users must have a wallet balance that meets or exceeds the “Number of Batches” multiplied by a fixed number of tokens, depending on the token type being burned. The protocol calculates the Burn fee by multiplying the Gas Spent (GS) by a factor that depends on the Number of Batches (NB) and the constant (CS). The more batches a user burns, the greater the discount on the burn fee. This discount is represented by the term (1 - (NB x CS)).
-
-By implementing this calculation, we ensure that users receive discounts in proportion to the volume of a specific token (vXEN or vUSDy) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are directed toward XNF stakers. This approach not only encourages efficiency but also rewards our valuable contributors, establishing a mutually beneficial ecosystem. Plus, with the maximum discount set at an impressive 50% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for users but also generates enhanced rewards for XNF stakers.
-
-A single batch for vXEN is set at a fixed amount of 2,500,000 XEN, equivalent to 2,500,000 vXEN. However, the amount of vUSDy needed per batch is dynamic, adapting to the ever-changing market price of XEN. This means that the required amount for each daily cycle is tailored to the current market value, ensuring a fair exchange for all users.
-
-Before each cycle begins, the protocol will determine the amount of vUSDy required per batch based on the current market price of XEN. For example, if the market value of 2,500,000 XEN stands at $4.00 at the start of a cycle, you'll only need $4.00 worth of vUSDy per batch during that cycle (equivalent to 4 USDy or 4 vUSDy). But if the value drops to $3.00 at the start of the next cycle, a user will need $3.00 worth of vUSDy per batch during that cycle (equivalent to 3 USDy or 3 vUSDy).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
