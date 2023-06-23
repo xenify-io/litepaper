@@ -617,7 +617,7 @@ By implementing this calculation, we ensure that users receive discounts in prop
 
 ## ◽️ Time-Weighted Burn Fee Discount
 
-Introducing Xenify's time-weighted burn fee discount, designed to promote fairness and curb unfair practices such as reward sniping and front-running. The burn fee formula helps the protocol determine the fee required to execute the burn function, and it's calculated using the following equation:
+Introducing Xenify's time-weighted burn fee discount, designed to promote fairness and curb unfair practices such as reward sniping and front-running. The burn fee formula helps the protocol determine the fee required to execute the burn function, and it's calculated using the following formula:
 
 <br>
 
@@ -693,6 +693,49 @@ $$
 <br>
 
 Comparing these scenarios highlights the benefits of burning batches in the first hour versus the final hour. The maximum savings of 75% are only possible if you burn 10,000 batches during the first hour of the daily cycle. This time-weighted mechanism mitigates unfair practices and enhances fairness, rewarding users who execute burns earlier in the cycle with the greatest discounts.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Time-Weighted Gas Coefficient
+
+To initiate the burn function on Xenify, users must have a sufficient wallet balance of native chain tokens that meets or exceeds the amount required for the Protocol Fee and Burn Fee. The Burn Fee (BF) is calculated by the protocol using the following formula:
+
+<br>
+
+$$
+BF = (GC \times VB) \times (1 - (NB \times CS))
+$$
+
+<br>
+
+The calculation includes a time-weighted factor called Gas Coefficient (GC), which determines how much gas is needed to execute the burn function based on the value of batches being burned. As illustrated in the table below, the Gas Coefficient starts at 50% when a cycle begins and increases by approximately 2.174% every hour until it reaches 100% in the final hour of the daily cycle. This means that users will need to contribute more to execute the burn function as the day goes on. However, it also provides an opportunity for users who burn earlier in the cycle to get a discount of up to 75% during the first hour of each cycle. 
+
+| Hour | Gas Coefficient (GC) |
+|------|----------------------|
+| 1    | 50.00%               |
+| 2    | 52.17%               |
+| 3    | 54.35%               |
+| 4    | 56.52%               |
+| 5    | 58.70%               |
+| 6    | 60.87%               |
+| 7    | 63.04%               |
+| 8    | 65.22%               |
+| 9    | 67.39%               |
+| 10   | 69.57%               |
+| 11   | 71.74%               |
+| 12   | 73.91%               |
+| 13   | 76.09%               |
+| 14   | 78.26%               |
+| 15   | 80.43%               |
+| 16   | 82.61%               |
+| 17   | 84.78%               |
+| 18   | 86.96%               |
+| 19   | 89.13%               |
+| 20   | 91.30%               |
+| 21   | 93.48%               |
+| 22   | 95.65%               |
+| 23   | 97.83%               |
+| 24   | 100.00%              |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
