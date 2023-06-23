@@ -622,13 +622,13 @@ $$
 
 <br>
 
-In this formula, BF represents the Burn Fee, which is the fee you will need to pay in the native tokens when using the burn function. The burn fee discount you receive is represented by the term (1 - (NB x CS)). The discount you obtain will be influenced by the Number of Batches (NB) you burn and the applicable Discount Constant (CS).
+In this formula, BF represents the Burn Fee, which is the fee you will need to pay in the native tokens when using the burn function. The burn fee discount you receive is represented by the term (1 - (NB x CS)). The discount you obtain will be influenced by the Number of Batches (NB) you burn and the applicable Discount Coefficient (CS).
 
-The Discount Constant (CS) is a time-weighted factor that varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the constant changes during a 24-hour cycle. It starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
+The Discount Coefficient (CS) is a time-weighted factor that varies depending on when a user decides to burn during a cycle. The table below illustrates how the value of the coefficient changes during a 24-hour cycle. It starts at 0.00005 when the cycle begins and decreases by 0.0000025 every hour until it reaches zero after 20 hours. As a result, users will not benefit from the burn fee discount during the last four hours of the cycle.
 
 <br>
 
-| Hour | Discount Constant (CS) |
+| Hour | Discount Coefficient (CS) |
 |------|----------------|
 | 1    | 0.00005        |
 | 2    | 0.0000475      |
@@ -657,13 +657,13 @@ The Discount Constant (CS) is a time-weighted factor that varies depending on wh
 
 <br>
 
-Let's take a closer look at how the Discount Constant (CS) operates in different scenarios:
+Let's take a closer look at how the Discount Coefficient (CS) operates in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Scenario 1: User burns during Hour-1 of a cycle
 
-  - Let’s say you decide to burn 10,000 batches valued at $5,000 during the first hour of the daily cycle. Taking into account that the Discount Constant (CS) during the first hour of a cycle is 0.00005 and the Gas Coefficient (GC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as $1,250.
+  - Let’s say you decide to burn 10,000 batches valued at $5,000 during the first hour of the daily cycle. Taking into account that the Discount Coefficient (CS) during the first hour of a cycle is 0.00005 and the Gas Coefficient (GC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as $1,250.
 
 <br>
 
@@ -677,7 +677,7 @@ $$
 
 ## ♦️ Scenario 2: User burns during Hour-24 of a cycle
 
-  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle. Taking into account that the Discount Constant (CS) during the last hour of a cycle is 0 and the Gas Coefficient (GC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as $5,000.
+  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle. Taking into account that the Discount Coefficient (CS) during the last hour of a cycle is 0 and the Gas Coefficient (GC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as $5,000.
 
 <br>
 
