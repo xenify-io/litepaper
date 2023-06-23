@@ -51,7 +51,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s innovative tokenomics and ChainZap’s powerful functionality into one powerful package, setting the stage for a seismic shift in the DeFi landscape. With a maximum total supply of only 21,500,000 XNF tokens, Xenify empowers users to earn XNF while simultaneously functioning as a first-layer burner for the XEN token. Our overarching mission? To revolutionise the DeFi space with a seamless, ultra-efficient cross-chain swapping experience that lavishes users with Native Chain Rewards and a token with a finite supply.
+Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s innovative tokenomics and ChainZap’s powerful functionality into one powerful package, setting the stage for a seismic shift in the DeFi landscape. With a maximum total supply of only 21,600,000 XNF tokens, Xenify empowers users to earn XNF while simultaneously functioning as a first-layer burner for the XEN token. Our overarching mission? To revolutionise the DeFi space with a seamless, ultra-efficient cross-chain swapping experience that lavishes users with Native Chain Rewards and a token with a finite supply.
 
 At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 36 supported chains, Xenify has you covered. With access to 19 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
@@ -432,7 +432,7 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 <br>
 
-Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.5 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
+Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -517,7 +517,7 @@ Likewise, Xenify's incentive structure has been carefully crafted to motivate us
 
 XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn vXEN or vUSDy tokens, while the remaining 50% is apportioned between contributions through the platform's 0.5% swap fee and contributions obtained from the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets.
 
-With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.5 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
+With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.6 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
 
 Additionally, XNF stakers will benefit from Xenify's strategic integration of the YSL.IO protocol, with 100% of the yield generated from the rehypothecation of assets deposited in YSL.IO AlphaVaults and MetaVaults being routed to Xenify to reward XNF stakers.
 
