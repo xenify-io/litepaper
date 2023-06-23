@@ -628,7 +628,7 @@ The Discount Constant (CS) is a time-weighted factor that varies depending on wh
 
 <br>
 
-| Hour | Constant Value |
+| Hour | Discount Constant (CS) |
 |------|----------------|
 | 1    | 0.00005        |
 | 2    | 0.0000475      |
@@ -657,7 +657,7 @@ The Discount Constant (CS) is a time-weighted factor that varies depending on wh
 
 <br>
 
-Let's take a closer look at how the Burn Fee Discount operates in different scenarios:
+Let's take a closer look at how the Discount Constant (CS) operates in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
