@@ -599,10 +599,10 @@ $$
 BF = (GC \times VB) \times (1 - (NB \times CS))
 $$
 
-<br>
+**Where:**
 
 - $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
-- $GS$ (Gas Coefficient) - A time-weighted coefficient used to determine the value of gas required for the burn function to execute the transaction.
+- $GC$ (Gas Coefficient) - A time-weighted coefficient used to determine the value of gas required for the burn function to execute the transaction.
 - $VB$ (Value of Batches) - The dollar value of batches being burned by the user.
 - $CS$ (Discount Coefficient) - A time-weighted coefficient used to factor in the discount on the burn fee.
 - $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
@@ -1020,15 +1020,16 @@ In summary, holders of Phoenix Ape NFTs not only enjoy an increased share of the
 <br>
 
 $$
-BF = GS \times (1 - (NB \times CS)) \times NB
+BF = (GC \times VB) \times (1 - (NB \times CS))
 $$
 
 **Where:**
 
-- $BF$ - Burn Fee, the fee charged for the burn function, paid in the native token of the blockchain.
-- $GS$ - Gas Spent, the total amount of gas consumed by the burn function to execute the code.
-- $CS$ - A constant value of 0.00005, used to factor in the discount on the burn fee.
-- $NB$ - Number of Batches, the number of batches the user burns, influencing the discount in burn fees as the number of batches increases.
+- $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
+- $GC$ (Gas Coefficient) - A time-weighted coefficient used to determine the value of gas required for the burn function to execute the transaction.
+- $VB$ (Value of Batches) - The dollar value of batches being burned by the user.
+- $CS$ (Discount Coefficient) - A time-weighted coefficient used to factor in the discount on the burn fee.
+- $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
