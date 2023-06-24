@@ -319,10 +319,9 @@ In addition to the swap and burn fees, XNF stakers will also benefit from Xenify
 
 In summary, Xenify is the ultimate cross-chain aggregator of aggregators that provides users with unparalleled simplicity and efficiency when swapping tokens across 32 leading chains. With a thoughtfully designed ecosystem, Xenify's unique tokenomics model benefits all participants, from platform users to XNF stakers. Xenify truly offers the best of both worlds: effortless cross-chain token swapping and significant earning potential. Whether executing cross-chain token swaps or burning tokens to mint XNF, every action taken on the Xenify platform contributes to a reciprocal environment of rewards and engagement. With Xenify, users can experience the best rates, earn XNF, and be part of a vibrant community - making it the go-to choice for anyone looking to simplify the cross-chain swapping process while maximising their earning potential.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ◽️ Aggregators
-
+## ◽️ Supported Aggregators
 
 | Num | Aggregator        | Aggregator Website                 |
 |-----|-------------------|------------------------------------|
@@ -330,25 +329,30 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 2   | 1inch             | https://1inch.io                   |
 | 3   | Swing             | https://swing.xyz                  |
 | 4   | Rango             | https://rango.exchange             |
-| 5   | Krystal           | https://defi.krystal.app           |
-| 6   | Matcha            | https://matcha.xyz                 |
-| 7   | Firebird          | https://firebird.finance           |
-| 8   | DeSwap            | https://app.debridge.finance       |
-| 9   | Voyager           | https://app.thevoyager.io/swap     |
-| 10  | Paraswap          | https://paraswap.io                |
-| 11  | ThorSwap          | https://app.thorswap.finance/swap  |
-| 12  | ChainHop          | https://chainhop.io                |
-| 13  | Stealth EX        | https://stealthex.io               |
-| 14  | XY Finance        | https://app.xy.finance             |
-| 15  | KyberSwap         | https://kyberswap.com              |
-| 16  | OpenOcean         | https://openocean.finance          |
-| 17  | SimpleSwap        | https://simpleswap.io              |
-| 18  | Squid Router      | https://app.squidrouter.com        |
-| 19  | Rubic Finance     | https://rubic.finance              |
+| 5   | Exolix            | https://exolix.com                 |
+| 6   | Kucoin            | https://www.kucoin.com             |
+| 7   | Krystal           | https://defi.krystal.app           |
+| 8   | Matcha            | https://matcha.xyz                 |
+| 9   | Firebird          | https://firebird.finance           |
+| 10  | DeSwap            | https://app.debridge.finance       |
+| 11  | Binance           | https://www.binance.com            |
+| 12  | Voyager           | https://app.thevoyager.io/swap     |
+| 13  | Paraswap          | https://paraswap.io                |
+| 14  | ThorSwap          | https://app.thorswap.finance/swap  |
+| 15  | ChainHop          | https://chainhop.io                |
+| 16  | Stealth EX        | https://stealthex.io               |
+| 17  | Changelly         | https://changelly.com              |
+| 18  | XY Finance        | https://app.xy.finance             |
+| 19  | KyberSwap         | https://kyberswap.com              |
+| 20  | OpenOcean         | https://openocean.finance          |
+| 21  | SimpleSwap        | https://simpleswap.io              |
+| 22  | Squid Router      | https://app.squidrouter.com        |
+| 23  | ChangeNOW         | https://changenow.io               |
+| 24  | Rubic Finance     | https://rubic.finance              |
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ◽️ Swap Supported
+## ◽️ Supported Chains
 
 | Num | Chain Type        | Chain Name    | Chain Website                         |
 |-----|-------------------|---------------|---------------------------------------|
