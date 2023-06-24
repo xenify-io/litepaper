@@ -871,9 +871,9 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/7d907fba-555d-4e9c-a921-34169de5caeb" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/2ff77186-8f5f-445a-b3a2-e78ee0590cfd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
