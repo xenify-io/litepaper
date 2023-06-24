@@ -32,7 +32,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
-- [Genesis Xenify Airdrop](https://github.com/xenify-io/litepaper#%EF%B8%8F-genesis-xenify-airdrop)
+- [Genesis Airdrop](https://github.com/xenify-io/litepaper#%EF%B8%8F-genesis-xenify-airdrop)
 - [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
@@ -453,7 +453,7 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-Xenify's total supply of XNF tokens is capped at 21.6 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of vXEN and vUSDy, an additional 10,500,000 XNF tokens reserved for swap volume, 100,000 XNF set aside for the vXEN Protocol Fee Manager for XNF liquidity creation, and a separate 500,000 XNF tokens earmarked for the Genesis Xenify Airdrop.
+Xenify's total supply of XNF tokens is capped at 21.6 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of vXEN and vUSDy, an additional 10,500,000 XNF tokens reserved for swap volume, 100,000 XNF set aside for the vXEN Protocol Fee Manager for XNF liquidity creation, and a separate 500,000 XNF tokens earmarked for the Genesis Airdrop.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle.  As demonstrated in the graph below, following the 7th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
 
@@ -930,12 +930,12 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Genesis Xenify Airdrop
+# ◽️ Genesis Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-To kickstart liquidity creation on the genesis chain and encourage user participation, we're conducting an exclusive Genesis Xenify Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
+To kickstart liquidity creation on the genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
 
 This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain.
 
