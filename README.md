@@ -871,10 +871,10 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/2ff77186-8f5f-445a-b3a2-e78ee0590cfd" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" style="visibility:visible;max-width:100%;">
-  </picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/7d907fba-555d-4e9c-a921-34169de5caeb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f82ecbee-add3-4bce-bd22-0ef91fdced24" style="visibility:visible;max-width:100%;">
+    </picture>
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -951,9 +951,9 @@ The 500,000 XNF tokens will be distributed as locked tokens after the first XNF 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/61b81880-2207-4167-a720-4f5f963b2487" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/7d4ce6f4-9955-42eb-b4e9-49b327cbf8f9" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/7d4ce6f4-9955-42eb-b4e9-49b327cbf8f9" style="visibility:visible;max-width:100%;">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/2ff77186-8f5f-445a-b3a2-e78ee0590cfd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/65cc3cf3-139a-4d87-b26e-7685aba4b3e2" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
