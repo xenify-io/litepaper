@@ -939,7 +939,7 @@ To kickstart liquidity creation on the genesis chain and encourage user particip
 
 This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain.
 
-With 75% of the recycled rewards used for liquidity creation, our Proof of Participation approach not only encourages positive user engagement through the recycle function but also helps Xenify build a robust liquidity pool on it’s Genesis chain.
+With 75% of the recycled rewards used for liquidity creation, our Proof of Participation approach not only encourages positive user engagement through the recycle function but also helps Xenify build a robust liquidity pool on its Genesis chain.
 
 Eligible XNF stakers who recycle native chain rewards before the first halving event will receive their share of the airdrop proportional to their individual recycle contributions – whether through manual recycling on Xenify or automatic recycling via the XNF AceVault. Your allocation will be based on the total value you've recycled. Simply put, the more native chain rewards you recycle, the larger your share of the Genesis Xenify Airdrop!
 
