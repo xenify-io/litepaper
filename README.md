@@ -224,7 +224,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Unifying the Chains (vXEN)
 
@@ -271,7 +271,7 @@ Here's how it works: all of the USDC sent will be used to purchase and burn USDy
 
 In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
 
@@ -403,7 +403,7 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
@@ -993,7 +993,7 @@ $$
 
 Let's take a closer look at how the amplified burn works in different scenarios:
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs
 
@@ -1153,7 +1153,7 @@ In summary, Xenify represents a paradigm shift in the world of cross-chain token
 
 We understand that you may have questions about Xenify, its features, and its potential. To help you navigate our platform, we've compiled a list of frequently asked questions that provide clarity and insights into Xenify and its ecosystem.
 
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Does XNF have an initial supply?
 - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol distributes XNF tokens through a daily reward to users that participate in the ecosystem through direct burns of vXEN and vUSDy or swapping of tokens via the Xenify aggregator. This approach ensures a fair distribution model and encourages active user engagement in the protocol.
