@@ -1157,9 +1157,9 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable, No Admin Keys
+## ◽️ Immutable Contracts
 
-- Xenify's smart contracts will be carefully crafted without admin keys or centralised control, safeguarding the protocol's immutability and preserving its decentralised nature.
+- At Xenify, we've designed our smart contracts to be immutable. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
 
 <br>
 
