@@ -348,40 +348,6 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fee Supported
-
-| Num   | Chain Type        | Chain Name    | Chain Website                         |
-|-------|-------------------|---------------|---------------------------------------|
-| 1     | Layer 1           | KCC           | https://www.kcc.io                    |
-| 2     | Layer 1           | Fuse          | https://fuse.io                       |
-| 4     | Layer 1           | Celo          | https://celo.org                      |
-| 5     | Layer 1           | Heco          | https://www.hecochain.com             |
-| 6     | Layer 2           | Boba          | https://boba.network                  |
-| 7     | Layer 1           | Kava          | https://www.kava.io                   |
-| 8     | Layer 1           | Telos         | https://telos.net                     |
-| 9     | Layer 2           | Metis         | https://metis.io                      |
-| 10    | Layer 1           | Canto         | https://canto.io                      |
-| 11    | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 12    | Layer 2           | zkSync        | https://zksync.io                     |
-| 13    | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 14    | Layer 1           | Aurora        | https://aurora.dev                    |
-| 15    | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 16    | Layer 1           | Evmos         | https://evmos.dev                     |
-| 17    | Layer 1           | Fantom        | https://fantom.foundation             |
-| 18    | Layer 2           | Polygon       | https://polygon.technology            |
-| 19    | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 20    | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 21    | Layer 2           | Optimism      | https://optimism.io                   |
-| 22    | Layer 1           | Avalanche     | https://avax.network                  |
-| 23    | Layer 1           | BNB Chain     | https://bnbchain.org                  |
-| 24    | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 25    | Layer 1           | OKEx Chain    | https://okex.com/okexchain            |
-| 26    | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 27    | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 28    | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Swap Supported
 
 | Num | Chain Type        | Chain Name    | Chain Website                         |
@@ -627,6 +593,8 @@ $$
 <br>
 
 The calculation includes a time-weighted factor called Gas Coefficient (GC), which determines how much gas is needed to execute the burn function based on the value of batches being burned. As illustrated in the table below, the Gas Coefficient starts at 50% when a cycle begins and increases by approximately 2.174% every hour until it reaches 100% in the final hour of the daily cycle. This means that users will need to contribute more to execute the burn function as the day goes on. However, it also provides an opportunity for users who burn earlier in the cycle to get a discount of up to 75% during the first hour of each cycle. 
+
+<br>
 
 | Hour | Gas Coefficient (GC) |
 |------|----------------------|
@@ -889,8 +857,6 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
   </picture>
 </p>
 
-<br>
-
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF Liquidity Pools When Deployed
@@ -935,7 +901,7 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 <br>
 
-To kickstart liquidity creation on the genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
+To kickstart liquidity creation on the Genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
 
 This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain.
 
@@ -960,12 +926,12 @@ The 500,000 XNF tokens will be distributed as locked tokens after the first XNF 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Future Xenify Airdrops
+# ◽️ Future Airdrops
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Just like the Genesis Xenify Airdrop, we'll be distributing 500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
+Just like the Genesis Airdrop, we'll be distributing 500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
 
 When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain.
 
@@ -1127,6 +1093,12 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Immutable Contracts
+
+- At Xenify, we've designed our smart contracts to be immutable. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Starts at Zero Supply
 
 - XNF will begin with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach guarantees that there is no possibility for a stealth launch, which often favours a select few. Instead, all participants will have equal opportunities to engage with and benefit from the protocol.
@@ -1154,12 +1126,6 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 ## ◽️ No Initial Coin Offering
 
 - Xenify will forego an Initial Coin Offering (ICO), reinforcing our unwavering commitment to a fair and transparent launch that ensures equal opportunities for all participants.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Immutable Contracts
-
-- At Xenify, we've designed our smart contracts to be immutable. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
 
 <br>
 
