@@ -903,9 +903,7 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 To kickstart liquidity creation on the Genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
 
-This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain.
-
-With 75% of the recycled rewards used for liquidity creation, our Proof of Participation approach not only encourages positive user engagement through the recycle function but also helps Xenify build a robust liquidity pool on its Genesis chain.
+This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain. With 75% of the recycled rewards used for liquidity creation, our Proof of Participation approach not only encourages positive user engagement through the recycle function but also helps Xenify build a robust liquidity pool on its Genesis chain.
 
 Eligible XNF stakers who recycle native chain rewards before the first halving event will receive their share of the airdrop proportional to their individual recycle contributions – whether through manual recycling on Xenify or automatic recycling via the XNF AceVault. Your allocation will be based on the total value you've recycled. Simply put, the more native chain rewards you recycle, the larger your share of the Genesis Xenify Airdrop!
 
@@ -933,9 +931,7 @@ The 500,000 XNF tokens will be distributed as locked tokens after the first XNF 
 
 Just like the Genesis Airdrop, we'll be distributing 500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
 
-When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain.
-
-From that point on, the 500,000 XNF tokens will be equally divided among each active chain where Xenify has been deployed. For example, let's say Xenify is currently operating on two chains, BNB Chain and Polygon. In this scenario, the next 500,000 XNF airdrop will be evenly distributed between the two active chains, with 50% going to eligible XNF stakers who have recycled on BNB Chain and 50% to eligible XNF stakers who have recycled on Polygon.
+When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain. From that point on, the 500,000 XNF tokens will be equally divided among each active chain where Xenify has been deployed. For example, let's say Xenify is currently operating on two chains, BNB Chain and Polygon. In this scenario, the next 500,000 XNF airdrop will be evenly distributed between the two active chains, with 50% going to eligible XNF stakers who have recycled on BNB Chain and 50% to eligible XNF stakers who have recycled on Polygon.
 
 <br>
 
