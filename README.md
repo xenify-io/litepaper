@@ -224,7 +224,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 ## ♦️ Unifying the Chains (vXEN)
 
@@ -271,7 +271,7 @@ Here's how it works: all of the USDC sent will be used to purchase and burn USDy
 
 In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 ## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
 
@@ -327,9 +327,9 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
-| 3   | Swing             | https://swing.xyz                  |
-| 4   | Rango             | https://rango.exchange             |
-| 5   | Exolix            | https://exolix.com                 |
+| 3   | Exolix            | https://exolix.com                 |
+| 4   | Swing             | https://swing.xyz                  |
+| 5   | Rango             | https://rango.exchange             |
 | 6   | Kucoin            | https://www.kucoin.com             |
 | 7   | Krystal           | https://defi.krystal.app           |
 | 8   | Matcha            | https://matcha.xyz                 |
@@ -403,7 +403,7 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 ## ◽️ Token Supply
 
@@ -443,7 +443,7 @@ With Xenify's halving model applying equally to both direct burns and swap volum
 
 - BNB Chain
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 ## ◽️ Potential Expansion Chains
 
@@ -475,6 +475,42 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 - OKX Chain
 - PulseChain
 - Moonbeam
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF Liquidity Pools When Deployed
+
+<br>
+
+| Chain Name         | DEX Name                                              | Liquidity Pairing   |
+| ------------------ | ----------------------------------------------------- | ------------------- |
+| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | XNF-KCS             |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | XNF-CELO            |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | XNF-FUSE            |
+| Boba               | [SushiSwap](https://www.sushi.com)                    | XNF-BOBA            |
+| Heco               | [MDEX](https://mdex.com)                              | XNF-HT              |
+| Telos              | [ApeSwap](https://apeswap.finance)                    | XNF-TELOS           |
+| Velas              | [Wavelength](https://app.wavelength.exchange)         | XNF-VLX             |
+| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | XNF-METIS           |
+| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | XNF-CANTO           |
+| Klaytn             | [KlaySwap](https://klayswap.com)                      | XNF-KLAY            |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | XNF-WEVMOS          |
+| Aurora             | [Polaris Finance](https://polarisfinance.io)          | XNF-ETH             |
+| Gnosis             | [Balancer V2](https://balancer.finance)               | XNF-GNO             |
+| zkSync             | [SyncSwap](https://syncswap.xyz)                      | XNF-ETH             |
+| Cronos             | [VVS Finance](https://vvs.finance)                    | XNF-CRO             |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | XNF-FTM             |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | XNF-MATIC           |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | XNF-AVAX            |
+| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | XNF-MOVR            |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | XNF-OKT             |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | XNF-WGLMR           |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | XNF-BNB             |
+| PulseChain         | [PulseX](https://pulsex.com)                          | XNF-PLS             |
+| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | XNF-MATIC           |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -861,44 +897,6 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
   </picture>
 </p>
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ XNF Liquidity Pools When Deployed
-
-<br>
-
-| Chain Name         | DEX Name                                              | Liquidity Pairing   |
-| ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | XNF-KCS             |
-| Celo               | [Uniswap V3](https://app.uniswap.org)                 | XNF-CELO            |
-| Fuse               | [SushiSwap](https://www.sushi.com)                    | XNF-FUSE            |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | XNF-BOBA            |
-| Heco               | [MDEX](https://mdex.com)                              | XNF-HT              |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | XNF-TELOS           |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | XNF-VLX             |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | XNF-METIS           |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | XNF-CANTO           |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | XNF-KLAY            |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | XNF-WEVMOS          |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | XNF-ETH             |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | XNF-GNO             |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | XNF-ETH             |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | XNF-CRO             |
-| Fantom             | [SpookySwap](https://spooky.fi)                       | XNF-FTM             |
-| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | XNF-MATIC           |
-| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
-| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
-| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | XNF-AVAX            |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | XNF-MOVR            |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | XNF-OKT             |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | XNF-WGLMR           |
-| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | XNF-BNB             |
-| PulseChain         | [PulseX](https://pulsex.com)                          | XNF-PLS             |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | XNF-MATIC           |
-
-<br>
-
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Genesis Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -995,7 +993,7 @@ $$
 
 Let's take a closer look at how the amplified burn works in different scenarios:
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
 ## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs
 
