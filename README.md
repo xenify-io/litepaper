@@ -228,7 +228,7 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 ## ♦️ Unifying the Chains (vXEN)
 
-Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN ecosystem and supporting its deflationary nature. This innovative approach has been made possible through the integration of Axelar and LayerZero, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
 Thanks to vXEN, you don't need to have native XEN tokens on the Ethereum network to take part in Xenify's burn process and get your hands on XNF. Instead, Xenify makes it easy for users in the broader XEN community to acquire XNF by simply burning their native XEN tokens from various EVM-compatible networks, right from their wallets.
 
