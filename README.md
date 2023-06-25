@@ -232,7 +232,7 @@ Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burn
 
 Thanks to vXEN, you don't need to have native XEN tokens on the Ethereum network to take part in Xenify's burn process and get your hands on XNF. Instead, Xenify makes it easy for users in the broader XEN community to acquire XNF by simply burning their native XEN tokens from various EVM-compatible networks, right from their wallets.
 
-This innovative approach stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN holders on multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, positioning itself as a strategic layer 2 burner of XEN.
+This innovative approach stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN holders on multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, positioning itself as a strategic layer 1 burner of XEN.
 
 vXEN can be thought of as the virtual counterpart of XEN tokens, designed specifically to simplify the process of converting various versions of XEN tokens into XNF tokens. It's important to note that you'll need XEN tokens or a XEN token variant supported by Xenify, like bXEN on the BNB Chain, to obtain vXEN. Once you have vXEN, you can burn it to join Xenify's daily distribution of XNF tokens.
 
@@ -277,7 +277,7 @@ In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price s
 
 Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens. 
 
-This innovative approach to token burning has been made possible through the integration of Alexar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+This innovative approach to token burning has been made possible through the integration of Axelar and LayerZero, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
 
 Similar to vXEN, users are not obligated to possess the native XEN token on the Ethereum network in order to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users within the YSL.IO ecosystem to effortlessly burn their YSL.IO native tokens directly from their wallets and acquire XNF.
 
