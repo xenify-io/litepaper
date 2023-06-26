@@ -425,21 +425,19 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 With a total supply capped at 21.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem: 
 
-  - 21,000,000 XNF reserved for daily reward distribution: These XNF tokens incentivise users to partake in the daily burn cycle (10,500,000 XNF reserved for direct burns of vXEN or vUSDy) and execute swaps on supported chains (10,500,000 XNF reserved for swap volume), stimulating ongoing engagement and involvement.
+  - 21,000,000 XNF reserved for the daily reward distribution: Users can earn their share of the 21 million XNF tokens by participating in various activities that bolster the ongoing development of the protocol. With 10,500,000 XNF distributed as rewards for direct burns of vXEN and vUSDy, and another 10,500,000 XNF reserved as rewards for the YSL.IO protocol and contributions obtained from swap fees, there's ample opportunity to get involved and benefit.
 
   - 100,000 XNF specifically allocated for XNF liquidity creation: This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community. To facilitate this, we have set aside 50,000 XNF for the vXEN Protocol Fee Manager and an additional 50,000 XNF for the vUSDy Protocol Fee Manager.
 
   - 500,000 XNF assigned as an exclusive airdrop for recycling participants: To encourage engagement and positive user actions, each chain will have an exclusive airdrop of 500,000 XNF for XNF stakers that recycle their native chain rewards. The airdrop will be distributed as locked tokens, gradually unlocking over 730 days. For the Genesis chain (BNB Chain), the airdrop will take place after the first halving, and for all future chains, the airdrop occurs on the first day of launch.
 
-Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
-
-With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees a fair and balanced reward pool distribution. Active users can either burn tokens to acquire XNF or capitalise on Xenify on supported chains to execute swaps, claiming their share of the daily reward pool. Moreover, with the airdrop being exclusively reserved for recycling participants, this innovative strategy has been thoughtfully  engineered to ensure an equitable supply distribution centred around users' active participation, highlighting Xenify's unwavering commitment to cultivating an equitable and engaged community.
+Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, Xenify's daily reward distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centered around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/c03ca417-e065-4b51-8281-d4ce57e7972e" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/601c70c6-65af-4165-bd6f-e50b26016506" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/601c70c6-65af-4165-bd6f-e50b26016506" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/2de3766c-63e6-48ef-9b0c-95783dc16abb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/c374fd71-1007-469f-b5de-381488875de4" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/c374fd71-1007-469f-b5de-381488875de4" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
