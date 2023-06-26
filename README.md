@@ -33,6 +33,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
 - [Genesis Airdrop](https://github.com/xenify-io/litepaper#%EF%B8%8F-genesis-airdrop)
+- [XNF AceVault](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-acevault)
 - [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
@@ -962,7 +963,7 @@ Xenify has teamed up with YSL.IO to offer XNF holders a convenient way to automa
 
   2. Increased burn fee discount: The XNF AceVault recycles native chain rewards for all participants simultaneously. More batches burned result in a greater burn fee discount, potentially saving users up to 75% if the AceVault's balance of native chain rewards leads to 10,000 or more batches being burned.
 
-  3. Enhanced efficiency: The protocol mints vXEN equal to the value of your rewards and deducts the burn fee from your reward balance. This allows you to burn vXEN without providing extra native chain rewards to cover the mandatory protocol fee or burn fee, typically required during the default burn process.
+  3. Enhanced efficiency: As the XNF AceVault utilises the recycling contract, the protocol mints vXEN equal to the value of your rewards and deducts the burn fee from your reward balance. This allows you to burn vXEN without providing extra native chain rewards to cover the mandatory protocol fee or burn fee, typically required during the default burn process.
 
   4. Exclusive access to claim fee distribution: By utilising the XNF AceVault to recycle your rewards, you'll gain exclusive access to the daily distribution of native tokens generated from the 25% claim fee.
 
