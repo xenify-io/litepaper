@@ -423,11 +423,17 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-Xenify's total supply of XNF tokens is capped at 21.6 million, and strategically divided into three core segments. The allocation comprises 10,500,000 XNF tokens designated for direct burns of vXEN and vUSDy, an additional 10,500,000 XNF tokens reserved for swap volume, 100,000 XNF set aside for the vXEN Protocol Fee Manager for XNF liquidity creation, and a separate 500,000 XNF tokens earmarked for the Genesis Airdrop.
+With a total supply capped at 21.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem: 
 
-Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle.  As demonstrated in the graph below, following the 7th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
+  - 21,000,000 XNF reserved for daily reward distribution: These XNF tokens incentivise users to partake in the daily burn cycle (10,500,000 XNF reserved for direct burns of vXEN or vUSDy) and execute swaps on supported chains (10,500,000 XNF reserved for swap volume), stimulating ongoing engagement and involvement.
 
-With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees a fair distribution of the daily reward pool among active users. This can be in the form of burning tokens to acquire XNF or by utilising Xenify on supported chains to execute swaps. This distinctive strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around users' active participation, underscoring Xenify's steadfast dedication to fostering an equitable and engaged community.
+  - 100,000 XNF specifically allocated for XNF liquidity creation: This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community. To facilitate this, we have set aside 50,000 XNF for the vXEN Protocol Fee Manager and an additional 50,000 XNF for the vUSDy Protocol Fee Manager.
+
+  - 500,000 XNF assigned as an exclusive airdrop for recycling participants: To encourage engagement and positive user actions, each chain will have an exclusive airdrop of 500,000 XNF for XNF stakers that recycle their native chain rewards. The airdrop will be distributed as locked tokens, gradually unlocking over 730 days. For the Genesis chain (BNB Chain), the airdrop will take place after the first halving, and for all future chains, the airdrop occurs on the first day of launch.
+
+Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, Xenify's daily distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112.
+
+With Xenify's halving model applying equally to both direct burns and swap volume distributions, it guarantees a fair and balanced reward pool distribution. Active users can either burn tokens to acquire XNF or capitalise on Xenify on supported chains to execute swaps, claiming their share of the daily reward pool. Moreover, with the airdrop being exclusively reserved for recycling participants, this innovative strategy has been thoughtfully  engineered to ensure an equitable supply distribution centred around users' active participation, highlighting Xenify's unwavering commitment to cultivating an equitable and engaged community.
 
 <p align="center" dir="auto">
   <picture>
