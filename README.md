@@ -947,6 +947,30 @@ When Xenify launches on a second chain (following its Genesis launch on BNB Chai
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ XNF Auto-Compounding Vault
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify has teamed up with YSL.IO to offer XNF holders a convenient way to automatically compound their daily native chain rewards into XNF through the XNF AceVault on YSL.IO. To take advantage of this exclusive vault, you'll need to own or rent a [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). Once you've deposited your XNF tokens, your staked balance will increase daily based on vXEN burned through your share of the recycled native chain rewards. 
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ The XNF AceVault offers participants five key benefits:
+
+  1. Effortless compounding: XNF stakers can seamlessly grow their XNF stake without the need to manually recycle their rewards each cycle.
+
+  2. Increased burn fee discount: The XNF AceVault recycles native chain rewards for all participants simultaneously. More batches burned result in a greater burn fee discount, potentially saving users up to 75% if the AceVault's balance of native chain rewards leads to 10,000 or more batches being burned.
+
+  3. Enhanced efficiency: The protocol mints vXEN equal to the value of your rewards and deducts the burn fee from your reward balance. This allows you to burn vXEN without providing extra native chain rewards to cover the mandatory protocol fee or burn fee, typically required during the default burn process.
+
+  4. Exclusive access to claim fee distribution: By utilising the XNF AceVault to recycle your rewards, you'll gain exclusive access to the daily distribution of native tokens generated from the 25% claim fee.
+
+  5. Inclusion in exclusive XNF airdrops: Participants who utilise the XNF AceVault to  recycle their rewards will be part of an exclusive airdrop of XNF on each future chain that Xenify launches. Your share of future XNF airdrops depends on the total value you have recycled —the more native chain rewards you recycle, the larger your share.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Amplify Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
