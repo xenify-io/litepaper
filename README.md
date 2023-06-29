@@ -51,7 +51,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s innovative tokenomics and ChainZap’s powerful functionality into one powerful package, setting the stage for a seismic shift in the DeFi landscape. With a maximum total supply of only 21,600,000 XNF tokens, Xenify empowers users to earn XNF while simultaneously functioning as a first-layer burner for the XEN token. Our overarching mission? To revolutionise the DeFi space with a seamless, ultra-efficient cross-chain swapping experience that lavishes users with Native Chain Rewards and a token with a finite supply.
+Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s innovative tokenomics and ChainZap’s powerful functionality into one powerful package, setting the stage for a seismic shift in the DeFi landscape. With a maximum total supply of only 22,600,000 XNF tokens, Xenify empowers users to earn XNF while simultaneously functioning as a first-layer burner for the XEN token. Our overarching mission? To revolutionise the DeFi space with a seamless, ultra-efficient cross-chain swapping experience that lavishes users with Native Chain Rewards and a token with a finite supply.
 
 At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 36 supported chains, Xenify has you covered. With access to 24 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
@@ -402,13 +402,13 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 
 <br>
 
-Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 21.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
+Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 22.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 21.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
+XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 22.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. 
 
 With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning vXEN or vUSDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
@@ -424,21 +424,21 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 ## ◽️ Supply Distribution
 
-With a total supply capped at 21.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem: 
+With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem: 
 
   - 21,000,000 XNF reserved for the daily reward distribution: Users can earn their share of the 21 million XNF tokens by participating in various activities that bolster the ongoing development of the protocol. With 10,500,000 XNF distributed as rewards for direct burns of vXEN and vUSDy, and another 10,500,000 XNF reserved as rewards for the YSL.IO protocol and contributions obtained from swap fees, there's ample opportunity to get involved and benefit.
 
   - 100,000 XNF specifically allocated for XNF liquidity creation: This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community. To facilitate this, we have set aside 50,000 XNF for the vXEN Protocol Fee Manager and an additional 50,000 XNF for the vUSDy Protocol Fee Manager.
 
-  - 500,000 XNF assigned as an exclusive airdrop for recycling participants: To encourage engagement and positive user actions, each chain will have an exclusive airdrop of 500,000 XNF for XNF stakers that recycle their native chain rewards. The airdrop will be distributed as locked tokens, gradually unlocking over 730 days. For the Genesis chain (BNB Chain), the airdrop will take place after the first halving, and for all future chains, the airdrop occurs on the first day of launch.
+  - 1,500,000 XNF assigned as an exclusive airdrop for recycling participants: To encourage engagement and positive user actions, each chain will have an exclusive airdrop of 1,500,000 XNF for XNF stakers that recycle their native chain rewards. The airdrop will be distributed as locked tokens, gradually unlocking over 730 days. For the Genesis chain (BNB Chain), the airdrop will take place after the first halving, and for all future chains, the airdrop occurs on the first day of launch.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, Xenify's daily reward distribution rate stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centered around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/2de3766c-63e6-48ef-9b0c-95783dc16abb" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/c374fd71-1007-469f-b5de-381488875de4" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/c374fd71-1007-469f-b5de-381488875de4" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -527,7 +527,7 @@ Likewise, Xenify's incentive structure has been carefully crafted to motivate us
 
 XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This initial allocation is divided into two categories: 50% is designated for users who burn vXEN or vUSDy tokens, while the remaining 50% is apportioned between contributions through the platform's 0.5% swap fee and contributions obtained from the yield generated from the rehypothecation of YSL.IO AlphaVault and MetaVault assets.
 
-With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 21.6 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
+With the halving model in place, the daily reward pool diminishes over time and ultimately leads to the complete distribution of the 22.6 million XNF tokens at month 2112. Users that stake XNF tokens will accumulate native token rewards that are generated on the Xenify platform from swap fees and burn fees (e.g., ETH, BNB, MATIC).
 
 Additionally, XNF stakers will benefit from Xenify's strategic integration of the YSL.IO protocol, with 100% of the yield generated from the rehypothecation of assets deposited in YSL.IO AlphaVaults and MetaVaults being routed to Xenify to reward XNF stakers.
 
@@ -853,7 +853,7 @@ What makes this process even more efficient is the protocol's ability to mint vX
 
 By utilising the recycle function, you'll also gain exclusive access to daily distribution of native tokens generated from the 25% claim fee - the more native chain rewards you recycle during a cycle, the larger your share for that cycle. For instance, if $100,000 worth of native chain rewards were claimed during a cycle and you're the sole XNF staker recycling during that cycle, you'd receive the entire $25,000 worth of native chain tokens generated from the claim fee when the cycle concludes.
 
-Moreover, participants who recycle their rewards to bolster the growth of Xenify and the XEN ecosystem will be eligible for an exclusive XNF airdrop on each subsequent chain launched by Xenify. This special airdrop, consisting of 500,000 XNF per chain, is reserved for XNF stakers who have recycled their native chain rewards as a gesture of gratitude for their active involvement with the protocol. Put simply, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
+Moreover, participants who recycle their rewards to bolster the growth of Xenify and the XEN ecosystem will be eligible for an exclusive XNF airdrop on each subsequent chain launched by Xenify. This special airdrop, consisting of 1,500,000 XNF per chain, is reserved for XNF stakers who have recycled their native chain rewards as a gesture of gratitude for their active involvement with the protocol. Put simply, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
 
 To take full advantage of this recycling feature, ensure you have an adequate balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will be inaccessible to you.
 
@@ -913,13 +913,13 @@ This will encompass both uncollected and staked tokens, ensuring fairness and in
 
 <br>
 
-To kickstart liquidity creation on the Genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
+To kickstart liquidity creation on the Genesis chain and encourage user participation, we're conducting an exclusive Genesis Airdrop event, featuring 1,500,000 XNF tokens on the BNB Chain where the XNF contract will be first deployed! 
 
 This one-of-a-kind airdrop is exclusively available to those who recycle their native chain rewards before the first XNF halving event, which occurs 3 months after the XNF deployment on the BNB Chain. With 75% of the recycled rewards used for liquidity creation, our Proof of Participation approach not only encourages positive user engagement through the recycle function but also helps Xenify build a robust liquidity pool on its Genesis chain.
 
 Eligible XNF stakers who recycle native chain rewards before the first halving event will receive their share of the airdrop proportional to their individual recycle contributions – whether through manual recycling on Xenify or automatic recycling via the XNF AceVault. Your allocation will be based on the total value you've recycled. Simply put, the more native chain rewards you recycle, the larger your share of the Genesis Airdrop!
 
-The 500,000 XNF tokens will be distributed as locked tokens after the first XNF halving event, gradually unlocking with each new block over a period of 730 days. Keep in mind that locked XNF tokens are not eligible for staking. For example, if you receive 100 locked XNF tokens from the airdrop, you can expect approximately 0.13699 XNF tokens to be unlocked in your wallet each day (100 XNF tokens / 730 days = 0.13699 XNF tokens per day).
+The 1,500,000 XNF tokens will be distributed as locked tokens after the first XNF halving event, gradually unlocking with each new block over a period of 730 days. Keep in mind that locked XNF tokens are not eligible for staking. For example, if you receive 100 locked XNF tokens from the airdrop, you can expect approximately 0.13699 XNF tokens to be unlocked in your wallet each day (100 XNF tokens / 730 days = 0.13699 XNF tokens per day).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -941,9 +941,9 @@ The 500,000 XNF tokens will be distributed as locked tokens after the first XNF 
 
 <br>
 
-Just like the Genesis Airdrop, we'll be distributing 500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
+Just like the Genesis Airdrop, we'll be distributing 1,500,000 XNF tokens as an airdrop for each chain that Xenify deploys. This exclusive airdrop is reserved for eligible XNF stakers who have recycled their native chain rewards, as a token of appreciation for their active engagement with the protocol. The portion of the airdrop an XNF staker receives will depend on the total value they have recycled. In short, the more native chain rewards you recycle, the larger your share of future XNF airdrops.
 
-When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain. From that point on, the 500,000 XNF tokens will be equally divided among each active chain where Xenify has been deployed. For example, let's say Xenify is currently operating on two chains, BNB Chain and Polygon. In this scenario, the next 500,000 XNF airdrop will be evenly distributed between the two active chains, with 50% going to eligible XNF stakers who have recycled on BNB Chain and 50% to eligible XNF stakers who have recycled on Polygon.
+When Xenify launches on a second chain (following its Genesis launch on BNB Chain), the 1,500,000 XNF tokens will be distributed among eligible XNF stakers who have recycled on BNB Chain. From that point on, the 1,500,000 XNF tokens will be equally divided among each active chain where Xenify has been deployed. For example, let's say Xenify is currently operating on two chains, BNB Chain and Polygon. In this scenario, the next 1,500,000 XNF airdrop will be evenly distributed between the two active chains, with 50% going to eligible XNF stakers who have recycled on BNB Chain and 50% to eligible XNF stakers who have recycled on Polygon.
 
 <br>
 
