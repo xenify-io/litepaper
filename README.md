@@ -347,9 +347,9 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 19  | KyberSwap         | https://kyberswap.com              |
 | 20  | OpenOcean         | https://openocean.finance          |
 | 21  | SimpleSwap        | https://simpleswap.io              |
-| 22  | Squid Router      | https://app.squidrouter.com        |
-| 23  | ChangeNOW         | https://changenow.io               |
-| 24  | CoinCraddle       | https://coincraddle.com            | 
+| 22  | CoinCraddle       | https://coincraddle.com            | 
+| 23  | Squid Router      | https://app.squidrouter.com        |
+| 24  | ChangeNOW         | https://changenow.io               |
 | 25  | Rubic Finance     | https://rubic.finance              |
 | 26  | Chainge Finance   | https://dapp.chainge.finance       |
 
