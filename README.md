@@ -53,7 +53,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 Welcome to Xenify! Our groundbreaking protocol synergistically blends DBXen’s innovative tokenomics and ChainZap’s powerful functionality into one powerful package, setting the stage for a seismic shift in the DeFi landscape. With a maximum total supply of only 22,600,000 XNF tokens, Xenify empowers users to earn XNF while simultaneously functioning as a first-layer burner for the XEN token. Our overarching mission? To revolutionise the DeFi space with a seamless, ultra-efficient cross-chain swapping experience that lavishes users with Native Chain Rewards and a token with a finite supply.
 
-At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 36 supported chains, Xenify has you covered. With access to 24 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
+At the core of Xenify's bold vision is ChainZap, a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 36 supported chains, Xenify has you covered. With access to 25 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
 With Xenify's built-in swap and burn fee mechanisms, a reciprocal environment that benefits all participants is established. Wherein XNF stakers are generously rewarded with an impressive 100% of swap fees and burn fees as Native Chain Rewards across all supported chains. That's right, stakers earn from every swap and burn!
 
@@ -350,6 +350,7 @@ In summary, Xenify is the ultimate cross-chain aggregator of aggregators that pr
 | 22  | Squid Router      | https://app.squidrouter.com        |
 | 23  | ChangeNOW         | https://changenow.io               |
 | 24  | Rubic Finance     | https://rubic.finance              |
+| 25  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
@@ -689,31 +690,31 @@ The Discount Coefficient (CS) is a time-weighted factor that varies depending on
 <br>
 
 | Hour | Discount Coefficient (CS) |
-|------|----------------|
-| 1    | 0.00005        |
-| 2    | 0.0000475      |
-| 3    | 0.000045       |
-| 4    | 0.0000425      |
-| 5    | 0.00004        |
-| 6    | 0.0000375      |
-| 7    | 0.000035       |
-| 8    | 0.0000325      |
-| 9    | 0.00003        |
-| 10   | 0.0000275      |
-| 11   | 0.000025       |
-| 12   | 0.0000225      |
-| 13   | 0.00002        |
-| 14   | 0.0000175      |
-| 15   | 0.000015       |
-| 16   | 0.0000125      |
-| 17   | 0.00001        |
-| 18   | 0.0000075      |
-| 19   | 0.000005       |
-| 20   | 0.0000025      |
-| 21   | 0              |
-| 22   | 0              |
-| 23   | 0              |
-| 24   | 0              |              
+|------|---------------------------|
+| 1    | 0.00005                   |
+| 2    | 0.0000475                 |
+| 3    | 0.000045                  |
+| 4    | 0.0000425                 |
+| 5    | 0.00004                   |
+| 6    | 0.0000375                 |
+| 7    | 0.000035                  |
+| 8    | 0.0000325                 |
+| 9    | 0.00003                   |
+| 10   | 0.0000275                 |
+| 11   | 0.000025                  |
+| 12   | 0.0000225                 |
+| 13   | 0.00002                   |
+| 14   | 0.0000175                 |
+| 15   | 0.000015                  |
+| 16   | 0.0000125                 |
+| 17   | 0.00001                   |
+| 18   | 0.0000075                 |
+| 19   | 0.000005                  |
+| 20   | 0.0000025                 |
+| 21   | 0                         |
+| 22   | 0                         |
+| 23   | 0                         |
+| 24   | 0                         |              
 
 <br>
 
@@ -1169,7 +1170,7 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 Xenify, a cross-chain aggregator of aggregators, has been meticulously built from the ground up to transform the way users engage in token swaps. Its primary focus is to deliver a seamless user experience, reward active community members, and establish a fair and sustainable token distribution model. By harnessing innovative tokenomics, Xenify aspires to establish a decentralised, community-driven platform that values and encourages users' active participation within the ecosystem.
 
-What sets Xenify apart is its seamless connection to 24 different aggregators, enabling effortless single-click swaps at unbeatable rates across 36 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
+What sets Xenify apart is its seamless connection to 25 different aggregators, enabling effortless single-click swaps at unbeatable rates across 36 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
 
 With Xenify, users are granted an exclusive opportunity to earn XNF tokens on every swap, complemented by an innovative staking model that enables users to earn native chain tokens such as ETH, BNB, and MATIC on a daily basis. This unique incentive model undeniably positions Xenify as the top choice for those seeking to simplify the cross-chain swapping process while maximising their earning potential.
 
