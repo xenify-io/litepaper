@@ -654,7 +654,7 @@ As illustrated in the table below, the Burn Fee Coefficient starts at 50% when a
 
 <br>
 
-| Hour | Gas Coefficient (GC) |
+| Hour | Burn Fee Coefficient (FC) |
 |------|----------------------|
 | 1    | 50.00%               |
 | 2    | 52.17%               |
@@ -691,7 +691,7 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 <br>
 
-| Hour | Discount Coefficient (CS) |
+| Hour | Batch Coefficient (BC) |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
