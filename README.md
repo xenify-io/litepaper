@@ -1136,12 +1136,6 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable Contracts
-
-- At Xenify, we've designed our smart contracts to be immutable. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ Starts at Zero Supply
 
 - XNF will begin with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach guarantees that there is no possibility for a stealth launch, which often favours a select few. Instead, all participants will have equal opportunities to engage with and benefit from the protocol.
