@@ -947,9 +947,9 @@ With this unique reward structure, Xenify is able to strengthen the demand and v
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/0619f0c1-8fb8-4b4e-b969-324f9502502c" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/9492356b-f2dd-4c88-b531-a11a01302d92" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/9492356b-f2dd-4c88-b531-a11a01302d92" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/b48617e2-acb2-42d3-8176-6b03cd2d9702" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/e0bb16b5-c424-4ddd-b3d4-00e42470e32c" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/e0bb16b5-c424-4ddd-b3d4-00e42470e32c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
