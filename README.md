@@ -537,7 +537,7 @@ The minting process for XNF has been meticulously designed to reward users who a
 
 Likewise, Xenify's incentive structure has been carefully crafted to motivate users to actively participate in the protocol's growth. Users who engage more with the platform receive a proportionate share of the newly minted XNF tokens, fuelling further involvement.
 
-XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This daily mint allocation is divided into four categories: 50% is distributed to users who burn vXEN or vUSDy tokens, 25% is distributed to users that contributed through the platform's swap fee, 15% reserved as claimable XNF for the YSL.IO AlphaVaults and the remaining 10% reserved as claimable XNF for the YSL.IO AceVaults. With the halving model in place, the daily mint allocation diminishes over time and ultimately leads to the complete distribution of the 22.6 million XNF tokens in month 2112. 
+XNF tokens are distributed in one-day cycles, with the reward pool commencing at 20,000 XNF tokens. This daily mint allocation is divided into four categories on the Genesis Chain: 50% is distributed to users who burn vXEN or vUSDy tokens, 25% is distributed to users that contributed through the platform's swap fee, 15% reserved as claimable XNF for the YSL.IO AlphaVaults and the remaining 10% reserved as claimable XNF for the YSL.IO AceVaults. For all other chains, the daily mint allocation is divided into two categories: 50% is distributed to users who burn vXEN or vUSDy tokens, and 50% is distributed to users that contributed through the platform's swap fee. With the halving model in place, the daily mint allocation diminishes over time and ultimately leads to the complete distribution of the 22.6 million XNF tokens in month 2112. 
 
 Staking XNF tokens allows users to accumulate rewards in the form of native tokens specific to the chain they are on, such as MATIC on Polygon. These rewards are generated through a variety of mechanisms that have been integrated with the protocol, including swap fees, burn fees, and Xenify's strategic integration of the YSL.IO protocol. 
 
@@ -791,7 +791,7 @@ For example, let's say you have 100 USDy tokens and you want to convert them int
 
 ## ◽️ XNF Cycle Distribution
 
-Xenify adopts a balanced approach to the daily distribution of XNF, focusing on three components: burn fees, swap fees, and the YSL.IO protocol. Each element is granted an allocation from the daily mint, with 50% distributed to those that participate in burns of vXEN or vUSDy, 25% distributed among those that perform swaps, and the remaining allocation of XNF will be set aside as claimable XNF for the YSL.IO AlphaVaults (15%) and AceVaults (10%). For instance, if the daily XNF mint is 20,000 XNF tokens, Xenify will divide the allocation four ways, distributing 10,000 XNF among burn fee contributors, 5,000 XNF among swap fee contributors, and set aside 3,000 XNF for YSL.IO AlphaVaults, and 2,000 XNF for YSL.IO AceVaults.
+Xenify adopts a balanced approach to the daily distribution of XNF, focusing on three components for the Genesis Chain: burn fees, swap fees, and the YSL.IO protocol. Each element is granted an allocation from the daily mint, with 50% distributed to those that participate in burns of vXEN or vUSDy, 25% distributed among those that perform swaps, and the remaining allocation of XNF will be set aside as claimable XNF for the YSL.IO AlphaVaults (15%) and AceVaults (10%). For instance, if the daily XNF mint is 20,000 XNF tokens, Xenify will divide the allocation four ways, distributing 10,000 XNF among burn fee contributors, 5,000 XNF among swap fee contributors, and set aside 3,000 XNF for YSL.IO AlphaVaults, and 2,000 XNF for YSL.IO AceVaults. For all other chains, the daily distribution of XNF will be split 50:50, with 50% distributed to those that participate in burns of vXEN or vUSDy, and 50% distributed among those that perform swaps.
 
 To ascertain each user's share of the daily mint allocated to burn and swap contributions, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made by a user during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
 
@@ -821,7 +821,7 @@ The calculation of the swap contribution follows a similar logic, whereby the pr
 <br>
 
 $$
-SC = (TCD \div 4) \times (USF \div TSF)
+SC = (TCD \times SP) \times (USF \div TSF)
 $$
 
 <br>
@@ -829,13 +829,14 @@ $$
 **Where:**
 
 - *SC* - represents the swap contribution of the user.
+- *SP* - is the percentage of the XNF daily mint allocated to swaps.
 - *TCD* - is the total amount of XNF tokens distributed in a cycle.
 - *USF* - is the swap fees paid by a specific user in a cycle.
 - *TSF* - is the total swap fees paid in a cycle by all users.
 
 <br>
 
-Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TCD) by 4, as 25% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
+Here’s how it works: For the Genesis Chain the protocol calculates the user's swap contribution (SC) by first multiplying the total XNF tokens distributed (TCD) by the percentage of XNF daily mint allocated to participants that perform swaps on supported chains (this will be 25% for the Genesis Chain and 50% for all other chains). It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -853,7 +854,7 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ## ◽️ Staking XNF Tokens
 
-Every cycle, Xenify's protocol distributes newly minted XNF tokens to users. The distribution occurs at the end of each day, and it follows a specific allocation structure. Users who perform direct burns of vXEN and vUSDy receive 50% of the daily minted XNF, while those who engage in swaps on supported EVM chains receive 25% of the daily minted XNF. Additionally, a portion of the daily minted XNF is designated as claimable XNF for the YSL.IO protocol. The AceVaults receive 10% of the daily XNF mint, while the AlphaVaults are allocated 15%.
+Every cycle, Xenify's protocol distributes newly minted XNF tokens to users. The distribution occurs at the end of each day, and it follows a specific allocation structure. Users who perform direct burns of vXEN and vUSDy receive 50% of the daily minted XNF, while those who engage in swaps on supported EVM chains receive 25% of the daily minted XNF on the Genesis Chain and 50% on all other chains. Additionally, a portion of the daily minted XNF on the Genesis Chain is designated as claimable XNF for the YSL.IO protocol, whereby AceVaults receive 10% of the daily XNF mint, while the AlphaVaults are allocated 15%.
 
 Only staked XNF tokens contribute to a user's accumulation of native chain rewards, with each user's share determined by their veXNF position and its associated earning power. Staked tokens begin to accumulate native chain rewards within the same cycle they are staked. These native chain rewards are collected into a reward pool during each cycle, and subsequently distributed by the protocol among XNF stakers at the end of the daily cycle.
 
