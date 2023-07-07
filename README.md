@@ -32,7 +32,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
-- [XNF Airdrop](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
+- [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
 - [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
