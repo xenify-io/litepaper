@@ -130,19 +130,19 @@ Built on a foundation of fairness, simplicity, transparency, user empowerment, a
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️  Xenify Principles
+## ◽️  Xenify Principles
 
 Xenify sets itself apart in the DeFi space with its unwavering commitment to fairness, simplicity, transparency, user empowerment, and interoperability. These guiding principles form the bedrock of Xenify's development and growth, driving us to revolutionise the DeFi experience and create a more inclusive, accessible, and interconnected ecosystem. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️  Advanced Cross-chain Aggregator Capabilities
+## ◽️  Advanced Cross-chain Aggregator Capabilities
 
 With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 26 aggregators across 40 blockchains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️  Emphasis on Equity and Long-term Investment
+## ◽️  Emphasis on Equity and Long-term Investment
 
 Xenify places great emphasis on equity and long-term investments. We believe in empowering our users to reap the rewards of our protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to become a part of our success and stand to potentially generate passive income through staking XNF. To accomplish this, we've developed a range of robust features designed to maximise your benefits as a Xenify user:
 
@@ -170,7 +170,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Token Burning
 
--Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn cycle. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process. 
+- Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn cycle. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process. 
 
   - Consequently, users can engage in the daily burn cycle, regardless of the XEN token variant or YSL.IO native token they hold. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
