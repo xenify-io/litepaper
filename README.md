@@ -170,9 +170,9 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Token Burning
 
-- Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn cycle. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process. 
-
-  - Consequently, users can engage in the daily burn cycle, regardless of the XEN token variant or YSL.IO native token they hold. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
+- Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn cycle. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process.
+  
+- Consequently, users can engage in the daily burn cycle, regardless of the XEN token variant or YSL.IO native token they hold. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -180,9 +180,9 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 - Xenify enables users to execute seamless cross-chain swaps, making it easier than ever to exchange tokens across 40 different chains. Our streamlined process offers a new level of simplicity in cross-chain token swaps and provides access to 26 aggregators, guaranteeing the most competitive rates available, while delivering an efficient and rewarding experience like never before. 
 
-  - But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily mint allocation. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
+- But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily mint allocation. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
 
-  - And the rewards don't stop there, as users can take advantage of the opportunity to earn additional daily rewards such as BNB, ETH, and MATIC by simply staking their XNF tokens. Xenify truly revolutionises the cross-chain swapping process; offering users simplicity, competitive rates, and a rewarding experience.
+- And the rewards don't stop there, as users can take advantage of the opportunity to earn additional daily rewards such as BNB, ETH, and MATIC by simply staking their XNF tokens. Xenify truly revolutionises the cross-chain swapping process; offering users simplicity, competitive rates, and a rewarding experience.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
