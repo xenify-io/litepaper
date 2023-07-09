@@ -432,7 +432,7 @@ With no pre-mines, investor allocations, founder allocations, or team allocation
 
 With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments for the Genesis Chain, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem:
 
-1️⃣ **21,000,000 XNF assigned for the daily mint allocation:** Users that participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily mint allocation.
+- **21,000,000 XNF assigned for the daily mint allocation:** Users that participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily mint allocation.
 
   - 10,500,000 XNF (50%) of the daily mint is distributed to users that perform direct burns of vXEN and vUSDy. During each cycle, if no one initiates the burn process, the corresponding XNF allocation will not be minted. This scarcity-driven mechanism decreases the total supply of XNF, contributing to its potential value increase.
 
@@ -440,9 +440,9 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
   - On the Genesis Chain, 5,250,000 XNF of the daily mint is reserved for YSL.IO protocol, split between AlphaVaults (15%) and AceVaults (10%). To access the XNF tokens, participants must provide native chain tokens as a claim fee. Depending on the user's action, this fee will be utilised to reward XNF stakers. Any unclaimed XNF at the end of each daily cycle will be redistributed to recyclers. 
 
-2️⃣ **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 50,000 XNF for the vXEN Mint Fee Manager and an additional 50,000 XNF for the vUSDy Mint Fee Manager. Each time a user participates in the daily burn of vXEN or vUSDy they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
+- **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 50,000 XNF for the vXEN Mint Fee Manager and an additional 50,000 XNF for the vUSDy Mint Fee Manager. Each time a user participates in the daily burn of vXEN or vUSDy they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
 
-3️⃣ **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement and bolster liquidity, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
+- **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement and bolster liquidity, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
@@ -551,9 +551,9 @@ This innovative three-pronged incentive model will not only help incentivise mor
 
   - Consequently, users can engage in the daily burn cycle, regardless of the variant of XEN token or YSL.IO variant they possess. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
-  - It is important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain. The burn function positions the protocol as a key player in the strategic layer 1 burning of XEN tokens. As a result, every time you burn your XEN native token variant, your address will be added to the X1 burn record, and in return, you'll acquire vXEN. Please keep in mind that executing the burning process of your XEN tokens will incur a burn fee and mint fee. However, once you possess vXEN, you can participate in Xenify's daily distribution of XNF tokens without any associated fees. During this burn process, both the XEN token variant and the provided vXEN will be permanently removed from circulation, with the burn fee being rewarded to XNF stakers and the mint fee utilised to create XNF and XEN liquidity. The amount of vXEN batches obtained from the burn process will vary based on the current market value of the specific XEN token variant you choose to burn.
+  - It is important to note that acquiring vXEN requires XEN tokens or a XEN token variant supported by Xenify, such as bXEN on the BNB Chain. The burn function positions the protocol as a key player in the strategic layer 1 burning of XEN tokens. As a result, every time you burn your XEN native token variant, your address will be added to the X1 burn record, and in return, you'll acquire vXEN. Please keep in mind that executing the burning process of your XEN tokens will incur a mint fee and burn fee. However, once you possess vXEN, you can participate in Xenify's daily distribution of XNF tokens without any associated fees. During this burn process, both the XEN token variant and the provided vXEN will be permanently removed from circulation, with the burn fee being rewarded to XNF stakers and the mint fee utilised to create XNF and XEN liquidity. The amount of vXEN batches obtained from the burn process will vary based on the current market value of the specific XEN token variant you choose to burn.
 
-  - Likewise, holders of YSL.IO native tokens (bYSL, xYSL, or USDy) can actively engage in the daily burn cycle by acquiring vUSDy. Similar to the XEN burning process, executing the burning of your YSL.IO native tokens will require a burn fee and mint fee. Once you have acquired vUSDy, you can participate in Xenify's daily distribution of XNF tokens without any associated fees. This burn process will permanently remove 100% of the YSL.IO token variant and vUSDy provided from circulation, with the burn fee being rewarded to XNF stakers and the mint fee utilised to create XNF and USDy liquidity. It's important to note that the conversion rate for vUSDy remains fixed, but it depends on the specific YSL.IO native token you choose to exchange.
+  - Likewise, holders of YSL.IO native tokens (bYSL, xYSL, or USDy) can actively engage in the daily burn cycle by acquiring vUSDy. Similar to the XEN burning process, executing the burning of your YSL.IO native tokens will require a mint fee and burn fee. Once you have acquired vUSDy, you can participate in Xenify's daily distribution of XNF tokens without any associated fees. This burn process will permanently remove 100% of the YSL.IO token variant and vUSDy provided from circulation, with the burn fee being rewarded to XNF stakers and the mint fee utilised to create XNF and USDy liquidity. It's important to note that the conversion rate for vUSDy remains fixed, but it depends on the specific YSL.IO native token you choose to exchange.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -764,29 +764,25 @@ Here’s how it works: When a user executes the burn function and sends a mint f
 
 ## ◽️ vXEN Mint Fee
 
-The vXEN mint fee is applicable only when you burn a XEN token variant to obtain vXEN. The mint fee is determined by the current market value of the tokens you burn. 
+The vXEN mint fee is applicable only when you burn a XEN token variant to obtain vXEN. The mint fee is determined by the current market value of the tokens you burn. The native tokens generated from the vXEN mint fee will be allocated as follows:
 
-For example, let's say you have 10,000 bXEN and you want to convert it to vXEN. If bXEN is currently valued at $0.01 and you hold 10,000 bXEN, your bXEN is worth $100. Therefore, you would need to provide $100 in BNB for the mint fee. Additionally, you would need to pay a burn fee, which let's assume is $20 in BNB as determined by the protocol. Once you initiate the burn process, you will receive $200 worth of vXEN in return, based on your $100 worth of bXEN and $100 worth of BNB. Your vXEN will then be burned to participate in Xenify's daily distribution of XNF tokens, and there won't be any burn fee for this step. The $100 worth of bXEN and $200 worth of vXEN you sent during the burn process will be permanently removed from circulation. The $100 BNB contribution for the mint fee will go to the vXEN Mint Fee Manager, and the $20 BNB burn fee will be distributed among veXNF holders as native chain rewards at the end of the cycle.
+- **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being sent to a dead address. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being sent to a dead address.
 
-**The native tokens generated from the vXEN mint fee will be allocated as follows:**
+- **50% will be used to create XEN token liquidity:** The protocol utilises 50% of the native chain tokens to create liquidity for the native XEN token variant for the most liquid XEN pool on that chain (for example, on the BNB Chain it will create liquidity for bXEN-BNB liquidity), by using 25% of the tokens to purchase the native XEN token (e.g. bXEN) and the remaining 25% of the tokens for the liquidity pairing with the LP tokens being sent to a dead address.
 
-  1. **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being sent to a dead address. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being sent to a dead address.
-
-  2. **50% will be used to create XEN token liquidity:** The protocol utilises 50% of the native chain tokens to create liquidity for the native XEN token variant for the most liquid XEN pool on that chain (for example, on the BNB Chain it will create liquidity for bXEN-BNB liquidity), by using 25% of the tokens to purchase the native XEN token (e.g. bXEN) and the remaining 25% of the tokens for the liquidity pairing with the LP tokens being sent to a dead address.
+- For example, let's say you have 10,000 bXEN and you want to convert it to vXEN. If bXEN is currently valued at $0.01 and you hold 10,000 bXEN, your bXEN is worth $100. Therefore, you would need to provide $100 in BNB for the mint fee. Additionally, you would need to pay a burn fee, which let's assume is $20 in BNB as determined by the protocol. Once you initiate the burn process, you will receive $200 worth of vXEN in return, based on your $100 worth of bXEN and $100 worth of BNB. Your vXEN will then be burned to participate in Xenify's daily distribution of XNF tokens, and there won't be any burn fee for this step. The $100 worth of bXEN and $200 worth of vXEN you sent during the burn process will be permanently removed from circulation. The $100 BNB contribution for the mint fee will go to the vXEN Mint Fee Manager, and the $20 BNB burn fee will be distributed among veXNF holders as native chain rewards at the end of the cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ vUSDy Mint Fee
 
-The vUSDy mint fee is only applicable when you convert USDy to vUSDy through the burn process, and it doesn't apply if you burn xYSL or bYSL. 
+The vUSDy mint fee is only applicable when you convert USDy to vUSDy through the burn process, and it doesn't apply if you burn xYSL or bYSL. The native tokens generated from the vUSDy mint fee will be allocated as follows:
 
-For example, let's say you have 100 USDy tokens and you want to convert them into vUSDy. To cover the mint fee and burn fee, you need to hold native chain tokens. The mint fee will be determined as $100 BNB, based on the fixed conversion rate of $1.00 per USDy. If you decide to proceed, you'll need to provide a burn fee of $20 BNB to execute the burn function. After you initiate the burn process, the protocol will generate vUSDy based on the total value of your USDy and the mint fee. In this example, you'll receive $200 vUSDy in return, considering your 100 USDy and the $100 BNB mint fee. Your vUSDy will then be burned to participate in Xenify's daily distribution of XNF tokens, and there won't be any burn fee for this step. Both the 100 USDy and 200 vUSDy you sent during the burn process will be permanently removed from circulation. The $100 BNB mint fee will be sent to the vUSDy Mint Fee Manager, and the $20 BNB burn fee will be distributed among XNF stakers at the end of the cycle as native chain rewards.
+- **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being sent to a dead address. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being sent to a dead address.
 
-**The native tokens generated from the vUSDy mint fee will be allocated as follows:**
+- **50% will be used to create USDy treasury-owned liquidity:** The protocol utilises 50% of the native tokens to create USDy-USDC treasury-owned liquidity, by minting the USDy side of the liquidity pairing and purchasing USDC with the 50% of the tokens, with the LP tokens being sent to the YSL.IO Treasury.
 
-**50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being sent to a dead address. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being sent to a dead address.
-
-**50% will be used to create USDy treasury-owned liquidity:** The protocol utilises 50% of the native tokens to create USDy-USDC treasury-owned liquidity, by minting the USDy side of the liquidity pairing and purchasing USDC with the 50% of the tokens, with the LP tokens being sent to the YSL.IO Treasury.
+- For example, let's say you have 100 USDy tokens and you want to convert them into vUSDy. To cover the mint fee and burn fee, you need to hold native chain tokens. The mint fee will be determined as $100 BNB, based on the fixed conversion rate of $1.00 per USDy. If you decide to proceed, you'll need to provide a burn fee of $20 BNB to execute the burn function. After you initiate the burn process, the protocol will generate vUSDy based on the total value of your USDy and the mint fee. In this example, you'll receive $200 vUSDy in return, considering your 100 USDy and the $100 BNB mint fee. Your vUSDy will then be burned to participate in Xenify's daily distribution of XNF tokens, and there won't be any burn fee for this step. Both the 100 USDy and 200 vUSDy you sent during the burn process will be permanently removed from circulation. The $100 BNB mint fee will be sent to the vUSDy Mint Fee Manager, and the $20 BNB burn fee will be distributed among XNF stakers at the end of the cycle as native chain rewards.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -899,7 +895,7 @@ By making use of the recycle function, you'll also gain exclusive access to the 
 
 But that’s not all! As a gesture of gratitude for their active involvement with the protocol, veXNF holders who recycle their rewards during a cycle are also eligible for an exclusive distribution of unclaimed XNF from the YSL.IO protocol. Once a cycle concludes, any unclaimed XNF from the YLS.IO AlphaVaults and AceVaults are redistributed to veXNF holders based on the amount of rewards they have recycled during the cycle. Put simply, the more native chain rewards you recycle during a cycle, the greater your share of any unclaimed XNF.
 
-To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you.
+To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn function fees. Most importantly, as a dedicated recycler, you will benefit from the 25% claim fee and qualify for an exclusive redistribution of unclaimed XNF from the YSL.IO AlphaVaults and AceVaults. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -915,8 +911,6 @@ To leverage this recycling feature, ensure that you have a sufficient balance of
   - At the end of the daily burn cycle, you receive XNF tokens based on the vXEN batches burned from your recycled contribution.
   - Next, you will receive your share of daily native chain rewards based on your veXNF balance and its associated power.
   - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle, as well as a share of any unclaimed XNF redistributed from the YSL.IO AlphaVault and AceVault allocation.
-
-By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn function fees. Most importantly, as a dedicated recycler, you will benefit from the 25% claim fee and qualify for an exclusive redistribution of unclaimed XNF from the YSL.IO AlphaVaults and AceVaults. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -992,7 +986,7 @@ This positive feedback loop not only incentivises users to participate in the fi
 
 <br>
 
-Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectible that unites the Xenify and YSL.IO communities. By owning one of these extraordinary NFTs, users of Xenify will unlock a daily amplified burn effect, exponentially boosting their batch count by up to 100 when burning vXEN or vUSDy. Moreover, owning or renting a minimum of 4 of these highly coveted NFTs will grant you an even greater amplification, with your wallet receiving a daily bonus of up to 1,000 batches.
+Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectable that unites the Xenify and YSL.IO communities. By owning one of these extraordinary NFTs, users of Xenify will unlock a daily amplified burn effect, exponentially boosting their batch count by up to 100 when burning vXEN or vUSDy. Moreover, owning or renting a minimum of 4 of these highly coveted NFTs will grant you an even greater amplification, with your wallet receiving a daily bonus of up to 1,000 batches.
 
 Furthermore, holders of the Phoenix NFT will enjoy a range of extra perks. This includes the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
 
@@ -1158,19 +1152,19 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Users Mint Their Equity
-
-- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or vUSDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ◽️ No Initial Coin Offering
 
 - Xenify will forego an Initial Coin Offering (ICO), reinforcing our unwavering commitment to a fair and transparent launch that ensures equal opportunities for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable Contracts
+## ◽️ Users Mint Their Equity
+
+- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or vUSDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Immutable Contracts (No Admin Keys)
 
   - Xenify's smart contracts will be carefully crafted without admin keys or centralised control, safeguarding the protocol's immutability and preserving its decentralised nature. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
 
@@ -1370,7 +1364,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 **Influential Concepts:**
 
-- [ChainZap](https://docs.ysl.io/protocol-features/chainzap)
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
