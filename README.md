@@ -1283,6 +1283,12 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ veXNF 
+
+  - veXNF is a vested token, embodied as a non-fungible token (NFT) under the ERC-721 standard, representing a user's staked position in XNF. A user's share of the native chain rewards isn't solely dictated by the quantity of veXNF they possess. It's also influenced by their 'power' or standing within the protocol. This standing is determined by a combination of their veXNF holdings and the length of their lock-in period.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Xenify
 
   - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across 40 different chains. With access to the best routes and lowest fees from 26 aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
