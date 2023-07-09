@@ -720,7 +720,11 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 <br>
 
-**Let's take a closer look at how the Batch Coefficient (BC) operates in different scenarios:**
+## ◽️ Different Scenarios
+
+Let's take a closer look at how the Batch Coefficient (BC) operates in different scenarios:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Scenario 1: User burns during Hour-1 of a cycle
 
