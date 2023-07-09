@@ -180,7 +180,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 - Xenify enables users to execute seamless cross-chain swaps, making it easier than ever to exchange tokens across 40 different chains. Our streamlined process offers a new level of simplicity in cross-chain token swaps and provides access to 26 aggregators, guaranteeing the most competitive rates available, while delivering an efficient and rewarding experience like never before. 
 
-- But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily mint allocation. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
+- But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily swap auction. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
 
 - And the rewards don't stop there, as users can take advantage of the opportunity to earn additional daily rewards such as BNB, ETH, and MATIC by simply staking their XNF tokens. Xenify truly revolutionises the cross-chain swapping process; offering users simplicity, competitive rates, and a rewarding experience.
 
@@ -442,7 +442,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement and bolster liquidity, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
-Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily swap auction stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
+Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
 <p align="center" dir="auto">
   <picture>
@@ -556,9 +556,9 @@ This innovative three-pronged incentive model will not only help incentivise mor
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Swap to earn XNF 
-  - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 40 chains, while providing users the exciting opportunity to earn native chain tokens daily.
+  - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 40 chains, while providing stakers the exciting opportunity to earn native chain tokens daily.
 
-  - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
+  - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through daily swap auction. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
   - But, the rewards don't stop there. By staking these XNF tokens, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native chain rewards stem from multiple sources, including swap fees, burn fees, rehypothecation of YSL.IO AlphaVault assets, and claim fees produced by the YSL.IO protocol. As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
 
