@@ -879,11 +879,9 @@ The decision of whether to extend the stake cycle or unstake the tokens is entir
 
 ## ◽️ Claiming Native Chain Rewards
 
-Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 25% Claim Fee will be applied when claiming your native chain rewards.
+Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 25% Claim Fee will be applied when claiming your native chain rewards. 
 
-To sidestep the 25% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely.
-
-Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. At the end of the cycle, these tokens are exclusively distributed among veXNF holders who have employed the Recycle function during the cycle.
+To sidestep the 25% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely. Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. At the end of the cycle, these tokens are exclusively distributed among veXNF holders who have employed the Recycle function during the cycle.
 
 This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
 
