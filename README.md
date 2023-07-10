@@ -242,7 +242,7 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 ## ♦️ Unifying the Chains (vXEN)
 
-Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN communities across chains and supporting the token's deflationary nature. This innovative approach has been made possible through the integration of Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
+Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN communities across chains and supporting the token's deflationary nature. This innovative approach has been made possible through the integration of both Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
 
 Thanks to vXEN, you don't need to have native XEN tokens on the Ethereum network to take part in Xenify's burn process and get your hands on XNF. Instead, Xenify makes it easy for users in the broader XEN community to acquire XNF by simply burning their native XEN tokens from various EVM-compatible networks, right from their wallets.
 
@@ -252,7 +252,7 @@ vXEN can be thought of as the virtual counterpart of XEN tokens, designed specif
 
 And here's the best part: Xenify has implemented a fixed rate for vXEN, where one vXEN is equivalent to $1.00, and one batch is equivalent to 5 vXEN. This simplifies the entire burn process and eliminates the need for continual calculations of XEN per batch. Moreover, our burn function leverages Chainlink to ensure the conversion rate for all XEN token variants will be based on their current market value, which guarantees you always receive the full value for your native XEN tokens.
 
-By integrating both Axelar and LayerZero, Xenify is not only enhancing cross-chain communication but also ensuring a more robust and efficient ecosystem for the XEN community.
+By integrating both Axelar and LayerZero, Xenify is not only enhancing cross-chain transfers but also ensuring a more robust and efficient ecosystem for the XEN community. This strategic integration fosters a more inclusive and interconnected ecosystem. This approach aligns with Xenify's commitment to interoperability, enabling seamless interaction across multiple chains and enhancing the overall user experience within the XEN ecosystem.
 
 <br>
 
