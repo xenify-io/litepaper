@@ -611,7 +611,7 @@ To obtain vXEN, you simply need to hold a supported XEN token variant and a suff
 
 Just bear in mind that the value of vXEN is fixed at $1.00, with 1 vXEN equal to $1.00 XEN (and XEN token variant) based on its current market value. This means that the required amount for each burn is tailored to the current market value of the specific XEN token variant you're burning, ensuring a fair exchange for all users. For instance, if the current price of bXEN is $0.01, and you hold 10,000 bXEN, the protocol will determine your 10,000 bXEN as equivalent to $100 vXEN (100 vXEN tokens). 
 
-Similarly, if you want to acquire vUSDy, you'll need to have YSL.IO native tokens such as bYSL, xYSL, or USDy. Keep in mind that when you burn for vUSDy, the protocol will use predetermined rates to convert bYSL, xYSL, and USDy. Also, like acquiring vXEN, when you burn USDy for vUSDy, you will need to pay a mint fee of an equivalent value. However, this mint fee will not apply when you burn xYSL or bYSL.
+Similarly, if you want to acquire vUSDy, you'll need to have YSL.IO native tokens such as bYSL, xYSL, or USDy. Keep in mind that when you burn for vUSDy, the protocol will use predetermined rates to convert bYSL, xYSL, and USDy. Also, like acquiring vXEN, when you burn USDy, xYSL, or bYSL for vUSDy, you will need to pay a mint fee of an equivalent value. This means that when you burn xYSL, bYSL, or USDy for vUSDy, you will need to cover the transaction gas fees and the mint fee, ensuring a fair and consistent process across all token types.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
