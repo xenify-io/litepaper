@@ -278,9 +278,9 @@ In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price s
 
 ## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
 
-Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens. 
+Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens.
 
-This innovative approach to token burning has been made possible through the integration of Axelar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+This innovative approach to token burning has been made possible through the integration of both Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
 
 Similar to vXEN, users are not obligated to possess the native XEN token on the Ethereum network in order to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users within the YSL.IO ecosystem to effortlessly burn their YSL.IO native tokens directly from their wallets and acquire XNF.
 
