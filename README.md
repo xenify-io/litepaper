@@ -974,7 +974,7 @@ To ensure fairness and deter last-minute sniping, a daily amount of the airdrop 
 
 Furthermore, during an ongoing Airdrop event for a specific chain, the native tokens garnered from the 0.5% swap fee on that chain are collected by the Xenify team. For instance, ahead of the Genesis launch on the BNB Chain, a 60-day airdrop event will occur, with all BNB accrued from swaps on the BNB Chain during this period going to the Xenify team.
 
-It's vital to note that these collected fees do not go to veXNF holders during the pre-deployment phase. They are instead directed to the Xenify team. Once XNF is deployed, the swap fees will then be directed to veXNF holders.
+It's important to understand that during the pre-deployment phase, the swap fees are not allocated to veXNF holders. Instead, these fees are collected by the Xenify team, aiding in future development and marketing initiatives. However, once XNF is deployed on a particular chain, the swap fees generated on that chain will be redirected to its veXNF holders.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
