@@ -462,14 +462,15 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ◽️ Confirmed Deployment
 
-- BNB Chain
-- Ethereum
+- Genesis Deployment > BNB Chain
+- Second Deployment > Ethereum
+- Third Deployment > Polygon
 
 <br>
 
 ## ◽️ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Polygon and Arbitrum to the new kids on the blockchain like zkEVM and zkSync, there's no shortage of options. The full list includes:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Arbitrum and Avalanche to the new kids on the blockchain like zkSync and PulseChain, there's no shortage of options. The full list includes:
 
 - KCC
 - Celo
@@ -551,6 +552,7 @@ This innovative three-pronged incentive model will not only help incentivise mor
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Burn to earn XNF 
+
   - Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn auction. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process.
 
   - Consequently, users can engage in the daily burn auction, regardless of the variant of XEN token or YSL.IO variant they possess. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
@@ -562,6 +564,7 @@ This innovative three-pronged incentive model will not only help incentivise mor
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Swap to earn XNF 
+
   - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 40 chains, while providing stakers the exciting opportunity to earn native chain tokens daily.
 
   - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through the daily swap auction. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
@@ -577,6 +580,7 @@ This innovative three-pronged incentive model will not only help incentivise mor
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Stake XNF to earn native tokens 
+
   - Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their staked XNF. These rewards are distributed in the form of native chain tokens—a highly liquid asset—signalling a potentially lucrative return for users who stake XNF.
 
   - XNF stakers play an essential role in Xenify's long-term growth, and in return reap the benefits. For chains where XNF has been deployed, stakers enjoy native tokens generated from swap fees across all supported EVM chains at the end of each cycle. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. Consequently, XNF stakers benefit from increased rewards! This equitable model establishes a positive feedback loop, guaranteeing all participants benefit from the ecosystem’s growth proportional to their engagement.
@@ -659,31 +663,31 @@ As illustrated in the table below, the Burn Fee Coefficient starts at 50% when a
 <br>
 
 | Hour | Burn Fee Coefficient (FC) |
-|------|----------------------|
-| 1    | 50.00%               |
-| 2    | 52.17%               |
-| 3    | 54.35%               |
-| 4    | 56.52%               |
-| 5    | 58.70%               |
-| 6    | 60.87%               |
-| 7    | 63.04%               |
-| 8    | 65.22%               |
-| 9    | 67.39%               |
-| 10   | 69.57%               |
-| 11   | 71.74%               |
-| 12   | 73.91%               |
-| 13   | 76.09%               |
-| 14   | 78.26%               |
-| 15   | 80.43%               |
-| 16   | 82.61%               |
-| 17   | 84.78%               |
-| 18   | 86.96%               |
-| 19   | 89.13%               |
-| 20   | 91.30%               |
-| 21   | 93.48%               |
-| 22   | 95.65%               |
-| 23   | 97.83%               |
-| 24   | 100.00%              |
+|------|---------------------------|
+| 1    | 50.00%                    |
+| 2    | 52.17%                    |
+| 3    | 54.35%                    |
+| 4    | 56.52%                    |
+| 5    | 58.70%                    |
+| 6    | 60.87%                    |
+| 7    | 63.04%                    |
+| 8    | 65.22%                    |
+| 9    | 67.39%                    |
+| 10   | 69.57%                    |
+| 11   | 71.74%                    |
+| 12   | 73.91%                    |
+| 13   | 76.09%                    |
+| 14   | 78.26%                    |
+| 15   | 80.43%                    |
+| 16   | 82.61%                    |
+| 17   | 84.78%                    |
+| 18   | 86.96%                    |
+| 19   | 89.13%                    |
+| 20   | 91.30%                    |
+| 21   | 93.48%                    |
+| 22   | 95.65%                    |
+| 23   | 97.83%                    |
+| 24   | 100.00%                   |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -695,7 +699,7 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 <br>
 
-| Hour | Batch Coefficient (BC) |
+| Hour | Batch Coefficient (BC)    |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
