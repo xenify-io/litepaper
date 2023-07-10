@@ -242,15 +242,17 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 ## ♦️ Unifying the Chains (vXEN)
 
-Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN communities across chains and supporting the token's deflationary nature. This innovative approach has been made possible through the integration of Axelar, a decentralised protocol that breaks down barriers between cross-chain communication with its comprehensive protocol suite.
+Introducing vXEN, a groundbreaking solution by Xenify that enables seamless burning of XEN across all chains, unifying the XEN communities across chains and supporting the token's deflationary nature. This innovative approach has been made possible through the integration of Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
 
 Thanks to vXEN, you don't need to have native XEN tokens on the Ethereum network to take part in Xenify's burn process and get your hands on XNF. Instead, Xenify makes it easy for users in the broader XEN community to acquire XNF by simply burning their native XEN tokens from various EVM-compatible networks, right from their wallets.
 
-This forward-thinking approach stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN communities on multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, positioning itself as a strategic layer 1 burner of XEN. This ensures every user burning any XEN token variant on Xenify gets rightfully included in the X1 distribution – the native token of the new XEN Layer 1 (X1 Chain).
+This forward-thinking approach stems from Xenify's shared commitment to the interoperability of the XEN ecosystem and the vision of making Xenify accessible to XEN communities on multiple chains. As a result, vXEN enables Xenify to seamlessly interact with any chain supported by the XEN ecosystem, positioning itself as a strategic layer 1 burner of XEN. This ensures every user burning any XEN token variant on Xenify gets rightfully included in the burn record for the X1 distribution – the native token of the new XEN Layer 1 (X1 Chain).
 
 vXEN can be thought of as the virtual counterpart of XEN tokens, designed specifically to simplify the process of converting various versions of XEN tokens into XNF tokens. It's important to note that you'll need XEN tokens or a XEN token variant supported by Xenify, like bXEN on the BNB Chain, to obtain vXEN. Once you have vXEN, you can burn it to join Xenify's daily distribution of XNF tokens.
 
 And here's the best part: Xenify has implemented a fixed rate for vXEN, where one vXEN is equivalent to $1.00, and one batch is equivalent to 5 vXEN. This simplifies the entire burn process and eliminates the need for continual calculations of XEN per batch. Moreover, our burn function leverages Chainlink to ensure the conversion rate for all XEN token variants will be based on their current market value, which guarantees you always receive the full value for your native XEN tokens.
+
+By integrating both Axelar and LayerZero, Xenify is not only enhancing cross-chain communication but also ensuring a more robust and efficient ecosystem for the XEN community.
 
 <br>
 
