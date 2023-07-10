@@ -418,6 +418,8 @@ Xenifiy is a groundbreaking protocol that champions fairness, sustainability, an
 
 XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 22.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning vXEN or vUSDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
+<br>
+
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
@@ -446,6 +448,8 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
+<br>
+
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
@@ -465,7 +469,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ◽️ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Ethereum, Polygon, and Arbitrum to the new kids on the blockchain like zkEVM and zkSync, there's no shortage of options. The full list includes:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Polygon and Arbitrum to the new kids on the blockchain like zkEVM and zkSync, there's no shortage of options. The full list includes:
 
 - KCC
 - Celo
