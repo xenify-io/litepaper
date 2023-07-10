@@ -560,7 +560,7 @@ This innovative three-pronged incentive model will not only help incentivise mor
 ## ♦️ Swap to earn XNF 
   - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 40 chains, while providing stakers the exciting opportunity to earn native chain tokens daily.
 
-  - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through daily swap auction. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
+  - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through the daily swap auction. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
   - But, the rewards don't stop there. By staking these XNF tokens, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native chain rewards stem from multiple sources, including swap fees, burn fees, rehypothecation of YSL.IO AlphaVault assets, and claim fees produced by the YSL.IO protocol. As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
 
@@ -780,7 +780,7 @@ The vXEN mint fee is applicable only when you burn a XEN token variant to obtain
 
 ## ◽️ vUSDy Mint Fee
 
-The vUSDy mint fee is only applicable when you convert USDy to vUSDy through the burn process, and it doesn't apply if you burn xYSL or bYSL. The native tokens generated from the vUSDy mint fee will be allocated as follows:
+The vUSDy mint fee is only applicable when you convert USDy, xYSL or bYSL to vUSDy through the burn process. The native tokens generated from the vUSDy mint fee will be allocated as follows:
 
 - **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being sent to a dead address. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being sent to a dead address.
 
