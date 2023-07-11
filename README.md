@@ -29,6 +29,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
 - [USDy Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
+- [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-&-vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
