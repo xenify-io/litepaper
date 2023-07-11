@@ -957,6 +957,8 @@ With this unique reward structure, Xenify is able to strengthen the demand and v
 # ◽️ Xenify Architecture 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
