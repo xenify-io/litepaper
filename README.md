@@ -303,6 +303,22 @@ Once you possess vUSDy, you can burn it to participate in Xenify's daily distrib
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ XNF & veXNF Overview
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+At its core, XNF serves as a reward token that stimulates user engagement within the Xenify Protocol. Its unique tokenomic foundation paves the way for a distinctive method of claim and lock, which enhances user engagement and empowers users to manage their locking strategies. Users have the liberty to claim their XNF and determine the lock period, which can span from a minimum of 2 weeks to a maximum of 4 years, providing a personalized interaction with the protocol.
+
+This is where veXNF steps in. veXNF is an ERC-721 non-fungible token (NFT) that users receive upon locking their XNF. The quantity of veXNF minted is directly proportional to the amount of XNF locked and the chosen lock period. veXNF not only mirrors a user's stake in the protocol but also serves as an indicator of the user's 'earning power', which dictates their share in the native chain reward distribution.
+
+However, this 'earning power' is not fixed. Over the lock period, even if it stretches up to the maximum 4 years, the power of veXNF undergoes a gradual decay. This decay signifies a reduction in potential earnings over time, emphasizing the necessity for users to actively and regularly interact with the protocol. To elevate their veXNF power and sustain their earning capacity, users must frequently claim and recycle their rewards, and to retain this power, they are required to extend their lock duration.
+
+For users who aspire to enhance their earning potential from earlier locks, the protocol presents an opportunity to prolong the lock-in period. This action not only maintains or increases the veXNF quantity but also resets the decay schedule, thereby promoting sustained participation within the protocol.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Overview 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
