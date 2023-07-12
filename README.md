@@ -445,7 +445,7 @@ XNF is the lifeblood of the Xenify protocol, and features a limited total supply
 
 ## ◽️ Supply Distribution
 
-With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments for the Genesis Chain, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem:
+With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem:
 
 - **21,000,000 XNF assigned for the daily auctions:** Users that participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions.
 
@@ -554,11 +554,11 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
   - Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
-  - Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly on the Genesis Chain: 50% is dispensed to users who burn vXEN or vUSDy tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This allocation mechanism extends across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2112.
+  - Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly: 50% is distributed to users who burn vXEN or vUSDy tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2112.
 
-  - Users are further incentivised through the staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees.
+  - Users are further incentivised through the platform's staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees.
 
-  - The unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who stake and lock their XNF tokens. This protocol operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises a growing user base continually.
+  - The unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who stake and lock their XNF tokens. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
