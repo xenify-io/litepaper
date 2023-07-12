@@ -731,9 +731,9 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 <br>
 
-## ◽️ Different Scenarios
+## ◽️ Different Burn Fee Scenarios
 
-Let's take a closer look at how the Batch Coefficient (BC) operates in different scenarios:
+Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
