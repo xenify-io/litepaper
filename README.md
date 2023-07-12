@@ -161,8 +161,6 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
   - Moreover, leveraging the recycle function grants you exclusive access to the daily distribution of native tokens generated from the 25% claim fee. Your share of the native chain tokens is proportional to the rewards you recycle during a cycle. For instance, if $100,000 worth of native chain rewards were claimed during a cycle and you are the sole XNF staker recycling rewards, you would receive the entire $25,000 worth of native chain tokens generated from the claim fee when the cycle concludes.
 
-  - In addition to these advantages, recyclers are eligible for an exclusive redistribution of any unclaimed XNF from the YSL.IO allocation at the end of each cycle. The redistributed XNF is made available as claimable XNF, and only XNF stakers who recycled rewards in the previous cycle qualify for this redistribution. The amount of XNF each recycler receives depends on their veXNF holdings. 
-
   - When users recycle rewards, their native tokens are strategically utilised to strengthen the ecosystem. 50% of the tokens are used to generate XNF liquidity, 25% is utilised to create liquidity for the XEN token variant of the chain, and the remaining 25% of native tokens are sent to the team as USDC to cover ongoing operational expenses, including platform development, marketing campaigns, and community engagement activities. This mutually beneficial arrangement rewards recyclers for their dedication and active participation in the growth of Xenify, creating a win-win situation for both the earning potential of recyclers and the advancement of the platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
