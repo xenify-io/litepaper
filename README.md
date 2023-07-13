@@ -775,7 +775,7 @@ The Mint Fee Manager will utilise the native chain tokens to create protocol-own
 
 To kickstart the generation of this protocol-owned liquidity, the Mint Fee Manager receives an allocation of 100,000 preminted XNF tokens when XNF is deployed. These tokens serve the purpose of creating XNF liquidity through the Mint Fee. The 100,000 XNF tokens are split evenly, with 50,000 tokens allocated for the vXEN Mint Fee and 50,000 tokens for the vUSDy Mint Fee. The team does not have access to these preminted tokens, and can only execute the burning of these tokens if necessary.
 
-Here’s how it works: When a user executes the burn function and send a Mint Fee, the Mint Fee Manager will pair 50% of the native tokens acquired from the Mint Fee with the preminted XNF tokens, to add as XNF liquidity at full range, with all LP tokens being held by the protocol. This process will continue until the preminted XNF allocation is depleted. After that, the manager initiates its default process, which involves using 25% of the native tokens to purchase XNF, pair the acquired XNF with 25% of the native tokens, to add as liquidity at full range, with all LP tokens being held by the protocol.
+Here’s how it works: When a user executes the burn function and sends a Mint Fee, the Mint Fee Manager will pair 50% of the native tokens acquired from the Mint Fee with the preminted XNF tokens, to add as XNF liquidity at full range, with all LP tokens being held by the protocol. This process will continue until the preminted XNF allocation is depleted. After that, the manager initiates its default process, which involves using 25% of the native tokens to purchase XNF, and pair the acquired XNF with 25% of the native tokens, to add as liquidity at full range, with all LP tokens being held by the protocol.
 
 The remaining 50% of the Mint Fee is designated to create either XEN liquidity or USDy liquidity, depending on whether the user sent the Mint Fee to acquire vXEN or vUSDy, respectively. When the protocol creates USDy liquidity through the vUSDy Mint Fee, the USDy LP tokens are sent to the YSL.IO Treasury. On the other hand, when it generates XEN liquidity via the vXEN Mint Fee, the XEN LP tokens are held by the protocol.
 
@@ -797,7 +797,7 @@ The vXEN mint fee is applicable only when you burn a XEN token variant to obtain
 
 ## ◽️ vUSDy Mint Fee
 
-The vUSDy mint fee is only applicable when you convert USDy, xYSL or bYSL to vUSDy through the burn process. The native tokens generated from the vUSDy mint fee will be allocated as follows:
+The vUSDy mint fee is only applicable when you convert USDy, xYSL, or bYSL to vUSDy through the burn process. The native tokens generated from the vUSDy mint fee will be allocated as follows:
 
 - **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 50,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being held by the protocol. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being held by the protocol.
 
