@@ -917,8 +917,8 @@ To leverage this recycling feature, ensure that you have a sufficient balance of
   - Based on the dollar value of your contribution, the protocol mints an appropriate number of vXEN batches. The number of batches is determined by rounding down to the nearest batch count.
   - All the minted vXEN batches are burned to obtain XNF tokens, and the protocol collects a burn fee from your native chain rewards balance.
   - After the burn process, your remaining native chain rewards are sent to the Recycling Contract.
-  - The Recycling Contract splits the native tokens three ways: 50% for creating XNF liquidity, 25% for creating XEN liquidity, and 25% allocated to the team as USDC to support Xenify's ongoing development, marketing, and outreach initiatives.
-  - The XNF LP tokens and XEN LP tokens acquired from the recycling process are sent to a dead address.
+  - The Recycling Contract splits the native tokens three ways: 50% for creating XNF protocol-owned liquidity, 25% for creating XEN protocol-owned liquidity, and 25% allocated to the team as USDC to support Xenify's ongoing development, marketing, and outreach initiatives.
+  - The XNF LP tokens and XEN LP tokens acquired from the recycling process are held by the protocol.
   - At the end of the daily burn auction, you receive XNF tokens based on the vXEN batches burned from your recycled contribution.
   - Next, you will receive your share of daily native chain rewards based on your veXNF balance and its associated power.
   - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle.
