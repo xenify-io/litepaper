@@ -47,7 +47,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Introduction
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a1-19529e333d64.png)
 
 <br>
 
@@ -55,7 +55,7 @@ Welcome to Xenify! We are the Nexus of Innovation, Reward, Effortless Cross-Chai
 
 Xenify stands as a cross-chain meta-aggregator of aggregators, pioneering a new era of 'Swap to Earn'. Our groundbreaking protocol seamlessly integrates inventive tokenomics and advanced cross-chain functionality into a single, powerful package. By incorporating a unique, game theory-based incentive model that actively rewards engagement, Xenify is primed to instigate a seismic shift in the world of cross-chain swapping. Our mission is clear: revolutionise the DeFi landscape by offering the best of both worlds: an ultra-efficient cross-chain swap experience and substantial opportunities for earning.
 
-At the core of Xenify's bold vision is a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 50 supported chains, Xenify has you covered. With access to 26 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
+At the core of Xenify's bold vision is a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 50 supported chains, Xenify has you covered. With access to 27 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
 What sets Xenify apart from other cross-chain swapping platforms is its commitment to creating a mutually beneficial environment for all participants. By contributing to swap fees across supported EVM chains, you earn XNF tokens, while 100% of your swap fees are distributed as rewards to XNF stakers. Moreover, Xenify serves as a strategic layer 1 burner of XEN, enabling XEN holders to effortlessly convert their holdings into XNF at a predictable rate. Throughout this burn process, our unique fee-utilization algorithm guarantees that 100% of burn fees are directed as rewards to XNF stakers, while the mint fee bolsters the growth of XNF liquidity. This win-win strategy ensures constant proliferation of XNF liquidity, regardless of market activity, while enhancing rewards for dedicated participants of Xenify.
 
@@ -139,7 +139,7 @@ Xenify sets itself apart in the DeFi space with its unwavering commitment to fai
 
 ## ◽️  Advanced Cross-chain Aggregator Capabilities
 
-With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 26 aggregators across 50 chains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
+With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 27 aggregators across 50 chains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -175,7 +175,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Cross-Chain Swapping
 
-- Xenify enables users to execute seamless cross-chain swaps, making it easier than ever to exchange tokens across 50 different chains. Our streamlined process offers a new level of simplicity in cross-chain token swaps and provides access to 26 aggregators, guaranteeing the most competitive rates available, while delivering an efficient and rewarding experience like never before. 
+- Xenify enables users to execute seamless cross-chain swaps, making it easier than ever to exchange tokens across 50 different chains. Our streamlined process offers a new level of simplicity in cross-chain token swaps and provides access to 27 aggregators, guaranteeing the most competitive rates available, while delivering an efficient and rewarding experience like never before. 
 
 - But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily swap auction. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
 
@@ -317,7 +317,7 @@ For users who aspire to enhance their earning potential from earlier locks, the 
 
 <br>
 
-Introducing Xenify, the ultimate cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify offers unmatched capabilities. Powered by an advanced liquidity aggregation protocol, Xenify connects to 26 different aggregators, delivering exceptional liquidity and unbeatable rates across 50 leading chains. Whether you want to swap tokens between Ethereum, BNB Chain, Polygon, or many others, Xenify makes it effortless and rewarding!
+Introducing Xenify, the ultimate cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify offers unmatched capabilities. Powered by an advanced liquidity aggregation protocol, Xenify connects to 27 different aggregators, delivering exceptional liquidity and unbeatable rates across 50 leading chains. Whether you want to swap tokens between Ethereum, BNB Chain, Polygon, or many others, Xenify makes it effortless and rewarding!
 
 Imagine this scenario: you want to trade Token-A on Ethereum for Token-B on BNB Chain. With Xenify, all it takes is a single click and a single transaction on Ethereum. No more hassle of navigating different chains or searching for the best rates – Xenify takes care of everything, providing you with the most favourable rates available. But there's more to Xenify than just cross-chain swaps; It's a meticulously designed ecosystem with unique tokenomics, incorporating a groundbreaking incentive model that benefits all participants. 
 
@@ -359,8 +359,9 @@ Xenify's innovative approach to staking and rewards, combined with its unique to
 | 22  | CoinCraddle       | https://coincraddle.com            | 
 | 23  | Squid Router      | https://app.squidrouter.com        |
 | 24  | ChangeNOW         | https://changenow.io               |
-| 25  | Rubic Finance     | https://rubic.finance              |
-| 26  | Chainge Finance   | https://dapp.chainge.finance       |
+| 25  | Houdini Swap      | https://houdiniswap.com            |
+| 26  | Rubic Finance     | https://rubic.finance              |
+| 27  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
@@ -1209,7 +1210,7 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 Xenify, a cross-chain aggregator of aggregators, has been meticulously built from the ground up to transform the way users engage in token swaps. Its primary focus is to deliver a seamless user experience, reward active community members, and establish a fair and sustainable token distribution model. By harnessing innovative tokenomics, Xenify aspires to establish a decentralised, community-driven platform that values and encourages users' active participation within the ecosystem.
 
-What sets Xenify apart is its seamless connection to 26 different aggregators, enabling effortless single-click swaps at unbeatable rates across 50 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
+What sets Xenify apart is its seamless connection to 27 different aggregators, enabling effortless single-click swaps at unbeatable rates across 50 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
 
 With Xenify, users are granted an exclusive opportunity to earn XNF tokens on every swap, complemented by an innovative staking model that enables users to earn native chain tokens such as ETH, BNB, and MATIC on a daily basis. This unique incentive model undeniably positions Xenify as the top choice for those seeking to simplify the cross-chain swapping process while maximising their earning potential.
 
@@ -1318,7 +1319,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ Xenify
 
-  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across 50 different chains. With access to the best routes and lowest fees from 26 aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
+  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across 50 different chains. With access to the best routes and lowest fees from 27 aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
