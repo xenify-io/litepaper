@@ -854,7 +854,7 @@ The calculation of the swap contribution follows a similar logic, whereby the pr
 <br>
 
 $$
-SC = (TCD \times SP) \times (USF \div TSF)
+SC = (TCD \div 2) \times (USF \div TSF)
 $$
 
 <br>
@@ -862,14 +862,13 @@ $$
 **Where:**
 
 - *SC* - represents the swap contribution of the user.
-- *SP* - is the percentage of the XNF daily mint allocated to swaps.
 - *TCD* - is the total amount of XNF tokens distributed in a cycle.
 - *USF* - is the swap fees paid by a specific user in a cycle.
 - *TSF* - is the total swap fees paid in a cycle by all users.
 
 <br>
 
-Here’s how it works: The protocol calculates the user's swap contribution (SC) by first multiplying the total XNF tokens distributed (TCD) by the percentage of XNF daily mint allocated to participants that perform swaps on supported chains (this will be 25% for the Genesis Chain and 50% for all other chains). It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.  
+Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TCD) by 2, as 50% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
