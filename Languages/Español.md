@@ -1170,3 +1170,284 @@ La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y ce
 - Los contratos inteligentes de Xenify se elaborarán cuidadosamente sin llaves de administrador ni control centralizado, salvaguardando la inmutabilidad del protocolo y preservando su naturaleza descentralizada. ¿Qué significa esto? Una vez que se implementen nuestra tokenomía y arquitectura de protocolo, se fijan en piedra: no se pueden realizar actualizaciones ni alteraciones. Este compromiso con la inmutabilidad ofrece un entorno estable, transparente y seguro para nuestra comunidad, garantizando que ninguna entidad única pueda tomar decisiones arbitrarias para manipular el protocolo.
 
 <br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Conclusión
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify, un agregador de agregadores multi-cadena, ha sido meticulosamente construido desde cero para transformar la forma en que los usuarios participan en los intercambios de tokens. Su enfoque principal es ofrecer una experiencia de usuario perfecta, recompensar a los miembros activos de la comunidad y establecer un modelo de distribución de tokens justo y sostenible. Aprovechando una tokenomía innovadora, Xenify aspira a establecer una plataforma descentralizada y centrada en la comunidad que valore y aliente la participación activa de los usuarios dentro del ecosistema.
+
+Lo que diferencia a Xenify es su conexión perfecta con 27 agregadores diferentes, permitiendo intercambios con un solo clic a tasas imbatibles en 50 cadenas líderes. Sin embargo, su valor va más allá de la mera conveniencia. Al distinguirse de otros intercambios, Xenify facilita la adopción de usuarios al garantizar que cada acción realizada en la plataforma contribuya a un entorno recíproco donde los beneficios se acumulan en función de las contribuciones y la participación.
+
+Con Xenify, los usuarios tienen la oportunidad exclusiva de ganar tokens XNF en cada intercambio, complementado por un modelo de staking innovador que permite a los usuarios ganar tokens nativos de cadenas como ETH, BNB y MATIC diariamente. Este modelo de incentivos único posiciona indudablemente a Xenify como la mejor opción para aquellos que buscan simplificar el proceso de intercambio entre cadenas mientras maximizan su potencial de ganancias.
+
+La seguridad y el compromiso con una distribución justa de tokens están en el centro de los principios de Xenify. El protocolo ha sido cuidadosamente diseñado para salvaguardar los intereses de los usuarios, ya que implementa un proceso de acuñación equitativo y una estructura de incentivos que alienta a los usuarios a participar activamente en el crecimiento del ecosistema. Este enfoque único cultiva una relación mutuamente beneficiosa entre todos los participantes, contribuyendo al crecimiento a largo plazo y la sostenibilidad de la plataforma. Al promover este vibrante entorno impulsado por la comunidad y defender los compromisos con la seguridad, la transparencia y la equidad, Xenify está listo para surgir como líder en el ámbito de los intercambios descentralizados.  
+
+En resumen, Xenify representa un cambio de paradigma en el mundo del intercambio de tokens entre cadenas. Con su eficiencia perfecta, tokenomía gratificante y compromiso inquebrantable con la seguridad y la equidad, Xenify ofrece a los usuarios una oportunidad sin precedentes para participar en un ecosistema verdaderamente descentralizado que valora la participación y fomenta el crecimiento mutuo. Al elegir Xenify, las personas pueden experimentar lo mejor de ambos mundos: intercambio de tokens sin esfuerzo y la capacidad de maximizar su potencial de ganancias.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Preguntas frecuentes
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Entendemos que puede tener preguntas sobre Xenify, sus características y su potencial. Para ayudarle a navegar por nuestra plataforma, hemos compilado una lista de preguntas frecuentes que brindan claridad y conocimientos sobre Xenify y su ecosistema.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ ¿XNF tiene un suministro inicial?
+  - No, Xenify no tiene un suministro inicial, y no hay una minería previa de tokens XNF. En cambio, el protocolo recompensa a los usuarios diariamente por su participación activa en el ecosistema. Esto se logra a través de varias contribuciones, como las contribuciones de tarifas de quema hechas quemando directamente vXEN o tokens vUSDy, así como las tarifas de intercambio generadas a través del agregador Xenify. Cabe destacar que todas las tarifas de quema y tarifas de intercambio recaudadas en las cadenas EVM compatibles se dirigen diariamente a los participantes de XNF, proporcionando un potencial de ganancia a largo plazo significativo.
+
+  - Al implementar este sistema de distribución equitativo, Xenify tiene como objetivo crear un campo de juego nivelado para todos los usuarios, evitando cualquier concentración de tokens en manos de unos pocos adoptantes tempranos. En cambio, el protocolo enfatiza la importancia de la participación continua de los usuarios y las contribuciones, ya que se traducen directamente en recompensas tangibles. Este enfoque innovador distingue a Xenify como una plataforma que valora a su comunidad y alienta activamente su participación en la configuración del ecosistema.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ ¿Qué hace el botón reciclar?
+  - El botón reciclar es una función orientada al usuario que prioriza las necesidades de los titulares de veXNF. Con solo hacer clic en este botón, los usuarios pueden convertir convenientemente sus recompensas acumuladas de cadena nativa en XNF a través de la subasta de quema diaria. Esta función ofrece varias ventajas. En primer lugar, le permite participar en el ciclo de quema sin incurrir en la tarifa obligatoria de acuñación y quema asociada con el proceso de quema predeterminado. Esto significa que puede disfrutar de los beneficios de adquirir XNF a través del ciclo de quema mientras ahorra en tarifas adicionales.
+
+  - Además, al optar por reciclar sus recompensas, contribuye activamente al crecimiento y sostenibilidad del ecosistema Xenify. El protocolo utiliza el 50% de las recompensas acumuladas de la cadena nativa para crear liquidez XNF, lo que permite un mercado más robusto y eficiente para el token. Además, el 25% de las recompensas se utilizan para crear liquidez XEN, lo que mejora aún más la liquidez general del ecosistema. Por último, el 25% restante se envía como USDC al equipo, apoyando los gastos operativos continuos, como el desarrollo de plataformas, campañas de marketing y actividades de participación comunitaria.
+
+  - Al reciclar sus recompensas, no solo mejora sus propios beneficios, sino que también desempeña un papel vital en el éxito continuo de la plataforma Xenify. Como resultado, los recicladores recibirán una distribución exclusiva adicional de tokens de cadena nativa generados a partir de las tarifas de reclamo de la plataforma. Esto significa que al participar activamente en el proceso de reciclaje, tiene la oportunidad de asegurar aún más tokens de cadena nativa, impulsando sus tenencias generales.
+
+  - En conclusión, la función del botón reciclar no solo ofrece conveniencia, sino que también presenta numerosas ventajas para los titulares de veXNF. Al ahorrar en tarifas, contribuir al crecimiento del ecosistema y acceder a distribuciones exclusivas, los recicladores pueden maximizar sus beneficios al tiempo que apoyan el éxito continuo de la plataforma Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ ¿Por qué XNF apreciará en valor?
+  - El valor de XNF tiene el potencial de apreciarse significativamente debido a la tokenomía innovadora de Xenify, su ecosistema próspero y la creciente demanda de recompensas de cadena nativa. Con el innovador agregador multi-cadena de Xenify, los usuarios pueden disfrutar de intercambios de tokens sin problemas y participar en diversas actividades gratificantes, lo que impulsa la adopción del protocolo y, en última instancia, el valor de XNF.
+
+  - Además, la escasez de tokens XNF, provocada por los eventos de reducción a la mitad, probablemente impulsará el valor del token a medida que más usuarios elijan Xenify como su plataforma preferida para intercambiar tokens. Esto conducirá a más recompensas de cadena nativa para los participantes de XNF, lo que resultará en una mayor demanda de tokens XNF. En consecuencia, es probable que el valor del token aumente debido a la demanda, consolidando la posición de Xenify como un proyecto prometedor dentro del ecosistema XEN.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Si hago una apuesta ahora, ¿cuándo puedo desestabilizar?
+  - Cuando elija apostar sus tokens XNF, tendrá la oportunidad de seleccionar un ciclo de apuestas que se adapte a sus preferencias, que van desde un mínimo de 2 semanas hasta un máximo de 4 años. Es importante tener en cuenta que una vez que comience el ciclo de apuestas, sus tokens XNF se bloquearán y no podrá desestabilizarlos hasta que finalice el ciclo. Una vez que finalice su ciclo de apuestas elegido, tendrá la libertad de desestabilizar sus tokens XNF, recuperando la propiedad y el control total sobre ellos. ¡Al participar en staking, contribuye a la salud general de nuestro ecosistema y, a cambio, tiene la oportunidad de ganar recompensas de cadena nativa diariamente!
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ ¿Cómo genero recompensas con Xenify?
+  - Xenify ofrece a los usuarios la oportunidad de ganar recompensas como ETH, BNB y MATIC diariamente apostando tokens XNF. Estas recompensas se distribuyen entre los apostadores de XNF en función de su saldo veXNF y el poder asociado con su veXNF. Este modelo de incentivos no solo fomenta la participación activa, sino que también desempeña un papel vital en el fomento del crecimiento y la sostenibilidad a largo plazo del protocolo.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Si hago una apuesta ahora, ¿cuándo recibiré recompensas?
+  - Cuando apueste tokens XNF, recibirá recompensas al final del ciclo en el que realice la apuesta. A lo largo del ciclo, estas recompensas se acumulan en un grupo de recompensas, y el protocolo distribuye todo el grupo de recompensas de tokens de cadena nativa entre los titulares de veXNF al final del ciclo en función de su saldo veXNF y el poder asociado, garantizando una distribución justa y transparente .
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ ¿Existen diferentes formas de participar con Xenify?
+- Sí, hay varias formas de participar con Xenify, que incluyen:
+
+  - Utilice el agregador Xenify para realizar intercambios con un solo clic sin inconvenientes y gane XNF en el proceso.
+  - Participe en quemas directas de vXEN o vUSDy para adquirir XNF.
+  - Apueste tokens XNF para ganar tokens de cadena nativa como ETH, BNB y MATIC.
+  - Compre un NFT Phoenix Ape para desbloquear quemas amplificadas diarias y más.
+  - Contribuya al crecimiento del protocolo a través de iniciativas comunitarias.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ ¿Qué sucede si no hay intercambios de tokens o quemas durante un ciclo diario?
+
+- En el improbable caso de que no se produzcan intercambios en Xenify, y ningún usuario queme vXEN o vUSDy, no se llevará a cabo la distribución diaria del ciclo XNF. En este escenario, los tokens XNF programados para su distribución durante ese ciclo simplemente no se acuñarán. Como resultado, el suministro total de XNF disminuirá por la cantidad que estaba destinada a distribuirse en ese ciclo.
+
+- Por ejemplo, si la asignación diaria para un ciclo se establece en 20,000 XNF, y si no se producen intercambios o quemas durante ese ciclo, los 20,000 XNF no se acuñarán ni distribuirán. En cambio, el suministro total de XNF se reducirá en 20,000 XNF al final del ciclo.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Glosario
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>  
+
+Bienvenido al Glosario Xenify, su recurso de referencia para comprender los términos y conceptos clave esenciales para el ecosistema Xenify y el mundo más amplio de las finanzas descentralizadas (DeFi). Nuestro glosario tiene como objetivo salvar la brecha entre la jerga criptográfica compleja y el lenguaje cotidiano. Mediante el uso de un lenguaje cotidiano y explicaciones sencillas, nuestro glosario le permitirá profundizar sus conocimientos sobre Xenify, DeFi y las tecnologías innovadoras que dan vida a nuestro protocolo con claridad y simplicidad.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ XEN
+  
+  - XEN es la inspiración para Xenify, que incorpora su innovador concepto de Prueba de Participación y metodología de Primeros Principios para construir un protocolo descentralizado innovador.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ XNF
+
+  - XNF es el token de capital nativo de Xenify, un protocolo de agregador multi-cadena de vanguardia en el espacio de finanzas descentralizadas (DeFi). Los usuarios pueden ganar tokens XNF participando activamente en las actividades de la plataforma, como quemar tokens vXEN o vUSDy e intercambiar tokens en cadenas compatibles.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ veXNF
+
+  - veXNF es un token con derechos adquiridos, representado como un token no fungible (NFT) bajo el estándar ERC-721, que representa la posición de apuesta de un usuario en XNF. La participación de un usuario en las recompensas de cadena nativa no está dictada únicamente por la cantidad de veXNF que posee. También está influenciado por su "poder" o posición dentro del protocolo. Esta posición se determina mediante una combinación de sus tenencias de veXNF y la duración de su período de bloqueo.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Xenify
+  - Xenify es un protocolo de finanzas descentralizadas (DeFi) diseñado para revolucionar la experiencia de intercambio de tokens. Ofrece un agregador multi-cadena de vanguardia que facilita el intercambio de tokens en 50 cadenas diferentes. Con acceso a las mejores rutas y tarifas más bajas de 27 agregadores, Xenify empodera a los usuarios para intercambiar tokens entre cadenas compatibles de manera fluida. Hace hincapié en la equidad, la simplicidad, la transparencia, el empoderamiento del usuario y la interoperabilidad, con el objetivo de crear un ecosistema DeFi más conectado y amigable para el usuario.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Staking
+
+  - Staking implica bloquear tokens en una billetera o plataforma para respaldar las operaciones de la red, como validar transacciones o asegurar la red. A cambio, los participantes reciben recompensas.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+ 
+## ◽️ Cross-chain
+
+  - Cross-chain se refiere a la habilidad de interactuar y transferir activos entre diferentes redes blockchain. Promueve la interoperabilidad y un ecosistema más conectado.
+  
+![Linea Divisoria - Llena](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Tokenomics
+
+  - Tokenomics es el estudio de los aspectos económicos de una criptomoneda o token, como el suministro, distribución e incentivos.
+  
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Quemaduras Directas
+
+  - Cuando un token es quemado, generalmente se envía a una dirección inactiva y se elimina de la circulación, reduciendo efectivamente el suministro total por la cantidad quemada. En Xenify, las Quemaduras Directas ocurren cuando los usuarios queman tokens a propósito (vXEN o vUSDy) para promover el crecimiento del protocolo. Como recompensa por su compromiso con el protocolo, los usuarios reciben tokens XNF a cambio de sus tokens vXEN o vUSDy quemados.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Prueba de Quema
+
+  - Prueba de Quema es un mecanismo de compromiso donde los usuarios queman tokens para mostrar su apoyo al protocolo. A cambio, reciben participación accionaria.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  
+## ◽️ Volumen de Intercambio
+
+  - El volumen de intercambio se refiere al valor total de los intercambios de tokens ejecutados en la plataforma Xenify. Sirve como base para distribuir los tokens XNF a los usuarios durante el ciclo de recompensa diaria.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Principios Fundamentales
+
+  - Los principios fundamentales en cripto son los conceptos fundamentales que sostienen las monedas digitales descentralizadas. Se centran en el acceso sin permiso, la transparencia, la ausencia de confianza, la descentralización y la inmutabilidad. Estos principios guían el crecimiento y la innovación de las criptomonedas, permitiendo la toma de decisiones informadas y moldeando el futuro de las finanzas descentralizadas.
+  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Interoperabilidad
+
+  - La interoperabilidad es la capacidad de diferentes sistemas, redes o plataformas para funcionar sin problemas entre sí. Permite el intercambio de datos, activos e información sin barreras.
+  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Contratos Inteligentes
+
+  - Los Contratos Inteligentes son acuerdos digitales que se ejecutan automáticamente cuando se cumplen condiciones específicas, permitiendo que dos o más partes intercambien cosas como dinero, propiedades o acciones de manera transparente y sin problemas, sin necesidad de un intermediario. Estos contratos son como mini programas almacenados en una blockchain, y se ejecutan tan pronto como se cumplen los términos acordados. Al automatizar el proceso, todas las partes involucradas pueden estar seguras del resultado sin retrasos o interferencias de intermediarios.
+  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ DeFi (Finanzas Descentralizadas)
+
+  - DeFi, abreviatura de Finanzas Descentralizadas, es un sistema financiero que elimina a los intermediarios mediante el uso de la tecnología blockchain. Combina la banca tradicional con blockchain, reemplazando algunas partes del sistema financiero habitual con contratos inteligentes en una blockchain. DeFi ofrece servicios financieros en una blockchain, ofreciendo una alternativa más abierta, transparente y amigable para el usuario a los servicios financieros tradicionales.
+  
+<br>  
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Reconocimientos  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## YSL.IO (21 de abril de 2023) - Intercambios entre cadenas
+
+**Enlaces:**
+
+- [Sitio web](https://ysl.io/)  
+- [Libro blanco](https://docs.ysl.io)
+- [Perfil de Twitter](https://twitter.com/ysl_io)
+- [Canal de Telegram](https://t.me/ysl_io)
+
+**Conceptos influyentes:**
+
+- [NFT Phoenix Ape](https://docs.ysl.io/protocol-features/Phoenix-NFT)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## XEN Crypto (8 de octubre de 2022) - Protocolo entre cadenas
+
+**Enlaces:**
+  
+- [Sitio web](https://faircrypto.org)
+- [Litepaper](https://faircrypto.org/xencryptolp.pdf)  
+- [Código fuente](https://github.com/FairCrypto/XEN-crypto)
+- [Perfil de Twitter](https://twitter.com/XEN_Crypto)
+- [Canal de Telegram](https://t.me/XENCryptoTalk)
+
+**Conceptos influyentes:**
+
+- [Principios fundamentales](https://faircrypto.org/xencryptolp.pdf)
+- [Prueba de participación](https://faircrypto.org/xencryptolp.pdf)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## DBXen (16 de febrero de 2023) - Generación de rendimiento entre cadenas
+
+**Enlaces:**
+
+- [Sitio web](https://dbxen.org/)
+- [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
+- [Código fuente](https://github.com/deb0x/dbXenBurnerProject)  
+- [Perfil de Twitter](https://twitter.com/DBXencrypto)
+- [Canal de Telegram](https://t.co/vprGbYeXqc)
+
+**Conceptos influyentes:**
+
+- [Costo de quemar](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [Distribución de tokens](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+# ◽️ Direcciones de contrato
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️XEN
+ - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
+ - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e) 
+ - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
+ - [Avalanche](https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389)
+ - [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
+ - [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
+ - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00eE9075cAC561c427643286F8F4E1)
+ 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️USDy
+
+ - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
+ 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️NFTs Phoenix Ape
+
+- [Opensea](https://opensea.io/collection/phoenix-ape-nft) 
+- [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Enlaces útiles 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- <https://xenify.io>
+- <https://t.me/xenify_io>  
+- <https://medium.com/xenify>
+- <https://twitter.com/xenify_io>
+- <https://www.youtube.com/@xenify-io>
