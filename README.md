@@ -933,13 +933,13 @@ To leverage this recycling feature, ensure that you have a sufficient balance of
   - You decide to recycle your native chain rewards.
   - The protocol employs Chainlink's price oracle to ascertain the dollar value of your native chain reward balance.
   - Based on the dollar value of your contribution, the protocol mints an appropriate number of vXEN batches. The number of batches is determined by rounding down to the nearest batch count.
-  - All the minted vXEN batches are burned to obtain XNF tokens, and the protocol collects a burn fee from your native chain rewards balance.
+  - All the minted vXEN batches are immediately burned to participate in the daily burn auction, and the protocol collects a burn fee from your recycled native chain rewards.
   - After the burn process, your remaining native chain rewards are sent to the Recycling Contract.
   - The Recycling Contract splits the native tokens three ways: 50% for creating XNF protocol-owned liquidity, 25% for creating XEN protocol-owned liquidity, and 25% allocated to the team as USDC to support Xenify's ongoing development, marketing, and outreach initiatives.
   - The XNF LP tokens and XEN LP tokens acquired from the recycling process are held by the protocol.
   - At the end of the daily burn auction, you receive XNF tokens based on the vXEN batches burned from your recycled contribution.
   - Next, you will receive your share of daily native chain rewards based on your veXNF balance and its associated power.
-  - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle.
+  - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle, as well as a share of the XNF and XEN acquired from protocol-owned liquidity.
 
 By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual fees associated with the daily burn auction. Most importantly, as a dedicated recycler, you will earn native chain tokens generated from the 25% claim fee and qualify for an exclusive distribution of XNF and XEN at the end of each cycle. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
