@@ -506,3 +506,466 @@ Xenify se está preparando para ir a lo grande, evaluando un montón de blockcha
 ## ◽️ Pools de liquidez XNF cuando se implementen
 
 <br>
+
+| Cadena        | DEX                                                 | Par de Liquidez |
+| ------------- | --------------------------------------------------- | --------------- |  
+| KCC           | [MojitoSwap](https://www.mojitoswap.finance)        | kXNF-KCS        |
+| Celo          | [Uniswap V3](https://app.uniswap.org)               | cXNF-CELO       |
+| Fuse          | [SushiSwap](https://www.sushi.com)                  | fXNF-FUSE       |
+| Boba          | [SushiSwap](https://www.sushi.com)                  | boXNF-BOBA      |
+| Heco          | [MDEX](https://mdex.com)                            | hcXNF-HT        |
+| Telos         | [ApeSwap](https://apeswap.finance)                  | tXNF-TELOS      |  
+| Velas         | [Wavelength](https://app.wavelength.exchange)       | veXNF-VLX       |
+| Metis         | [Hummus Exchange](https://www.hummus.exchange)      | meXNF-METIS     |
+| Canto         | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO   |
+| Klaytn        | [KlaySwap](https://klayswap.com)                    | kXNF-KLAY       |
+| Evmos         | [SpaceSwap](https://swap-evmos.spacefi.io)          | coXNF-WEVMOS    |
+| Aurora        | [Polaris Finance](https://polarisfinance.io)        | arXNF-ETH       |
+| Gnosis        | [Balancer V2](https://balancer.finance)             | gXNF-GNO        |
+| zkSync        | [SyncSwap](https://syncswap.xyz)                    | zkXNF-ETH       |
+| Cronos        | [VVS Finance](https://vvs.finance)                  | crXNF-CRO       |
+| Fantom        | [SpookySwap](https://spooky.fi)                     | fmXNF-FTM       |
+| Polygon       | [Uniswap V3](https://app.uniswap.org)               | mXNF-MATIC      |
+| Arbitrum      | [Uniswap V3](https://app.uniswap.org)               | aXNF-ETH        | 
+| Ethereum      | [Uniswap V3](https://app.uniswap.org)               | XNF-ETH         |
+| Optimism      | [Uniswap V3](https://app.uniswap.org)               | oXNF-ETH        |
+| Avalanche     | [Trader Joe](https://traderjoexyz.com)              | avXNF-AVAX      |
+| Moonriver     | [Solarbeam](https://app.solarbeam.io/exchange/swap) | mrXNF-MOVR      |
+| OKX Chain     | [OKExSwap](https://www.okex.com/swap)               | okXNF-OKT       |
+| Moonbeam      | [Stellaswap](https://app.stellaswap.com/pulsar)     | mbXNF-WGLMR     |
+| BNB Chain     | [ApeSwap](https://apeswap.finance)                  | bXNF-BNB        | 
+| PulseChain    | [PulseX](https://pulsex.com)                        | pXNF-PLS        |
+| Ethereum PoW  | [Uniwswap](https://uniwswap.com)                    | vvXNF-WETH      |
+| Polygon zkEVM | [Quickswap](https://quickswap.exchange)             | mkXNF-MATIC     |
+
+## ◽️ Proceso de acuñación de XNF e incentivos
+
+- El proceso de acuñación de XNF dentro de Xenify ha sido meticulosamente estructurado para recompensar a los usuarios que participen activamente y contribuyan al crecimiento del protocolo. Esta iniciativa garantiza una distribución equitativa de los tokens XNF y fomenta un protocolo genuinamente descentralizado y dirigido por la comunidad.
+
+- El modelo de incentivos de Xenify está cuidadosamente diseñado, ofreciendo recompensas proporcionales a los usuarios que intensifican su compromiso con la plataforma. Este enfoque impulsa una mayor participación, ya que los usuarios pueden adquirir tokens XNF recién acuñados en relación con su actividad en la plataforma.
+
+- La distribución de tokens XNF sigue ciclos de un día, iniciando con un grupo de recompensas de 20,000 tokens XNF. Esta asignación diaria se divide en partes iguales: 50% se distribuye a los usuarios que queman tokens vXEN o vUSDy, quedando el 50% restante reservado para los contribuyentes a la tarifa de intercambio de la plataforma. Esta asignación diaria se extenderá a través de todas las otras cadenas de implementación futuras también. A través de la implementación de un modelo de reducción a la mitad, la cantidad de acuñación diaria se reduce gradualmente, culminando en la distribución completa de los 22.6 millones de tokens XNF totales para el mes 2112.
+
+- Los usuarios también obtienen mayores incentivos a través del mecanismo de participación de la plataforma, que les permite acumular recompensas en forma de tokens nativos de cadena específicos, como ETH en la cadena Ethereum. Estas recompensas se generan a partir de diversas actividades dentro de Xenify, específicamente de las tarifas de intercambio y las tarifas de quema.
+
+- El modelo de incentivos de tres niveles único impulsa a los usuarios a utilizar Xenify para ganar XNF, al tiempo que recompensa a quienes participan y bloquean sus tokens XNF. Esto funciona como una rueda de inercia, impulsando el crecimiento a largo plazo de Xenify mientras se cultiva un sistema de recompensa vibrante y sostenible que incentiva una base de usuarios en constante crecimiento.
+
+## ♦️ Quemar para ganar XNF
+
+- Xenify empodera a los usuarios para quemar sin esfuerzo sus tokens XEN o tokens nativos de YSL.IO directamente desde sus billeteras para participar en el ciclo diario de quema. Este único mecanismo de quema integra dos tokens personalizados conocidos como vXEN y vUSDy, las contrapartes virtuales de los tokens XEN y los tokens nativos de YSL.IO, respectivamente. Estos tokens tienen un propósito específico: facilitar la acuñación de tokens XNF a través del proceso de quema. En consecuencia, los usuarios pueden participar en el ciclo diario de quema, independientemente de la variante de token XEN o YSL.IO que posean. Este mecanismo de quema va más allá de simplemente reducir el suministro circulante de tokens XEN y YSL.IO; incorpora un enfoque estratégico que reúne a la comunidad YSL.IO y a las comunidades XEN más amplias en todas las cadenas, fomentando una visión compartida que unifica ambos ecosistemas.
+
+- Para adquirir vXEN, deberá quemar la variante de token XEN que admite la cadena, como bXEN en BNB Chain. Esta función de quema posiciona al protocolo como un actor clave en la quema estratégica de tokens XEN de capa 1. Esto significa que cada vez que queme la variante de token nativo XEN, su dirección se agregará al registro de quemas X1 y, a cambio, adquirirá vXEN. Tenga en cuenta que ejecutar esta quema incurrirá en una tarifa de acuñación vXEN. Durante el proceso de quema, la variante de token XEN que proporcionó se quemará (eliminada permanentemente de la circulación) y la tarifa de acuñación vXEN utilizada por el Administrador de tarifas de acuñación para crear liquidez propia del protocolo para XNF y XEN. La cantidad de lotes vXEN obtenidos de este proceso de quema variará según el valor de mercado actual de la variante de token XEN específica que elija quemar.
+
+- Una vez que posea vXEN, puede participar en la distribución diaria de XNF de Xenify en cualquier cadena en la que se haya implementado XNF participando en la subasta de quema específica de la cadena. Tenga en cuenta que al ejecutar el proceso de quema vXEN incurrirá en una tarifa de quema. Durante este proceso, el vXEN se eliminará permanentemente de la circulación, y la tarifa se apartará como recompensas para los participantes de XNF.
+
+- Del mismo modo, los titulares de tokens nativos de YSL.IO (bYSL, xYSL o USDy) pueden participar activamente en la subasta diaria de quema adquiriendo vUSDy. Al igual que el proceso de quema XEN, ejecutar la quema de sus tokens nativos de YSL.IO requerirá una tarifa de acuñación vUSDy. Durante este proceso, la variante de token YSL.IO que proporcionó se quemará permanentemente de la circulación y la tarifa de acuñación vUSDy será utilizada por el Administrador de tarifas de acuñación para crear liquidez propia del protocolo XNF y liquidez propiedad del tesoro USDy para YSL.IO.
+
+- Una vez que haya adquirido vUSDy, puede participar en la distribución diaria de XNF de Xenify en cualquier cadena en la que se haya implementado XNF participando en la subasta de quema específica de la cadena. Al igual que el proceso de quema vXEN, ejecutar la quema de vUSDy incurre en una tarifa de quema. Este proceso elimina permanentemente los tokens vUSDy de la circulación, y la tarifa recopilada sirve como recompensas para los participantes de XNF. Es importante tener en cuenta que la tasa de conversión para vUSDy permanece fija, pero depende del token nativo YSL.IO específico que elija intercambiar.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Intercambiar para ganar XNF
+
+- Xenify está redefiniendo el juego con una plataforma innovadora que permite transacciones entre cadenas de un solo clic en 50 cadenas, al mismo tiempo que ofrece a los participantes la emocionante oportunidad de ganar tokens nativos de la cadena a diario.
+
+- Cada vez que los usuarios pagan la tarifa de intercambio del 0.5% en las cadenas donde se ha implementado XNF, reciben tokens XNF a través de la subasta diaria de intercambio. Esta ventaja única permite a los usuarios disfrutar de una experiencia de intercambio sin esfuerzo mientras acumulan simultáneamente tokens XNF.
+
+- Pero las recompensas no se detienen ahí. Al participar en estas tokens XNF, los usuarios tienen la oportunidad de recaudar tokens nativos de la cadena como BNB, ETH y MATIC diariamente. Estas recompensas nativas de la cadena provienen de múltiples fuentes, incluidas las tarifas de intercambio y las tarifas de quema. Como resultado, los usuarios no solo pueden disfrutar de la eficiencia y las tarifas competitivas que ofrece Xenify, sino también obtener acceso a un sistema de recompensas dinámico y sostenible que mejora su cartera.
+
+- Al participar en intercambios de tokens con Xenify, los usuarios desempeñan un papel fundamental en impulsar el crecimiento de la plataforma. Las tarifas de intercambio generadas en las cadenas donde se ha implementado XNF se distribuyen entre los participantes de XNF en esa cadena específica. Para las cadenas donde XNF aún no se ha implementado, las tarifas de intercambio se utilizan por parte del equipo para respaldar los esfuerzos promocionales y avanzar en el desarrollo de Xenify y sus tokens afiliados. Esto fomenta una mayor conciencia y una adopción más amplia de la plataforma, beneficiando a toda la comunidad.
+
+- Además, al participar en intercambios en cualquiera de las 50 cadenas compatibles, los usuarios son elegibles para un airdrop exclusivo de 1,500,000 XNF. Cada evento de airdrop se lleva a cabo en una cadena donde se ha programado implementar XNF y dura 60 días antes del lanzamiento. Todos los intercambios realizados durante este período garantizan a los usuarios una parte del próximo airdrop de XNF. En otras palabras, aunque no se beneficie de una asignación diaria de XNF cuando ejecuta intercambios en cadenas donde XNF aún no se ha implementado, aún tiene la oportunidad de estar incluido en un airdrop exclusivo de XNF.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Participar en XNF para ganar tokens nativos
+
+- Al distinguirse de los agregadores genéricos, Xenify se enorgullece de su modelo de incentivos de vanguardia que permite a los usuarios de la plataforma ejecutar intercambios sin problemas y embarcarse en un viaje gratificante al ganar recompensas en cada ciclo en función de su XNF participado. Estas recompensas se distribuyen en forma de tokens nativos de la cadena, un activo altamente líquido, lo que indica un retorno potencialmente lucrativo para los usuarios que participan en XNF.
+
+- Los participantes de XNF desempeñan un papel esencial en el crecimiento a largo plazo de Xenify y, a cambio, cosechan los beneficios. Para las cadenas donde se ha implementado XNF, los participantes disfrutan de tokens nativos generados a partir de las tarifas de intercambio en todas las cadenas EVM compatibles al final de cada ciclo. A medida que Xenify continúa ampliando su alcance, se garantiza un mayor volumen de intercambio, con usuarios ansiosos por beneficiarse de una experiencia de intercambio sin problemas mientras ganan XNF en cada intercambio que realizan. En consecuencia, ¡los participantes de XNF se benefician de mayores recompensas! Este modelo equitativo establece un ciclo de retroalimentación positivo, garantizando que todos los participantes se benefician del crecimiento del ecosistema proporcional a su participación.
+
+- Además de las tarifas de intercambio, los participantes de XNF en cadenas donde se ha implementado XNF, también ganarán tokens nativos al final de cada ciclo generados a partir de la tarifa de quema. Con XNF adoptando el modelo de reducción a la mitad y el 50% de la acuñación diaria reservada para aquellos que queman vXEN y vUSDy, participar en la subasta diaria de quema es uno de los pocos medios para asegurar una posición considerable de XNF. A medida que más usuarios queman vXEN y vUSDy para adquirir XNF, no solo los participantes de XNF se benefician de mayores recompensas a través de la tarifa de quema, sino que la liquidez de XNF prolifera a través de la tarifa de acuñación. Esta implementación innovadora del ciclo de quema crea otro bucle de retroalimentación positivo, garantizando que todo el ecosistema se beneficie de la participación del usuario.
+
+- El modelo innovador de participación de Xenify permite a los usuarios participar sus tokens XNF para tener la oportunidad de recibir un flujo constante de recompensas excepcionales en forma de Recompensas de la cadena nativa. Este distintivo modelo de distribución de recompensas no solo fortalece la demanda y el valor de XNF, sino que también sirve como un incentivo adicional para que los titulares participen en sus distribuciones diarias de XNF. Esta estrategia se ha integrado para fomentar la participación a largo plazo en el protocolo, al mismo tiempo que se cultiva una base de usuarios en constante expansión.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Costos de intercambio en Xenify
+
+Xenify ofrece una solución innovadora de intercambio de tokens que no solo simplifica las transacciones entre cadenas sino que también recompensa a sus usuarios, al mismo tiempo que fomenta la expansión de su ecosistema. A través de una tarifa del 0.5% en cada intercambio de tokens, Xenify puede lograr tres objetivos cruciales: recompensar a los usuarios de su plataforma con tokens XNF, proporcionar recompensas de tokens nativos a los participantes de XNF y garantizar el desarrollo continuo del protocolo.
+
+Así es como funciona: cuando un usuario inicia un intercambio de tokens en Xenify, paga una tarifa de intercambio del 0.5%. Esta tarifa se asigna estratégicamente para fomentar el crecimiento futuro e incentivar la participación de los usuarios. En las cadenas donde XNF se ha implementado con éxito, el 100% de la tarifa de intercambio se distribuirá entre los participantes de XNF como recompensas diarias en forma de tokens nativos de la cadena. En cuanto a otras cadenas donde XNF aún no se ha implementado o durante los eventos de airdrop, la tarifa de intercambio se asignará al equipo para reforzar el desarrollo, marketing y esfuerzos de divulgación continuos de Xenify.
+
+Pero aquí está la parte emocionante, al pagar la tarifa de intercambio nominal del 0.5% en cadenas donde XNF está implementado, no solo acelera su transacción sino que también asegura una asignación de XNF del ciclo diario de acuñación del protocolo. Estos tokens XNF se pueden participar para desbloquear ganancias aún mayores de los tokens nativos distribuidos al final de cada ciclo diario. Como resultado, los usuarios de la plataforma se benefician de la eficiencia y las tarifas competitivas de Xenify, al mismo tiempo que obtienen recompensas y modelan activamente la evolución del ecosistema dinámico de Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Costos de quemar en Xenify
+
+El protocolo Xenify permite a los usuarios quemar tokens vXEN o vUSDy para asegurar XNF del ciclo diario de recompensas XNF. Piense en vXEN y vUSDy como versiones virtuales de XEN y USDy, respectivamente. Estos tokens se han creado específicamente para una conversión sin problemas a XNF.
+
+Al participar en el proceso de quema para adquirir XNF, los usuarios se encontrarán con ciertos costos, como tarifas de gas de transacción y la tarifa obligatoria de acuñación y quema. Sin embargo, los cálculos de tarifas de acuñación y quema se han diseñado cuidadosamente no solo para garantizar un método transparente y consistente para la quema de tokens, sino también para recompensar a los usuarios con atractivos descuentos en sus tarifas de quema de hasta el 75%. 
+
+El cálculo de la tarifa de quema está diseñado para considerar varios factores, incluido el momento de la quema durante un ciclo, la cantidad de lotes que se queman y su valor asociado. Lo mejor de todo es que cuantos más lotes queme un usuario, mayor será el descuento que disfrutará, con un ahorro potencial de hasta el 75% para 10,000 lotes durante la primera hora de cada ciclo. Esto crea un atractivo incentivo para que los usuarios realicen operaciones de quema más grandes en los primeros puntos de un ciclo.
+
+Al implementar este cálculo, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de un token específico (vXEN o vUSDy) que queman. Además, nos enorgullece enfatizar que el 100% de las tarifas de quema recaudadas se dirigen a los participantes de XNF, y la tarifa de acuñación se reimplementará para reforzar la liquidez. Este enfoque no solo fomenta la eficiencia, sino que también recompensa a nuestros valiosos colaboradores, estableciendo un ecosistema mutuamente beneficioso. Además, con el descuento máximo del 75% para 10,000 lotes, cuanto más quemen los usuarios, ¡más ahorran! Esta emocionante posibilidad no solo ofrece beneficios sustanciales para aquellos que queman, sino que también genera recompensas mejoradas para los participantes de XNF.
+
+Pero, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o vUSDy, requeridos para participar en el proceso de quema. Un solo lote para vXEN se establece en una cantidad fija de 5 vXEN, con el valor por token vXEN fijado en $1.00. Del mismo modo, un solo lote para vUSDy se establece en una cantidad fija de 5 vUSDy, con el valor por token vUSDy fijado en $1.00. La cantidad de token variante XEN necesaria para adquirir un lote de vXEN será dinámica, adaptándose al precio de mercado en constante cambio de cada variante de token XEN. Sin embargo, la cantidad de token variante de YSL.IO necesaria para adquirir un lote de vUSDy será fija, variando según el token específico de YSL.IO que se quema. 
+
+Para obtener vXEN, simplemente necesita tener una variante de token XEN admitida y una cantidad suficiente de tokens nativos de la cadena para cubrir la Tarifa obligatoria de acuñación vXEN. El 100% de la variante de token XEN que proporcione se quemará, asegurando que su dirección de billetera esté incluida en el registro de quema para la distribución de X1, el token nativo de la nueva capa 1 XEN (cadena X1).
+
+Solo tenga en cuenta que el valor de vXEN está fijado en $1.00, con 1 vXEN igual a $1.00 XEN (y variante de token XEN) según su valor actual de mercado. Esto significa que la cantidad requerida para cada quema se adapta al valor actual de mercado de la variante de token XEN específica que está quemando, garantizando un intercambio justo para todos los usuarios. Por ejemplo, si el precio actual de bXEN es de $0.01 y tiene 10,000 bXEN, el protocolo determinará sus 10,000 bXEN como equivalentes a $100 vXEN (100 tokens vXEN).
+
+Del mismo modo, si desea adquirir vUSDy, deberá tener tokens nativos de YSL.IO como bYSL, xYSL o USDy y una cantidad suficiente de tokens nativos de la cadena para cubrir la Tarifa obligatoria de acuñación vUSDy. Tenga en cuenta que cuando quema para vUSDy, el protocolo usará tarifas predeterminadas para convertir bYSL, xYSL y USDy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Descuento de tarifa de quema ponderado en el tiempo
+
+Xenify introduce un enfoque innovador para los descuentos en tarifas de quema que apunta a promover la equidad y evitar la manipulación. Al implementar un cálculo de tarifa de quema cuidadosamente diseñado, el protocolo evita efectivamente las prácticas injustas donde los usuarios cronometran estratégicamente las transacciones para maximizar sus recompensas o incentivos.
+
+El cálculo de la tarifa de quema (BF) incluye factores ponderados en el tiempo llamados coeficiente de tarifa de quema (FC) y coeficiente de lote (BC), que ayudan a determinar la tarifa necesaria para ejecutar la función de quema en función del valor de los lotes que se queman. El descuento en la tarifa de quema que obtiene dependerá del coeficiente de tarifa de quema (FC) y el coeficiente de lote (BC) que se aplique en el momento de la quema. Ambos coeficientes están ponderados en el tiempo, disminuyendo a lo largo del ciclo diario. Esto significa que el descuento efectivo que obtiene variará según el momento en que decida quemar durante un ciclo.
+
+Para iniciar la función de quema en Xenify, los usuarios deben tener un saldo suficiente de tokens nativos de la cadena en su billetera que cumpla o exceda la cantidad requerida para la tarifa de acuñación y quema. La tarifa de acuñación que debe enviar un usuario dependerá del valor subyacente de mercado de los tokens que están siendo quemados por el usuario, y el protocolo calculará la tarifa de quema (BF) utilizando la siguiente fórmula:
+
+<br>
+
+$$
+BF = (FC \times VB) \times (1 - (NB \times BC))  
+$$
+
+**Dónde:**
+
+- $BF$ (Tarifa de Quema) - La tarifa cobrada por la función de quema, pagada en la criptomoneda nativa de la blockchain.
+- $FC$ (Coeficiente de Tarifa de Quema) - Un coeficiente ponderado en el tiempo usado para considerar un descuento en la tarifa de quema.
+- $VB$ (Valor de Lotes) - El valor en dólares de los lotes que están siendo quemados por el usuario, influyendo en la tarifa de quema a medida que aumenta el valor de los lotes.
+- $BC$ (Coeficiente de Lote) - Un coeficiente ponderado en el tiempo usado para considerar el descuento basado en los lotes que se están quemando.
+- $NB$ (Número de Lotes) - La cantidad de lotes que quema el usuario, influyendo en el descuento de las tarifas de quema a medida que aumenta la cantidad de lotes. Esto se limitará a 10,000 lotes.
+
+<br>
+
+Vale la pena señalar que el descuento de la tarifa de quema que recibirá dependerá de los valores actuales del Coeficiente de Tarifa de Quema (FC) y el Coeficiente de Lote (BC) en el momento de la quema. A medida que estos coeficientes disminuyen durante el ciclo diario, el descuento efectivo que obtiene variará según el momento en que decida quemar durante un ciclo. Este enfoque dinámico garantiza que los usuarios tengan la oportunidad de beneficiarse de diferentes niveles de descuento según su temporización.
+
+El enfoque de Xenify para los descuentos de tarifas de quema no solo promueve la equidad, sino que también brinda a los usuarios el potencial para optimizar sus ahorros. Al considerar los coeficientes ponderados en el tiempo y elegir estratégicamente cuándo ejecutar las quemas, los usuarios pueden maximizar sus descuentos y el valor general. Este innovador enfoque aporta transparencia, equidad y mayores beneficios a todos los participantes del ecosistema Xenify.
+
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Coeficiente de Tarifa de Quema (FC)
+
+La Tarifa de Quema (BF) necesaria para ejecutar la función de quema aumentará a medida que aumente el valor total de los lotes que se queman, sin embargo, al ejecutar las quemas antes en el ciclo, los usuarios tienen la oportunidad de beneficiarse de una tarifa de quema más baja gracias al Coeficiente de Tarifa de Quema (FC) .
+
+Como se ilustra en la tabla a continuación, el Coeficiente de Tarifa de Quema comienza en 50% cuando comienza un ciclo y aumenta aproximadamente 2.174% cada hora hasta que alcanza el 100% en la última hora del ciclo diario. Esto significa que los usuarios tendrán que contribuir más para ejecutar la función de quema a medida que avanza el día. Sin embargo, también brinda la oportunidad para que los usuarios que queman antes en el ciclo obtengan un descuento de hasta el 75% durante la primera hora de cada ciclo.
+
+<br>
+
+| Hora | Coeficiente de Tarifa de Quema (FC) |  
+|------|-------------------------------------|
+| 1    | 50.00%                              |
+| 2    | 52.17%                              |
+| 3    | 54.35%                              |
+| 4    | 56.52%                              |
+| 5    | 58.70%                              |
+| 6    | 60.87%                              | 
+| 7    | 63.04%                              |
+| 8    | 65.22%                              |
+| 9    | 67.39%                              |
+| 10   | 69.57%                              |
+| 11   | 71.74%                              |
+| 12   | 73.91%                              |
+| 13   | 76.09%                              |
+| 14   | 78.26%                              |
+| 15   | 80.43%                              |
+| 16   | 82.61%                              |
+| 17   | 84.78%                              |
+| 18   | 86.96%                              |
+| 19   | 89.13%                              |
+| 20   | 91.30%                              |
+| 21   | 93.48%                              |
+| 22   | 95.65%                              |
+| 23   | 97.83%                              |  
+| 24   | 100.00%                             |
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Coeficiente de Lote (BC)
+
+El Coeficiente de Lote (BC) considera un descuento en la tarifa de quema basado en la cantidad de lotes que quema. Cuanto más lotes queme, mayor será el descuento por lote, representado por el término (1 - (NB x BC)). El valor del Coeficiente de Lote (BC) varía según el momento en que un usuario decida quemar durante un ciclo.
+
+La tabla a continuación ilustra cómo cambia el valor del coeficiente durante un ciclo de 24 horas. La constante comienza en 0.00005 cuando comienza el ciclo y disminuye 0.0000025 cada hora hasta que alcanza cero después de 20 horas. Como resultado, los usuarios no se beneficiarán del descuento por lote durante las últimas cuatro horas del ciclo.
+
+<br>  
+
+| Hora | Coeficiente de Lote (BC) |
+|------|--------------------------|  
+| 1    | 0.00005                  |
+| 2    | 0.0000475                |
+| 3    | 0.000045                 |
+| 4    | 0.0000425                |
+| 5    | 0.00004                  |
+| 6    | 0.0000375                |
+| 7    | 0.000035                 |
+| 8    | 0.0000325                |
+| 9    | 0.00003                  |
+| 10   | 0.0000275                |
+| 11   | 0.000025                 |
+| 12   | 0.0000225                |
+| 13   | 0.00002                  |
+| 14   | 0.0000175                |
+| 15   | 0.000015                 |
+| 16   | 0.0000125                |
+| 17   | 0.00001                  |
+| 18   | 0.0000075                |
+| 19   | 0.000005                 |
+| 20   | 0.0000025                |
+| 21   | 0                        |  
+| 22   | 0                        |
+| 23   | 0                        |
+| 24   | 0                        |
+
+<br>
+
+## ◽️ Diferentes escenarios de Tarifa de Quema
+
+Veamos más de cerca cómo opera el Descuento de Tarifa de Quema Ponderado en el Tiempo en diferentes escenarios:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+
+## ♦️ Escenario 1: El usuario quema durante la Hora 1 de un ciclo
+
+  - Digamos que decides quemar 10,000 lotes valorados en $5,000 durante la primera hora del ciclo diario. Teniendo en cuenta que el Coeficiente de Lote (BC) durante la primera hora del ciclo es 0.00005 y el Coeficiente de Tarifa de Quema (FC) durante la primera hora es del 50%, el protocolo determinará su Tarifa de Quema (BF) en $1,250.
+  
+<br>
+  
+$$
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250  
+$$
+
+<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Escenario 2: El usuario quema durante la Hora 24 de un ciclo
+
+  - Ahora, digamos que decides quemar 10,000 lotes durante la última hora del ciclo diario. Teniendo en cuenta que el Coeficiente de Lote (BC) durante la última hora de un ciclo es 0 y el Coeficiente de Tarifa de Quema (FC) durante la última hora es del 100%, el protocolo determinará su Tarifa de Quema (BF) en $5,000.
+  
+<br>  
+  
+$$
+BF = (1 \times 5,000) \times (1 - (10,000 \times 0)) = $5,000
+$$
+  
+<br>
+  
+Al comparar estos escenarios, se destacan los beneficios de quemar lotes en la primera hora versus la hora final. Los ahorros máximos del 75% solo son posibles si quemas 10,000 lotes durante la primera hora del ciclo diario. Este mecanismo de tarifa de quema ponderado en el tiempo mitiga las prácticas injustas y mejora la equidad, recompensando a los usuarios que ejecutan quemas más grandes antes en el ciclo con mayores descuentos.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Administrador de Tarifas de Acuñación 
+
+La subasta de quema diaria de Xenify es la oportunidad perfecta para conseguir tokens XNF, y todo lo que necesitas es tener vXEN o vUSDy. El proceso de adquirir estos tokens es sencillo: solo quema una variante de token XEN o YSL.IO nativo, respectivamente. Es un proceso sin fisuras que otorga a los usuarios acceso a la subasta de quema diaria y la oportunidad de asegurar XNF. Ten en cuenta que durante el proceso de quema, hay una Tarifa de Acuñación obligatoria basada en el valor de mercado actual de los tokens que se queman.
+
+Al proporcionar la Tarifa de Acuñación, los usuarios contribuyen a la creación de liquidez propiedad del protocolo. Esta liquidez también allana el camino para la distribución de recompensas adicionales en forma de XNF y tokens XEN nativos a los recicladores al final de cada ciclo. En consecuencia, el Administrador de Tarifas de Acuñación no solo fortalece la liquidez de propiedad del protocolo, sino que también genera indirectamente más recompensas para los recicladores. Este diseño innovador garantiza la sostenibilidad y el crecimiento a largo plazo del ecosistema Xenify. Además, la ausencia de claves de administración en el contrato que salvaguarda la liquidez de propiedad del protocolo elimina cualquier posibilidad de manipulación.
+
+Para iniciar la generación de esta liquidez de propiedad del protocolo, el Administrador de Tarifas de Acuñación recibe una asignación de 100,000 tokens XNF preacuñados cuando se implementa XNF. Estos tokens sirven el propósito de crear liquidez XNF a través de la Tarifa de Acuñación. Los 100,000 tokens XNF se dividen en partes iguales, con 50,000 tokens asignados para la Tarifa de Acuñación vXEN y 50,000 tokens para la Tarifa de Acuñación vUSDy. El equipo no tiene acceso a estos tokens preacuñados y solo puede ejecutar la quema de estos tokens si es necesario.
+
+Así es como funciona: cuando un usuario envía la Tarifa de Acuñación, el Administrador de Tarifas de Acuñación emparejará el 50% de los tokens nativos de la cadena con los tokens XNF preacuñados, para agregarlos como liquidez XNF en todo el rango, con todos los tokens LP siendo mantenidos por el protocolo. Este proceso continuará hasta que se agote la asignación preacuñada de XNF. Después de eso, el administrador inicia su proceso predeterminado, que consiste en usar el 25% de los tokens nativos para comprar XNF, emparejar el XNF adquirido con el 25% de los tokens nativos, para agregarlos como liquidez en todo el rango, con todos los tokens LP siendo mantenidos por el protocolo. 
+
+El 50% restante de la Tarifa de Acuñación se destina a crear liquidez XEN o liquidez USDy, dependiendo de si el usuario envió la Tarifa de Acuñación para adquirir vXEN o vUSDy, respectivamente. Cuando el protocolo crea liquidez USDy a través de la Tarifa de Acuñación vUSDy, los tokens LP USDy se envían a la Tesorería de YSL.IO. Por otro lado, cuando genera liquidez XEN a través de la Tarifa de Acuñación vXEN, los tokens LP XEN son mantenidos por el protocolo.
+
+Al final de cada ciclo, el protocolo retira el 1% del total de tokens LP XNF y el 1% de los tokens LP XEN mantenidos. Los tokens nativos de la cadena adquiridos de los tokens LP retirados se utilizan para comprar XNF y XEN, respectivamente, combinando los tokens comprados con los tokens XNF y XEN retirados, respectivamente. Estos tokens comprados se combinan con los tokens XNF y XEN previamente retirados y posteriormente se distribuyen entre los titulares de veXNF que han participado en recompensas de reciclaje durante el ciclo anterior. Los tokens XEN comprados durante este proceso representan el token nativo para la cadena específica, como bXEN en la Cadena BNB. Del mismo modo, los tokens XNF comprados representan el token nativo para la cadena, como bXNF en la Cadena BNB.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Tarifa de Acuñación vXEN
+
+La tarifa de acuñación vXEN se aplica solo cuando quemas una variante de token XEN para obtener vXEN. La tarifa de acuñación se determina por el valor de mercado actual de los tokens que quemas. Los tokens nativos generados a partir de la tarifa de acuñación vXEN se asignarán de la siguiente manera:
+
+- **El 50% se utilizará para crear liquidez XNF:** El protocolo utiliza el 50% de los tokens nativos para crear liquidez XNF en la cadena. Si están disponibles los 50.000 XNF preacuñados, la cantidad total de los tokens nativos se emparejará con XNF preacuñados para el emparejamiento de liquidez, manteniendo los tokens LP en el protocolo. Sin embargo, si se ha agotado la asignación de XNF preacuñado, el protocolo utilizará la mitad del 50% de los tokens nativos para comprar tokens XNF y el 25% restante de los tokens nativos para el emparejamiento de liquidez, manteniendo los tokens LP en el protocolo.
+
+- **El 50% se utilizará para crear liquidez de tokens XEN:** El protocolo utiliza el 50% de los tokens nativos de la cadena para crear liquidez para la variante de token XEN nativa de esa cadena (por ejemplo, en BNB Chain creará liquidez para bXEN-BNB) utilizando el 25% de los tokens para comprar el token XEN nativo (por ejemplo, bXEN) y el 25% restante de los tokens para el emparejamiento de liquidez, enviando los tokens LP al Tesoro de YSL.IO.
+
+Por ejemplo, supongamos que tiene 10.000 bXEN y desea convertirlos en vXEN. Si el valor actual de bXEN es de 0,01$ y tiene 10.000 bXEN, su bXEN vale 100$. Por lo tanto, necesitaría proporcionar 100$ en BNB para la cuota de acuñación. Después de iniciar el proceso de acuñación, el protocolo generará vXEN en función del valor total de su bXEN y la cuota de acuñación. En este ejemplo, recibirá 200$ en vXEN a cambio, considerando sus 100$ en bXEN y la cuota de acuñación de 100$ en BNB. Los 100$ en bXEN que envió durante el proceso se eliminarán permanentemente de la circulación, y la contribución de 100$ en BNB para la cuota de acuñación se enviará al Administrador de Cuotas de Acuñación vXEN.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Cuota de acuñación vUSDy
+
+La cuota de acuñación vUSDy solo se aplica cuando convierte USDy, xYSL o bYSL a vUSDy a través del proceso de quema. Los tokens nativos generados a partir de la cuota de acuñación vUSDy se asignarán de la siguiente manera:
+
+- **El 50% se utilizará para crear liquidez XNF:** El protocolo utiliza el 50% de los tokens nativos para crear liquidez XNF en la cadena. Si están disponibles los 50.000 XNF preacuñados, la cantidad total de los tokens nativos se emparejará con XNF preacuñados para el emparejamiento de liquidez, manteniendo los tokens LP en el protocolo. Sin embargo, si se ha agotado la asignación de XNF preacuñado, el protocolo utilizará la mitad del 50% de los tokens nativos para comprar tokens XNF y el 25% restante de los tokens nativos para el emparejamiento de liquidez, manteniendo los tokens LP en el protocolo.
+
+- **El 50% se utilizará para crear liquidez de Tesoro de USDy:** El protocolo utiliza el 50% de los tokens nativos para crear liquidez de Tesoro de USDy-USDC, acuñando el lado USDy del emparejamiento de liquidez y comprando USDC con el 50% de los tokens, enviando los tokens LP al Tesoro de YSL.IO. 
+
+Por ejemplo, supongamos que tiene 100 tokens USDy y desea convertirlos en vUSDy. Para cubrir la cuota de acuñación, debe tener tokens nativos de la cadena. La cuota de acuñación se determinará como 100$ en BNB, según la tasa de conversión fija de 1,00$ por USDy. Después de iniciar el proceso de acuñación, el protocolo generará vUSDy en función del valor total de su USDy y la cuota de acuñación. En este ejemplo, recibirá 200$ en vUSDy a cambio, considerando sus 100 USDy y la cuota de acuñación de 100$ en BNB. Los 100 USDy que envió durante el proceso se eliminarán permanentemente de la circulación, y la cuota de acuñación de 100$ en BNB se enviará al Administrador de Cuotas de Acuñación vUSDy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Distribución del ciclo XNF 
+
+Xenify emplea un enfoque equilibrado en la distribución diaria de tokens XNF, con un enfoque en dos componentes centrales en todas las cadenas en las que se implementa: cuotas de quema y cuotas de intercambio. Estos componentes reciben una participación equitativa de la acuñación diaria, con el 50% asignado a los usuarios que participan en la quema de tokens vXEN o vUSDy, y el 50% restante distribuido entre quienes participan en intercambios.
+
+Por ejemplo, si la cantidad acuñada diariamente de tokens XNF es de 20.000, la distribución se divide equitativamente. Aquellos que contribuyen a las cuotas de quema reciben 10.000 tokens XNF, y se asigna una cantidad equivalente a aquellos que contribuyen a las cuotas de intercambio. Esta estructura de asignación uniforme se extiende a todas las cadenas donde está presente Xenify. Por lo tanto, independientemente de la cadena que estén utilizando, los participantes involucrados en la quema de tokens o la ejecución de intercambios tienen la oportunidad de ganar una porción de los tokens XNF acuñados diariamente. 
+
+Por ejemplo, si la acuñación diaria de XNF es de 20.000 tokens XNF, Xenify distribuirá la asignación de dos maneras: 10.000 XNF se otorga a aquellos que contribuyen a las cuotas de quema, y 10.000 XNF a aquellos que contribuyen a las cuotas de intercambio. Esta misma estructura de asignación se aplica en todas las demás cadenas donde Xenify está implementado. En consecuencia, independientemente de la cadena, los usuarios que contribuyan a la quema de tokens o participen en intercambios tendrán la oportunidad de ganar una porción de los tokens XNF recién acuñados diariamente.
+
+Para determinar la parte de cada usuario en la asignación diaria a las contribuciones de quema e intercambio, el protocolo realizará una serie de cálculos. Estos cálculos se basarán en las contribuciones de intercambio y quema realizadas por un usuario durante el ciclo. El protocolo consolidará estas contribuciones para calcular con precisión la distribución total de XNF para cada usuario. Este enfoque metódico garantiza una distribución equitativa, acreditando tanto la participación activa del usuario en la quema de tokens como su contribución en términos de cuotas de intercambio.
+
+El protocolo calcula la contribución a la quema (BC) de un usuario específico en un ciclo, en función del total de tokens XNF distribuidos (TCD), el número total de lotes quemados por todos los usuarios (TNB) y el número de lotes quemados por el usuario específico (UNB). Aquí se explica la fórmula en detalle:
+
+<br>
+
+$$
+BC = (TCD \div 2) \times (UBB \div TBB)  
+$$
+
+<br>
+
+**Donde:**
+
+- *BC* - representa la contribución a la quema del usuario.  
+- *TCD* - es la cantidad total de tokens XNF distribuidos en un ciclo.
+- *UBB* - es el número de lotes que un usuario específico ha quemado en un ciclo.
+- *TBB* - es el número total de lotes quemados en un ciclo por todos los usuarios.
+
+<br>
+
+Así es como funciona: El protocolo calcula la contribución a la quema dividiendo primero el total de tokens distribuidos durante un ciclo (TCD) por 2, ya que el 50% de la acuñación diaria de XNF se asigna a los participantes que queman tokens vXEN o vUSDy. Luego calcula la proporción de lotes quemados por el usuario específico (UNB) con el total de lotes quemados por todos los usuarios (TNB). Esto resulta en un valor por lote quemado. Finalmente, el protocolo multiplica estos dos valores para determinar la contribución individual del usuario dentro de ese ciclo (BC).
+
+El cálculo de la contribución al intercambio sigue una lógica similar, por la cual el protocolo calcula la contribución al intercambio (SC) de un usuario específico en un ciclo, en función del total de tokens XNF distribuidos (TCD), el total de cuotas de intercambio pagadas por todos los usuarios ( TSF) y las cuotas de intercambio pagadas por el usuario específico (USF). Aquí se explica la fórmula en detalle:
+
+
+<br>
+
+$$
+SC = (TCD \div 2) \times (USF \div TSF)
+$$  
+
+<br>
+
+**Donde:**
+
+- *SC* - representa la contribución al intercambio del usuario.
+- *TCD* - es la cantidad total de tokens XNF distribuidos en un ciclo.  
+- *USF* - son las cuotas de intercambio pagadas por un usuario específico en un ciclo.
+- *TSF* - son las cuotas de intercambio totales pagadas en un ciclo por todos los usuarios.
+
+<br>
+
+Así es como funciona: El protocolo calcula la contribución al intercambio del usuario (SC) dividiendo primero el total de tokens XNF distribuidos (TCD) por 2, ya que el 50% de la acuñación diaria de XNF se asigna a los participantes que realizan intercambios en las cadenas compatibles. Luego multiplica el resultado por la proporción de las cuotas de intercambio del usuario (USF) con las cuotas de intercambio totales (TSF) pagadas por todos los usuarios. Esto genera un valor específico para cada unidad de cuota de intercambio pagada y ayuda a determinar la proporción de tokens XNF que recibe un usuario en función de su contribución individual a las cuotas de intercambio en un ciclo determinado.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Explicación visual 
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Participación de tokens XNF
+
+Cada ciclo, el protocolo Xenify distribuye tokens XNF recién acuñados entre sus usuarios. La distribución se lleva a cabo al final de cada día y se adhiere a una estructura de asignación particular. Específicamente, el 50% de los XNF acuñados diariamente se asigna a los usuarios que participan en la quema de tokens vXEN y vUSDy, y el 50% restante se distribuye a los usuarios que participan en intercambios en todas las cadenas EVM compatibles.
+
+Los tokens XNF participados juegan un papel esencial en la acumulación de recompensas nativas de cadena para los usuarios, determinándose la parte de cada usuario por su posición veXNF y el poder de ganancia asociado. Los tokens participados comienzan a acumular recompensas nativas de cadena dentro del mismo ciclo en que se participan. Estas recompensas se reúnen en un grupo de recompensas durante cada ciclo y luego se distribuyen entre los participantes de XNF por el protocolo al final del ciclo diario.
+
+Los usuarios que buscan obtener una parte de las recompensas nativas de la cadena en Xenify deben participar manualmente sus tokens XNF o reclamar activamente su asignación diaria de XNF. Al hacerlo, bloquean sus XNF durante un período de participación elegido, que puede ser tan corto como dos semanas o tan largo como cuatro años. Una vez establecido el período de bloqueo deseado, el XNF del usuario se participa y bloquea según el período seleccionado. Posteriormente, el protocolo acuña tokens veXNF para el usuario, reflejando la cantidad de XNF participados y el período de bloqueo elegido. A lo largo del período de bloqueo, los usuarios no pueden desbloquear su XNF, pero continúan acumulando recompensas nativas de cadena. La distribución de estas recompensas se determina según el poder de ganancia de su veXNF.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Desbloqueo de tokens XNF
+
+Después de completar su ciclo de staking elegido, los usuarios tienen la opción de desbloquear sus tokens XNF. Es importante tener en cuenta que los usuarios no pueden desbloquear sus XNF durante su período de bloqueo especificado. Sin embargo, los usuarios acumularán recompensas nativas de la cadena durante todo el período de bloqueo. Estas recompensas están directamente conectadas a su posición veXNF, con el poder del veXNF de un usuario durante el ciclo de staking determinando su parte de cada distribución de recompensas.
+
+Una vez que haya terminado el período de bloqueo elegido, el poder de ganancia de la posición veXNF de un usuario decaerá por completo. Esto significa que ya no ganarán recompensas de cadena nativa en su posición. En este punto, los usuarios tienen dos opciones: pueden extender su ciclo de staking por una duración máxima de 4 años para preservar el poder de ganancia de su veXNF, o pueden decidir desbloquear sus tokens XNF y recuperar la propiedad total.
+
+La decisión de extender el ciclo de staking o desbloquear los tokens depende enteramente del usuario. Xenify ofrece flexibilidad para que cada usuario evalúe sus preferencias y tome una decisión informada sobre el mejor curso de acción para sus circunstancias.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Reclamar recompensas nativas de la cadena
+
+Xenify permite a los usuarios reclamar y retirar sus recompensas nativas de la cadena acumuladas cuando lo deseen. Sin embargo, tenga en cuenta que se aplicará una tarifa de reclamo del 25% al reclamar sus recompensas nativas de la cadena.
+
+Para evitar la tarifa de reclamo del 25%, simplemente haga clic en el botón "Reciclar". Esto le permite usar sus tokens nativos de la cadena acumulados para adquirir XNF participando en la quema diaria de vUSDy, evitando completamente la tarifa de reclamo. A lo largo de cada ciclo, los tokens nativos recopilados de esta tarifa se almacenan en un grupo temporal. Al final del ciclo, estos tokens se distribuyen exclusivamente entre los titulares de veXNF que han empleado la función Reciclar durante el ciclo.
+
+Esta distribución única se produce durante la distribución diaria de recompensas de cadena nativa del protocolo, y cada participante elegible recibe una parte en función de su posición. Por ejemplo, si un usuario recicla sus recompensas durante un ciclo, se incluirá en la distribución de los ingresos generados por la tarifa de reclamo al final de ese ciclo.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Reciclaje de recompensas de cadena nativa 
+
+¡Descubre la forma inteligente de maximizar tus recompensas con la función de reciclaje de Xenify! Al optar por reciclar tus recompensas de cadena nativa, no solo evitarás la tarifa de reclamo del 25%, sino que también aumentarás tu posición XNF, ya que todo tu saldo de recompensas se utiliza para unirse a la quema diaria de vXEN.
+
+Lo que distingue este proceso es la capacidad del protocolo para acuñar tokens vXEN equivalentes al valor de tus recompensas y deducir directamente la tarifa de quema de tu saldo de recompensas. Esto significa que puedes quemar vXEN sin la necesidad de recompensas adicionales de cadena nativa para cubrir la tarifa de acuñación obligatoria o la tarifa de quema, que normalmente se requiere en el proceso de quema predeterminado. 
+
+Al hacer uso de la función de reciclaje, también obtendrás acceso exclusivo a la distribución diaria de tokens de cadena nativa generados a partir de la tarifa de reclamo del 25% de la plataforma. Esta tarifa de reclamo se recaudará cada vez que un usuario decida reclamar sus recompensas de cadena nativa. Al final del ciclo, los tokens nativos acumulados se distribuirán exclusivamente a los titulares de veXNF que hayan reciclado durante el ciclo. Cuanto más recicles las recompensas de cadena nativa dentro de un ciclo, mayor será tu parte para ese ciclo. Por ejemplo, si se reclamaron recompensas de cadena nativa por valor de $100,000 durante un ciclo y eres el único staker de XNF que recicla durante ese ciclo, recibirás los $25,000 completos en tokens de cadena nativa generados a partir de la tarifa de reclamo al final del ciclo.
+
+¡Pero espera, hay más! Como muestra de gratitud por su participación activa en el protocolo, los titulares de veXNF que reciclan sus recompensas durante un ciclo también son elegibles para una distribución exclusiva de XNF y XEN al final de cada ciclo. El protocolo adquirirá XNF y XEN de la liquidez propiedad del protocolo, retirando el 1% de los tokens totales de LP de XNF y el 1% de los tokens de LP de XEN que se mantienen al final del ciclo. Los tokens de cadena nativa obtenidos de los tokens de LP retirados luego se utilizan para comprar XNF y XEN, respectivamente. Estos tokens comprados, junto con los tokens XNF y XEN retirados, se distribuyen posteriormente entre los titulares de veXNF que han participado en el reciclaje de recompensas durante el ciclo anterior. En términos simples, cuanto más recompensas de cadena nativa recicles durante un ciclo, mayor será tu parte de XNF y XEN adquiridos de la liquidez propiedad del protocolo.
+
+Para aprovechar esta función de reciclaje, asegúrate de tener un saldo suficiente de recompensas de cadena nativa para adquirir al menos un lote de vXEN para el proceso de quema. Si tu saldo de recompensas no alcanza la cantidad requerida de tokens de cadena nativa, la opción de reciclaje no estará accesible para ti. Al reciclar tus recompensas de cadena nativa, no solo fortalecerás tu posición XNF, sino que también disfrutarás de un proceso simplificado que elimina las tarifas de función de quema habituales. Es una situación ganar-ganar que recompensa tu participación activa y tu compromiso con el crecimiento de Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Distribución de recompensas de tokens nativos
+
+Durante cada ciclo, el grupo de recompensas del protocolo acumula gradualmente tokens nativos generados a partir de tarifas de quema y tarifas de intercambio. Este grupo crece con cada transacción, ya sea un intercambio o una quema. La suma total del grupo de recompensas se distribuye luego entre los stakers de XNF en función de sus tenencias de veXNF y el poder asociado.
+
+Además de la distribución de tokens nativos de las tarifas de intercambio y quema, hay distribuciones exclusivas de tokens nativos para los titulares de veXNF que han reciclado sus recompensas durante el ciclo. Estas distribuciones adicionales incluyen tokens nativos generados a partir de la tarifa de reclamo del 25% de Xenify para las recompensas de cadena nativa.
+
+Es importante tener en cuenta que reclamar XNF en Xenify no incurre en una tarifa de reclamo. Sin embargo, si los titulares de veXNF eligen reclamar sus recompensas de cadena nativa, se aplicará una tarifa de reclamo del 25%. Los tokens de cadena nativa adquiridos de esta tarifa de reclamo durante un ciclo se reservan y se distribuyen entre los titulares de veXNF que han reciclado en el ciclo anterior.
+
+Con esta estructura de recompensas única, Xenify puede fortalecer la demanda y el valor de XNF, al tiempo que proporciona un incentivo convincente para que los titulares participen activamente en el protocolo. Esto fomenta la participación y cultiva una base de usuarios en crecimiento, ayudando a fortalecer el crecimiento a largo plazo del protocolo.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Explicador visual
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
+    </picture>
+</p>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Arquitectura de Xenify
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Lanzamientos aéreos de XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Presentamos el exclusivo lanzamiento aéreo de XNF de Xenify, una iniciativa destinada a impulsar la participación de los usuarios en la plataforma en múltiples cadenas EVM. Para generar expectación antes de un próximo lanzamiento de XNF en una nueva cadena, un evento de lanzamiento aéreo de 60 días precederá su implementación. A medida que los usuarios de la plataforma intercambien tokens, serán recompensados con una generosa asignación de 1.500.000 tokens XNF durante este evento, lo que brinda una fantástica oportunidad de beneficiarse del crecimiento de Xenify.
+
+Estos 1.500.000 tokens XNF se distribuirán inicialmente como tokens bloqueados el día del lanzamiento, desbloqueándose gradualmente durante un período de 730 días. Por ejemplo, si recibe 100 tokens XNF bloqueados del lanzamiento aéreo, puede esperar que aproximadamente 0,13699 tokens XNF se desbloqueen en su billetera cada día.
+
+Dado que estos tokens se dividirán entre los participantes del intercambio diario en función de sus contribuciones diarias previas al lanzamiento, ¡cuanto más intercambie durante el evento, mayor será su parte del lanzamiento aéreo de XNF!
+
+Ahora, entendemos su entusiasmo por participar en esos tokens XNF y ser testigo de cómo florece su cartera. Sin embargo, hay un pequeño inconveniente: los tokens XNF bloqueados no se pueden participar. Entonces, si su objetivo es ganar una parte de las recompensas de cadena nativa de la plataforma, le recomendamos encarecidamente que también participe en la subasta de quema inicial. ¡Es su boleto para ganar una parte de las recompensas de cadena nativa de la distribución inicial!
+
+Para garantizar la equidad y desalentar el sniping de último minuto, se implementará una asignación diaria constante del lanzamiento aéreo durante todo el evento. Esto garantiza que los participantes reciban una parte del lanzamiento aéreo que refleje su nivel de participación. Por ejemplo, durante el lanzamiento aéreo Génesis de 60 días en BNB Chain, se asignarán 25.000 tokens XNF cada día. Su parte del lanzamiento aéreo Génesis se basará en sus contribuciones diarias a través de la tarifa de intercambio. ¡Imagínese siendo el único usuario que intercambia en un día particular durante el evento de 60 días: reclamará un impresionante lanzamiento aéreo de 25.000 XNF!
+
+Además, para mantener la participación, las contribuciones realizadas durante un evento no se transferirán a los siguientes lanzamientos aéreos. Esta política garantiza que los usuarios que contribuyen solo una vez no se incluyan constantemente en futuros lanzamientos aéreos, promoviendo la participación activa.
+
+Durante la fase previa al despliegue, mientras el evento de lanzamiento aéreo está en curso, la tarifa de intercambio del 0,5% no se asignará a los titulares de veXNF. En cambio, estas tarifas se utilizarán como recursos para respaldar la progresión del protocolo y los esfuerzos de divulgación. Sin embargo, una vez que XNF se haya implementado en una cadena específica, el 100% de las tarifas de intercambio generadas en esa cadena se redirigirán como recompensas diarias de cadena nativa a los titulares de veXNF (stakers de XNF). Esto crea un atractivo incentivo para participar activamente en el crecimiento del ecosistema y permite a los usuarios beneficiarse del volumen de intercambio continuo de Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
