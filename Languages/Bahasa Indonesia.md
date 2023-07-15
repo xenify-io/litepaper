@@ -1102,8 +1102,32 @@ Mari kita lihat lebih dekat bagaimana pembakaran teramplifikasi bekerja dalam sk
 
 ![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-# ◽️ Fokus pada Pengalaman Pengguna
+## ◽️ Hadiah USDC yang Dapat Diklaim
 
+NFT Phoenix Ape dirancang untuk menjadi perubahan permainan di dunia NFT. Dengan mekanisme sewa yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Ketika NFT Phoenix Ape disewakan melalui marketplace YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Digabungkan dengan bagian dari pajak royalti dari OpenSea, penghasilan ini kemudian didistribusikan ke semua pemegang NFT Phoenix Ape sebagai hadiah USDC di rantai BNB.
+
+Hadiah USDC ini akan tersedia bagi pemegang untuk ditarik pada akhir setiap epoch 8 jam. Dan ini ceri di atas kue: bahkan jika pengguna memutuskan untuk menjembatani NFT Phoenix mereka dari rantai BNB untuk menguatkan pembakaran dengan Xenify di rantai lain, mereka masih memenuhi syarat untuk distribusi USDC. Dengan kata lain, hadiah USDC yang dapat diklaim di rantai BNB akan dicadangkan untuk semua alamat yang memegang NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
+
+![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Mekanisme Sewa Unik
+
+NFT Phoenix Ape dirancang untuk menjadi perubahan permainan di dunia NFT. Dengan mekanisme sewa yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Ketika NFT Phoenix Ape disewakan melalui marketplace YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Digabungkan dengan bagian dari pajak royalti dari OpenSea, penghasilan ini kemudian didistribusikan ke semua pemegang NFT Phoenix Ape sebagai hadiah USDC di rantai BNB.
+
+Hadiah USDC ini akan tersedia bagi pemegang untuk ditarik pada akhir setiap epoch 8 jam. Dan ini ceri di atas kue: bahkan jika pengguna memutuskan untuk menjembatani NFT Phoenix mereka dari rantai BNB untuk menguatkan pembakaran dengan Xenify di rantai lain, mereka masih memenuhi syarat untuk distribusi USDC. Dengan kata lain, hadiah USDC yang dapat diklaim di rantai BNB akan dicadangkan untuk semua alamat yang memegang NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
+
+![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Melewati Sigma Exit Rate
+
+Protokol YSL.IO sengaja dibangun untuk memberikan stabilitas dan ketahanan bagi semua peserta. Protokol menampilkan Model Stabilitas Harga (PSM) yang inovatif yang tidak hanya bertujuan untuk menstabilkan harga token asli (YSL, xYSL, bYSL, dan USDy), tetapi juga menjamin pengguna mengalami likuiditas keluar yang tinggi dan melestarikan pertumbuhan likuiditas jangka panjang yang dimiliki perbendaharaan. 
+
+Komponen penting dari PSM adalah Sigma Exit Rate, yang membatasi penjualan token dari dompet dengan mempertimbangkan akuisisi pengguna atau penjualan terakhir dari token. Namun, pemegang NFT Phoenix Ape istimewa dapat menikmati kebebasan untuk menjual hingga 100% dari token xYSL, bYSL, atau USDy mereka tanpa dikenai Sigma Exit Rate. Fitur eksklusif ini memberikan pengguna fleksibilitas dan kendali mutlak atas pegangan token asli YSL.IO mereka.
+
+<br>
+
+![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Pengalaman Pengguna
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br> 
@@ -1119,9 +1143,7 @@ Model insentif ini memastikan bahwa pengguna Xenify secara konsisten diakui atas
 <br>
 
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Peluncuran Adil
-
 ![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 - Peluncuran Xenify dirancang agar adil, tanpa pra-pertambangan atau alokasi pra-XNF token. Ini menjamin lapangan bermain yang setara bagi semua peserta, dan menciptakan lingkungan keadilan dan kesempatan yang setara.
