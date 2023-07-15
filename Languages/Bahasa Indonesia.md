@@ -1156,7 +1156,7 @@ Misi Xenify adalah untuk membentuk platform DeFi yang transparan, adil, dan berp
 
 ![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-# ◽️ Peluncuran Adil
+## ◽️ Peluncuran Adil
 
 - Peluncuran Xenify dirancang agar adil, tanpa pra-pertambangan atau alokasi pra-XNF token. Ini menjamin lapangan bermain yang setara bagi semua peserta, dan menciptakan lingkungan keadilan dan kesempatan yang setara.
 
