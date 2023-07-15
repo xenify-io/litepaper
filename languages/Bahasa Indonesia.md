@@ -6,8 +6,8 @@
   </picture>
 </p>
 
- <p align="center">
- Unleash the Potential of Cross-Chain Swaps - Effortless, Efficient, and Rewarding!</p>
+<p align="center">
+Lepaskan Potensi Swap Lintas Rantai - Tanpa Usaha, Efisien, dan Menguntungkan!</p>
  
 <p align="center">
 Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
@@ -18,6 +18,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 <br>
 </p>
 
+![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Isi
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -117,8 +118,6 @@ Di Xenify, kami tidak puas dengan status quo! Ambisi kami yang tak kenal lelah t
   - Kami mengedepankan keragaman dan inovasi sebagai pendorong ekosistem DeFi. Menjembatani kesenjangan antara berbagai rantai, Xenify memanfaatkan kemampuan lintas rantai untuk memungkinkan interaksi yang lancar dan memperluas cakupan protokol, membuka kemungkinan tak terbatas.
 
 ![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
-
-#Berikut adalah kode dalam Bahasa Indonesia:
 
 ## ◽️ Pemberdayaan Pengguna
 
