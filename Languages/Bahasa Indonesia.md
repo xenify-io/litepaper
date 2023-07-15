@@ -1143,8 +1143,20 @@ Model insentif ini memastikan bahwa pengguna Xenify secara konsisten diakui atas
 <br>
 
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Peluncuran Adil
+# ◽️ Keamanan
+![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Di Xenify, keamanan sangat penting untuk memastikan keselamatan dan keandalan protokol kami. Untuk memperkuat keamanan protokol kami, kami merencanakan audit kontrak oleh PeckShield, perusahaan keamanan yang sangat dihormati di industri ini. 
+
+Platform kami dirancang dengan cermat dengan desentralisasi dan otonomi sebagai prinsip pedoman. Kontrak pintar Xenify bebas dari kunci admin, yang berarti mereka tidak dapat ditingkatkan atau diatur oleh otoritas tersentralisasi. Untuk memperkuat sifat protokol kami yang benar-benar terdesentralisasi dan otonom, potensi penghasilan akan didistribusikan secara adil di antara peserta berdasarkan kepemilikan veXNF mereka dan kekuasaan terkait. Saat Xenify berkembang, kami bertujuan untuk mengutamakan kepentingan pengguna kami, menumbuhkan transparansi dan kepercayaan di seluruh protokol. 
+
+Misi Xenify adalah untuk membentuk platform DeFi yang transparan, adil, dan berpusat pada pengguna dengan mempertahankan Prinsip-prinsip Pertama Crypto dalam semua upaya kami. Dengan berkomitmen pada nilai-nilai inti ini, kami bercita-cita untuk membangun protokol yang menjunjung tinggi kepercayaan, keadilan, dan pertumbuhan berbasis komunitas di ruang DeFi.
+
 ![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+# ◽️ Peluncuran Adil
 
 - Peluncuran Xenify dirancang agar adil, tanpa pra-pertambangan atau alokasi pra-XNF token. Ini menjamin lapangan bermain yang setara bagi semua peserta, dan menciptakan lingkungan keadilan dan kesempatan yang setara.
 
@@ -1199,22 +1211,10 @@ Model insentif ini memastikan bahwa pengguna Xenify secara konsisten diakui atas
 <br>
 
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-# ◽️ Keamanan
-
+# ◽️ Kesimpulan
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
-
-Di Xenify, keamanan sangat penting untuk memastikan keselamatan dan keandalan protokol kami. Untuk memperkuat keamanan protokol kami, kami merencanakan audit kontrak oleh PeckShield, perusahaan keamanan yang sangat dihormati di industri ini. 
-
-Platform kami dirancang dengan cermat dengan desentralisasi dan otonomi sebagai prinsip pedoman. Kontrak pintar Xenify bebas dari kunci admin, yang berarti mereka tidak dapat ditingkatkan atau diatur oleh otoritas tersentralisasi. Untuk memperkuat sifat protokol kami yang benar-benar terdesentralisasi dan otonom, potensi penghasilan akan didistribusikan secara adil di antara peserta berdasarkan kepemilikan veXNF mereka dan kekuasaan terkait. Saat Xenify berkembang, kami bertujuan untuk mengutamakan kepentingan pengguna kami, menumbuhkan transparansi dan kepercayaan di seluruh protokol. 
-
-Misi Xenify adalah untuk membentuk platform DeFi yang transparan, adil, dan berpusat pada pengguna dengan mempertahankan Prinsip-prinsip Pertama Crypto dalam semua upaya kami. Dengan berkomitmen pada nilai-nilai inti ini, kami bercita-cita untuk membangun protokol yang menjunjung tinggi kepercayaan, keadilan, dan pertumbuhan berbasis komunitas di ruang DeFi.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-# ◽️ Kesimpulan
 
 Xenify, penggabung antar-rantai dari penggabung, telah dibangun dengan cermat dari nol untuk mengubah cara pengguna terlibat dalam pertukaran token silang rantai. Fokus utamanya adalah untuk memberikan pengalaman pengguna yang mulus, memberi penghargaan kepada anggota komunitas yang aktif, dan membangun model distribusi token yang adil dan berkelanjutan. Dengan memanfaatkan tokenomi inovatif, Xenify bercita-cita untuk membangun platform terdesentralisasi yang didorong komunitas yang menghargai dan mendorong partisipasi aktif pengguna dalam ekosistem.
 
@@ -1229,9 +1229,7 @@ Ringkasnya, Xenify mewakili pergeseran paradigma dalam dunia pertukaran token li
 <br>
 
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Pertanyaan yang Sering Diajukan
-
 ![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
