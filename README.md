@@ -922,6 +922,8 @@ What sets this process apart is the protocol's capability to mint vXEN tokens eq
 
 By making use of the recycle function, you'll also gain exclusive access to the daily distribution of native tokens generated from the platform's 25% claim fee. This claim fee will be collected every time a user decides to claim their native chain rewards. At the end of the cycle, the accumulated native tokens will be distributed exclusively to veXNF holders that have recycled during the cycle. The more native chain rewards you recycle within a cycle, the greater your share for that cycle. For example, if $100,000 worth of native chain rewards were claimed during a cycle and you are the sole XNF staker recycling during that cycle, you would receive the entire $25,000 worth of native chain tokens generated from the claim fee at the end of the cycle.
 
+But wait, there's more! As a token of gratitude for their active participation in the protocol, veXNF holders who recycle their rewards during a cycle are also eligible for an exclusive distribution of XNF and XEN at the end of each cycle. The protocol will acquire XNF and XEN from protocol-owned liquidity, withdrawing 1% of the total XNF LP tokens and 1% of the XEN LP tokens held at the cycle's end. The native chain tokens obtained from the withdrawn LP tokens are then used to purchase XNF and XEN, respectively. These purchased tokens, combined with the withdrawn XNF and XEN tokens, are subsequently distributed among veXNF holders who have participated in recycling rewards during the previous cycle. In simple terms, the more native chain rewards you recycle during a cycle, the larger your share of the XNF and XEN acquired from the protocol-owned liquidity.
+
 To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn function fees. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -938,6 +940,8 @@ To leverage this recycling feature, ensure that you have a sufficient balance of
   - At the end of the daily burn auction, you receive XNF tokens based on the vXEN batches burned from your recycled contribution.
   - Next, you will receive your share of daily native chain rewards based on your veXNF balance and its associated power.
   - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle.
+
+By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual fees associated with the daily burn auction. Most importantly, as a dedicated recycler, you will earn native chain tokens generated from the 25% claim fee and qualify for an exclusive distribution of XNF and XEN at the end of each cycle. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
