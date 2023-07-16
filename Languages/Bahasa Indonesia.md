@@ -367,56 +367,56 @@ Pendekatan inovatif Xenify terhadap staking dan reward, dikombinasikan dengan mo
 
 ## ◽️ Rantai yang Didukung
 
-| Nomor | Jenis Rantai | Nama Rantai | Situs Web Rantai |
-|-----|-------------------|---------------|---------------------------------------|
-| 1 | Lapisan 1 | Sui | https://sui.io |
-| 2 | Lapisan 1 | EOS | https://eosnetwork.com |
-| 3 | Lapisan 1 | KCC | https://www.kcc.io |
-| 4 | Lapisan 1 | Sekering | https://fuse.io |
-| Lapisan 5 | Lapisan 1 | Tron | https://tron.network |
-| 6 | Lapisan 1 | Kava | https://www.kava.io |
-| 7 | Lapisan 1 | Celo | https://celo.org |
-| 8 | Lapisan 1 | Heco | https://www.hecochain.com |
-| 9 | Lapisan 2 | Boba | https://boba.network |
-| 10 | Lapisan 1 | Balok | https://www.beam.mw |
-| 11 | Lapisan 1 | Velas | https://www.velas.com |
-| 12 | Lapisan 1 | Telos | https://telos.net |
-| 13 | Lapisan 1 | Tezos | https://tezos.com |
-| 14 | Lapisan 2 | Metis | https://metis.io |
-| Lapisan 1 | Zcash | https://www.z.cash |
-| 16 | Lapisan 1 | Canto | https://canto.io |
-| 17 | Lapisan 1 | Aptos | https://aptoslabs.com |
-| 18 | Lapisan 1 | Klaytn | https://www.klaytn.com |
+| No | Jenis Rantai | Nama Rantai | Situs Web Rantai |
+|-|-|-|-|  
+| 1 | Layer 1 | Sui | https://sui.io |
+| 2 | Layer 1 | EOS | https://eosnetwork.com |
+| 3 | Layer 1 | KCC | https://www.kcc.io |
+| 4 | Layer 1 | Fuse | https://fuse.io |
+| 5 | Layer 1 | Tron | https://tron.network |
+| 6 | Layer 1 | Kava | https://www.kava.io |
+| 7 | Layer 1 | Celo | https://celo.org |
+| 8 | Layer 1 | Heco | https://www.hecochain.com |
+| 9 | Layer 2 | Boba | https://boba.network |
+| 10 | Layer 1 | Beam | https://www.beam.mw |
+| 11 | Layer 1 | Velas | https://www.velas.com |
+| 12 | Layer 1 | Telos | https://telos.net |
+| 13 | Layer 1 | Tezos | https://tezos.com |
+| 14 | Layer 2 | Metis | https://metis.io |
+| 15 | Layer 1 | Zcash | https://www.z.cash |
+| 16 | Layer 1 | Canto | https://canto.io | 
+| 17 | Layer 1 | Aptos | https://aptoslabs.com |
+| 18 | Layer 1 | Klaytn | https://www.klaytn.com |
 | 19 | Layer 1 | Stellar | https://www.stellar.org |
-| 20 | Lapisan 1 | Evmos | https://evmos.dev |
-| 21 | Lapisan 2 | zkSync | https://zksync.io |
-| 22 | Lapisan 1 | Gnosis | https://gnosis.io |
-| 23 | Lapisan 1 | Aurora | https://aurora.dev |
+| 20 | Layer 1 | Evmos | https://evmos.dev |
+| 21 | Layer 2 | zkSync | https://zksync.io |
+| 22 | Layer 1 | Gnosis | https://gnosis.io |
+| 23 | Layer 1 | Aurora | https://aurora.dev |
 | 24 | Layer 1 | Solana | https://solana.com |
-| 25 | Lapisan 1 | Ripple | https://ripple.com |
-| 26 | Lapisan 1 | Bitcoin | https://bitcoin.org |
-| 27 | Lapisan 1 | Cronos | https://crypto.com/chain |
-| 28 | Lapisan 1 | Fantom | https://fantom.foundation |
-| Lapisan 1 | Filecoin | https://filecoin.io |
-| 30 | Lapisan 1 | Litecoin | http://litecoin.org |
-| 31 | Lapisan 1 | Monero | https://www.getmonero.org |
-| 32 | Lapisan 2 | Poligon | https://polygon.technology |
-| 33 | Lapisan 1 | Arweave | https://arweave.org |
-| 34 | Lapisan 1 | Osmosis | https://osmosis.zone |
-| 35 | Lapisan 1 | Cardano | https://www.cardano.org |
-| 36 | Lapisan 2 | Arbitrum | https://arbitrum.io |
-| 37 | Lapisan 1 | Polkadot | https://polkadot.network |
-| 38 | Lapisan 1 | Ethereum | https://ethereum.org |
-| 39 | Lapisan 2 | Optimisme | https://optimism.io |
-| 40 | Lapisan 1 | Longsoran salju | https://www.avax.network |
-| 41 | Lapisan 1 | Bitcoin SV | https://bitcoinsv.com |
-| 42 | Lapisan 1 | Rantai BNB | https://www.bnbchain.org |
-| 43 | Lapisan 2 | PulseChain | https://pulsechain.com |
-| 44 | Lapisan 1 | Rantai OKEx | https://www.okex.com/okexchain |
-| 45 | Lapisan 1 | Bitcoin Cash | https://www.bitcoincash.org |
-| Lapisan 1 | Protokol NEAR | https://near.org |
-| Lapisan 2 | Ethereum PoW | https://ethereumpow.org |
-| 48 | Lapisan 2 | Poligon zkEVM | https://zkevm.polygon.technology |
+| 25 | Layer 1 | Ripple | https://ripple.com |
+| 26 | Layer 1 | Bitcoin | https://bitcoin.org |
+| 27 | Layer 1 | Cronos | https://crypto.com/chain |
+| 28 | Layer 1 | Fantom | https://fantom.foundation |
+| 29 | Layer 1 | Filecoin | https://filecoin.io |
+| 30 | Layer 1 | Litecoin | http://litecoin.org |
+| 31 | Layer 1 | Monero | https://www.getmonero.org |
+| 32 | Layer 2 | Polygon | https://polygon.technology |
+| 33 | Layer 1 | Arweave | https://arweave.org |
+| 34 | Layer 1 | Osmosis | https://osmosis.zone |
+| 35 | Layer 1 | Cardano | https://www.cardano.org |
+| 36 | Layer 2 | Arbitrum | https://arbitrum.io |  
+| 37 | Layer 1 | Polkadot | https://polkadot.network |
+| 38 | Layer 1 | Ethereum | https://ethereum.org |
+| 39 | Layer 2 | Optimism | https://optimism.io |
+| 40 | Layer 1 | Avalanche | https://www.avax.network |
+| 41 | Layer 1 | Bitcoin SV | https://bitcoinsv.com |
+| 42 | Layer 1 | BNB Chain | https://www.bnbchain.org |
+| 43 | Layer 2 | PulseChain | https://pulsechain.com |
+| 44 | Layer 1 | OKEx Chain | https://www.okex.com/okexchain |
+| 45 | Layer 1 | Bitcoin Cash | https://www.bitcoincash.org |  
+| 46 | Layer 1 | NEAR Protocol | https://near.org |
+| 47 | Layer 2 | Ethereum PoW | https://ethereumpow.org |
+| 48 | Layer 2 | Polygon zkEVM | https://zkevm.polygon.technology |
 | 49 | Parachain | Moonbeam | https://moonbeam.network |
 | 50 | Parachain | Moonriver | https://moonbeam.network/moonriver |
 
@@ -484,13 +484,13 @@ Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip hal
 
 <br>
 
-## ◽️ Rantai Ekspansi Potensial
+## ◽️ Potensi Ekspansi Rantai
 
-Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain untuk langkah besar berikutnya. Daftar chain yang sedang kami periksa saat ini cukup beragam, mulai dari kelas berat seperti Arbitrum dan Avalanche hingga anak-anak baru di blockchain seperti zkSync dan PulseChain, tidak ada kekurangan pilihan. Daftar lengkapnya meliputi:
+Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockchain untuk langkah besar berikutnya. Daftar rantai yang sedang kami teliti saat ini cukup beragam, dari raksasa seperti Arbitrum dan Avalanche hingga rantai baru seperti zkSync dan PulseChain, pilihan tidak kurang. Daftar lengkapnya meliputi:
 
-- KCC
+- KCC  
 - Celo
-- Sekering
+- Fuse
 - Boba
 - Heco
 - Telos
@@ -504,15 +504,15 @@ Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain u
 - Gnosis
 - zkSync
 - Cronos
-- Fantom
-- Poligon
+- Fantom  
+- Polygon
 - Arbitrum
-- Optimisme
-- Longsor
+- Optimism
+- Avalanche
 - Moonriver
-- Rantai OKX
+- OKX Chain
 - PulseChain
-- Sinar Bulan
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
