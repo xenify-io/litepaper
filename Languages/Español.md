@@ -1401,14 +1401,14 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## YSL.IO (21 de abril de 2023) - Swaps entre cadenas
 
-**Enlaces
+**Enlaces**
 
 - [Sitio web](https://ysl.io/)
 - [Libro Blanco](https://docs.ysl.io)
 - [Perfil de Twitter](https://twitter.com/ysl_io)
 - [Canal de Telegram](https://t.me/ysl_io)
 
-**Conceptos influyentes
+**Conceptos influyentes**
 
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
@@ -1416,7 +1416,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## XEN Crypto (8 de octubre de 2022) - Protocolo Cross-chain
 
-**Enlaces
+**Enlaces**
 
 - [Sitio web](https://faircrypto.org)
 - [Litepaper](https://faircrypto.org/xencryptolp.pdf)
@@ -1441,7 +1441,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 - [Perfil de Twitter](https://twitter.com/DBXencrypto)
 - [Canal de Telegram](https://t.co/vprGbYeXqc)
 
-**Conceptos influyentes
+**Conceptos influyentes**
 
 - [Coste de la quema](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Distribución de fichas](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
