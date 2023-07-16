@@ -196,7 +196,7 @@ Xenify非常重视股权和长期投资。我们相信我们的用户能够从�
 - [Twitter](https://twitter.com/simran_ysl)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
 - [Telegram](https://t.me/SD_YSL)
-- [Past Experience](https://blog.horizen.io/zen-foundation-and-team-updates)
+- [过去的经历](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ◽️ Hardev Dhillon
 - [Twitter](https://twitter.com/hardev_ysl)
@@ -207,9 +207,9 @@ Xenify非常重视股权和长期投资。我们相信我们的用户能够从�
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
 - [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
 - [Telegram](https://t.me/Dayplaz)
-- [Past Experience](https://www.youtube.com/watch?v=_7UB-4d1NxM)
+- [过去的经历](https://www.youtube.com/watch?v=_7UB-4d1NxM)
 
-## ◽️ Team KYC Verified (by Solidproof)
+## ◽️ 团队 KYC 验证（由 Solidproof）
 - [KYC证书](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
@@ -451,13 +451,13 @@ XNF是Xenify协议的生命线，总供应量有限，只有2260万个代币。X
 
 Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个核心部分，旨在奖励积极参与者，同时促进生态系统的平衡：
 
-- 21,000,000XNF分配用于每日拍卖：** 参与各种活动以支持协议的持续发展的用户将有机会获得每日拍卖专用的XNF代币份额。
+- **21,000,000XNF分配用于每日拍卖：** 参与各种活动以支持协议的持续发展的用户将有机会获得每日拍卖专用的XNF代币份额。
 
   - 每天拍卖的10,500,000 XNF（50%）分配给直接烧毁vXEN和vUSDy的用户。在每个周期内，如果没有人启动焚烧流程，相应的XNF分配将不会被铸币。这种稀缺性驱动的机制减少了XNF的总供应量，有助于其潜在价值的提升。
 
   - 每日拍卖的10,500,000 XNF（50%）分配给在支持的EVM链上进行交换的用户。如果在一个周期内没有交换发生，相应的XNF分配将不会被铸造。这也会减少XNF的总供应量，提高其稀缺性和潜在价值。
 
-- 100,000XNF分配用于XNF流动性的创造：**为促进这一目标的实现，我们为vXEN Mint Fee Manager预留了50,000XNF，并为vUSDy Mint Fee Manager预留了额外的50,000XNF。每次用户参与vXEN或vUSDy的每日燃烧，都将为XNF流动性的增加做出贡献。这一举措促进了协议的整体健康，并为我们的社区建立了一个强大的流动性池。
+- **100,000XNF分配用于XNF流动性的创造：**为促进这一目标的实现，我们为vXEN Mint Fee Manager预留了50,000XNF，并为vUSDy Mint Fee Manager预留了额外的50,000XNF。每次用户参与vXEN或vUSDy的每日燃烧，都将为XNF流动性的增加做出贡献。这一举措促进了协议的整体健康，并为我们的社区建立了一个强大的流动性池。
 
 - 为鼓励参与，每条链将为在XNF部署前进行交换的用户独家空投1500,000 XNF。空投将在推出的第一天进行，并将作为锁定代币分发，在730天内逐步解锁。
 
@@ -797,9 +797,9 @@ Xenify的每日刻录拍卖是获得XNF代币的绝佳机会，您只需拥有vX
 
 vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费由您所焚烧代币的当前市值决定。vXEN 造币费产生的原生代币将按以下方式分配：
 
-- 50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
+- **50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
 
-- 50%将用于创造XEN代币的流动性：**该协议利用50%的原生链代币为该链上流动性最高的XEN池的原生XEN代币变体创造流动性（例如，在BNB链上，它将为bXEN-BNB流动性创造流动性），通过使用25%的代币购买原生XEN代币（例如bXEN），剩余25%的代币用于与协议持有的LP代币进行流动性配对。
+- **50%将用于创造XEN代币的流动性：**该协议利用50%的原生链代币为该链上流动性最高的XEN池的原生XEN代币变体创造流动性（例如，在BNB链上，它将为bXEN-BNB流动性创造流动性），通过使用25%的代币购买原生XEN代币（例如bXEN），剩余25%的代币用于与协议持有的LP代币进行流动性配对。
 
 - 例如，假设您有10,000个bXEN，您想将其转换为vXEN。如果bXEN目前价值0.01美元，而您持有10,000个bXEN，那么您的bXEN价值100美元。因此，您需要提供100美元的BNB作为造币费。在您启动造币程序后，协议将根据您的bXEN总价值和造币费生成vXEN。在本例中，考虑到您的100美元bXEN和100美元的BNB造币费，您将收到200美元的vXEN。您在此过程中发送的价值 100 美元的 bXEN 将永久退出流通，100 美元的 BNB 造币费将捐给 vXEN 造币费管理器。
 
@@ -809,9 +809,9 @@ vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费
 
 vUSDy造币费仅适用于您通过烧币过程将USDy、xYSL或bYSL转换为vUSDy。vUSDy铸币费产生的原生代币将按以下方式分配：
 
-- 50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
+- **50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
 
-- 50%将用于创建USDY国库所有的流动性：**该协议利用50%的原生代币创建USDY-USDC国库所有的流动性，通过铸造流动性配对的USDY端，并用50%的代币购买USDC，LP代币将被发送到YSL.IO国库。
+- **50%将用于创建USDY国库所有的流动性：**该协议利用50%的原生代币创建USDY-USDC国库所有的流动性，通过铸造流动性配对的USDY端，并用50%的代币购买USDC，LP代币将被发送到YSL.IO国库。
 
 - 例如，假设您有100个USDy代币，您想将它们转换成vUSDy。为了支付铸币费，您需要持有原生链代币。根据每USDy1.00美元的固定转换率，铸币费将被确定为100BNB美元。在您启动造币过程后，协议将根据您的USDy和造币费的总价值生成vUSDy。在本例中，考虑到您的100美元y和100美元的BNB造币费，您将收到200美元的vUSDy。您在此过程中发送的100USDy将从流通中永久移除，100BNB造币费将被发送到vUSDy造币费管理器。
 
@@ -1395,10 +1395,10 @@ Xenify 的与众不同之处在于它与 27 家不同的聚合商无缝连接，
 
 **链接：**
 
-- [Website](https://ysl.io/)
-- [Whitepaper](https://docs.ysl.io)
-- [Twitter Profile](https://twitter.com/ysl_io)
-- [Telegram Channel](https://t.me/ysl_io)
+- [网站](https://ysl.io/)
+- [白皮书](https://docs.ysl.io)
+- [推特简介](https://twitter.com/ysl_io)
+- [电报频道](https://t.me/ysl_io)
 
 **重要概念：**
 
@@ -1410,11 +1410,11 @@ Xenify 的与众不同之处在于它与 27 家不同的聚合商无缝连接，
 
 **链接：**
 
-- [Website](https://faircrypto.org)
-- [Litepaper](https://faircrypto.org/xencryptolp.pdf)
-- [Source Code](https://github.com/FairCrypto/XEN-crypto)
-- [Twitter Profile](https://twitter.com/XEN_Crypto)
-- [Telegram Channel](https://t.me/XENCryptoTalk)
+- [网站](https://faircrypto.org)
+- [轻薄纸](https://faircrypto.org/xencryptolp.pdf)
+- [源代码](https://github.com/FairCrypto/XEN-crypto)
+- [推特简介](https://twitter.com/XEN_Crypto)
+- [电报频道](https://t.me/XENCryptoTalk)
 
 **重要概念：**
 
@@ -1427,11 +1427,11 @@ Xenify 的与众不同之处在于它与 27 家不同的聚合商无缝连接，
 
 **链接：**
 
-- [Website](https://dbxen.org/)
-- [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
-- [Source Code](https://github.com/deb0x/dbXenBurnerProject)
-- [Twitter Profile](https://twitter.com/DBXencrypto)
-- [Telegram Channel](https://t.co/vprGbYeXqc)
+- [网站](https://dbxen.org/)
+- [轻薄纸](https://dbxen.gitbook.io/dbxen-litepaper)
+- [源代码](https://github.com/deb0x/dbXenBurnerProject)
+- [推特简介](https://twitter.com/DBXencrypto)
+- [电报频道](https://t.co/vprGbYeXqc)
 
 **重要概念：**
 
