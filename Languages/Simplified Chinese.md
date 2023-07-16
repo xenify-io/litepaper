@@ -286,7 +286,7 @@ vUSDy可以被视为YSL.IO的奖励代币USDy的虚拟对应物。vUSDy的唯一
 
 <br>
 
-| Native Token        | Conversion Rate      |
+| 本地令牌             | 转换率               |
 |---------------------|----------------------|
 | USDy                | 1 USDy = 1 vUSDy     |
 | bYSL                | 1 bYSL = 5 vUSDy     |
@@ -332,7 +332,7 @@ Xenify 创新的赌注和奖励方法，结合其独特的代币经济模型，�
 
 ## ◽️ 支持的聚合器
 
-| Num | Aggregator        | Aggregator Website                 |
+| Num | Aggregator        | Aggregator 网站                    |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -366,7 +366,7 @@ Xenify 创新的赌注和奖励方法，结合其独特的代币经济模型，�
 
 ## ◽️ 支持的链条
 
-| Num | Chain Type        | Chain Name    | Chain Website                         |
+| Num | 链条类型           | 链条名称       | 连锁网站                              |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
@@ -477,8 +477,8 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 ## ◽️ 确认部署
 
-- 创世部署 > BNB链
-- 第二次部署 > 以太坊
+- 创世部署 > BNB Chain
+- 第二次部署 > Ethereum
 - 第三次部署 > Polygon
 
 <br>
@@ -566,7 +566,7 @@ Xenify正准备大干一场，为其下一个大动作筛选一批区块链。�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Burn to earn XNF
+## ♦️ 燃烧以获得XNF
 
   - Xenify使用户能够毫不费力地直接从他们的钱包中刻录他们的XEN代币或YSL.IO原生代币，以参与每日刻录周期。这种独特的烧币机制整合了两种定制代币vXEN和vUSDy，分别是XEN代币和YSL.IO原生代币的虚拟对应物。这些代币有一个特定的目的--通过燃烧过程促进XNF代币的铸造。因此，无论用户拥有哪种XEN代币或YSL.IO代币，都可以参与每日的烧币周期。这种燃烧机制不仅仅是减少XEN代币和YSL.IO原生代币的流通供应，它还体现了一种战略方法，将YSL.IO社区和所有链上更广泛的XEN社区聚集在一起，促进统一两个生态系统的共同愿景。
 
@@ -616,7 +616,7 @@ Xenify提供了一个开创性的代币交换解决方案，不仅简化了跨�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Burning on Xenify 的成本
+## ◽️ 在 Xenify 上燃烧的成本
 
 Xenify协议使用户能够从每日的XNF奖励周期中燃烧vXEN或vUSDy代币来确保XNF的安全。将vXEN和vUSDy分别视为XEN和USDy的虚拟对应物。这些代币专为无缝转换为XNF而创建。
 
@@ -675,7 +675,7 @@ Xenify 的烧录费折扣方法不仅促进了公平性，还为用户提供了�
 
 <br>
 
-| Hour | Burn Fee Coefficient (FC) |
+| 小时 | 燃烧费系数 (FC)            |
 |------|---------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -712,7 +712,7 @@ Xenify 的烧录费折扣方法不仅促进了公平性，还为用户提供了�
 
 <br>
 
-| Hour | Batch Coefficient (BC)    |
+| 小时 | 批次系数 (BC)              |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
@@ -777,7 +777,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mint Fee Manager
+## ◽️ 造币厂收费经理
 
 Xenify的每日刻录拍卖是获得XNF代币的绝佳机会，您只需拥有vXEN或vUSDy。获取这些代币的过程非常简单--只需分别刻录一个XEN代币变体或YSL.IO原生代币。这是一个无缝的过程，用户可以访问每日刻录拍卖，并有机会获得XNF。请记住，在焚烧过程中，必须根据被焚烧代币的当前市值支付造币厂费用。
 
@@ -793,7 +793,7 @@ Xenify的每日刻录拍卖是获得XNF代币的绝佳机会，您只需拥有vX
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vXEN Mint Fee
+## ◽️ vXEN造币厂费用
 
 vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费由您所焚烧代币的当前市值决定。vXEN 造币费产生的原生代币将按以下方式分配：
 
@@ -805,7 +805,7 @@ vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vUSDy Mint Fee
+## ◽️ vUSDy造币厂费用
 
 vUSDy造币费仅适用于您通过烧币过程将USDy、xYSL或bYSL转换为vUSDy。vUSDy铸币费产生的原生代币将按以下方式分配：
 
@@ -871,7 +871,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ 可视化说明
 
 <p align="center" dir="auto">
   <picture>
@@ -956,7 +956,7 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ 可视化说明
 
 <p align="center" dir="auto">
   <picture>
@@ -1002,7 +1002,7 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ 可视化说明
 
 <p align="center" dir="auto">
   <picture>
@@ -1015,7 +1015,7 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Amplify Burns
+# ◽️ 放大烧伤
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -1150,7 +1150,7 @@ Xenify 的使命是通过在我们的所有努力中坚持加密货币的第一�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fair Launch
+## ◽️ 展会启动
   
 - Xenify 的推出旨在实现公正，不预先挖掘或预先分配 XNF 代币。这保证了所有参与者的公平竞争，营造了一个公平和机会均等的环境。
 
