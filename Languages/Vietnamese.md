@@ -1002,3 +1002,480 @@ Trong giai đoạn trước khi triển khai, trong khi sự kiện phân phối
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
+
+Giới thiệu [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), bộ sưu tập NFT độc quyền kết hợp cộng đồng Xenify và YSL.IO. Bằng cách sở hữu một trong những NFT đặc biệt này, người dùng Xenify sẽ mở khóa hiệu ứng đốt hàng ngày được khuếch đại, tăng đột biến số lượng lô của họ lên đến 100 khi đốt vXEN hoặc vUSDy. Hơn nữa, việc sở hữu hoặc cho thuê tối thiểu 4 trong số những NFT được săn đón này sẽ mang lại cho bạn một hiệu ứng khuếch đại còn lớn hơn, với ví của bạn nhận được phần thưởng hàng ngày lên đến 1.000 lô.
+
+Ngoài ra, những người nắm giữ NFT Phoenix sẽ được hưởng một loạt các quyền lợi bổ sung. Điều này bao gồm cơ hội kiếm thưởng USDC mỗi 8 giờ và bỏ qua Tỷ lệ Thoát Sigma trên giao thức YSL.IO. Những lợi ích bổ sung này nâng cao sự tham gia của người dùng đồng thời đóng góp đáng kể cho sự phát triển của cả hai hệ sinh thái Xenify và YSL.IO.
+
+Mỗi ví nắm giữ NFT Phoenix Ape phải tuân theo Hạn ngạch Giao dịch Ra hằng Tuần (WOQ) cho phép một giao dịch ra duy nhất liên quan đến NFT Phoenix Ape mỗi 7 ngày. Các giao dịch ra bao gồm chuyển một NFT Phoenix Ape sang ví khác hoặc bán NFT đó. Lưu ý rằng trong khi hạn chế WOQ có hiệu lực, người nắm giữ ví vẫn được phép chuyển tiện ích của NFT Phoenix Ape của họ sang chuỗi khác. Nói ngắn gọn, việc chuyển tiện ích của một NFT sang chuỗi khác không kích hoạt WOQ cũng không ảnh hưởng đến khả năng chuyển tiện ích NFT Phoenix Ape của người dùng. 
+
+Và đây là phần tốt nhất: Phần thưởng lô hàng ngày của bạn, cho dù bạn sở hữu một NFT hay bốn NFT, có thể được chuyển một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Với phần thưởng của bạn đặt lại mỗi ngày, bạn sẽ có cơ hội hưởng lợi từ hiệu ứng đốt được khuếch đại này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bộ sưu tập Giới hạn 
+
+Phoenix Apes, bộ sưu tập NFT độc quyền được phát triển cho YSL.IO, có nguồn cung khan hiếm chỉ 520. Những NFT được săn đón này đã được thiết kế một cách thông minh với tiện ích là trọng tâm. Chúng không chỉ sở hữu những tính năng hiếm có riêng biệt, mà còn mang lại cho người nắm giữ những lợi ích đặc biệt trong hệ sinh thái YSL.IO.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+
+## ◽️ Hiệu ứng Đốt Được Khuếch đại Hàng ngày
+
+Những người nắm giữ NFT Phoenix Ape mở khóa lợi thế đốt được khuếch đại độc quyền khi họ chọn đốt vXEN hoặc vUSDy trên Xenify. Lợi thế độc đáo này trao quyền cho những người nắm giữ NFT để đảm bảo phần lớn hơn trong việc phân phối XNF hàng ngày, đồng thời hưởng lợi từ các khoản giảm giá đáng kể trên phí đốt của họ. Bằng cách kết nối cả hai cộng đồng, lợi ích đặc biệt này thúc đẩy sự đoàn kết và thúc đẩy sự phát triển cho cả hai giao thức.
+
+Đây là cách nó hoạt động: Khi những người nắm giữ NFT Phoenix Ape quyết định đốt vXEN hoặc vUSDy trên Xenify, họ mở khóa phần thưởng đốt hàng ngày nhân đôi số lượng lô của họ (NB). Phần thưởng bị giới hạn ở 100 lô hàng ngày cho mỗi ID NFT. Một khi người dùng đã sử dụng hết 100 lô thưởng hàng ngày được phân bổ cho NFT Phoenix Ape của họ, NFT cụ thể đó sẽ không còn cung cấp đốt được khuếch đại cho ngày hôm đó.
+
+Đang tìm kiếm sức mạnh bổ sung? Chúng tôi có tin tuyệt vời! Bằng cách sở hữu hoặc cho thuê ít nhất 4 trong số những NFT được săn đón này, bạn sẽ được hưởng lợi từ sự khuếch đại thậm chí còn lớn hơn, với ví của bạn nhận được phần thưởng hàng ngày lên đến 1.000 lô. Điều này thay thế hiệu quả 100 lô thưởng hàng ngày dành cho mỗi trong bốn ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 NFT, tổng số lô thưởng hàng ngày của bạn sẽ bị giới hạn ở 1.000 lô, không phải 1.400 lô. 
+
+Hãy nhớ rằng, bạn đốt càng nhiều lô, bạn càng tiết kiệm được nhiều phí đốt. Bằng cách nắm giữ 4 NFT, bạn có thể đạt được mức tiết kiệm tối đa 75% phí đốt chỉ bằng cách đốt 9.000 lô trong giờ đầu tiên của một chu kỳ thay vì 10.000 lô thông thường. Hơn nữa, với việc Phoenix Ape NFT chỉ có nguồn cung giới hạn 520, chỉ có tối đa 130 địa chỉ ví có thể nắm bắt được sức mạnh bổ sung này. 
+
+Và đây là phần tốt nhất: Phần thưởng lô hàng ngày của bạn, cho dù bạn có một NFT hay bốn NFT, có thể được chuyển một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Giả sử Xenify mở rộng sang Ethereum và bạn nắm giữ 4 NFT Phoenix Ape. Một khi bạn đã sử dụng hết 1.000 lô thưởng hàng ngày trên BNB Chain, bạn có thể dễ dàng chuyển tiện ích của NFT của mình sang Ethereum và tận hưởng 1.000 lô thưởng ở đó. Với bộ nhân của bạn đặt lại mỗi ngày, bạn sẽ có cơ hội hưởng lợi từ hiệu ứng đốt được khuếch đại này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
+
+Tóm lại, những người nắm giữ NFT Phoenix Ape không chỉ được hưởng phần lớn hơn trong việc phân phối XNF hàng ngày mà còn mở khóa các khoản giảm giá lớn hơn trên phí đốt bằng cách đốt nhiều lô hơn. Số lượng lô tối đa trên mỗi giao dịch bị giới hạn ở 10.000 lô, và khoản giảm phí đốt được biểu thị bằng thuật ngữ (1 - (NB x BC)) trong công thức phí đốt của giao thức:
+
+<br>
+
+$$
+BF = (FC \times VB) \times (1 - (NB \times BC))
+$$
+
+**Trong đó:**
+
+- $BF$ (Phí Đốt) - Phí tính cho chức năng đốt, thanh toán bằng mã thông báo gốc của blockchain.  
+- $FC$ (Hệ số Phí Đốt) - Hệ số được tính theo thời gian để tính giảm giá trên phí đốt.
+- $VB$ (Giá trị của các Lô) - Giá trị đô la của các lô mà người dùng đốt, ảnh hưởng đến phí đốt khi giá trị của các lô tăng lên.
+- $BC$ (Hệ số Lô) - Hệ số được tính theo thời gian để tính giảm giá dựa trên số lượng lô được đốt.  
+- $NB$ (Số lượng Lô) - Số lượng lô mà người dùng đốt, ảnh hưởng đến khoản giảm phí đốt khi số lượng lô tăng lên. Điều này sẽ bị giới hạn ở 10.000 lô.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Ví dụ: Hiệu ứng Đốt được Tăng cường 
+
+Hãy xem xét kỹ hơn cách đốt được tăng cường hoạt động trong các kịch bản khác nhau:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Kịch bản 1: Nếu bạn nắm giữ từ 1 đến 3 NFT Phoenix Ape
+
+- Mỗi NFT Phoenix Ape được trang bị bội số thưởng hàng ngày giới hạn ở 100 batch. Khi đốt một số lượng batch cụ thể, giao thức trước tiên xác minh xem bất kỳ NFT nào của bạn có dư số dư thưởng không. Nếu có, giao thức sẽ sử dụng số dư thưởng của bạn để tăng số lượng batch của bạn.
+
+- Ví dụ, hãy tưởng tượng bạn có số dư thưởng hàng ngày là 100 batch trên NFT của mình và chọn đốt 10 batch. Giao thức sẽ hiệu quả gấp đôi số lượng batch của bạn lên 20 batch, bằng cách sử dụng 10 trong số các batch thưởng hàng ngày của bạn. Do đó, 10 batch từ số dư thưởng hàng ngày của ID NFT đó sẽ bị trừ đi, để lại 90 batch thưởng cho NFT đó vào ngày hôm đó. 
+
+- Tuy nhiên, nếu bạn quyết định đốt một lượng vượt quá số dư thưởng của mình, giao thức sẽ tiêu thụ toàn bộ số dư của NFT của bạn. Ví dụ, nếu số dư thưởng hàng ngày hiện tại của bạn là 90 batch và bạn chọn đốt 5.000 batch, quá trình đốt sẽ tính là 5.090 batch, sử dụng hết 90 batch còn lại từ số dư thưởng của NFT của bạn. Kết quả là, 90 batch thưởng được phân bổ cho ID NFT sẽ bị xóa, để lại không còn batch thưởng nào cho NFT đó vào ngày hôm đó. Đừng lo lắng, số lượng batch thưởng của bạn sẽ được đặt lại về 100 vào ngày tiếp theo.
+
+- Ngoài ra, bạn có thể lựa chọn bridge tiện ích NFT của mình sang một chuỗi khác mà Xenify đã ra mắt. Bằng cách này, bạn có thể truy cập thêm 100 batch thưởng hàng ngày vào ngày đó, hiệu quả cấp cho bạn 200 batch thưởng hàng ngày cho NFT của bạn. Ví dụ, nếu bạn đã sử dụng hết số thưởng hàng ngày của mình trên BNB Chain, bạn chỉ cần bridge tiện ích NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Quá trình này có thể được lặp lại cho mỗi chuỗi mà Xenify đã được triển khai.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ♦️ Kịch bản 2: Nếu bạn nắm giữ 4 hoặc nhiều hơn NFT Phoenix Ape
+
+- Nếu bạn sở hữu hoặc thuê 4 NFT Phoenix Ape, việc đốt batch trở nên còn thưởng hơn. Ví của bạn sẽ nhận được thưởng hàng ngày 1.000 batch. Điều này thực tế thay thế 100 batch thưởng hàng ngày mặc định được dành riêng cho mỗi ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 hoặc nhiều hơn NFT trong ví của mình, tổng số thưởng hàng ngày của bạn sẽ được giới hạn ở 1.000 batch cho ví đó. Khi bạn chọn đốt một lượng batch nhỏ hơn số thưởng hàng ngày hiện tại của mình, giao thức sẽ gấp đôi số lượng batch của bạn bằng cách sử dụng một lượng tương đương.
+
+- Ví dụ, nếu bạn có 4 NFT và thưởng hàng ngày 1.000 batch, đốt 1 batch sẽ được tính là 2 batch trong quá trình đốt. Điều này có nghĩa là 1 batch sẽ bị trừ từ số thưởng NFT hàng ngày của bạn, để lại cho bạn 999 batch thưởng trong ngày đó trên chuỗi đó.
+
+- Mặt khác, nếu bạn quyết định đốt một lượng batch lớn hơn số thưởng hàng ngày hiện tại của mình, giao thức sẽ sử dụng toàn bộ số dư thưởng của bạn. Giả sử bạn có 4 NFT và thưởng hàng ngày 1.000 batch. Nếu bạn chọn đốt tương đương 6.000 batch, nó sẽ được tính là 7.000 batch trong quá trình đốt. Giao thức sẽ sử dụng toàn bộ số thưởng batch hàng ngày 1.000 của bạn cho việc này. Kết quả là, bạn sẽ không còn bất kỳ batch thưởng nào để sử dụng cho ngày cụ thể đó trên chuỗi đó. Nhưng đừng lo lắng, một khi ngày mới bắt đầu, số lượng batch thưởng của bạn sẽ đặt lại về 1.000.
+
+- Ngoài ra, bạn có thể chọn bridge tiện ích của 4 NFT của mình sang một chuỗi khác mà Xenify đã ra mắt. Bằng cách này, bạn có thể sử dụng thêm 1.000 batch thưởng hàng ngày vào ngày đó, hiệu quả cung cấp cho bạn 2.000 batch thưởng hàng ngày. Ví dụ, nếu bạn đã sử dụng hết số thưởng hàng ngày của mình trên BNB Chain, bạn chỉ cần bridge tiện ích NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Bạn có thể lặp lại quy trình này cho mỗi chuỗi mà Xenify đã được triển khai.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Phần thưởng USDC có thể yêu cầu
+
+NFT Phoenix được thiết kế để là một bước đột phá trong thế giới NFT. Với cơ chế cho thuê độc đáo, NFT độc đáo này chủ động hỗ trợ hệ sinh thái YSL.IO và cho phép người dùng tạo thu nhập từ cho thuê, trong khi người thuê hưởng lợi thế bỏ qua Tỷ lệ Thoát Sigma của giao thức. Khi một NFT Phoenix Ape được cho thuê thông qua sàn giao dịch YSL.IO, một phần thu nhập cho thuê của người dùng được thu như thuế. Kết hợp với một phần thuế bản quyền từ OpenSea, những khoản thu này sau đó được phân phối cho tất cả những người nắm giữ NFT Phoenix Ape dưới dạng phần thưởng USDC trên BNB Chain.
+
+Những phần thưởng USDC này sẽ có sẵn để người nắm giữ yêu cầu vào cuối mỗi epoch 8 giờ. Và đây là phần tuyệt vời: ngay cả khi một người dùng quyết định bridge NFT Phoenix của họ từ chuỗi BNB để tăng cường đốt với Xenify trên một chuỗi khác, họ vẫn đủ điều kiện nhận phân phối USDC. Nói đơn giản hơn, phần thưởng USDC có thể yêu cầu trên BNB Chain sẽ được dành cho tất cả các địa chỉ nắm giữ NFT Phoenix Ape, bất kể họ có bridge tiện ích sang chuỗi khác hay không.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Cơ chế cho thuê độc đáo
+
+NFT Phoenix được thiết kế để là một bước đột phá trong thế giới NFT. Với cơ chế cho thuê độc đáo, NFT độc đáo này chủ động hỗ trợ hệ sinh thái YSL.IO và cho phép người dùng tạo thu nhập từ cho thuê, trong khi người thuê hưởng lợi thế bỏ qua Tỷ lệ Thoát Sigma của giao thức. Khi một NFT Phoenix Ape được cho thuê thông qua sàn giao dịch YSL.IO, một phần thu nhập cho thuê của người dùng được thu như thuế. Kết hợp với một phần thuế bản quyền từ OpenSea, những khoản thu này sau đó được phân phối cho tất cả những người nắm giữ NFT Phoenix Ape dưới dạng phần thưởng USDC trên BNB Chain.
+
+Những phần thưởng USDC này sẽ có sẵn để người nắm giữ yêu cầu vào cuối mỗi epoch 8 giờ. Và đây là phần tuyệt vời: ngay cả khi một người dùng quyết định bridge NFT Phoenix của họ từ chuỗi BNB để tăng cường đốt với Xenify trên một chuỗi khác, họ vẫn đủ điều kiện nhận phân phối USDC. Nói đơn giản hơn, phần thưởng USDC có thể yêu cầu trên BNB Chain sẽ được dành cho tất cả các địa chỉ nắm giữ NFT Phoenix Ape, bất kể họ có bridge tiện ích sang chuỗi khác hay không.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bỏ qua Tỷ lệ Thoát Sigma
+
+Giao thức YSL.IO được thiết kế cụ thể để cung cấp tính ổn định và khả năng phục hồi cho tất cả người tham gia. Giao thức trưng bày Mô hình Ổn định Giá (PSM) sáng tạo không chỉ nhằm ổn định giá của các token gốc (YSL, xYSL, bYSL và USDy) mà còn đảm bảo người dùng trải nghiệm thanh khoản thoát cao và bảo tồn tăng trưởng lâu dài của thanh khoản sở hữu quỹ.
+
+Một thành phần quan trọng của PSM là Tỷ lệ Thoát Sigma, giới hạn việc bán token từ một ví bằng cách xem xét việc người dùng có được hoặc bán lần cuối cùng của token. Tuy nhiên, những người nắm giữ NFT Phoenix Ape đặc quyền có thể tự do bán tới 100% token xYSL, bYSL hoặc USDy của họ mà không phải chịu Tỷ lệ Thoát Sigma. Tính năng độc quyền này cấp cho người dùng sự linh hoạt và kiểm soát tối đa đối với các khoản nắm giữ token gốc YSL.IO của họ.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Trải nghiệm Người dùng 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify đặt sự quan trọng tối thượng vào việc cung cấp trải nghiệm người dùng xuất sắc, với trọng tâm chính là xây dựng một nền tảng vừa trực quan vừa dễ sử dụng. Quy trình đăng ký được thiết kế để trơn tru, cung cấp hướng dẫn và hướng dẫn rõ ràng giúp người dùng dễ dàng điều hướng nền tảng.
+
+Tách biệt với các sàn giao dịch phi tập trung truyền thống, Xenify loại bỏ nhu cầu người dùng cung cấp thanh khoản. Thay vào đó, nó hoạt động như một đầu mối tổng hợp chuỗi chéo, tận dụng các API để có được các tỷ giá hối đoái và phí tối thiểu thuận lợi nhất từ nhiều sàn giao dịch phi tập trung. Cách tiếp cận này đơn giản hóa trải nghiệm người dùng và tạo điều kiện thuận lợi cho các giao dịch chỉ cần nhấp chuột duy nhất trên các mạng blockchain khác nhau.
+
+Người dùng có thể tích cực tương tác với Xenify thông qua các chức năng khác nhau, bao gồm hoán đổi token, đốt vXEN hoặc vUSDy, stake hoặc bỏ stake XNF và yêu cầu phần thưởng. Nền tảng không chỉ mang lại trải nghiệm trơn tru cho người dùng mà còn tích cực thưởng cho họ khi sử dụng giao thức thông qua việc phân phối chu kỳ thưởng hàng ngày.
+
+Mô hình khuyến khích này đảm bảo người dùng Xenify luôn được ghi nhận vì sự tham gia của họ và khuyến khích tiếp tục sử dụng nền tảng. Ngoài ra, người dùng có thể dễ dàng theo dõi XNF đã stake và phần thưởng tích lũy của họ, cho phép họ dễ dàng yêu cầu hoặc bỏ stake token XNF của mình chỉ với vài lần nhấp chuột. Bằng cách áp dụng cách tiếp cận hướng đến người dùng này, Xenify vẫn dễ tiếp cận đối với cả người dùng mới và người dùng có kinh nghiệm.
+
+<br>  
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Bảo mật
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️ An ninh là ưu tiên hàng đầu
+
+Tại Xenify, an ninh là điều vô cùng quan trọng để đảm bảo sự an toàn và độ tin cậy tối đa của giao thức của chúng tôi. Để củng cố an ninh giao thức của chúng tôi, chúng tôi đang lên kế hoạch kiểm toán các hợp đồng bởi PeckShield, một công ty bảo mật được đánh giá cao trong ngành.
+
+Nền tảng của chúng tôi được thiết kế cẩn thận với sự phi tập trung hóa và tự chủ là những nguyên tắc hướng dẫn. Các hợp đồng thông minh của Xenify không có khóa quản trị, có nghĩa là chúng không thể được nâng cấp hoặc điều hành bởi một cơ quan tập trung. Để củng cố bản chất thực sự phi tập trung hóa và tự chủ của giao thức, tiềm năng kiếm tiền sẽ được phân bổ công bằng giữa các thành viên dựa trên số lượng veXNF và sức mạnh liên quan của họ. Khi Xenify phát triển, chúng tôi đặt mục tiêu ưu tiên lợi ích của người dùng, nuôi dưỡng tính minh bạch và tin tưởng trong suốt giao thức.  
+
+Sứ mệnh của Xenify là tạo ra một nền tảng DeFi minh bạch, công bằng và hướng đến người dùng bằng cách duy trì Những Nguyên tắc Cơ bản đầu tiên của Tiền điện tử trong tất cả những nỗ lực của chúng tôi. Bằng cách cam kết với những giá trị cốt lõi này, chúng tôi khao khát thiết lập một giao thức tôn vinh sự tin tưởng, công bằng và tăng trưởng dựa trên cộng đồng trong không gian DeFi.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Ra mắt Công bằng
+
+- Việc ra mắt Xenify được thiết kế để công bằng, không có đào trước hoặc phân bổ trước mã thông báo XNF. Điều này đảm bảo một sân chơi bình đẳng cho tất cả các thành viên, nuôi dưỡng một môi trường công bằng và cơ hội bình đẳng.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Không có lối vào phía sau 
+
+- Các hợp đồng thông minh và kiến trúc nền tảng của Xenify sẽ được phát triển cẩn thận mà không có chức năng ẩn hoặc cửa hậu, đảm bảo mức độ an ninh và đáng tin cậy cao nhất của giao thức của chúng tôi.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+
+## ◽️ Không có Phân bổ cho Nhóm
+
+- Các nhà sáng lập và thành viên nhóm sẽ không nhận bất kỳ phân bổ mã thông báo nào, nhấn mạnh sự cống hiến của dự án đối với cách tiếp cận dựa trên cộng đồng và loại bỏ các xung đột lợi ích tiềm ẩn. Thay vào đó, nhóm Xenify sẽ tham gia cùng cộng đồng, thúc đẩy một môi trường công bằng và bình đẳng cho tất cả mọi người tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bắt đầu với Nguồn cung Bằng Không
+
+- XNF sẽ bắt đầu với nguồn cung mã thông báo bằng không, với các mã thông báo được đúc duy nhất thông qua sự tham gia của người dùng trong hệ sinh thái. Cách tiếp cận này đảm bảo rằng không có khả năng phát hành bí mật, thường ưu tiên một số ít người. Thay vào đó, tất cả các thành viên sẽ có cơ hội bình đẳng để tương tác và hưởng lợi từ giao thức.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bằng chứng về Sự tham gia
+
+- Người dùng sẽ kiếm được phần thưởng tỷ lệ thuận với sự tham gia và đóng góp tích cực của họ trong hệ sinh thái, nuôi dưỡng một hệ thống phần thưởng dựa trên công trạng thúc đẩy sự công bằng và bao gồm tất cả mọi người tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+
+## ◽️ Không có Phân bổ cho Nhà đầu tư 
+
+- Sẽ không có phân bổ mã thông báo cho các nhà đầu tư đặc quyền hoặc các nhà tài chính mạo hiểm, đảm bảo phân phối mã thông báo thực sự công bằng giữa người dùng tham gia tích cực vào hệ sinh thái. Chiến lược này loại bỏ sự ưu đãi và thúc đẩy một môi trường công bằng và bao gồm hơn cho tất cả mọi người tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+
+## ◽️ Không có Đợt chào bán Tiền điện tử đầu tiên
+
+- Xenify sẽ bỏ qua Đợt chào bán Tiền điện tử đầu tiên (ICO), củng cố cam kết kiên định của chúng tôi đối với một phiên ra mắt công bằng và minh bạch đảm bảo cơ hội bình đẳng cho tất cả mọi người tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Người dùng đúc cổ phần của họ
+
+- Các mã thông báo XNF sẽ không được đào hoặc phân bổ cho nhà đầu tư hoặc thành viên nhóm. Thay vào đó, người dùng có thể có được các mã thông báo XNF bằng cách tích cực tương tác với giao thức, cho dù đó là đốt các mã thông báo vXEN hoặc vUSDy, hoặc hoán đổi mã thông báo từ một chuỗi được hỗ trợ. Cách tiếp cận này thưởng cho người dùng vì những đóng góp của họ và đảm bảo phân phối XNF công bằng trong hệ sinh thái.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Hợp đồng Bất biến (Không có Khóa Quản trị)
+
+  - Các hợp đồng thông minh Xenify sẽ được chế tạo cẩn thận mà không có khóa quản trị hoặc kiểm soát tập trung, bảo vệ tính bất biến của giao thức và bảo tồn bản chất phi tập trung của nó. Điều này có nghĩa là gì? Một khi các mô hình kinh tế mã thông báo và kiến trúc giao thức của chúng tôi được triển khai, chúng được đặt vào đá - không thể nâng cấp hoặc thay đổi. Cam kết này với tính bất biến mang lại một môi trường ổn định, minh bạch và an toàn cho cộng đồng của chúng tôi, đảm bảo rằng không có thực thể đơn lẻ nào có thể đưa ra các quyết định tùy tiện để thao túng giao thức.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Kết luận
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify, một bộ tổng hợp chuỗi chéo các bộ tổng hợp, đã được xây dựng cẩn thận từ đầu để chuyển đổi cách người dùng tham gia hoán đổi mã thông báo. Mục tiêu chính của nó là cung cấp trải nghiệm người dùng liền mạch, thưởng cho các thành viên cộng đồng tích cực và thiết lập một mô hình phân phối mã thông báo công bằng và bền vững. Bằng cách tận dụng các mô hình kinh tế mã thông báo đổi mới, Xenify khao khát thiết lập một nền tảng phi tập trung, dựa trên cộng đồng đánh giá cao và khuyến khích sự tham gia tích cực của người dùng trong hệ sinh thái. 
+
+Điều làm cho Xenify khác biệt là sự kết nối liền mạch với 27 bộ tổng hợp khác nhau, cho phép dễ dàng hoán đổi một cú nhấp chuột với tỷ giá không thể đánh bại trên 50 chuỗi hàng đầu. Tuy nhiên, giá trị của nó vượt xa sự tiện lợi. Tách biệt với các sàn giao dịch khác, Xenify tạo điều kiện cho việc áp dụng người dùng bằng cách đảm bảo mọi hành động được thực hiện trên nền tảng đều đóng góp vào một môi trường hỗ tương nơi lợi ích tích lũy dựa trên đóng góp và sự tham gia. 
+
+Với Xenify, người dùng được cấp cơ hội độc quyền để kiếm mã thông báo XNF trên mọi lần hoán đổi, bổ sung bởi một mô hình staking đổi mới cho phép người dùng kiếm được các mã thông báo chuỗi gốc như ETH, BNB và MATIC hàng ngày. Mô hình khuyến khích độc đáo này chắc chắn định vị Xenify là lựa chọn hàng đầu cho những người muốn đơn giản hóa quá trình hoán đổi chuỗi chéo đồng thời tối đa hóa tiềm năng kiếm tiền của họ.
+
+An ninh và cam kết phân phối mã thông báo công bằng là cốt lõi của các nguyên tắc Xenify. Giao thức đã được thiết kế cẩn thận để bảo vệ quyền lợi của người dùng, vì nó triển khai quy trình đúc công bằng và cấu trúc khuyến khích người dùng tham gia tích cực vào sự tăng trưởng của hệ sinh thái. Cách tiếp cận độc đáo này nuôi dưỡng mối quan hệ hỗ trợ lẫn nhau giữa tất cả các bên tham gia, đóng góp cho sự tăng trưởng và tính bền vững lâu dài của nền tảng. Bằng cách thúc đẩy môi trường sôi nổi và dựa trên cộng đồng này và duy trì các cam kết về an ninh, minh bạch và công bằng, Xenify sẵn sàng nổi lên là một nhà lãnh đạo trong lĩnh vực sàn giao dịch phi tập trung.
+
+Tóm lại, Xenify đại diện cho một sự thay đổi cục diện trong thế giới hoán đổi mã thông báo chuỗi chéo. Với hiệu quả liền mạch, mô hình thưởng hấp dẫn và cam kết không lay chuyển đối với an ninh và công bằng, Xenify mang đến cho người dùng cơ hội không thể so sánh để tham gia vào một hệ sinh thái thực sự phi tập trung, đánh giá cao sự tham gia và thúc đẩy sự tăng trưởng cùng có lợi. Bằng cách chọn Xenify, mọi người có thể trải nghiệm điều tốt nhất của cả hai thế giới: hoán đổi mã thông báo dễ dàng và khả năng tối đa hóa tiềm năng kiếm tiền của họ.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Câu hỏi Thường gặp
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+
+<br>
+
+Chúng tôi hiểu rằng bạn có thể có câu hỏi về Xenify, các tính năng của nó và tiềm năng của nó. Để giúp bạn điều hướng nền tảng của chúng tôi, chúng tôi đã biên soạn một danh sách các câu hỏi thường gặp cung cấp sự rõ ràng và hiểu biết sâu sắc về Xenify và hệ sinh thái của nó.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF có nguồn cung ban đầu không?
+  - Không, Xenify không có nguồn cung ban đầu, và không có tiền khai thác trước của token XNF. Thay vào đó, giao thức thưởng cho người dùng hàng ngày dựa trên sự tham gia tích cực của họ vào hệ sinh thái. Điều này đạt được thông qua các đóng góp khác nhau, chẳng hạn như đóng góp phí đốt bằng cách trực tiếp đốt token vXEN hoặc vUSDy, cũng như phí hoán đổi được tạo ra thông qua đầu mối tổng hợp Xenify. Đáng chú ý, tất cả phí đốt và phí hoán đổi được thu trên các chuỗi EVM được hỗ trợ hàng ngày đều được chuyển cho những người stake XNF, cung cấp tiềm năng kiếm tiền lâu dài đáng kể.
+
+- Bằng cách thực hiện hệ thống phân phối công bằng này, Xenify nhằm tạo một sân chơi bình đẳng cho tất cả người dùng, ngăn chặn bất kỳ sự tập trung token nào trong tay một số người dùng sớm. Thay vào đó, giao thức nhấn mạnh tầm quan trọng của sự tham gia và đóng góp liên tục của người dùng, vì chúng dịch chuyển trực tiếp thành các phần thưởng cụ thể. Cách tiếp cận sáng tạo này phân biệt Xenify như một nền tảng coi trọng cộng đồng của mình và tích cực khuyến khích sự tham gia của họ trong việc định hình hệ sinh thái.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Nút tái chế có tác dụng gì?
+  - Nút tái chế là tính năng thân thiện với người dùng ưu tiên nhu cầu của những người nắm giữ veXNF. Chỉ cần nhấp vào nút này, người dùng có thể dễ dàng chuyển đổi các phần thưởng token gốc chuỗi đã tích lũy của họ thành XNF thông qua đấu giá đốt hàng ngày. Tính năng này mang lại một số lợi ích. Thứ nhất, nó cho phép bạn tham gia vào chu trình đốt mà không phải chịu phí đúc và phí đốt bắt buộc liên quan đến quy trình đốt mặc định. Điều này có nghĩa là bạn có thể tận hưởng lợi ích của việc có được XNF thông qua chu trình đốt trong khi tiết kiệm thêm phí.
+
+  - Hơn nữa, bằng cách chọn tái chế phần thưởng của bạn, bạn tích cực đóng góp vào sự phát triển và tính bền vững của hệ sinh thái Xenify. Giao thức sử dụng 50% phần thưởng token gốc chuỗi đã tích lũy của bạn để tạo thanh khoản XNF, cho phép một thị trường XNF vững mạnh và hiệu quả hơn. Ngoài ra, 25% phần thưởng được sử dụng để tạo thanh khoản XEN, tiếp tục cải thiện tổng thể thanh khoản của hệ sinh thái. Cuối cùng, 25% còn lại được gửi dưới dạng USDC cho nhóm, hỗ trợ các chi phí hoạt động liên tục như phát triển nền tảng, các chiến dịch tiếp thị và các hoạt động tham gia cộng đồng.
+
+  - Bằng cách tái chế phần thưởng của bạn, bạn không chỉ tăng cường lợi ích của chính mình mà còn đóng vai trò quan trọng trong sự thành công liên tục của nền tảng Xenify. Kết quả là, những người tham gia tái chế sẽ nhận được sự phân phối bổ sung độc quyền của các token gốc chuỗi được tạo ra từ các khoản phí yêu cầu của nền tảng. Điều này có nghĩa là bằng cách tích cực tham gia vào quá trình tái chế, bạn có cơ hội để đảm bảo thêm nhiều token gốc chuỗi hơn nữa, tăng tổng số lượng nắm giữ của bạn.
+
+  - Kết luận, tính năng nút tái chế không chỉ mang lại sự tiện lợi mà còn mang lại nhiều lợi ích cho những người nắm giữ veXNF. Bằng cách tiết kiệm chi phí, đóng góp cho sự phát triển của hệ sinh thái và truy cập các khoản phân phối độc quyền, những người tham gia tái chế có thể tối đa hóa lợi ích của họ đồng thời hỗ trợ thành công liên tục của nền tảng Xenify.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Tại sao giá trị của XNF sẽ tăng lên?
+  - Giá trị của XNF có tiềm năng tăng đáng kể do tokenomic đột phá của Xenify, hệ sinh thái phát triển mạnh và nhu cầu ngày càng tăng về phần thưởng token gốc chuỗi. Với đầu mối tổng hợp chuỗi chéo tiên tiến của Xenify, người dùng có thể thực hiện các hoán đổi token trơn tru và tham gia vào các hoạt động thưởng khác nhau, thúc đẩy việc áp dụng giao thức và cuối cùng là giá trị của XNF.
+
+  - Ngoài ra, tính khan hiếm của các token XNF, phát sinh từ các sự kiện giảm đôi, có khả năng thúc đẩy giá trị của token khi ngày càng nhiều người dùng chọn Xenify làm nền tảng ưa thích để hoán đổi token. Điều này sẽ dẫn đến nhiều phần thưởng token gốc chuỗi hơn cho những người stake XNF, dẫn đến nhu cầu ngày càng tăng đối với các token XNF. Do đó, giá trị token sẽ tăng do nhu cầu, củng cố vị thế của Xenify như một dự án đầy hứa hẹn trong hệ sinh thái XEN.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Nếu tôi thực hiện stake bây giờ, tôi có thể bỏ stake lúc nào?
+  - Khi bạn chọn stake XNF của mình, bạn sẽ có cơ hội lựa chọn chu kỳ stake phù hợp với sở thích của bạn, từ tối thiểu 2 tuần đến tối đa 4 năm. Điều quan trọng cần lưu ý là một khi bạn bắt đầu chu kỳ stake, các token XNF của bạn sẽ bị khóa và bạn sẽ không thể bỏ stake chúng cho đến khi hoàn thành chu kỳ. Một khi chu kỳ stake đã chọn của bạn kết thúc, bạn sẽ có quyền bỏ stake các token XNF của mình, lấy lại quyền sở hữu và kiểm soát đầy đủ của chúng. Bằng cách tham gia stake, bạn đóng góp vào sức khỏe tổng thể của hệ sinh thái của chúng tôi, và đổi lại, bạn có cơ hội kiếm được các phần thưởng token gốc chuỗi hàng ngày!
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Tôi tạo ra phần thưởng với Xenify như thế nào?
+  - Xenify mang lại cơ hội cho người dùng kiếm được các phần thưởng như ETH, BNB và MATIC hàng ngày bằng cách stake token XNF. Những phần thưởng này được phân phối giữa những người stake XNF dựa trên số dư veXNF và sức mạnh liên quan đến veXNF của họ. Mô hình khuyến khích này không chỉ khuyến khích sự tham gia tích cực mà còn đóng vai trò quan trọng trong việc nuôi dưỡng sự tăng trưởng và tính bền vững lâu dài của giao thức.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Nếu tôi staking ngay bây giờ thì khi nào tôi sẽ nhận được phần thưởng?
+
+- Khi bạn stake mã thông báo XNF, bạn sẽ nhận được phần thưởng vào cuối chu kỳ mà bạn thực hiện việc stake. Trong suốt chu kỳ, các phần thưởng này tích lũy trong nhóm phần thưởng, và giao thức phân phối toàn bộ nhóm phần thưởng các mã thông báo chuỗi gốc cho những người nắm giữ veXNF vào cuối chu kỳ dựa trên số dư veXNF và sức mạnh liên quan của họ, đảm bảo phân phối công bằng và minh bạch.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Có các cách khác nhau để tham gia với Xenify không?
+
+- Vâng, có một số cách để tham gia với Xenify, bao gồm:
+  - Sử dụng bộ tổng hợp Xenify để thực hiện các giao dịch hoán đổi một cú nhấp chuột liền mạch và kiếm XNF trong quá trình đó.
+  - Tham gia đốt trực tiếp vXEN hoặc vUSDy để có được XNF.
+  - Stake mã thông báo XNF để kiếm mã thông báo chuỗi gốc như ETH, BNB và MATIC.
+  - Mua một NFT Phoenix Ape để mở khóa đốt được khuếch đại hàng ngày và hơn thế nữa.
+  - Đóng góp cho sự tăng trưởng của giao thức thông qua các sáng kiến cộng đồng.
+  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Điều gì xảy ra nếu không có hoán đổi mã thông báo hoặc đốt trong một chu kỳ hàng ngày?
+
+- Trong trường hợp không may không có giao dịch nào xảy ra trên Xenify, và không có người dùng nào đốt vXEN hoặc vUSDy, việc phân phối chu kỳ hàng ngày XNF sẽ không được thực hiện. Trong tình huống này, các mã thông báo XNF dự kiến phân phối trong chu kỳ đó đơn giản sẽ không được đúc. Kết quả là, tổng nguồn cung XNF sẽ giảm bởi số lượng dự định phân phối trong chu kỳ đó.
+
+- Ví dụ, nếu phân bổ hàng ngày cho một chu kỳ được đặt ở mức 20.000 XNF, và nếu không có hoán đổi hoặc đốt nào xảy ra trong chu kỳ đó, 20.000 XNF sẽ không được đúc hoặc phân phối. Thay vào đó, tổng nguồn cung XNF sẽ giảm 20.000 XNF khi kết thúc chu kỳ.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Bảng chú giải
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Chào mừng bạn đến với Bách khoa thuật ngữ Xenify, nguồn tài nguyên mà bạn có thể tham khảo để hiểu các thuật ngữ và khái niệm then chốt đối với hệ sinh thái Xenify và thế giới tài chính phi tập trung (DeFi) rộng lớn hơn. Bách khoa thuật ngữ của chúng tôi nhằm cầu nối khoảng cách giữa thuật ngữ phức tạp trong lĩnh vực tiền điện tử với ngôn ngữ hàng ngày. Sử dụng ngôn ngữ hàng ngày và giải thích rõ ràng, bách khoa thuật ngữ của chúng tôi sẽ cho phép bạn nâng cao kiến thức về Xenify, DeFi và các công nghệ đổi mới mang lại sự sống cho giao thức của chúng tôi một cách rõ ràng và đơn giản.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XEN
+
+  - XEN là nền tảng truyền cảm hứng cho Xenify, kết hợp khái niệm Bằng chứng Tham gia đổi mới của nó và phương pháp Luận điểm Đầu tiên để xây dựng một giao thức phi tập trung đột phá.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF
+
+  - XNF là token cổ phần gốc của Xenify, một giao thức tổng hợp chuỗi chéo tiên tiến trong không gian tài chính phi tập trung (DeFi). Người dùng có thể kiếm token XNF bằng cách tham gia tích cực vào các hoạt động của nền tảng, chẳng hạn như đốt token vXEN hoặc vUSDy và hoán đổi token trên các chuỗi được hỗ trợ.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ veXNF
+
+  - veXNF là một token có áo giáp, được thể hiện dưới dạng một token không thể thay thế (NFT) theo tiêu chuẩn ERC-721, đại diện cho vị trí stake của một người dùng trong XNF. Phần của người dùng trong các phần thưởng token gốc chuỗi không chỉ được quyết định bởi số lượng veXNF mà họ sở hữu. Nó cũng chịu ảnh hưởng bởi 'sức mạnh' hoặc vị thế của họ trong giao thức. Vị thế này được xác định bởi sự kết hợp giữa số lượng veXNF mà họ nắm giữ và thời hạn khóa.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Xenify
+
+  - Xenify là một giao thức tài chính phi tập trung (DeFi) được thiết kế để cách mạng hóa trải nghiệm hoán đổi token. Nó cung cấp một đầu mối tổng hợp chuỗi chéo tiên tiến, giúp dễ dàng hoán đổi token trên 50 chuỗi khác nhau. Với quyền truy cập vào các tuyến đường tốt nhất và phí thấp nhất từ 27 đầu mối tổng hợp, Xenify trao quyền cho người dùng để hoán đổi token một cách trơn tru giữa các chuỗi được hỗ trợ. Nó nhấn mạnh tính công bằng, đơn giản, minh bạch, trao quyền cho người dùng và khả năng tương tác, nhằm tạo ra một hệ sinh thái DeFi kết nối hơn và thân thiện với người dùng.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Stake
+
+  - Stake liên quan đến việc khóa token trong một ví hoặc nền tảng để hỗ trợ các hoạt động mạng, như xác thực giao dịch hoặc bảo mật mạng. Đổi lại, người tham gia nhận được phần thưởng.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Chuỗi chéo
+
+  - Chuỗi chéo đề cập đến khả năng tương tác và chuyển tài sản giữa các mạng blockchain khác nhau. Nó thúc đẩy khả năng tương tác và một hệ sinh thái kết nối hơn.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Tokenomics
+
+  - Tokenomics là nghiên cứu các khía cạnh kinh tế của một đồng tiền điện tử hoặc token, chẳng hạn như nguồn cung, phân phối và khuyến khích.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Đốt trực tiếp
+
+  - Khi một token bị đốt, nó thường được gửi đến một địa chỉ không hoạt động và loại bỏ khỏi lưu thông, hiệu quả giảm tổng nguồn cung xuống số lượng bị đốt. Trên Xenify, Đốt trực tiếp xảy ra khi người dùng cố ý đốt token (vXEN hoặc vUSDy) để thúc đẩy sự phát triển của giao thức. Là phần thưởng cho sự cam kết của họ với giao thức, người dùng nhận token XNF đổi lấy token vXEN hoặc vUSDy bị đốt của họ.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bằng chứng Đốt
+
+  - Bằng chứng Đốt là một cơ chế cam kết mà người dùng đốt token để thể hiện sự ủng hộ của họ đối với giao thức. Đổi lại, họ nhận được phần vốn cổ phần.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Khối lượng Hoán đổi
+
+  - Khối lượng hoán đổi đề cập đến tổng giá trị của các giao dịch hoán đổi token được thực thi trên nền tảng Xenify. Nó phục vụ như cơ sở để phân phối token XNF cho người dùng trong chu kỳ thưởng hàng ngày.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Luận điểm Đầu tiên
+
+  - Luận điểm Đầu tiên trong crypto là những khái niệm cơ bản nâng đỡ các đồng tiền kỹ thuật số phi tập trung. Chúng tập trung vào quyền truy cập không cần phép, tính minh bạch, không tin tưởng, phi tập trung hóa và bất biến. Những nguyên tắc này hướng dẫn sự phát triển và đổi mới của đồng tiền kỹ thuật số, cho phép ra quyết định dựa trên thông tin và định hình tương lai của tài chính phi tập trung.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Khả năng tương tác
+
+  - Khả năng tương tác là khả năng các hệ thống, mạng hoặc nền tảng khác nhau có thể làm việc cùng nhau một cách trơn tru. Nó cho phép trao đổi dữ liệu, tài sản và thông tin mà không gặp rào cản.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Hợp đồng thông minh 
+
+- Hợp đồng thông minh là các thỏa thuận kỹ thuật số tự động thực thi khi điều kiện cụ thể được đáp ứng, cho phép hai bên hoặc nhiều bên trao đổi các thứ như tiền, tài sản hoặc cổ phiếu một cách minh bạch và dễ dàng, mà không cần trung gian. Những hợp đồng này giống như các chương trình con được lưu trữ trên blockchain, và chúng chạy ngay khi các điều khoản đã thỏa thuận được đáp ứng. Bằng cách tự động hóa quy trình, mọi người tham gia có thể tự tin vào kết quả mà không bị chậm trễ hoặc can thiệp từ trung gian.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ DeFi (Tài chính Phi tập trung)
+
+- DeFi, viết tắt của Tài chính Phi tập trung, là một hệ thống tài chính loại bỏ trung gian bằng cách sử dụng công nghệ blockchain. Nó kết hợp ngân hàng truyền thống với blockchain, thay thế một số phần của hệ thống tài chính thông thường bằng các hợp đồng thông minh trên blockchain. DeFi cung cấp các dịch vụ tài chính trên blockchain, cung cấp một lựa chọn thay thế các dịch vụ tài chính truyền thống một cách mở, minh bạch và thân thiện với người dùng hơn.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Lời cảm ơn
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## YSL.IO (21 tháng 4 năm 2023) - Hoán đổi Chuỗi chéo
+
+**Liên kết:**
+
+- [Trang web](https://ysl.io/)
+- [Sách trắng](https://docs.ysl.io)  
+- [Hồ sơ Twitter](https://twitter.com/ysl_io)
+- [Kênh Telegram](https://t.me/ysl_io)
+
+**Các Khái niệm Ảnh hưởng:**
+  
+- [NFT Phoenix Ape](https://docs.ysl.io/protocol-features/Phoenix-NFT)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## XEN Crypto (8 tháng 10 năm 2022) - Giao thức Chuỗi chéo
+
+**Liên kết:**
+
+- [Trang web](https://faircrypto.org)
+- [Tài liệu lược](https://faircrypto.org/xencryptolp.pdf) 
+- [Mã nguồn](https://github.com/FairCrypto/XEN-crypto)
+- [Hồ sơ Twitter](https://twitter.com/XEN_Crypto)
+- [Kênh Telegram](https://t.me/XENCryptoTalk)
+
+**Các Khái niệm Ảnh hưởng:**
+
+- [Những Nguyên tắc Cơ bản](https://faircrypto.org/xencryptolp.pdf)
+- [Bằng chứng về Sự tham gia](https://faircrypto.org/xencryptolp.pdf)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## DBXen (16 tháng 2 năm 2023) - Tạo Lợi nhuận Chuỗi chéo 
+
+**Liên kết:**
+
+- [Trang web](https://dbxen.org/)
+- [Tài liệu lược](https://dbxen.gitbook.io/dbxen-litepaper)
+- [Mã nguồn](https://github.com/deb0x/dbXenBurnerProject)  
+- [Hồ sơ Twitter](https://twitter.com/DBXencrypto)
+- [Kênh Telegram](https://t.co/vprGbYeXqc)
+
+**Các Khái niệm Ảnh hưởng:**
+
+- [Chi phí Đốt](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [Phân phối Mã thông báo](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Địa chỉ Hợp đồng  
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️XEN 
+
+- [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+- [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
+- [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+- [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
+- [Avalanche](https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389) 
+- [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
+- [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+- [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
+- [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️USDy
+
+- [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️Phoenix Ape NFTs
+
+- [Opensea](https://opensea.io/collection/phoenix-ape-nft)
+- [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Liên kết Hữu ích
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- <https://xenify.io>
+- <https://t.me/xenify_io>  
+- <https://medium.com/xenify>
+- <https://twitter.com/xenify_io>
+- <https://www.youtube.com/@xenify-io>
