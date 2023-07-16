@@ -1466,7 +1466,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️Phoenix NFT Kera
+## ◽️Phoenix Ape NFTs
 
 - [Opensea](https://opensea.io/collection/phoenix-ape-nft)
 - [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
@@ -1474,7 +1474,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Pranala Bermanfaat
+# ◽️ Tautan Bermanfaat
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
