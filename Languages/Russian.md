@@ -1401,7 +1401,7 @@ Xenify, межцепочечный агрегатор агрегаторов, б
 - [Профиль в Twitter](https://twitter.com/ysl_io)
 - [Telegram-канал](https://t.me/ysl_io)
 
-**Влиятельные концепции:**.
+**Влиятельные концепции:**
 
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
@@ -1417,7 +1417,7 @@ Xenify, межцепочечный агрегатор агрегаторов, б
 - [Twitter-профиль](https://twitter.com/XEN_Crypto)
 - [Telegram-канал](https://t.me/XENCryptoTalk)
 
-**Влиятельные концепции:**.
+**Влиятельные концепции:**
 
 - [First Principles](https://faircrypto.org/xencryptolp.pdf)
 - [Доказательство участия](https://faircrypto.org/xencryptolp.pdf)
