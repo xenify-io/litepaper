@@ -1401,7 +1401,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 - [Profil Twitter](https://twitter.com/ysl_io)
 - [Saluran Telegram](https://t.me/ysl_io)
 
-**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
+**Konsep yang Berpengaruh:**
 
 - [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
@@ -1417,7 +1417,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 - [Profil Twitter](https://twitter.com/XEN_Crypto)
 - [Saluran Telegram](https://t.me/XENCryptoTalk)
 
-**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
+**Konsep yang Berpengaruh:**
 
 - [Prinsip-prinsip Pertama](https://faircrypto.org/xencryptolp.pdf)
 - [Bukti Partisipasi](https://faircrypto.org/xencryptolp.pdf)
@@ -1434,7 +1434,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 - [Profil Twitter](https://twitter.com/DBXencrypto)
 - [Saluran Telegram](https://t.co/vprGbYeXqc)
 
-**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
+**Konsep yang Berpengaruh:**
 
 - [Biaya Pembakaran](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Distribusi Token](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
