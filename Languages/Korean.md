@@ -287,7 +287,7 @@ vUSDy를 소유하고 나면 이를 소각하여 Xenify의 일일 XNF 토큰 분
 
 <br>
 
-| Native Token        | Conversion Rate      |
+| 네이티브 토큰           | 전환율                |
 |---------------------|----------------------|
 | USDy                | 1 USDy = 1 vUSDy     |
 | bYSL                | 1 bYSL = 5 vUSDy     |
@@ -333,7 +333,7 @@ XNF의 핵심은 제니파이 프로토콜 내에서 사용자 참여를 촉진�
 
 ## ◽️ 지원되는 애그리게이터
 
-| Num | Aggregator        | Aggregator Website                 |
+| 번호 | 애그리게이터          | 애그리게이터 웹사이트                   |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -367,7 +367,7 @@ XNF의 핵심은 제니파이 프로토콜 내에서 사용자 참여를 촉진�
 
 ## ◽️ 지원되는 체인
 
-| Num | Chain Type        | Chain Name    | Chain Website                         |
+| 번호 | 체인 종류            | 체인 이름       | 체인 웹사이트                            |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
@@ -520,7 +520,7 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 <br>
 
-| Chain Name         | DEX Name                                              | Liquidity Pairing   |
+| 체인 이름            | DEX 이름                                                | 유동성 페어링          |
 | ------------------ | ----------------------------------------------------- | ------------------- |
 | KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
@@ -676,7 +676,7 @@ $$
 
 <br>
 
-| Hour | Burn Fee Coefficient (FC) |
+| 시간  | 소각 수수료 계수 (FC)         |
 |------|---------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -713,7 +713,7 @@ $$
 
 <br>
 
-| Hour | Batch Coefficient (BC)    |
+| 시간  | 배치 계수(BC)               |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
