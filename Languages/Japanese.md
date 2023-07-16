@@ -1,47 +1,47 @@
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b944b69c-7e73-4e29-aa61-7b85593c5aab" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" style="visibility:visible;max-width:100%;">
-  </picture
+  </picture>
 </p>
 
 <p align="center">クロス・チェーンスワップの可能性を解き放て。
  クロス・チェーンスワップの可能性を解き放つ - 楽に、効率的に、そしてやりがいを持って！</p>
  
 <p align="center">
-シムラン・ディロン - 共同創設者 - <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-ハーデブ・ディロン - 共同創設者 - <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-ダヤナ・プラズ - 共同創設者 - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
-<br
+Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+<br>
 </p>
  
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 ◽️ 目次
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- はじめに](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
-- 私たちの使命](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
-- 私たちの理念](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
-- 主な特徴](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
-- 創立者](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
-- XENの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- USDyの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
-- XNFとveXNFの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
-- ゼニファイ概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
-- ゼニファイ・トークノミクス](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
-- Xenifyアーキテクチャ](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
-- XNFエアドロップ](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
-- アンプリファイバーンズ](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
-- ユーザー・エクスペリエンス](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
-- セキュリティ](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
-- 結論](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
-- 用語集](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
-- 謝辞](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
-- 契約アドレス](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
-- お役立ちリンク](https://github.com/xenify-io/litepaper#%EF%B8%8F-helpful-links)
+- [はじめに](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
+- [私たちの使命](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
+- [私たちの理念](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
+- [主な特徴](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
+- [創立者](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
+- [XENの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
+- [USDyの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
+- [XNFとveXNFの概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
+- [ゼニファイ概要](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
+- [ゼニファイ・トークノミクス](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
+- [Xenifyアーキテクチャ](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
+- [XNFエアドロップ](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
+- [アンプリファイバーンズ](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
+- [ユーザー・エクスペリエンス](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
+- [セキュリティ](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
+- [結論](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
+- [用語集](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
+- [謝辞](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
+- [契約アドレス](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
+- [お役立ちリンク](https://github.com/xenify-io/litepaper#%EF%B8%8F-helpful-links)
 
 <br>
 
@@ -194,24 +194,24 @@ Xenifyは株式投資と長期投資を重視しています。私たちは、�
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ◽️ シムラン・ディロン
-- ツイッター](https://twitter.com/simran_ysl)
-- リンクトイン](https://www.linkedin.com/in/ssdhillon)
-- テレグラム](https://t.me/SD_YSL)
-- 過去の経歴](https://blog.horizen.io/zen-foundation-and-team-updates)
+- [ツイッター](https://twitter.com/simran_ysl)
+- [リンクトイン](https://www.linkedin.com/in/ssdhillon)
+- [テレグラム](https://t.me/SD_YSL)
+- [過去の経歴](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ◽️ ハーデブ・ディロン
-- ツイッター](https://twitter.com/hardev_ysl)
-- リンクトイン](https://www.linkedin.com/in/hardevdhillon)
-- テレグラム](https://t.me/hardev_ysl)
+- [ツイッター](https://twitter.com/hardev_ysl)
+- [リンクトイン](https://www.linkedin.com/in/hardevdhillon)
+- [テレグラム](https://t.me/hardev_ysl)
 
 ## ◽️ ダヤナ・プラズ
-- ツイッター](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
-- リンクトイン](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
-- テレグラム](https://t.me/Dayplaz)
-- 過去の経歴](https://www.youtube.com/watch?v=_7UB-4d1NxM)
+- [ツイッター](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
+- [リンクトイン](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
+- [テレグラム](https://t.me/Dayplaz)
+- [過去の経歴](https://www.youtube.com/watch?v=_7UB-4d1NxM)
 
 ## ◽️ チーム KYC 検証済み (by Solidproof)
-- KYC証明書](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
+- [KYC証明書](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
 
@@ -287,11 +287,11 @@ vUSDyはYSL.IOのリワードトークン（USDyとして知られている）�
 
 <br>
 
-| ネイティブ・トークン | コンバージョン率
+| ネイティブ・トークン | コンバージョン率 |
 |---------------------|----------------------|
-| USDy｜1USDy＝1vUSDy｜｜です。
-| bYSL｜1 bYSL＝5 vUSDy
-| xYSL｜1 xYSL = 120 vUSDy
+| USDy                | 1 USDy = 1 vUSDy     |
+| bYSL                | 1 bYSL = 5 vUSDy     |
+| xYSL                | 1 xYSL = 120 vUSDy   |
 
 <br>
 
@@ -333,92 +333,92 @@ Xenifyの革新的なステーキングと報酬のアプローチは、その�
 
 ◽️ 対応アグリゲーター
 
-| | | アグリゲーター｜アグリゲーターのウェブサイト｜アグリゲーターのウェブサイト｜アグリゲーターのウェブサイト｜アグリゲーターのウェブサイト
+| Num | Aggregator        | Aggregator Website                 |
 |-----|-------------------|------------------------------------|
-| 1｜li.fi｜https://li.fi｜。
-| 2 | 1inch | https://1inch.io |
-| 3｜エクソリクス｜https://exolix.com｜
-| 4｜スイング｜https://swing.xyz｜
-| 5｜ランゴ｜https://rango.exchange｜
-| 6｜クーコイン｜https://www.kucoin.com｜
-| 7｜クリスタル｜https://defi.krystal.app｜
-| 8｜抹茶｜https://matcha.xyz｜
-| 9｜火の鳥｜https://firebird.finance｜
-| 10 | デスワップ | https://app.debridge.finance |
-| 11｜バイナンス｜https://www.binance.com｜
-| 12｜ボイジャー｜https://app.thevoyager.io/swap｜
-| 13｜Paraswap｜https://paraswap.io
-| 14｜トールスワップ｜https://app.thorswap.finance/swap｜
-| 15｜チェーンホップ｜https://chainhop.io｜
-| 16｜ステルスEX｜https://stealthex.io｜
-| 17｜チャンジェリー｜https://changelly.com｜
-| 18｜XYファイナンス｜https://app.xy.finance｜
-| 19｜KyberSwap｜https://kyberswap.com｜
-| 20｜OpenOcean｜オープンオーシャン｜https://openocean.finance｜
-| 21｜SimpleSwap｜https://simpleswap.io｜コインスワップ
-| 22｜CoinCraddle｜https://coincraddle.com
-| 23｜Squid Router｜https://app.squidrouter.com |
-| 24 | ChangeNOW | https://changenow.io |
-| 25｜Houdiniスワップ｜https://houdiniswap.com |
-| 26 | ルービックファイナンス | https://rubic.finance |
-| 27｜Chainge Finance｜https://dapp.chainge.finance｜。
+| 1   | LI.FI             | https://li.fi                      |
+| 2   | 1inch             | https://1inch.io                   |
+| 3   | Exolix            | https://exolix.com                 |
+| 4   | Swing             | https://swing.xyz                  |
+| 5   | Rango             | https://rango.exchange             |
+| 6   | Kucoin            | https://www.kucoin.com             |
+| 7   | Krystal           | https://defi.krystal.app           |
+| 8   | Matcha            | https://matcha.xyz                 |
+| 9   | Firebird          | https://firebird.finance           |
+| 10  | DeSwap            | https://app.debridge.finance       |
+| 11  | Binance           | https://www.binance.com            |
+| 12  | Voyager           | https://app.thevoyager.io/swap     |
+| 13  | Paraswap          | https://paraswap.io                |
+| 14  | ThorSwap          | https://app.thorswap.finance/swap  |
+| 15  | ChainHop          | https://chainhop.io                |
+| 16  | Stealth EX        | https://stealthex.io               |
+| 17  | Changelly         | https://changelly.com              |
+| 18  | XY Finance        | https://app.xy.finance             |
+| 19  | KyberSwap         | https://kyberswap.com              |
+| 20  | OpenOcean         | https://openocean.finance          |
+| 21  | SimpleSwap        | https://simpleswap.io              |
+| 22  | CoinCraddle       | https://coincraddle.com            | 
+| 23  | Squid Router      | https://app.squidrouter.com        |
+| 24  | ChangeNOW         | https://changenow.io               |
+| 25  | Houdini Swap      | https://houdiniswap.com            |
+| 26  | Rubic Finance     | https://rubic.finance              |
+| 27  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
 ## ◽️ 対応チェーン
 
-| チェーン番号｜チェーンタイプ｜チェーン名｜チェーンウェブサイト
+| Num | Chain Type        | Chain Name    | Chain Website                         |
 |-----|-------------------|---------------|---------------------------------------|
-| 1 | レイヤー1 | Sui | https://sui.io |
-| 2 | レイヤー1 | EOS | https://eosnetwork.com |
-| 3 | レイヤー1 | KCC | https://www.kcc.io |
-| 4｜レイヤー1｜ヒューズ｜https://fuse.io｜
-| 5 | レイヤー1 | トロン | https://tron.network |
-| 6 | レイヤー1 | カヴァ | https://www.kava.io |
-| 7 | レイヤー1 | セロ | https://celo.org |
-| 8｜レイヤー1｜ヘコ｜https://www.hecochain.com｜
-| 9｜レイヤー2｜ボバ｜https://boba.network｜
-| 10｜レイヤー1｜ビーム｜https://www.beam.mw｜
-| 11 | レイヤー1 | ヴェラス | https://www.velas.com |
-| 12｜レイヤー1｜テロス｜https://telos.net｜
-| 13 | レイヤー1 | Tezos | https://tezos.com |
-| 14｜レイヤー2｜メティス｜https://metis.io｜
-| 15 | レイヤー1 | Zcash | https://www.z.cash |
-| 16 | レイヤー1 | Canto | https://canto.io |
-| 17 | レイヤー1 | Aptos | https://aptoslabs.com |
-| 18 | レイヤー1 | Klaytn | https://www.klaytn.com |
-| 19｜レイヤー1｜ステラ｜https://www.stellar.org｜
-| 20｜レイヤー1｜エヴモス｜https://evmos.dev｜
-| 21｜レイヤー2｜zkSync｜https://zksync.io｜。
-| 22｜レイヤー1｜グノーシス｜https://gnosis.io｜
-| 23｜レイヤー1｜オーロラ｜https://aurora.dev |
-| 24 | レイヤー1 | ソラナ | https://solana.com |
-| 25｜レイヤー1｜リップル｜https://ripple.com｜
-| 26 | レイヤー1 | ビットコイン | https://bitcoin.org |
-| 27 | レイヤー1 | クロノス | https://crypto.com/chain |
-| 28 | レイヤー1 | Fantom | https://fantom.foundation |
-| 29 | レイヤー1 | ファイルコイン | https://filecoin.io |
-| 30 | レイヤー1 | ライトコイン | http://litecoin.org |
-| 31｜レイヤー1｜モネロ｜https://www.getmonero.org｜
-| 32 | レイヤー2 | ポリゴン | https://polygon.technology |
-| 33 | レイヤー1 | Arweave | https://arweave.org |
-| 34｜レイヤー1｜Osmosis｜https://osmosis.zone｜
-| 35｜レイヤー1｜カルダノ｜https://www.cardano.org｜
-| 36｜レイヤー2｜アービトラム｜https://arbitrum.io｜
-| 37｜レイヤー1｜ポルカドット｜https://polkadot.network｜
-| 38 | レイヤー1 | イーサリアム | https://ethereum.org |
-| 39｜レイヤー2｜オプティミズム｜https://optimism.io｜
-| 40｜レイヤー1｜アバランチ｜https://www.avax.network｜
-| 41｜レイヤー1｜ビットコインSV｜https://bitcoinsv.com｜
-| 42｜レイヤー1｜BNBチェーン｜https://www.bnbchain.org｜
-| 43｜レイヤー2｜PulseChain｜https://pulsechain.com｜
-| 44｜レイヤー1｜OKExチェーン｜https://www.okex.com/okexchain｜
-| 45｜レイヤー1｜ビットコインキャッシュ｜https://www.bitcoincash.org｜
-| 46 | レイヤー1 | NEARプロトコル | https://near.org |
-| 47｜レイヤー2｜イーサリアムPoW｜https://ethereumpow.org｜
-| 48｜レイヤー2｜ポリゴンzkEVM｜https://zkevm.polygon.technology｜
-| 49｜パラチェーン｜ムーンビーム｜https://moonbeam.network｜
-| 50｜パラチェーン｜ムーンリバー｜https://moonbeam.network/moonriver｜
+| 1   | Layer 1           | Sui           | https://sui.io                        |
+| 2   | Layer 1           | EOS           | https://eosnetwork.com                |
+| 3   | Layer 1           | KCC           | https://www.kcc.io                    |
+| 4   | Layer 1           | Fuse          | https://fuse.io                       |
+| 5   | Layer 1           | Tron          | https://tron.network                  |
+| 6   | Layer 1           | Kava          | https://www.kava.io                   |
+| 7   | Layer 1           | Celo          | https://celo.org                      |
+| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 9   | Layer 2           | Boba          | https://boba.network                  |
+| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 11  | Layer 1           | Velas         | https://www.velas.com                 |
+| 12  | Layer 1           | Telos         | https://telos.net                     |
+| 13  | Layer 1           | Tezos         | https://tezos.com                     |
+| 14  | Layer 2           | Metis         | https://metis.io                      |
+| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 16  | Layer 1           | Canto         | https://canto.io                      |
+| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 21  | Layer 2           | zkSync        | https://zksync.io                     |
+| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 24  | Layer 1           | Solana        | https://solana.com                    |
+| 25  | Layer 1           | Ripple        | https://ripple.com                    |
+| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 32  | Layer 2           | Polygon       | https://polygon.technology            |
+| 33  | Layer 1           | Arweave       | https://arweave.org                   |
+| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 39  | Layer 2           | Optimism      | https://optimism.io                   |
+| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -439,11 +439,11 @@ XNFはXenifyプロトコルの生命線であり、2,260万トークンの限ら
 <br>
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
-  </picture
+  </picture>
 </p>
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -467,11 +467,11 @@ XNFトークンの総供給上限は2,260万トークンで、戦略的に3つ�
 <br>
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
-  </picture
+  </picture>
 </p>
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -489,30 +489,30 @@ XNFトークンの総供給上限は2,260万トークンで、戦略的に3つ�
 Xenifyは、次の大きな一手を打つために、多くのブロックチェーンを選別し、大きな一手を打つ準備をしている。ArbitrumやAvalancheのような重鎮から、zkSyncやPulseChainのようなブロックチェーンの新参者まで、選択肢には事欠かない。全リストは以下の通り：
 
 - KCC
-- セロ
-- 布施
-- ボバ
-- ヘコ
-- テロス
-- ヴェラス
-- メティス
-- カント
-- クレイトン
-- エブモス
+- Celo
+- Fuse
+- Boba
+- Heco
+- Telos
+- Velas
+- Metis
+- Canto
+- Klaytn
+- Evmos
 - zkEVM
-- オーロラ
-- グノーシス
+- Aurora
+- Gnosis
 - zkSync
-- クロノス
-- ファンタム
-- ポリゴン
-- アービトラム
-- オプティミズム
-- アバランチ
-- ムーンリバー
-- OKXチェーン
-- パルスチェーン
-- ムーンビーム
+- Cronos
+- Fantom
+- Polygon
+- Arbitrum
+- Optimism
+- Avalanche
+- Moonriver
+- OKX Chain
+- PulseChain
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -520,36 +520,36 @@ Xenifyは、次の大きな一手を打つために、多くのブロックチ�
 
 <br>
 
-| チェーン名 | DEX名 | 流動性ペアリング
-
-| KCC｜[MojitoSwap](https://www.mojitoswap.finance)｜kXNF-KCS｜kXNF-KCS
-| セロ｜[ユニスワップV3](https://app.uniswap.org)｜cXNF-CELO
-| ヒューズ｜[SushiSwap](https://www.sushi.com)｜fXNF-FUSE｜｜fXNF-ヒューズ
-| ボバ｜[SushiSwap](https://www.sushi.com)｜boXNF-BOBA｜boXNF-BOBA｜boXNF-BOBA
-| ヘコ｜[MDEX](https://mdex.com)｜hcXNF-HT｜hcXNF-HT｜hcXNF-HT
-| テロス｜[ApeSwap](https://apeswap.finance)｜tXNF-TELOS｜テロス
-| ヴェラス｜[波長](https://app.wavelength.exchange)｜veXNF-VLX｜｜Velas
-| メティス｜[フムス・エクスチェンジ](https://www.hummus.exchange)｜meXNF-METIS｜メティス
-| カントー｜[カントーデックス](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO |
-| Klaytn｜[KlaySwap](https://klayswap.com)｜kXNF-KLAY｜クレイトン
-| エブモス｜[SpaceSwap](https://swap-evmos.spacefi.io)｜coXNF-WEVMOS｜エブモス
-| オーロラ｜[ポラリス・ファイナンス](https://polarisfinance.io)｜arXNF-ETH｜グノーシス｜[バランサー・スワップ
-| グノーシス｜[バランサーV2](https://balancer.finance) | gXNF-GNO |
-| zkSync | [SyncSwap](https://syncswap.xyz) | zkXNF-ETH
-| クロノス｜[VVSファイナンス](https://vvs.finance)｜crXNF-CRO｜｜Cronos
-| ファントム｜[SpookySwap](https://spooky.fi)｜fmXNF-FTM｜。
-| ポリゴン｜[ユニスワップV3](https://app.uniswap.org)｜mXNF-MATIC｜アービトラム｜[ユニスワップV3](https://app.uniswap.org)｜mXNF-MATIC
-| アービトラム｜[Uniswap V3](https://app.uniswap.org)｜aXNF-ETH｜イーサリアム｜[Uniswap V3](https://app.uniswap.org)｜aXNF-ETH
-| イーサリアム｜[Uniswap V3](https://app.uniswap.org)｜XNF-ETH｜Ethereum
-| 楽天｜[Uniswap V3](https://app.uniswap.org)｜oXNF-ETH｜｜オプティミズム
-| アバランチ｜[トレーダー・ジョー](https://traderjoexyz.com)｜avXNF-AVAX｜アバランチ
-| ムーンリバー｜[ソーラービーム](https://app.solarbeam.io/exchange/swap)｜mrXNF-MOVR｜OKXチェーン
-| OKXチェーン | [OKExSwap](https://www.okex.com/swap) | okXNF-OKT |
-| ムーンビーム｜[ステラスワップ](https://app.stellaswap.com/pulsar)｜mbXNF-WGLMR｜BNBチェーン｜[BNB-WGLMR
-| BNBチェーン｜[ApeSwap](https://apeswap.finance)｜bXNF-BNB｜BNBチェーン
-| PulseChain｜[PulseX](https://pulsex.com)｜pXNF-PLS｜イーサリアムのPoW
-| イーサリアムPoW｜[Uniwswap](https://uniwswap.com)｜vvXNF-WETH｜イーサリアムPoW
-| ポリゴンzkEVM｜[Quickswap](https://quickswap.exchange)｜mkXNF-MATIC｜｜イーサリアムzkEVM
+| Chain Name         | DEX Name                                              | Liquidity Pairing   |
+| ------------------ | ----------------------------------------------------- | ------------------- |
+| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
+| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
+| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
+| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
+| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
+| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
+| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
+| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
+| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
+| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
+| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
+| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
+| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -648,7 +648,7 @@ Xenifyでバーン機能を開始するには、ユーザーはミントフィ�
 <br>
 
 $$
-BF = (FC ╱ VB) ╱ (1 - (NB ╱ BC))
+BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
 **どこで？
@@ -676,32 +676,32 @@ Xenifyのバーン料金割引のアプローチは、公平性を促進する�
 
 <br>
 
-
+| Hour | Burn Fee Coefficient (FC) |
 |------|---------------------------|
-| 1 | 50.00% |
-
-
-
-
-
-
-
-
-
-| 11 | 71.74% |
-
-
-
-| 15 | 80.43% |
-
-
-
-
-
-
-
-
-
+| 1    | 50.00%                    |
+| 2    | 52.17%                    |
+| 3    | 54.35%                    |
+| 4    | 56.52%                    |
+| 5    | 58.70%                    |
+| 6    | 60.87%                    |
+| 7    | 63.04%                    |
+| 8    | 65.22%                    |
+| 9    | 67.39%                    |
+| 10   | 69.57%                    |
+| 11   | 71.74%                    |
+| 12   | 73.91%                    |
+| 13   | 76.09%                    |
+| 14   | 78.26%                    |
+| 15   | 80.43%                    |
+| 16   | 82.61%                    |
+| 17   | 84.78%                    |
+| 18   | 86.96%                    |
+| 19   | 89.13%                    |
+| 20   | 91.30%                    |
+| 21   | 93.48%                    |
+| 22   | 95.65%                    |
+| 23   | 97.83%                    |
+| 24   | 100.00%                   |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -713,32 +713,32 @@ Xenifyのバーン料金割引のアプローチは、公平性を促進する�
 
 <br>
 
-| 時間｜バッチ係数（BC）
+| Hour | Batch Coefficient (BC)    |
 |------|---------------------------|
-| 1 | 0.00005 |
-| 2 | 0.0000475 |
-| 3 | 0.000045 |
-| 4 | 0.0000425 |
-| 5 | 0.00004 |
-| 6 | 0.0000375 |
-| 7 | 0.000035 |
-| 8 | 0.0000325 |
-| 9 | 0.00003 |
-| 10 | 0.0000275 |
-| 11 | 0.000025 |
-| 12 | 0.0000225 |
-| 13 | 0.00002 |
-| 14 | 0.0000175 |
-| 15 | 0.000015 |
-| 16 | 0.0000125 |
-
-| 18 | 0.0000075 |
-| 19 | 0.000005 |
-| 20 | 0.0000025 |
-| 21 | 0 |
-| 22 | 0 |
-| 23 | 0 |
-| 24 | 0 |
+| 1    | 0.00005                   |
+| 2    | 0.0000475                 |
+| 3    | 0.000045                  |
+| 4    | 0.0000425                 |
+| 5    | 0.00004                   |
+| 6    | 0.0000375                 |
+| 7    | 0.000035                  |
+| 8    | 0.0000325                 |
+| 9    | 0.00003                   |
+| 10   | 0.0000275                 |
+| 11   | 0.000025                  |
+| 12   | 0.0000225                 |
+| 13   | 0.00002                   |
+| 14   | 0.0000175                 |
+| 15   | 0.000015                  |
+| 16   | 0.0000125                 |
+| 17   | 0.00001                   |
+| 18   | 0.0000075                 |
+| 19   | 0.000005                  |
+| 20   | 0.0000025                 |
+| 21   | 0                         |
+| 22   | 0                         |
+| 23   | 0                         |
+| 24   | 0                         |              
 
 <br>
 
@@ -755,7 +755,7 @@ Xenifyのバーン料金割引のアプローチは、公平性を促進する�
 <br>
 
 $$
-BF = (0.5 ⊖ 5,000) ⊖ (1 - (10,000 ⊖ 0.00005)) = $1,250
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250
 $$
 
 <br>
@@ -769,7 +769,7 @@ $$
 <br>
 
 $$
-BF = (1 ⊖ 5,000) ⊖ (1 - (10,000 ⊖ 0)) = $5,000
+BF = (1 \times 5,000) \times (1 - (10,000 \times 0)) = $5,000
 $$
 
 <br>
@@ -833,7 +833,7 @@ Xenifyは、XNFトークンの日々の分配においてバランスの取れ�
 <br>
 
 $$
-BC = (TCD ╱ 2) ╱ (UBB ╱ TBB)
+BC = (TCD \div 2) \times (UBB \div TBB)
 $$
 
 <br>
@@ -854,7 +854,7 @@ $$
 <br>
 
 $$
-SC = (TCD ╱2) ╱Times (USF ╱TSF)
+SC = (TCD \div 2) \times (USF \div TSF)
 $$
 
 <br>
@@ -875,11 +875,11 @@ $$
 ## ◽️ ビジュアル解説
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">のようになります。
-  </picture
+  </picture>
 </p>
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -960,11 +960,11 @@ XenifyでXNFを請求する場合、請求手数料は発生しません。し�
 ## ◽️ ビジュアル解説
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
-    </picture
+    </picture>
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -974,11 +974,11 @@ XenifyでXNFを請求する場合、請求手数料は発生しません。し�
 <br>
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
-  </picture
+  </picture>
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -1006,11 +1006,11 @@ Xenify独自のXNF Airdropをご紹介します。これは、複数のEVMチェ
 ## ◽️ ビジュアル解説
 
 <p align="center" dir="auto">
-  <写真
+  <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
-  </picture
+  </picture>
 </p>
 
 <br>
@@ -1054,7 +1054,7 @@ Phoenix ApeのNFTホルダーは、XenifyでvXENまたはvUSDyのバーニング
 <br>
 
 $$
-BF = (FC ╱ VB) ╱ (1 - (NB ╱ BC))
+BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
 **どこで？
@@ -1396,14 +1396,14 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 **リンク
 
-- ウェブサイト](https://ysl.io/)
-- ホワイトペーパー](https://docs.ysl.io)
-- ツイッター・プロフィール](https://twitter.com/ysl_io)
-- テレグラム・チャンネル](https://t.me/ysl_io)
+- [ウェブサイト](https://ysl.io/)
+- [ホワイトペーパー](https://docs.ysl.io)
+- [ツイッター・プロフィール](https://twitter.com/ysl_io)
+- [テレグラム・チャンネル](https://t.me/ysl_io)
 
 **影響力のあるコンセプト: **
 
-- フェニックス・エイプ NFT】(https://docs.ysl.io/protocol-features/Phoenix-NFT)
+- [フェニックス・エイプ NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1411,16 +1411,16 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 **リンク
 
-- ウェブサイト](https://faircrypto.org)
-- ライトペーパー](https://faircrypto.org/xencryptolp.pdf)
-- ソースコード](https://github.com/FairCrypto/XEN-crypto)
-- ツイッター・プロフィール](https://twitter.com/XEN_Crypto)
-- テレグラム・チャンネル](https://t.me/XENCryptoTalk)
+- [ウェブサイト](https://faircrypto.org)
+- [ライトペーパー](https://faircrypto.org/xencryptolp.pdf)
+- [ソースコード](https://github.com/FairCrypto/XEN-crypto)
+- [ツイッター・プロフィール](https://twitter.com/XEN_Crypto)
+- [テレグラム・チャンネル](https://t.me/XENCryptoTalk)
 
 **影響力のあるコンセプト: **
 
-- 第一原則](https://faircrypto.org/xencryptolp.pdf)
-- 参加証明](https://faircrypto.org/xencryptolp.pdf)
+- [第一原則](https://faircrypto.org/xencryptolp.pdf)
+- [参加証明](https://faircrypto.org/xencryptolp.pdf)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1428,16 +1428,16 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 **リンク
 
-- ウェブサイト](https://dbxen.org/)
-- ライトペーパー](https://dbxen.gitbook.io/dbxen-litepaper)
-- ソースコード](https://github.com/deb0x/dbXenBurnerProject)
-- ツイッター・プロフィール](https://twitter.com/DBXencrypto)
-- テレグラム・チャンネル](https://t.co/vprGbYeXqc)
+- [ウェブサイト](https://dbxen.org/)
+- [ライトペーパー](https://dbxen.gitbook.io/dbxen-litepaper)
+- [ソースコード](https://github.com/deb0x/dbXenBurnerProject)
+- [ツイッター・プロフィール](https://twitter.com/DBXencrypto)
+- [テレグラム・チャンネル](https://t.co/vprGbYeXqc)
 
 **影響力のあるコンセプト: **
 
-- 燃焼コスト](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
-- トークン配布](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+- [燃焼コスト](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [トークン配布](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
 <br>
 
@@ -1468,7 +1468,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 ## ◽️Phoenix Ape NFTs
 
-- オープンシー](https://opensea.io/collection/phoenix-ape-nft)
+- [Opensea](https://opensea.io/collection/phoenix-ape-nft)
 - [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 
 <br>
