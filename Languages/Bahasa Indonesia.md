@@ -794,13 +794,13 @@ Pada akhir setiap siklus, protokol menarik 1% dari total token LP XNF dan 1% dar
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vXEN Mint Fee
+## ◽️ Biaya Mint vXEN
 
 Biaya mint vXEN hanya berlaku jika Anda membakar varian token XEN untuk mendapatkan vXEN. Biaya mint ditentukan oleh nilai pasar saat ini dari token yang Anda bakar. Token asli yang dihasilkan dari biaya mint vXEN akan dialokasikan sebagai berikut:
 
-- ** 50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
 
-- 50% akan digunakan untuk menciptakan likuiditas token XEN:** Protokol menggunakan 50% token rantai asli untuk menciptakan likuiditas untuk varian token XEN asli untuk kumpulan XEN paling likuid di rantai tersebut (misalnya, pada Rantai BNB, protokol ini akan menciptakan likuiditas untuk likuiditas bXEN-BNB), dengan menggunakan 25% dari token untuk membeli token XEN asli (misalnya bXEN) dan sisa 25% token untuk pasangan likuiditas dengan token LP yang dipegang oleh protokol.
+- **50% akan digunakan untuk menciptakan likuiditas token XEN:** Protokol menggunakan 50% token rantai asli untuk menciptakan likuiditas untuk varian token XEN asli untuk kumpulan XEN paling likuid di rantai tersebut (misalnya, pada Rantai BNB, protokol ini akan menciptakan likuiditas untuk likuiditas bXEN-BNB), dengan menggunakan 25% dari token untuk membeli token XEN asli (misalnya bXEN) dan sisa 25% token untuk pasangan likuiditas dengan token LP yang dipegang oleh protokol.
 
 - Sebagai contoh, katakanlah Anda memiliki 10.000 bXEN dan Anda ingin mengonversinya menjadi vXEN. Jika bXEN saat ini bernilai $0,01 dan Anda memiliki 10.000 bXEN, maka bXEN Anda bernilai $100. Oleh karena itu, Anda perlu menyediakan $100 dalam BNB untuk biaya mint. Setelah Anda memulai proses mint, protokol akan menghasilkan vXEN berdasarkan nilai total bXEN Anda dan biaya mint. Dalam contoh ini, Anda akan menerima $200 vXEN sebagai imbalannya, dengan mempertimbangkan $100 bXEN Anda dan biaya mint BNB sebesar $100. Nilai $100 bXEN yang Anda kirimkan selama proses tersebut akan dihapus secara permanen dari peredaran, dan kontribusi $100 BNB untuk biaya pencetakan akan masuk ke Manajer Biaya Pencetakan vXEN.
 
@@ -810,7 +810,7 @@ Biaya mint vXEN hanya berlaku jika Anda membakar varian token XEN untuk mendapat
 
 Biaya mint vUSDy hanya berlaku jika Anda mengonversi USDy, xYSL, atau bYSL ke vUSDy melalui proses burn. Token asli yang dihasilkan dari biaya mint vUSDy akan dialokasikan sebagai berikut:
 
-- ** 50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
 
 - **50% akan digunakan untuk membuat likuiditas milik treasury USDy:** Protokol menggunakan 50% token asli untuk membuat likuiditas milik treasury USDy-USDC, dengan mencetak sisi USDy dari pasangan likuiditas dan membeli USDC dengan 50% token, dengan token LP yang dikirim ke Treasury YSL.IO.
 
