@@ -10,11 +10,11 @@
  크로스체인 스왑의 잠재력 활용하기 - 간편하고 효율적이며 보람 있는 거래!</p>
  
 <p align="center">
-Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon • 공동 창립자 • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon • 공동 창립자 • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
  
