@@ -10,11 +10,11 @@
  クロス・チェーンスワップの可能性を解き放つ - 楽に、効率的に、そしてやりがいを持って！</p>
  
 <p align="center">
-Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon • 共同創設者 • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon • 共同創設者 • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+Dayana Plaz • 共同創設者 • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
  
