@@ -452,13 +452,13 @@ O XNF é a força vital do protocolo Xenify e apresenta um fornecimento total li
 
 Com uma oferta total limitada a 22,6 milhões de tokens XNF, estrategicamente divididos em três segmentos principais, a Xenify foi propositadamente concebida para recompensar os participantes activos, promovendo simultaneamente um ecossistema equilibrado:
 
-- 21.000.000 XNF atribuídos para os leilões diários:** Os utilizadores que participarem em várias actividades que reforcem o desenvolvimento contínuo do protocolo terão a oportunidade de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
+- **21.000.000 XNF atribuídos para os leilões diários:** Os utilizadores que participarem em várias actividades que reforcem o desenvolvimento contínuo do protocolo terão a oportunidade de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
 
   - 10.500.000 XNF (50%) do leilão diário são distribuídos aos utilizadores que realizam queimas directas de vXEN e vUSDy. Durante cada ciclo, se ninguém iniciar o processo de queima, a alocação de XNF correspondente não será cunhada. Este mecanismo de escassez diminui a oferta total de XNF, contribuindo para o seu potencial aumento de valor.
 
   - 10.500.000 XNF (50%) do leilão diário é distribuído aos utilizadores que participam em swaps nas cadeias EVM suportadas. Se não ocorrerem swaps durante um ciclo, a atribuição de XNF correspondente não será cunhada. Este facto também reduz a oferta total de XNF, aumentando a sua escassez e valor potencial.
 
-- 100.000 XNF atribuídos para a criação de liquidez XNF:** Para facilitar este processo, reservámos 50.000 XNF para o gestor da taxa de emissão vXEN e 50.000 XNF adicionais para o gestor da taxa de emissão vUSDy. Cada vez que um utilizador participa na queima diária de vXEN ou vUSDy, estará a contribuir para a proliferação da liquidez XNF. Esta iniciativa reforça a saúde geral do protocolo e promove um conjunto robusto de liquidez para a nossa comunidade.
+- **100.000 XNF atribuídos para a criação de liquidez XNF:** Para facilitar este processo, reservámos 50.000 XNF para o gestor da taxa de emissão vXEN e 50.000 XNF adicionais para o gestor da taxa de emissão vUSDy. Cada vez que um utilizador participa na queima diária de vXEN ou vUSDy, estará a contribuir para a proliferação da liquidez XNF. Esta iniciativa reforça a saúde geral do protocolo e promove um conjunto robusto de liquidez para a nossa comunidade.
 
 - Para encorajar o envolvimento, cada cadeia terá um lançamento aéreo exclusivo de 1.500.000 XNF para os utilizadores que efectuem trocas antes do lançamento do XNF. O lançamento aéreo terá lugar no primeiro dia do lançamento e será distribuído como tokens bloqueados, desbloqueando gradualmente ao longo de 730 dias.
 
@@ -798,7 +798,7 @@ No final de cada ciclo, o protocolo retira 1% do total de tokens XNF LP e 1% dos
 
 A taxa de cunhagem de vXEN é aplicável apenas quando queima uma variante de token XEN para obter vXEN. A taxa de cunhagem é determinada pelo valor de mercado atual dos tokens que queima. Os tokens nativos gerados a partir da taxa de cunhagem vXEN serão atribuídos da seguinte forma:
 
-- 50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se os 50.000 Preminted XNF estiverem disponíveis, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo. No entanto, se a alocação de XNF pré-minted tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
+- **50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se os 50.000 Preminted XNF estiverem disponíveis, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo. No entanto, se a alocação de XNF pré-minted tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
 
 - O protocolo utiliza 50% dos tokens da cadeia nativa para criar liquidez para a variante do token XEN nativo para o pool XEN mais líquido nessa cadeia (por exemplo, na cadeia BNB, criará liquidez para a liquidez bXEN-BNB), utilizando 25% dos tokens para comprar o token XEN nativo (por exemplo, bXEN) e os restantes 25% dos tokens para o emparelhamento de liquidez com os tokens LP detidos pelo protocolo.
 
@@ -810,7 +810,7 @@ A taxa de cunhagem de vXEN é aplicável apenas quando queima uma variante de to
 
 A taxa de cunhagem de vUSDy só é aplicável quando o utilizador converte USDy, xYSL ou bYSL em vUSDy através do processo de queima. Os tokens nativos gerados a partir da taxa de cunhagem vUSDy serão atribuídos da seguinte forma:
 
-- 50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se os 50.000 Preminted XNF estiverem disponíveis, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo. No entanto, se a alocação de XNF pré-minted tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
+- **50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se os 50.000 Preminted XNF estiverem disponíveis, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo. No entanto, se a alocação de XNF pré-minted tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
 
 - O protocolo utiliza 50% dos tokens nativos para criar liquidez de propriedade do tesouro USDy-USDC, cunhando o lado USDy do emparelhamento de liquidez e comprando USDC com os 50% dos tokens, sendo os tokens LP enviados para o Tesouro YSL.IO.
 
