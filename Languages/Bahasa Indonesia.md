@@ -648,7 +648,7 @@ Untuk memulai fungsi pembakaran di Xenify, pengguna harus memiliki saldo dompet 
 <br>
 
 $$
-BF = (FC \kali VB) \kali (1 - (NB \kali BC))
+BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
 **Di mana:**
@@ -1403,7 +1403,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 **Konsep yang Berpengaruh:** Konsep yang Berpengaruh
 
-- [Phoenix Ape NFT] (https://docs.ysl.io/protocol-features/Phoenix-NFT)
+- [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1436,7 +1436,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 **Konsep yang Berpengaruh:** Konsep yang Berpengaruh
 
-- [Biaya Pembakaran] (https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [Biaya Pembakaran](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Distribusi Token](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
 <br>
