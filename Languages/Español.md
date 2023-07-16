@@ -1424,7 +1424,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 - [Perfil de Twitter](https://twitter.com/XEN_Crypto)
 - [Canal de Telegram](https://t.me/XENCryptoTalk)
 
-**Conceptos influyentes
+**Conceptos influyentes**
 
 - [Primeros principios](https://faircrypto.org/xencryptolp.pdf)
 - [Prueba de participación](https://faircrypto.org/xencryptolp.pdf)
@@ -1433,7 +1433,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## DBXen (16 de febrero de 2023) - Generación de rendimientos a través de la cadena
 
-**Enlaces
+**Enlaces**
 
 - [Sitio web](https://dbxen.org/)
 - [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
