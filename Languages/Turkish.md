@@ -333,7 +333,7 @@ Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benz
 
 ## ◽️ Desteklenen Toplayıcılar
 
-| Num | Aggregator        | Aggregator Website                 |
+| Num | Aggregator        | Aggregator Web sitesi              |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -367,7 +367,7 @@ Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benz
 
 ## ◽️ Desteklenen Zincirler
 
-| Num | Chain Type        | Chain Name    | Chain Website                         |
+| Num | Zincir Tipi       | Zincir Adı    | Zincir Web Sitesi                     |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
@@ -520,36 +520,36 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
 <br>
 
-| Chain Name         | DEX Name                                              | Liquidity Pairing   |
-| ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
-| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
-| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
-| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
-| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
-| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
-| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
-| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
-| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
-| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
-| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
+| Zincir Adı         | DEX İsim                                              | Liquidity Eşleştirme |
+| ------------------ | ----------------------------------------------------- | -------------------  |
+| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS             |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO            |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE            |
+| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA           |
+| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT             |
+| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS           |
+| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX            |
+| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS          |
+| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO          |
+| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY            |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS         |
+| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH            |
+| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO             |
+| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH            |
+| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO            |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM            |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC           |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH             |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH              |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH             |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX           |
+| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR           |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT            |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR          |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB             |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS             |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH           |
+| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC          |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -676,32 +676,32 @@ Aşağıdaki tabloda gösterildiği gibi, Yakma Ücreti Katsayısı bir döngü 
 
 <br>
 
-| Hour | Burn Fee Coefficient (FC) |
-|------|---------------------------|
-| 1    | 50.00%                    |
-| 2    | 52.17%                    |
-| 3    | 54.35%                    |
-| 4    | 56.52%                    |
-| 5    | 58.70%                    |
-| 6    | 60.87%                    |
-| 7    | 63.04%                    |
-| 8    | 65.22%                    |
-| 9    | 67.39%                    |
-| 10   | 69.57%                    |
-| 11   | 71.74%                    |
-| 12   | 73.91%                    |
-| 13   | 76.09%                    |
-| 14   | 78.26%                    |
-| 15   | 80.43%                    |
-| 16   | 82.61%                    |
-| 17   | 84.78%                    |
-| 18   | 86.96%                    |
-| 19   | 89.13%                    |
-| 20   | 91.30%                    |
-| 21   | 93.48%                    |
-| 22   | 95.65%                    |
-| 23   | 97.83%                    |
-| 24   | 100.00%                   |
+| Saat | Yanık Ücreti Katsayısı (FC) |
+|------|-----------------------------|
+| 1    | 50.00%                      |
+| 2    | 52.17%                      |
+| 3    | 54.35%                      |
+| 4    | 56.52%                      |
+| 5    | 58.70%                      |
+| 6    | 60.87%                      |
+| 7    | 63.04%                      |
+| 8    | 65.22%                      |
+| 9    | 67.39%                      |
+| 10   | 69.57%                      |
+| 11   | 71.74%                      |
+| 12   | 73.91%                      |
+| 13   | 76.09%                      |
+| 14   | 78.26%                      |
+| 15   | 80.43%                      |
+| 16   | 82.61%                      |
+| 17   | 84.78%                      |
+| 18   | 86.96%                      |
+| 19   | 89.13%                      |
+| 20   | 91.30%                      |
+| 21   | 93.48%                      |
+| 22   | 95.65%                      |
+| 23   | 97.83%                      |
+| 24   | 100.00%                     |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -713,7 +713,7 @@ Aşağıdaki tablo, 24 saatlik bir döngü sırasında katsayı değerinin nası
 
 <br>
 
-| Hour | Batch Coefficient (BC)    |
+| Saat | Parti Katsayısı (BC)      |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
@@ -840,7 +840,7 @@ $$
 
 **Nerede:**
 
-- BC* - kullanıcının yanma katkısını temsil eder.
+- *BC* - kullanıcının yanma katkısını temsil eder.
 - *TCD* - bir döngüde dağıtılan toplam XNF token miktarıdır.
 - *UBB* - belirli bir kullanıcının bir döngüde yaktığı parti sayısıdır.
 - *TBB* - tüm kullanıcılar tarafından bir döngüde yakılan toplam parti sayısıdır.
@@ -861,7 +861,7 @@ $$
 
 **Nerede:**
 
-- SC* - kullanıcının takas katkısını temsil eder.
+- *SC* - kullanıcının takas katkısını temsil eder.
 - *TCD* - bir döngüde dağıtılan toplam XNF token miktarıdır.
 - *USF* - bir döngüde belirli bir kullanıcı tarafından ödenen takas ücretleridir.
 - *TSF* - bir döngüde tüm kullanıcılar tarafından ödenen toplam takas ücretleridir.
@@ -1021,7 +1021,7 @@ Dağıtım öncesi aşamada, airdrop etkinliği devam ederken, %0,5'lik takas ü
 
 <br>
 
-Xenify ve YSL.IO topluluklarını birleştiren özel NFT koleksiyonu [Phoenix Apes] (https://docs.ysl.io/protocol-features/Phoenix-NFT) ile tanışın. Bu olağanüstü NFT'lerden birine sahip olan Xenify kullanıcıları, vXEN veya vUSDy yakarken parti sayılarını katlanarak 100'e kadar artıran günlük güçlendirilmiş yakma etkisinin kilidini açacak. Dahası, bu çok beğenilen NFT'lerden en az 4 tanesine sahip olmak veya kiralamak, cüzdanınızın günlük 1.000 partiye kadar bonus almasıyla size daha da büyük bir güçlendirme sağlayacaktır.
+Xenify ve YSL.IO topluluklarını birleştiren özel NFT koleksiyonu [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) ile tanışın. Bu olağanüstü NFT'lerden birine sahip olan Xenify kullanıcıları, vXEN veya vUSDy yakarken parti sayılarını katlanarak 100'e kadar artıran günlük güçlendirilmiş yakma etkisinin kilidini açacak. Dahası, bu çok beğenilen NFT'lerden en az 4 tanesine sahip olmak veya kiralamak, cüzdanınızın günlük 1.000 partiye kadar bonus almasıyla size daha da büyük bir güçlendirme sağlayacaktır.
 
 Ayrıca, Phoenix NFT sahipleri bir dizi ekstra avantajdan yararlanacak. Buna her 8 saatte bir USDC ödülleri kazanma ve YSL.IO protokolündeki Sigma Çıkış Oranını atlama fırsatı da dahildir. Bu ek avantajlar, kullanıcı katılımını artırırken hem Xenify hem de YSL.IO ekosistemlerinin büyümesine önemli katkılar sağlıyor.
 
@@ -1059,7 +1059,7 @@ $$
 
 **Nerede:**
 
-- BF$ (Yakma Ücreti) - Yakma işlevi için alınan ve blok zincirinin yerel tokenı ile ödenen ücret.
+- $BF$ (Yakma Ücreti) - Yakma işlevi için alınan ve blok zincirinin yerel tokenı ile ödenen ücret.
 - $FC$ (Yakma Ücreti Katsayısı) - Yakma ücretinde indirim yapmak için kullanılan zaman ağırlıklı bir katsayı.
 - $VB$ (Partilerin Değeri) - Kullanıcı tarafından yakılan partilerin dolar değeri, partilerin değeri arttıkça yakma ücretini etkiler.
 - $BC$ (Parti Katsayısı) - Yakılan partilere bağlı olarak indirimi hesaba katmak için kullanılan zaman ağırlıklı bir katsayı.
