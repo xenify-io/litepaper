@@ -1119,3 +1119,400 @@ $$
   - 此外,您可以选择将NFT的实用程序桥接到Xenify已启动的另一条链。 这样,您可以在当天访问该NFT的额外100个每日批次,有效地为您的单个NFT提供200个每日额外批次。 例如,如果您已经在BNB链上用完了每日额外批次,只需将NFT的实用程序桥接到以太坊,您就可以在以太坊上获得1,000个每日额外批次。 此流程可对Xenify启动的每条链重复。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ 场景2:如果你持有4个或更多凤凰猿NFT
+
+  - 如果你拥有或租用4个凤凰猿NFT,批量燃烧将更有回报。你的钱包将获得每日1,000个批次的奖励。这有效地取代了为你的每个NFT ID保留的默认100个每日奖励批次。简而言之,如果你的钱包中持有4个或更多NFT,你的总每日奖励将被限制在该钱包的1,000个批次。当你选择燃烧的批次数量少于你当前的每日奖励时,该协议将通过使用等量来双倍你的批次计数。
+
+  - 例如,如果你有4个NFT和每日1,000个批次的奖励,燃烧1个批次将在燃烧过程中计为2个批次。这意味着1个批次将从你的每日NFT奖励中扣除,在该链上为你留下999个奖励批次。
+
+  - 另一方面,如果你决定燃烧比你当前每日奖励更多的批次,该协议将利用你的全部奖励余额。假设你有4个NFT和每日1,000个批次的奖励。如果你选择燃烧相当于6,000个批次,它将在燃烧过程中计为7,000个批次。该协议将为此使用你全部每日1,000个批次奖励。因此,在该特定日期,你在该链上不会有任何剩余的奖励批次可用。但不要担心,一旦下一天开始,你的奖励批次数量将重置回1,000。
+
+  - 此外,你可以选择桥接你的4个NFT的效用到Xenify已推出的另一条链上。通过这种方式,你可以在当天在该链上使用额外的1,000个每日奖励批次,有效地为你提供2,000个每日奖励批次。例如,如果你已经在BNB链上使用完每日奖励,你可以简单地将NFT的效用桥接到以太坊,并在以太坊上获得1,000个每日奖励批次。你可以对Xenify已部署的每条链重复此过程。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 可申领的USDC奖励
+
+凤凰NFT经过精心设计,旨在改变NFT世界。借助其创新的租赁机制,这种独特的NFT积极支持YSL.IO生态系统,允许用户产生租金收入,同时租户可以绕过协议的西格马退出率。 当一个凤凰猿NFT通过YSL.IO市场出租时,用户租金收入的一部分将作为税收收取。结合来自OpenSea的部分版税税收,这些收益然后将作为USDC奖励分发给所有凤凰猿NFT持有者,在BNB链上。
+
+这些USDC奖励将在每个8小时时段结束时可供持有者申领。 最重要的是:即使用户决定从BNB链桥接其凤凰NFT以在另一条链上通过Xenify放大燃烧,他们仍有资格获得USDC分配。简单来说,在BNB链上可申领的USDC奖励将保留给所有持有凤凰猿NFT的地址,无论他们是否将效用桥接到另一条链。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 独特的租赁机制
+
+凤凰NFT经过精心设计,旨在改变NFT世界。借助其创新的租赁机制,这种独特的NFT积极支持YSL.IO生态系统,允许用户产生租金收入,同时租户可以绕过协议的西格马退出率。 当一个凤凰猿NFT通过YSL.IO市场出租时,用户租金收入的一部分将作为税收收取。结合来自OpenSea的部分版税税收,这些收益然后将作为USDC奖励分发给所有凤凰猿NFT持有者,在BNB链上。
+
+这些USDC奖励将在每个8小时时段结束时可供持有者申领。 最重要的是:即使用户决定从BNB链桥接其凤凰NFT以在另一条链上通过Xenify放大燃烧,他们仍有资格获得USDC分配。简单来说,在BNB链上可申领的USDC奖励将保留给所有持有凤凰猿NFT的地址,无论他们是否将效用桥接到另一条链。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 绕过西格马退出率
+
+YSL.IO协议已精心构建,旨在为所有参与者提供稳定性和弹性。该协议展示了一个创新的价格稳定模型(PSM),不仅旨在稳定本土代币(YSL、xYSL、bYSL和USDy)的价格,还保证用户体验高退出流动性,并保持库存流动性的长期增长。 
+
+PSM的一个关键组成部分是西格玛退出率,它通过考虑用户对代币的获取或最后一次出售来限制来自钱包的代币销售。然而,特权凤凰猿NFT持有者可以享受出售高达100% xYSL、bYSL或USDy代币的自由,而不受西格玛退出率的约束。这个独家功能为用户提供了对YSL.IO本土代币持有的最大限度的灵活性和控制力。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 用户体验
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify十分重视提供卓越的用户体验,重点放在创建一个直观且易于使用的平台上。登陆过程旨在实现无缝连接,提供清晰的说明和指导,令用户得心应手地浏览平台。
+
+与传统的去中心化交易所不同,Xenify消除了用户提供流动资金的需要。相反,它作为一个跨链汇总器运作,利用API从多个去中心化交易所获得最优惠的汇率和最低的费用。这种方法简化了用户体验,并促进了跨不同区块链网络的无缝单击交易。
+
+用户可以通过一系列功能主动参与Xenify,包括代币兑换、燃烧vXEN或vUSDy、质押或取消质押XNF以及申领奖励。该平台不仅为用户提供流畅的体验,还通过每日奖励周期分发积极奖励使用该协议的用户。
+
+这种激励模型确保Xenify用户始终因参与而受到认可,并鼓励继续使用该平台。 此外,用户可以方便地监控其质押的XNF和累积的奖励,让他们可以轻松地通过几次点击申领或取消质押他们的XNF代币。通过采用以用户为中心的方法,Xenify仍然让新手和有经验的用户都容易上手。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 安全性
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+在Xenify,安全性对于确保我们协议的最大安全性和可靠性至关重要。为了加强我们协议的安全性,我们计划由行业内知名安全公司PeckShield审计合约。
+
+我们的平台在设计思想上以去中心化和自治为指导原则。 Xenify的智能合约不包含管理员密钥,这意味着它们不能由中心化机构升级或治理。 为了加强我们协议真正的去中心化和自治性质,根据其veXNF持有量及其相关权力公平地向参与者分配收益潜力。 随着Xenify的发展,我们旨在优先考虑用户的利益,在整个协议中培养透明度和信任。
+
+Xenify的使命是通过在所有努力中坚守密码学的首要原则,打造一个透明、公平和以用户为中心的DeFi平台。通过承诺这些核心价值观,我们渴望建立一个在DeFi空间中倡导信任、公平和社区驱动增长的协议。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  
+## ◽️ 公平启动
+
+- Xenify的启动旨在公平公正,没有XNF代币的预挖或预分配。这保证了参与者的公平竞争环境,培养了公平和机会均等的环境。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 无后门
+
+- Xenify的智能合约和平台架构将经过精心开发,没有隐藏的功能或后门,确保我们协议的最大安全性和可信赖性。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 无团队分配
+
+- 创始人和团队成员不会获得任何代币分配,强调了项目致力于社区驱动方法的决心,并消除了潜在的利益冲突。相反,Xenify的团队将与社区一起参与,为所有参与者培养公平的竞争环境。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 从零供应开始
+
+- XNF将从零代币供应开始,代币仅通过用户参与生态系统而铸造。这种方法保证了不可能进行隐藏启动,这通常有利于少数人。相反,所有参与者都将有平等的机会参与和受益于该协议。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 参与证明
+
+- 用户将按比例获得与生态系统内的主动参与和贡献相关的奖励,培养一个基于业绩的奖励体系,为所有参与者促进公平和包容。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 无投资者分配
+
+- 不会有针对特权投资者或风险投资家的代币分配,确保在生态系统内主动参与的用户之间实现真正公平的代币分配。这种策略消除了优待并为每一个参与者营造了一个更加包容和公平的环境。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ 无首次代币发行
+
+- Xenify 将放弃首次代币发行(ICO),坚定不移地致力于公平透明的启动,确保所有参与者都有平等的机会。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 用户铸造其股权
+
+- XNF 代币不会预挖或分配给投资者或团队成员。相反,用户可以通过积极参与协议来获得 XNF 代币,无论是通过燃烧 vXEN 或 vUSDy 代币,还是通过从支持的链上交换代币。这种方法奖励用户的贡献,并保证了生态系统内 XNF 的公平分配。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 不可变合约(无管理密钥)
+
+- Xenify 的智能合约将精心设计,没有管理密钥或中心化控制,保护协议的不可变性并保持其去中心化的性质。这意味着什么?一旦我们的代币经济学和协议架构被部署,它们就被固定 - 无法进行升级或更改。这种对不可变性的承诺为我们的社区提供了一个稳定、透明和安全的环境,确保没有单一实体可以作出任意决定来操纵该协议。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 结论
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify 是一个跨链聚合器的聚合器,它从零开始精心打造,以改变用户进行代币兑换的方式。它的主要关注点是提供无缝的用户体验、奖励活跃的社区成员并建立公平持续的代币分配模型。通过利用创新的代币经济学,Xenify 旨在建立一个去中心化的、社区驱动的平台,重视并鼓励用户在生态系统内的积极参与。
+
+使 Xenify 与众不同的是,它可无缝连接 27 个不同的聚合器,实现在 50 个主要链上按最佳汇率进行单击兑换。然而,其价值远不止于纯粹的便利。与其他交易所不同,Xenify 通过确保平台上的每一个操作都有助于建立一个互惠的环境,其中收益是基于贡献和参与而累积的,以促进用户采用。
+
+使用 Xenify,用户可以在每次兑换中独家赚取 XNF 代币,还可以通过创新的抵押模式每天赚取 ETH、BNB 和 MATIC 等原生链代币。这一独特的激励模式无疑使 Xenify 成为那些寻求简化跨链兑换过程并最大化收益潜力的用户的首选。
+
+安全性和对公平代币分配的承诺是 Xenify 原则的核心。该协议已被精心设计,以保护用户的利益,因为它实现了一个公平的铸造过程和一个激励用户积极参与生态系统增长的结构。这种独特的方法培养了所有参与者之间的互惠关系,有助于平台的长期增长和可持续性。通过促进这种充满活力的社区驱动环境,并坚持对安全性、透明度和公平性的承诺,Xenify 已准备好成为去中心化交易所领域的领导者。
+
+总之,Xenify 代表了跨链代币兑换世界的范式转变。凭借其无缝的效率、有益的代币经济学以及对安全性和公平性的坚定承诺,Xenify 为用户提供了一个独一无二的机会,参与一个真正去中心化的生态系统,重视参与并促进共同增长。选择 Xenify,个人可以体验两全其美:轻松的代币兑换和最大化收益潜力的能力。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 常见问题
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+我们理解您可能对Xenify、其功能和潜力有许多疑问。为了帮助您熟悉我们的平台,我们汇编了一份常见问题清单,其中提供了关于Xenify及其生态系统的清晰见解。我们的常见问题旨在以平易近人的语言回答复杂的加密术语,使您能够以简单直接的方式深入了解Xenify、去中心化金融(DeFi)以及支持我们协议创新的前沿技术。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF有初始发行量吗?
+  - 不,Xenify没有初始发行量,也没有XNF代币的预挖。相反,该协议通过用户对生态系统的积极参与每日奖励用户。这是通过各种贡献实现的,例如直接燃烧vXEN或vUSDy代币所产生的燃烧费用,以及通过Xenify聚合器产生的互换费用。值得注意的是,支持的EVM链上收集的所有燃烧费和互换费都会每日分配给XNF质押者,为他们提供重大的长期收益潜力。
+
+  - 通过实施这种公平的分配系统,Xenify旨在为所有用户创造一个公平的竞争环境,防止代币集中在少数早期采用者手中。相反,该协议强调持续的用户参与和贡献的重要性,因为它们直接转化为有形的回报。这种创新方法使Xenify作为一个重视社区且积极鼓励他们参与塑造生态系统的平台而与众不同。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ 回收按钮有什么作用?
+  - 回收按钮是一项以用户需求为导向的功能。用户只需要简单点击此按钮,就可以方便地将累积的原生链奖励转换成XNF,通过每日燃烧拍卖。此功能带来几个优势。首先,它允许您参与燃烧循环而不会产生与默认燃烧过程相关的强制铸造费和燃烧费。这意味着您可以享受通过燃烧循环获取XNF的好处,同时节省额外费用。
+
+  - 此外,通过选择回收您的奖励,您将积极促进Xenify生态系统的增长和可持续性。该协议利用您累积的原生链奖励的50%来为XNF代币创建流动性,使其市场更强大、高效。另外,奖励的25%用于为XEN创建流动性,进一步增强了生态系统的整体流动性。最后,剩余的25%以USDC的形式发送给团队,支持持续的运营费用,如平台开发、营销活动和社区参与活动。
+
+  - 通过回收您的奖励,您不仅提高了自己的利益,还在Xenify平台持续成功中发挥着至关重要的作用。因此,回收者将获得一个额外的独家原生链代币分配,这些代币来自平台的认领费。这意味着通过积极参与回收过程,您将有机会获得更多原生链代币,增强您的整体持有量。
+
+  - 总之,回收按钮不仅提供了便利,而且为veXNF持有人带来许多好处。通过节省费用、促进生态系统增长并获得独家分配,回收者可以最大化其利益,同时支持Xenify平台的持续成功。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ 为什么XNF的价值会升值?
+  - Xenify创新的代币经济模型、蓬勃发展的生态系统以及对原生链奖励不断增长的需求,都使XNF的价值具有显著增值的潜力。凭借Xenify的前沿跨链聚合器,用户可以享受无缝的单击代币互换并在过程中赚取XNF,这推动了协议采用并最终推高了XNF的价值。
+
+  - 此外,XNF代币的稀缺性,这得益于减半事件,可能会提升代币的价值,因为越来越多的用户选择Xenify作为他们首选的代币互换平台。这将为XNF质押者带来更多原生链奖励,导致对XNF代币的需求增加。因此,由于需求的推动,代币的价值将上涨,这巩固了Xenify在XEN生态系统中的有前途项目的地位。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 如果我现在进行质押,什么时候可以解押?
+  - 当您选择质押XNF时,您可以选择一个适合您偏好的质押周期,从最少2周到最多4年不等。请注意,一旦开始质押周期,您的XNF代币将被锁定,在周期结束前您将无法解押。一旦您选择的质押周期结束,您就可以自由解押您的XNF代币,收回对它们的完全控制权。通过参与质押,您为我们整个生态系统的健康做出了贡献,作为回报,您每天都有机会赚取原生链奖励!
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 我如何通过Xenify赚取奖励?
+  - Xenify为用户提供了通过质押XNF代币每日赚取ETH、BNB和MATIC等奖励的机会。这些奖励根据用户的veXNF余额及其veXNF的权力在XNF质押者之间分配。这种激励模型不仅鼓励积极参与,还对促进该协议的长期增长和可持续发展发挥着至关重要的作用。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 如果我现在进行质押,我什么时候会收到奖励?
+  - 当您质押XNF代币时,您将在进行质押的周期结束时收到奖励。在整个周期内,这些奖励会累积在一个奖励池中,该协议会根据他们的veXNF余额和相关力量,在周期结束时向veXNF持有者分配整个奖励池的原生链代币,确保分配公平透明。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 与Xenify参与的方式有哪些不同?
+- 是的,有几种方法可以与Xenify进行互动,包括:
+
+  - 利用Xenify聚合器执行无缝的单击代币互换,并在过程中赚取XNF。
+  - 直接燃烧vXEN或vUSDy以获取XNF。 
+  - 质押XNF代币以赚取ETH、BNB和MATIC等原生链代币。
+  - 购买凤凰猿NFT以解锁每日放大燃烧等功能。
+  - 通过社区举措为该协议的增长做出贡献。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 如果在每日周期内没有代币互换或燃烧会怎样?
+
+- 在极少数情况下,如果Xenify上没有发生任何互换,也没有用户燃烧vXEN或vUSDy,则不会进行每日XNF循环分配。在这种情况下,原定在该周期内分配的XNF代币将不会被铸造。因此,XNF的总供应量将减少原计划在该周期内分配的数量。
+
+- 例如,如果一个周期的每日分配量设置为20,000 XNF,且在该周期内没有发生任何互换或燃烧,则20,000 XNF将不会被铸造或分配。相反,在周期结束时,XNF的总供应量将减少20,000 XNF。
+
+<br>
+
+# ◽️ 术语表
+
+欢迎访问Xenify术语表,这是您了解对Xenify生态系统以及更广泛的去中心化金融(DeFi)世界至关重要的关键术语和概念的首要资源。我们的术语表旨在弥合复杂的加密术语与日常语言之间的差距。利用日常语言和简单的解释,我们的术语表将使您能够以清晰简单的方式深入了解Xenify、DeFi以及支持我们的协议创新的前沿技术。
+
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XEN
+  
+  - XEN是Xenify的原创灵感基础,它融合了创新的参与证明概念和第一原则方法论,以构建突破性的去中心化协议。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF
+
+  - XNF是Xenify的原生权益代币,这是去中心化金融(DeFi)领域的一种先进的跨链聚合器协议。用户可以通过积极参与该平台的活动(如燃烧vXEN或vUSDy代币以及支持链上的代币互换)来赚取XNF代币。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ veXNF
+
+  - veXNF是一个代币,作为ERC-721标准下的非同质化代币(NFT)存在,代表用户在XNF中的质押头寸。用户获得的原生链奖励份额不仅取决于他们拥有的veXNF数量,还取决于他们在该协议中的“力量”或地位。这个地位是由他们的veXNF持有量和锁定期长度的组合决定的。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Xenify
+
+  - Xenify是一个去中心化金融(DeFi)协议,旨在革新代币互换体验。它提供了一个先进的跨链聚合器,可以轻松地在50个不同的区块链网络之间互换代币。凭借来自27个聚合器的最佳路径和最低费用,Xenify使用户能够在支持的链之间无缝互换代币。它强调公平、简单、透明、用户授权和互操作性,旨在创建一个更加互联互通和对用户友好的DeFi生态系统。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ 质押
+
+  - 质押涉及在钱包或平台上锁定代币以支持网络操作,如验证交易或保护网络。作为回报,参与者将获得奖励。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 跨链
+
+  - 跨链是指在不同区块链网络之间进行互动和转移资产的能力。它促进互操作性和更加互联的生态系统。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 代币经济模型
+
+  - 代币经济模型是对加密货币或代币的经济方面的研究,如供应、分配和激励。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 直接燃烧
+
+- 当代币被燃烧时,通常会被发送到一个不活跃的地址并从流通中移除,有效地减少了总供应量。在Xenify上,直接燃烧发生在用户有意燃烧代币(vXEN或vUSDy)以促进协议的增长时。作为他们对协议承诺的回报,用户会以被燃烧的vXEN或vUSDy代币换取XNF代币。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 燃烧证明
+
+- 燃烧证明是一种承诺机制,用户通过燃烧代币来展示他们对该协议的支持。作为回报,他们会获得股权。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 互换量
+
+  - 互换量指在Xenify平台上执行的代币互换的总价值。它是每日奖励周期中向用户分配XNF代币的基础。
+
+  ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 第一原则
+
+  - 加密货币的第一原则是支撑去中心化数字货币的基本概念。它们关注允许匿名访问、透明度、无需信任、去中心化和不可变性。这些原则指导加密货币的增长和创新,使得能做出明智的决定,并塑造去中心化金融的未来。
+
+  ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  
+## ◽️ 互操作性
+
+  - 互操作性是不同系统、网络或平台无缝协作的能力。它允许在没有壁垒的情况下交换数据、资产和信息。
+
+  ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 智能合约
+
+  - 智能合约是在满足特定条件时自动执行的数字协议,它允许两方或多方以透明无忧的方式交换货币、财产或股份,而无需中间人。这些合约像是储存在区块链上的小程序,一旦达成协议的条款即会运行。通过自动化流程,所有参与方都可以对结果充满信心,不会有延误或中介的干预。
+
+  ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ DeFi(去中心化金融)
+
+  - DeFi是decentralized finance的缩写,表示使用区块链技术将中间人移除的金融系统。它将传统银行与区块链相结合,用区块链上的智能合约替代传统金融系统的某些部分。DeFi通过区块链提供金融服务,提供比传统金融服务更开放、透明且用户友好的替代方案。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 鸣谢
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## YSL.IO (2023年4月21日) - 跨链互换
+
+**链接:**
+
+- [官网](https://ysl.io/)
+- [白皮书](https://docs.ysl.io)
+- [Twitter](https://twitter.com/ysl_io)
+- [电报频道](https://t.me/ysl_io)
+
+**有影响力的概念:**
+
+- [凤凰猿NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## XEN Crypto (2022年10月8日) - 跨链协议
+
+**链接:** 
+
+- [官网](https://faircrypto.org)
+- [轻白皮书](https://faircrypto.org/xencryptolp.pdf)
+- [源代码](https://github.com/FairCrypto/XEN-crypto)
+- [Twitter](https://twitter.com/XEN_Crypto)
+- [电报频道](https://t.me/XENCryptoTalk)
+
+**有影响力的概念:**
+
+- [第一原则](https://faircrypto.org/xencryptolp.pdf)
+- [参与证明](https://faircrypto.org/xencryptolp.pdf)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## DBXen (2023年2月16日) - 跨链收益产生
+
+**链接:**
+
+- [官网](https://dbxen.org/)
+- [轻白皮书](https://dbxen.gitbook.io/dbxen-litepaper)
+- [源代码](https://github.com/deb0x/dbXenBurnerProject)
+- [Twitter](https://twitter.com/DBXencrypto)
+- [电报频道](https://t.co/vprGbYeXqc)
+
+**有影响力的概念:**
+
+- [燃烧成本](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [代币分配](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 合约地址
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+## ◽️XEN
+ - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
+ - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
+ - [Avalanche](https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389)
+ - [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
+ - [BNB链](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [OKX链](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
+ - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️USDy
+
+ - [BNB链](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️凤凰猿NFT
+
+- [Opensea](https://opensea.io/collection/phoenix-ape-nft)
+- [BNB链](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 有用链接
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- <https://xenify.io>
+- <https://t.me/xenify_io>
+- <https://medium.com/xenify>  
+- <https://twitter.com/xenify_io>
+- <https://www.youtube.com/@xenify-io>
