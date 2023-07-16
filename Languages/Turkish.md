@@ -10,11 +10,11 @@
  Çapraz Zincir Takaslarının Potansiyelini Ortaya Çıkarın - Zahmetsiz, Verimli ve Ödüllendirici!</p>
  
 <p align="center">
-Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon • Kurucu Ortak • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon • Kurucu Ortak • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+Dayana Plaz • Kurucu Ortak • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
  
