@@ -755,7 +755,7 @@ Mari kita lihat lebih dekat bagaimana Diskon Biaya Pembakaran Berbobot Waktu ber
 <br>
 
 $$
-BF = (0,5 \kali 5.000) \kali (1 - (10.000 \kali 0,00005)) = $ 1.250
+BF = (0,5 \times 5.000) \times (1 - (10.000 \times 0,00005)) = $ 1.250
 $$
 
 <br>
@@ -769,7 +769,7 @@ $$
 <br>
 
 $$
-BF = (1 \kali 5.000) \kali (1 - (10.000 \kali 0)) = $ 5.000
+BF = (1 \times 5.000) \times (1 - (10.000 \times 0)) = $ 5.000
 $$
 
 <br>
@@ -833,7 +833,7 @@ Protokol menghitung kontribusi pembakaran (BC) dari pengguna tertentu dalam satu
 <br>
 
 $$
-BC = (TCD \div 2) \kali (UBB \div TBB)
+BC = (TCD \div 2) \times (UBB \div TBB)
 $$
 
 <br>
@@ -1054,7 +1054,7 @@ Singkatnya, pemegang NFT Phoenix Ape tidak hanya menikmati peningkatan bagian da
 <br>
 
 $$
-BF = (FC \kali VB) \kali (1 - (NB \kali BC))
+BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
 **Di mana:**
