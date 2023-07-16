@@ -9,11 +9,11 @@
 <p align="center">释放跨链交换的潜力 - 轻松、高效、回报丰厚</p>
  
 <p align="center">
-Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon • 联合创始人 • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon • 联合创始人 • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+Dayana Plaz • 联合创始人 • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
  
