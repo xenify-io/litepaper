@@ -33,7 +33,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify 代币经济学](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify架构](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
 - [XNF空投](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
-- [[Amplify烧伤](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
+- [Amplify烧伤](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
 - [用户体验](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [安全性](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
 - [结论](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
