@@ -19,7 +19,7 @@ Dayana Plaz • 共同創設者 • <a href="mailto:dayana@xenify.io">dayana@xen
 </p>
  
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-#◽️ 目次
+##◽️ 目次
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 - [はじめに](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
