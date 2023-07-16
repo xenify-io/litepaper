@@ -1005,15 +1005,25 @@ Xenify让用户可以随时方便地领取和提取累积的本链奖励。但�
 # ◽️ 图像说明
 
 <p align="center" dir="auto">
-  <img alt="Xenify" src="https://github.com/xenify-io/litepaper/raw/main/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="max-width:100%;">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
+    </picture>
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify 架构
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
 <p align="center" dir="auto">
-  <img alt="Xenify" src="https://github.com/xenify-io/litepaper/raw/main/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="max-width:100%;">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
+  </picture>
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
