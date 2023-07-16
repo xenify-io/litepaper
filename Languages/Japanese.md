@@ -1394,14 +1394,14 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 ## YSL.IO (2023年4月21日) - クロスチェーンスワップ
 
-**リンク
+**リンク**
 
 - [ウェブサイト](https://ysl.io/)
 - [ホワイトペーパー](https://docs.ysl.io)
 - [ツイッター・プロフィール](https://twitter.com/ysl_io)
 - [テレグラム・チャンネル](https://t.me/ysl_io)
 
-**影響力のあるコンセプト: **
+**影響力のあるコンセプト:**
 
 - [フェニックス・エイプ NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
@@ -1409,7 +1409,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 ## XEN Crypto（2022年10月8日） - クロスチェーンプロトコル
 
-**リンク
+**リンク**
 
 - [ウェブサイト](https://faircrypto.org)
 - [ライトペーパー](https://faircrypto.org/xencryptolp.pdf)
@@ -1417,7 +1417,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 - [ツイッター・プロフィール](https://twitter.com/XEN_Crypto)
 - [テレグラム・チャンネル](https://t.me/XENCryptoTalk)
 
-**影響力のあるコンセプト: **
+**影響力のあるコンセプト:**
 
 - [第一原則](https://faircrypto.org/xencryptolp.pdf)
 - [参加証明](https://faircrypto.org/xencryptolp.pdf)
@@ -1426,7 +1426,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 ##DBXen（2023年2月16日） - クロスチェーン利回り生成
 
-**リンク
+**リンク**
 
 - [ウェブサイト](https://dbxen.org/)
 - [ライトペーパー](https://dbxen.gitbook.io/dbxen-litepaper)
@@ -1434,7 +1434,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 - [ツイッター・プロフィール](https://twitter.com/DBXencrypto)
 - [テレグラム・チャンネル](https://t.co/vprGbYeXqc)
 
-**影響力のあるコンセプト: **
+**影響力のあるコンセプト:**
 
 - [燃焼コスト](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [トークン配布](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
