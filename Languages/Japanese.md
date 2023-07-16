@@ -193,21 +193,21 @@ Xenifyは株式投資と長期投資を重視しています。私たちは、�
 # ◽️ 創立者たち
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-## ◽️ シムラン・ディロン
-- [ツイッター](https://twitter.com/simran_ysl)
-- [リンクトイン](https://www.linkedin.com/in/ssdhillon)
-- [テレグラム](https://t.me/SD_YSL)
+## ◽️ Simran Dhillon
+- [Twitter](https://twitter.com/simran_ysl)
+- [LinkedIn](https://www.linkedin.com/in/ssdhillon)
+- [Telegram](https://t.me/SD_YSL)
 - [過去の経歴](https://blog.horizen.io/zen-foundation-and-team-updates)
 
-## ◽️ ハーデブ・ディロン
-- [ツイッター](https://twitter.com/hardev_ysl)
-- [リンクトイン](https://www.linkedin.com/in/hardevdhillon)
-- [テレグラム](https://t.me/hardev_ysl)
+## ◽️ Hardev Dhillon
+- [Twitter](https://twitter.com/hardev_ysl)
+- [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
+- [Telegram](https://t.me/hardev_ysl)
 
-## ◽️ ダヤナ・プラズ
-- [ツイッター](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
-- [リンクトイン](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
-- [テレグラム](https://t.me/Dayplaz)
+## ◽️ Dayana Plaz
+- [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
+- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
+- [Telegram](https://t.me/Dayplaz)
 - [過去の経歴](https://www.youtube.com/watch?v=_7UB-4d1NxM)
 
 ## ◽️ チーム KYC 検証済み (by Solidproof)
