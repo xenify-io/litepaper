@@ -1,347 +1,342 @@
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b944b69c-7e73-4e29-aa61-7b85593c5aab" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" style="visibility:visible;max-width:100%;">
-  </picture>
+  <gambar>
 </p>
 
-<p align="center">
-Lepaskan Potensi Swap Lintas Rantai - Tanpa Usaha, Efisien, dan Menguntungkan!</p>
+ <p align="center">
+ Lepaskan Potensi Swap Lintas Rantai - Mudah, Efisien, dan Menguntungkan!
  
 <p align="center">
-Simran Dhillon • Co-Founder • <a href="mailto:simran@xenify.io">simran@xenify.io</a>
+Simran Dhillon - Salah satu Pendiri - <a href="mailto:simran@xenify.io">simran@xenify.io</a>
 <br>
-Hardev Dhillon • Co-Founder • <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
+Hardev Dhillon - Co-Founder - <a href="mailto:hardev@xenify.io">hardev@xenify.io</a>
 <br>
-Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
+Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a>
 <br>
 </p>
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+ 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Isi
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- [Pendahuluan](https://github.com/xenify-io/litepaper#%EF%B8%8F-pendahuluan)
-- [Misi Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-misi-kami)
-- [Prinsip Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-prinsip-kami)
-- [Fitur Unggulan](https://github.com/xenify-io/litepaper#%EF%B8%8F-fitur-unggulan)
-- [Pendiri Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-pendiri-kami)
-- [Ikhtisar XEN](https://github.com/xenify-io/litepaper#%EF%B8%8F-ikhtisar-xen)
-- [Ikhtisar USDy](https://github.com/xenify-io/litepaper#%EF%B8%8F-ikhtisar-usdy)
-- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper#%EF%B8%8F-ikhtisar-xnf--vexnf)
-- [Ikhtisar Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-ikhtisar-xenify)
-- [Tokenomics Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-tokenomics-xenify)
-- [Arsitektur Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-arsitektur-xenify)
-- [Airdrop XNF](https://github.com/xenify-io/litepaper#%EF%B8%8F-airdrop-xnf)
-- [Pembakaran Amplify](https://github.com/xenify-io/litepaper#%EF%B8%8F-pembakaran-amplify)
-- [Pengalaman Pengguna](https://github.com/xenify-io/litepaper#%EF%B8%8F-pengalaman-pengguna)
-- [Keamanan](https://github.com/xenify-io/litepaper#%EF%B8%8F-keamanan)  
-- [Kesimpulan](https://github.com/xenify-io/litepaper#%EF%B8%8F-kesimpulan)
-- [Glosarium](https://github.com/xenify-io/litepaper#%EF%B8%8F-glosarium)
-- [Ucapan Terima Kasih](https://github.com/xenify-io/litepaper#%EF%B8%8F-ucapan-terima-kasih)
-- [Alamat Kontrak](https://github.com/xenify-io/litepaper#%EF%B8%8F-alamat-kontrak)
-- [Tautan Bermanfaat](https://github.com/xenify-io/litepaper#%EF%B8%8F-tautan-bermanfaat)
+- [Pendahuluan](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
+- [Misi Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
+- [Prinsip-prinsip Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
+- [Fitur Utama](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
+- [Pendiri Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
+- [Ikhtisar XEN](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
+- [Ikhtisar USDy](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
+- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
+- [Ikhtisar Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
+- [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
+- [Arsitektur Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
+- [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
+- [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
+- [Pengalaman Pengguna](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
+- [Keamanan](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
+- [Kesimpulan](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
+- [Glosarium](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
+- [Ucapan Terima Kasih](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
+- [Alamat Kontrak](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
+- [Tautan Bermanfaat](https://github.com/xenify-io/litepaper#%EF%B8%8F-helpful-links)
 
-<br> 
+<br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Pendahuluan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Selamat datang di Xenify! Kami adalah Nexus Inovasi, Hadiah, Swap lintas rantai yang mudah, dan Perluasan yang Didorong Komunitas.
+Selamat datang di Xenify! Kami adalah Nexus dari Inovasi, Penghargaan, Pertukaran Lintas Rantai yang Mudah, dan Ekspansi Berbasis Komunitas.
 
-Xenify berdiri sebagai meta-aggregator lintas rantai dari aggregator, yang mempelopori era baru dari 'Swap untuk Mendapatkan'. Protokol revolusioner kami dengan lancar mengintegrasikan tokenomics inovatif dan fungsionalitas lintas rantai maju ke dalam satu paket yang kuat. Dengan menggabungkan model insentif berbasis teori permainan yang secara aktif memberi penghargaan atas keterlibatan, Xenify siap memicu pergeseran seismik dalam dunia pertukaran lintas rantai. Misi kami jelas: merevolusi lanskap DeFi dengan menawarkan yang terbaik dari dua dunia: pengalaman swap lintas rantai yang sangat efisien dan peluang substansial untuk mendapatkan.
+Xenify berdiri sebagai meta-agregator lintas rantai agregator, memelopori era baru 'Tukar untuk Menghasilkan'. Protokol terobosan kami dengan mulus mengintegrasikan tokenomics inventif dan fungsionalitas cross-chain yang canggih ke dalam satu paket yang kuat. Dengan menggabungkan model insentif berbasis teori permainan yang unik yang secara aktif memberikan penghargaan atas keterlibatan, Xenify siap untuk memicu pergeseran seismik dalam dunia pertukaran lintas rantai. Misi kami jelas: merevolusi lanskap DeFi dengan menawarkan yang terbaik dari kedua dunia: pengalaman pertukaran lintas rantai yang sangat efisien dan peluang besar untuk mendapatkan penghasilan.
 
-Inti dari visi berani Xenify adalah protokol agregasi likuiditas generasi terbaru yang merampingkan pertukaran token lintas rantai. Apakah Anda ingin menukar token di Ethereum, Rantai BNB, Polygon, Arbitrum, atau salah satu dari 50 rantai yang didukung, Xenify sudah meng-cover Anda. Dengan akses ke 27 aggregator yang berbeda, Xenify menjamin likuiditas yang belum pernah terjadi sebelumnya dan tarif optimal untuk swap Anda. Dengan memanfaatkan API generasi terbaru, Xenify menjembatani komunikasi mulus dengan berbagai aggregator DEX, secara dramatis meningkatkan pengalaman pertukaran dan merampingkan pencarian rute swap optimal di seluruh kanvas rantai yang luas.  
+Inti dari visi Xenify adalah protokol agregasi likuiditas mutakhir yang menyederhanakan pertukaran token lintas rantai. Apakah Anda ingin menukar token di Ethereum, BNB Chain, Polygon, Arbitrum, atau salah satu dari 50 chain yang didukung, Xenify siap membantu Anda. Dengan akses ke 27 agregator yang berbeda, Xenify menjamin likuiditas yang tak tertandingi dan harga yang optimal untuk swap Anda. Dengan memanfaatkan API yang canggih, Xenify menjembatani komunikasi tanpa batas dengan beragam agregator DEX, yang secara dramatis meningkatkan pengalaman swap dan menyederhanakan pencarian rute swap yang optimal di seluruh permadani rantai yang luas.
 
-Apa yang membedakan Xenify dari platform swap lintas rantai lainnya adalah komitmennya untuk menciptakan lingkungan yang saling menguntungkan bagi semua peserta. Dengan berkontribusi pada biaya swap di seluruh rantai EVM yang didukung, Anda memperoleh token XNF, sementara 100% biaya swap Anda didistribusikan sebagai hadiah kepada pemegang staking XNF. Selain itu, Xenify berfungsi sebagai pembuat burner lapisan 1 strategis XEN, memungkinkan pemegang XEN dengan mudah mengkonversi pegangan mereka menjadi XNF pada tingkat yang dapat diprediksi. Sepanjang proses pembakaran ini, algoritma pemanfaatan fee unik kami menjamin 100% dari biaya pembakaran diarahkan sebagai hadiah kepada pemegang staking XNF, sementara biaya cetak mendorong pertumbuhan likuiditas XNF. Strategi saling menguntungkan ini memastikan proliferasi likuiditas XNF yang konstan, terlepas dari aktivitas pasar, sekaligus meningkatkan penghargaan bagi peserta yang berdedikasi dari Xenify.  
+Yang membedakan Xenify dengan platform swap lintas rantai lainnya adalah komitmennya untuk menciptakan lingkungan yang saling menguntungkan bagi semua peserta. Dengan berkontribusi pada biaya swap di seluruh rantai EVM yang didukung, Anda mendapatkan token XNF, sementara 100% dari biaya swap Anda didistribusikan sebagai hadiah kepada staker XNF. Selain itu, Xenify berfungsi sebagai pembakar lapisan 1 strategis XEN, yang memungkinkan pemegang XEN untuk dengan mudah mengonversi kepemilikan mereka menjadi XNF dengan harga yang dapat diprediksi. Selama proses pembakaran ini, algoritme pemanfaatan biaya kami yang unik menjamin bahwa 100% dari biaya pembakaran diarahkan sebagai hadiah untuk staker XNF, sementara biaya mint mendukung pertumbuhan likuiditas XNF. Strategi win-win ini memastikan pertumbuhan likuiditas XNF yang konstan, terlepas dari aktivitas pasar, sekaligus meningkatkan imbalan bagi peserta Xenify yang berdedikasi.
 
-Di jantung etos Xenify terdapat komitmen yang teguh terhadap keadilan dan transparansi, yang diwujudkan oleh model distribusi token kami yang teladan. Dengan total persediaan maksimum hanya 22.600.000 token XNF, tidak ada alokasi untuk tim, pendiri, atau investor. Bahkan, satu-satunya cara untuk mendapatkan token XNF adalah melalui partisipasi aktif dalam ekosistem. Pendekatan ini memastikan distribusi token XNF yang benar-benar adil, memberi penghargaan kepada pengguna atas kontribusi mereka dan mendorong protokol yang didorong komunitas.
+Inti dari etos Xenify adalah komitmen yang teguh terhadap keadilan dan transparansi, yang diwujudkan dengan model distribusi token yang patut dicontoh. Dengan total pasokan maksimum hanya 22.600.000 token XNF, tidak akan ada alokasi untuk tim, pendiri, atau investor. Faktanya, satu-satunya cara untuk mendapatkan token XNF adalah melalui partisipasi aktif dalam ekosistem. Pendekatan ini memastikan distribusi token XNF yang benar-benar adil, memberi penghargaan kepada pengguna atas kontribusinya dan mendorong protokol yang digerakkan oleh komunitas.
 
-Ketika kami menggabungkan agregasi likuiditas generasi terbaru dan tokenomics yang unik, Xenify siap mendefinisikan ulang lanskap pertukaran lintas rantai, sambil memupuk ekosistem yang berkembang pesat yang menempatkan kepuasan pengguna dan pertumbuhan berkelanjutan sebagai prioritas utama. Bergabunglah dengan kami saat kami melompat ke masa depan, dan alami dunia Xenify - alam di mana inovasi bertemu penghargaan, dan komunitas mendorong perluasan!
+Dengan menyatukan agregasi likuiditas mutakhir dan tokenomics kami yang khas, Xenify siap untuk mendefinisikan ulang lanskap pertukaran lintas rantai, sambil memelihara ekosistem yang berkembang yang sangat mementingkan kepuasan pengguna dan pertumbuhan yang berkelanjutan. Bergabunglah dengan kami saat kami mengambil lompatan ke masa depan, dan rasakan pengalaman dunia Xenify - dunia di mana inovasi bertemu dengan penghargaan, dan perluasan kekuatan komunitas!
 
-<br>  
+<br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png) 
-
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Misi Kami
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Xenify tidak hanya di sini untuk mendorong batas - kami memiliki misi untuk menghancurkan hambatan yang selama ini menahan adopsi arus utama DeFi. Protokol kami yang dibuat khusus diatur untuk merevolusi transfer token di seluruh jaringan 50 rantai, sekaligus memastikan pengalaman yang lancar dan mulus bagi pengguna yang menjelajahi dunia pertukaran token yang rumit di beberapa rantai. 
+Xenify tidak hanya hadir untuk mendorong batasan - kami memiliki misi untuk melenyapkan hambatan yang selama ini menghalangi adopsi DeFi secara umum. Protokol kami yang dibuat khusus dirancang untuk merevolusi transfer token di seluruh jaringan yang luas yang terdiri dari 50 chain, sambil memastikan pengalaman yang lancar dan mulus bagi pengguna yang menjelajahi dunia pertukaran token yang rumit di berbagai chain.
 
-Sebagai perintis sejati dalam agregasi pertukaran lintas rantai, komitmen kami untuk menghancurkan hambatan sangat mendalam. Kami bercita-cita untuk membangun lingkungan yang intuitif, aman, dan adil di mana melakukan pertukaran dan staking token di banyak rantai EVM terasa mudah. Misi kami adalah untuk terus berinovasi dan menyempurnakan fitur Xenify, beradaptasi dengan kebutuhan komunitas kami yang terus berkembang, dan memperluas basis pengguna secara berkelanjutan.
+Sebagai pelopor sejati dalam agregasi pertukaran lintas rantai, komitmen kami untuk meruntuhkan hambatan sangat besar. Kami bercita-cita untuk membangun lingkungan yang intuitif, aman, dan adil di mana pertukaran dan staking token di sejumlah besar rantai EVM terasa mudah. Misi kami adalah untuk terus berinovasi dan menyempurnakan fitur-fitur Xenify, beradaptasi dengan kebutuhan komunitas kami yang beragam, dan terus memperluas basis pengguna kami.
 
-Kami bukan hanya juara kemampuan dan interoperabilitas lintas rantai - kami adalah visioner. Misi kami adalah memperluas dukungan kami ke spektrum jaringan EVM yang luas dan memupuk ikatan yang kuat dalam ekosistem terdesentralisasi yang lebih luas. Dengan memanfaatkan kekuatan agregasi likuiditas dan fungsionalitas lintas rantai generasi terbaru, kami membangun jembatan antar berbagai rantai dan membuka potensi besar interoperabilitas lintas rantai. 
+Kami bukan hanya juara dalam hal kemampuan lintas rantai dan interoperabilitas - kami adalah visioner. Misi kami adalah memperluas dukungan kami ke spektrum jaringan EVM yang luas dan membina ikatan yang kuat dalam ekosistem terdesentralisasi yang lebih luas. Dengan memanfaatkan kekuatan agregasi likuiditas avant-garde dan fungsionalitas lintas-rantai, kami membangun jembatan antara rantai yang berbeda dan membuka potensi interoperabilitas lintas-rantai yang sangat besar.
 
-Tetapi Xenify lebih dari sekadar protokol - ini adalah komunitas. Kami sangat antusias untuk memberdayakan pengguna untuk aktif berpartisipasi dalam pertumbuhan dan perluasan protokol. Itulah yang benar-benar membedakan kami. Misi kami adalah untuk menumbuhkan komunitas global yang dinamis dari individu-individu sepemikiran yang disatukan oleh aspirasi bersama untuk membuat DeFi lebih mudah diakses, inklusif, dan, beranikah kami katakan, sungguh menggetarkan.
-
-<br>
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-# ◽️ Prinsip Kami  
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+Tetapi Xenify lebih dari sekadar protokol - Xenify adalah sebuah komunitas. Kami sangat antusias dalam memberdayakan pengguna untuk secara aktif berpartisipasi dalam pertumbuhan dan perluasan protokol. Itulah yang benar-benar membedakan kami. Misi kami adalah menumbuhkan komunitas global yang dinamis dan terdiri dari individu-individu yang berpikiran sama, yang disatukan oleh aspirasi bersama untuk membuat DeFi lebih mudah diakses, inklusif, dan, berani kami katakan, sangat menggembirakan.
 
 <br>
 
-Di Xenify, kami tidak puas dengan status quo! Ambisi kami yang tak kenal lelah telah membawa kami untuk mengejar tujuan berani dalam merevolusi pertukaran token lintas rantai. Dipandu oleh nilai-nilai inti kami yang teguh, kami memiliki misi untuk membangun pengalaman transformatif yang menghancurkan hambatan, memperluas aksesibilitas, dan memberdayakan pengguna di seluruh dunia. Sebagai bagian integral dari ekosistem XEN, Xenify tidak goyah dalam dedikasinya untuk menumbuhkan komunitas yang dinamis yang berbagi visi kami akan masa depan terdesentralisasi yang cerah. Kami terus berupaya untuk meningkatkan standar kami dan tetap berkomitmen untuk menjunjung tinggi Prinsip Pertama Kripto dalam semua upaya kami:
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Prinsip-prinsip kami
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
+
+Di Xenify, kami tidak puas dengan status quo! Ambisi kami yang pantang menyerah telah mendorong kami untuk mengejar tujuan yang berani untuk merevolusi pertukaran token lintas rantai. Dipandu oleh nilai-nilai inti kami yang teguh, kami memiliki misi untuk membangun pengalaman transformatif yang menghilangkan hambatan, memperluas aksesibilitas, dan memberdayakan pengguna di seluruh dunia. Sebagai bagian integral dari ekosistem XEN, Xenify tidak tergoyahkan dalam dedikasinya untuk membina komunitas yang dinamis yang memiliki visi yang sama dengan kami mengenai masa depan yang cerah dan terdesentralisasi. Kami terus berusaha untuk meningkatkan standar kami dan tetap berkomitmen untuk menjunjung tinggi Prinsip-prinsip Pertama Kripto dalam semua upaya kami:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Keadilan
   
-  - Kami percaya dalam menciptakan lapangan yang adil dan setara di mana setiap pengguna memiliki kesempatan yang sama untuk berkembang. Xenify mengedepankan distribusi token yang adil dan menjamin akses yang sama ke protokol, tanpa adanya favoritisme terhadap pendiri, anggota tim, atau investor.
+  - Kami percaya dalam menciptakan lapangan bermain yang adil dan setara di mana setiap pengguna memiliki kesempatan yang sama untuk berkembang. Xenify mempromosikan distribusi token yang adil dan menjamin akses yang sama ke protokol, tanpa menyisakan ruang untuk pilih kasih terhadap pendiri, anggota tim, atau investor.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Kesederhanaan
 
-  - Kami bertujuan untuk memberikan pengalaman yang sederhana dan intuitif bagi semua orang. Antarmuka ramah pengguna Xenify menyambut baik veteran berpengalaman maupun pendatang baru, memungkinkan mereka dengan mudah menjelajahi dan terlibat dengan protokol.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  - Kami bertujuan untuk memberikan pengalaman yang sederhana dan intuitif untuk semua orang. Antarmuka Xenify yang ramah pengguna menyambut baik para veteran berpengalaman maupun pendatang baru, memungkinkan mereka untuk menavigasi dan terlibat dengan protokol dengan mudah.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Transparansi
 
-  - Kami berupaya membangun fondasi kepercayaan dan akuntabilitas yang kuat dalam komunitas. Xenify memegang kode soliditas sumber terbuka dan mempertahankan saluran komunikasi yang jelas untuk memupuk lingkungan kolaboratif dan jujur.  
+  - Kami berusaha keras untuk membangun fondasi kepercayaan dan akuntabilitas yang kuat di dalam komunitas. Xenify menjunjung tinggi kode soliditas sumber terbuka dan menjaga saluran komunikasi yang jelas untuk menumbuhkan lingkungan yang kolaboratif dan jujur.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Interoperabilitas
 
-  - Kami mengedepankan keragaman dan inovasi sebagai pendorong ekosistem DeFi. Menjembatani kesenjangan antara berbagai rantai, Xenify memanfaatkan kemampuan lintas rantai untuk memungkinkan interaksi yang lancar dan memperluas cakupan protokol, membuka kemungkinan tak terbatas.
+  - Kami merangkul keragaman dan inovasi sebagai pendorong ekosistem DeFi. Menjembatani kesenjangan antara berbagai rantai, Xenify memanfaatkan kemampuan lintas rantai untuk memungkinkan interaksi tanpa batas dan memperluas cakupan protokol, sehingga membuka kemungkinan yang tak terbatas.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Pemberdayaan Pengguna
 
-- Kami memberdayakan para pengguna kami untuk mengambil kendali atas ekuitas, tata kelola, dan pertumbuhan mereka. Xenify memungkinkan pengguna untuk mencetak token mereka sendiri, memiliki suara dalam arah protokol, dan berbagi kesuksesannya. Pengguna kami bukan hanya penumpang dalam perjalanan ini - mereka adalah bagian penting darinya, dan memiliki kekuatan untuk mengarahkan jalannya sendiri.
-
-<br>  
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Fitur Unggulan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>  
-
-Dibangun di atas fondasi keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, Xenify tidak puas hanya bermain dalam permainan – tujuan kami adalah untuk menggoyang dan menulis ulang aturan main. Dengan perpaduan kekuatan fitur-fitur inovatif yang berorientasi pada pengguna untuk merevolusi cara kita menjelajahi dan berinteraksi di berbagai rantai - Xenify lebih dari sekadar penambahan lain pada ekosistem XEN. Mari kita telusuri beberapa fitur unggulan yang membedakan Xenify dari protokol konvensional.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Prinsip Xenify
-
-Xenify membedakan dirinya di ruang DeFi dengan komitmen yang tidak goyah terhadap keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas. Prinsip-prinsip panduan ini membentuk fondasi bagi pengembangan dan pertumbuhan Xenify, mendorong kami untuk merevolusi pengalaman DeFi dan menciptakan ekosistem yang lebih inklusif, mudah diakses, dan saling terhubung.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Kemampuan Aggregator Lintas Rantai Generasi Lanjut  
-
-Dengan Xenify, melakukan pertukaran antar rantai tidak pernah semudah dan seefisien ini, menghancurkan hambatan dan mendorong ekosistem DeFi yang lebih terhubung. Fitur unggulan yang membedakan Xenify dari yang lain adalah kami adalah meta-aggregator lintas rantai dari para aggregator. Meskipun istilahnya terdengar rumit, itu berarti kami menyatukan beberapa aggregator lintas rantai ke dalam satu platform. Dengan memanfaatkan protokol agregasi likuiditas generasi lanjut kami, kami dapat mengubah cara pengguna berpindah antar jaringan blockchain. Selain itu, pengguna memiliki kesempatan untuk memperoleh token asli dari rantai masing-masing secara harian, yang semakin memperkaya portofolio mereka. Dengan akses ke tarif kompetitif dan likuiditas luar biasa dari 27 aggregator di 50 rantai, pengguna kami menikmati manfaat dan fleksibilitas yang unggul dalam mengelola aset mereka.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
-
-## ◽️ Penekanan pada Ekuitas dan Investasi Jangka Panjang
-
-Xenify memberi penekanan besar pada ekuitas dan investasi jangka panjang. Kami percaya dalam memberdayakan pengguna kami untuk menuai hasil dari pertumbuhan protokol dan apresiasi nilai token. Dengan memegang saham di Xenify, pengguna memiliki kesempatan untuk menjadi bagian dari kesuksesan kami dan berpotensi menghasilkan penghasilan pasif melalui staking XNF. Untuk mewujudkan ini, kami telah mengembangkan berbagai fitur tangguh yang dirancang untuk memaksimalkan manfaat Anda sebagai pengguna Xenify:
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Staking  
-
-- Xenify memperkenalkan sistem penghargaan staking dinamis yang menawarkan keuntungan signifikan bagi para pemegang staking XNF. Dengan staking token XNF, pengguna berhak menerima impresif 100% dari biaya pembakaran dan biaya swap yang dihasilkan di rantai didukung, setiap harinya.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Daur Ulang
-
-- Mendaur ulang hadiah rantai asli Anda menawarkan berbagai manfaat dan merupakan keputusan strategis untuk dipertimbangkan. Dengan memilih untuk mendaur ulang hadiah Anda, Anda dapat melewati biaya klaim 25% dan secara bersamaan meningkatkan pegangan XNF Anda karena 100% hadiah Anda berkontribusi pada pembakaran vXEN harian. Mekanisme yang ramping ini lebih dioptimalkan oleh protokol, yang mencetak vXEN setara dengan nilai hadiah Anda sambil mengurangi biaya pembakaran dari saldo hadiah Anda. Mekanisme ini pada dasarnya memungkinkan Anda berpartisipasi dalam lelang pembakaran harian tanpa perlu hadiah rantai asli tambahan untuk menutupi biaya protokol dan pembakaran wajib yang terkait dengan proses pembakaran default. Pada akhir siklus, Anda akan menerima XNF berdasarkan batch yang dikontribusikan ke proses pembakaran dari hadiah daur ulang Anda.
-
-- Selain itu, memanfaatkan fungsi daur ulang memberi Anda akses eksklusif ke distribusi harian token asli yang dihasilkan dari biaya klaim 25%. Bagian Anda dari token rantai asli sebanding dengan hadiah yang Anda daur ulang selama satu siklus. Sebagai contoh, jika hadiah rantai asli senilai $100.000 ditarik selama satu siklus dan Anda satu-satunya pemegang staking XNF yang mendaur ulang hadiah, Anda akan menerima seluruh $25.000 senilai token rantai asli yang dihasilkan dari biaya klaim saat siklus berakhir.  
-
-- Ketika pengguna mendaur ulang hadiah, token asli mereka digunakan secara strategis untuk memperkuat ekosistem. 50% dari token digunakan untuk menghasilkan likuiditas XNF, 25% digunakan untuk membuat likuiditas untuk varian token XEN dari rantai tersebut, dan 25% sisa token asli dikirim ke tim sebagai USDC untuk menutupi biaya operasional yang sedang berlangsung, termasuk pengembangan platform, kampanye pemasaran, dan kegiatan keterlibatan komunitas. Pengaturan yang saling menguntungkan ini memberi penghargaan kepada para pengguna daur ulang atas dedikasi dan partisipasi aktif mereka dalam pertumbuhan Xenify, menciptakan situasi win-win bagi potensi penghasilan para pengguna daur ulang dan kemajuan platform.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
-
-## ♦️ Pembakaran Token
-
-- Xenify memberdayakan pengguna untuk dengan mudah membakar token XEN atau token asli YSL.IO langsung dari dompet mereka untuk berpartisipasi dalam lelang pembakaran harian. Mekanisme pembakaran unik ini mengintegrasikan dua token buatan yang dikenal sebagai vXEN dan vUSDy, rekan virtual dari token XEN dan token asli YSL.IO. Token-token ini memiliki tujuan spesifik - untuk memfasilitasi pencetakan token XNF melalui proses pembakaran.  
-
-- Akibatnya, pengguna dapat terlibat dalam lelang pembakaran harian, terlepas dari varian token XEN atau token asli YSL.IO yang mereka pegang. Mekanisme pembakaran ini melampaui sekadar mengurangi pasokan beredar dari token XEN dan token asli YSL.IO; ini mewujudkan pendekatan strategis yang menyatukan komunitas YSL.IO dan komunitas XEN yang lebih luas di semua rantai, memupuk visi bersama yang menyatukan kedua ekosistem.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Pertukaran Lintas Rantai
-
-- Xenify memungkinkan pengguna untuk melakukan pertukaran lintas rantai yang lancar, membuatnya lebih mudah daripada sebelumnya untuk menukar token di 50 rantai yang berbeda. Proses kami yang ramping menawarkan tingkat kesederhanaan baru dalam pertukaran token lintas rantai dan memberikan akses ke 27 aggregator, menjamin tarif paling kompetitif yang tersedia, sekaligus memberikan pengalaman yang efisien dan menarik seperti yang belum pernah ada sebelumnya.  
-
-- Tetapi inilah bagian terbaiknya: Salah satu keunggulan unik menggunakan Xenify adalah setiap kali pengguna membayar biaya swap 0,5% di rantai tempat XNF diterapkan, mereka diberi penghargaan dengan token XNF melalui lelang swap harian. Ini berarti pengguna dapat menikmati pengalaman pertukaran yang mudah sambil mengumpulkan token XNF.
-
-- Dan hadiahnya tidak berhenti di situ, karena pengguna dapat memanfaatkan kesempatan untuk mendapatkan hadiah harian tambahan seperti BNB, ETH, dan MATIC hanya dengan staking token XNF mereka. Xenify benar-benar merevolusi proses pertukaran lintas rantai; menawarkan kesederhanaan, tarif kompetitif, dan pengalaman yang menarik bagi pengguna.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Distribusi Ekuitas yang Adil  
-
-- Xenify berdedikasi untuk mempromosikan keadilan dan transparansi dalam distribusi ekuitas di antara para penggunanya. Tokenomics dan model staking kami yang unik dirancang untuk memberi penghargaan kepada peserta aktif dan pemegang jangka panjang, menciptakan insentif kuat bagi pengguna untuk berkontribusi pada pertumbuhan ekosistem kami. Seiring komunitas kami terus berkembang, distribusi hadiah dan token XNF yang adil memastikan semua orang diuntungkan, mendorong komunitas yang dinamis dan terlibat. Komitmen Xenify terhadap keadilan dan ekuitas mendorong kepercayaan dalam ekosistem, mempromosikan lingkungan yang berkelanjutan dan inklusif bagi semua peserta.  
+  - Kami memberdayakan pengguna kami untuk mengendalikan ekuitas, tata kelola, dan pertumbuhan mereka. Xenify memungkinkan pengguna untuk mencetak token mereka sendiri, memiliki suara dalam arah protokol, dan berbagi dalam keberhasilannya. Pengguna kami bukan hanya penumpang dalam perjalanan ini - mereka adalah bagian penting darinya, dan memiliki kekuatan untuk mengarahkan arahnya sendiri.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Fitur Utama
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Dibangun di atas fondasi keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, Xenify tidak puas hanya dengan bermain game - Xenify hadir untuk mengguncang dan menulis ulang buku aturan. Dengan kombinasi yang kuat dari fitur-fitur inovatif dan berpusat pada pengguna yang dirancang untuk merevolusi cara kita menavigasi dan berinteraksi di berbagai rantai - Xenify lebih dari sekadar tambahan pada ekosistem XEN. Mari kita pelajari beberapa fitur menonjol yang membedakan Xenify dari protokol konvensional.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Prinsip-prinsip Xenify
+
+Xenify membedakan dirinya dalam ruang DeFi dengan komitmennya yang teguh terhadap keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas. Prinsip-prinsip panduan ini menjadi landasan pengembangan dan pertumbuhan Xenify, mendorong kami untuk merevolusi pengalaman DeFi dan menciptakan ekosistem yang lebih inklusif, mudah diakses, dan saling terhubung.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Kemampuan Agregator Rantai Silang Tingkat Lanjut
+
+Dengan Xenify, pertukaran antar rantai tidak pernah semulus dan seefisien ini, meruntuhkan hambatan dan mendorong ekosistem DeFi yang lebih saling terhubung. Fitur menonjol yang membedakan Xenify dari yang lain adalah bahwa kami adalah agregator meta agregator lintas rantai. Meskipun istilah ini mungkin terdengar rumit, ini berarti kami menyatukan beberapa agregator lintas rantai ke dalam satu platform. Dengan memanfaatkan protokol agregasi likuiditas kami yang canggih, kami dapat mengubah cara pengguna bertransisi di antara jaringan blockchain. Selain itu, pengguna memiliki kesempatan untuk mendapatkan token asli dari masing-masing rantai setiap hari, yang selanjutnya meningkatkan portofolio mereka. Dengan akses ke harga yang kompetitif dan likuiditas yang luar biasa dari 27 agregator di 50 rantai, pengguna kami menikmati manfaat yang tak tertandingi dan fleksibilitas yang lebih baik dalam mengelola aset mereka.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Penekanan pada Ekuitas dan Investasi Jangka Panjang
+
+Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya dalam memberdayakan pengguna kami untuk menuai hasil dari pertumbuhan protokol kami dan apresiasi nilai token. Dengan memiliki saham di Xenify, pengguna memiliki kesempatan untuk menjadi bagian dari kesuksesan kami dan berpotensi menghasilkan pendapatan pasif melalui staking XNF. Untuk mencapai hal ini, kami telah mengembangkan berbagai fitur canggih yang dirancang untuk memaksimalkan keuntungan Anda sebagai pengguna Xenify:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Staking
+
+- Xenify memperkenalkan sistem reward staking dinamis yang menawarkan keuntungan signifikan bagi staker XNF. Dengan melakukan staking token XNF, pengguna berhak menerima 100% dari biaya burn dan biaya swap yang dihasilkan pada chain yang didukung, setiap hari.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Daur Ulang
+
+  - Mendaur ulang reward chain asli Anda menawarkan berbagai macam manfaat dan merupakan keputusan strategis untuk dipertimbangkan. Dengan memilih untuk mendaur ulang reward Anda, Anda dapat memotong biaya klaim 25% dan secara bersamaan meningkatkan kepemilikan XNF Anda karena 100% reward Anda berkontribusi pada pembakaran vXEN harian. Proses pembakaran yang efisien ini dioptimalkan lebih lanjut oleh protokol, yang mencetak vXEN yang setara dengan nilai reward Anda sambil mengurangi biaya pembakaran dari saldo reward Anda. Mekanisme ini pada dasarnya memungkinkan Anda untuk berpartisipasi dalam lelang burn harian tanpa memerlukan reward rantai native tambahan untuk menutupi protokol wajib dan biaya burn yang terkait dengan proses burn default. Di akhir siklus, Anda akan menerima XNF berdasarkan batch yang dikontribusikan ke proses burn dari reward daur ulang Anda.
+
+  - Selain itu, dengan memanfaatkan fungsi daur ulang, Anda akan mendapatkan akses eksklusif ke distribusi harian token asli yang dihasilkan dari biaya klaim sebesar 25%. Bagian Anda dari token rantai asli sebanding dengan reward yang Anda daur ulang selama satu siklus. Misalnya, jika reward chain asli senilai $100.000 diklaim selama satu siklus dan Anda adalah satu-satunya staker yang mendaur ulang reward, Anda akan menerima seluruh token chain asli senilai $25.000 yang dihasilkan dari biaya klaim saat siklus berakhir.
+
+  - Ketika pengguna mendaur ulang reward, token asli mereka digunakan secara strategis untuk memperkuat ekosistem. 50% token digunakan untuk menghasilkan likuiditas XNF, 25% digunakan untuk menciptakan likuiditas untuk varian token XEN pada rantai, dan 25% token asli yang tersisa dikirim ke tim sebagai USDC untuk menutupi biaya operasional yang sedang berlangsung, termasuk pengembangan platform, kampanye pemasaran, dan aktivitas keterlibatan komunitas. Pengaturan yang saling menguntungkan ini memberikan penghargaan kepada pendaur ulang atas dedikasi dan partisipasi aktif mereka dalam pertumbuhan Xenify, menciptakan situasi yang saling menguntungkan bagi potensi penghasilan pendaur ulang dan kemajuan platform.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Token Burning
+
+- Xenify memberdayakan pengguna untuk dengan mudah membakar token XEN atau token asli YSL.IO mereka langsung dari dompet mereka untuk berpartisipasi dalam lelang pembakaran harian. Mekanisme pembakaran yang unik ini mengintegrasikan dua token khusus yang dikenal sebagai vXEN dan vUSDy, masing-masing merupakan token virtual dari token XEN dan token asli YSL.IO. Token-token ini memiliki tujuan khusus - untuk memfasilitasi pencetakan token XNF melalui proses pembakaran.
+  
+- Akibatnya, pengguna dapat terlibat dalam lelang pembakaran harian, terlepas dari varian token XEN atau token asli YSL.IO yang mereka miliki. Mekanisme pembakaran ini lebih dari sekadar mengurangi pasokan token XEN dan token asli YSL.IO yang beredar; mekanisme ini mewujudkan pendekatan strategis yang menyatukan komunitas YSL.IO dan komunitas XEN yang lebih luas di semua rantai, menumbuhkan visi bersama yang menyatukan kedua ekosistem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Pertukaran Rantai Silang
+
+- Xenify memungkinkan pengguna untuk melakukan pertukaran lintas rantai tanpa hambatan, membuatnya lebih mudah dari sebelumnya untuk menukar token di 50 rantai yang berbeda. Proses kami yang disederhanakan menawarkan tingkat kesederhanaan baru dalam pertukaran token lintas rantai dan menyediakan akses ke 27 agregator, menjamin harga paling kompetitif yang tersedia, sambil memberikan pengalaman yang efisien dan bermanfaat yang belum pernah ada sebelumnya.
+
+- Namun, inilah bagian terbaiknya: Salah satu keuntungan unik menggunakan Xenify adalah setiap kali pengguna membayar biaya swap 0,5% pada chain di mana XNF digunakan, mereka akan mendapatkan token XNF melalui lelang swap harian. Ini berarti bahwa pengguna dapat menikmati pengalaman swap yang mudah sambil mengumpulkan token XNF.
+
+- Dan hadiahnya tidak berhenti sampai di situ, karena pengguna dapat memanfaatkan peluang untuk mendapatkan hadiah harian tambahan seperti BNB, ETH, dan MATIC hanya dengan mempertaruhkan token XNF mereka. Xenify benar-benar merevolusi proses pertukaran lintas rantai; menawarkan kepada pengguna kesederhanaan, harga yang kompetitif, dan pengalaman yang bermanfaat.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Distribusi Ekuitas yang Adil
+
+- Xenify berdedikasi untuk mempromosikan keadilan dan transparansi dalam distribusi ekuitas di antara para penggunanya. Model tokenomics dan staking kami yang unik dirancang untuk memberi penghargaan kepada peserta aktif dan pemegang jangka panjang, menciptakan insentif yang kuat bagi pengguna untuk berkontribusi pada pertumbuhan ekosistem kami. Ketika komunitas kami terus berkembang, distribusi hadiah dan token XNF yang adil memastikan bahwa semua orang mendapat manfaat, mempromosikan komunitas yang dinamis dan terlibat. Komitmen Xenify terhadap keadilan dan kesetaraan menumbuhkan kepercayaan dalam ekosistem, mempromosikan lingkungan yang berkelanjutan dan inklusif untuk semua peserta.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Pendiri Kami
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ◽️ Simran Dhillon
 - [Twitter](https://twitter.com/simran_ysl)
-- [LinkedIn](https://www.linkedin.com/in/ssdhillon)  
+- [LinkedIn](https://www.linkedin.com/in/ssdhillon)
 - [Telegram](https://t.me/SD_YSL)
-- [Pengalaman Masa Lalu](https://blog.horizen.io/zen-foundation-and-team-updates)
+- [Pengalaman Sebelumnya](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ◽️ Hardev Dhillon
 - [Twitter](https://twitter.com/hardev_ysl)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
 - [Telegram](https://t.me/hardev_ysl)
 
-## ◽️ Dayana Plaz  
+## ◽️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
-- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5) 
+- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
 - [Telegram](https://t.me/Dayplaz)
 - [Pengalaman Masa Lalu](https://www.youtube.com/watch?v=_7UB-4d1NxM)
 
-## ◽️ Tim Terverifikasi KYC (oleh Solidproof)
+## ◽️ Tim KYC Terverifikasi (oleh Solidproof)
 - [Sertifikat KYC](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Ikhtisar XEN
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-XEN adalah proyek yang diluncurkan atas prinsip-prinsip self-custody, konsensus trustless, dan desentralisasi. Ini merupakan upaya bersama dari beberapa entusi blockchain yang bertujuan untuk menciptakan ekosistem pertambangan yang lebih adil dan transparan.
+XEN adalah sebuah proyek yang diluncurkan berdasarkan prinsip-prinsip penitipan sendiri, konsensus tanpa kepercayaan, dan desentralisasi. Ini adalah upaya bersama dari beberapa penggemar blockchain yang bertujuan untuk menciptakan ekosistem penambangan yang lebih adil dan transparan.
 
-Salah satu tujuan utama XEN adalah untuk demokratisasi pertambangan dengan menyediakan platform terdesentralisasi yang memungkinkan siapa pun untuk berpartisipasi dalam proses penambangan. Hal ini dicapai dengan memanfaatkan algoritma konsensus Proof-of-Work (PoW) yang resisten terhadap penambangan ASIC, sehingga memastikan bahwa jaringan tetap dapat diakses oleh penambang individu.
+Salah satu tujuan utama XEN adalah untuk mendemokratisasi penambangan dengan menyediakan platform terdesentralisasi yang memungkinkan siapa saja untuk berpartisipasi dalam proses penambangan. Hal ini dicapai dengan menggunakan algoritma konsensus Proof-of-Work (PoW) yang tahan terhadap penambangan ASIC, sehingga memastikan bahwa jaringan tetap dapat diakses oleh penambang individu.
 
-Selain kemampuan pertambangannya, XEN juga menampilkan mata uang kripto asli, token XEN, yang digunakan untuk memberi insentif kepada para penambang dan menjaga keamanan jaringan. Token XEN juga digunakan untuk membayar biaya transaksi dan layanan jaringan lainnya.
+Selain kemampuan menambangnya, XEN juga dilengkapi dengan mata uang kripto asli, token XEN, yang digunakan untuk memberi insentif kepada para penambang dan menjaga keamanan jaringan. Token XEN juga digunakan untuk membayar biaya transaksi dan layanan jaringan lainnya.
 
-XEN beroperasi pada sistem Proof of Participation (PoP), yang memungkinkan peserta untuk mencetak koin mereka. Kontrak pintar XEN menggunakan sistem distribusi yang adil berdasarkan kunci waktu imbalan dan jumlah total peserta. Nilai XEN terkait dengan kesulitannya untuk dicetak, mirip dengan Bitcoin. Semakin banyak peserta yang bergabung dan mencetak XEN, total XEN yang dihasilkan menurun, sehingga menjadi lebih langka dan bernilai.
+XEN beroperasi dengan sistem Proof of Participation (PoP), yang memungkinkan para partisipan untuk mencetak koin mereka. Kontrak pintar XEN menggunakan sistem distribusi yang adil berdasarkan kunci waktu hadiah dan jumlah total peserta. Nilai XEN terkait dengan tingkat kesulitannya untuk dicetak, mirip dengan Bitcoin. Semakin banyak peserta yang bergabung dan mencetak XEN, jumlah total XEN yang dihasilkan akan menurun, membuatnya semakin langka dan berharga.
 
-Salah satu fitur utama XEN adalah kesederhanaannya, karena didasarkan pada standar token ERC20 dengan kode minimal, tanpa pencetakan awal, pintu tersembunyi, kunci admin, atau dompet asal. Selain itu, XEN memiliki persediaan nol dan hanya dapat dicetak oleh komunitas peserta. Ini membuatnya inflasi pada awalnya dan disinflasi saat adopsi meningkat. XEN tidak dapat diubah dan tidak didukung oleh investor atau nilai intrinsik.
+Salah satu fitur utama XEN adalah kesederhanaannya, karena XEN didasarkan pada standar token ERC20 dengan kode minimal, tidak ada pra-pencetakan, pintu tersembunyi, kunci admin, atau dompet asal. Selain itu, XEN memiliki persediaan nol dan hanya dapat dicetak oleh komunitas yang berpartisipasi. Hal ini membuatnya menjadi inflasi di awal dan disinflasi seiring dengan meningkatnya adopsi. XEN tidak dapat diubah dan tidak memiliki dukungan dari investor atau nilai intrinsik.
 
-Untuk mencetak XEN, para peserta dapat menghubungkan dompet yang kompatibel dengan Ethereum ke kontrak pintar XEN dan menentukan jumlah hari yang bersedia mereka tunggu untuk menerima XEN. Kontrak pintar menghasilkan peringkat XEN (cRANK) berdasarkan berapa banyak orang yang berinteraksi dengan kontrak sebelum peserta. Peserta juga dapat men-staking XEN selama 1 hingga 1.000 hari, dengan imbalan APY dimulai dari 20% pada XEN Genesis dan menurun 1 poin persentase setiap 90 hari hingga mencapai 2%, di mana akan tetap tak terbatas.
+Untuk mencetak XEN, peserta dapat menghubungkan dompet mereka yang kompatibel dengan Ethereum ke kontrak pintar XEN dan menentukan jumlah hari yang bersedia mereka tunggu untuk menerima XEN. Kontrak pintar menghasilkan peringkat XEN (cRANK) berdasarkan berapa banyak orang yang berinteraksi dengan kontrak sebelum peserta. Peserta juga dapat mempertaruhkan XEN selama 1 hingga 1.000 hari, dengan imbalan APY mulai dari 20% pada XEN Genesis dan berkurang 1 poin persentase setiap 90 hari hingga mencapai 2%, di mana ia akan tetap tanpa batas.
 
-Secara keseluruhan, XEN mewakili pendekatan inovatif terhadap pertambangan yang menekankan desentralisasi, aksesibilitas, dan keberlanjutan. Kombinasi fitur, kesederhanaan dan keadilan XEN menjadikannya proyek yang unik dan menjanjikan di dunia kripto.
+Secara keseluruhan, XEN mewakili pendekatan inovatif untuk menambang yang menekankan pada desentralisasi, aksesibilitas, dan keberlanjutan. Kombinasi fitur, kesederhanaan, dan keadilan XEN menjadikannya proyek yang unik dan menjanjikan di dunia kripto.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Menyatukan Rantai-rantai (vXEN)
+## ♦️ Menyatukan Rantai (vXEN)
 
-Memperkenalkan vXEN, solusi revolusioner yang diciptakan oleh Xenify untuk menyederhanakan proses pembakaran token XEN di berbagai rantai, memungkinkan kami untuk menyatukan komunitas XEN di berbagai rantai dan mendukung sifat deflasioner token tersebut. Pendekatan inovatif ini dimungkinkan dengan mengintegrasikan Axelar dan LayerZero, protokol terdesentralisasi yang meruntuhkan hambatan antara komunikasi lintas rantai dengan paket protokol yang komprehensif.
+Memperkenalkan vXEN, sebuah solusi inovatif yang dibuat oleh Xenify untuk menyederhanakan proses pembakaran token XEN di berbagai chain, sehingga memungkinkan kami untuk menyatukan komunitas XEN di seluruh chain dan mendukung sifat deflasi token. Pendekatan inovatif ini dimungkinkan dengan mengintegrasikan Axelar dan LayerZero, protokol terdesentralisasi yang meruntuhkan penghalang antara komunikasi lintas rantai dengan rangkaian protokol mereka yang komprehensif.
 
-Anggap vXEN sebagai rekan virtual dari token XEN, yang secara khusus dirancang untuk merampingkan proses pembakaran dan mendapatkan token XNF. Selain itu, vXEN membuka peluang bagi pemegang untuk berpartisipasi dalam lelang pembakaran Xenify di rantai lain dengan mudah memindahkan token vXEN.
+Pikirkan vXEN sebagai mitra virtual token XEN, yang dirancang khusus untuk menyederhanakan proses pembakaran dan memperoleh token XNF. Selain itu, vXEN membuka peluang bagi pemegangnya untuk berpartisipasi dalam lelang pembakaran Xenify di chain lain dengan memigrasi token vXEN dengan mudah.
 
-Untuk mendapatkan vXEN, Anda perlu memiliki varian token XEN asli yang spesifik untuk rantai tersebut, seperti bXEN di BNB Chain. Begitu Anda memiliki token vXEN, Anda dapat memilih untuk bergabung dalam lelang pembakaran harian pada rantai spesifik tersebut atau dengan lancar memindahkannya ke rantai mana pun di mana XNF telah diterapkan untuk mengambil bagian dalam distribusi harian Xenify akan token XNF di rantai tersebut. Sebagai contoh, jika XNF diterapkan di Ethereum setelah peluncurannya di BNB Chain, Anda dapat memindahkan token vXEN yang Anda peroleh dari BNB Chain (dengan membakar bXEN) untuk berpartisipasi dalam lelang pembakaran Xenify di Ethereum.  
+Untuk mendapatkan vXEN, Anda harus memiliki varian token XEN asli yang spesifik untuk chain tersebut, seperti bXEN di BNB Chain. Setelah Anda memiliki token vXEN, Anda dapat memilih untuk mengikuti lelang pembakaran harian pada chain tertentu atau memigrasikannya dengan mulus ke chain mana pun di mana XNF telah digunakan untuk mengambil bagian dalam distribusi harian token XNF Xenify pada chain tersebut. Misalnya, jika XNF digunakan di Ethereum setelah diluncurkan di BNB Chain, Anda dapat memigrasikan token vXEN yang Anda peroleh dari BNB Chain (dengan membakar bXEN) untuk berpartisipasi dalam lelang burn Xenify di Ethereum.
 
-Pendekatan maju ini berasal dari komitmen Xenify yang kuat untuk mendorong interoperabilitas dalam ekosistem XEN dan membuat Xenify dapat diakses oleh komunitas XEN di beberapa rantai. Akibatnya, vXEN memberdayakan Anda untuk berinteraksi dengan lancar dengan rantai EVM mana pun yang mendukung ekosistem XEN, dan menempatkan Xenify sebagai pembuat burner lapisan 1 strategis XEN. Ini memastikan bahwa setiap pengguna yang membakar varian token XEN apa pun di Xenify akan dimasukkan dengan benar dalam catatan pembakaran untuk distribusi X1, yang merupakan token asli dari XEN Layer 1 baru (X1 Chain).  
+Pendekatan yang berpikiran maju ini berasal dari komitmen kuat Xenify untuk mendorong interoperabilitas dalam ekosistem XEN dan membuat Xenify dapat diakses oleh komunitas XEN di berbagai rantai. Hasilnya, vXEN memberdayakan Anda untuk berinteraksi secara mulus dengan rantai EVM mana pun yang mendukung ekosistem XEN, dan memposisikan Xenify sebagai pembakar lapisan 1 yang strategis untuk XEN. Hal ini memastikan bahwa setiap pengguna yang membakar varian token XEN apa pun di Xenify akan secara sah dimasukkan ke dalam catatan pembakaran untuk distribusi X1, yang merupakan token asli XEN Layer 1 (X1 Chain) yang baru.
 
-Dan inilah bagian terbaiknya: Xenify telah menerapkan tarif tetap untuk vXEN, di mana satu vXEN setara dengan $1,00, dan satu batch setara dengan 5 vXEN. Ini menyederhanakan seluruh proses pembakaran dan menghilangkan kebutuhan untuk perhitungan yang berkelanjutan. Selain itu, fungsi pembakaran kami memanfaatkan Chainlink untuk memastikan nilai konversi untuk semua varian token XEN akan didasarkan pada nilai pasar saat ini, yang menjamin Anda selalu menerima nilai penuh untuk token XEN asli Anda.
+Dan inilah bagian terbaiknya: Xenify telah menerapkan kurs tetap untuk vXEN, di mana satu vXEN setara dengan $1.00, dan satu batch setara dengan 5 vXEN. Hal ini menyederhanakan seluruh proses pembakaran dan menghilangkan kebutuhan untuk melakukan penghitungan terus-menerus. Selain itu, fungsi burn kami memanfaatkan Chainlink untuk memastikan tingkat konversi untuk semua varian token XEN akan didasarkan pada nilai pasar saat ini, yang menjamin Anda selalu menerima nilai penuh untuk token XEN asli Anda.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Ikhtisar USDy
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-USDy adalah token hadiah yang mendorong partisipasi dalam ekosistem YSL.IO dengan stabilitas dan keberlanjutan sebagai intinya. Dikembangkan dengan tokenomincs generasi terbaru, protokol YSL.IO memiliki berbagai fitur inovatif yang menjadikan USDy token hadiah unggulan di lanskap DeFi.
+USDy adalah token reward yang memberikan insentif untuk berpartisipasi dalam ekosistem YSL.IO dengan stabilitas dan keberlanjutan sebagai intinya. Dikembangkan dengan tokenomincs mutakhir, protokol YSL.IO menawarkan sejumlah fitur inovatif yang menjadikan USDy sebagai token reward yang menonjol di lanskap DeFi.
 
-Salah satu hal menonjol dari USDy adalah Model Stabilitas Harga (PSM)-nya, yang menjamin peningkatan likuiditas yang berkelanjutan, bahkan di tengah tekanan jual. Protokol mencapai ini melalui kombinasi penciptaan Likuiditas Kepemilikan Kas Otonom dan fitur Pembelian Kembali dan Bakar yang cerdas (UBB), yang secara aktif bekerja untuk menstabilkan harga USDy.  
+Salah satu sorotan utama USDy adalah Model Stabilitas Harga (PSM), yang memastikan peningkatan likuiditas yang berkelanjutan, bahkan dalam menghadapi tekanan jual. Protokol ini mencapai hal ini melalui kombinasi penciptaan Likuiditas Milik Treasury secara otonom dan fitur Buyback and Burn (UBB) yang cerdas, yang secara aktif bekerja untuk menstabilkan harga USDy.
 
-Begini cara kerjanya: UBB diaktifkan setiap 4-epoch jika harga pool USDy jatuh di bawah $0,95. Selama periode ini, sebagian dari pajak dari setiap perdagangan YSL, xYSL, bYSL, dan USDy akan digunakan untuk membeli dan/atau membakar USDy. Selain itu, 15% dari setiap deposito HydraVault juga akan digunakan untuk membeli dan membakar USDy.
+Begini cara kerjanya: UBB diaktifkan setiap 4 epoch jika harga pool USDy turun di bawah $0,95. Selama waktu ini, sebagian pajak dari setiap perdagangan YSL, xYSL, bYSL, dan USDy akan digunakan untuk membeli dan/atau membakar USDy. Selain itu, 15% dari setiap deposit HydraVault juga akan digunakan untuk membeli dan membakar USDy.
 
-Lebih dari itu, protokol menghasilkan Likuiditas Kepemilikan Kas untuk USDy pada setiap titik interaksi pengguna, memastikan bahwa seiring bertambahnya pengguna yang bergabung dengan ekosistem YSL.IO, likuiditas USDy tumbuh secara otonom. Dan untuk lebih mengurangi pasokan USDy dan meningkatkan harganya, mekanisme Pembelian Kembali Insentif (UIB) mulai bekerja setiap kali seseorang membeli token YSL. Mekanisme ini menggabungkan insentif 25% untuk membeli YSL sambil secara aktif mengurangi pasokan USDy. 
+Selain itu, protokol ini menghasilkan Likuiditas Milik Negara untuk USDy di setiap titik interaksi pengguna, memastikan bahwa dengan semakin banyaknya pengguna yang bergabung dengan ekosistem YSL.IO, likuiditas USDy akan bertambah secara mandiri. Dan untuk mengurangi pasokan USDy lebih lanjut dan meningkatkan harganya, mekanisme Pembelian Kembali Insentif (UIB) berlaku setiap kali seseorang membeli token YSL. Mekanisme ini menggabungkan insentif 25% untuk membeli YSL sambil secara aktif mengurangi pasokan USDy.
 
-Begini cara kerjanya: semua USDC yang dikirim akan digunakan untuk membeli dan membakar USDy setara dengan 175%, dan sebagai bonus, pengguna menerima 25% USDy gratis untuk setiap pembelian. Hasilnya adalah pengurangan pasokan USDy dan peningkatan harganya, yang menguntungkan pemegang USDy.
+Begini cara kerjanya: semua USDC yang dikirim akan digunakan untuk membeli dan membakar USDy yang setara dengan 175%, dan sebagai bonus, pengguna akan menerima 25% USDy gratis untuk setiap pembelian. Hasilnya adalah berkurangnya pasokan USDy dan kenaikan harga, sehingga menguntungkan pemegang USDy.
 
-Kesimpulannya, USDy telah dirancang secara cermat oleh YSL.IO dengan fokus pada stabilitas harga dan pertumbuhan likuiditas. Dengan fitur inovatif seperti UBB dan UIB, likuiditas USDy akan terus tumbuh secara otonom sementara harganya tetap stabil, menciptakan ekosistem yang berkelanjutan, kurang volatil, dan lebih kokoh.
+Sebagai kesimpulan, USDy telah dibuat dengan hati-hati oleh YSL.IO dengan fokus pada stabilitas harga dan pertumbuhan likuiditas. Dengan fitur-fitur inovatif seperti UBB dan UIB, likuiditas USDy akan terus tumbuh secara mandiri sementara harganya tetap stabil, menciptakan ekosistem yang berkelanjutan, tidak terlalu fluktuatif, dan lebih kuat.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Menyatukan Ekosistem YSL.IO (vUSDy)
 
-Memperkenalkan vUSDy, solusi revolusioner lain oleh Xenify yang memungkinkan pembakaran lancar token asli YSL.IO, sehingga menyatukan ekosistem YSL.IO dan mendukung Model Stabilitas Harga canggih protokol untuk token aslinya.  
+Memperkenalkan vUSDy, solusi terobosan lain dari Xenify yang memungkinkan pembakaran token asli YSL.IO tanpa hambatan, sehingga menyatukan ekosistem YSL.IO dan mendukung Model Stabilitas Harga protokol yang canggih untuk token aslinya.
 
-Pendekatan inovatif untuk pembakaran token ini dimungkinkan melalui integrasi Axelar dan LayerZero, protokol terdesentralisasi yang meruntuhkan hambatan antara komunikasi lintas rantai dengan paket protokol mereka yang komprehensif.
+Pendekatan inovatif untuk pembakaran token ini telah dimungkinkan melalui integrasi Axelar dan LayerZero, protokol terdesentralisasi yang meruntuhkan hambatan antara komunikasi lintas-rantai dengan rangkaian protokol mereka yang komprehensif.
 
-Mirip dengan vXEN, pengguna tidak diwajibkan memiliki token asli XEN pada jaringan Ethereum untuk berpartisipasi dalam proses pembakaran Xenify dan mendapatkan XNF. Sebaliknya, Xenify memberdayakan pengguna dalam ekosistem YSL.IO untuk dengan mudah membakar token asli YSL.IO mereka langsung dari dompet mereka dan mendapatkan XNF.  
+Mirip dengan vXEN, pengguna tidak diwajibkan untuk memiliki token XEN asli di jaringan Ethereum untuk berpartisipasi dalam proses pembakaran Xenify dan memperoleh XNF. Sebaliknya, Xenify memberdayakan pengguna dalam ekosistem YSL.IO untuk dengan mudah membakar token asli YSL.IO mereka langsung dari dompet mereka dan memperoleh XNF.
 
-Solusi ini benar-benar mencerminkan dedikasi Xenify terhadap interoperabilitas, dengan memperluas cakupan protokol dan membuka kemungkinan tak terbatas melalui penyatuan strategis ekosistem XEN dan YSL.IO, memupuk visi bersama yang menyatukan kedua komunitas.
+Solusi ini benar-benar mencerminkan dedikasi Xenify terhadap interoperabilitas, dengan memperluas cakupan protokol dan membuka kemungkinan yang tak terbatas melalui penyatuan strategis ekosistem XEN dan YSL.IO, menumbuhkan visi bersama yang menyatukan kedua komunitas.
 
-vUSDy dapat dianggap sebagai rekan virtual dari token hadiah YSL.IO, yang dikenal sebagai USDy. Tujuan tunggal dari vUSDy adalah untuk memfasilitasi konversi varian token asli YSL.IO menjadi token XNF. Penting untuk dicatat bahwa untuk mendapatkan vUSDy diperlukan token USDy atau varian token YSL.IO yang didukung Xenify, seperti bYSL atau xYSL.
+vUSDy dapat dianggap sebagai mitra virtual dari token reward YSL.IO, yang dikenal sebagai USDy. Satu-satunya tujuan vUSDy adalah untuk memfasilitasi konversi varian token asli YSL.IO menjadi token XNF. Penting untuk dicatat bahwa untuk mendapatkan vUSDy diperlukan token USDy atau varian token YSL.IO yang didukung oleh Xenify, seperti bYSL atau xYSL.
 
-Begitu Anda memiliki vUSDy, Anda dapat membakarnya untuk berpartisipasi dalam distribusi harian Xenify akan token XNF. Dengan setiap varian token YSL.IO memiliki tingkat konversi tetap, itu menghilangkan tebak-tebakan dalam menentukan berapa banyak XEN yang diperlukan untuk dibakar sebagai satu batch. Dengan kata lain, pengguna selalu dapat yakin pada jumlah vUSDy yang akan mereka dapatkan saat membakar token asli YSL.IO mereka. Harap dicatat bahwa meskipun tingkat konversi untuk vUSDy tetap, itu akan bervariasi tergantung pada token asli YSL.IO spesifik yang Anda pilih untuk ditukar, seperti yang dijabarkan dalam tabel di bawah ini:
-
+Setelah Anda memiliki vUSDy, Anda dapat membakarnya untuk berpartisipasi dalam distribusi token XNF harian Xenify. Dengan setiap varian token YSL.IO memiliki tingkat konversi tetap, ini menghilangkan tebakan untuk menentukan berapa banyak XEN yang harus Anda bakar dalam satu batch. Dengan kata lain, pengguna dapat selalu yakin dengan jumlah vUSDy yang akan mereka dapatkan saat membakar token asli YSL.IO mereka. Harap diingat bahwa meskipun nilai konversi untuk vUSDy tetap, namun akan bervariasi tergantung pada token asli YSL.IO yang Anda pilih untuk ditukarkan, seperti yang diuraikan dalam tabel di bawah ini:
 
 <br>
 
 | Token Asli | Tingkat Konversi |
-|-|-|  
+|---------------------|----------------------|
 | USDy | 1 USDy = 1 vUSDy |
 | bYSL | 1 bYSL = 5 vUSDy |
 | xYSL | 1 xYSL = 120 vUSDy |
 
-<br> 
+<br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Ikhtisar XNF & veXNF
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ XNF & veXNF Ikhtisar
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Pada intinya, XNF berfungsi sebagai token hadiah yang merangsang keterlibatan pengguna dalam Protokol Xenify. Fondasi tokenomiknya yang unik membuka jalan bagi metode klaim dan kunci yang khas, yang meningkatkan keterlibatan pengguna dan memberdayakan pengguna untuk mengelola strategi penguncian mereka. Pengguna bebas mengklaim XNF mereka dan menentukan periode kunci, yang dapat berkisar dari minimum 2 minggu hingga maksimum 4 tahun, memberikan interaksi yang dipersonalisasi dengan protokol.
+Pada intinya, XNF berfungsi sebagai token hadiah yang merangsang keterlibatan pengguna dalam Protokol Xenify. Fondasi tokenomiknya yang unik membuka jalan bagi metode klaim dan penguncian yang berbeda, yang meningkatkan keterlibatan pengguna dan memberdayakan pengguna untuk mengelola strategi penguncian mereka. Pengguna memiliki kebebasan untuk mengklaim XNF mereka dan menentukan periode penguncian, yang dapat berkisar dari minimal 2 minggu hingga maksimum 4 tahun, memberikan interaksi yang dipersonalisasi dengan protokol.
 
-Di sinilah veXNF masuk. veXNF adalah token non-fungible ERC-721 yang diterima pengguna setelah mengunci XNF mereka. Jumlah veXNF yang dicetak berbanding lurus dengan jumlah XNF yang dikunci dan periode kunci yang dipilih. veXNF tidak hanya mencerminkan taruhan pengguna dalam protokol tetapi juga berfungsi sebagai indikator 'kekuatan penghasilan' pengguna, yang menentukan bagian mereka dalam distribusi hadiah rantai asli.
+Di sinilah veXNF berperan. veXNF adalah token non-fungible (NFT) ERC-721 yang diterima pengguna setelah mengunci XNF mereka. Jumlah veXNF yang dicetak berbanding lurus dengan jumlah XNF yang dikunci dan periode penguncian yang dipilih. veXNF tidak hanya mencerminkan kepemilikan pengguna dalam protokol, tetapi juga berfungsi sebagai indikator 'kekuatan penghasilan' pengguna, yang menentukan bagian mereka dalam distribusi hadiah rantai asli.
 
-Namun, 'kekuatan penghasilan' ini tidak tetap. Selama periode penguncian, bahkan jika melampaui maksimum 4 tahun, kekuatan veXNF mengalami peluruhan bertahap. Peluruhan ini menandakan penurunan potensi penghasilan dari waktu ke waktu, menekankan perlunya pengguna secara aktif dan rutin berinteraksi dengan protokol. Untuk meningkatkan kekuatan veXNF dan mempertahankan kapasitas penghasilan mereka, pengguna harus sering mengklaim dan mendaur ulang hadiah mereka, dan untuk mempertahankan kekuatan ini, mereka diharuskan memperpanjang durasi penguncian mereka.
+Namun, 'daya penghasilan' ini tidak tetap. Selama periode penguncian, bahkan jika periode tersebut mencapai maksimum 4 tahun, kekuatan veXNF mengalami peluruhan secara bertahap. Peluruhan ini menandakan penurunan potensi penghasilan dari waktu ke waktu, menekankan perlunya pengguna untuk secara aktif dan teratur berinteraksi dengan protokol. Untuk meningkatkan kekuatan veXNF mereka dan mempertahankan kapasitas penghasilan mereka, pengguna harus sering mengklaim dan mendaur ulang reward mereka, dan untuk mempertahankan kekuatan ini, mereka diharuskan untuk memperpanjang durasi penguncian mereka.
 
-Bagi pengguna yang bercita-cita untuk meningkatkan potensi penghasilan dari kunci sebelumnya, protokol menyajikan kesempatan untuk memperpanjang periode penguncian. Tindakan ini tidak hanya mempertahankan atau meningkatkan kuantitas veXNF tetapi juga mengatur ulang jadwal peluruhan, sehingga mendorong partisipasi berkelanjutan dalam protokol.
+Untuk pengguna yang ingin meningkatkan potensi penghasilan mereka dari penguncian sebelumnya, protokol ini memberikan kesempatan untuk memperpanjang periode penguncian. Tindakan ini tidak hanya mempertahankan atau meningkatkan kuantitas veXNF tetapi juga mengatur ulang jadwal peluruhan, sehingga mendorong partisipasi yang berkelanjutan dalam protokol.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Ikhtisar Xenify
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br> 
-
-Memperkenalkan Xenify, aggregator lintas rantai aggregator terhebat! Dirancang secara ahli untuk merampingkan proses pertukaran bagi pengguna yang menjelajahi beberapa rantai, Xenify menawarkan kemampuan yang tidak tertandingi. Didukung oleh protokol agregasi likuiditas generasi lanjut, Xenify terhubung ke 27 aggregator yang berbeda, menghadirkan likuiditas luar biasa dan tarif tak terkalahkan di 50 rantai terkemuka. Apakah Anda ingin menukar token antara Ethereum, Rantai BNB, Polygon, atau banyak lainnya, Xenify membuatnya mudah dan menarik!
-
-Bayangkan skenario ini: Anda ingin memperdagangkan Token-A di Ethereum dengan Token-B di Rantai BNB. Dengan Xenify, yang dibutuhkan hanyalah satu klik dan satu transaksi di Ethereum. Tidak perlu repot-repot menavigasi rantai yang berbeda atau mencari tarif terbaik – Xenify mengurus semuanya, menyediakan tarif paling menguntungkan yang tersedia. Tetapi Xenify lebih dari sekadar pertukaran lintas rantai; Ini adalah ekosistem yang dirancang secara cermat dengan tokenomics unik, menggabungkan model insentif pembaruan yang menguntungkan semua peserta. 
-
-Mekanisme biaya swap bawaan Xenify menciptakan lingkungan timbal balik yang memberi penghargaan kepada pengguna platform dengan XNF sebagai bagian dari siklus hadiah harian, dan pemegang staking XNF dengan 100% biaya swap yang dihasilkan di berbagai rantai yang didukung. Di rantai di mana XNF belum diterapkan, biaya swap digunakan oleh tim untuk mempromosikan dan meningkatkan platform Xenify dan token terkaitnya, memastikan kesadaran dan adopsi yang meluas. 
-
-Begini cara kerjanya: Ketika Anda membayar biaya swap 0,5% untuk melakukan pertukaran di rantai EVM yang didukung di mana XNF telah diterapkan, Anda tidak hanya memfasilitasi transaksi Anda tetapi juga mengamankan posisi dalam siklus hadiah harian XNF untuk rantai tersebut. Pada akhir setiap hari, 100% biaya swap didistribusikan sebagai hadiah rantai asli kepada pemegang staking XNF di rantai tertentu tersebut. Ini berarti Anda tidak hanya memperoleh token XNF berdasarkan kontribusi biaya swap Anda tetapi juga memberi penghargaan kepada pemegang staking XNF dengan token rantai asli. Ini adalah situasi win-win bagi semua yang terlibat.
-
-Lebih dari itu, Xenify menggabungkan mekanisme pembakaran cerdas yang memungkinkan pengguna membakar token XEN dan USDy untuk mencetak XNF. Proses pembakaran XEN bertindak sebagai pembuat pembakaran lapisan 1 strategis, dan inilah bagian menariknya – 100% biaya pembakaran kembali ke pemegang staking XNF. Pendekatan ini tidak hanya mendorong keterlibatan pengguna jangka panjang tetapi juga meningkatkan penghargaan bagi mereka yang sangat terlibat dengan protokol.
-
-Pendekatan inovatif Xenify terhadap staking dan penghargaan, dikombinasikan dengan model tokenomics uniknya, menciptakan ekosistem yang dirancang secara cermat yang menguntungkan semua peserta. Baik Anda menjalankan pertukaran token lintas rantai atau membakar token untuk mencetak XNF, setiap tindakan yang Anda lakukan di platform Xenify berkontribusi pada lingkungan timbal balik hadiah dan keterlibatan. Anda tidak hanya menikmati efisiensi yang belum pernah terjadi sebelumnya saat menukar token di 50 rantai terkemuka, tetapi juga memiliki kesempatan untuk memperoleh token rantai asli setiap hari dan menjadi bagian dari komunitas yang berkembang pesat. Xenify benar-benar menawarkan yang terbaik dari dua dunia: pertukaran token lintas rantai yang lancar dan potensi penghasilan yang signifikan.
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-## ◽️ Aggregator yang Didukung 
+Memperkenalkan Xenify, agregator lintas rantai terbaik dari semua agregator! Dirancang secara ahli untuk menyederhanakan proses pertukaran bagi pengguna yang melintasi banyak rantai, Xenify menawarkan kemampuan yang tak tertandingi. Didukung oleh protokol agregasi likuiditas yang canggih, Xenify terhubung ke 27 agregator yang berbeda, memberikan likuiditas yang luar biasa dan harga yang tidak ada duanya di 50 chain terkemuka. Apakah Anda ingin menukar token antara Ethereum, BNB Chain, Polygon, atau yang lainnya, Xenify membuatnya mudah dan bermanfaat!
 
-| No | Aggregator | Situs Web Aggregator |
-|-|-|-|
+Bayangkan skenario ini: Anda ingin memperdagangkan Token-A di Ethereum untuk Token-B di BNB Chain. Dengan Xenify, yang diperlukan hanyalah satu klik dan satu transaksi di Ethereum. Tidak perlu lagi repot-repot menavigasi rantai yang berbeda atau mencari harga terbaik - Xenify menangani semuanya, memberi Anda harga yang paling menguntungkan yang tersedia. Namun, ada yang lebih dari sekadar pertukaran lintas rantai; Xenify adalah ekosistem yang dirancang dengan cermat dengan tokenomics yang unik, yang menggabungkan model insentif terobosan yang menguntungkan semua peserta.
+
+Mekanisme biaya swap bawaan Xenify menciptakan lingkungan timbal balik yang memberi penghargaan kepada pengguna platform dengan XNF sebagai bagian dari siklus hadiah harian, dan staker XNF dengan 100% biaya swap yang dihasilkan di seluruh chain yang didukung. Pada chain di mana XNF belum digunakan, biaya swap digunakan oleh tim untuk mempromosikan dan meningkatkan platform Xenify dan token terkait, memastikan kesadaran dan adopsi yang luas.
+
+Begini cara kerjanya: Ketika Anda membayar biaya swap 0,5% untuk mengeksekusi swap pada chain EVM yang didukung di mana XNF telah digunakan, Anda tidak hanya memfasilitasi transaksi Anda, tetapi juga mengamankan posisi dalam siklus reward XNF harian untuk chain tersebut. Pada akhir setiap hari, 100% dari biaya swap didistribusikan sebagai reward chain asli kepada pemegang XNF yang di-staking di chain tersebut. Ini berarti Anda tidak hanya mendapatkan token XNF berdasarkan kontribusi biaya swap Anda, tetapi juga memberi hadiah kepada staker XNF dengan token rantai asli. Ini adalah situasi yang saling menguntungkan bagi semua orang yang terlibat.
+
+Terlebih lagi, Xenify menggabungkan mekanisme pembakaran yang cerdik yang memungkinkan pengguna untuk membakar token XEN dan USDy untuk mencetak XNF. Proses pembakaran XEN bertindak sebagai pembakar lapisan 1 yang strategis, dan inilah bagian yang menarik - 100% dari biaya pembakaran kembali ke staker XNF. Pendekatan ini tidak hanya mendorong keterlibatan pengguna dalam jangka panjang, tetapi juga meningkatkan imbalan bagi mereka yang sangat terlibat dalam protokol ini.
+
+Pendekatan inovatif Xenify terhadap staking dan reward, dikombinasikan dengan model tokenomics yang unik, menciptakan ekosistem yang dirancang dengan cermat yang menguntungkan semua peserta. Baik Anda melakukan pertukaran token lintas rantai atau membakar token untuk mencetak XNF, setiap tindakan yang Anda lakukan di platform Xenify berkontribusi pada lingkungan timbal balik penghargaan dan keterlibatan. Anda tidak hanya menikmati efisiensi yang tak tertandingi saat menukar token di 50 chain terkemuka, tetapi juga memiliki peluang untuk mendapatkan token chain asli setiap hari dan menjadi bagian dari komunitas yang berkembang. Xenify benar-benar menawarkan yang terbaik dari kedua dunia: pertukaran token lintas rantai yang mudah dan potensi penghasilan yang signifikan.
+
+<br>
+
+## ◽️ Agregator yang Didukung
+
+| Nomor | Agregator | Situs Web Agregator |
+|-----|-------------------|------------------------------------|
 | 1 | LI.FI | https://li.fi |
-| 2 | 1inch | https://1inch.io |
+| 2 | 1 inci | https://1inch.io |
 | 3 | Exolix | https://exolix.com |
 | 4 | Swing | https://swing.xyz |
 | 5 | Rango | https://rango.exchange |
@@ -372,130 +367,130 @@ Pendekatan inovatif Xenify terhadap staking dan penghargaan, dikombinasikan deng
 
 ## ◽️ Rantai yang Didukung
 
-| No | Jenis Rantai | Nama Rantai | Situs Web Rantai |
-|-|-|-|-|  
-| 1 | Layer 1 | Sui | https://sui.io |
-| 2 | Layer 1 | EOS | https://eosnetwork.com |
-| 3 | Layer 1 | KCC | https://www.kcc.io |
-| 4 | Layer 1 | Fuse | https://fuse.io |
-| 5 | Layer 1 | Tron | https://tron.network |
-| 6 | Layer 1 | Kava | https://www.kava.io |
-| 7 | Layer 1 | Celo | https://celo.org |
-| 8 | Layer 1 | Heco | https://www.hecochain.com |
-| 9 | Layer 2 | Boba | https://boba.network |
-| 10 | Layer 1 | Beam | https://www.beam.mw |
-| 11 | Layer 1 | Velas | https://www.velas.com |
-| 12 | Layer 1 | Telos | https://telos.net |
-| 13 | Layer 1 | Tezos | https://tezos.com |
-| 14 | Layer 2 | Metis | https://metis.io |
-| 15 | Layer 1 | Zcash | https://www.z.cash |
-| 16 | Layer 1 | Canto | https://canto.io | 
-| 17 | Layer 1 | Aptos | https://aptoslabs.com |
-| 18 | Layer 1 | Klaytn | https://www.klaytn.com |
+| Nomor | Jenis Rantai | Nama Rantai | Situs Web Rantai |
+|-----|-------------------|---------------|---------------------------------------|
+| 1 | Lapisan 1 | Sui | https://sui.io |
+| 2 | Lapisan 1 | EOS | https://eosnetwork.com |
+| 3 | Lapisan 1 | KCC | https://www.kcc.io |
+| 4 | Lapisan 1 | Sekering | https://fuse.io |
+| Lapisan 5 | Lapisan 1 | Tron | https://tron.network |
+| 6 | Lapisan 1 | Kava | https://www.kava.io |
+| 7 | Lapisan 1 | Celo | https://celo.org |
+| 8 | Lapisan 1 | Heco | https://www.hecochain.com |
+| 9 | Lapisan 2 | Boba | https://boba.network |
+| 10 | Lapisan 1 | Balok | https://www.beam.mw |
+| 11 | Lapisan 1 | Velas | https://www.velas.com |
+| 12 | Lapisan 1 | Telos | https://telos.net |
+| 13 | Lapisan 1 | Tezos | https://tezos.com |
+| 14 | Lapisan 2 | Metis | https://metis.io |
+| Lapisan 1 | Zcash | https://www.z.cash |
+| 16 | Lapisan 1 | Canto | https://canto.io |
+| 17 | Lapisan 1 | Aptos | https://aptoslabs.com |
+| 18 | Lapisan 1 | Klaytn | https://www.klaytn.com |
 | 19 | Layer 1 | Stellar | https://www.stellar.org |
-| 20 | Layer 1 | Evmos | https://evmos.dev |
-| 21 | Layer 2 | zkSync | https://zksync.io |
-| 22 | Layer 1 | Gnosis | https://gnosis.io |
-| 23 | Layer 1 | Aurora | https://aurora.dev |
+| 20 | Lapisan 1 | Evmos | https://evmos.dev |
+| 21 | Lapisan 2 | zkSync | https://zksync.io |
+| 22 | Lapisan 1 | Gnosis | https://gnosis.io |
+| 23 | Lapisan 1 | Aurora | https://aurora.dev |
 | 24 | Layer 1 | Solana | https://solana.com |
-| 25 | Layer 1 | Ripple | https://ripple.com |
-| 26 | Layer 1 | Bitcoin | https://bitcoin.org |
-| 27 | Layer 1 | Cronos | https://crypto.com/chain |
-| 28 | Layer 1 | Fantom | https://fantom.foundation |
-| 29 | Layer 1 | Filecoin | https://filecoin.io |
-| 30 | Layer 1 | Litecoin | http://litecoin.org |
-| 31 | Layer 1 | Monero | https://www.getmonero.org |
-| 32 | Layer 2 | Polygon | https://polygon.technology |
-| 33 | Layer 1 | Arweave | https://arweave.org |
-| 34 | Layer 1 | Osmosis | https://osmosis.zone |
-| 35 | Layer 1 | Cardano | https://www.cardano.org |
-| 36 | Layer 2 | Arbitrum | https://arbitrum.io |  
-| 37 | Layer 1 | Polkadot | https://polkadot.network |
-| 38 | Layer 1 | Ethereum | https://ethereum.org |
-| 39 | Layer 2 | Optimism | https://optimism.io |
-| 40 | Layer 1 | Avalanche | https://www.avax.network |
-| 41 | Layer 1 | Bitcoin SV | https://bitcoinsv.com |
-| 42 | Layer 1 | BNB Chain | https://www.bnbchain.org |
-| 43 | Layer 2 | PulseChain | https://pulsechain.com |
-| 44 | Layer 1 | OKEx Chain | https://www.okex.com/okexchain |
-| 45 | Layer 1 | Bitcoin Cash | https://www.bitcoincash.org |  
-| 46 | Layer 1 | NEAR Protocol | https://near.org |
-| 47 | Layer 2 | Ethereum PoW | https://ethereumpow.org |
-| 48 | Layer 2 | Polygon zkEVM | https://zkevm.polygon.technology |
+| 25 | Lapisan 1 | Ripple | https://ripple.com |
+| 26 | Lapisan 1 | Bitcoin | https://bitcoin.org |
+| 27 | Lapisan 1 | Cronos | https://crypto.com/chain |
+| 28 | Lapisan 1 | Fantom | https://fantom.foundation |
+| Lapisan 1 | Filecoin | https://filecoin.io |
+| 30 | Lapisan 1 | Litecoin | http://litecoin.org |
+| 31 | Lapisan 1 | Monero | https://www.getmonero.org |
+| 32 | Lapisan 2 | Poligon | https://polygon.technology |
+| 33 | Lapisan 1 | Arweave | https://arweave.org |
+| 34 | Lapisan 1 | Osmosis | https://osmosis.zone |
+| 35 | Lapisan 1 | Cardano | https://www.cardano.org |
+| 36 | Lapisan 2 | Arbitrum | https://arbitrum.io |
+| 37 | Lapisan 1 | Polkadot | https://polkadot.network |
+| 38 | Lapisan 1 | Ethereum | https://ethereum.org |
+| 39 | Lapisan 2 | Optimisme | https://optimism.io |
+| 40 | Lapisan 1 | Longsoran salju | https://www.avax.network |
+| 41 | Lapisan 1 | Bitcoin SV | https://bitcoinsv.com |
+| 42 | Lapisan 1 | Rantai BNB | https://www.bnbchain.org |
+| 43 | Lapisan 2 | PulseChain | https://pulsechain.com |
+| 44 | Lapisan 1 | Rantai OKEx | https://www.okex.com/okexchain |
+| 45 | Lapisan 1 | Bitcoin Cash | https://www.bitcoincash.org |
+| Lapisan 1 | Protokol NEAR | https://near.org |
+| Lapisan 2 | Ethereum PoW | https://ethereumpow.org |
+| 48 | Lapisan 2 | Poligon zkEVM | https://zkevm.polygon.technology |
 | 49 | Parachain | Moonbeam | https://moonbeam.network |
 | 50 | Parachain | Moonriver | https://moonbeam.network/moonriver |
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Tokenomics Xenify
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Xenify Tokenomics
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Xenifiy adalah protokol pembaruan yang menjunjung tinggi keadilan, keberlanjutan, dan keterlibatan pengguna. Di jantung struktur tokenomics-nya terdapat XNF, token asli platform. XNF berfungsi sebagai insentif utama bagi pengguna, dengan pasokan terbatas 22,6 juta. Dengan terlibat dalam berbagai kegiatan protokol seperti membakar, staking dan menukar token, pengguna diberi penghargaan, mendorong ekosistem dinamis di mana manfaat didapatkan berdasarkan kontribusi dan keterlibatan. Dengan desain bijaksana ini, Xenify menjamin lapangan yang sama bagi semua pengguna, menciptakan lingkungan di mana semua orang dapat memetik hasilnya dan meletakkan dasar bagi platform yang adil dan didorong oleh komunitas.
+Xenifiy adalah protokol inovatif yang mengedepankan keadilan, keberlanjutan, dan keterlibatan pengguna. Inti dari struktur tokenomics-nya adalah XNF, token asli platform. XNF berfungsi sebagai insentif utama bagi pengguna, dengan persediaan terbatas sebanyak 22,6 juta. Dengan terlibat dalam banyak aktivitas protokol seperti membakar, mempertaruhkan, dan menukar token, pengguna diberi imbalan, menumbuhkan ekosistem dinamis di mana manfaat bertambah berdasarkan kontribusi dan keterlibatan. Dengan desain yang bijaksana ini, Xenify menjamin lapangan bermain yang setara bagi semua pengguna, menciptakan lingkungan di mana setiap orang dapat menuai manfaat dan meletakkan dasar bagi platform yang adil dan digerakkan oleh komunitas.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Pasokan Token 
+## ◽️ Pasokan Token
 
-XNF adalah nyawa protokol Xenify, dan memiliki total pasokan terbatas 22,6 juta token. Proses distribusi XNF dirancang dengan transparansi dan keadilan dalam pikiran, menjamin lapangan yang sama bagi semua. Tanpa pra-tambang, alokasi investor, alokasi pendiri, atau alokasi tim, protokol Xenify mendorong lingkungan keadilan dan inklusivitas. Pengguna memiliki kesempatan untuk memperoleh ekuitas XNF dengan terlibat dalam berbagai kegiatan, seperti membakar token vXEN atau vUSDy dan menukar token di seluruh rantai yang didukung. Model pasokan token unik ini tidak hanya mempromosikan partisipasi aktif tetapi juga menumbuhkan ekosistem yang berpusat pada komunitas yang dapat diikuti siapa pun. 
+XNF adalah sumber kehidupan protokol Xenify, dan memiliki total pasokan terbatas sebesar 22,6 juta token. Proses distribusi untuk XNF dirancang dengan mempertimbangkan transparansi dan kesetaraan, memastikan lapangan bermain yang setara untuk semua. Tanpa pra-tambang, alokasi investor, alokasi pendiri, atau alokasi tim, protokol Xenify mendorong lingkungan yang adil dan inklusif. Pengguna memiliki kesempatan untuk mendapatkan ekuitas XNF dengan terlibat dalam berbagai aktivitas, seperti membakar token vXEN atau vUSDy dan menukar token di seluruh chain yang didukung. Model pasokan token yang unik ini tidak hanya mendorong partisipasi aktif, tetapi juga menumbuhkan ekosistem yang berkembang dan berfokus pada komunitas sehingga semua orang dapat menjadi bagian darinya.
 
 <br>
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
-  </picture>
+  <gambar>
 </p>
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Distribusi Pasokan
 
-Dengan total pasokan terbatas 22,6 juta token XNF, yang secara strategis dibagi menjadi tiga segmen inti, Xenify sengaja dirancang untuk memberi penghargaan kepada peserta aktif sambil mempromosikan ekosistem yang seimbang:
+Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strategis dibagi menjadi tiga segmen inti, Xenify telah dirancang dengan sengaja untuk memberi penghargaan kepada peserta aktif sambil mempromosikan ekosistem yang seimbang:
 
-- **21.000.000 XNF dialokasikan untuk lelang harian:** Pengguna yang berpartisipasi dalam berbagai kegiatan yang meningkatkan pengembangan protokol yang sedang berlangsung akan memiliki kesempatan untuk mendapatkan bagian dari token XNF yang dialokasikan untuk lelang harian.
+- 21.000.000 XNF ditugaskan untuk lelang harian:** Pengguna yang berpartisipasi dalam berbagai kegiatan yang mendukung pengembangan protokol yang sedang berlangsung akan memiliki kesempatan untuk mendapatkan bagian dari token XNF yang didedikasikan untuk lelang harian.
 
-  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang melakukan pembakaran langsung vXEN dan vUSDy. Selama setiap siklus, jika tidak ada yang memulai proses pembakaran, alokasi XNF yang sesuai tidak akan dicetak. Mekanisme kelangkaan ini mengurangi total pasokan XNF, berkontribusi pada potensi peningkatan nilainya.
+  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang melakukan pembakaran langsung vXEN dan vUSDy. Selama setiap siklus, jika tidak ada yang memulai proses pembakaran, alokasi XNF yang sesuai tidak akan dicetak. Mekanisme yang digerakkan oleh kelangkaan ini mengurangi total pasokan XNF, yang berkontribusi pada potensi peningkatan nilainya.
 
-  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang terlibat dalam pertukaran di rantai EVM yang didukung. Jika tidak ada pertukaran yang terjadi selama satu siklus, alokasi XNF yang sesuai tidak akan dicetak. Ini juga mengurangi total pasokan XNF, meningkatkan kelangkaan dan potensi nilainya.
-  
-- **100.000 XNF dialokasikan untuk pembuatan likuiditas XNF:** Untuk memfasilitasi ini, kami telah menyisihkan 50.000 XNF untuk Manajer Biaya Cetak vXEN dan 50.000 XNF tambahan untuk Manajer Biaya Cetak vUSDy. Setiap kali pengguna berpartisipasi dalam pembakaran harian vXEN atau vUSDy mereka akan berkontribusi pada proliferasi likuiditas XNF. Inisiatif ini meningkatkan kesehatan keseluruhan protokol dan mendorong pool likuiditas yang kuat bagi komunitas kami.
+  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Jika tidak ada swap yang terjadi selama satu siklus, alokasi XNF yang sesuai tidak akan dicetak. Hal ini juga mengurangi total pasokan XNF, meningkatkan kelangkaan dan nilai potensialnya.
 
-- **1.500.000 XNF dialokasikan sebagai airdrop eksklusif untuk peserta swap:** Untuk mendorong keterlibatan, setiap rantai akan memiliki airdrop eksklusif 1.500.000 XNF untuk pengguna yang melakukan swap sebelum penerapan XNF. Airdrop akan berlangsung pada hari pertama peluncuran, dan akan didistribusikan sebagai token terkunci, yang akan terbuka secara bertahap selama 730 hari.
-  
-Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip halving. Seperti yang diilustrasikan dalam grafik yang menyertai di bawah ini, setelah halving ke-7, laju alokasi cetak harian Xenify stabil, memastikan output konsisten 156,25 XNF token per hari hingga pasokan maksimum tercapai di bulan 2112. Strategi inovatif ini dirancang secara matang untuk memastikan distribusi pasokan yang adil berpusat pada partisipasi pengguna jangka panjang, menyoroti komitmen Xenify yang tak tergoyahkan untuk memupuk ekosistem yang seimbang dan komunitas yang terlibat.
+- 100.000 XNF ditugaskan untuk penciptaan likuiditas XNF:** Untuk memfasilitasi hal ini, kami telah menyisihkan 50.000 XNF untuk Manajer Biaya Mint vXEN dan 50.000 XNF tambahan untuk Manajer Biaya Mint vUSDy. Setiap kali pengguna berpartisipasi dalam pembakaran harian vXEN atau vUSDy, mereka akan berkontribusi pada proliferasi likuiditas XNF. Inisiatif ini meningkatkan kesehatan protokol secara keseluruhan dan mendorong kumpulan likuiditas yang kuat untuk komunitas kami.
 
-<br> 
+- 1.500.000 XNF ditugaskan sebagai airdrop eksklusif untuk peserta swap:** Untuk mendorong keterlibatan, setiap rantai akan memiliki airdrop eksklusif sebesar 1.500.000 XNF untuk pengguna yang melakukan swap sebelum penerapan XNF. Airdrop akan berlangsung pada hari pertama peluncuran, dan akan didistribusikan sebagai token yang terkunci, secara bertahap dibuka selama 730 hari.
+
+Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip halving. Seperti yang diilustrasikan dalam grafik yang menyertai di bawah ini, setelah pembagian ke-7, tingkat alokasi mint harian Xenify menjadi stabil, memastikan hasil yang konsisten sebesar 156,25 XNF token per hari hingga pasokan maksimum tercapai pada bulan 2112. Strategi inovatif ini telah dirancang dengan cermat untuk memastikan distribusi pasokan yang adil yang berpusat pada partisipasi pengguna jangka panjang, menyoroti komitmen teguh Xenify untuk membina ekosistem yang seimbang dan komunitas yang terlibat.
+
+<br>
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
-  </picture>
+  <gambar>
 </p>
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Penerapan yang Telah Dikonfirmasi
+## ◽️ Penerapan Terkonfirmasi
 
-- Penerapan Awal > Rantai BNB
+- Penyebaran Kejadian > Rantai BNB
 - Penerapan Kedua > Ethereum
-- Penerapan Ketiga > Polygon
-  
-<br>  
+- Penerapan Ketiga > Poligon
 
-## ◽️ Potensi Rantai Ekspansi  
+<br>
 
-Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockchain untuk langkah besar berikutnya. Daftar rantai yang sedang kami teliti saat ini cukup beragam, dari raksasa seperti Arbitrum dan Avalanche hingga rantai baru seperti zkSync dan PulseChain, pilihan tidak kurang. Daftar lengkapnya meliputi:
+## ◽️ Rantai Ekspansi Potensial
 
-- KCC  
+Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain untuk langkah besar berikutnya. Daftar chain yang sedang kami periksa saat ini cukup beragam, mulai dari kelas berat seperti Arbitrum dan Avalanche hingga anak-anak baru di blockchain seperti zkSync dan PulseChain, tidak ada kekurangan pilihan. Daftar lengkapnya meliputi:
+
+- KCC
 - Celo
-- Fuse
+- Sekering
 - Boba
 - Heco
 - Telos
@@ -509,31 +504,31 @@ Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockch
 - Gnosis
 - zkSync
 - Cronos
-- Fantom  
-- Polygon
+- Fantom
+- Poligon
 - Arbitrum
-- Optimism
-- Avalanche
+- Optimisme
+- Longsor
 - Moonriver
-- OKX Chain
+- Rantai OKX
 - PulseChain
-- Moonbeam
+- Sinar Bulan
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Pool Likuiditas XNF Saat Diterapkan  
+## ◽️ XNF Kumpulan Likuiditas Saat Digunakan
 
 <br>
 
 | Nama Rantai | Nama DEX | Pasangan Likuiditas |
-|-|-|-|
+| ------------------ | ----------------------------------------------------- | ------------------- |
 | KCC | [MojitoSwap](https://www.mojitoswap.finance) | kXNF-KCS |
 | Celo | [Uniswap V3](https://app.uniswap.org) | cXNF-CELO |
-| Fuse | [SushiSwap](https://www.sushi.com) | fXNF-FUSE |  
+| Fuse | [SushiSwap](https://www.sushi.com) | fXNF-FUSE |
 | Boba | [SushiSwap](https://www.sushi.com) | boXNF-BOBA |
 | Heco | [MDEX](https://mdex.com) | hcXNF-HT |
 | Telos | [ApeSwap](https://apeswap.finance) | tXNF-TELOS |
-| Velas | [Wavelength](https://app.wavelength.exchange) | veXNF-VLX |
+| Velas | [Panjang gelombang](https://app.wavelength.exchange) | veXNF-VLX |
 | Metis | [Hummus Exchange](https://www.hummus.exchange) | meXNF-METIS |
 | Canto | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO |
 | Klaytn | [KlaySwap](https://klayswap.com) | kXNF-KLAY |
@@ -543,10 +538,10 @@ Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockch
 | zkSync | [SyncSwap](https://syncswap.xyz) | zkXNF-ETH |
 | Cronos | [VVS Finance](https://vvs.finance) | crXNF-CRO |
 | Fantom | [SpookySwap](https://spooky.fi) | fmXNF-FTM |
-| Polygon | [Uniswap V3](https://app.uniswap.org) | mXNF-MATIC |  
+| Polygon | [Uniswap V3](https://app.uniswap.org) | mXNF-MATIC |
 | Arbitrum | [Uniswap V3](https://app.uniswap.org) | aXNF-ETH |
 | Ethereum | [Uniswap V3](https://app.uniswap.org) | XNF-ETH |
-| Optimism | [Uniswap V3](https://app.uniswap.org) | oXNF-ETH |
+| Optimisme | [Uniswap V3](https://app.uniswap.org) | oXNF-ETH |
 | Avalanche | [Trader Joe](https://traderjoexyz.com) | avXNF-AVAX |
 | Moonriver | [Solarbeam](https://app.solarbeam.io/exchange/swap) | mrXNF-MOVR |
 | OKX Chain | [OKExSwap](https://www.okex.com/swap) | okXNF-OKT |
@@ -554,901 +549,901 @@ Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockch
 | Rantai BNB | [ApeSwap](https://apeswap.finance) | bXNF-BNB |
 | PulseChain | [PulseX](https://pulsex.com) | pXNF-PLS |
 | Ethereum PoW | [Uniwswap](https://uniwswap.com) | vvXNF-WETH |
-| Polygon zkEVM | [Quickswap](https://quickswap.exchange) | mkXNF-MATIC | 
+| Polygon zkEVM | [Quickswap](https://quickswap.exchange) | mkXNF-MATIC |
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Proses Pencetakan XNF dan Insentif  
+## ◽️ XNF Proses Pencetakan dan Insentif
 
-- Proses pencetakan XNF dalam Xenify telah dirancang secara cermat untuk memberi penghargaan kepada pengguna yang secara aktif terlibat dan berkontribusi pada pertumbuhan protokol. Inisiatif ini memastikan distribusi XNF yang adil dan mendorong protokol yang benar-benar terdesentralisasi dan didorong oleh komunitas.
+  - Proses pencetakan XNF di dalam Xenify telah disusun dengan cermat untuk memberi penghargaan kepada pengguna yang secara aktif terlibat dan berkontribusi pada pertumbuhan protokol. Inisiatif ini memastikan distribusi token XNF yang adil dan mendorong protokol yang benar-benar terdesentralisasi dan digerakkan oleh komunitas.
 
-- Model insentif Xenify dirancang dengan hati-hati, menawarkan penghargaan proporsional kepada pengguna yang meningkatkan keterlibatan mereka dengan platform. Pendekatan seperti ini mendorong partisipasi lebih lanjut, karena pengguna berpeluang memperoleh token XNF baru sesuai dengan aktivitas mereka di platform.  
+  - Model insentif Xenify dibuat dengan hati-hati, menawarkan imbalan yang proporsional kepada pengguna yang mengintensifkan keterlibatan mereka dengan platform. Pendekatan semacam itu mendorong partisipasi lebih lanjut, karena pengguna dapat memperoleh token XNF yang baru dicetak relatif terhadap aktivitas platform mereka.
 
-- Distribusi token XNF mengikuti siklus satu hari, dimulai dengan pool hadiah 20.000 token XNF. Alokasi harian ini dibagi rata: 50% didistribusikan kepada pengguna yang membakar token vXEN atau vUSDy, dengan 50% sisanya dipesan untuk kontributor biaya swap platform. Alokasi harian ini akan berlaku di semua rantai penerapan masa depan juga. Melalui implementasi model halving, jumlah pencetakan harian secara bertahap berkurang, bermuara pada distribusi total 22,6 juta token XNF pada bulan 2112.
+  - Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah 20.000 token XNF. Alokasi harian ini dibagi secara merata: 50% didistribusikan kepada pengguna yang membakar token vXEN atau vUSDy, dengan 50% sisanya dicadangkan untuk kontributor biaya swap platform. Alokasi harian ini juga akan berlaku untuk semua rantai penyebaran di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2112.
 
-- Pengguna lebih dimotivasi melalui mekanisme staking platform, yang memungkinkan mereka mengakumulasi hadiah dalam bentuk token asli rantai tertentu, seperti ETH di rantai Ethereum. Hadiah ini dihasilkan dari berbagai aktivitas dalam Xenify, khususnya dari biaya swap dan biaya bakar.
+  - Pengguna diberi insentif lebih lanjut melalui mekanisme staking platform, yang memungkinkan mereka untuk mengakumulasi hadiah dalam bentuk token asli khusus rantai, seperti ETH pada rantai Ethereum. Imbalan ini dihasilkan dari berbagai aktivitas di dalam Xenify, khususnya dari biaya swap dan biaya pembakaran.
 
-- Model insentif bertingkat tiga unik mendorong pengguna menggunakan Xenify untuk mendapatkan XNF, sekaligus memberi penghargaan kepada mereka yang men-staking dan mengunci token XNF mereka. Ini beroperasi sebagai roda, mendorong pertumbuhan Xenify jangka panjang sambil menumbuhkan sistem penghargaan yang dinamis dan berkelanjutan yang memotivasi basis pengguna yang terus berkembang.
+  - Model insentif tiga tingkat yang unik mendorong pengguna untuk menggunakan Xenify untuk mendapatkan XNF, sementara juga memberi penghargaan kepada mereka yang melakukan staking dan mengunci token XNF mereka. Hal ini beroperasi sebagai roda gila, mendorong pertumbuhan jangka panjang Xenify sambil mengembangkan sistem penghargaan yang dinamis dan berkelanjutan yang memberi insentif kepada basis pengguna yang terus berkembang.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Bakar untuk mendapatkan XNF
 
-- Xenify memberdayakan pengguna untuk dengan mudah membakar token XEN atau token asli YSL.IO langsung dari dompet mereka untuk berpartisipasi dalam siklus pembakaran harian. Mekanisme pembakaran unik ini mengintegrasikan dua token khusus yang dikenal sebagai vXEN dan vUSDy, rekan virtual dari token XEN dan token asli YSL.IO. Token-token ini memiliki tujuan tertentu - untuk memfasilitasi pencetakan token XNF melalui proses pembakaran. Akibatnya, pengguna dapat terlibat dalam siklus pembakaran harian, terlepas dari varian token XEN atau varian YSL.IO yang mereka miliki. Mekanisme pembakaran ini melampaui sekadar mengurangi pasokan beredar dari token XEN dan token asli YSL.IO; ini mewujudkan pendekatan strategis yang menyatukan komunitas YSL.IO dan komunitas XEN yang lebih luas di semua rantai, memupuk visi bersama yang menyatukan kedua ekosistem.
+  - Xenify memberdayakan pengguna untuk dengan mudah membakar token XEN atau token asli YSL.IO mereka langsung dari dompet mereka untuk berpartisipasi dalam siklus pembakaran harian. Mekanisme pembakaran yang unik ini mengintegrasikan dua token khusus yang dikenal sebagai vXEN dan vUSDy, masing-masing merupakan token virtual dari token XEN dan token asli YSL.IO. Token-token ini memiliki tujuan khusus - untuk memfasilitasi pencetakan token XNF melalui proses pembakaran. Akibatnya, pengguna dapat terlibat dalam siklus pembakaran harian, terlepas dari varian token XEN atau varian YSL.IO yang mereka miliki. Mekanisme pembakaran ini lebih dari sekadar mengurangi pasokan token XEN dan token asli YSL.IO yang beredar; mekanisme ini mewujudkan pendekatan strategis yang menyatukan komunitas YSL.IO dan komunitas XEN yang lebih luas di semua rantai, menumbuhkan visi bersama yang menyatukan kedua ekosistem.
 
-- Untuk mendapatkan vXEN, Anda perlu membakar varian token XEN yang didukung rantai tersebut, seperti bXEN di Rantai BNB. Fungsi bakar ini memposisikan protokol sebagai pemain penting dalam pembakaran lapisan 1 strategis XEN token. Ini berarti, setiap kali Anda membakar varian token XEN asli Anda, alamat Anda akan ditambahkan ke catatan pembakaran X1, dan sebagai imbalannya, Anda akan mendapatkan vXEN. Harap diingat bahwa mengeksekusi pembakaran ini akan menimbulkan Biaya Cetak vXEN. Selama proses pembakaran, varian token XEN yang Anda berikan akan dibakar (secara permanen dihapus dari peredaran) dan Biaya Cetak vXEN digunakan oleh Manajer Biaya Cetak untuk membuat likuiditas milik protokol untuk XNF dan XEN. Jumlah batch vXEN yang diperoleh dari proses pembakaran ini akan bervariasi berdasarkan nilai pasar saat ini dari varian token XEN spesifik yang Anda pilih untuk dibakar.
+  - Untuk mendapatkan vXEN, Anda harus membakar varian token XEN yang didukung oleh chain tersebut, seperti bXEN pada BNB Chain. Fungsi pembakaran ini memposisikan protokol sebagai pemain kunci dalam pembakaran lapisan 1 strategis token XEN. Ini berarti, setiap kali Anda membakar varian token asli XEN Anda, alamat Anda akan ditambahkan ke catatan pembakaran X1, dan sebagai gantinya, Anda akan mendapatkan vXEN. Harap diingat bahwa untuk melakukan pembakaran ini akan dikenakan Biaya Mint vXEN. Selama proses pembakaran, varian token XEN yang Anda berikan akan dibakar (dihapus secara permanen dari peredaran) dan Biaya Koin Mint vXEN digunakan oleh Manajer Biaya Koin untuk menciptakan likuiditas milik protokol untuk XNF dan XEN. Jumlah batch vXEN yang diperoleh dari proses pembakaran ini akan bervariasi berdasarkan nilai pasar saat ini dari varian token XEN tertentu yang Anda pilih untuk dibakar.
 
-- Begitu Anda memiliki vXEN, Anda dapat berpartisipasi dalam distribusi harian Xenify akan token XNF di rantai mana pun di mana XNF telah diterapkan dengan berpartisipasi dalam lelang bakar rantai tertentu. Harap diingat bahwa mengeksekusi proses pembakaran vXEN Anda akan menimbulkan Biaya Bakar. Selama proses ini, vXEN akan secara permanen dihapus dari peredaran, dengan biaya yang disisihkan sebagai hadiah bagi pemegang staking XNF.
+  - Setelah Anda memiliki vXEN, Anda dapat berpartisipasi dalam distribusi harian token XNF Xenify di chain mana pun yang telah menggunakan XNF dengan berpartisipasi dalam lelang burn chain tertentu. Harap diingat bahwa dengan melakukan proses pembakaran vXEN, Anda akan dikenakan Biaya Pembakaran.  Selama proses ini, vXEN akan dihapus secara permanen dari peredaran, dengan biaya disisihkan sebagai hadiah untuk staker XNF.
 
-- Demikian pula, pemegang token asli YSL.IO (bYSL, xYSL, atau USDy) dapat secara aktif terlibat dalam lelang pembakaran harian dengan mendapatkan vUSDy. Mirip dengan proses pembakaran XEN, mengeksekusi pembakaran token asli YSL.IO Anda akan memerlukan Biaya Cetak vUSDy. Selama proses ini, varian token YSL.IO yang Anda berikan akan secara permanen dihapus dari peredaran dan Biaya Cetak vUSDy digunakan oleh Manajer Biaya Cetak untuk membuat likuiditas milik protokol XNF dan likuiditas milik kas USDy untuk YSL.IO.
+  - Demikian juga, pemegang token asli YSL.IO (bYSL, xYSL, atau USDy) dapat secara aktif mengikuti lelang pembakaran harian dengan memperoleh vUSDy. Mirip dengan proses pembakaran XEN, mengeksekusi pembakaran token asli YSL.IO Anda akan membutuhkan Biaya Mint vUSDy. Selama proses ini, varian token YSL.IO yang Anda berikan akan dihapus secara permanen dari peredaran dan Biaya Mint vUSDy akan digunakan oleh Manajer Biaya Mint untuk membuat likuiditas milik protokol XNF dan likuiditas milik treasury USDy untuk YSL.IO.
 
-- Begitu Anda memiliki vUSDy, Anda dapat berpartisipasi dalam distribusi harian Xenify akan token XNF di rantai mana pun di mana XNF telah diterapkan dengan berpartisipasi dalam lelang bakar rantai tertentu. Mirip dengan proses pembakaran vXEN, mengeksekusi pembakaran vUSDy menimbulkan Biaya Bakar. Proses ini secara permanen menghapus token vUSDy dari peredaran, dengan biaya yang dikumpulkan berfungsi sebagai hadiah bagi pemegang staking XNF. Penting untuk dicatat bahwa tingkat konversi untuk vUSDy tetap, namun bergantung pada token asli YSL.IO spesifik yang Anda pilih untuk ditukarkan.
+  - Setelah Anda memperoleh vUSDy, Anda dapat berpartisipasi dalam distribusi harian token XNF Xenify di chain mana pun yang telah menggunakan XNF dengan berpartisipasi dalam lelang burn chain tertentu. Mirip dengan proses pembakaran vXEN, mengeksekusi pembakaran vUSDy akan dikenakan Biaya Pembakaran. Proses ini secara permanen menghapus token vUSDy dari peredaran, dengan biaya yang terkumpul berfungsi sebagai hadiah untuk staker XNF. Penting untuk diperhatikan bahwa nilai konversi untuk vUSDy tetap, tetapi bergantung pada token asli YSL.IO yang Anda pilih untuk ditukar.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Swap untuk mendapatkan XNF
+## ♦️ Tukar untuk mendapatkan XNF
 
-- Xenify mendefinisikan ulang permainan dengan platform pembaruan yang memungkinkan transaksi lintas rantai satu klik yang lancar di 50 rantai, sekaligus memberi pemegang staking kesempatan menarik untuk mendapatkan token rantai asli setiap hari berdasarkan XNF yang di-staking mereka.
+  - Xenify mendefinisikan ulang permainan dengan platform inovatif yang memungkinkan transaksi lintas rantai satu klik tanpa hambatan di 50 rantai, sambil memberikan kesempatan menarik bagi para stakers untuk mendapatkan token rantai asli setiap hari.
 
-- Setiap kali pengguna membayar biaya swap 0,5% di rantai di mana XNF telah diterapkan, mereka diberi penghargaan dengan token XNF melalui lelang swap harian. Keunggulan unik ini memungkinkan pengguna menikmati pengalaman pertukaran yang lancar sambil secara bersamaan mengakumulasi token XNF. 
+  - Setiap kali pengguna membayar biaya swap 0,5% pada chain di mana XNF telah digunakan, mereka akan mendapatkan token XNF melalui lelang swap harian. Keuntungan unik ini memungkinkan pengguna untuk menikmati pengalaman swap yang mudah sambil mengumpulkan token XNF secara bersamaan.
 
-- Tetapi, hadiahnya tidak berhenti di sana. Dengan men-staking token XNF ini, pengguna memiliki kesempatan untuk meraup token rantai asli seperti BNB, ETH, dan MATIC secara harian. Hadiah rantai asli ini berasal dari beberapa sumber, termasuk biaya swap dan biaya bakar. Akibatnya, pengguna tidak hanya dapat menikmati efisiensi dan tarif kompetitif yang ditawarkan Xenify tetapi juga mendapatkan akses ke sistem penghargaan yang dinamis dan berkelanjutan yang meningkatkan portofolio mereka.  
+  - Namun, imbalannya tidak berhenti sampai di situ. Dengan mempertaruhkan token XNF ini, pengguna memiliki kesempatan untuk meraup token rantai asli seperti BNB, ETH, dan MATIC setiap hari. Reward rantai asli ini berasal dari berbagai sumber, termasuk biaya swap dan biaya pembakaran. Hasilnya, pengguna tidak hanya dapat menikmati efisiensi dan harga kompetitif yang ditawarkan Xenify, tetapi juga mendapatkan akses ke sistem reward yang dinamis dan berkelanjutan yang meningkatkan portofolio mereka.
 
-- Dengan berpartisipasi dalam pertukaran token dengan Xenify, pengguna memainkan peran penting dalam mendorong pertumbuhan platform. Biaya swap yang dihasilkan di rantai di mana XNF telah diterapkan didistribusikan di antara para pemegang staking XNF di rantai tertentu tersebut. Untuk rantai di mana XNF belum diterapkan, biaya swap digunakan oleh tim untuk mendukung upaya promosi dan mengembangkan Xenify dan token terkaitnya. Ini mendorong kesadaran yang lebih besar dan adopsi yang lebih luas dari platform, yang menguntungkan seluruh komunitas.
+  - Dengan berpartisipasi dalam pertukaran token dengan Xenify, pengguna memainkan peran penting dalam mendorong pertumbuhan platform. Biaya swap yang dihasilkan pada chain di mana XNF telah digunakan didistribusikan di antara staker XNF pada chain tertentu. Untuk chain di mana XNF belum digunakan, biaya swap digunakan oleh tim untuk mendukung upaya promosi dan memajukan pengembangan Xenify dan token afiliasinya. Hal ini menumbuhkan kesadaran yang lebih besar dan adopsi platform yang lebih luas, sehingga menguntungkan seluruh komunitas.
 
-- Selain itu, dengan terlibat dalam pertukaran di salah satu dari 50 rantai yang didukung, pengguna memenuhi syarat untuk mendapatkan airdrop eksklusif 1.500.000 XNF. Setiap acara airdrop berlangsung di rantai di mana XNF dijadwalkan akan diterapkan dan berlangsung selama 60 hari sebelum peluncuran. Semua pertukaran yang dilakukan selama periode ini menjamin pengguna bagian dari airdrop XNF yang akan datang. Dengan kata lain, meskipun Anda tidak mendapatkan alokasi XNF harian saat melakukan pertukaran di rantai di mana XNF belum diterapkan, Anda tetap memiliki kesempatan untuk dimasukkan dalam airdrop XNF eksklusif.
+  - Selain itu, dengan melakukan swap di salah satu dari 50 chain yang didukung, pengguna berhak mendapatkan airdrop eksklusif sebesar 1.500.000 XNF. Setiap acara airdrop berlangsung di chain di mana XNF dijadwalkan untuk digunakan dan berlangsung selama 60 hari sebelum peluncuran. Semua swap yang dilakukan selama periode ini menjamin pengguna mendapatkan bagian dari airdrop XNF yang akan datang. Dengan kata lain, meskipun Anda tidak mendapatkan keuntungan dari alokasi XNF harian saat Anda melakukan swap pada chain di mana XNF belum digunakan, Anda masih memiliki kesempatan untuk diikutsertakan dalam airdrop XNF eksklusif.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Staking XNF untuk mendapatkan token asli
+## ♦️ Stake XNF untuk mendapatkan token asli
 
-- Membedakan dirinya dari aggregator generik, Xenify berbangga dengan model insentif avant-garde yang memberdayakan pengguna platform untuk melakukan pertukaran lancar dan memulai perjalanan yang menarik dengan mendapatkan hadiah setiap siklus berdasarkan XNF yang di-staking mereka. Hadiah ini didistribusikan dalam bentuk token rantai asli—aset yang sangat likuid—menandakan potensi pengembalian yang menguntungkan bagi pengguna yang men-staking XNF.
+  - Membedakan dirinya dari agregator umum, Xenify bangga dengan model insentif avant-garde yang memberdayakan pengguna platform untuk melakukan pertukaran tanpa batas dan memulai perjalanan yang bermanfaat dengan mendapatkan hadiah setiap siklus berdasarkan XNF yang mereka pertaruhkan. Imbalan ini didistribusikan dalam bentuk token rantai asli - aset yang sangat likuid - yang menandakan potensi keuntungan yang menguntungkan bagi pengguna yang mempertaruhkan XNF.
 
-- Pemegang staking XNF memainkan peran penting dalam pertumbuhan Xenify jangka panjang, dan sebagai imbalannya menuai manfaatnya. Untuk rantai di mana XNF telah diterapkan, pemegang staking menikmati token asli yang dihasilkan dari biaya swap di semua rantai EVM yang didukung pada akhir setiap siklus. Seiring Xenify terus memperluas jangkauannya, jumlah volume swap yang meningkat dijamin, dengan pengguna yang ingin memanfaatkan pengalaman pertukaran lancar sambil mendapatkan XNF pada setiap pertukaran yang mereka lakukan. Akibatnya, pemegang staking XNF mendapatkan peningkatan hadiah! Model adil ini membentuk loop umpan balik positif, menjamin semua peserta mendapatkan manfaat dari pertumbuhan ekosistem sebanding dengan keterlibatan mereka.
+  - Staker XNF memainkan peran penting dalam pertumbuhan jangka panjang Xenify, dan sebagai gantinya menuai manfaat. Untuk chain yang menggunakan XNF, stakers menikmati token asli yang dihasilkan dari biaya swap di semua chain EVM yang didukung di akhir setiap siklus. Karena Xenify terus memperluas jangkauannya, jumlah volume swap yang meningkat dijamin, dengan pengguna yang ingin mendapatkan keuntungan dari pengalaman swap yang mulus sambil mendapatkan XNF pada setiap swap yang mereka lakukan. Akibatnya, XNF stakers mendapatkan keuntungan dari peningkatan reward! Model yang adil ini membentuk lingkaran umpan balik yang positif, menjamin semua peserta mendapatkan keuntungan dari pertumbuhan ekosistem yang sebanding dengan keterlibatan mereka.
 
-- Selain biaya swap, pemegang staking XNF di rantai di mana XNF telah diterapkan, juga akan mendapatkan token asli pada akhir setiap siklus yang dihasilkan dari biaya bakar. Dengan XNF mengadopsi model halving dan 50% dari alokasi harian dipesan untuk mereka yang membakar vXEN dan vUSDy, berpartisipasi dalam lelang pembakaran harian adalah salah satu cara untuk mengamankan posisi XNF yang besar. Semakin banyak pengguna membakar vXEN dan vUSDy untuk mendapatkan XNF, bukan hanya pemegang staking XNF yang diuntungkan dari peningkatan hadiah melalui biaya bakar, tetapi likuiditas XNF juga berproliferasi melalui biaya cetak. Implementasi siklus pembakaran inovatif ini menciptakan loop umpan balik positif lainnya, memastikan seluruh ekosistem mendapat manfaat dari keterlibatan pengguna.
+  - Selain biaya swap, staker XNF di chain tempat XNF digunakan, juga akan mendapatkan token asli di akhir setiap siklus yang dihasilkan dari biaya pembakaran. Dengan XNF yang mengadopsi model halving dan 50% dari mint harian yang disediakan untuk mereka yang membakar vXEN dan vUSDy, berpartisipasi dalam lelang pembakaran harian adalah salah satu dari sedikit cara untuk mengamankan posisi XNF yang cukup besar. Karena semakin banyak pengguna yang membakar vXEN dan vUSDy untuk mendapatkan XNF, staker XNF tidak hanya mendapatkan keuntungan dari peningkatan reward melalui biaya burn, tetapi likuiditas XNF juga berkembang biak melalui biaya mint. Implementasi siklus pembakaran yang inovatif ini menciptakan lingkaran umpan balik positif lainnya, memastikan seluruh ekosistem mendapat manfaat dari keterlibatan pengguna.
 
-- Model staking inovatif Xenify memungkinkan pengguna men-staking token XNF mereka untuk kesempatan menerima aliran tetap penghargaan luar biasa dalam bentuk Hadiah Rantai Asli. Model distribusi hadiah yang khas ini tidak hanya memperkuat permintaan dan nilai XNF, tetapi juga berfungsi sebagai insentif tambahan bagi pemegang untuk men-staking distribusi XNF harian mereka. Strategi ini telah diintegrasikan untuk mendorong keterlibatan jangka panjang dengan protokol, sambil menumbuhkan basis pengguna yang terus berkembang.
+  - Model staking inovatif Xenify memungkinkan pengguna untuk mempertaruhkan token XNF mereka untuk mendapatkan kesempatan menerima aliran hadiah luar biasa dalam bentuk Hadiah Rantai Asli. Model distribusi hadiah yang khas ini tidak hanya memperkuat permintaan dan nilai XNF, tetapi juga berfungsi sebagai insentif tambahan bagi pemegang untuk mempertaruhkan distribusi XNF harian mereka. Strategi ini telah diintegrasikan untuk mendorong keterlibatan jangka panjang dengan protokol, sambil menumbuhkan basis pengguna yang terus berkembang.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Biaya Pertukaran di Xenify
+## ◽️ Biaya Menukar di Xenify
 
-Xenify menawarkan solusi pertukaran token pembaruan yang tidak hanya menyederhanakan transaksi lintas rantai tetapi juga memberi penghargaan kepada penggunanya, sekaligus memupuk perluasan ekosistemnya. Melalui biaya 0,5% pada setiap pertukaran token, Xenify dapat mencapai tiga tujuan penting: memberi penghargaan kepada pengguna platform dengan token XNF, menyediakan hadiah rantai asli kepada pemegang staking XNF, dan memastikan pengembangan protokol yang berkelanjutan.
+Xenify menawarkan solusi token swap inovatif yang tidak hanya menyederhanakan transaksi lintas rantai tetapi juga memberi penghargaan kepada para penggunanya, sambil memupuk perluasan ekosistemnya. Melalui biaya 0,5% untuk setiap pertukaran token, Xenify dapat mencapai tiga tujuan penting: memberi penghargaan kepada pengguna platformnya dengan token XNF, memberikan hadiah rantai asli kepada staker XNF, dan memastikan pengembangan protokol yang berkelanjutan.
 
-Begini cara kerjanya: Ketika pengguna memulai pertukaran token di Xenify, mereka membayar biaya swap 0,5%. Biaya ini dialokasikan secara strategis untuk mendorong pertumbuhan masa depan dan memotivasi keterlibatan pengguna. Di rantai di mana XNF telah berhasil diterapkan, 100% biaya swap akan didistribusikan di antara pemegang staking XNF sebagai hadiah harian dalam bentuk token rantai asli. Adapun rantai lain di mana XNF belum diterapkan atau selama acara airdrop, biaya swap akan dialokasikan ke tim untuk meningkatkan pengembangan Xenify yang sedang berlangsung, pemasaran, dan upaya penjangkauan.
+Begini cara kerjanya: Ketika pengguna memulai pertukaran token di Xenify, mereka membayar biaya pertukaran sebesar 0,5%. Biaya ini dialokasikan secara strategis untuk mendorong pertumbuhan di masa depan dan memberi insentif pada keterlibatan pengguna. Pada chain di mana XNF telah berhasil digunakan, 100% dari biaya swap akan didistribusikan di antara staker XNF sebagai hadiah harian dalam bentuk token chain asli. Sedangkan untuk chain lain di mana XNF belum digunakan atau selama acara airdrop, biaya swap akan dialokasikan ke tim untuk mendukung upaya pengembangan, pemasaran, dan penjangkauan Xenify yang sedang berlangsung.
 
-Tetapi inilah bagian menariknya, dengan membayar biaya swap nominal 0,5% di rantai di mana XNF diterapkan, Anda tidak hanya mempercepat transaksi Anda tetapi juga mengamankan alokasi XNF dari siklus cetak harian protokol. Token XNF ini dapat di-staking untuk membuka keuntungan yang lebih besar dari token asli yang didistribusikan pada akhir setiap siklus harian. Akibatnya, pengguna platform mendapatkan manfaat dari efisiensi dan tarif kompetitif Xenify, sekaligus mendapatkan hadiah dan secara aktif membentuk evolusi ekosistem Xenify yang dinamis. 
+Namun inilah bagian yang menarik, dengan membayar biaya swap 0,5% nominal pada chain yang menggunakan XNF, Anda tidak hanya mempercepat transaksi Anda, tetapi juga mendapatkan alokasi XNF dari siklus mint harian protokol. Token XNF ini dapat dipertaruhkan untuk membuka keuntungan yang lebih besar dari token asli yang didistribusikan pada akhir setiap siklus harian. Hasilnya, pengguna platform mendapatkan keuntungan dari efisiensi dan harga kompetitif Xenify, sambil mendapatkan imbalan dan secara aktif membentuk evolusi ekosistem dinamis Xenify.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Biaya Pembakaran di Xenify
 
-Protokol Xenify memungkinkan pengguna membakar token vXEN atau vUSDy untuk mendapatkan XNF dari siklus hadiah harian XNF. Anggap vXEN dan vUSDy sebagai rekan virtual dari XEN dan USDy. Token-token ini secara khusus dibuat untuk konversi lancar menjadi XNF.
+Protokol Xenify memungkinkan pengguna untuk membakar token vXEN atau vUSDy untuk mendapatkan XNF dari siklus reward XNF harian. Bayangkan vXEN dan vUSDy masing-masing sebagai mitra virtual XEN dan USDy. Token-token ini secara khusus dibuat untuk konversi tanpa hambatan ke XNF.
 
-Dengan berpartisipasi dalam proses pembakaran untuk mendapatkan XNF, pengguna akan menemui biaya tertentu seperti biaya gas transaksi dan biaya cetak wajib serta biaya bakar. Namun, perhitungan biaya cetak dan biaya bakar dirancang secara hati-hati tidak hanya untuk memastikan metode pembakaran token yang transparan dan konsisten tetapi juga memberi penghargaan kepada pengguna dengan diskon menarik pada biaya bakar mereka hingga 75%.
+Dengan berpartisipasi dalam proses pembakaran untuk memperoleh XNF, pengguna akan menghadapi biaya tertentu seperti biaya gas transaksi dan biaya mint dan biaya pembakaran wajib. Namun, perhitungan biaya mint dan biaya pembakaran telah dirancang dengan cermat untuk tidak hanya memastikan metode pembakaran token yang transparan dan konsisten, tetapi juga memberi penghargaan kepada pengguna dengan diskon menarik untuk biaya pembakaran hingga 75%.
 
-Perhitungan biaya bakar dirancang untuk mempertimbangkan berbagai faktor, termasuk waktu pembakaran selama satu siklus, jumlah batch yang dibakar, dan nilai terkait. Bagian terbaiknya? Semakin banyak batch yang dibakar pengguna, semakin besar diskon yang akan mereka nikmati, dengan potensi penghematan hingga 75% untuk 10.000 batch selama jam pertama setiap siklus. Ini menciptakan insentif yang menarik bagi pengguna untuk melakukan operasi pembakaran yang lebih besar pada titik awal dalam satu siklus.
+Perhitungan biaya pembakaran dirancang untuk mempertimbangkan berbagai faktor, termasuk waktu pembakaran selama siklus, jumlah batch yang dibakar, dan nilai yang terkait. Bagian terbaiknya? Semakin banyak batch yang dibakar oleh pengguna, semakin besar diskon yang akan mereka nikmati, dengan potensi penghematan hingga 75% untuk 10.000 batch selama satu jam pertama dari setiap siklus. Hal ini menciptakan insentif yang menarik bagi pengguna untuk melakukan operasi pembakaran yang lebih besar pada titik-titik awal dalam satu siklus.
 
-Dengan menerapkan perhitungan ini, kami memastikan bahwa pengguna menerima diskon sebanding dengan volume token tertentu (vXEN atau vUSDy) yang mereka bakar. Selain itu, kami berbangga hati menekankan bahwa 100% biaya bakar yang dikumpulkan dialihkan kepada pemegang staking XNF, dan biaya cetak akan dikerahkan kembali untuk meningkatkan likuiditas. Pendekatan ini tidak hanya mendorong efisiensi tetapi juga memberi penghargaan kepada kontributor berharga kami, membangun ekosistem yang saling menguntungkan. Ditambah, dengan diskon maksimum 75% untuk 10.000 batch, semakin banyak pengguna membakar, semakin banyak mereka menghemat! Prospek menarik ini tidak hanya menawarkan manfaat substansial bagi mereka yang membakar tetapi juga menghasilkan hadiah yang lebih baik bagi pemegang staking XNF.
+Dengan menerapkan perhitungan ini, kami memastikan bahwa pengguna menerima diskon secara proporsional dengan volume token tertentu (vXEN atau vUSDy) yang mereka bakar. Selain itu, kami dengan bangga menekankan bahwa 100% dari biaya pembakaran yang terkumpul akan digunakan untuk staker XNF, dan biaya mint akan digunakan kembali untuk meningkatkan likuiditas. Pendekatan ini tidak hanya mendorong efisiensi tetapi juga memberi penghargaan kepada kontributor kami yang berharga, membangun ekosistem yang saling menguntungkan. Ditambah lagi, dengan diskon maksimum 75% untuk 10.000 batch, semakin banyak pengguna yang membakar, semakin banyak yang mereka hemat! Prospek yang menarik ini tidak hanya menawarkan keuntungan besar bagi mereka yang melakukan burn tetapi juga menghasilkan hadiah yang lebih besar bagi XNF stakers.
 
-Tetapi apa sebenarnya batch itu? Sebuah batch mewakili sejumlah token tertentu, baik vXEN atau vUSDy, yang dibutuhkan untuk berpartisipasi dalam proses pembakaran. Satu batch untuk vXEN ditetapkan pada jumlah tetap 5 vXEN, dengan nilai per token vXEN ditetapkan $1,00. Begitu pula, satu batch untuk vUSDy ditetapkan pada jumlah tetap 5 vUSDy, dengan nilai per token vUSDy ditetapkan $1,00. Jumlah varian token XEN yang dibutuhkan untuk mendapatkan satu batch vXEN akan dinamis, beradaptasi dengan harga pasar varian token XEN yang selalu berubah. Namun, jumlah varian token YSL.IO yang dibutuhkan untuk mendapatkan satu batch vUSDy akan tetap, bervariasi berdasarkan token YSL.IO spesifik yang dibakar. 
+Namun, apa sebenarnya yang dimaksud dengan batch? Sebuah batch mewakili jumlah token yang tetap, baik vXEN atau vUSDy, yang diperlukan untuk berpartisipasi dalam proses pembakaran. Satu batch untuk vXEN ditetapkan pada jumlah tetap 5 vXEN, dengan nilai per token vXEN ditetapkan pada $1.00. Demikian pula, satu batch untuk vUSDy ditetapkan pada jumlah tetap 5 vUSDy, dengan nilai per token vUSDy ditetapkan pada $1,00. Jumlah varian token XEN yang diperlukan untuk memperoleh satu batch vXEN akan bersifat dinamis, beradaptasi dengan harga pasar yang terus berubah dari setiap varian token XEN. Namun, jumlah varian token YSL.IO yang diperlukan untuk memperoleh sejumlah vUSDy akan tetap, bervariasi berdasarkan token YSL.IO tertentu yang dibakar.
 
-Untuk mendapatkan vXEN, Anda cukup perlu memiliki varian token XEN yang didukung dan jumlah token rantai asli yang cukup untuk menutupi Biaya Cetak vXEN yang wajib. 100% varian token XEN yang Anda berikan akan dibakar, memastikan alamat dompet Anda dimasukkan dalam catatan pembakaran untuk distribusi X1 - token asli XEN Layer 1 baru (X1 Chain).
+Untuk mendapatkan vXEN, Anda hanya perlu memiliki varian token XEN yang didukung dan jumlah token rantai asli yang cukup untuk menutupi Biaya Mint vXEN yang wajib dibayar. 100% dari varian token XEN yang Anda berikan akan dibakar, memastikan alamat dompet Anda termasuk dalam catatan pembakaran untuk distribusi X1 - token asli XEN Layer 1 (X1 Chain) yang baru.
 
-Ingatlah bahwa nilai vXEN ditetapkan $1,00, dengan 1 vXEN sama dengan $1,00 XEN (dan varian token XEN) berdasarkan nilai pasarnya saat ini. Ini berarti jumlah yang dibutuhkan untuk setiap pembakaran disesuaikan dengan nilai pasar saat ini dari varian token XEN spesifik yang Anda bakar, memastikan pertukaran yang adil bagi semua pengguna. Sebagai contoh, jika harga saat ini bXEN adalah $0,01, dan Anda memiliki 10.000 bXEN, protokol akan menentukan 10.000 bXEN Anda setara dengan $100 vXEN (100 token vXEN).
+Perlu diingat bahwa nilai vXEN ditetapkan sebesar $1.00, dengan 1 vXEN sama dengan $1.00 XEN (dan varian token XEN) berdasarkan nilai pasar saat ini. Ini berarti bahwa jumlah yang diperlukan untuk setiap pembakaran disesuaikan dengan nilai pasar saat ini dari varian token XEN tertentu yang Anda bakar, untuk memastikan pertukaran yang adil bagi semua pengguna. Contohnya, jika harga bXEN saat ini adalah $0,01, dan Anda memiliki 10.000 bXEN, protokol akan menentukan bahwa 10.000 bXEN Anda setara dengan $100 vXEN (100 token vXEN).
 
-Begitu pula, jika Anda ingin mendapatkan vUSDy, Anda perlu memiliki token asli YSL.IO seperti bYSL, xYSL, atau USDy dan jumlah token rantai asli yang cukup untuk menutupi Biaya Cetak vUSDy yang wajib. Perlu diingat bahwa saat Anda membakar untuk vUSDy, protokol akan menggunakan tarif yang sudah ditentukan untuk mengkonversi bYSL, xYSL, dan USDy.
+Demikian pula, jika Anda ingin memperoleh vUSDy, Anda harus memiliki token asli YSL.IO seperti bYSL, xYSL, atau USDy dan jumlah token rantai asli yang cukup untuk membayar Biaya Mint vUSDy. Perlu diingat bahwa ketika Anda melakukan pembakaran untuk vUSDy, protokol akan menggunakan kurs yang telah ditentukan untuk mengonversi bYSL, xYSL, dan USDy.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Diskon Biaya Bakar Tertimbang Waktu 
+## ◽️ Diskon Biaya Pembakaran Berbobot Waktu
 
-Xenify memperkenalkan pendekatan inovatif terhadap diskon biaya bakar yang bertujuan untuk mempromosikan keadilan dan mencegah manipulasi. Dengan menerapkan perhitungan biaya bakar yang dirancang secara hati-hati, protokol secara efektif membatasi praktik tidak adil di mana pengguna secara strategis mengatur waktu transaksi untuk memaksimalkan hadiah atau insentif mereka.
+Xenify memperkenalkan pendekatan inovatif untuk diskon burn fee yang bertujuan untuk mempromosikan keadilan dan mencegah manipulasi. Dengan menerapkan perhitungan burn fee yang dirancang dengan cermat, protokol ini secara efektif mengekang praktik-praktik yang tidak adil di mana pengguna mengatur waktu transaksi secara strategis untuk memaksimalkan imbalan atau insentif mereka.
 
-Perhitungan Biaya Bakar (BF) mencakup faktor-faktor tertimbang waktu yang disebut Koefisien Biaya Bakar (FC) dan Koefisien Batch (BC), yang membantu menentukan biaya yang dibutuhkan untuk mengeksekusi fungsi bakar berdasarkan nilai batch yang dibakar. Diskon biaya bakar yang Anda peroleh akan bergantung pada Koefisien Biaya Bakar (FC) dan Koefisien Batch (BC) yang berlaku pada saat pembakaran. Kedua koefisien tertimbang waktu, menurun sepanjang siklus harian. Ini berarti diskon efektif yang Anda peroleh akan bervariasi tergantung pada kapan Anda memutuskan untuk membakar selama satu siklus.
+Perhitungan Burn Fee (BF) mencakup faktor tertimbang waktu yang disebut Koefisien Burn Fee (FC) dan Koefisien Batch (BC), yang membantu menentukan biaya yang diperlukan untuk menjalankan fungsi pembakaran berdasarkan nilai batch yang dibakar. Diskon biaya pembakaran yang Anda peroleh akan bergantung pada Koefisien Biaya Pembakaran (FC) dan Koefisien Batch (BC) yang berlaku pada saat pembakaran. Kedua koefisien tersebut berbobot waktu, menurun sepanjang siklus harian. Ini berarti diskon efektif yang Anda peroleh akan bervariasi tergantung pada saat Anda memutuskan untuk membakar selama satu siklus.
 
-Untuk mengawali fungsi bakar di Xenify, pengguna harus memiliki saldo dompet token rantai asli yang memenuhi atau melebihi jumlah yang diperlukan untuk Biaya Cetak dan Biaya Bakar. Biaya cetak yang wajib dikirim oleh pengguna akan bergantung pada nilai pasar yang mendasari dari token yang dibakar oleh pengguna, dan protokol akan menghitung Biaya Bakar (BF) menggunakan rumus di bawah ini:
+Untuk memulai fungsi pembakaran di Xenify, pengguna harus memiliki saldo dompet yang cukup untuk token rantai asli yang memenuhi atau melebihi jumlah yang diperlukan untuk Biaya Mint dan Biaya Bakar. Biaya mint yang harus dikirim oleh pengguna akan bergantung pada nilai pasar yang mendasari token yang dibakar oleh pengguna, dan protokol akan menghitung Burn Fee (BF) menggunakan rumus di bawah ini:
 
-<br> 
+<br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))
+BF = (FC \kali VB) \kali (1 - (NB \kali BC))
 $$
 
 **Di mana:**
 
-- $BF$ (Biaya Bakar) - Biaya yang dikenakan untuk fungsi bakar, dibayar dalam token asli blockchain.
-- $FC$ (Koefisien Biaya Bakar) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon pada biaya bakar.
-- $VB$ (Nilai Batch) - Nilai dolar dari batch yang dibakar oleh pengguna, mempengaruhi biaya bakar seiring peningkatan nilai batch.
-- $BC$ (Koefisien Batch) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.  
-- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, mempengaruhi diskon biaya bakar seiring peningkatan jumlah batch. Ini akan dibatasi hingga 10.000 batch.
+- $BF$ (Burn Fee) - Biaya yang dikenakan untuk fungsi pembakaran, dibayarkan dalam token asli blockchain.
+- $FC $ (Koefisien Biaya Bakar) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon pada biaya pembakaran.
+- $VB $ (Nilai Batch) - Nilai dolar dari batch yang dibakar oleh pengguna, yang mempengaruhi biaya pembakaran saat nilai batch meningkat.
+- $BC$ (Koefisien Batch) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.
+- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, yang memengaruhi diskon biaya pembakaran seiring dengan meningkatnya jumlah batch. Ini akan dibatasi pada 10.000 batch.
 
 <br>
 
-Perlu dicatat bahwa diskon biaya bakar yang Anda terima akan bergantung pada nilai Koefisien Biaya Bakar (FC) dan Koefisien Batch (BC) saat ini pada saat pembakaran. Karena koefisien ini menurun sepanjang siklus harian, diskon efektif yang Anda peroleh akan bervariasi tergantung pada kapan Anda memutuskan untuk membakar selama satu siklus. Pendekatan dinamis ini memastikan bahwa pengguna memiliki kesempatan untuk mendapatkan manfaat dari tingkat diskon yang berbeda berdasarkan waktu mereka.
+Perlu dicatat bahwa diskon biaya pembakaran yang Anda terima akan bergantung pada nilai saat ini dari Koefisien Biaya Pembakaran (FC) dan Koefisien Batch (BC) pada saat pembakaran. Karena koefisien-koefisien ini menurun sepanjang siklus harian, diskon efektif yang Anda dapatkan akan bervariasi tergantung pada saat Anda memutuskan untuk membakar selama siklus. Pendekatan dinamis ini memastikan bahwa pengguna memiliki kesempatan untuk mendapatkan keuntungan dari tingkat diskon yang berbeda berdasarkan waktu mereka.
 
-Pendekatan Xenify terhadap diskon biaya bakar tidak hanya mempromosikan keadilan tetapi juga memberi pengguna potensi untuk mengoptimalkan penghematan mereka. Dengan mempertimbangkan koefisien tertimbang waktu dan secara strategis memilih kapan untuk mengeksekusi pembakaran, pengguna dapat memaksimalkan diskon dan nilai keseluruhan mereka. Pendekatan inovatif ini membawa transparansi, keadilan, dan peningkatan manfaat bagi semua peserta ekosistem Xenify.
+Pendekatan Xenify untuk diskon biaya pembakaran tidak hanya mempromosikan keadilan tetapi juga memberikan potensi kepada pengguna untuk mengoptimalkan penghematan mereka. Dengan mempertimbangkan koefisien tertimbang waktu dan memilih secara strategis kapan harus mengeksekusi burn, pengguna dapat memaksimalkan diskon dan nilai keseluruhan. Pendekatan inovatif ini menghadirkan transparansi, keadilan, dan peningkatan manfaat bagi semua peserta ekosistem Xenify.
 
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Koefisien Biaya Bakar (FC)
+## ◽️ Koefisien Biaya Pembakaran (FC)
 
-Biaya Bakar (BF) yang diperlukan untuk mengeksekusi fungsi bakar akan meningkat seiring peningkatan total nilai batch yang dibakar, namun dengan melakukan pembakaran lebih awal dalam siklus pengguna memiliki kesempatan untuk mendapatkan manfaat dari biaya bakar yang lebih rendah berkat Koefisien Biaya Bakar (FC).
+Biaya Bakar (BF) yang diperlukan untuk menjalankan fungsi pembakaran akan meningkat seiring dengan meningkatnya nilai total batch yang dibakar, namun dengan menjalankan pembakaran di awal siklus, pengguna memiliki peluang untuk mendapatkan keuntungan dari biaya pembakaran yang lebih rendah berkat Koefisien Biaya Bakar (FC).
 
-Seperti yang diilustrasikan dalam tabel di bawah ini, Koefisien Biaya Bakar dimulai dari 50% ketika siklus dimulai dan meningkat sekitar 2,174% setiap jam hingga mencapai 100% pada jam terakhir siklus harian. Ini berarti pengguna perlu berkontribusi lebih banyak untuk mengeksekusi fungsi bakar seiring berjalannya hari. Namun, ini juga memberi kesempatan bagi pengguna yang membakar lebih awal dalam siklus untuk mendapatkan diskon hingga 75% selama jam pertama setiap siklus.
+Seperti yang diilustrasikan dalam tabel di bawah ini, Koefisien Biaya Pembakaran dimulai dari 50% saat siklus dimulai dan meningkat sekitar 2,174% setiap jam hingga mencapai 100% pada jam terakhir siklus harian. Ini berarti bahwa pengguna harus berkontribusi lebih banyak untuk menjalankan fungsi pembakaran seiring berjalannya waktu. Namun demikian, hal ini juga memberikan kesempatan bagi pengguna yang melakukan pembakaran di awal siklus untuk mendapatkan diskon hingga 75% selama satu jam pertama setiap siklus.
 
 <br>
 
-| Jam  | Koefisien Biaya Bakar (FC) |  
-|-|-|
-| 1 | 50,00% |
-| 2 | 52,17% |
-| 3 | 54,35% |  
-| 4 | 56,52% |
-| 5 | 58,70% |
-| 6 | 60,87% |
-| 7 | 63,04% |
-| 8 | 65,22% |
-| 9 | 67,39% |
-| 10 | 69,57% |
-| 11 | 71,74% |
-| 12 | 73,91% |
-| 13 | 76,09% |
-| 14 | 78,26% |
-| 15 | 80,43% |
-| 16 | 82,61% |
-| 17 | 84,78% |
-| 18 | 86,96% |
-| 19 | 89,13% | 
-| 20 | 91,30% |
-| 21 | 93,48% |
-| 22 | 95,65% |
-| 23 | 97,83% |
-| 24 | 100,00% |
+| Jam | Koefisien Biaya Pembakaran (FC) |
+|------|---------------------------|
+| 1 | 50.00% |
+| 2 | 52.17% |
+| 3 | 54.35% |
+| 4 | 56.52% |
+| 5 | 58.70% |
+| 6 | 60.87% |
+| 7 | 63.04% |
+| 8 | 65.22% |
+| 9 | 67.39% |
+| 10 | 69.57% |
+| 11 | 71.74% |
+| 12 | 73.91% |
+| 13 | 76.09% |
+| 14 | 78.26% |
+| 15 | 80.43% |
+| 16 | 82.61% |
+| 17 | 84.78% |
+| 18 | 86.96% |
+| 19 | 89.13% |
+| 20 | 91.30% |
+| 21 | 93.48% |
+| 22 | 95.65% |
+| 23 | 97.83% |
+| 24 | 100.00% |
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Koefisien Batch (BC) 
+## ◽️ Koefisien Batch (BC)
 
-Koefisien Batch (BC) memperhitungkan diskon pada biaya bakar berdasarkan jumlah batch yang Anda bakar. Semakin banyak batch yang Anda bakar, semakin besar diskon batch, yang direpresentasikan oleh istilah (1 - (NB x BC)). Nilai Koefisien Batch (BC) bervariasi tergantung pada kapan pengguna memutuskan untuk membakar selama satu siklus.
+Koefisien Batch (BC) memperhitungkan diskon pada biaya pembakaran berdasarkan jumlah batch yang Anda bakar. Semakin banyak batch yang Anda bakar, semakin besar diskon batch, yang diwakili oleh istilah (1 - (NB x BC)). Nilai Koefisien Batch (BC) bervariasi tergantung pada kapan pengguna memutuskan untuk membakar selama satu siklus.
 
-Tabel di bawah ini mengilustrasikan bagaimana nilai koefisien berubah selama siklus 24 jam. Konstanta dimulai dari 0,00005 ketika siklus dimulai dan menurun sebesar 0,0000025 setiap jam hingga mencapai nol setelah 20 jam. Akibatnya, pengguna tidak akan mendapatkan manfaat dari diskon batch selama empat jam terakhir siklus. 
+Tabel di bawah ini mengilustrasikan bagaimana nilai koefisien berubah selama siklus 24 jam. Konstanta dimulai dari 0,00005 saat siklus dimulai dan berkurang sebesar 0,0000025 setiap jam hingga mencapai nol setelah 20 jam. Akibatnya, pengguna tidak akan mendapatkan keuntungan dari diskon batch selama empat jam terakhir dari siklus.
 
 <br>
 
 | Jam | Koefisien Batch (BC) |
-|-|-|  
-| 1 | 0,00005 |
-| 2 | 0,0000475 |
-| 3 | 0,000045 |
-| 4 | 0,0000425 |
-| 5 | 0,00004 |
-| 6 | 0,0000375 |
-| 7 | 0,000035 |
-| 8 | 0,0000325 |
-| 9 | 0,00003 |  
-| 10 | 0,0000275 |
-| 11 | 0,000025 |
-| 12 | 0,0000225 |
-| 13 | 0,00002 |
-| 14 | 0,0000175 |
-| 15 | 0,000015 |
-| 16 | 0,0000125 |
-| 17 | 0,00001 |
-| 18 | 0,0000075 |
-| 19 | 0,000005 |
-| 20 | 0,0000025 |
+|------|---------------------------|
+| 1 | 0.00005 |
+| 2 | 0.0000475 |
+| 3 | 0.000045 |
+| 4 | 0.0000425 |
+| 5 | 0.00004 |
+| 6 | 0.0000375 |
+| 7 | 0.000035 |
+| 8 | 0.0000325 |
+| 9 | 0.00003 |
+| 10 | 0.0000275 |
+| 11 | 0.000025 |
+| 12 | 0.0000225 |
+| 13 | 0.00002 |
+| 14 | 0.0000175 |
+| 15 | 0.000015 |
+| 16 | 0.0000125 |
+| 17 | 0.00001 |
+| 18 | 0.0000075 |
+| 19 | 0.000005 |
+| 20 | 0.0000025 |
 | 21 | 0 |
 | 22 | 0 |
 | 23 | 0 |
 | 24 | 0 |
 
-<br> 
-
-## ◽️ Skenario Biaya Bakar yang Berbeda 
-
-Mari kita lihat lebih dekat bagaimana Diskon Biaya Bakar Tertimbang Waktu beroperasi dalam skenario yang berbeda:
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Skenario 1: Pengguna membakar selama Jam-1 dari suatu siklus
-
-  - Katakanlah Anda memutuskan untuk membakar 10.000 batch bernilai $5.000 selama jam pertama siklus harian. Dengan mempertimbangkan bahwa Koefisien Batch (BC) selama jam pertama suatu siklus adalah 0,00005 dan Koefisien Biaya Bakar (FC) selama jam pertama adalah 50%, protokol akan menentukan Biaya Bakar Anda (BF) sebesar $1.250.
-
-<br> 
-
-$$
-BF = (0,5 \times 5.000) \times (1 - (10.000 \times 0,00005)) = $1.250  
-$$
-
 <br>
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Skenario Biaya Pembakaran yang Berbeda
 
-## ♦️ Skenario 2: Pengguna membakar selama Jam-24 dari suatu siklus
+Mari kita lihat lebih dekat bagaimana Diskon Biaya Pembakaran Berbobot Waktu beroperasi dalam berbagai skenario:
 
-- Sekarang, katakanlah Anda memutuskan untuk membakar 10.000 batch selama jam terakhir siklus harian. Dengan mempertimbangkan bahwa Koefisien Batch (BC) selama jam terakhir suatu siklus adalah 0 dan Koefisien Biaya Bakar (FC) selama jam terakhir adalah 100%, protokol akan menentukan Biaya Bakar Anda (BF) sebesar $5.000.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Skenario 1: Pengguna membakar selama Jam ke-1 dari sebuah siklus
+
+  - Katakanlah Anda memutuskan untuk membakar 10.000 batch senilai $ 5.000 selama satu jam pertama dari siklus harian. Dengan mempertimbangkan bahwa Koefisien Batch (BC) selama satu jam pertama siklus adalah 0,00005 dan Koefisien Biaya Pembakaran (FC) selama satu jam pertama adalah 50%, protokol akan menentukan Biaya Pembakaran (BF) Anda sebesar $ 1.250.
 
 <br>
 
 $$
-BF = (1 \times 5.000) \times (1 - (10.000 \times 0)) = $5.000
-$$  
+BF = (0,5 \kali 5.000) \kali (1 - (10.000 \kali 0,00005)) = $ 1.250
+$$
 
 <br>
 
-Membandingkan skenario ini menyoroti manfaat membakar batch pada jam pertama versus jam terakhir. Penghematan maksimum 75% hanya dimungkinkan jika Anda membakar 10.000 batch selama jam pertama siklus harian. Mekanisme biaya bakar tertimbang waktu ini memitigasi praktik yang tidak adil dan meningkatkan keadilan, memberi penghargaan kepada pengguna yang mengeksekusi pembakaran lebih besar lebih awal dalam siklus dengan diskon yang lebih besar.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ♦️ Skenario 2: Pengguna terbakar selama Jam ke-24 dari sebuah siklus
 
-## ◽️ Manajer Biaya Cetak 
-
-Lelang pembakaran harian Xenify adalah kesempatan sempurna untuk mendapatkan token XNF, dan semua yang Anda butuhkan adalah memiliki vXEN atau vUSDy. Proses memperoleh token ini mudah - cukup bakar varian token XEN atau token asli YSL.IO. Ini adalah proses lancar yang memberi pengguna akses ke lelang pembakaran harian dan kesempatan untuk mengamankan XNF. Ingatlah bahwa selama proses pembakaran, ada Biaya Cetak wajib berdasarkan nilai pasar saat ini dari token yang dibakar.
-
-Dengan memberikan Biaya Cetak, pengguna berkontribusi pada penciptaan likuiditas milik protokol. Likuiditas ini juga membuka jalan bagi distribusi hadiah tambahan berupa token XNF dan token XEN asli kepada para pengguna daur ulang pada akhir setiap siklus. Akibatnya, Manajer Biaya Cetak tidak hanya memperkuat likuiditas milik protokol tetapi juga secara tidak langsung menghasilkan lebih banyak hadiah bagi para pengguna daur ulang. Desain inovatif ini memastikan keberlanjutan dan pertumbuhan jangka panjang ekosistem Xenify. Selain itu, tidak adanya kunci admin dalam kontrak yang menjaga likuiditas milik protokol menghilangkan kemungkinan manipulasi. 
-
-Untuk memulai penciptaan likuiditas milik protokol ini, Manajer Biaya Cetak menerima alokasi 100.000 token XNF pra-cetak saat XNF diterapkan. Token ini memiliki tujuan untuk menciptakan likuiditas XNF melalui Biaya Cetak. 100.000 token XNF dibagi rata, dengan 50.000 token dialokasikan untuk Biaya Cetak vXEN dan 50.000 token untuk Biaya Cetak vUSDy. Tim tidak memiliki akses ke token pra-cetak ini, dan hanya dapat mengeksekusi pembakaran token ini jika perlu. 
-
-Begini cara kerjanya: Ketika pengguna mengirim Biaya Cetak, Manajer Biaya Cetak akan memasangkan 50% dari token rantai asli dengan token XNF pra-cetak, untuk menambahkan sebagai likuiditas XNF dengan rentang penuh, dengan semua token LP dipegang oleh protokol. Proses ini akan berlanjut sampai alokasi XNF pra-cetak habis. Setelah itu, manajer memulai proses defaultnya, yang melibatkan penggunaan 25% token asli untuk membeli XNF, memasangkan XNF yang diperoleh dengan 25% token asli, untuk menambahkannya sebagai likuiditas dengan rentang penuh, dengan semua token LP dipegang oleh protokol.  
-
-50% sisa Biaya Cetak ditujukan untuk membuat likuiditas USDy atau likuiditas XEN, tergantung apakah pengguna mengirim Biaya Cetak untuk mendapatkan vXEN atau vUSDy. Ketika protokol membuat likuiditas USDy melalui Biaya Cetak vUSDy, token LP USDy dikirim ke Kas YSL.IO. Di sisi lain, ketika menghasilkan likuiditas XEN melalui Biaya Cetak vXEN, token LP XEN dipegang oleh protokol.
-
-Pada akhir setiap siklus, protokol menarik 1% dari total token LP XNF dan 1% dari token LP XEN yang dipegang. Token rantai asli yang diperoleh dari token LP yang ditarik digunakan untuk membeli XNF dan XEN, dengan token yang dibeli digabungkan dengan token XNF dan XEN yang ditarik. Token yang dibeli ini digabungkan dengan token XNF dan XEN yang sebelumnya ditarik dan kemudian didistribusikan di antara pemegang veXNF yang telah berpartisipasi dalam mendaur ulang hadiah selama siklus sebelumnya. Token XEN yang dibeli selama proses ini mewakili token asli untuk rantai tertentu, seperti bXEN di Rantai BNB. Demikian pula, token XNF yang dibeli mewakili token asli untuk rantai tersebut, seperti bXNF di Rantai BNB. 
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Biaya Cetak vXEN
-
-Biaya cetak vXEN berlaku hanya ketika Anda membakar varian token XEN untuk mendapatkan vXEN. Biaya cetak ditentukan oleh nilai pasar saat ini dari token yang Anda bakar. Token asli yang dihasilkan dari biaya cetak vXEN akan dialokasikan sebagai berikut:
-
-- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% dari token asli untuk membuat likuiditas XNF untuk rantai tersebut. Jika 50.000 XNF Pra-cetak tersedia, seluruh jumlah token asli akan dipasangkan dengan XNF pra-cetak untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF pra-cetak telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan 25% sisanya dari token asli untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol.
-
-- **50% akan digunakan untuk membuat likuiditas token XEN:** Protokol menggunakan 50% dari token rantai asli untuk membuat likuiditas untuk varian token XEN asli untuk pool XEN paling likuid di rantai tersebut (misalnya, di Rantai BNB akan membuat likuiditas untuk likuiditas bXEN-BNB), dengan menggunakan 25% dari token untuk membeli token XEN asli (mis. bXEN) dan 25% sisanya dari token untuk pemasangan likuiditas dengan token LP yang dipegang oleh protokol.
-
-- Sebagai contoh, katakanlah Anda memiliki 10.000 bXEN dan ingin mengkonversinya ke vXEN. Jika bXEN saat ini bernilai $0,01 dan Anda memiliki 10.000 bXEN, bXEN Anda bernilai $100. Oleh karena itu, Anda perlu menyediakan $100 dalam BNB untuk biaya cetak. Setelah Anda memulai proses cetak, protokol akan menghasilkan vXEN berdasarkan total nilai bXEN Anda dan biaya cetak. Dalam contoh ini, Anda akan menerima $200 vXEN sebagai imbalan, mengingat $100 bXEN Anda dan biaya cetak BNB $100. $100 bXEN yang Anda kirimkan selama proses akan secara permanen dihapus dari peredaran, dan kontribusi BNB $100 untuk biaya cetak akan dikirim ke Manajer Biaya Cetak vXEN.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Biaya Cetak vUSDy
-
-Biaya cetak vUSDy hanya berlaku ketika Anda mengonversi USDy, xYSL, atau bYSL ke vUSDy melalui proses pembakaran. Token asli yang dihasilkan dari biaya cetak vUSDy akan dialokasikan sebagai berikut:
-
-- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% dari token asli untuk membuat likuiditas XNF untuk rantai tersebut. Jika 50.000 XNF Pra-cetak tersedia, seluruh jumlah token asli akan dipasangkan dengan XNF pra-cetak untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF pra-cetak telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan 25% sisanya dari token asli untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol.
-
-- **50% akan digunakan untuk membuat likuiditas milik kas USDy:** Protokol menggunakan 50% dari token asli untuk membuat likuiditas milik kas USDy-USDC, dengan mencetak sisi USDy dari pemasangan likuiditas dan membeli USDC dengan 50% dari token tersebut, dengan token LP dikirim ke Kas YSL.IO. 
-
-- Sebagai contoh, katakanlah Anda memiliki 100 token USDy dan ingin mengonversinya ke vUSDy. Untuk menutupi biaya cetak, Anda perlu memiliki token rantai asli. Biaya cetak akan ditentukan sebesar $100 BNB, berdasarkan tingkat konversi tetap $1,00 per USDy. Setelah Anda memulai proses cetak, protokol akan menghasilkan vUSDy berdasarkan total nilai USDy Anda dan biaya cetak. Dalam contoh ini, Anda akan menerima $200 vUSDy sebagai imbalan, mengingat 100 USDy Anda dan biaya cetak BNB $100. 100 USDy yang Anda kirimkan selama proses akan secara permanen dihapus dari peredaran, dan biaya cetak BNB $100 akan dikirim ke Manajer Biaya Cetak vUSDy.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Distribusi Siklus XNF 
-
-Xenify menggunakan pendekatan seimbang dalam distribusi harian token XNF, dengan fokus pada dua komponen utama di semua rantai tempatnya diterapkan: biaya bakar dan biaya swap. Komponen ini menerima porsi yang sama dari cetakan harian, dengan 50% dialokasikan kepada pengguna yang berpartisipasi dalam membakar token vXEN atau vUSDy, dan 50% sisanya didistribusikan di antara mereka yang terlibat dalam pertukaran.
-
-Sebagai contoh, jika jumlah token XNF yang dicetak setiap harinya adalah 20.000, distribusinya dibagi rata. Mereka yang berkontribusi pada biaya bakar menerima 10.000 token XNF, dan jumlah yang setara diberikan kepada mereka yang berkontribusi pada biaya swap. Struktur alokasi seragam ini berlaku untuk semua rantai di mana Xenify hadir. Dengan demikian, terlepas dari rantai yang mereka gunakan, para peserta yang terlibat baik dalam membakar token atau melakukan pertukaran memiliki kesempatan untuk mendapatkan bagian dari token XNF yang dicetak setiap hari. 
-
-Sebagai contoh, jika cetakan XNF harian adalah 20.000 token XNF, Xenify akan mendistribusikan alokasinya dengan dua cara: 10.000 XNF diberikan kepada mereka yang berkontribusi pada biaya bakar, dan 10.000 XNF kepada mereka yang berkontribusi pada biaya swap. Struktur alokasi yang sama diterapkan di semua rantai lain di mana Xenify diterapkan. Akibatnya, terlepas dari rantainya, pengguna yang berkontribusi pada pembakaran token atau terlibat dalam pertukaran akan memiliki kesempatan untuk memperoleh bagian dari token XNF yang baru dicetak setiap harinya.
-
-Untuk menentukan bagian masing-masing pengguna dari cetakan harian yang dialokasikan untuk kontribusi bakar dan swap, protokol akan melakukan serangkaian perhitungan. Perhitungan ini akan didasarkan pada kontribusi swap dan bakar yang dilakukan pengguna selama siklus. Protokol akan mengkonsolidasikan kontribusi ini untuk menghitung secara akurat total distribusi XNF untuk setiap pengguna. Pendekatan metodis ini memastikan distribusi yang adil, mencerminkan baik keterlibatan aktif pengguna dalam pembakaran token maupun kontribusi mereka dalam hal biaya swap. 
-
-Protokol menghitung kontribusi bakar (BC) pengguna tertentu dalam satu siklus, berdasarkan total token XNF yang didistribusikan (TCD), total batch yang dibakar oleh semua pengguna (TNB), dan jumlah batch yang dibakar oleh pengguna tertentu (UNB). Berikut penjelasan rinci formulanya:
+  - Sekarang, katakanlah Anda memutuskan untuk membakar 10.000 batch selama satu jam terakhir dari siklus harian. Dengan mempertimbangkan bahwa Koefisien Batch (BC) selama satu jam terakhir dari siklus adalah 0 dan Koefisien Biaya Pembakaran (FC) selama satu jam terakhir adalah 100%, protokol akan menentukan Biaya Pembakaran (BF) Anda sebesar $ 5.000.
 
 <br>
 
 $$
-BC = (TCD \div 2) \times (UBB \div TBB)  
+BF = (1 \kali 5.000) \kali (1 - (10.000 \kali 0)) = $ 5.000
 $$
 
-<br> 
+<br>
+
+Membandingkan skenario ini menyoroti manfaat pembakaran batch pada jam pertama dibandingkan dengan jam terakhir. Penghematan maksimum sebesar 75% hanya dapat dilakukan jika Anda membakar 10.000 batch selama satu jam pertama dari siklus harian. Mekanisme biaya pembakaran tertimbang waktu ini mengurangi praktik yang tidak adil dan meningkatkan keadilan, dengan memberi imbalan kepada pengguna yang melakukan pembakaran yang lebih besar di awal siklus dengan diskon yang lebih besar.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Manajer Biaya Mint
+
+Lelang pembakaran harian Xenify adalah kesempatan sempurna untuk mendapatkan token XNF, dan yang Anda perlukan hanyalah vXEN atau vUSDy. Proses untuk mendapatkan token-token ini sangat mudah - cukup bakar varian token XEN atau token asli YSL.IO. Ini adalah proses tanpa hambatan yang memberi pengguna akses ke lelang pembakaran harian dan kesempatan untuk mengamankan XNF. Perlu diingat bahwa selama proses pembakaran, ada Biaya Mint wajib berdasarkan nilai pasar saat ini dari token yang dibakar.
+
+Dengan memberikan Biaya Mint, pengguna berkontribusi pada penciptaan likuiditas yang dimiliki protokol. Likuiditas ini juga membuka jalan untuk distribusi hadiah tambahan dalam bentuk XNF dan token XEN asli kepada pendaur ulang di akhir setiap siklus. Akibatnya, Mint Fee Manager tidak hanya memperkuat likuiditas yang dimiliki protokol tetapi juga secara tidak langsung menghasilkan lebih banyak hadiah untuk pendaur ulang. Desain inovatif ini memastikan keberlanjutan dan pertumbuhan jangka panjang ekosistem Xenify. Selain itu, tidak adanya kunci admin dalam kontrak yang melindungi likuiditas yang dimiliki protokol menghilangkan kemungkinan manipulasi.
+
+Untuk memulai pembuatan likuiditas milik protokol ini, Mint Fee Manager menerima alokasi 100.000 token XNF yang telah dicetak sebelumnya ketika XNF digunakan. Token ini berfungsi untuk menciptakan likuiditas XNF melalui Mint Fee. 100.000 token XNF dibagi rata, dengan 50.000 token dialokasikan untuk Biaya Mint vXEN dan 50.000 token untuk Biaya Mint vUSDy. Tim tidak memiliki akses ke token yang telah dicetak ini, dan hanya dapat melakukan pembakaran token ini jika diperlukan.
+
+Begini cara kerjanya: Ketika pengguna mengirimkan Biaya Mint, Manajer Biaya Mint akan memasangkan 50% token rantai asli dengan token XNF yang telah dicetak sebelumnya, untuk ditambahkan sebagai likuiditas XNF dengan jangkauan penuh, dengan semua token LP dipegang oleh protokol. Proses ini akan berlanjut hingga alokasi XNF yang telah dicetak sebelumnya habis. Setelah itu, manajer memulai proses defaultnya, yang melibatkan penggunaan 25% token asli untuk membeli XNF, memasangkan XNF yang diperoleh dengan 25% token asli, untuk ditambahkan sebagai likuiditas dalam jangkauan penuh, dengan semua token LP dipegang oleh protokol.
+
+Sisa 50% dari Biaya Mint ditujukan untuk menciptakan likuiditas XEN atau likuiditas USDy, tergantung pada apakah pengguna mengirimkan Biaya Mint untuk memperoleh vXEN atau vUSDy. Ketika protokol menciptakan likuiditas USDy melalui vUSDy Mint Fee, token LP USDy dikirim ke Treasury YSL.IO. Di sisi lain, ketika menghasilkan likuiditas XEN melalui vXEN Mint Fee, token XEN LP dipegang oleh protokol.
+
+Pada akhir setiap siklus, protokol menarik 1% dari total token LP XNF dan 1% dari token LP XEN yang dimiliki. Token rantai asli yang diperoleh dari token LP yang ditarik masing-masing digunakan untuk membeli XNF dan XEN, dengan token yang dibeli digabungkan dengan token XNF dan XEN yang ditarik. Token yang dibeli ini digabungkan dengan token XNF dan XEN yang telah ditarik sebelumnya dan kemudian didistribusikan di antara pemegang veXNF yang telah berpartisipasi dalam daur ulang hadiah selama siklus sebelumnya. Token XEN yang dibeli selama proses ini mewakili token asli untuk rantai tertentu, seperti bXEN di Rantai BNB. Demikian pula, token XNF yang dibeli mewakili token asli untuk rantai tersebut, seperti bXNF pada Rantai BNB.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ vXEN Mint Fee
+
+Biaya mint vXEN hanya berlaku jika Anda membakar varian token XEN untuk mendapatkan vXEN. Biaya mint ditentukan oleh nilai pasar saat ini dari token yang Anda bakar. Token asli yang dihasilkan dari biaya mint vXEN akan dialokasikan sebagai berikut:
+
+- ** 50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+
+- 50% akan digunakan untuk menciptakan likuiditas token XEN:** Protokol menggunakan 50% token rantai asli untuk menciptakan likuiditas untuk varian token XEN asli untuk kumpulan XEN paling likuid di rantai tersebut (misalnya, pada Rantai BNB, protokol ini akan menciptakan likuiditas untuk likuiditas bXEN-BNB), dengan menggunakan 25% dari token untuk membeli token XEN asli (misalnya bXEN) dan sisa 25% token untuk pasangan likuiditas dengan token LP yang dipegang oleh protokol.
+
+- Sebagai contoh, katakanlah Anda memiliki 10.000 bXEN dan Anda ingin mengonversinya menjadi vXEN. Jika bXEN saat ini bernilai $0,01 dan Anda memiliki 10.000 bXEN, maka bXEN Anda bernilai $100. Oleh karena itu, Anda perlu menyediakan $100 dalam BNB untuk biaya mint. Setelah Anda memulai proses mint, protokol akan menghasilkan vXEN berdasarkan nilai total bXEN Anda dan biaya mint. Dalam contoh ini, Anda akan menerima $200 vXEN sebagai imbalannya, dengan mempertimbangkan $100 bXEN Anda dan biaya mint BNB sebesar $100. Nilai $100 bXEN yang Anda kirimkan selama proses tersebut akan dihapus secara permanen dari peredaran, dan kontribusi $100 BNB untuk biaya pencetakan akan masuk ke Manajer Biaya Pencetakan vXEN.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Biaya Mint vUSDy
+
+Biaya mint vUSDy hanya berlaku jika Anda mengonversi USDy, xYSL, atau bYSL ke vUSDy melalui proses burn. Token asli yang dihasilkan dari biaya mint vUSDy akan dialokasikan sebagai berikut:
+
+- ** 50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+
+- **50% akan digunakan untuk membuat likuiditas milik treasury USDy:** Protokol menggunakan 50% token asli untuk membuat likuiditas milik treasury USDy-USDC, dengan mencetak sisi USDy dari pasangan likuiditas dan membeli USDC dengan 50% token, dengan token LP yang dikirim ke Treasury YSL.IO.
+
+- Sebagai contoh, katakanlah Anda memiliki 100 token USDy dan Anda ingin mengonversinya menjadi vUSDy. Untuk menutupi biaya mint, Anda harus memiliki token rantai asli. Biaya mint akan ditentukan sebesar $100 BNB, berdasarkan kurs konversi tetap sebesar $1.00 per USDy. Setelah Anda memulai proses mint, protokol akan menghasilkan vUSDy berdasarkan nilai total USDy dan biaya mint. Dalam contoh ini, Anda akan menerima $200 vUSDy sebagai imbalannya, dengan mempertimbangkan 100 USDy dan biaya mint $100 BNB. 100 USDy yang Anda kirimkan selama proses tersebut akan dihapus secara permanen dari peredaran, dan biaya cetak BNB $100 akan dikirim ke Manajer Biaya Cetak vUSDy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ XNF Distribusi Siklus
+
+Xenify menggunakan pendekatan yang seimbang dalam distribusi harian token XNF, dengan fokus pada dua komponen utama di semua rantai yang digunakannya: biaya pembakaran dan biaya swap. Komponen-komponen ini menerima bagian yang sama dari mint harian, dengan 50% dialokasikan untuk pengguna yang berpartisipasi dalam pembakaran token vXEN atau vUSDy, dan 50% sisanya didistribusikan di antara mereka yang melakukan swap.
+
+Misalnya, jika jumlah token XNF yang dicetak setiap hari adalah 20.000, maka pembagiannya akan dibagi rata. Mereka yang berkontribusi pada biaya pembakaran menerima 10.000 token XNF, dan jumlah yang setara diberikan kepada mereka yang berkontribusi pada biaya pertukaran. Struktur alokasi yang seragam ini berlaku untuk semua chain di mana Xenify hadir. Dengan demikian, terlepas dari chain yang mereka gunakan, peserta yang terlibat dalam pembakaran token atau melakukan swap memiliki kesempatan untuk mendapatkan sebagian dari token XNF yang dicetak setiap hari.
+
+Misalnya, jika pencetakan XNF harian adalah 20.000 token XNF, Xenify akan mendistribusikan alokasi dengan dua cara: 10.000 XNF diberikan kepada mereka yang berkontribusi pada biaya pembakaran, dan 10.000 XNF kepada mereka yang berkontribusi pada biaya swap. Struktur alokasi yang sama ini diterapkan di semua rantai lain di mana Xenify digunakan. Akibatnya, terlepas dari rantai mana pun, pengguna yang berkontribusi pada pembakaran token atau terlibat dalam swap akan memiliki peluang untuk mendapatkan sebagian dari token XNF yang baru dicetak setiap hari.
+
+Untuk memastikan bagian setiap pengguna dari mint harian yang dialokasikan untuk kontribusi burn dan swap, protokol akan melakukan serangkaian perhitungan. Perhitungan ini akan didasarkan pada kontribusi swap dan burn yang dibuat oleh pengguna selama siklus. Protokol akan menggabungkan kontribusi ini untuk menghitung total distribusi XNF secara akurat untuk setiap pengguna. Pendekatan metodis ini memastikan distribusi yang adil, dengan memberikan penghargaan kepada keterlibatan aktif pengguna dalam pembakaran token dan kontribusinya dalam hal biaya swap.
+
+Protokol menghitung kontribusi pembakaran (BC) dari pengguna tertentu dalam satu siklus, berdasarkan total token XNF yang didistribusikan (TCD), jumlah total batch yang dibakar oleh semua pengguna (TNB), dan jumlah batch yang dibakar oleh pengguna tertentu (UNB). Berikut adalah rumus yang dijelaskan secara rinci:
+
+<br>
+
+$$
+BC = (TCD \div 2) \kali (UBB \div TBB)
+$$
+
+<br>
 
 **Di mana:**
 
-- *BC* - mewakili kontribusi bakar pengguna. 
-- *TCD* - adalah total jumlah token XNF yang didistribusikan dalam satu siklus.
-- *UBB* - adalah jumlah batch yang dibakar pengguna tertentu dalam satu siklus.
-- *TBB* - adalah total batch yang dibakar dalam satu siklus oleh semua pengguna.  
+- *BC* - mewakili kontribusi pembakaran pengguna.
+- *TCD* - adalah jumlah total token XNF yang didistribusikan dalam satu siklus.
+- *UBB* - adalah jumlah batch yang telah dibakar oleh pengguna tertentu dalam satu siklus.
+- *TBB* - adalah jumlah total batch yang dibakar dalam satu siklus oleh semua pengguna.
 
 <br>
 
-Begini cara kerjanya: Protokol menghitung kontribusi bakar dengan pertama membagi total token yang didistribusikan selama satu siklus (TCD) dengan 2, karena 50% dari cetakan harian XNF dialokasikan kepada peserta yang membakar vXEN atau vUSDy. Kemudian menghitung proporsi batch yang dibakar oleh pengguna tertentu (UNB) terhadap total batch yang dibakar oleh semua pengguna (TNB). Hasilnya adalah nilai per batch yang dibakar. Terakhir, protokol mengalikan dua nilai ini untuk menentukan kontribusi bakar individu pengguna dalam siklus tersebut (BC).  
+Begini cara kerjanya: Protokol menghitung kontribusi pembakaran dengan terlebih dahulu membagi total token yang didistribusikan selama siklus (TCD) dengan 2, karena 50% dari XNF mint harian dialokasikan untuk peserta yang membakar vXEN atau vUSDy. Kemudian menghitung proporsi batch yang dibakar oleh pengguna tertentu (UNB) terhadap total batch yang dibakar oleh semua pengguna (TNB). Ini menghasilkan nilai per batch yang dibakar. Terakhir, protokol mengalikan kedua nilai ini untuk menentukan kontribusi pembakaran individu pengguna dalam siklus tersebut (BC).
 
-Perhitungan kontribusi swap mengikuti logika yang sama, di mana protokol menghitung kontribusi swap (SC) pengguna tertentu dalam satu siklus, berdasarkan total token XNF yang didistribusikan (TCD), total biaya swap yang dibayar semua pengguna (TSF), dan biaya swap yang dibayar pengguna tertentu (USF). Berikut penjelasan rinci formulanya:
+Perhitungan kontribusi swap mengikuti logika yang sama, di mana protokol menghitung kontribusi swap (SC) dari pengguna tertentu dalam satu siklus, berdasarkan total token XNF yang didistribusikan (TCD), total biaya swap yang dibayarkan oleh semua pengguna (TSF), dan biaya swap yang dibayarkan oleh pengguna tertentu (USF). Berikut adalah rumus yang dijelaskan secara rinci:
 
 <br>
 
 $$
 SC = (TCD \div 2) \times (USF \div TSF)
-$$  
+$$
 
 <br>
 
 **Di mana:**
 
 - *SC* - mewakili kontribusi swap pengguna.
-- *TCD* - adalah total jumlah token XNF yang didistribusikan dalam satu siklus. 
-- *USF* - adalah biaya swap yang dibayar pengguna tertentu dalam satu siklus.
-- *TSF* - adalah total biaya swap yang dibayar dalam satu siklus oleh semua pengguna.
+- *TCD* - adalah jumlah total token XNF yang didistribusikan dalam satu siklus.
+- *USF* - adalah biaya swap yang dibayarkan oleh pengguna tertentu dalam satu siklus.
+- *TSF* - adalah total biaya swap yang dibayarkan dalam satu siklus oleh semua pengguna.
 
-<br> 
+<br>
 
-Begini cara kerjanya: Protokol menghitung kontribusi swap pengguna (SC) dengan pertama membagi total token XNF yang didistribusikan (TCD) dengan 2, karena 50% dari cetakan harian XNF dialokasikan kepada peserta yang melakukan pertukaran di rantai yang didukung. Kemudian mengalikannya dengan rasio biaya swap pengguna (USF) terhadap total biaya swap (TSF) yang dibayar semua pengguna. Ini menghasilkan nilai tertentu untuk setiap unit biaya swap yang dibayar dan membantu menentukan proporsi token XNF yang akan diterima pengguna berdasarkan kontribusi individu mereka terhadap biaya swap dalam satu siklus tertentu.
+Begini cara kerjanya: Protokol menghitung kontribusi swap (SC) pengguna dengan terlebih dahulu membagi total token XNF yang didistribusikan (TCD) dengan 2, karena 50% dari pencetakan harian XNF dialokasikan untuk peserta yang melakukan swap pada chain yang didukung. Kemudian mengalikan hasilnya dengan rasio biaya swap pengguna (USF) dengan total biaya swap (TSF) yang dibayarkan oleh semua pengguna. Ini menghasilkan nilai tertentu untuk setiap unit biaya swap yang dibayarkan dan membantu dalam menentukan proporsi token XNF yang diterima pengguna berdasarkan kontribusi individu mereka terhadap biaya swap dalam siklus tertentu.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Penjelasan Visual
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
-  </picture>
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility: visible;max-width: 100%;">
+  <gambar>
 </p>
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Staking Token XNF
+## ◽️ Staking XNF Token
 
-Setiap siklus, protokol Xenify mendistribusikan token XNF yang baru dicetak kepada penggunanya. Distribusi berlangsung pada akhir setiap hari dan mematuhi struktur alokasi tertentu. Secara khusus, 50% dari cetakan XNF harian dialokasikan kepada pengguna yang terlibat dalam pembakaran token vXEN dan vUSDy, dan 50% sisanya didistribusikan kepada pengguna yang berpartisipasi dalam pertukaran di semua rantai EVM yang didukung.
+Setiap siklus, protokol Xenify mendistribusikan token XNF yang baru dicetak kepada para penggunanya. Distribusi dilakukan pada akhir setiap hari dan mengikuti struktur alokasi tertentu. Secara khusus, 50% dari XNF yang dicetak setiap hari dialokasikan untuk pengguna yang terlibat dalam pembakaran token vXEN dan vUSDy, dan 50% sisanya didistribusikan kepada pengguna yang berpartisipasi dalam pertukaran di semua rantai EVM yang didukung.
 
-Token XNF yang di-staking memainkan peran penting dalam akumulasi hadiah rantai asli bagi pengguna, dengan bagian masing-masing pengguna ditentukan oleh posisi veXNF mereka dan kekuatan penghasilan terkait. Token yang di-staking mulai mengumpulkan hadiah rantai asli dalam siklus yang sama saat mereka di-staking. Hadiah ini dikumpulkan ke dalam pool hadiah selama setiap siklus dan kemudian didistribusikan oleh protokol kepada pemegang staking XNF pada akhir siklus harian.
+Token XNF yang dipertaruhkan memainkan peran penting dalam akumulasi hadiah rantai asli untuk pengguna, dengan bagian setiap pengguna ditentukan oleh posisi veXNF mereka dan daya penghasilan terkait. Token yang di-stake mulai mengakumulasi reward rantai asli dalam siklus yang sama dengan yang di-stake. Hadiah ini dikumpulkan ke dalam kumpulan hadiah selama setiap siklus dan kemudian didistribusikan di antara XNF stakers oleh protokol pada akhir siklus harian.
 
-Pengguna yang bertujuan untuk memperoleh bagian dari hadiah rantai asli di Xenify perlu secara manual men-staking token XNF mereka atau secara aktif mengklaim alokasi XNF harian mereka. Dengan melakukan itu, mereka mengunci XNF mereka untuk periode staking yang dipilih, yang bisa sesingkat dua minggu atau hingga empat tahun. Setelah periode kunci yang diinginkan ditetapkan, XNF pengguna di-staking dan dikunci sesuai periode yang dipilih. Selanjutnya, protokol mencetak token veXNF untuk pengguna, mencerminkan jumlah XNF yang di-staking dan periode kunci yang dipilih. Sepanjang periode kunci, pengguna tidak dapat melepas staking XNF mereka tetapi terus mengumpulkan hadiah rantai asli. Distribusi hadiah ini ditentukan oleh kekuatan penghasilan veXNF mereka.
+Pengguna yang ingin mendapatkan bagian dari reward chain asli di Xenify harus melakukan staking token XNF mereka secara manual atau secara aktif mengklaim alokasi XNF harian mereka. Dengan demikian, mereka mengunci XNF mereka untuk periode staking yang dipilih, yang bisa sesingkat dua minggu atau selama empat tahun. Setelah periode penguncian yang diinginkan ditetapkan, XNF pengguna akan di-staking dan dikunci sesuai periode yang dipilih. Selanjutnya, protokol mencetak token veXNF untuk pengguna, yang mencerminkan jumlah XNF yang dipertaruhkan dan periode penguncian yang dipilih. Selama periode penguncian, pengguna tidak dapat melepas staking XNF mereka tetapi terus mengumpulkan reward rantai asli. Distribusi hadiah ini ditentukan oleh kekuatan penghasilan veXNF mereka.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)   
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Melepas Staking Token XNF
+## ◽️ Tidak Meninggalkan Token XNF
 
-Setelah menyelesaikan siklus staking yang dipilih, pengguna memiliki opsi untuk melepas staking token XNF mereka. Penting untuk dicatat bahwa pengguna tidak dapat melepas staking XNF mereka selama periode kunci yang ditentukan. Namun, pengguna akan mengumpulkan hadiah rantai asli sepanjang periode kunci. Hadiah ini secara langsung terhubung dengan posisi veXNF mereka, dengan kekuatan veXNF pengguna selama siklus staking menentukan bagian mereka dari setiap distribusi hadiah.
+Setelah menyelesaikan siklus staking yang mereka pilih, pengguna memiliki opsi untuk membatalkan staking token XNF mereka. Penting untuk dicatat bahwa pengguna tidak dapat melepas staking XNF mereka selama periode penguncian yang ditentukan. Namun, pengguna akan mengakumulasi reward rantai asli selama periode penguncian. Hadiah ini terhubung langsung ke posisi veXNF mereka, dengan kekuatan veXNF pengguna selama siklus staking menentukan bagian mereka dari setiap distribusi hadiah.
 
-Setelah periode kunci yang dipilih berakhir, kekuatan penghasilan posisi veXNF pengguna akan sepenuhnya memudar. Ini berarti bahwa mereka tidak lagi akan memperoleh hadiah rantai asli atas posisi mereka. Pada titik ini, pengguna memiliki dua pilihan: mereka dapat memperpanjang siklus staking mereka untuk durasi maksimum 4 tahun untuk melestarikan kekuatan penghasilan veXNF mereka, atau mereka dapat memutuskan untuk melepas staking token XNF mereka dan mendapatkan kembali kepemilikan penuh.
+Setelah periode penguncian yang dipilih selesai, daya penghasilan dari posisi veXNF pengguna akan benar-benar hilang. Ini berarti bahwa mereka tidak akan lagi mendapatkan reward chain asli dari posisi mereka. Pada titik ini, pengguna memiliki dua pilihan: mereka dapat memperpanjang siklus staking mereka untuk durasi maksimum 4 tahun untuk mempertahankan daya penghasilan veXNF mereka, atau mereka dapat memutuskan untuk melepaskan token XNF mereka dan mendapatkan kembali kepemilikan penuh.
 
-Keputusan apakah akan memperpanjang siklus staking atau melepas staking token sepenuhnya terserah pengguna. Xenify memberi fleksibilitas bagi setiap pengguna untuk menilai preferensi mereka dan membuat keputusan terinformasi tentang langkah terbaik untuk keadaan mereka.
+Keputusan apakah akan memperpanjang siklus staking atau membatalkan staking token sepenuhnya ada di tangan pengguna. Xenify memberikan fleksibilitas bagi setiap pengguna untuk menilai preferensi mereka dan membuat keputusan berdasarkan informasi tentang tindakan terbaik untuk keadaan mereka.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Mengklaim Hadiah Rantai Asli
 
-Xenify memberdayakan pengguna untuk dengan mudah mengklaim dan menarik hadiah rantai asli terakumulasi mereka kapan pun mereka mau. Namun, perhatikan bahwa Biaya Klaim 25% akan diberlakukan saat mengklaim hadiah rantai asli Anda.
+Xenify memberdayakan pengguna untuk dengan mudah mengklaim dan menarik akumulasi native chain rewards mereka sesuai keinginan mereka. Namun, perlu diketahui bahwa Biaya Klaim sebesar 25% akan dikenakan saat mengklaim hadiah rantai asli Anda.
 
-Untuk menghindari Biaya Klaim 25%, cukup klik tombol "Daur Ulang". Ini memungkinkan Anda menggunakan token rantai asli terakumulasi Anda untuk memperoleh XNF dengan berpartisipasi dalam pembakaran harian vUSDy, sama sekali menghindari Biaya Klaim. Sepanjang setiap siklus, token asli yang dikumpulkan dari biaya ini disimpan dalam kolam sementara. Pada akhir siklus, token ini secara eksklusif didistribusikan di antara pemegang veXNF yang telah menggunakan fungsi Daur Ulang selama siklus tersebut. 
+Untuk menghindari Biaya Klaim 25%, cukup klik tombol "Daur Ulang". Hal ini memungkinkan Anda untuk menggunakan akumulasi token rantai asli Anda untuk memperoleh XNF dengan berpartisipasi dalam pembakaran harian vUSDy, sehingga Anda tidak perlu membayar Biaya Klaim. Di setiap siklus, token asli yang dikumpulkan dari biaya ini disimpan dalam pool sementara. Di akhir siklus, token-token ini didistribusikan secara eksklusif di antara pemegang veXNF yang telah menggunakan fungsi Daur Ulang selama siklus tersebut.
 
-Distribusi unik ini terjadi selama distribusi harian hadiah rantai asli protokol, dengan setiap peserta yang memenuhi syarat menerima bagian berdasarkan posisi mereka. Sebagai contoh, jika pengguna mendaur ulang hadiah mereka selama satu siklus, mereka akan dimasukkan dalam distribusi hasil yang dihasilkan dari Biaya Klaim pada akhir siklus tersebut.
+Distribusi unik ini terjadi selama distribusi harian reward chain asli protokol, dengan setiap peserta yang memenuhi syarat menerima bagian berdasarkan posisi mereka. Misalnya, jika pengguna mendaur ulang reward mereka selama satu siklus, mereka akan diikutsertakan dalam distribusi hasil yang dihasilkan dari Biaya Klaim pada akhir siklus tersebut.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mendaur Ulang Hadiah Rantai Asli
+## ◽️ Daur Ulang Rantai Hadiah Asli
 
-Temukan cara cerdas memaksimalkan hadiah Anda dengan fitur daur ulang Xenify! Dengan memilih mendaur ulang hadiah rantai asli Anda, Anda tidak hanya akan melewati biaya klaim 25% tetapi juga meningkatkan posisi XNF Anda, karena seluruh saldo hadiah Anda digunakan untuk bergabung dalam pembakaran harian vXEN. 
+Temukan cara cerdas untuk memaksimalkan reward Anda dengan fitur daur ulang Xenify! Dengan memilih untuk mendaur ulang reward chain asli Anda, Anda tidak hanya akan melewati biaya klaim 25% tetapi juga meningkatkan posisi XNF Anda, karena seluruh saldo reward Anda digunakan untuk bergabung dengan pembakaran vXEN harian.
 
-Yang membedakan proses ini adalah kemampuan protokol untuk mencetak token vXEN yang setara dengan nilai hadiah Anda dan langsung mengurangi biaya bakar dari saldo hadiah Anda. Ini berarti Anda dapat membakar vXEN tanpa perlu hadiah rantai asli tambahan untuk menutupi biaya cetak atau biaya bakar wajib, yang biasanya diperlukan dalam proses pembakaran default. 
+Yang membedakan proses ini adalah kemampuan protokol untuk mencetak token vXEN yang setara dengan nilai reward Anda dan secara langsung mengurangi biaya burn dari saldo reward Anda. Ini berarti Anda dapat membakar vXEN tanpa memerlukan reward rantai asli tambahan untuk menutupi biaya mint atau biaya pembakaran yang biasanya diperlukan dalam proses pembakaran standar.
 
-Dengan memanfaatkan fungsi daur ulang, Anda juga akan mendapatkan akses eksklusif ke distribusi harian token asli yang dihasilkan dari biaya klaim 25% platform. Biaya klaim ini akan dikumpulkan setiap kali pengguna memutuskan untuk mengklaim hadiah rantai asli mereka. Pada akhir siklus, token asli terakumulasi akan didistribusikan secara eksklusif kepada pemegang veXNF yang telah didaur ulang selama siklus tersebut. Semakin banyak hadiah rantai asli yang Anda daur ulang dalam satu siklus, semakin besar bagian Anda untuk siklus tersebut. Sebagai contoh, jika hadiah rantai asli senilai $100.000 ditarik selama satu siklus dan Anda satu-satunya pemegang staking XNF yang mendaur ulang selama siklus itu, Anda akan menerima seluruh $25.000 senilai token rantai asli yang dihasilkan dari biaya klaim pada akhir siklus.
+Dengan memanfaatkan fungsi daur ulang, Anda juga akan mendapatkan akses eksklusif ke distribusi harian token asli yang dihasilkan dari biaya klaim platform sebesar 25%. Biaya klaim ini akan dikumpulkan setiap kali pengguna memutuskan untuk mengklaim hadiah rantai asli mereka. Di akhir siklus, akumulasi token asli akan didistribusikan secara eksklusif kepada pemegang veXNF yang telah mendaur ulang selama siklus. Semakin banyak reward chain native yang Anda daur ulang dalam satu siklus, semakin besar bagian Anda untuk siklus tersebut. Misalnya, jika hadiah rantai asli senilai $100.000 diklaim selama satu siklus dan Anda adalah satu-satunya staker XNF yang mendaur ulang selama siklus tersebut, Anda akan menerima seluruh token rantai asli senilai $25.000 yang dihasilkan dari biaya klaim di akhir siklus.
 
-Tunggu dulu, masih ada lagi! Sebagai ungkapan terima kasih atas partisipasi aktif mereka dalam protokol, pemegang veXNF yang mendaur ulang hadiah mereka selama satu siklus juga memenuhi syarat untuk distribusi eksklusif XNF dan XEN pada akhir setiap siklus. Protokol akan memperoleh XNF dan XEN dari likuiditas milik protokol, menarik 1% dari total token LP XNF dan 1% dari token LP XEN yang dipegang pada akhir siklus. Token rantai asli yang diperoleh dari token LP yang ditarik kemudian digunakan untuk membeli XNF dan XEN. Token yang dibeli ini, digabungkan dengan token XNF dan XEN yang ditarik, kemudian didistribusikan di antara pemegang veXNF yang telah berpartisipasi dalam mendaur ulang hadiah selama siklus sebelumnya. Dengan kata lain, semakin banyak hadiah rantai asli yang Anda daur ulang selama satu siklus, semakin besar bagian Anda atas XNF dan XEN yang diperoleh dari likuiditas milik protokol. 
+Tapi tunggu, masih ada lagi! Sebagai tanda terima kasih atas partisipasi aktif mereka dalam protokol, pemegang veXNF yang mendaur ulang reward mereka selama satu siklus juga berhak mendapatkan distribusi eksklusif XNF dan XEN di akhir setiap siklus. Protokol akan memperoleh XNF dan XEN dari likuiditas yang dimiliki protokol, menarik 1% dari total token XNF LP dan 1% dari token XEN LP yang disimpan di akhir siklus. Token rantai asli yang diperoleh dari token LP yang ditarik kemudian digunakan untuk membeli XNF dan XEN. Token yang dibeli ini, digabungkan dengan token XNF dan XEN yang ditarik, kemudian didistribusikan di antara pemegang veXNF yang telah berpartisipasi dalam mendaur ulang hadiah selama siklus sebelumnya. Sederhananya, semakin banyak reward rantai asli yang Anda daur ulang selama satu siklus, semakin besar bagian Anda dari XNF dan XEN yang diperoleh dari likuiditas yang dimiliki protokol.
 
-Untuk memanfaatkan fitur daur ulang ini, pastikan Anda memiliki saldo hadiah rantai asli yang cukup untuk memperoleh setidaknya satu batch vXEN untuk proses pembakaran. Jika saldo hadiah Anda kurang dari jumlah token rantai asli yang diperlukan, opsi daur ulang tidak akan dapat diakses oleh Anda. Dengan mendaur ulang hadiah rantai asli Anda, Anda tidak hanya akan memperkuat posisi XNF tetapi juga menikmati proses yang disederhanakan yang menghilangkan biaya fungsi bakar biasa. Ini adalah situasi menang-menang yang memberi penghargaan atas partisipasi aktif dan komitmen Anda terhadap pertumbuhan Xenify.
+Untuk memanfaatkan fitur daur ulang ini, pastikan bahwa Anda memiliki saldo reward chain asli yang cukup untuk memperoleh setidaknya satu batch vXEN untuk proses burn. Jika saldo reward Anda kurang dari jumlah token chain asli yang diperlukan, opsi daur ulang tidak akan dapat diakses oleh Anda. Dengan mendaur ulang reward chain asli Anda, Anda tidak hanya akan memperkuat posisi XNF Anda, tetapi juga menikmati proses yang disederhanakan yang menghilangkan biaya fungsi burn yang biasa. Ini adalah situasi yang saling menguntungkan yang menghargai partisipasi aktif dan komitmen Anda terhadap pertumbuhan Xenify.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Ikhtisar Proses Daur Ulang
 
-  - Anda memutuskan untuk mendaur ulang hadiah rantai asli Anda.
-  - Protokol menggunakan oracle harga Chainlink untuk mengetahui nilai dolar dari saldo hadiah rantai asli Anda.
-  - Berdasarkan nilai dolar kontribusi Anda, protokol mencetak sejumlah batch vXEN yang sesuai. Jumlah batch ditentukan dengan pembulatan ke bawah ke jumlah batch terdekat.
-  - Semua batch vXEN yang dicetak segera dibakar untuk berpartisipasi dalam lelang pembakaran harian, dan protokol mengumpulkan biaya bakar dari hadiah rantai asli didaur ulang Anda.
-  - Setelah proses pembakaran, sisa hadiah rantai asli Anda dikirim ke Kontrak Daur Ulang.
-  - Kontrak Daur Ulang membagi tiga token asli: 50% untuk membuat likuiditas milik protokol XNF, 25% untuk membuat likuiditas milik protokol XEN, dan 25% dialokasikan ke tim sebagai USDC untuk mendukung pengembangan, pemasaran, dan inisiatif penjangkauan Xenify yang sedang berlangsung.
-  - Token LP XNF dan token LP XEN yang diperoleh dari proses daur ulang dipegang oleh protokol.
-  - Pada akhir lelang pembakaran harian, Anda menerima token XNF berdasarkan batch vXEN yang dibakar dari kontribusi didaur ulang Anda.
-  - Selanjutnya, Anda akan menerima bagian Anda dari hadiah rantai asli harian berdasarkan saldo veXNF Anda dan kekuatan terkaitnya.
-  - Terakhir, sebagai pengguna daur ulang, Anda juga akan menerima sebagian dari token rantai asli apa pun yang dikumpulkan dari biaya klaim selama siklus, serta bagian dari XNF dan XEN yang diperoleh dari likuiditas milik protokol.
-  
-Dengan mendaur ulang hadiah rantai asli Anda, Anda tidak hanya akan memperkuat posisi XNF tetapi juga menikmati proses yang disederhanakan yang menghilangkan biaya biasa yang terkait dengan lelang pembakaran harian. Yang terpenting, sebagai pengguna daur ulang yang berdedikasi, Anda akan memperoleh token rantai asli yang dihasilkan dari biaya klaim 25% dan memenuhi syarat untuk distribusi eksklusif XNF dan XEN pada akhir setiap siklus. Ini adalah situasi win-win yang memberi penghargaan atas partisipasi aktif dan komitmen Anda terhadap pertumbuhan Xenify.
+  - Anda memutuskan untuk mendaur ulang reward chain asli Anda.
+  - Protokol ini menggunakan peramal harga Chainlink untuk memastikan nilai dolar dari saldo reward chain asli Anda.
+  - Berdasarkan nilai dolar dari kontribusi Anda, protokol akan mencetak sejumlah batch vXEN yang sesuai. Jumlah batch ditentukan dengan pembulatan ke bawah ke jumlah batch terdekat.
+  - Semua batch vXEN yang dicetak segera dibakar untuk berpartisipasi dalam lelang pembakaran harian, dan protokol mengumpulkan biaya pembakaran dari reward chain asli Anda yang didaur ulang.
+  - Setelah proses pembakaran, reward chain asli Anda yang tersisa dikirim ke Kontrak Daur Ulang.
+  - Kontrak Daur Ulang membagi token asli dengan tiga cara: 50% untuk menciptakan likuiditas milik protokol XNF, 25% untuk menciptakan likuiditas milik protokol XEN, dan 25% dialokasikan untuk tim sebagai USDC untuk mendukung inisiatif pengembangan, pemasaran, dan penjangkauan Xenify yang sedang berlangsung.
+  - Token XNF LP dan token XEN LP yang diperoleh dari proses daur ulang dipegang oleh protokol.
+  - Di akhir lelang bakar harian, Anda menerima token XNF berdasarkan batch vXEN yang dibakar dari kontribusi daur ulang Anda.
+  - Selanjutnya, Anda akan menerima bagian Anda dari reward rantai asli harian berdasarkan saldo veXNF Anda dan kekuatan yang terkait.
+  - Terakhir, sebagai pendaur ulang, Anda juga akan menerima sebagian token rantai asli yang dikumpulkan dari biaya klaim selama siklus, serta bagian XNF dan XEN yang diperoleh dari likuiditas yang dimiliki protokol.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+Dengan mendaur ulang reward rantai asli Anda, Anda tidak hanya akan memperkuat posisi XNF Anda, tetapi juga menikmati proses yang disederhanakan yang menghilangkan biaya yang biasa terkait dengan lelang burn harian. Yang terpenting, sebagai pendaur ulang yang berdedikasi, Anda akan mendapatkan token rantai asli yang dihasilkan dari biaya klaim 25% dan memenuhi syarat untuk mendapatkan distribusi eksklusif XNF dan XEN di akhir setiap siklus. Ini adalah situasi win-win yang menghargai partisipasi aktif dan komitmen Anda terhadap pertumbuhan Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Distribusi Hadiah Token Asli
 
-Selama setiap siklus, pool hadiah protokol secara bertahap mengakumulasi token asli yang dihasilkan dari biaya bakar dan biaya swap. Pool ini tumbuh dengan setiap transaksi, baik itu pertukaran atau pembakaran. Total jumlah dari pool hadiah kemudian didistribusikan di antara pemegang staking XNF berdasarkan pegangan veXNF dan kekuatan terkait.
+Selama setiap siklus, kumpulan reward protokol secara bertahap mengakumulasi token asli yang dihasilkan dari biaya burn dan biaya swap. Kumpulan ini bertambah dengan setiap transaksi, baik itu swap maupun burn. Jumlah total kumpulan hadiah kemudian didistribusikan di antara XNF stakers berdasarkan kepemilikan veXNF dan kekuatan terkait.
 
-Selain distribusi token asli dari biaya swap dan biaya bakar, ada distribusi eksklusif token asli bagi pemegang veXNF yang telah mendaur ulang hadiah mereka selama siklus tersebut. Distribusi tambahan ini mencakup token asli yang dihasilkan dari biaya klaim 25% Xenify untuk hadiah rantai asli. 
+Selain distribusi token asli dari biaya swap dan biaya pembakaran, ada distribusi eksklusif token asli untuk pemegang veXNF yang telah mendaur ulang reward mereka selama siklus. Distribusi tambahan ini termasuk token asli yang dihasilkan dari biaya klaim 25% Xenify untuk hadiah rantai asli.
 
-Penting untuk dicatat bahwa mengklaim XNF di Xenify tidak dikenakan biaya klaim. Namun, jika pemegang veXNF memilih untuk mengklaim hadiah rantai asli mereka, akan ada biaya klaim 25%. Token rantai asli yang diperoleh dari biaya klaim ini selama satu siklus disisihkan dan didistribusikan di antara pemegang veXNF yang telah mendaur ulang pada siklus sebelumnya.
+Penting untuk dicatat bahwa mengklaim XNF di Xenify tidak dikenakan biaya klaim. Namun, jika pemegang veXNF memilih untuk mengklaim reward chain asli mereka, akan ada biaya klaim sebesar 25%. Token rantai asli yang diperoleh dari biaya klaim ini selama satu siklus akan disisihkan dan didistribusikan di antara pemegang veXNF yang telah mendaur ulang pada siklus sebelumnya.
 
-Dengan struktur hadiah yang unik ini, Xenify mampu memperkuat permintaan dan nilai XNF, sekaligus menyediakan insentif yang menarik bagi pemegang untuk secara aktif berpartisipasi dalam protokol. Ini mendorong keterlibatan dan menumbuhkan basis pengguna yang terus bertambah, membantu memperkuat pertumbuhan protokol jangka panjang.
+Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nilai XNF, sekaligus memberikan insentif yang menarik bagi pemegangnya untuk berpartisipasi aktif dalam protokol. Hal ini mendorong keterlibatan dan menumbuhkan basis pengguna yang terus berkembang, membantu memperkuat pertumbuhan jangka panjang protokol.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Penjelasan Visual
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
-  </picture>
+    <gambar>
 </p>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Arsitektur Xenify
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br> 
+<br>
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
-  </picture>
+  <gambar>
 </p>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png) 
-# ◽️ Airdrop XNF
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ XNF Airdrops
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br> 
+<br>
 
-Memperkenalkan Airdrop Eksklusif XNF Xenify, sebuah inisiatif yang bertujuan mendorong keterlibatan pengguna di platform di beberapa rantai EVM. Untuk membangun antisipasi sebelum peluncuran XNF di rantai baru, acara airdrop 60 hari akan mendahului penerapannya. Seiring pengguna platform melakukan pertukaran token, mereka akan diberi penghargaan dengan alokasi yang murah hati sebesar 1.500.000 token XNF selama acara ini, memberikan kesempatan fantastis untuk memperoleh manfaat dari pertumbuhan Xenify.
+Memperkenalkan XNF Airdrop eksklusif Xenify, sebuah inisiatif yang bertujuan untuk mendorong keterlibatan pengguna pada platform di beberapa rantai EVM. Untuk membangun antisipasi peluncuran XNF yang akan datang di chain baru, acara airdrop selama 60 hari akan mendahului peluncurannya. Saat pengguna platform menukar token, mereka akan diberi hadiah dengan alokasi 1.500.000 token XNF yang murah hati selama acara ini, memberikan peluang fantastis untuk mendapatkan keuntungan dari pertumbuhan Xenify.
 
-1.500.000 token XNF ini awalnya akan didistribusikan sebagai token terkunci pada hari peluncuran, dan secara bertahap akan dibuka selama periode 730 hari. Sebagai contoh, jika Anda menerima 100 token XNF terkunci dari airdrop, Anda dapat mengharapkan sekitar 0,13699 token XNF akan dibuka di dompet Anda setiap harinya.
+1.500.000 token XNF ini pada awalnya akan didistribusikan sebagai token terkunci pada hari peluncuran, secara bertahap dibuka selama 730 hari. Misalnya, jika Anda menerima 100 token XNF yang terkunci dari airdrop, Anda dapat mengharapkan sekitar 0,13699 token XNF untuk dibuka di dompet Anda setiap hari.
 
-Karena token ini akan dibagi di antara peserta swap berdasarkan kontribusi swap harian mereka menjelang peluncuran, semakin banyak Anda melakukan swap selama acara, semakin besar porsi Airdrop XNF Anda akan menjadi!
+Karena token-token ini akan dibagi di antara para peserta swap berdasarkan kontribusi swap harian mereka menjelang peluncuran, semakin banyak Anda melakukan swap selama acara berlangsung, semakin besar bagian Anda dalam Airdrop XNF!
 
-Sekarang, kami paham tentang antusiasme Anda untuk men-staking token XNF itu dan menyaksikan portofolio Anda berkembang. Namun, ada sedikit masalah – token XNF terkunci tidak dapat di-staking. Jadi, jika Anda bertujuan untuk memperoleh bagian dari hadiah rantai asli platform, kami sangat menyarankan Anda juga berpartisipasi dalam lelang pembakaran awal. Ini adalah tiket Anda untuk memperoleh bagian dari hadiah rantai asli dari distribusi awal!
+Sekarang, kami memahami keinginan Anda untuk mempertaruhkan token XNF dan menyaksikan portofolio Anda berkembang. Namun, ada sedikit kendala - token XNF yang terkunci tidak dapat di-staking. Jadi, jika Anda ingin mendapatkan bagian dari reward chain asli platform, kami sangat menyarankan Anda untuk ikut serta dalam lelang burn awal. Ini adalah tiket Anda untuk mendapatkan sebagian dari reward chain asli dari distribusi awal!
 
-Untuk memastikan keadilan dan mencegah sniping menit terakhir, alokasi harian konsisten dari airdrop akan diterapkan sepanjang acara. Ini menjamin bahwa peserta menerima bagian dari airdrop yang mencerminkan tingkat keterlibatan mereka. Sebagai contoh, selama Airdrop Genesis 60 hari di Rantai BNB, 25.000 token XNF akan dialokasikan setiap hari. Bagian Anda dari airdrop Genesis akan didasarkan pada kontribusi harian Anda melalui biaya swap. Bayangkan menjadi satu-satunya pengguna yang melakukan swap pada hari tertentu selama acara 60 hari – Anda akan mengklaim 25.000 XNF yang mengesankan dari airdrop!
+Untuk memastikan keadilan dan mencegah pengambilan gambar di menit-menit terakhir, alokasi airdrop harian yang konsisten akan diterapkan selama acara berlangsung. Hal ini menjamin bahwa peserta menerima bagian airdrop yang mencerminkan tingkat keterlibatan mereka. Misalnya, selama 60 hari Genesis Airdrop di BNB Chain, 25.000 token XNF akan dialokasikan setiap hari. Bagian Anda dari Genesis Airdrop akan didasarkan pada kontribusi harian Anda melalui biaya swap. Bayangkan menjadi satu-satunya pengguna yang melakukan swap pada hari tertentu selama acara 60 hari - Anda akan mendapatkan 25.000 XNF yang mengesankan dari airdrop!
 
-Selanjutnya, untuk mempertahankan keterlibatan, kontribusi yang dibuat selama suatu acara tidak akan digulirkan ke airdrop berikutnya. Kebijakan ini memastikan bahwa pengguna yang berkontribusi hanya sekali tidak secara konsisten dimasukkan dalam airdrop masa depan, mempromosikan partisipasi aktif. 
+Selain itu, untuk menjaga keterlibatan, kontribusi yang dibuat selama acara tidak akan dibawa ke airdrop berikutnya. Kebijakan ini memastikan bahwa pengguna yang berkontribusi hanya sekali tidak akan secara konsisten diikutsertakan dalam airdrop di masa mendatang, sehingga mendorong partisipasi aktif.
 
-Selama fase pra-penerapan, saat acara airdrop sedang berlangsung, biaya swap 0,5% tidak akan dialokasikan kepada pemegang veXNF. Sebaliknya, biaya ini akan digunakan sebagai sumber daya untuk mendukung kemajuan protokol dan upaya penjangkauan. Namun, setelah XNF diterapkan di rantai tertentu, 100% biaya swap yang dihasilkan di rantai tersebut akan dialihkan sebagai hadiah rantai asli harian kepada pemegang veXNF (pemegang staking XNF). Ini menciptakan insentif yang menarik untuk berpartisipasi secara aktif dalam pertumbuhan ekosistem dan memungkinkan pengguna untuk memperoleh manfaat dari volume swap Xenify yang sedang berlangsung.
+Selama fase pra-penyebaran, saat acara airdrop berlangsung, biaya swap 0,5% tidak akan dialokasikan kepada pemegang veXNF. Sebaliknya, biaya ini akan digunakan sebagai sumber daya untuk mendukung perkembangan dan upaya penjangkauan protokol. Namun, setelah XNF digunakan pada chain tertentu, 100% biaya swap yang dihasilkan pada chain tersebut akan dialihkan sebagai reward chain asli harian untuk pemegang veXNF (staker XNF). Hal ini menciptakan insentif yang menarik untuk berpartisipasi aktif dalam pertumbuhan ekosistem dan memungkinkan pengguna mendapatkan keuntungan dari volume swap Xenify yang sedang berlangsung.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Penjelasan Visual  
+## ◽️ Penjelasan Visual
 
 <p align="center" dir="auto">
-  <picture>
+  <gambar>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
-  </picture>
+  <gambar>
 </p>
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Pembakaran Amplify  
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Memperkuat Luka Bakar
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Memperkenalkan [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), koleksi NFT eksklusif yang menyatukan komunitas Xenify dan YSL.IO. Dengan memiliki salah satu NFT luar biasa ini, pengguna Xenify akan membuka efek pembakaran harian yang diperkuat, yang secara eksponensial meningkatkan hitungan batch mereka hingga 100 kali lipat saat membakar vXEN atau vUSDy. Lebih dari itu, memiliki atau menyewa minimal 4 NFT yang sangat diincar ini akan memberi Anda amplifikasi yang bahkan lebih besar, dengan dompet Anda menerima bonus harian hingga 1.000 batch.
+Memperkenalkan [Phoenix Apes] (https://docs.ysl.io/protocol-features/Phoenix-NFT), koleksi NFT eksklusif yang menyatukan komunitas Xenify dan YSL.IO. Dengan memiliki salah satu NFT yang luar biasa ini, pengguna Xenify akan mendapatkan efek pembakaran harian yang diperkuat, yang secara eksponensial meningkatkan jumlah batch mereka hingga 100 saat membakar vXEN atau vUSDy. Selain itu, memiliki atau menyewa minimal 4 NFT yang sangat didambakan ini akan memberi Anda amplifikasi yang lebih besar, dengan dompet Anda menerima bonus harian hingga 1.000 batch.
 
-Selain itu, pemegang NFT Phoenix akan menikmati berbagai manfaat tambahan. Ini termasuk kesempatan untuk mendapatkan hadiah USDC setiap 8 jam sekali dan melewati Sigma Exit Rate pada protokol YSL.IO. Manfaat tambahan ini meningkatkan keterlibatan pengguna sambil memberikan kontribusi signifikan terhadap pertumbuhan ekosistem Xenify dan YSL.IO.
+Selain itu, pemegang Phoenix NFT akan menikmati berbagai fasilitas tambahan. Ini termasuk peluang untuk mendapatkan hadiah USDC setiap 8 jam dan melewati Sigma Exit Rate pada protokol YSL.IO. Manfaat tambahan ini meningkatkan keterlibatan pengguna sekaligus memberikan kontribusi yang signifikan terhadap pertumbuhan ekosistem Xenify dan YSL.IO.
 
-Setiap dompet yang memegang NFT Phoenix Ape tunduk pada Kuota Pengeluaran Mingguan (WOQ) yang mengizinkan satu transaksi pengeluaran yang melibatkan NFT Phoenix Ape setiap 7 hari. Transaksi pengeluaran termasuk mentransfer NFT Phoenix Ape ke dompet lain atau menjual NFT tersebut. Harap dicatat bahwa meskipun pembatasan WOQ berlaku, pemegang dompet masih diizinkan untuk menjembatani utilitas NFT Phoenix Ape mereka ke rantai lain. Singkatnya, menjembatani utilitas NFT ke rantai yang berbeda tidak memicu WOQ maupun berdampak pada kemampuan pengguna untuk menjembatani utilitas NFT Phoenix Ape mereka. 
+Setiap dompet yang menyimpan NFT Phoenix Ape tunduk pada Kuota Keluar Mingguan (WOQ) yang mengizinkan satu transaksi keluar yang melibatkan NFT Phoenix Ape setiap 7 hari. Transaksi keluar termasuk mentransfer NFT Phoenix Ape ke dompet lain atau menjual NFT. Harap diperhatikan bahwa selama pembatasan WOQ berlaku, pemegang dompet masih diizinkan untuk menjembatani utilitas NFT Phoenix Ape mereka ke chain lain. Singkatnya, menjembatani utilitas NFT ke chain yang berbeda tidak memicu WOQ atau memengaruhi kemampuan pengguna untuk menjembatani utilitas NFT Phoenix Ape mereka.
 
-Dan inilah bagian terbaiknya: bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dengan lancar dijembatani ke rantai mana pun yang diluncurkan Xenify. Dengan bonus pembakaran Anda direset setiap hari, Anda akan memiliki kesempatan untuk memetik manfaat dari efek pembakaran yang diperkuat ini di semua rantai yang diluncurkan Xenify setiap harinya!
+Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dengan mudah dihubungkan ke chain mana pun yang diluncurkan Xenify. Dengan pengaturan ulang bonus burn Anda setiap hari, Anda akan memiliki kesempatan untuk mendapatkan keuntungan dari efek burn yang diperkuat di semua chain yang diluncurkan Xenify setiap hari!
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Koleksi Terbatas
-  
-Phoenix Apes, koleksi NFT eksklusif yang dikembangkan untuk YSL.IO, memiliki persediaan yang langka hanya 520. NFT yang sangat dicari ini secara cerdas dirancang dengan utilitas di intinya. Mereka tidak hanya memiliki kekhasan, tetapi juga memberikan pemegang manfaat luar biasa dalam ekosistem YSL.IO.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Phoenix Apes, koleksi NFT eksklusif yang dikembangkan untuk YSL.IO, memiliki persediaan yang langka, yaitu hanya 520 buah. NFT yang banyak dicari ini telah dirancang secara cerdik dengan utilitas pada intinya. Tidak hanya memiliki kelangkaan yang khas, tetapi juga memberikan keuntungan luar biasa bagi pemegangnya dalam ekosistem YSL.IO.
 
-## ◽️ Efek Pembakaran Harian Teramplifikasi
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-Pemegang NFT Phoenix Ape membuka efek pembakaran teramplifikasi eksklusif ketika mereka memilih untuk membakar vXEN atau vUSDy di Xenify. Keunggulan unik ini memberdayakan pemegang NFT untuk mengamankan porsi yang lebih besar dari distribusi harian XNF, sekaligus mendapatkan diskon signifikan pada biaya bakar mereka. Dengan menjembatani kedua komunitas, manfaat istimewa ini memupuk persatuan dan mendorong pertumbuhan kedua protokol.   
+## ◽️ Efek Bakar yang Diperkuat Harian
 
-Begini cara kerjanya: Ketika pemegang NFT Phoenix Ape memutuskan untuk membakar vXEN atau vUSDy di Xenify, mereka membuka bonus pembakaran harian yang melipatgandakan hitungan batch mereka (NB). Bonusnya dibatasi hingga 100 batch per hari per ID NFT. Setelah pengguna menggunakan seluruh 100 batch bonus harian yang dialokasikan untuk NFT Phoenix Ape mereka, NFT tertentu tersebut tidak akan lagi menawarkan pembakaran teramplifikasi pada hari itu.
+Pemegang Phoenix Ape NFT membuka efek pembakaran eksklusif yang diperkuat saat mereka memilih untuk membakar vXEN atau vUSDy di Xenify. Keuntungan unik ini memberdayakan pemegang NFT untuk mendapatkan bagian yang lebih besar dari distribusi harian XNF, sekaligus mendapatkan keuntungan dari diskon yang signifikan untuk biaya pembakaran mereka. Dengan menjembatani kedua komunitas, manfaat luar biasa ini memupuk persatuan dan mendorong pertumbuhan kedua protokol.
 
-Mencari kekuatan tambahan? Kami punya kabar baik hebat! Dengan memiliki atau menyewa setidaknya 4 NFT yang sangat dicari ini, Anda akan mendapatkan amplifikasi yang bahkan lebih besar, dengan dompet Anda menerima bonus harian 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang dicadangkan untuk masing-masing dari 4 ID NFT Anda. Singkatnya, jika Anda memiliki 4 NFT, total bonus harian Anda akan dibatasi hingga 1.000 batch, bukan 1.400 batch. 
+Begini cara kerjanya: Ketika pemegang Phoenix Ape NFT memutuskan untuk membakar vXEN atau vUSDy di Xenify, mereka akan mendapatkan bonus pembakaran harian yang menggandakan jumlah batch (NB) mereka. Bonus dibatasi hingga 100 batch harian per ID NFT. Setelah pengguna menggunakan semua 100 batch bonus harian yang dialokasikan ke NFT Phoenix Ape mereka, NFT tertentu tidak akan lagi menawarkan pembakaran yang diperkuat untuk hari itu.
 
-Ingat, semakin banyak batch yang Anda bakar, semakin banyak penghematan biaya bakar yang Anda dapatkan. Dengan memiliki 4 NFT, Anda dapat mencapai penghematan maksimum 75% dari biaya bakar Anda dengan hanya membakar 9.000 batch selama jam pertama siklus, bukan 10.000 batch seperti biasanya. Ditambah, dengan NFT Phoenix Ape memiliki persediaan terbatas 520, hanya ada maksimum 130 alamat dompet yang dapat menggunakan kekuatan tambahan ini.
+Mencari daya tembak ekstra? Kami punya berita fantastis! Dengan memiliki atau menyewa setidaknya 4 NFT yang sangat dicari ini, Anda akan mendapatkan keuntungan yang lebih besar, dengan dompet Anda menerima bonus harian sebesar 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang disediakan untuk masing-masing dari empat ID NFT Anda. Singkatnya, jika Anda memiliki 4 NFT, total bonus harian Anda akan dibatasi pada 1.000 batch, bukan 1.400 batch.
 
-Dan inilah bagian terbaiknya: bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dengan lancar dijembatani ke rantai mana pun yang diluncurkan Xenify. Misalnya Xenify melakukan ekspansi ke Ethereum dan Anda memiliki 4 NFT Phoenix Ape. Setelah Anda menghabiskan bonus batch harian 1.000 Anda di Rantai BNB, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Ethereum dan menikmati 1.000 batch bonus di sana. Dengan pengalinya direset setiap hari, Anda akan memiliki kesempatan untuk memetik manfaat dari efek pembakaran teramplifikasi ini di semua rantai tempat Xenify diluncurkan setiap harinya! 
+Ingat, semakin banyak batch yang Anda bakar, semakin banyak Anda menghemat biaya pembakaran. Dengan memiliki 4 NFT, Anda dapat mencapai penghematan maksimum 75% dari biaya pembakaran dengan membakar hanya 9.000 batch selama satu jam pertama dalam satu siklus, bukan 10.000 batch seperti biasanya. Selain itu, dengan NFT Phoenix Ape yang memiliki persediaan terbatas sebanyak 520, hanya ada maksimal 130 alamat dompet yang dapat memanfaatkan daya tembak ekstra ini.
 
-Secara ringkas, pemegang NFT Phoenix Ape tidak hanya menikmati peningkatan bagian dari distribusi harian XNF, tetapi juga membuka diskon yang lebih besar pada biaya bakar dengan membakar sejumlah batch yang lebih besar. Jumlah batch maksimum per transaksi dibatasi hingga 10.000 batch, dan diskon biaya bakar diwakili oleh istilah (1 - (NB x CS)) dalam rumus biaya bakar protokol:
+Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dihubungkan dengan mulus ke chain mana pun yang diluncurkan Xenify. Katakanlah Xenify berekspansi ke Ethereum dan Anda memiliki 4 NFT Phoenix Ape. Setelah Anda menghabiskan bonus 1.000 batch harian Anda di BNB Chain, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Ethereum dan menikmati 1.000 batch bonus di sana. Dengan pengali yang disetel ulang setiap hari, Anda akan memiliki kesempatan untuk menuai keuntungan dari efek burn yang diperkuat ini di semua chain yang diluncurkan Xenify setiap hari!
+
+Singkatnya, pemegang NFT Phoenix Ape tidak hanya menikmati peningkatan bagian dari distribusi XNF harian, tetapi juga mendapatkan diskon yang lebih besar untuk biaya pembakaran dengan membakar lebih banyak batch. Jumlah maksimum batch per transaksi dibatasi hingga 10.000 batch, dan diskon biaya pembakaran diwakili oleh istilah (1 - (NB x CS)) dalam rumus biaya pembakaran protokol:
 
 <br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))  
+BF = (FC \kali VB) \kali (1 - (NB \kali BC))
 $$
 
 **Di mana:**
 
-- $BF$ (Biaya Bakar) - Biaya yang dikenakan untuk fungsi bakar, dibayar dalam token asli blockchain.
-- $FC$ (Koefisien Biaya Bakar) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon pada biaya bakar. 
-- $VB$ (Nilai Batch) - Nilai dolar batch yang dibakar oleh pengguna, mempengaruhi biaya bakar seiring meningkatnya nilai batch.
+- $BF$ (Burn Fee) - Biaya yang dikenakan untuk fungsi pembakaran, dibayarkan dalam token asli blockchain.
+- $FC $ (Koefisien Biaya Bakar) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon pada biaya pembakaran.
+- $VB $ (Nilai Batch) - Nilai dolar dari batch yang dibakar oleh pengguna, yang mempengaruhi biaya pembakaran saat nilai batch meningkat.
 - $BC$ (Koefisien Batch) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.
-- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, mempengaruhi diskon biaya bakar seiring meningkatnya jumlah batch. Ini akan dibatasi hingga 10.000 batch.
+- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, yang memengaruhi diskon biaya pembakaran seiring dengan meningkatnya jumlah batch. Ini akan dibatasi pada 10.000 batch.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Contoh: Efek Pembakaran Teramplifikasi
+## ◽️ Contoh: Efek Bakar yang Diperkuat
 
-Mari kita lihat lebih dekat bagaimana pembakaran teramplifikasi bekerja dalam skenario yang berbeda:
+Mari kita cermati lebih dekat, bagaimana cara kerja burn yang diperkuat dalam berbagai skenario:
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 NFT Phoenix Ape
+## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 Phoenix Ape NFT
 
-  - Setiap NFT Phoenix Ape dilengkapi dengan pengali bonus harian yang dibatasi hingga 100 batch. Ketika membakar sejumlah batch tertentu, protokol pertama memverifikasi apakah salah satu NFT Anda memiliki sisa bonus. Jika ya, protokol akan menggunakan saldo bonus Anda untuk meningkatkan hitungan batch Anda.
+  - Setiap NFT Phoenix Ape dilengkapi dengan pengganda bonus harian yang dibatasi hingga 100 batch. Saat membakar sejumlah batch tertentu, protokol pertama-tama memverifikasi apakah ada NFT Anda yang memiliki saldo bonus. Jika ya, protokol akan menggunakan saldo bonus Anda untuk meningkatkan jumlah batch Anda.
 
-  - Sebagai contoh, bayangkan Anda memiliki bonus harian 100 batch pada NFT Anda dan memilih untuk membakar 10 batch. Protokol secara efektif akan melipatgandakan hitungan batch Anda menjadi 20 batch, dengan menggunakan 10 dari bonus batch harian Anda. Akibatnya, 10 batch dari bonus harian ID NFT akan dikurangi, menyisakan 90 batch bonus untuk NFT tersebut pada hari itu.
+  - Misalnya, bayangkan Anda memiliki bonus harian 100 batch di NFT Anda dan memilih untuk membakar 10 batch. Protokol ini secara efektif akan menggandakan jumlah batch Anda menjadi 20 batch, dengan memanfaatkan 10 batch bonus harian Anda. Akibatnya, 10 batch dari bonus harian ID NFT Anda akan dikurangi, menyisakan 90 batch bonus untuk NFT tersebut pada hari itu.
 
-  - Namun, jika Anda memutuskan untuk membakar jumlah yang melebihi saldo bonus Anda, protokol akan menghabiskan seluruh saldo NFT Anda. Sebagai contoh, jika saldo bonus Anda saat ini adalah 90 batch dan Anda memilih untuk membakar setara dengan 5.000 batch, proses pembakaran akan menghitungnya sebagai 5.090 batch, menggunakan keseluruhan 90 batch dari saldo bonus NFT Anda. Akibatnya, 90 batch bonus yang dialokasikan ke ID NFT akan dihapus, menyisakan nol batch bonus untuk NFT tersebut pada hari itu. Jangan khawatir, hitungan batch bonus Anda akan direset menjadi 100 pada hari berikutnya.
+  - Namun, jika Anda memutuskan untuk membakar jumlah yang melebihi saldo bonus Anda, protokol akan menghabiskan seluruh saldo NFT Anda. Misalnya, jika saldo bonus harian Anda saat ini adalah 90 batch dan Anda memilih untuk membakar 5.000 batch, proses pembakaran akan menghitungnya sebagai 5.090 batch, menggunakan seluruh 90 batch dari saldo bonus NFT Anda. Akibatnya, 90 batch bonus yang dialokasikan ke ID NFT akan dihapus, sehingga tidak ada lagi bonus batch untuk NFT tersebut pada hari itu. Jangan khawatir, jumlah batch bonus Anda akan disetel ulang menjadi 100 pada hari berikutnya.
 
-  - Selain itu, Anda memiliki pilihan untuk menjembatani utilitas NFT Anda ke rantai lain di mana Xenify telah diluncurkan. Dengan melakukan ini, Anda dapat mengakses 100 batch bonus harian tambahan pada hari itu, yang secara efektif memberi Anda 200 batch bonus harian untuk NFT Anda. Sebagai contoh, jika Anda telah menghabiskan bonus harian Anda di Rantai BNB, cukup jembatani utilitas NFT Anda ke Ethereum dan terima 1.000 batch bonus harian di Ethereum. Proses ini dapat diulang untuk setiap rantai di mana Xenify telah diterapkan.
+  - Selain itu, Anda memiliki opsi untuk menjembatani utilitas NFT Anda ke chain lain yang telah diluncurkan Xenify. Dengan demikian, Anda dapat mengakses 100 batch bonus harian tambahan pada hari itu, yang secara efektif memberi Anda 200 batch bonus harian untuk NFT Anda. Misalnya, jika Anda telah menghabiskan bonus harian Anda di Rantai BNB, cukup jembatani utilitas NFT Anda ke Ethereum dan dapatkan 1.000 batch bonus harian di Ethereum. Proses ini dapat diulangi untuk setiap chain di mana Xenify telah digunakan.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Skenario 2: Jika Anda memiliki 4 atau lebih NFT Phoenix Ape
+## ♦️ Skenario 2: Jika Anda memiliki 4 atau lebih Phoenix Ape NFT
 
-  - Jika Anda memiliki atau menyewa 4 NFT Phoenix Ape, membakar batch menjadi lebih menarik. Dompet Anda akan menerima bonus harian 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang dicadangkan untuk masing-masing ID NFT Anda. Singkatnya, jika Anda memiliki 4 atau lebih NFT di dompet Anda, total bonus harian Anda akan dibatasi hingga 1.000 batch untuk dompet tersebut. Ketika Anda memilih untuk membakar jumlah batch yang kurang dari bonus harian saat ini Anda, protokol akan melipatgandakan hitungan batch Anda dengan menggunakan jumlah yang setara.
+  - Jika Anda memiliki atau menyewa 4 Phoenix Ape NFT, membakar batch menjadi lebih bermanfaat. Dompet Anda akan menerima bonus harian sebesar 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang disediakan untuk setiap ID NFT Anda. Singkatnya, jika Anda memiliki 4 atau lebih NFT di dompet Anda, total bonus harian Anda akan dibatasi hingga 1,000 batch untuk dompet tersebut. Ketika Anda memilih untuk membakar jumlah batch yang kurang dari bonus harian Anda saat ini, protokol akan menggandakan jumlah batch Anda dengan menggunakan jumlah yang setara.
 
-  - Sebagai contoh, jika Anda memiliki 4 NFT dan bonus harian 1.000 batch, membakar 1 batch akan dihitung sebagai 2 batch selama proses pembakaran. Ini berarti 1 batch akan dikurangi dari bonus NFT harian Anda, menyisakan Anda dengan 999 batch bonus untuk hari itu di rantai tersebut.
+  - Misalnya, jika Anda memiliki 4 NFT dan bonus harian 1.000 batch, membakar 1 batch akan dihitung sebagai 2 batch selama proses pembakaran. Ini berarti bahwa 1 batch akan dipotong dari bonus NFT harian Anda, sehingga Anda akan mendapatkan 999 bonus batch untuk hari itu di chain tersebut.
 
-  - Di sisi lain, jika Anda memutuskan untuk membakar jumlah batch yang melebihi bonus harian saat ini Anda, protokol akan menggunakan seluruh saldo bonus Anda. Mari kita katakan Anda memiliki 4 NFT dan bonus harian 1.000 batch. Jika Anda memilih untuk membakar setara dengan 6.000 batch, itu akan dihitung sebagai 7.000 batch selama proses pembakaran. Protokol akan menggunakan seluruh bonus batch harian 1.000 Anda untuk ini. Akibatnya, Anda tidak akan memiliki sisa batch bonus apa pun untuk digunakan pada hari khusus itu di rantai tersebut. Tapi jangan khawatir, begitu hari berikutnya dimulai, hitungan batch bonus Anda akan direset kembali ke 1.000.
+  - Di sisi lain, jika Anda memutuskan untuk membakar jumlah batch yang lebih besar dari bonus harian Anda saat ini, protokol akan menggunakan seluruh saldo bonus Anda. Katakanlah Anda memiliki 4 NFT dan bonus harian 1.000 batch. Jika Anda memilih untuk membakar setara dengan 6.000 batch, maka akan dihitung sebagai 7.000 batch selama proses pembakaran. Protokol akan menggunakan seluruh bonus 1.000 batch harian Anda untuk ini. Akibatnya, Anda tidak akan memiliki bonus batch yang tersisa untuk digunakan pada hari itu di chain tersebut. Namun jangan khawatir, setelah hari berikutnya dimulai, jumlah bonus batch Anda akan diatur ulang kembali ke 1.000.
 
-  - Selain itu, Anda dapat memilih untuk menjembatani utilitas 4 NFT Anda ke rantai lain yang telah diluncurkan Xenify. Dengan melakukan ini, Anda dapat menggunakan tambahan 1.000 batch bonus harian pada hari itu, yang secara efektif memberi Anda 2.000 batch bonus harian. Sebagai contoh, jika Anda telah menggunakan bonus harian Anda di Rantai BNB, Anda cukup menjembatani utilitas NFT Anda ke Ethereum dan menerima 1.000 batch bonus harian di Ethereum. Anda dapat mengulangi proses ini untuk setiap rantai di mana Xenify telah diterapkan.
+  - Selain itu, Anda dapat memilih untuk menjembatani utilitas 4 NFT Anda ke chain lain yang telah diluncurkan Xenify. Dengan melakukan ini, Anda dapat menggunakan 1.000 bonus harian tambahan pada hari itu, yang secara efektif memberi Anda 2.000 bonus harian. Misalnya, jika Anda telah menggunakan bonus harian Anda di Rantai BNB, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Ethereum dan menerima 1.000 batch bonus harian di Ethereum. Anda dapat mengulangi proses ini untuk setiap chain di mana Xenify telah digunakan.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Hadiah USDC yang Dapat Diklaim
+## ◽️ Hadiah USDC yang dapat diklaim
 
-NFT Phoenix Ape dirancang untuk menjadi perubahan permainan di dunia NFT. Dengan mekanisme sewa yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Ketika NFT Phoenix Ape disewakan melalui marketplace YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Digabungkan dengan bagian dari pajak royalti dari OpenSea, penghasilan ini kemudian didistribusikan ke semua pemegang NFT Phoenix Ape sebagai hadiah USDC di rantai BNB.
+Phoenix NFT telah dirancang untuk menjadi pengubah permainan di dunia NFT. Dengan mekanisme penyewaannya yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Saat NFT Phoenix Ape disewa melalui pasar YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Dikombinasikan dengan bagian pajak royalti dari OpenSea, pendapatan ini kemudian didistribusikan di antara semua pemegang NFT Phoenix Ape sebagai hadiah USDC di Rantai BNB.
 
-Hadiah USDC ini akan tersedia bagi pemegang untuk ditarik pada akhir setiap epoch 8 jam. Dan ini ceri di atas kue: bahkan jika pengguna memutuskan untuk menjembatani NFT Phoenix mereka dari rantai BNB untuk menguatkan pembakaran dengan Xenify di rantai lain, mereka masih memenuhi syarat untuk distribusi USDC. Dengan kata lain, hadiah USDC yang dapat diklaim di rantai BNB akan dicadangkan untuk semua alamat yang memegang NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
+Hadiah USDC ini akan tersedia untuk diklaim oleh pemegangnya pada akhir setiap periode 8 jam. Dan inilah yang paling menarik: meskipun pengguna memutuskan untuk menjembatani Phoenix NFT mereka dari rantai BNB untuk memperkuat burn dengan Xenify di rantai lain, mereka akan tetap memenuhi syarat untuk mendapatkan distribusi USDC. Dalam istilah yang lebih sederhana, reward USDC yang dapat diklaim di Rantai BNB akan dicadangkan untuk semua alamat yang menyimpan NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mekanisme Sewa Unik
+## ◽️ Mekanisme Penyewaan yang Unik
+  
+Phoenix NFT telah dirancang untuk menjadi pengubah permainan di dunia NFT. Dengan mekanisme penyewaannya yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Saat NFT Phoenix Ape disewa melalui pasar YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Dikombinasikan dengan bagian pajak royalti dari OpenSea, pendapatan ini kemudian didistribusikan di antara semua pemegang NFT Phoenix Ape sebagai hadiah USDC di Rantai BNB.
 
-NFT Phoenix Ape dirancang untuk menjadi perubahan permainan di dunia NFT. Dengan mekanisme sewa yang inovatif, NFT unik ini secara aktif mendukung ekosistem YSL.IO dan memungkinkan pengguna menghasilkan pendapatan sewa, sementara penyewa menikmati keuntungan melewati Sigma Exit Rate protokol. Ketika NFT Phoenix Ape disewakan melalui marketplace YSL.IO, sebagian dari pendapatan sewa pengguna dikumpulkan sebagai pajak. Digabungkan dengan bagian dari pajak royalti dari OpenSea, penghasilan ini kemudian didistribusikan ke semua pemegang NFT Phoenix Ape sebagai hadiah USDC di rantai BNB.
+Hadiah USDC ini akan tersedia untuk diklaim oleh pemegangnya pada akhir setiap periode 8 jam. Dan inilah yang paling menarik: meskipun pengguna memutuskan untuk menjembatani Phoenix NFT mereka dari rantai BNB untuk memperkuat burn dengan Xenify di rantai lain, mereka akan tetap memenuhi syarat untuk mendapatkan distribusi USDC. Dalam istilah yang lebih sederhana, reward USDC yang dapat diklaim di Rantai BNB akan dicadangkan untuk semua alamat yang menyimpan NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
 
-Hadiah USDC ini akan tersedia bagi pemegang untuk ditarik pada akhir setiap epoch 8 jam. Dan ini ceri di atas kue: bahkan jika pengguna memutuskan untuk menjembatani NFT Phoenix mereka dari rantai BNB untuk menguatkan pembakaran dengan Xenify di rantai lain, mereka masih memenuhi syarat untuk distribusi USDC. Dengan kata lain, hadiah USDC yang dapat diklaim di rantai BNB akan dicadangkan untuk semua alamat yang memegang NFT Phoenix Ape, terlepas dari apakah mereka menjembatani utilitas ke rantai lain.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Melewati Tingkat Keluar Sigma
+    
+Protokol YSL.IO telah dibuat khusus untuk memberikan stabilitas dan ketahanan bagi semua peserta. Protokol ini menampilkan Model Stabilitas Harga (PSM) yang inovatif yang tidak hanya bertujuan untuk menstabilkan harga token asli (YSL, xYSL, bYSL, dan USDy), tetapi juga menjamin pengguna mengalami likuiditas keluar yang tinggi dan menjaga pertumbuhan jangka panjang likuiditas yang dimiliki oleh treasury.
 
-## ◽️ Melewati Sigma Exit Rate
-
-Protokol YSL.IO sengaja dibangun untuk memberikan stabilitas dan ketahanan bagi semua peserta. Protokol menampilkan Model Stabilitas Harga (PSM) yang inovatif yang tidak hanya bertujuan untuk menstabilkan harga token asli (YSL, xYSL, bYSL, dan USDy), tetapi juga menjamin pengguna mengalami likuiditas keluar yang tinggi dan melestarikan pertumbuhan likuiditas jangka panjang yang dimiliki perbendaharaan. 
-
-Komponen penting dari PSM adalah Sigma Exit Rate, yang membatasi penjualan token dari dompet dengan mempertimbangkan akuisisi pengguna atau penjualan terakhir dari token. Namun, pemegang NFT Phoenix Ape istimewa dapat menikmati kebebasan untuk menjual hingga 100% dari token xYSL, bYSL, atau USDy mereka tanpa dikenai Sigma Exit Rate. Fitur eksklusif ini memberikan pengguna fleksibilitas dan kendali mutlak atas pegangan token asli YSL.IO mereka.
+Komponen penting dari PSM adalah Sigma Exit Rate, yang membatasi penjualan token dari dompet dengan mempertimbangkan akuisisi pengguna atau penjualan terakhir token. Namun, pemegang Phoenix Ape NFT yang memiliki hak istimewa dapat menikmati kebebasan untuk menjual hingga 100% token xYSL, bYSL, atau USDy mereka tanpa dikenakan Sigma Exit Rate. Fitur eksklusif ini memberikan fleksibilitas dan kontrol tertinggi kepada pengguna atas kepemilikan token asli YSL.IO mereka.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Pengalaman Pengguna
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br> 
-
-Xenify sangat mengutamakan penyediaan pengalaman pengguna yang luar biasa, dengan fokus utama pada penciptaan platform yang intuitif dan ramah pengguna. Proses pengenalan dirancang agar lancar, menawarkan petunjuk dan panduan yang jelas yang memberdayakan pengguna untuk dengan mudah menjelajahi platform.
-
-Xenify membedakan diri dari bursa terdesentralisasi tradisional dengan menghilangkan kebutuhan bagi pengguna untuk menyediakan likuiditas. Sebaliknya, itu beroperasi sebagai penggabung rantai-silang, memanfaatkan API untuk memperoleh tarif pertukaran dan biaya minimal yang paling menguntungkan dari beberapa bursa terdesentralisasi. Pendekatan ini menyederhanakan pengalaman pengguna dan memfasilitasi transaksi klik tunggal yang lancar di berbagai jaringan blockchain. 
-
-Pengguna dapat terlibat aktif dengan Xenify melalui berbagai fungsi, termasuk pertukaran token, membakar vXEN atau vUSDy, staking atau unstaking XNF, dan mengklaim hadiah. Platform tidak hanya menyediakan pengalaman yang lancar bagi pengguna tetapi juga secara aktif memberi penghargaan kepada mereka karena menggunakan protokol melalui siklus distribusi hadiah harian.
-
-Model insentif ini memastikan bahwa pengguna Xenify secara konsisten diakui atas partisipasi mereka dan mendorong penggunaan platform yang berkelanjutan. Selain itu, pengguna dapat dengan mudah memantau XNF yang ditumpuk dan hadiah yang terakumulasi, memungkinkan mereka dengan mudah mengklaim atau melepas token XNF mereka hanya dengan beberapa klik. Dengan mengadopsi pendekatan yang berpusat pada pengguna ini, Xenify tetap dapat diakses oleh pengguna pemula dan berpengalaman.
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+Xenify sangat mementingkan pengalaman pengguna yang luar biasa, dengan fokus utama pada pembuatan platform yang intuitif dan ramah pengguna. Proses orientasi dirancang untuk menjadi mulus, menawarkan instruksi dan panduan yang jelas yang memberdayakan pengguna untuk menavigasi platform dengan mudah.
+
+Membedakan dirinya dari bursa terdesentralisasi tradisional, Xenify menghilangkan kebutuhan pengguna untuk menyediakan likuiditas. Sebagai gantinya, Xenify beroperasi sebagai agregator lintas rantai, memanfaatkan API untuk mendapatkan nilai tukar yang paling menguntungkan dan biaya minimal dari beberapa bursa terdesentralisasi. Pendekatan ini menyederhanakan pengalaman pengguna dan memfasilitasi transaksi sekali klik yang mulus di berbagai jaringan blockchain.
+
+Pengguna dapat secara aktif terlibat dengan Xenify melalui berbagai fungsi, termasuk pertukaran token, membakar vXEN atau vUSDy, staking atau unstaking XNF, dan mengklaim reward. Platform ini tidak hanya memberikan pengalaman yang lancar bagi pengguna, tetapi juga secara aktif memberi penghargaan kepada mereka karena menggunakan protokol melalui distribusi siklus hadiah harian.
+
+Model insentif ini memastikan bahwa pengguna Xenify secara konsisten diakui atas partisipasi mereka dan mendorong penggunaan platform yang berkelanjutan. Selain itu, pengguna dapat dengan mudah memantau XNF yang dipertaruhkan dan hadiah yang masih harus dibayar, sehingga mereka dapat dengan mudah mengklaim atau membatalkan staking token XNF mereka hanya dengan beberapa klik. Dengan mengadopsi pendekatan yang berpusat pada pengguna ini, Xenify tetap dapat diakses oleh pengguna pemula dan berpengalaman.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Keamanan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Di Xenify, keamanan sangat penting untuk memastikan keselamatan dan keandalan protokol kami. Untuk memperkuat keamanan protokol kami, kami merencanakan audit kontrak oleh PeckShield, perusahaan keamanan yang sangat dihormati di industri ini. 
+Di Xenify, keamanan sangat penting untuk memastikan keamanan dan keandalan protokol kami. Untuk memperkuat keamanan protokol kami, kami merencanakan audit kontrak oleh PeckShield, sebuah perusahaan keamanan yang sangat dihormati di industri ini.
 
-Platform kami dirancang dengan cermat dengan desentralisasi dan otonomi sebagai prinsip pedoman. Kontrak pintar Xenify bebas dari kunci admin, yang berarti mereka tidak dapat ditingkatkan atau diatur oleh otoritas tersentralisasi. Untuk memperkuat sifat protokol kami yang benar-benar terdesentralisasi dan otonom, potensi penghasilan akan didistribusikan secara adil di antara peserta berdasarkan kepemilikan veXNF mereka dan kekuasaan terkait. Saat Xenify berkembang, kami bertujuan untuk mengutamakan kepentingan pengguna kami, menumbuhkan transparansi dan kepercayaan di seluruh protokol. 
+Platform kami dirancang dengan cermat dengan desentralisasi dan otonomi sebagai prinsip-prinsip panduan. Kontrak pintar Xenify tidak memiliki kunci admin, yang berarti tidak dapat ditingkatkan atau diatur oleh otoritas terpusat. Untuk memperkuat sifat protokol kami yang benar-benar terdesentralisasi dan otonom, potensi penghasilan akan didistribusikan secara adil di antara para peserta berdasarkan kepemilikan veXNF mereka dan kekuatan yang terkait. Seiring dengan perkembangan Xenify, kami bertujuan untuk memprioritaskan kepentingan pengguna kami, memupuk transparansi dan kepercayaan di seluruh protokol.
 
-Misi Xenify adalah untuk membentuk platform DeFi yang transparan, adil, dan berpusat pada pengguna dengan mempertahankan Prinsip-prinsip Pertama Crypto dalam semua upaya kami. Dengan berkomitmen pada nilai-nilai inti ini, kami bercita-cita untuk membangun protokol yang menjunjung tinggi kepercayaan, keadilan, dan pertumbuhan berbasis komunitas di ruang DeFi.
+Misi Xenify adalah membentuk platform DeFi yang transparan, adil, dan berpusat pada pengguna dengan menjunjung tinggi Prinsip-prinsip Pertama Kripto dalam semua upaya kami. Dengan berkomitmen pada nilai-nilai inti ini, kami bercita-cita untuk membangun protokol yang mengedepankan kepercayaan, keadilan, dan pertumbuhan yang didorong oleh komunitas di ruang DeFi.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Peluncuran Adil
+## ◽️ Peluncuran yang adil
+  
+- Peluncuran Xenify dirancang untuk tidak memihak, tanpa pra-penambangan atau pra-alokasi token XNF. Hal ini menjamin lapangan bermain yang adil bagi semua peserta, menumbuhkan lingkungan yang adil dan kesempatan yang sama.
 
-- Peluncuran Xenify dirancang agar adil, tanpa pra-pertambangan atau alokasi pra-XNF token. Ini menjamin lapangan bermain yang setara bagi semua peserta, dan menciptakan lingkungan keadilan dan kesempatan yang setara.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+## ◽️ No Back Doors
 
-## ◽️ Tanpa Pintu Belakang
+- Kontrak pintar dan arsitektur platform Xenify akan dikembangkan dengan cermat tanpa fungsi tersembunyi atau pintu belakang, memastikan keamanan maksimal dan kepercayaan protokol kami.
 
-- Kontrak pintar Xenify dan arsitektur platform akan dikembangkan dengan cermat tanpa fungsionalitas tersembunyi atau pintu belakang, memastikan keamanan dan keandalan protokol kami.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ No Alokasi Tim
 
-## ◽️ Tanpa Alokasi Tim 
+- Para pendiri dan anggota tim tidak akan menerima alokasi token apa pun, menggarisbawahi dedikasi proyek terhadap pendekatan berbasis komunitas dan menghilangkan potensi konflik kepentingan. Sebaliknya, tim Xenify akan berpartisipasi bersama komunitas, mendorong terciptanya lapangan bermain yang adil dan setara bagi semua yang terlibat.
 
-- Para pendiri dan anggota tim tidak akan menerima alokasi token apa pun, menegaskan dedikasi proyek terhadap pendekatan yang didorong komunitas dan menghilangkan potensi konflik kepentingan. Sebaliknya, tim Xenify akan berpartisipasi bersama komunitas, mendorong lapangan bermain yang adil dan setara bagi semua yang terlibat.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+## ◽️ Mulai dari Nol Pasokan
 
-## ◽️ Dimulai dengan Pasokan Nol
+- XNF akan dimulai dengan pasokan token nol, dengan token yang dicetak secara eksklusif melalui partisipasi pengguna dalam ekosistem. Pendekatan ini menjamin bahwa tidak ada kemungkinan untuk peluncuran secara diam-diam, yang sering kali menguntungkan segelintir orang. Sebaliknya, semua peserta akan memiliki kesempatan yang sama untuk terlibat dan mendapatkan manfaat dari protokol.
 
-- XNF akan dimulai dengan pasokan token nol, dengan token yang dicetak secara eksklusif melalui partisipasi pengguna dalam ekosistem. Pendekatan ini menjamin bahwa tidak mungkin ada peluncuran diam-diam, yang sering menguntungkan segelintir orang. Sebaliknya, semua peserta akan memiliki peluang yang sama untuk terlibat dengan protokol dan mendapatkan manfaat darinya.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Bukti Partisipasi
 
-## ◽️ Bukti Partisipasi 
+- Pengguna akan mendapatkan imbalan yang sebanding dengan keterlibatan aktif dan kontribusi mereka dalam ekosistem, mendorong sistem imbalan berbasis prestasi yang mempromosikan keadilan dan inklusivitas untuk semua peserta.
 
-- Pengguna akan mendapatkan hadiah sebanding dengan keterlibatan aktif dan kontribusi mereka dalam ekosistem, mendorong sistem penghargaan berbasis jasa yang mempromosikan keadilan dan inklusi bagi semua peserta.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Tidak Ada Alokasi Investor
 
-## ◽️ Tanpa Alokasi Investor
+- Tidak akan ada alokasi token untuk investor atau pemodal ventura yang memiliki hak istimewa, memastikan distribusi token yang benar-benar adil di antara para pengguna yang secara aktif terlibat dalam ekosistem. Strategi ini menghilangkan perlakuan istimewa dan menumbuhkan lingkungan yang lebih inklusif dan adil bagi semua orang yang terlibat.
 
-- Tidak akan ada alokasi token untuk investor atau modal ventura yang istimewa, memastikan distribusi token yang benar-benar adil di antara pengguna yang terlibat secara aktif dalam ekosistem. Strategi ini menghilangkan perlakuan istimewa dan mendorong lingkungan yang lebih inklusif dan adil bagi semua pihak.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Tidak Ada Penawaran Koin Perdana
 
-## ◽️ Tanpa Penawaran Koin Awal 
+- Xenify akan meniadakan Initial Coin Offering (ICO), yang memperkuat komitmen teguh kami terhadap peluncuran yang adil dan transparan yang memastikan kesempatan yang sama bagi semua peserta.
 
-- Xenify akan menghindari Penawaran Koin Awal (ICO), menegaskan komitmen kami yang tidak goyah untuk meluncurkan secara adil dan transparan yang memastikan kesempatan yang setara bagi semua peserta.
-
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Pengguna Mencetak Ekuitas Mereka
 
-- Token XNF tidak akan dipremine atau dialokasikan kepada investor atau anggota tim. Sebaliknya, pengguna dapat memperoleh token XNF dengan terlibat aktif dengan protokol, baik dengan membakar token vXEN atau vUSDy, atau menukar token dari rantai yang didukung. Pendekatan ini memberi penghargaan kepada pengguna atas kontribusi mereka dan menjamin distribusi XNF yang adil dalam ekosistem.
+- Token XNF tidak akan ditambang sebelumnya atau dialokasikan untuk investor atau anggota tim. Sebaliknya, pengguna dapat memperoleh token XNF dengan secara aktif terlibat dengan protokol, baik dengan membakar token vXEN atau vUSDy, atau menukar token dari rantai yang didukung. Pendekatan ini memberi penghargaan kepada pengguna atas kontribusinya dan menjamin distribusi XNF yang adil di dalam ekosistem.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Kontrak yang Tidak Dapat Diubah (Tanpa Kunci Admin)
 
-- Kontrak pintar Xenify akan dibuat dengan hati-hati tanpa kunci admin atau kontrol terpusat, menjaga keabadian protokol dan memelihara sifat terdesentralisasinya. Apa artinya ini? Begitu tokenomi dan arsitektur protokol kami diterapkan, mereka ditetapkan dalam batu - tidak ada peningkatan atau perubahan yang dapat dilakukan. Komitmen ini terhadap ketidakberubahan memberikan lingkungan yang stabil, transparan, dan aman bagi komunitas kami, memastikan tidak ada entitas tunggal yang dapat membuat keputusan sewenang-wenang untuk memanipulasi protokol.
+  - Kontrak pintar Xenify akan dibuat dengan hati-hati tanpa kunci admin atau kontrol terpusat, menjaga keabadian protokol dan mempertahankan sifat desentralisasinya. Apa artinya ini? Setelah tokenomics dan arsitektur protokol kami digunakan, semuanya sudah ditetapkan - tidak ada peningkatan atau perubahan yang dapat dilakukan. Komitmen terhadap kekekalan ini memberikan lingkungan yang stabil, transparan, dan aman bagi komunitas kami, memastikan bahwa tidak ada satu entitas pun yang dapat membuat keputusan sewenang-wenang untuk memanipulasi protokol.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Kesimpulan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Xenify, penggabung antar-rantai dari penggabung, telah dibangun dengan cermat dari nol untuk mengubah cara pengguna terlibat dalam pertukaran token silang rantai. Fokus utamanya adalah untuk memberikan pengalaman pengguna yang mulus, memberi penghargaan kepada anggota komunitas yang aktif, dan membangun model distribusi token yang adil dan berkelanjutan. Dengan memanfaatkan tokenomi inovatif, Xenify bercita-cita untuk membangun platform terdesentralisasi yang didorong komunitas yang menghargai dan mendorong partisipasi aktif pengguna dalam ekosistem.
+Xenify, sebuah agregator lintas rantai agregator, telah dibangun dengan cermat dari bawah ke atas untuk mengubah cara pengguna terlibat dalam pertukaran token. Fokus utamanya adalah memberikan pengalaman pengguna yang mulus, memberi penghargaan kepada anggota komunitas yang aktif, dan membangun model distribusi token yang adil dan berkelanjutan. Dengan memanfaatkan tokenomics yang inovatif, Xenify bercita-cita untuk membangun platform terdesentralisasi dan berbasis komunitas yang menghargai dan mendorong partisipasi aktif pengguna dalam ekosistem.
 
-Yang membedakan Xenify adalah koneksi mulusnya ke 27 penggabung yang berbeda, memungkinkan pertukaran satu klik yang tak tertandingi di tarif yang tak terkalahkan di 50 rantai terkemuka. Namun, nilainya meluas melampaui kenyamanan semata. Membedakan diri dari bursa lain, Xenify memfasilitasi adopsi pengguna dengan memastikan setiap tindakan yang diambil di platform berkontribusi pada lingkungan timbal balik di mana manfaat terakumulasi berdasarkan kontribusi dan keterlibatan.
+Yang membedakan Xenify adalah koneksinya yang mulus ke 27 agregator yang berbeda, memungkinkan pertukaran sekali klik yang mudah dengan harga yang tidak ada duanya di 50 rantai terkemuka. Namun, nilainya lebih dari sekadar kenyamanan. Membedakan dirinya dari bursa lain, Xenify memfasilitasi adopsi pengguna dengan memastikan setiap tindakan yang diambil pada platform berkontribusi pada lingkungan timbal balik di mana manfaat bertambah berdasarkan kontribusi dan keterlibatan.
 
-Dengan Xenify, pengguna diberi kesempatan eksklusif untuk memperoleh token XNF pada setiap pertukaran, dilengkapi dengan model staking inovatif yang memungkinkan pengguna untuk memperoleh token rantai asli seperti ETH, BNB, dan MATIC setiap hari. Model insentif unik ini tanpa ragu menempatkan Xenify sebagai pilihan teratas bagi mereka yang mencari untuk menyederhanakan proses pertukaran lintas rantai sambil memaksimalkan potensi penghasilan mereka.
+Dengan Xenify, pengguna diberikan kesempatan eksklusif untuk mendapatkan token XNF di setiap swap, dilengkapi dengan model staking inovatif yang memungkinkan pengguna untuk mendapatkan token rantai asli seperti ETH, BNB, dan MATIC setiap hari. Model insentif yang unik ini tidak dapat disangkal memposisikan Xenify sebagai pilihan utama bagi mereka yang ingin menyederhanakan proses pertukaran lintas rantai sambil memaksimalkan potensi penghasilan mereka.
 
-Keamanan dan komitmen terhadap distribusi token yang adil berada di inti prinsip-prinsip Xenify. Protokol ini dirancang dengan hati-hati untuk melindungi kepentingan pengguna, karena menerapkan proses pencetakan yang adil dan struktur insentif yang mendorong pengguna untuk berpartisipasi aktif dalam pertumbuhan ekosistem. Pendekatan unik ini menumbuhkan hubungan saling menguntungkan di antara semua peserta, berkontribusi pada pertumbuhan dan keberlanjutan platform jangka panjang. Dengan mempromosikan lingkungan yang hidup dan didorong komunitas ini dan mempertahankan komitmen terhadap keamanan, transparansi, dan keadilan, Xenify siap muncul sebagai pemimpin di arena pertukaran terdesentralisasi. 
+Keamanan dan komitmen terhadap distribusi token yang adil adalah inti dari prinsip-prinsip Xenify. Protokol ini telah dirancang dengan hati-hati untuk melindungi kepentingan pengguna, karena menerapkan proses pencetakan yang adil dan struktur insentif yang mendorong pengguna untuk secara aktif berpartisipasi dalam pertumbuhan ekosistem. Pendekatan unik ini memupuk hubungan yang saling menguntungkan di antara semua peserta, yang berkontribusi pada pertumbuhan dan keberlanjutan jangka panjang platform ini. Dengan mempromosikan lingkungan yang dinamis dan digerakkan oleh komunitas dan menjunjung tinggi komitmen terhadap keamanan, transparansi, dan keadilan, Xenify siap untuk tampil sebagai pemimpin dalam arena bursa yang terdesentralisasi.
 
-Ringkasnya, Xenify mewakili pergeseran paradigma dalam dunia pertukaran token lintas rantai. Dengan efisiensi mulus, tokenomi yang menghargai, dan komitmen yang teguh terhadap keamanan dan keadilan, Xenify menawarkan kepada pengguna kesempatan yang belum pernah ada sebelumnya untuk terlibat dalam ekosistem yang benar-benar terdesentralisasi yang menghargai partisipasi dan mendorong pertumbuhan bersama. Dengan memilih Xenify, individu dapat mengalami yang terbaik dari dua dunia: pertukaran token yang mulus dan kemampuan untuk memaksimalkan potensi penghasilan mereka.
-
-<br>
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Pertanyaan yang Sering Diajukan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+Singkatnya, Xenify mewakili pergeseran paradigma dalam dunia pertukaran token lintas rantai. Dengan efisiensi yang mulus, tokenomics yang bermanfaat, dan komitmen yang tak tergoyahkan terhadap keamanan dan keadilan, Xenify menawarkan kepada para pengguna kesempatan yang tak tertandingi untuk terlibat dalam ekosistem yang benar-benar terdesentralisasi yang menghargai partisipasi dan mendorong pertumbuhan bersama. Dengan memilih Xenify, individu dapat merasakan yang terbaik dari kedua dunia: pertukaran token yang mudah dan kemampuan untuk memaksimalkan potensi penghasilan mereka.
 
 <br>
 
-Kami mengerti bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fiturnya, dan potensinya. Untuk membantu Anda menavigasi platform kami, kami telah menyusun daftar pertanyaan yang sering diajukan yang memberikan klarifikasi dan wawasan tentang Xenify dan ekosistemnya.
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ FAQ
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
+
+Kami memahami bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fiturnya, dan potensinya. Untuk membantu Anda menavigasi platform kami, kami telah menyusun daftar pertanyaan yang sering diajukan yang memberikan kejelasan dan wawasan tentang Xenify dan ekosistemnya.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Apakah XNF memiliki pasokan awal?
-  - Tidak, Xenify tidak memiliki pasokan awal, dan tidak ada pra-tambang token XNF. Sebaliknya, protokol memberi penghargaan kepada pengguna secara harian atas partisipasi aktif mereka dalam ekosistem. Hal ini dicapai melalui berbagai kontribusi, seperti kontribusi biaya pembakaran yang dilakukan dengan membakar token vXEN atau vUSDy secara langsung, serta biaya swap yang dihasilkan melalui agregator Xenify. Terutama, semua biaya pembakaran dan biaya swap yang dikumpulkan pada rantai EVM yang didukung diarahkan kepada pemegang taruhan XNF secara harian, menyediakan potensi penghasilan jangka panjang yang signifikan.
+  - Tidak, Xenify tidak memiliki persediaan awal, dan tidak ada pra-tambang token XNF. Sebaliknya, protokol memberi penghargaan kepada pengguna setiap hari atas partisipasi aktif mereka dalam ekosistem. Hal ini dicapai melalui berbagai kontribusi, seperti kontribusi biaya pembakaran yang dilakukan dengan membakar token vXEN atau vUSDy secara langsung, serta biaya swap yang dihasilkan melalui agregator Xenify. Khususnya, semua biaya pembakaran dan biaya swap yang dikumpulkan pada rantai EVM yang didukung diarahkan ke staker XNF setiap hari, memberikan potensi penghasilan jangka panjang yang signifikan.
 
-  - Dengan menerapkan sistem distribusi yang adil ini, Xenify bertujuan untuk menciptakan lapangan bermain yang setara bagi semua pengguna, mencegah konsentrasi token di tangan beberapa pengadopsi awal. Sebaliknya, protokol menekankan pentingnya keterlibatan pengguna yang berkelanjutan dan kontribusi, karena hal tersebut secara langsung diterjemahkan menjadi hadiah nyata. Pendekatan inovatif ini membedakan Xenify sebagai platform yang menghargai komunitasnya dan secara aktif mendorong partisipasi mereka dalam membentuk ekosistem.
+  - Dengan menerapkan sistem distribusi yang adil ini, Xenify bertujuan untuk menciptakan lapangan bermain yang setara bagi semua pengguna, mencegah konsentrasi token di tangan beberapa pengguna awal. Sebaliknya, protokol ini menekankan pentingnya keterlibatan dan kontribusi pengguna yang berkelanjutan, karena secara langsung diterjemahkan ke dalam imbalan yang nyata. Pendekatan inovatif ini membedakan Xenify sebagai platform yang menghargai komunitasnya dan secara aktif mendorong partisipasi mereka dalam membentuk ekosistem.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Apa fungsi tombol daur ulang?
-  - Tombol daur ulang adalah fitur yang ramah pengguna yang memprioritaskan kebutuhan pemegang veXNF. Dengan hanya mengklik tombol ini, pengguna dapat dengan mudah mengubah hadiah rantai asli terakumulasi mereka menjadi XNF melalui lelang pembakaran harian. Fitur ini memiliki beberapa keuntungan. Pertama, ini memungkinkan Anda berpartisipasi dalam siklus pembakaran tanpa mengeluarkan biaya pencetakan dan biaya pembakaran wajib yang terkait dengan proses pembakaran default. Ini berarti Anda dapat menikmati manfaat memperoleh XNF melalui siklus pembakaran sambil menghemat biaya tambahan.
+  - Tombol daur ulang adalah fitur ramah pengguna yang memprioritaskan kebutuhan pemegang veXNF. Hanya dengan mengklik tombol ini, pengguna dapat dengan mudah mengonversi akumulasi reward chain asli mereka menjadi XNF melalui lelang burn harian. Fitur ini membawa beberapa keuntungan. Pertama, fitur ini memungkinkan Anda untuk berpartisipasi dalam siklus burn tanpa mengeluarkan biaya mint wajib dan biaya burn yang terkait dengan proses burn default. Ini berarti Anda dapat menikmati manfaat memperoleh XNF melalui siklus burn sambil menghemat biaya tambahan.
 
-  - Selain itu, dengan memilih untuk mendaur ulang hadiah Anda, Anda secara aktif berkontribusi pada pertumbuhan dan keberlanjutan ekosistem Xenify. Protokol menggunakan 50% dari hadiah rantai asli terakumulasi Anda untuk menciptakan likuiditas XNF, memungkinkan pasar yang lebih robust dan efisien bagi token tersebut. Selain itu, 25% dari hadiah digunakan untuk menciptakan likuiditas XEN, yang lebih meningkatkan likuiditas keseluruhan ekosistem. Terakhir, sisa 25% dikirim sebagai USDC ke tim, mendukung pengeluaran operasional yang sedang berlangsung seperti pengembangan platform, kampanye pemasaran, dan kegiatan keterlibatan komunitas.
+  - Selain itu, dengan memilih untuk mendaur ulang reward Anda, Anda secara aktif berkontribusi pada pertumbuhan dan keberlanjutan ekosistem Xenify. Protokol ini menggunakan 50% dari reward rantai asli Anda yang masih harus dibayar untuk menciptakan likuiditas XNF, memungkinkan pasar yang lebih kuat dan efisien untuk token tersebut. Selain itu, 25% reward digunakan untuk menciptakan likuiditas XEN, yang selanjutnya meningkatkan likuiditas ekosistem secara keseluruhan. Terakhir, 25% sisanya dikirim sebagai USDC ke tim, mendukung biaya operasional yang sedang berlangsung seperti pengembangan platform, kampanye pemasaran, dan kegiatan keterlibatan komunitas.
 
-  - Dengan mendaur ulang hadiah Anda, Anda tidak hanya meningkatkan manfaat Anda sendiri tetapi juga memainkan peran penting dalam kesuksesan berkelanjutan platform Xenify. Sebagai hasilnya, para pendaur ulang akan menerima distribusi eksklusif tambahan token rantai asli yang dihasilkan dari biaya klaim platform. Ini berarti bahwa dengan berpartisipasi aktif dalam proses daur ulang, Anda memiliki kesempatan untuk mengamankan lebih banyak token rantai asli, meningkatkan kepemilikan Anda secara keseluruhan.
+  - Dengan mendaur ulang reward Anda, Anda tidak hanya meningkatkan keuntungan Anda sendiri, tetapi juga memainkan peran penting dalam kesuksesan platform Xenify yang berkelanjutan. Hasilnya, pendaur ulang akan menerima distribusi eksklusif tambahan token rantai asli yang dihasilkan dari biaya klaim platform. Ini berarti bahwa dengan berpartisipasi aktif dalam proses daur ulang, Anda memiliki kesempatan untuk mendapatkan lebih banyak token rantai asli, sehingga meningkatkan kepemilikan Anda secara keseluruhan.
 
-  - Kesimpulannya, fitur tombol daur ulang tidak hanya menawarkan kenyamanan tetapi juga menyajikan banyak keuntungan bagi pemegang veXNF. Dengan menghemat biaya, berkontribusi pada pertumbuhan ekosistem, dan mengakses distribusi eksklusif, para pendaur ulang dapat memaksimalkan manfaat mereka sambil mendukung kesuksesan berkelanjutan platform Xenify.
+  - Kesimpulannya, fitur tombol daur ulang tidak hanya menawarkan kenyamanan tetapi juga menghadirkan banyak keuntungan bagi pemegang veXNF. Dengan menghemat biaya, berkontribusi pada pertumbuhan ekosistem, dan mengakses distribusi eksklusif, pendaur ulang dapat memaksimalkan keuntungan mereka sambil mendukung kesuksesan platform Xenify yang berkelanjutan.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mengapa XNF akan meningkat nilainya?
-  - Nilai XNF berpotensi meningkat secara signifikan karena tokenomics inovatif Xenify, ekosistem yang berkembang, dan permintaan yang meningkat untuk hadiah rantai asli. Dengan agregator lintas rantai canggih Xenify, pengguna dapat menikmati pertukaran token mulus satu klik dan mendapatkan XNF dalam prosesnya, yang mendorong adopsi protokol dan pada akhirnya nilai XNF.
+## ◽️ Mengapa nilai XNF akan meningkat?
+  - Nilai XNF memiliki potensi untuk naik secara signifikan karena tokenomics Xenify yang inovatif, ekosistem yang berkembang, dan meningkatnya permintaan akan reward rantai asli. Dengan agregator lintas rantai mutakhir Xenify, pengguna dapat menikmati pertukaran token tanpa batas dan terlibat dalam berbagai aktivitas yang bermanfaat, yang mendorong adopsi protokol dan pada akhirnya nilai XNF.
 
-  - Selain itu, kelangkaan token XNF, yang disebabkan oleh peristiwa pemotongan, kemungkinan akan meningkatkan nilai token karena lebih banyak pengguna memilih Xenify sebagai platform preferensi mereka untuk menukar token. Hal ini akan mengarah pada lebih banyak hadiah rantai asli bagi penaru XNF, yang menghasilkan permintaan XNF yang terus meningkat. Akibatnya, nilai token diperkirakan akan naik karena permintaan, menempatkan Xenify sebagai proyek menjanjikan dalam ekosistem XEN.
+  - Selain itu, kelangkaan token XNF, yang disebabkan oleh peristiwa separuh, kemungkinan akan meningkatkan nilai token karena lebih banyak pengguna memilih Xenify sebagai platform pilihan mereka untuk menukar token. Hal ini akan menghasilkan lebih banyak hadiah rantai asli untuk staker XNF, yang menghasilkan permintaan yang meningkat untuk token XNF. Akibatnya, nilai token akan meningkat karena permintaan, memperkuat posisi Xenify sebagai proyek yang menjanjikan dalam ekosistem XEN.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Jika saya melakukan penyimpanan sekarang, kapan saya bisa membatalkan penyimpanan?
-  - Ketika Anda memilih untuk menstaking XNF Anda, Anda akan memiliki kesempatan untuk memilih siklus penstakan yang sesuai dengan preferensi Anda, mulai dari minimum 2 minggu hingga maksimum 4 tahun. Penting untuk dicatat bahwa setelah Anda memulai siklus penstakan, token XNF Anda akan dikunci, dan Anda tidak akan dapat membatalkan penstakan sampai siklus selesai. Setelah siklus penstakan yang Anda pilih berakhir, Anda akan bebas membatalkan penstakan token XNF Anda, mengklaim kembali kepemilikan dan kendali penuh atasnya. Dengan berpartisipasi dalam staking, Anda berkontribusi pada kesehatan keseluruhan ekosistem kami, dan sebagai imbalannya, Anda memiliki kesempatan untuk mendapatkan hadiah rantai asli setiap hari!
+## ◽️ Jika saya membuat staking sekarang, kapan saya bisa membatalkan staking?
+  - Ketika Anda memilih untuk melakukan staking XNF, Anda akan memiliki kesempatan untuk memilih siklus staking yang sesuai dengan preferensi Anda, mulai dari minimal 2 minggu hingga maksimal 4 tahun. Penting untuk diperhatikan bahwa setelah Anda memulai siklus staking, token XNF Anda akan terkunci, dan Anda tidak akan dapat melepaskannya hingga siklus selesai. Setelah siklus staking yang Anda pilih berakhir, Anda akan memiliki kebebasan untuk melepas staking token XNF Anda, mendapatkan kembali kepemilikan dan kendali penuh atas token tersebut. Dengan berpartisipasi dalam staking, Anda berkontribusi pada kesehatan ekosistem kami secara keseluruhan, dan sebagai imbalannya, Anda berkesempatan untuk mendapatkan reward chain asli setiap hari!
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Bagaimana saya menghasilkan hadiah dengan Xenify?
-  - Xenify menawarkan kepada pengguna kesempatan untuk mendapatkan hadiah seperti ETH, BNB, dan MATIC setiap hari dengan menstaking token XNF. Hadiah ini didistribusikan di antara penstaker XNF berdasarkan saldo veXNF dan power yang terkait dengan veXNF mereka. Model insentif ini tidak hanya mendorong partisipasi aktif tetapi juga memainkan peran penting dalam mendorong pertumbuhan dan keberlanjutan jangka panjang protokol.
+## ◽️ Bagaimana cara menghasilkan reward dengan Xenify?
+  - Xenify menawarkan kepada pengguna kesempatan untuk mendapatkan hadiah seperti ETH, BNB, dan MATIC setiap hari dengan mempertaruhkan token XNF. Hadiah ini didistribusikan di antara staker XNF berdasarkan saldo veXNF mereka dan kekuatan yang terkait dengan veXNF mereka. Model insentif ini tidak hanya mendorong partisipasi aktif tetapi juga memainkan peran penting dalam mendorong pertumbuhan jangka panjang dan keberlanjutan protokol.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Jika saya melakukan penyimpanan sekarang, kapan saya akan menerima hadiah?
-  - Ketika Anda menstaking token XNF, Anda akan menerima hadiah pada akhir siklus di mana Anda melakukan staking. Sepanjang siklus, hadiah ini terakumulasi dalam kolam hadiah, dan protokol mendistribusikan seluruh kolam hadiah token rantai asli di antara pemegang veXNF pada akhir siklus berdasarkan saldo veXNF dan power terkait, memastikan distribusi yang adil dan transparan.
+## ◽️ Jika saya melakukan staking sekarang, kapan saya akan menerima hadiah?
+  - Saat Anda melakukan staking token XNF, Anda akan menerima hadiah di akhir siklus saat Anda melakukan staking. Sepanjang siklus, hadiah ini terakumulasi dalam kumpulan hadiah, dan protokol mendistribusikan seluruh kumpulan hadiah token rantai asli di antara pemegang veXNF di akhir siklus berdasarkan saldo veXNF mereka dan kekuatan terkait, memastikan distribusi yang adil dan transparan.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Apakah ada cara berbeda untuk berpartisipasi dengan Xenify?
+## ◽️ Apakah ada berbagai cara untuk berpartisipasi dengan Xenify?
 - Ya, ada beberapa cara untuk berpartisipasi dengan Xenify, termasuk:
 
-  - Gunakan agregator Xenify untuk melakukan pertukaran satu klik lancar dan mendapatkan XNF dalam prosesnya.
+  - Manfaatkan agregator Xenify untuk melakukan pertukaran satu klik tanpa hambatan dan dapatkan XNF dalam prosesnya.
   - Terlibat dalam pembakaran langsung vXEN atau vUSDy untuk mendapatkan XNF.
-  - Staking token XNF untuk mendapatkan token rantai asli seperti ETH, BNB dan MATIC.
-  - Membeli NFT Phoenix Ape untuk membuka pembakaran yang diperkuat secara harian dan lainnya.
+  - Staking token XNF untuk mendapatkan token rantai asli seperti ETH, BNB, dan MATIC.
+  - Beli Phoenix Ape NFT untuk membuka kunci burn yang diperkuat setiap hari dan banyak lagi.
   - Berkontribusi pada pertumbuhan protokol melalui inisiatif komunitas.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Apa yang terjadi jika tidak ada pertukaran token atau pembakaran selama siklus harian?
+## ◽️ Apa yang terjadi jika tidak ada pertukaran atau pembakaran token selama siklus harian?
 
-- Dalam kejadian yang sangat jarang tidak ada pertukaran yang terjadi di Xenify, dan tidak ada pengguna yang membakar baik vXEN atau vUSDy, distribusi siklus harian XNF tidak akan dilakukan. Dalam skenario ini, token XNF yang dijadwalkan untuk didistribusikan selama siklus itu hanya tidak akan dicetak. Akibatnya, total pasokan XNF akan berkurang sejumlah yang dimaksudkan untuk didistribusikan dalam siklus tersebut. 
+- Jika tidak ada swap yang terjadi di Xenify, dan tidak ada pengguna yang membakar vXEN atau vUSDy, distribusi siklus XNF harian tidak akan dilakukan. Dalam skenario ini, token XNF yang dijadwalkan untuk didistribusikan selama siklus tersebut tidak akan dicetak. Akibatnya, total pasokan XNF akan berkurang sebesar jumlah yang dimaksudkan untuk didistribusikan dalam siklus tersebut.
 
-- Sebagai contoh, jika alokasi harian untuk satu siklus ditetapkan pada 20.000 XNF, dan jika tidak ada pertukaran atau pembakaran yang terjadi selama siklus tersebut, 20.000 XNF tersebut tidak akan dicetak atau didistribusikan. Sebaliknya, total pasokan XNF akan berkurang sebesar 20.000 XNF pada akhir siklus.
-
-<br>
-
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Glosarium  
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+- Misalnya, jika alokasi harian untuk satu siklus ditetapkan pada 20.000 XNF, dan jika tidak ada pertukaran atau pembakaran yang terjadi selama siklus tersebut, 20.000 XNF tidak akan dicetak atau didistribusikan. Sebaliknya, total pasokan XNF akan dikurangi 20.000 XNF pada akhir siklus.
 
 <br>
 
-Selamat datang di Glosarium Xenify, sumber daya Anda untuk memahami istilah dan konsep kunci yang penting untuk ekosistem Xenify dan dunia keuangan terdesentralisasi (DeFi) secara luas. Glosarium kami bertujuan untuk menjembatani kesenjangan antara istilah crypto yang rumit dan bahasa sehari-hari. Menggunakan bahasa sehari-hari dan penjelasan yang lugas, glosarium kami akan memungkinkan Anda untuk memperdalam pengetahuan Anda tentang Xenify, DeFi, dan teknologi inovatif yang mendukung protokol kami dengan kejelasan dan kesederhanaan.
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Glosarium
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
+
+Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istilah dan konsep utama yang penting untuk ekosistem Xenify dan dunia keuangan terdesentralisasi (DeFi) yang lebih luas. Glosarium kami bertujuan untuk menjembatani kesenjangan antara jargon kripto yang kompleks dan bahasa sehari-hari. Dengan menggunakan bahasa sehari-hari dan penjelasan yang lugas, glosarium kami akan memungkinkan Anda memperdalam pengetahuan Anda tentang Xenify, DeFi, dan teknologi inovatif yang membuat protokol kami hidup dengan jelas dan sederhana.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XEN
   
-  - XEN adalah landasan inspiratif untuk Xenify, menggabungkan konsep Bukti Partisipasi inovatif dan metodologi Prinsip Pertama untuk membangun protokol terdesentralisasi yang revolusioner. 
+  - XEN adalah fondasi inspiratif untuk Xenify, menggabungkan konsep Proof of Participation yang inovatif dan metodologi First Principles untuk membangun protokol terdesentralisasi yang inovatif.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF
 
-  - XNF adalah token ekuitas asli Xenify, sebuah protokol agregator lintas rantai mutakhir di ranah keuangan terdesentralisasi (DeFi). Pengguna dapat mendapatkan token XNF dengan berpartisipasi aktif dalam kegiatan platform, seperti membakar token vXEN atau vUSDy dan menukar token di rantai yang didukung.
+  - XNF adalah token ekuitas asli Xenify, protokol agregator lintas rantai yang canggih di ruang keuangan terdesentralisasi (DeFi). Pengguna dapat memperoleh token XNF dengan berpartisipasi aktif dalam aktivitas platform, seperti membakar token vXEN atau vUSDy dan menukar token pada chain yang didukung.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ veXNF
 
-  - veXNF adalah token terikat, diwujudkan sebagai token tidak dapat dipertukarkan (NFT) di bawah standar ERC-721, yang mewakili posisi staking pengguna dalam XNF. Bagian pengguna dari hadiah rantai asli tidak hanya ditentukan oleh kuantitas veXNF yang mereka miliki. Ini juga dipengaruhi oleh 'power' atau kedudukan mereka dalam protokol. Kedudukan ini ditentukan oleh kombinasi pegangan veXNF dan lama periode kunci mereka.
+  - veXNF adalah token yang diperebutkan, yang diwujudkan sebagai token yang tidak dapat dipertukarkan (NFT) di bawah standar ERC-721, yang mewakili posisi taruhan pengguna di XNF. Bagian pengguna dari reward chain asli tidak hanya ditentukan oleh jumlah veXNF yang mereka miliki. Hal ini juga dipengaruhi oleh 'kekuatan' atau posisi mereka di dalam protokol. Posisi ini ditentukan oleh kombinasi kepemilikan veXNF mereka dan lamanya periode penguncian.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Xenify
 
-  - Xenify adalah protokol keuangan terdesentralisasi (DeFi) yang dirancang untuk merevolusi pengalaman pertukaran token. Ini menawarkan agregator lintas rantai mutakhir, memudahkan pertukaran token di 50 rantai yang berbeda. Dengan akses ke rute dan biaya terendah dari 27 agregator, Xenify memberdayakan pengguna untuk dengan lancar menukar token antar rantai yang didukung. Xenify menekankan keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, dengan tujuan menciptakan ekosistem DeFi yang lebih terhubung dan ramah pengguna.  
+  - Xenify adalah protokol keuangan terdesentralisasi (DeFi) yang dirancang untuk merevolusi pengalaman pertukaran token. Xenify menawarkan agregator lintas rantai yang canggih, sehingga memudahkan untuk menukar token di 50 rantai yang berbeda. Dengan akses ke rute terbaik dan biaya terendah dari 27 agregator, Xenify memberdayakan pengguna untuk menukar token dengan mulus di antara rantai yang didukung. Xenify menekankan pada keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, yang bertujuan untuk menciptakan ekosistem DeFi yang lebih terhubung dan ramah pengguna.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Staking
 
-  - Staking melibatkan mengunci token dalam dompet atau platform untuk mendukung operasi jaringan, seperti memvalidasi transaksi atau mengamankan jaringan. Sebagai imbalannya, peserta menerima hadiah.
+  - Staking melibatkan penguncian token di dalam dompet atau platform untuk mendukung operasi jaringan, seperti memvalidasi transaksi atau mengamankan jaringan. Sebagai imbalannya, para peserta akan mendapatkan imbalan.
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Lintas Rantai
-  
-  - Lintas rantai mengacu pada kemampuan untuk berinteraksi dengan dan mentransfer aset antara jaringan blockchain yang berbeda. Ini mempromosikan interoperabilitas dan ekosistem yang lebih terhubung.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Cross-chain
+
+  - Cross-chain mengacu pada kemampuan untuk berinteraksi dan mentransfer aset antara jaringan blockchain yang berbeda. Ini mempromosikan interoperabilitas dan ekosistem yang lebih terhubung.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Tokenomics
 
-  - Tokenomics adalah studi aspek ekonomi dari kripto mata uang atau token, seperti pasokan, distribusi, dan insentif.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+  - Tokenomics adalah studi tentang aspek ekonomi dari mata uang kripto atau token, seperti suplai, distribusi, dan insentif.
 
-## ◽️ Pembakaran Langsung
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-  - Ketika sebuah token dibakar, biasanya dikirim ke alamat tidak aktif dan dihapus dari peredaran, secara efektif mengurangi total pasokan sejumlah yang dibakar. Di Xenify, Pembakaran Langsung terjadi ketika pengguna dengan sengaja membakar token (vXEN atau vUSDy) untuk mempromosikan pertumbuhan protokol. Sebagai hadiah atas komitmen mereka terhadap protokol, pengguna menerima token XNF sebagai imbalan atas token vXEN atau vUSDy yang mereka bakar.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Luka Bakar Langsung
 
-## ◽️ Bukti Pembakaran
+  - Ketika sebuah token dibakar, token tersebut biasanya dikirim ke alamat yang tidak aktif dan dihapus dari peredaran, sehingga secara efektif mengurangi total suplai sesuai dengan jumlah yang dibakar. Di Xenify, Pembakaran Langsung terjadi ketika pengguna dengan sengaja membakar token (vXEN atau vUSDy) untuk mendorong pertumbuhan protokol.  Sebagai hadiah atas komitmen mereka terhadap protokol, pengguna menerima token XNF sebagai imbalan atas token vXEN atau vUSDy yang dibakar.
 
-  - Bukti Pembakaran adalah mekanisme komitmen di mana pengguna membakar token untuk menunjukkan dukungan mereka terhadap protokol. Sebagai imbalannya, mereka menerima ekuitas.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Volume Pertukaran
+## ◽️ Bukti Luka Bakar
+
+  - Proof of Burn adalah sebuah mekanisme komitmen di mana pengguna membakar token untuk menunjukkan dukungan mereka terhadap protokol. Sebagai gantinya, mereka menerima ekuitas.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Volume Swap
   
-  - Volume pertukaran mengacu pada nilai total pertukaran token yang dieksekusi pada platform Xenify. Ini berfungsi sebagai dasar untuk mendistribusikan token XNF kepada pengguna selama siklus hadiah harian.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  - Volume swap mengacu pada nilai total swap token yang dieksekusi di platform Xenify. Ini berfungsi sebagai dasar untuk mendistribusikan token XNF kepada pengguna selama siklus hadiah harian.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Prinsip Pertama
 
-  - Prinsip pertama dalam crypto adalah konsep-konsep fundamental yang mendasari mata uang digital terdesentralisasi. Mereka berfokus pada akses tanpa izin, transparansi, trustlessness, desentralisasi, dan ketidakberubahan. Prinsip-prinsip ini memandu pertumbuhan dan inovasi kripto, memungkinkan pengambilan keputusan yang lebih baik, dan membentuk masa depan keuangan terdesentralisasi.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  - Prinsip-prinsip pertama dalam kripto adalah konsep dasar yang mendukung mata uang digital terdesentralisasi. Prinsip-prinsip ini berfokus pada akses tanpa izin, transparansi, kepercayaan, desentralisasi, dan keabadian. Prinsip-prinsip ini memandu pertumbuhan dan inovasi mata uang kripto, memungkinkan pengambilan keputusan yang tepat dan membentuk masa depan keuangan terdesentralisasi.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Interoperabilitas
 
-  - Interoperabilitas adalah kemampuan sistem, jaringan, atau platform yang berbeda untuk bekerja sama dengan lancar. Ini memungkinkan pertukaran data, aset, dan informasi tanpa hambatan.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  - Interoperabilitas adalah kemampuan sistem, jaringan, atau platform yang berbeda untuk bekerja sama dengan mulus. Hal ini memungkinkan pertukaran data, aset, dan informasi tanpa hambatan.
 
-## ◽️ Kontrak Pintar
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-  - Kontrak Pintar adalah perjanjian digital yang secara otomatis dieksekusi ketika kondisi tertentu terpenuhi, memungkinkan dua pihak atau lebih untuk menukar hal-hal seperti uang, properti, atau saham dengan cara yang transparan dan tanpa masalah, tanpa memerlukan perantara. Kontrak ini seperti mini-program yang disimpan pada blockchain, dan langsung berjalan begitu syarat-syarat yang disepakati terpenuhi. Dengan mengotomatiskan prosesnya, semua yang terlibat dapat yakin dengan hasilnya tanpa penundaan atau campur tangan perantara.
-  
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Kontrak Cerdas
+
+  - Smart Contract adalah perjanjian digital yang secara otomatis dieksekusi ketika kondisi tertentu terpenuhi, memungkinkan dua pihak atau lebih untuk bertukar barang seperti uang, properti, atau saham dengan cara yang transparan dan tanpa kerumitan, tanpa memerlukan perantara. Kontrak-kontrak ini seperti program mini yang disimpan dalam blockchain, dan akan berjalan segera setelah persyaratan yang disepakati terpenuhi. Dengan mengotomatiskan prosesnya, semua orang yang terlibat dapat yakin dengan hasilnya tanpa penundaan atau gangguan dari perantara.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ DeFi (Keuangan Terdesentralisasi)
 
-  - DeFi, singkatan dari Keuangan Terdesentralisasi, adalah sistem keuangan yang menghilangkan perantara dengan menggunakan teknologi blockchain. DeFi menggabungkan perbankan tradisional dengan blockchain, menggantikan beberapa bagian dari sistem keuangan biasa dengan kontrak pintar pada blockchain. DeFi menyediakan layanan keuangan pada blockchain, menawarkan alternatif yang lebih terbuka, transparan, dan ramah pengguna dibanding layanan keuangan tradisional.
+  - DeFi, kependekan dari Decentralised Finance, adalah sistem keuangan yang memotong perantara dengan menggunakan teknologi blockchain. DeFi memadukan perbankan tradisional dengan blockchain, menggantikan beberapa bagian dari sistem keuangan biasa dengan kontrak pintar pada blockchain. DeFi memberikan layanan keuangan pada blockchain, menawarkan alternatif yang lebih terbuka, transparan, dan ramah pengguna untuk layanan keuangan tradisional.
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
-# ◽️ Pengakuan
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Ucapan Terima Kasih
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-## YSL.IO (21 Apr 2023) - Pertukaran Lintas Rantai  
+## YSL.IO (21 April 2023) - Swap Rantai Silang
 
 **Tautan:**
 
 - [Situs web](https://ysl.io/)
-- [Whitepaper](https://docs.ysl.io)  
+- [Whitepaper](https://docs.ysl.io)
 - [Profil Twitter](https://twitter.com/ysl_io)
 - [Saluran Telegram](https://t.me/ysl_io)
 
-**Konsep Berpengaruh:**
+**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
 
-- [NFT Phoenix Ape](https://docs.ysl.io/protocol-features/Phoenix-NFT)
+- [Phoenix Ape NFT] (https://docs.ysl.io/protocol-features/Phoenix-NFT)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## XEN Crypto (8 Okt 2022) - Protokol Lintas Rantai
+## XEN Crypto (8 Oktober 2022) - Protokol Lintas Rantai
 
-**Tautan:** 
+**Tautan:**
 
 - [Situs web](https://faircrypto.org)
 - [Litepaper](https://faircrypto.org/xencryptolp.pdf)
-- [Kode Sumber](https://github.com/FairCrypto/XEN-crypto) 
+- [Kode Sumber](https://github.com/FairCrypto/XEN-crypto)
 - [Profil Twitter](https://twitter.com/XEN_Crypto)
-- [Saluran Telegram](https://t.me/XENCryptoTalk) 
+- [Saluran Telegram](https://t.me/XENCryptoTalk)
 
-**Konsep Berpengaruh:**
+**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
 
-- [Prinsip Pertama](https://faircrypto.org/xencryptolp.pdf)
+- [Prinsip-prinsip Pertama](https://faircrypto.org/xencryptolp.pdf)
 - [Bukti Partisipasi](https://faircrypto.org/xencryptolp.pdf)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## DBXen (16 Feb 2023) - Hasil Lintas Rantai  
+## DBXen (16 Februari 2023) - Generasi Hasil Rantai Silang
 
 **Tautan:**
 
 - [Situs web](https://dbxen.org/)
 - [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
-- [Kode Sumber](https://github.com/deb0x/dbXenBurnerProject) 
+- [Kode Sumber](https://github.com/deb0x/dbXenBurnerProject)
 - [Profil Twitter](https://twitter.com/DBXencrypto)
 - [Saluran Telegram](https://t.co/vprGbYeXqc)
 
-**Konsep Berpengaruh:**
+**Konsep yang Berpengaruh:** Konsep yang Berpengaruh
 
-- [Biaya Pembakaran](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [Biaya Pembakaran] (https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
 - [Distribusi Token](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
-<br>  
+<br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Alamat Kontrak  
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Alamat Kontrak
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
@@ -1463,29 +1458,29 @@ Selamat datang di Glosarium Xenify, sumber daya Anda untuk memahami istilah dan 
  - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️USDy
 
  - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
 
-![Abu-Abu V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️NFT Phoenix Ape
+## ◽️Phoenix NFT Kera
 
 - [Opensea](https://opensea.io/collection/phoenix-ape-nft)
 - [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 
 <br>
 
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Tautan Bermanfaat
-![Garis Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Pranala Bermanfaat
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
 - <https://xenify.io>
-- <https://t.me/xenify_io>  
+- <https://t.me/xenify_io>
 - <https://medium.com/xenify>
 - <https://twitter.com/xenify_io>
 - <https://www.youtube.com/@xenify-io>
