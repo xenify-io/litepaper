@@ -440,3 +440,565 @@ XNF là mạch sống của giao thức Xenify, với tổng nguồn cung giới
 </p>
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Phân phối Nguồn cung
+
+Với tổng nguồn cung được giới hạn ở 22,6 triệu token XNF, được chia chiến lược thành ba phân khúc chính, Xenify được thiết kế cố ý để thưởng cho những người tham gia tích cực trong khi thúc đẩy một hệ sinh thái cân bằng:
+
+- **21.000.000 XNF dành cho các cuộc đấu giá hàng ngày:** Những người dùng tham gia vào các hoạt động khác nhau thúc đẩy sự phát triển liên tục của giao thức sẽ có cơ hội nhận được một phần của các token XNF dành riêng cho các cuộc đấu giá hàng ngày.
+
+  - 10.500.000 XNF (50%) của đấu giá hàng ngày được phân phối cho những người trực tiếp đốt vXEN và vUSDy. Trong mỗi chu kỳ, nếu không ai khởi tạo quá trình đốt, phân bổ XNF tương ứng sẽ không được đúc. Cơ chế khan hiếm này làm giảm tổng nguồn cung XNF, góp phần vào khả năng tăng giá trị tiềm năng của nó.
+
+  - 10.500.000 XNF (50%) của đấu giá hàng ngày được phân phối cho những người tham gia hoán đổi trên các chuỗi EVM được hỗ trợ. Nếu không có giao dịch hoán đổi nào xảy ra trong một chu kỳ, phân bổ XNF tương ứng sẽ không được đúc. Điều này cũng giúp giảm tổng nguồn cung XNF, tăng cường tính khan hiếm và giá trị tiềm năng của nó.
+  
+- **100.000 XNF được dành để tạo thanh khoản XNF:** Để tạo điều kiện cho việc này, chúng tôi đã dành riêng 50.000 XNF cho Quản lý Phí đúc vXEN và thêm 50.000 XNF cho Quản lý Phí đúc vUSDy. Mỗi khi người dùng tham gia vào việc đốt hàng ngày của vXEN hoặc vUSDy, họ sẽ đóng góp vào sự phát triển của thanh khoản XNF. Sáng kiến này củng cố sức khỏe tổng thể của giao thức và nuôi dưỡng một nhóm thanh khoản vững chắc cho cộng đồng của chúng tôi.
+
+- **1.500.000 XNF được dành riêng như một phần thưởng độc quyền dành cho những người tham gia hoán đổi:** Để khuyến khích sự tham gia, mỗi chuỗi sẽ có một phần thưởng độc quyền gồm 1.500.000 XNF dành cho những người thực hiện các hoán đổi trước khi triển khai XNF. Phần thưởng sẽ diễn ra vào ngày đầu tiên ra mắt, và sẽ được phân phối dưới dạng các token bị khóa, mở khóa dần dần trong 730 ngày.
+
+Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng nguyên tắc giảm đôi. Như minh họa trong biểu đồ đi kèm dưới đây, sau lần giảm đôi thứ 7, tốc độ phân bổ hàng ngày của Xenify ổn định, đảm bảo sản lượng ổn định 156,25 token XNF mỗi ngày cho đến khi đạt đến nguồn cung tối đa vào tháng 2112. Chiến lược sáng tạo này được thiết kế cẩn thận để đảm bảo phân phối nguồn cung công bằng, tập trung vào sự tham gia của người dùng lâu dài, nổi bật cam kết không lay chuyển của Xenify trong việc nuôi dưỡng một hệ sinh thái cân bằng và một cộng đồng tích cực.
+
+<br>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Triển khai Đã xác nhận
+
+- Triển khai Sơ khai > BNB Chain  
+- Triển khai Thứ hai > Ethereum
+- Triển khai Thứ ba > Polygon
+
+<br>  
+
+## ◽️ Các chuỗi mở rộng tiềm năng
+
+Xenify đang chuẩn bị bước lên sàn lớn, xem xét một loạt các blockchain cho bước đi lớn tiếp theo của mình. Danh sách các chuỗi chúng tôi đang xem xét ngay bây giờ thực sự rất đa dạng, từ các chuỗi lớn như Arbitrum và Avalanche đến các chuỗi blockchain mới nổi như zkSync và PulseChain, lựa chọn thật vô vàn. Danh sách đầy đủ bao gồm:
+  
+- KCC
+- Celo
+- Fuse
+- Boba
+- Heco
+- Telos
+- Velas  
+- Metis
+- Canto
+- Klaytn
+- Evmos
+- zkEVM
+- Aurora
+- Gnosis
+- zkSync
+- Cronos
+- Fantom
+- Polygon
+- Arbitrum
+- Optimism
+- Avalanche
+- Moonriver
+- OKX Chain
+- PulseChain
+- Moonbeam
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Các cặp thanh khoản XNF khi triển khai
+
+<br>
+
+| Tên chuỗi            | Tên DEX                                                 | Cặp thanh khoản            |
+|----------------------|---------------------------------------------------------|----------------------------|  
+| KCC                  | [MojitoSwap](https://www.mojitoswap.finance)             | kXNF-KCS                   |
+| Celo                 | [Uniswap V3](https://app.uniswap.org)                    | cXNF-CELO                  |
+| Fuse                 | [SushiSwap](https://www.sushi.com)                       | fXNF-FUSE                  |
+| Boba                 | [SushiSwap](https://www.sushi.com)                       | boXNF-BOBA                 |
+| Heco                 | [MDEX](https://mdex.com)                                 | hcXNF-HT                   |
+| Telos                | [ApeSwap](https://apeswap.finance)                       | tXNF-TELOS                 |  
+| Velas                | [Wavelength](https://app.wavelength.exchange)            | veXNF-VLX                  |
+| Metis                | [Hummus Exchange](https://www.hummus.exchange)           | meXNF-METIS                |
+| Canto                | [Canto Dex](https://app.slingshot.finance/swap/CANTO)    | caXNF-CANTO                |
+| Klaytn               | [KlaySwap](https://klayswap.com)                         | kXNF-KLAY                  |
+| Evmos                | [SpaceSwap](https://swap-evmos.spacefi.io)               | coXNF-WEVMOS               |
+| Aurora               | [Polaris Finance](https://polarisfinance.io)             | arXNF-ETH                  |  
+| Gnosis               | [Balancer V2](https://balancer.finance)                  | gXNF-GNO                   |
+| zkSync               | [SyncSwap](https://syncswap.xyz)                         | zkXNF-ETH                  |
+| Cronos               | [VVS Finance](https://vvs.finance)                       | crXNF-CRO                  |
+| Fantom               | [SpookySwap](https://spooky.fi)                          | fmXNF-FTM                  |
+| Polygon              | [Uniswap V3](https://app.uniswap.org)                    | mXNF-MATIC                 |
+| Arbitrum             | [Uniswap V3](https://app.uniswap.org)                    | aXNF-ETH                   |
+| Ethereum             | [Uniswap V3](https://app.uniswap.org)                    | XNF-ETH                    |
+| Optimism             | [Uniswap V3](https://app.uniswap.org)                    | oXNF-ETH                   |  
+| Avalanche            | [Trader Joe](https://traderjoexyz.com)                   | avXNF-AVAX                 |
+| Moonriver            | [Solarbeam](https://app.solarbeam.io/exchange/swap)      | mrXNF-MOVR                 |
+| OKX Chain            | [OKExSwap](https://www.okex.com/swap)                    | okXNF-OKT                  |
+| Moonbeam             | [Stellaswap](https://app.stellaswap.com/pulsar)          | mbXNF-WGLMR                |
+| BNB Chain            | [ApeSwap](https://apeswap.finance)                       | bXNF-BNB                   |
+| PulseChain           | [PulseX](https://pulsex.com)                             | pXNF-PLS                   |
+| Ethereum PoW         | [Uniwswap](https://uniwswap.com)                         | vvXNF-WETH                 |
+| Polygon zkEVM       | [Quickswap](https://quickswap.exchange)                  | mkXNF-MATIC                |
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Quá trình phát hành và khuyến khích XNF
+
+  - Quá trình phát hành XNF trong Xenify được xây dựng cẩn thận để thưởng cho những người dùng tích cực tham gia và đóng góp cho sự phát triển của giao thức. Sáng kiến này đảm bảo phân phối công bằng các token XNF và nuôi dưỡng một giao thức thực sự phi tập trung và hướng đến cộng đồng.
+
+  - Mô hình khuyến khích của Xenify được thiết kế cẩn thận, cung cấp phần thưởng tương xứng cho những người dùng tăng cường sự tham gia với nền tảng. Cách tiếp cận như vậy thúc đẩy sự tham gia hơn nữa, vì người dùng có cơ hội nhận được các token XNF được phát hành mới tương ứng với hoạt động của họ trên nền tảng.
+
+  - Việc phân phối các token XNF theo chu kỳ một ngày, bắt đầu với quỹ thưởng 20.000 token XNF. Số lượng phân bổ hàng ngày này được chia đều: 50% được phân phối cho người dùng đốt token vXEN hoặc vUSDy, 50% còn lại dành cho những người đóng góp vào phí hoán đổi của nền tảng. Số lượng phát hành hàng ngày này sẽ mở rộng sang tất cả các chuỗi triển khai trong tương lai. Thông qua việc thực hiện mô hình giảm dần đôi, số lượng phát hành hàng ngày giảm dần, kết thúc với việc phân phối hoàn tất 22,6 triệu token XNF vào tháng 2112.
+
+  - Người dùng được khuyến khích thêm thông qua cơ chế stake của nền tảng, cho phép họ tích lũy phần thưởng dưới dạng token gốc chuỗi cụ thể, chẳng hạn như ETH trên chuỗi Ethereum. Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify, cụ thể là từ phí hoán đổi và phí đốt.
+
+  - Mô hình khuyến khích ba tầng độc đáo thúc đẩy người dùng sử dụng Xenify để kiếm XNF, đồng thời cũng thưởng cho những ai stake và khóa token XNF của họ. Điều này hoạt động như một bánh xe, thúc đẩy tăng trưởng lâu dài của Xenify đồng thời nuôi dưỡng một hệ thống thưởng có tính bền vững cao khuyến khích ngày càng nhiều người dùng tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ♦️ Đốt để kiếm XNF 
+
+- Xenify trao quyền cho người dùng đốt token XEN hoặc token gốc YSL.IO trực tiếp từ ví của họ để tham gia chu trình đốt hàng ngày. Cơ chế đốt độc đáo này tích hợp hai token riêng biệt được gọi là vXEN và vUSDy, phiên bản ảo tương ứng của các token XEN và token gốc YSL.IO. Những token này có mục đích cụ thể - tạo điều kiện đốt token XNF thông qua quá trình đốt. Kết quả là, người dùng có thể tham gia vào chu trình đốt hàng ngày, bất kể biến thể token XEN hoặc YSL.IO họ sở hữu. Cơ chế đốt này vượt xa việc chỉ giảm nguồn cung lưu thông của token XEN và token gốc YSL.IO; nó thể hiện một cách tiếp cận chiến lược đem lại sự đoàn kết giữa cộng đồng YSL.IO và các cộng đồng XEN rộng lớn hơn trên tất cả các chuỗi, nuôi dưỡng một tầm nhìn chung thống nhất cả hai hệ sinh thái.
+
+- Để có được vXEN, bạn cần đốt biến thể token XEN mà chuỗi đó hỗ trợ, chẳng hạn như bXEN trên BNB Chain. Chức năng đốt này định vị giao thức như một nhân tố chính trong việc đốt chiến lược token XEN layer 1. Điều này có nghĩa là, mỗi lần bạn đốt biến thể token XEN gốc của bạn, địa chỉ của bạn sẽ được thêm vào hồ sơ đốt X1, và đổi lại, bạn sẽ nhận được vXEN. Xin lưu ý rằng việc thực hiện đốt này sẽ phát sinh Phí đúc vXEN. Trong quá trình đốt, biến thể token XEN mà bạn cung cấp sẽ bị đốt (loại vĩnh viễn khỏi lưu thông) và Phí đúc vXEN được Quản lý phí đúc sử dụng để tạo thanh khoản sở hữu giao thức cho XNF và XEN. Số lượng batch vXEN thu được từ quá trình đốt này sẽ khác nhau dựa trên giá trị thị trường hiện tại của biến thể token XEN cụ thể mà bạn chọn đốt.
+
+- Một khi bạn có vXEN, bạn có thể tham gia phân phối XNF hàng ngày của Xenify trên bất kỳ chuỗi nào mà XNF đã được triển khai bằng cách tham gia đấu giá đốt của chuỗi cụ thể. Xin lưu ý rằng khi thực hiện quá trình đốt vXEN bạn sẽ phát sinh Phí đốt. Trong quá trình này, vXEN sẽ bị loại vĩnh viễn khỏi lưu thông, với khoản phí được dành làm phần thưởng cho những người stake XNF.
+
+- Tương tự, những người nắm giữ token gốc YSL.IO (bYSL, xYSL hoặc USDy) có thể chủ động tham gia đấu giá đốt hàng ngày bằng cách có được vUSDy. Tương tự như quá trình đốt XEN, khi thực hiện đốt token gốc YSL.IO của bạn sẽ yêu cầu Phí đúc vUSDy. Trong quá trình này, biến thể token YSL.IO bạn cung cấp sẽ bị loại vĩnh viễn khỏi lưu thông và Phí đúc vUSDy được Quản lý phí đúc sử dụng để tạo thanh khoản sở hữu giao thức XNF và thanh khoản sở hữu quỹ USDy cho YSL.IO.
+
+- Một khi bạn có được vUSDy, bạn có thể tham gia phân phối XNF hàng ngày của Xenify trên bất kỳ chuỗi nào mà XNF đã được triển khai bằng cách tham gia đấu giá đốt của chuỗi cụ thể. Tương tự như quá trình đốt vXEN, việc thực hiện đốt vUSDy phát sinh Phí đốt. Quá trình này loại bỏ vĩnh viễn token vUSDy khỏi lưu thông, với khoản phí thu được phục vụ như phần thưởng cho những người stake XNF. Điều quan trọng cần lưu ý là tỷ giá chuyển đổi cho vUSDy vẫn cố định, nhưng phụ thuộc vào token gốc YSL.IO cụ thể mà bạn chọn để trao đổi.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Stake XNF để kiếm token gốc
+
+  - Tách biệt với các tổng hợp viên thông thường, Xenify tự hào về mô hình khuyến khích tiên tiến của mình, trao quyền cho người dùng nền tảng thực hiện các hoán đổi trôi chảy và bắt đầu hành trình được thưởng bằng cách kiếm phần thưởng mỗi chu kỳ dựa trên XNF đã stake của họ. Những phần thưởng này được phân phối dưới dạng các token chuỗi gốc - một tài sản rất thanh khoản - tín hiệu hóa một lợi nhuận tiềm năng hấp dẫn cho những người stake XNF.
+
+  - Những người stake XNF đóng vai trò thiết yếu trong sự tăng trưởng lâu dài của Xenify, và đổi lại thu được lợi ích. Đối với các chuỗi mà XNF đã được triển khai, người stake sẽ nhận được các token gốc được tạo từ các khoản phí hoán đổi trên tất cả các chuỗi EVM được hỗ trợ vào cuối mỗi chu kỳ. Khi Xenify tiếp tục mở rộng phạm vi, một lượng hoán đổi ngày càng tăng được đảm bảo, với người dùng háo hức được hưởng lợi từ trải nghiệm hoán đổi trôi chảy trong khi kiếm XNF cho mỗi lần hoán đổi của họ. Do đó, những người stake XNF được hưởng lợi từ phần thưởng gia tăng! Mô hình công bằng này thiết lập một vòng phản hồi tích cực, đảm bảo tất cả người tham gia đều được hưởng lợi từ sự tăng trưởng của hệ sinh thái tỷ lệ thuận với sự tham gia của họ.
+
+  - Ngoài các khoản phí hoán đổi, những người stake XNF trên các chuỗi mà XNF đã được triển khai cũng sẽ nhận được các token gốc vào cuối mỗi chu kỳ được tạo từ phí đốt. Với việc XNF áp dụng mô hình giảm đôi và 50% số lượng đúc hàng ngày dành cho những người đốt vXEN và vUSDy, việc tham gia vào đấu giá đốt hàng ngày là một trong số ít cách để đảm bảo một lượng XNF đáng kể. Khi có nhiều người dùng đốt vXEN và vUSDy để có được XNF, không chỉ những người stake XNF được hưởng lợi từ phần thưởng tăng thông qua phí đốt, mà thanh khoản XNF cũng phát triển thông qua phí đúc. Việc triển khai chu kỳ đốt đổi mới này tạo ra một vòng phản hồi tích cực khác, đảm bảo toàn bộ hệ sinh thái được hưởng lợi từ sự tham gia của người dùng.
+
+  - Mô hình staking đổi mới của Xenify cho phép người dùng stake token XNF của họ để có cơ hội nhận được một dòng thưởng đều đặn dưới dạng Phần thưởng Chuỗi gốc. Mô hình phân phối thưởng độc đáo này không chỉ tăng cường nhu cầu và giá trị của XNF, mà còn đóng vai trò là động lực bổ sung cho người nắm giữ để stake các khoản phân phối XNF hàng ngày của họ. Chiến lược này đã được tích hợp để khuyến khích sự tham gia lâu dài với giao thức, đồng thời nuôi dưỡng một cơ sở người dùng ngày càng mở rộng.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Chi phí Hoán đổi trên Xenify 
+
+Xenify cung cấp một giải pháp hoán đổi token đột phá không chỉ đơn giản hóa các giao dịch chéo chuỗi mà còn thưởng cho người dùng của nó, đồng thời nuôi dưỡng sự mở rộng của hệ sinh thái. Thông qua mức phí 0,5% cho mỗi lần hoán đổi token, Xenify có thể đạt được ba mục tiêu quan trọng: thưởng cho người dùng nền tảng bằng token XNF, cung cấp phần thưởng chuỗi gốc cho những người stake XNF và đảm bảo sự phát triển liên tục của giao thức.
+
+Đây là cách nó hoạt động: Khi người dùng khởi tạo một giao dịch hoán đổi token trên Xenify, họ phải trả một khoản phí hoán đổi 0,5%. Khoản phí này được phân bổ chiến lược để khuyến khích tăng trưởng trong tương lai và khuyến khích sự tham gia của người dùng. Trên các chuỗi mà XNF đã được triển khai thành công, 100% khoản phí hoán đổi sẽ được phân phối cho những người stake XNF dưới dạng phần thưởng hàng ngày bằng token gốc. Đối với các chuỗi khác mà XNF chưa được triển khai hoặc trong các sự kiện phân phối, khoản phí hoán đổi sẽ được phân bổ cho nhóm để tăng cường sự phát triển, tiếp thị và các nỗ lực tiếp cận liên tục của Xenify.
+
+Nhưng đây là phần thú vị, bằng cách trả khoản phí hoán đổi 0,5% danh nghĩa trên các chuỗi mà XNF được triển khai, bạn không chỉ đẩy nhanh giao dịch của mình mà còn đảm bảo một phần của XNF từ chu kỳ đúc hàng ngày của giao thức. Những token XNF này có thể được stake để mở khóa những lợi ích lớn hơn từ các token gốc được phân phối vào cuối mỗi chu kỳ hàng ngày. Kết quả là, người dùng nền tảng được hưởng lợi từ hiệu quả và tỷ lệ cạnh tranh của Xenify, đồng thời kiếm thưởng và tích cực định hình sự phát triển của hệ sinh thái động của Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Chi phí Đốt trên Xenify 
+
+Giao thức Xenify cho phép người dùng đốt token vXEN hoặc vUSDy để nhận XNF từ chu kỳ thưởng XNF hàng ngày. Hãy nghĩ về vXEN và vUSDy như các phiên bản ảo của XEN và USDy. Những token này được tạo ra đặc biệt để chuyển đổi trơn tru sang XNF.
+
+Bằng cách tham gia vào quá trình đốt để có được XNF, người dùng sẽ gặp phải một số chi phí như phí gas giao dịch và phí đúc bắt buộc và phí đốt. Tuy nhiên, việc tính phí đúc và phí đốt đã được thiết kế cẩn thận không chỉ để đảm bảo phương pháp đốt token minh bạch và nhất quán mà còn thưởng cho người dùng chiết khấu hấp dẫn lên tới 75% cho phí đốt của họ. 
+
+Phí đốt được tính toán dựa trên các yếu tố khác nhau, bao gồm thời điểm đốt trong một chu kỳ, số lượng batch đốt và giá trị liên quan của chúng. Phần tốt nhất? Người dùng càng đốt nhiều batch thì chiết khấu càng lớn, với tiết kiệm có thể lên tới 75% cho 10.000 batch trong giờ đầu tiên của mỗi chu kỳ. Điều này tạo ra động lực hấp dẫn để người dùng thực hiện các giao dịch đốt lớn hơn ở những thời điểm sớm hơn trong một chu kỳ.
+
+Bằng cách thực hiện tính toán này, chúng tôi đảm bảo người dùng nhận được chiết khấu tương ứng với khối lượng của một token cụ thể (vXEN hoặc vUSDy) mà họ đốt. Hơn nữa, chúng tôi tự hào nhấn mạnh rằng 100% phí đốt thu được sẽ được chuyển cho những người stake XNF, và phí đúc sẽ được tái triển khai để tăng thanh khoản. Cách tiếp cận này không chỉ khuyến khích hiệu quả mà còn thưởng cho những người đóng góp có giá trị của chúng tôi, xây dựng một hệ sinh thái có lợi cho cả hai bên. Hơn nữa, với chiết khấu tối đa 75% cho 10.000 batch, người dùng càng đốt nhiều thì càng tiết kiệm được nhiều! Triển vọng thú vị này không chỉ mang lại lợi ích đáng kể cho người đốt mà còn tạo ra phần thưởng tăng cường cho những người stake XNF.
+
+Nhưng điều gì chính xác là một batch? Một batch đại diện cho một số lượng token cố định, vXEN hoặc vUSDy, cần thiết để tham gia vào quá trình đốt. Một batch đơn vXEN được cố định ở 5 vXEN, với giá trị mỗi vXEN cố định ở 1,00 USD. Tương tự, một batch đơn vUSDy được cố định ở 5 vUSDy, với giá trị mỗi vUSDy cố định ở 1,00 USD. Số lượng biến thể token XEN cần thiết để có được một batch vXEN sẽ thay đổi động, thích ứng với giá thị trường luôn thay đổi của mỗi biến thể token XEN. Tuy nhiên, số lượng biến thể token YSL.IO cần thiết để có được một batch vUSDy sẽ cố định, thay đổi dựa trên token YSL.IO cụ thể đang bị đốt. 
+
+Để có được vXEN, bạn chỉ cần nắm giữ một biến thể token XEN được hỗ trợ và một lượng đủ lớn các token gốc chuỗi để chi trả Phí đúc vXEN bắt buộc. 100% biến thể token XEN mà bạn cung cấp sẽ bị đốt, đảm bảo địa chỉ ví của bạn được ghi nhận trong hồ sơ đốt để phân phối X1 - token gốc của XEN Layer 1 mới (X1 Chain). 
+
+Chỉ cần lưu ý rằng giá trị của vXEN được cố định ở 1,00 USD, với 1 vXEN bằng 1,00 USD XEN (và biến thể token XEN) dựa trên giá trị thị trường hiện tại. Điều này có nghĩa là số lượng yêu cầu cho mỗi lần đốt được điều chỉnh theo giá trị thị trường hiện tại của biến thể token XEN cụ thể mà bạn đang đốt, đảm bảo trao đổi công bằng cho tất cả người dùng. Ví dụ, nếu giá hiện tại của bXEN là 0,01 USD, và bạn nắm giữ 10.000 bXEN, giao thức sẽ xác định 10.000 bXEN của bạn tương đương với 100 vXEN (100 token vXEN).
+
+Tương tự, nếu bạn muốn có được vUSDy, bạn cần có các token gốc YSL.IO như bYSL, xYSL hoặc USDy và một lượng đủ lớn các token gốc chuỗi để chi trả Phí đúc vUSDy bắt buộc. Hãy nhớ rằng khi bạn đốt để lấy vUSDy, giao thức sẽ sử dụng các tỷ giá định trước để chuyển đổi bYSL, xYSL và USDy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Chiết khấu Phí đốt theo Trọng số Thời gian
+
+Xenify giới thiệu một cách tiếp cận sáng tạo đối với chiết khấu phí đốt nhằm thúc đẩy tính công bằng và ngăn chặn thao túng. Bằng cách áp dụng tính toán phí đốt được thiết kế cẩn thận, giao thức hiệu quả ngăn chặn các thực hành không công bằng nơi người dùng theo dõi thời gian giao dịch một cách chiến lược để tối đa hóa phần thưởng hoặc ưu đãi của họ.
+
+Phí đốt (BF) bao gồm các yếu tố có trọng số thời gian được gọi là Hệ số phí đốt (FC) và Hệ số batch (BC), giúp xác định khoản phí cần thiết để thực thi chức năng đốt dựa trên giá trị các batch đang bị đốt. Khoản chiết khấu phí đốt mà bạn nhận được sẽ phụ thuộc vào Hệ số phí đốt (FC) và Hệ số batch (BC) áp dụng tại thời điểm đốt. Cả hai hệ số đều có trọng số thời gian, giảm dần trong suốt chu kỳ hàng ngày. Điều này có nghĩa là khoản chiết khấu hiệu quả mà bạn nhận được sẽ thay đổi tùy thuộc vào thời điểm bạn quyết định đốt trong một chu kỳ.
+
+Để khởi chạy chức năng đốt trên Xenify, người dùng phải có số dư ví đủ các token gốc chuỗi đáp ứng hoặc vượt quá số lượng cần thiết cho Phí đúc và Phí đốt. Phí đúc mà người dùng cần gửi sẽ phụ thuộc vào giá trị cơ bản của các token đang bị đốt bởi người dùng, và giao thức sẽ tính Phí đốt (BF) bằng công thức dưới đây:
+
+<br>
+
+$$
+BF = (FC \times VB) \times (1 - (NB \times BC))  
+$$
+
+**Trong đó:**  
+
+- $BF$ (Phí đốt) - Phí tính cho chức năng đốt, thanh toán bằng token gốc của blockchain.
+- $FC$ (Hệ số phí đốt) - Hệ số có trọng số thời gian được sử dụng để tính chiết khấu vào phí đốt. 
+- $VB$ (Giá trị các Batch) - Giá trị đô la của các batch bị đốt bởi người dùng, ảnh hưởng đến phí đốt khi giá trị các batch tăng lên.
+- $BC$ (Hệ số Batch) - Hệ số có trọng số thời gian được sử dụng để tính chiết khấu dựa trên các batch bị đốt.
+- $NB$ (Số lượng Batch) - Số lượng batch mà người dùng đốt, ảnh hưởng đến chiết khấu trong phí đốt khi số lượng batch tăng lên. Con số này sẽ được giới hạn ở 10.000 batch. 
+
+<br>
+
+Đáng lưu ý rằng khoản chiết khấu phí đốt bạn nhận được sẽ phụ thuộc vào các giá trị hiện tại của Hệ số Phí đốt (FC) và Hệ số Lô (BC) vào thời điểm đốt. Do các hệ số này giảm dần theo thời gian trong chu kỳ hàng ngày, chiết khấu hiệu quả bạn nhận được sẽ thay đổi tùy thuộc vào thời điểm bạn quyết định đốt trong một chu kỳ. Cách tiếp cận động này đảm bảo người dùng có cơ hội hưởng lợi từ các mức chiết khấu khác nhau dựa trên thời gian của họ.
+
+Cách tiếp cận của Xenify đối với các khoản chiết khấu phí đốt không chỉ thúc đẩy sự công bằng mà còn cung cấp cho người dùng tiềm năng để tối ưu hóa khoản tiết kiệm của họ. Bằng cách xem xét các hệ số có trọng số thời gian và lựa chọn thời điểm đốt một cách chiến lược, người dùng có thể tối đa hóa các khoản chiết khấu và giá trị tổng thể của họ. Cách tiếp cận sáng tạo này mang lại tính minh bạch, công bằng và lợi ích gia tăng cho tất cả người tham gia hệ sinh thái Xenify.
+
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Hệ số Phí đốt (FC)
+
+Khoản Phí đốt (BF) cần thiết để thực hiện chức năng đốt sẽ tăng khi tổng giá trị của các lô đốt tăng lên, tuy nhiên bằng cách thực hiện việc đốt sớm trong chu kỳ, người dùng có cơ hội hưởng mức phí đốt thấp hơn nhờ Hệ số Phí đốt (FC).
+
+Như minh họa trong bảng dưới đây, Hệ số Phí đốt bắt đầu ở mức 50% khi một chu kỳ bắt đầu và tăng khoảng 2,174% mỗi giờ cho đến khi đạt 100% vào giờ cuối cùng của chu kỳ hàng ngày. Điều này có nghĩa là người dùng sẽ cần đóng góp nhiều hơn để thực hiện chức năng đốt khi ngày trôi qua. Tuy nhiên, nó cũng mang lại cơ hội cho những người đốt sớm trong chu kỳ được chiết khấu lên đến 75% trong giờ đầu tiên của mỗi chu kỳ.
+
+<br>
+
+| Giờ | Hệ số Phí đốt (FC) |  
+|-|-|
+| 1 | 50.00% |
+| 2 | 52.17% |   
+| 3 | 54.35% |
+| 4 | 56.52% |
+| 5 | 58.70% |
+| 6 | 60.87% | 
+| 7 | 63.04% |
+| 8 | 65.22% |
+| 9 | 67.39% |
+| 10 | 69.57% |
+| 11 | 71.74% |
+| 12 | 73.91% |
+| 13 | 76.09% |  
+| 14 | 78.26% |
+| 15 | 80.43% |
+| 16 | 82.61% |
+| 17 | 84.78% |
+| 18 | 86.96% |  
+| 19 | 89.13% |  
+| 20 | 91.30% |
+| 21 | 93.48% |
+| 22 | 95.65% |
+| 23 | 97.83% |
+| 24 | 100.00% |
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Hệ số Lô (BC) 
+
+Hệ số Lô (BC) tính vào một khoản chiết khấu trên phí đốt dựa trên số lượng lô bạn đốt. Càng nhiều lô bạn đốt, khoản chiết khấu lô càng lớn, được thể hiện bởi thuật ngữ (1 - (NB x BC)). Giá trị của Hệ số Lô (BC) thay đổi tùy thuộc vào thời điểm người dùng quyết định đốt trong một chu kỳ.
+
+Bảng dưới đây minh họa cách giá trị của hệ số thay đổi trong một chu kỳ 24 giờ. Hằng số bắt đầu ở 0,00005 khi chu kỳ bắt đầu và giảm 0,0000025 mỗi giờ cho đến khi đạt 0 sau 20 giờ. Kết quả là, người dùng sẽ không được hưởng chiết khấu lô trong 4 giờ cuối của chu kỳ.
+
+<br>  
+
+| Giờ | Hệ số Lô (BC) |
+|-|-|
+| 1 | 0.00005 |
+| 2 | 0.0000475 |
+| 3 | 0.000045 |  
+| 4 | 0.0000425 |
+| 5 | 0.00004 |
+| 6 | 0.0000375 |
+| 7 | 0.000035 |
+| 8 | 0.0000325 |
+| 9 | 0.00003 |  
+| 10 | 0.0000275 |
+| 11 | 0.000025 |
+| 12 | 0.0000225 |
+| 13 | 0.00002 |
+| 14 | 0.0000175 |
+| 15 | 0.000015 |
+| 16 | 0.0000125 |
+| 17 | 0.00001 |
+| 18 | 0.0000075 |
+| 19 | 0.000005 |
+| 20 | 0.0000025 |
+| 21 | 0 |  
+| 22 | 0 |
+| 23 | 0 |
+| 24 | 0 |
+
+<br>
+
+## ◽️ Các Kịch bản Phí đốt Khác nhau 
+
+Hãy xem xét kỹ hơn cách Khoản chiết khấu Phí đốt có Trọng số Thời gian hoạt động trong các kịch bản khác nhau:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Kịch bản 1: Người dùng đốt trong Giờ 1 của một chu kỳ
+
+  - Giả sử bạn quyết định đốt 10.000 lô trị giá 5.000 đô la trong giờ đầu tiên của chu kỳ hàng ngày. Xét rằng Hệ số Lô (BC) trong giờ đầu tiên của một chu kỳ là 0,00005 và Hệ số Phí đốt (FC) trong giờ đầu tiên là 50%, giao thức sẽ xác định Phí đốt của bạn (BF) là 1.250 đô la.
+
+<br>  
+
+$$
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250  
+$$
+
+<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Kịch bản 2: Người dùng đốt trong Giờ thứ 24 của một chu kỳ
+
+- Bây giờ, giả sử bạn quyết định đốt 10.000 batch trong giờ cuối cùng của chu kỳ hàng ngày. Xét rằng Hệ số batch (BC) trong giờ cuối cùng của một chu kỳ là 0 và Hệ số phí đốt (FC) trong giờ cuối cùng là 100%, giao thức sẽ xác định Phí đốt của bạn (BF) là 5.000 USD.
+
+<br>
+
+$$
+BF = (1 \times 5,000) \times (1 - (10,000 \times 0)) = $5,000  
+$$
+
+<br>
+
+So sánh các kịch bản này làm nổi bật lợi ích của việc đốt batch trong giờ đầu tiên so với giờ cuối cùng. Khoản tiết kiệm tối đa 75% chỉ có thể nếu bạn đốt 10.000 batch trong giờ đầu tiên của chu kỳ hàng ngày. Cơ chế phí đốt có trọng số thời gian này giảm thiểu các thực hành không công bằng và tăng cường tính công bằng, thưởng cho người dùng thực hiện các đợt đốt lớn hơn sớm hơn trong chu kỳ với chiết khấu lớn hơn.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Quản lý Phí đúc
+
+Đấu giá đốt hàng ngày của Xenify là cơ hội hoàn hảo để có được token XNF, và tất cả những gì bạn cần là có vXEN hoặc vUSDy. Quá trình có được những token này rất đơn giản - chỉ cần đốt một biến thể token XEN hoặc token gốc YSL.IO tương ứng. Đó là một quá trình trơn tru mang lại cho người dùng quyền truy cập vào đấu giá đốt hàng ngày và cơ hội để có được XNF. Hãy nhớ rằng trong quá trình đốt, có một khoản Phí đúc bắt buộc dựa trên giá trị thị trường hiện tại của các token đang bị đốt.
+
+Bằng cách cung cấp Phí đúc, người dùng đóng góp vào việc tạo ra thanh khoản sở hữu giao thức. Thanh khoản này cũng mở đường cho việc phân phối thêm phần thưởng dưới dạng token XNF và token XEN gốc cho những người tham gia tái chế phần thưởng vào cuối mỗi chu kỳ. Do đó, Quản lý Phí đúc không chỉ củng cố thanh khoản sở hữu giao thức mà còn gián tiếp tạo ra nhiều phần thưởng hơn cho những người tham gia tái chế. Thiết kế sáng tạo này đảm bảo tính bền vững và tăng trưởng lâu dài của hệ sinh thái Xenify. Hơn nữa, việc không có khóa quản trị trong hợp đồng bảo vệ thanh khoản sở hữu giao thức loại bỏ hoàn toàn khả năng thao túng.
+
+Để khởi động việc tạo ra thanh khoản sở hữu giao thức này, Quản lý Phí đúc nhận được phân bổ 100.000 token XNF được phát hành trước khi triển khai XNF. Những token này phục vụ mục đích tạo thanh khoản XNF thông qua Phí đúc. 100.000 token XNF được chia đều, với 50.000 token được phân bổ cho Phí đúc vXEN và 50.000 token cho Phí đúc vUSDy. Nhóm phát triển không có quyền truy cập vào những token được phát hành trước này, và chỉ có thể thực hiện đốt những token này nếu cần thiết. 
+
+Đây là cách nó hoạt động: Khi người dùng gửi Phí đúc, Quản lý Phí đúc sẽ ghép nối 50% số token gốc chuỗi với các token XNF được phát hành trước, để thêm vào thanh khoản XNF ở phạm vi đầy đủ, với tất cả token LP được nắm giữ bởi giao thức. Quá trình này sẽ tiếp tục cho đến khi số lượng XNF được phát hành trước được sử dụng hết. Sau đó, quản lý khởi động quy trình mặc định của nó, liên quan đến việc sử dụng 25% số token gốc để mua token XNF, ghép nối XNF thu được với 25% số token gốc cho việc tạo thanh khoản ở phạm vi đầy đủ, với tất cả token LP được nắm giữ bởi giao thức. 
+
+50% còn lại của Phí đúc được dành để tạo thanh khoản hoặc USDy hoặc XEN, tùy thuộc vào việc người dùng gửi Phí đúc để có được vXEN hay vUSDy. Khi giao thức tạo thanh khoản USDy thông qua Phí đúc vUSDy, các token LP USDy được gửi đến Quỹ USDy của YSL.IO. Mặt khác, khi nó tạo thanh khoản XEN thông qua Phí đúc vXEN, các token LP XEN được nắm giữ bởi giao thức.
+
+Vào cuối mỗi chu kỳ, giao thức rút 1% tổng số token LP XNF và 1% token LP XEN được nắm giữ. Các token gốc chuỗi thu được từ các token LP đã rút được sử dụng để mua XNF và XEN tương ứng, với các token đã mua được kết hợp với các token XNF và XEN đã rút và sau đó phân phối cho các chủ sở hữu veXNF đã tham gia vào phần thưởng tái chế trong chu kỳ trước. Các token XEN được mua trong quá trình này đại diện cho token gốc của chuỗi cụ thể, chẳng hạn như bXEN trên BNB Chain. Tương tự, các token XNF được mua đại diện cho token gốc của chuỗi, như bXNF trên BNB Chain.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Phí đúc vXEN
+
+Phí đúc vXEN chỉ áp dụng khi bạn đốt một biến thể token XEN để có được vXEN. Phí đúc được xác định bởi giá trị thị trường hiện tại của các token bạn đốt. Các token gốc tạo ra từ phí đúc vXEN sẽ được phân bổ như sau:
+
+- **50% sẽ được dùng để tạo thanh khoản XNF:** Giao thức sử dụng 50% số token gốc để tạo thanh khoản XNF cho chuỗi đó. Nếu có 50.000 XNF được phát hành trước, toàn bộ số lượng token gốc sẽ được ghép cặp với XNF được phát hành trước cho ghép đôi thanh khoản, với các token LP được nắm giữ bởi giao thức. Tuy nhiên, nếu số lượng XNF được phát hành trước đã cạn, giao thức sẽ sử dụng một nửa 50% token gốc để mua token XNF và 25% token gốc còn lại để ghép đôi thanh khoản, với các token LP được nắm giữ bởi giao thức.
+
+- **50% sẽ được dùng để tạo thanh khoản token XEN:** Giao thức sử dụng 50% số token gốc chuỗi để tạo thanh khoản cho biến thể token XEN gốc cho bể thanh khoản XEN phổ biến nhất trên chuỗi đó (ví dụ, trên BNB Chain nó sẽ tạo thanh khoản cho cặp bXEN-BNB), bằng cách sử dụng 25% số token để mua token XEN gốc (ví dụ: bXEN) và 25% token gốc còn lại để ghép đôi thanh khoản với các token LP được nắm giữ bởi giao thức.
+
+- Ví dụ, giả sử bạn có 10.000 bXEN và muốn chuyển nó thành vXEN. Nếu bXEN hiện có giá 0,01 USD và bạn nắm giữ 10.000 bXEN, giá trị bXEN của bạn là 100 USD. Do đó, bạn cần cung cấp 100 BNB cho phí đúc. Sau khi bạn khởi động quá trình đúc, giao thức sẽ tạo ra vXEN dựa trên tổng giá trị bXEN của bạn và phí đúc. Trong ví dụ này, bạn sẽ nhận được 200 vXEN đổi lại, xét đến 100 USD bXEN của bạn và 100 USD phí đúc BNB. Số 100 USD trị giá bXEN bạn gửi trong quá trình sẽ bị loại khỏi lưu thông vĩnh viễn, và khoản đóng góp 100 USD cho phí đúc BNB sẽ đến Quản lý Phí đúc vXEN.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Phí Đúc vUSDy 
+
+Phí đúc vUSDy chỉ áp dụng khi bạn chuyển đổi USDy, xYSL hoặc bYSL sang vUSDy thông qua quá trình đốt. Các token gốc được tạo ra từ phí đúc vUSDy sẽ được phân bổ như sau:
+
+- **50% sẽ được sử dụng để tạo thanh khoản XNF:** Giao thức sử dụng 50% token gốc để tạo thanh khoản XNF cho chuỗi. Nếu 50.000 XNF Đã đúc sẵn có sẵn, toàn bộ số lượng token gốc sẽ được ghép đôi với XNF đã đúc sẵn để tạo thanh khoản, với các LP token được giữ bởi giao thức. Tuy nhiên, nếu khoản phân bổ XNF đã đúc sẵn đã cạn kiệt, giao thức sẽ sử dụng một nửa 50% token gốc để mua các token XNF và 25% còn lại của các token gốc để ghép đôi thanh khoản, với các LP token được giữ bởi giao thức.
+
+- **50% sẽ được sử dụng để tạo thanh khoản USDy do kho bạc sở hữu:** Giao thức sử dụng 50% token gốc để tạo thanh khoản USDy-USDC do kho bạc sở hữu, bằng cách đúc phần USDy của cặp thanh khoản và mua USDC bằng 50% token, với các LP token được gửi đến YSL.IO Treasury.
+
+- Ví dụ, giả sử bạn có 100 token USDy và bạn muốn chuyển chúng thành vUSDy. Để trang trải phí đúc, bạn cần nắm giữ các token gốc của chuỗi. Phí đúc sẽ được xác định là 100 $BNB, dựa trên tỷ giá chuyển đổi cố định 1,00 đô la mỗi USDy. Sau khi bạn khởi tạo quá trình đúc, giao thức sẽ tạo ra vUSDy dựa trên tổng giá trị USDy của bạn và phí đúc. Trong ví dụ này, bạn sẽ nhận được 200 $ vUSDy để đổi lấy, xét 100 USDy của bạn và phí đúc 100 $BNB. 100 USDy bạn gửi trong quá trình sẽ bị loại bỏ vĩnh viễn khỏi lưu thông, và phí đúc 100 $BNB sẽ được gửi đến Quản lý Phí đúc vUSDy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Phân phối Chu kỳ XNF  
+
+Xenify sử dụng cách tiếp cận cân bằng trong việc phân phối hàng ngày của các token XNF, với trọng tâm vào hai thành phần trung tâm trên tất cả các chuỗi nó được triển khai: phí đốt và phí hoán đổi. Những thành phần này nhận được một phần bằng nhau của số lượng đúc hàng ngày, với 50% được phân bổ cho những người tham gia đốt token vXEN hoặc vUSDy, và 50% còn lại được phân phối cho những người tham gia hoán đổi.
+
+Ví dụ, nếu số lượng token XNF được đúc hàng ngày là 20.000, việc phân bổ được chia đều. Những người đóng góp vào phí đốt nhận được 10.000 token XNF, và số lượng tương đương được cấp cho những người đóng góp vào phí hoán đổi. Cấu trúc phân bổ đồng đều này mở rộng cho tất cả các chuỗi nơi Xenify có mặt. Do đó, bất kể chuỗi nào họ đang sử dụng, người tham gia liên quan đến việc đốt token hoặc thực hiện hoán đổi đều có cơ hội nhận được một phần của số lượng token XNF được đúc hàng ngày. 
+
+Ví dụ, nếu số lượng đúc XNF hàng ngày là 20.000 token XNF, Xenify sẽ phân phối các khoản phân bổ theo hai cách: 10.000 XNF được cấp cho những người đóng góp vào phí đốt, và 10.000 XNF cho những người đóng góp vào phí hoán đổi. Cùng một cấu trúc phân bổ này được áp dụng trên tất cả các chuỗi khác nơi Xenify được triển khai. Do đó, bất kể chuỗi nào, người dùng đóng góp vào việc đốt token hoặc tham gia hoán đổi đều có cơ hội nhận được một phần của số lượng token XNF mới được đúc mỗi ngày.
+
+Để xác định phần của mỗi người dùng trong số lượng đúc hàng ngày được phân bổ cho các đóng góp đốt và hoán đổi, giao thức sẽ thực hiện một loạt các phép tính. Các phép tính này sẽ dựa trên các đóng góp đốt và hoán đổi được thực hiện bởi người dùng trong chu kỳ. Giao thức sẽ tổng hợp các đóng góp này để tính toán chính xác tổng phân phối XNF cho mỗi người dùng. Phương pháp có hệ thống này đảm bảo sự phân bổ công bằng, ghi nhận cả sự tham gia tích cực của người dùng trong việc đốt token và đóng góp của họ về mặt phí hoán đổi. 
+
+Giao thức tính toán đóng góp đốt (BC) của một người dùng cụ thể trong một chu kỳ, dựa trên tổng số token XNF được phân phối (TCD), tổng số lô đốt bởi tất cả người dùng (TNB), và số lô đốt bởi người dùng cụ thể đó (UNB). Đây là công thức được giải thích chi tiết:
+
+<br>
+
+$$
+BC = (TCD \\div 2) \\times (UBB \\div TBB)  
+$$
+
+<br>
+
+**Trong đó:** 
+
+- *BC* - đại diện cho đóng góp đốt của người dùng.
+- *TCD* - là tổng số lượng token XNF được phân phối trong một chu kỳ.  
+- *UBB* - là số lô mà một người dùng cụ thể đã đốt trong một chu kỳ.
+- *TBB* - là tổng số lô đốt trong một chu kỳ bởi tất cả người dùng.
+
+<br>
+
+Đây là cách nó hoạt động: Giao thức tính toán đóng góp đốt bằng cách đầu tiên chia tổng số token được phân phối trong một chu kỳ (TCD) cho 2, do 50% lượng đúc XNF hàng ngày được phân bổ cho những người tham gia đốt token vXEN hoặc vUSDy. Sau đó, nó tính toán tỷ lệ số lô được đốt bởi người dùng cụ thể (UNB) so với tổng số lô bị đốt bởi tất cả người dùng (TNB). Điều này cho ra một giá trị trên mỗi lô đốt. Cuối cùng, giao thức nhân hai giá trị này để xác định đóng góp đốt cá nhân của người dùng trong chu kỳ đó (BC). 
+
+Việc tính toán đóng góp hoán đổi (SC) cũng tuân theo logic tương tự, theo đó giao thức tính toán đóng góp hoán đổi (SC) của một người dùng cụ thể trong một chu kỳ, dựa trên tổng số token XNF được phân phối (TCD), tổng phí hoán đổi trả bởi tất cả người dùng (TSF), và phí hoán đổi trả bởi người dùng cụ thể (USF). Đây là công thức được giải thích chi tiết:
+
+<br>  
+
+$$
+SC = (TCD \div 2) \times (USF \div TSF)
+$$
+
+<br>
+
+**Trong đó:**
+
+- *SC* - đại diện cho đóng góp hoán đổi của người dùng.  
+- *TCD* - là tổng số lượng token XNF phân phối trong một chu kỳ.
+- *USF* - là phí hoán đổi trả bởi một người dùng cụ thể trong một chu kỳ.
+- *TSF* - là tổng phí hoán đổi trả trong một chu kỳ bởi tất cả người dùng.
+
+<br>
+
+Đây là cách nó hoạt động: Giao thức tính toán đóng góp hoán đổi của người dùng (SC) bằng cách đầu tiên chia tổng số token XNF được phân phối (TCD) cho 2, vì 50% lượng phát hành XNF hàng ngày được phân bổ cho những người thực hiện hoán đổi trên các chuỗi được hỗ trợ. Sau đó, nó nhân kết quả với tỷ lệ phí hoán đổi của người dùng (USF) so với tổng phí hoán đổi (TSF) trả bởi tất cả người dùng. Điều này tạo ra một giá trị cụ thể cho mỗi đơn vị phí hoán đổi trả và giúp xác định tỷ lệ token XNF mà người dùng nhận được dựa trên đóng góp cá nhân của họ vào phí hoán đổi trong một chu kỳ nhất định.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Trực quan hóa
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Stake token XNF
+
+Mỗi chu kỳ, giao thức Xenify phân phối các token XNF mới được phát hành cho người dùng của nó. Việc phân phối diễn ra vào cuối mỗi ngày và tuân theo cấu trúc phân bổ cụ thể. Cụ thể, 50% số XNF được phát hành hàng ngày được phân bổ cho những người dùng tham gia đốt token vXEN và vUSDy, và 50% còn lại được phân phối cho những người dùng tham gia hoán đổi trên tất cả các chuỗi EVM được hỗ trợ.
+
+Các token XNF được stake đóng vai trò thiết yếu trong việc tích lũy phần thưởng bằng token gốc chuỗi cho người dùng, với phần của mỗi người dùng được xác định bởi vị thế veXNF của họ và sức mạnh kiếm tiền liên quan. Các token được stake bắt đầu tích lũy phần thưởng token gốc chuỗi trong cùng chu kỳ chúng được stake. Những phần thưởng này được tích lũy vào một quỹ thưởng trong mỗi chu kỳ và sau đó được giao thức phân phối cho những người stake XNF vào cuối chu kỳ hàng ngày.
+
+Những người dùng nhắm đến việc kiếm một phần phần thưởng token gốc chuỗi trên Xenify cần stake token XNF của họ theo cách thủ công hoặc chủ động yêu cầu phân bổ XNF hàng ngày của họ. Bằng cách đó, họ khóa XNF của mình trong một khoảng thời gian stake lựa chọn, có thể ngắn nhất là hai tuần hoặc dài nhất là bốn năm. Một khi thời hạn khóa mong muốn được đặt, XNF của người dùng sẽ được stake và khóa theo thời hạn đã chọn. Sau đó, giao thức đúc token veXNF cho người dùng, phản ánh số lượng XNF được stake và thời hạn khóa đã chọn. Trong suốt thời gian khóa, người dùng không thể bỏ stake XNF của họ nhưng vẫn tiếp tục tích lũy phần thưởng token gốc chuỗi. Việc phân phối những phần thưởng này được xác định bởi sức mạnh kiếm tiền của veXNF của họ.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Bỏ stake token XNF 
+
+Sau khi hoàn thành chu kỳ stake đã chọn, người dùng có tùy chọn để bỏ stake token XNF của họ. Điều quan trọng cần lưu ý là người dùng không thể bỏ stake XNF của họ trong thời hạn khóa đã chỉ định. Tuy nhiên, người dùng sẽ tích lũy phần thưởng token gốc chuỗi trong suốt thời gian khóa. Những phần thưởng này có liên quan trực tiếp đến vị trí veXNF của họ, với sức mạnh của veXNF của người dùng trong chu kỳ stake xác định phần của họ trong mỗi lần phân phối phần thưởng.
+
+Một khi thời hạn khóa đã chọn kết thúc, sức mạnh kiếm tiền của vị thế veXNF của người dùng sẽ hoàn toàn suy giảm. Điều này có nghĩa là họ sẽ không còn kiếm được phần thưởng token gốc chuỗi từ vị trí của mình. Vào thời điểm này, người dùng có hai lựa chọn: họ có thể gia hạn chu kỳ stake của mình lên tối đa 4 năm để duy trì sức mạnh kiếm tiền của veXNF, hoặc họ có thể quyết định bỏ stake các token XNF của mình và lấy lại quyền sở hữu đầy đủ.  
+
+Việc quyết định gia hạn chu kỳ stake hay bỏ stake các token hoàn toàn tùy thuộc vào người dùng. Xenify cung cấp sự linh hoạt để mỗi người dùng đánh giá sở thích của họ và đưa ra quyết định sáng suốt về hướng đi tốt nhất cho hoàn cảnh của họ.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ◽️ Yêu cầu phần thưởng token gốc chuỗi
+
+Xenify trao quyền cho người dùng để dễ dàng yêu cầu và rút phần thưởng token gốc chuỗi đã tích lũy của họ theo sự thuận tiện của họ. Tuy nhiên, hãy nhớ rằng Phí Yêu cầu 25% sẽ được áp dụng khi yêu cầu phần thưởng token gốc chuỗi của bạn.
+
+Để tránh Phí Yêu cầu 25%, chỉ cần nhấp vào nút "Tái chế". Điều này cho phép bạn sử dụng các token gốc chuỗi đã tích lũy của mình để có được XNF bằng cách tham gia đốt hàng ngày vUSDy, hoàn toàn tránh Phí Yêu cầu. Trong suốt mỗi chu kỳ, các token thu được từ khoản phí này được lưu trữ trong một quỹ tạm thời. Vào cuối chu kỳ, các token này chỉ được phân phối cho các chủ sở hữu veXNF đã sử dụng chức năng Tái chế trong chu kỳ đó. 
+
+Sự phân phối độc đáo này diễn ra trong quá trình giao thức phân phối phần thưởng token gốc chuỗi hàng ngày, với mỗi người tham gia đủ điều kiện nhận một phần dựa trên vị trí của họ. Ví dụ, nếu một người dùng tái chế phần thưởng của họ trong một chu kỳ, họ sẽ được bao gồm trong việc phân phối số tiền thu được từ Phí Yêu cầu vào cuối chu kỳ đó.  
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Tái chế Phần thưởng Chuỗi Gốc 
+
+Khám phá cách thông minh để tối đa hóa phần thưởng của bạn với tính năng tái chế của Xenify! Bằng cách chọn tái chế phần thưởng chuỗi gốc của bạn, bạn không chỉ có thể bỏ qua phí khai thác 25% mà còn tăng cường vị thế XNF của mình, vì toàn bộ số dư phần thưởng của bạn được sử dụng để tham gia đốt cháy vXEN hàng ngày. 
+
+Điều làm nổi bật quy trình này là khả năng của giao thức tạo ra các mã thông báo vXEN tương đương với giá trị phần thưởng của bạn và trực tiếp khấu trừ phí đốt từ số dư phần thưởng của bạn. Điều này có nghĩa là bạn có thể đốt vXEN mà không cần phần thưởng chuỗi gốc bổ sung để bao gồm phí mint hoặc phí đốt bắt buộc, điều thường được yêu cầu trong quy trình đốt mặc định.
+
+Bằng cách sử dụng chức năng tái chế, bạn cũng sẽ được truy cập độc quyền vào việc phân phối hàng ngày các mã thông báo chuỗi gốc được tạo ra từ phí khai thác 25% của nền tảng. Phí khai thác này sẽ được thu mỗi khi người dùng quyết định khai thác phần thưởng chuỗi gốc của họ. Vào cuối chu kỳ, tổng số mã thông báo chuỗi gốc đã tích lũy sẽ được phân phối độc quyền cho những người nắm giữ veXNF đã tái chế trong chu kỳ đó. Bạn tái chế càng nhiều phần thưởng chuỗi gốc trong một chu kỳ, phần của bạn càng lớn cho chu kỳ đó. Ví dụ, nếu có phần thưởng chuỗi gốc trị giá 100.000 đô la được khai thác trong một chu kỳ và bạn là người duy nhất đang đặt cọc XNF tái chế trong chu kỳ đó, bạn sẽ nhận được toàn bộ 25.000 đô la trị giá của các mã thông báo chuỗi gốc được tạo ra từ phí khai thác vào cuối chu kỳ.
+
+Nhưng chờ đã, còn nhiều hơn thế nữa! Là một lời cảm ơn đối với sự tham gia tích cực của họ vào giao thức, những người nắm giữ veXNF tái chế phần thưởng của họ trong một chu kỳ cũng đủ điều kiện để nhận phân phối độc quyền XNF và XEN vào cuối mỗi chu kỳ. Giao thức sẽ mua XNF và XEN từ tính thanh khoản sở hữu giao thức, rút 1% tổng số mã thông báo LP XNF và 1% mã thông báo LP XEN được nắm giữ vào cuối chu kỳ. Các mã thông báo chuỗi gốc thu được từ các mã thông báo LP đã rút sau đó được sử dụng để mua XNF và XEN tương ứng. Các mã thông báo đã mua này, kết hợp với các mã thông báo XNF và XEN đã rút, sau đó được phân phối cho những người nắm giữ veXNF đã tham gia tái chế phần thưởng trong chu kỳ trước đó. Nói một cách đơn giản, bạn tái chế càng nhiều phần thưởng chuỗi gốc trong một chu kỳ, phần XNF và XEN bạn nhận được từ tính thanh khoản sở hữu giao thức càng lớn.
+
+Để tận dụng tính năng tái chế này, hãy đảm bảo rằng bạn có số dư phần thưởng chuỗi gốc đủ để có được ít nhất một lô vXEN cho quá trình đốt. Nếu số dư phần thưởng của bạn thấp hơn số lượng mã thông báo chuỗi gốc yêu cầu, tùy chọn tái chế sẽ không thể truy cập được. Bằng cách tái chế phần thưởng chuỗi gốc của bạn, bạn không chỉ củng cố vị thế XNF của mình mà còn tận hưởng một quy trình đơn giản hóa loại bỏ các khoản phí chức năng đốt thông thường. Đó là một tình huống cả hai bên cùng có lợi, thưởng cho sự tham gia tích cực và cam kết của bạn đối với sự tăng trưởng của Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Tổng quan về quy trình Tái chế
+
+  - Bạn quyết định tái chế phần thưởng chuỗi gốc của mình.
+  - Giao thức sử dụng giá trị tham chiếu Chainlink để xác định giá trị đô la của số dư phần thưởng chuỗi gốc của bạn.
+  - Dựa trên giá trị đô la của đóng góp của bạn, giao thức tạo một số lượng vXEN phù hợp. Số lượng lô được xác định bằng cách làm tròn xuống số lô gần nhất.
+  - Tất cả các lô vXEN được tạo ngay lập tức được đốt để tham gia đấu giá đốt hàng ngày, và giao thức thu phí đốt từ phần thưởng chuỗi gốc đã tái chế của bạn.
+  - Sau quá trình đốt, phần thưởng chuỗi gốc còn lại của bạn được gửi đến Hợp đồng Tái chế.
+  - Hợp đồng Tái chế chia các mã thông báo chuỗi gốc thành ba phần: 50% để tạo tính thanh khoản sở hữu giao thức XNF, 25% để tạo tính thanh khoản sở hữu giao thức XEN và 25% được phân bổ cho nhóm dưới dạng USDC để hỗ trợ các sáng kiến phát triển, tiếp thị và tiếp cận liên tục của Xenify.
+  - Các mã thông báo LP XNF và XEN thu được từ quá trình tái chế được nắm giữ bởi giao thức.
+  - Vào cuối phiên đấu giá đốt hàng ngày, bạn nhận được mã thông báo XNF dựa trên các lô vXEN được đốt từ đóng góp đã tái chế của bạn.
+  - Tiếp theo, bạn sẽ nhận được phần phần thưởng chuỗi gốc hàng ngày của mình dựa trên số dư veXNF và sức mạnh liên quan của bạn.
+  - Cuối cùng, với tư cách là người tái chế, bạn cũng sẽ nhận được một phần của bất kỳ mã thông báo chuỗi gốc nào được thu từ phí khai thác trong chu kỳ, cũng như một phần của XNF và XEN thu được từ tính thanh khoản sở hữu giao thức.
+
+Bằng cách tái chế phần thưởng chuỗi gốc của bạn, bạn không chỉ củng cố vị thế XNF của mình mà còn tận hưởng một quy trình đơn giản hóa loại bỏ các khoản phí thông thường liên quan đến đấu giá đốt hàng ngày. Quan trọng nhất, với tư cách là người tái chế tích cực, bạn sẽ kiếm được các mã thông báo chuỗi gốc được tạo ra từ phí khai thác 25% và đủ điều kiện để nhận phân phối độc quyền XNF và XEN vào cuối mỗi chu kỳ. Đó là một tình huống cả hai bên cùng có lợi, thưởng cho sự tham gia tích cực và cam kết của bạn đối với sự tăng trưởng của Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Phân phối Phần thưởng Mã thông báo Gốc
+
+Trong mỗi chu kỳ, nhóm phần thưởng giao thức dần dần tích lũy các mã thông báo chuỗi gốc được tạo ra từ các khoản phí đốt và phí hoán đổi. Nhóm này phát triển với mỗi giao dịch, cho dù đó là hoán đổi hay đốt. Tổng số của nhóm phần thưởng sau đó được phân phối giữa các nhà đặt cọc XNF dựa trên số dư veXNF và sức mạnh liên quan của họ.
+
+Ngoài việc phân phối các mã thông báo chuỗi gốc từ phí hoán đổi và phí đốt, còn có các đợt phân phối độc quyền các mã thông báo chuỗi gốc cho những người nắm giữ veXNF đã tái chế phần thưởng của họ trong chu kỳ. Các đợt phân phối bổ sung này bao gồm các mã thông báo chuỗi gốc được tạo ra từ phí khai thác 25% của Xenify đối với phần thưởng chuỗi gốc.
+
+Điều quan trọng cần lưu ý là việc khai thác XNF trên Xenify không phát sinh phí khai thác. Tuy nhiên, nếu những người nắm giữ veXNF chọn khai thác phần thưởng chuỗi gốc của họ, sẽ có phí khai thác 25%. Các mã thông báo chuỗi gốc thu được từ phí khai thác này trong một chu kỳ được đặt riêng và phân phối cho những người nắm giữ veXNF đã tái chế trong chu kỳ trước đó.
+
+Với cấu trúc phần thưởng độc đáo này, Xenify có thể củng cố nhu cầu và giá trị cho XNF, đồng thời cung cấp động lực hấp dẫn cho các nhà đầu tư tham gia tích cực vào giao thức. Điều này khuyến khích sự tham gia và nuôi dưỡng một cơ sở người dùng đang phát triển, giúp củng cố sự tăng trưởng lâu dài của giao thức.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Trực quan hóa 
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+# ◽️ Kiến trúc Xenify
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+
+# ◽️ Phân phối XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Giới thiệu Chương trình Phân phối XNF độc quyền của Xenify, một sáng kiến nhằm thúc đẩy sự tham gia của người dùng trên nền tảng trên nhiều chuỗi EVM. Để xây dựng sự háo hức cho việc ra mắt sắp tới của XNF trên một chuỗi mới, một sự kiện phân phối kéo dài 60 ngày sẽ diễn ra trước khi nó được triển khai. Khi người dùng hoán đổi token trên nền tảng, họ sẽ được thưởng 1.500.000 token XNF rộng rãi trong suốt sự kiện này, cung cấp một cơ hội tuyệt vời để hưởng lợi từ sự phát triển của Xenify.
+
+Ban đầu 1.500.000 token XNF này sẽ được phân phối dưới dạng các token khóa vào ngày ra mắt, dần mở khóa trong một thời gian 730 ngày. Ví dụ, nếu bạn nhận được 100 token XNF khóa từ đợt phân phối, bạn có thể mong đợi khoảng 0,13699 token XNF được mở khóa trong ví của bạn mỗi ngày.
+
+Vì những token này sẽ được chia cho người tham gia hoán đổi dựa trên đóng góp hoán đổi hàng ngày của họ dẫn đến ngày ra mắt, bạn càng hoán đổi nhiều trong sự kiện, phần XNF bạn nhận được càng lớn!
+
+Bây giờ, chúng tôi hiểu sự háo hức của bạn để stake những token XNF đó và chứng kiến danh mục đầu tư của bạn phát triển. Tuy nhiên, có một điều kiện nhỏ - các token XNF khóa không thể được stake. Vì vậy, nếu bạn nhắm đến việc kiếm một phần phần thưởng token gốc chuỗi của nền tảng, chúng tôi khuyên bạn nên tham gia đấu giá đốt ban đầu. Đó là vé để bạn kiếm được một phần phần thưởng token gốc chuỗi từ lần phân phối ban đầu!
+
+Để đảm bảo tính công bằng và ngăn chặn việc bắn phá vào phút cuối, một khoản phân bổ hàng ngày ổn định của đợt phân phối sẽ được thực hiện trong suốt sự kiện. Điều này đảm bảo người tham gia nhận được một phần của đợt phân phối phản ánh mức độ tham gia của họ. Ví dụ, trong 60 ngày Phân phối Sơ khai trên BNB Chain, 25.000 token XNF sẽ được phân bổ mỗi ngày. Phần của bạn từ đợt phân phối Sơ khai sẽ dựa trên đóng góp hàng ngày của bạn thông qua phí hoán đổi. Hãy tưởng tượng bạn là người dùng duy nhất hoán đổi vào một ngày cụ thể trong sự kiện 60 ngày - bạn sẽ nhận được 25.000 XNF ấn tượng từ đợt phân phối!
+
+Hơn nữa, để duy trì sự tham gia, đóng góp thực hiện trong một sự kiện sẽ không được chuyển sang các đợt phân phối tiếp theo. Chính sách này đảm bảo những người chỉ đóng góp một lần không liên tục được bao gồm trong các đợt phân phối trong tương lai, thúc đẩy sự tham gia tích cực.
+
+Trong giai đoạn trước khi triển khai, trong khi sự kiện phân phối đang diễn ra, phí hoán đổi 0,5% sẽ không được phân bổ cho các chủ sở hữu veXNF. Thay vào đó, các khoản phí này sẽ được sử dụng như tài nguyên để hỗ trợ sự phát triển của giao thức và các nỗ lực tiếp cận. Tuy nhiên, một khi XNF đã được triển khai trên một chuỗi cụ thể, 100% phí hoán đổi được tạo ra trên chuỗi đó sẽ được chuyển hướng dưới dạng phần thưởng token gốc chuỗi hàng ngày cho các chủ sở hữu veXNF (người stake XNF). Điều này tạo ra động lực hấp dẫn để tham gia tích cực vào sự phát triển của hệ sinh thái và cho phép người dùng hưởng lợi từ khối lượng hoán đổi liên tục của Xenify.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Trực quan hóa
+
+<p align="center" dir="auto">
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
+  </picture>
+</p>
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
+
+# ◽️ Tăng cường Đốt
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
