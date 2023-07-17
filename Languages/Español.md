@@ -987,19 +987,19 @@ Con esta estructura de recompensa única, Xenify es capaz de fortalecer la deman
 
 <br>
 
-Presentamos la exclusiva XNF Airdrop de Xenify, una iniciativa destinada a impulsar la participación de los usuarios en la plataforma a través de múltiples cadenas EVM. Para crear expectación ante el próximo lanzamiento de XNF en una nueva cadena, habrá un evento de airdrop de 60 días antes de su despliegue. A medida que los usuarios de la plataforma intercambien tokens, serán recompensados con una generosa asignación de 1.500.000 tokens XNF durante este evento, proporcionando una fantástica oportunidad para beneficiarse del crecimiento de Xenify.
+Presentamos la exclusiva XNF Airdrop de Xenify, una iniciativa destinada a impulsar la participación de los usuarios en la plataforma a través de múltiples cadenas EVM. Para crear expectación ante el próximo lanzamiento de XNF en una nueva cadena, habrá un evento de airdrop de 60 días antes de su lanzamiento. A medida que los usuarios de la plataforma intercambien o swapen tokens, serán recompensados con una generosa asignación de 1.500.000 tokens XNF durante este evento, proporcionando una fantástica oportunidad para beneficiarse del crecimiento de Xenify.
 
-Estos 1.500.000 tokens XNF se distribuirán inicialmente como tokens bloqueados el día del lanzamiento, desbloqueándose gradualmente durante un periodo de 730 días. Por ejemplo, si recibe 100 tokens XNF bloqueados del lanzamiento aéreo, puede esperar que se desbloqueen aproximadamente 0,13699 tokens XNF en su cartera cada día.
+Estos 1.500.000 tokens XNF se distribuirán inicialmente como tokens bloqueados el día del lanzamiento, desbloqueándose gradualmente durante un periodo de 730 días. Por ejemplo, si recibe 100 tokens XNF bloqueados en el airdrop, puede esperar que se desbloqueen aproximadamente 0,13699 tokens XNF en su cartera cada día.
 
-Dado que estos tokens se dividirán entre los participantes en el intercambio en función de sus contribuciones diarias al intercambio antes del lanzamiento, cuanto más intercambies durante el evento, mayor será tu parte del XNF Airdrop.
+Dado que estos tokens se dividirán entre los participantes en el swap en función de sus contribuciones diarias al swap antes del lanzamiento, cuanto más swapees durante el evento, mayor será tu parte del XNF Airdrop.
 
-Ahora, entendemos su impaciencia por apostar esos tokens XNF y ver florecer su cartera. Sin embargo, hay un pequeño inconveniente: los tokens XNF bloqueados no pueden apostarse. Por lo tanto, si su objetivo es ganar una parte de las recompensas de la cadena nativa de la plataforma, le recomendamos encarecidamente que también participe en la subasta inicial. Es tu billete para ganar una parte de las recompensas de la cadena nativa de la distribución inicial.
+Ahora, entendemos su impaciencia por stakear esos XNF tokens y ver florecer su cartera. Sin embargo, hay un pequeño inconveniente: los tokens XNF bloqueados no pueden ser staked. Por lo tanto, si su objetivo es ganar una parte de las recompensas de la cadena nativa de la plataforma, le recomendamos encarecidamente que también participe en la subasta inicial. Es tu boleto para ganar una parte de las recompensas de la cadena nativa de la distribución inicial.
 
-Para garantizar la equidad y desalentar los tijeretazos de última hora, durante todo el evento se llevará a cabo una asignación diaria coherente del lanzamiento aéreo. Esto garantiza que los participantes reciban una parte del lanzamiento que refleje su nivel de participación. Por ejemplo, durante los 60 días de Genesis Airdrop en la cadena BNB, se asignarán 25.000 tokens XNF cada día. Su parte del airdrop Génesis se basará en sus contribuciones diarias a través de la comisión de intercambio. Imagina que eres el único usuario que intercambia en un día concreto durante el evento de 60 días: ¡recibirás la impresionante cantidad de 25.000 XNF del lanzamiento desde el aire!
+Para garantizar la equidad y desalentar los saltos o cortes de última hora, durante todo el evento se llevará a cabo una asignación diaria coherente del airdrop. Esto garantiza que los participantes reciban una parte del airdrop que refleje su nivel de participación. Por ejemplo, durante los 60 días de Genesis Airdrop en la cadena BNB, se asignarán 25.000 tokens XNF cada día. Su parte del airdrop Génesis se basará en sus contribuciones diarias a través del swap fee contribuido. Imagina que eres el único usuario que realiza swaps en un día concreto durante el evento de 60 días: ¡recibirás la impresionante cantidad de 25.000 XNF del airdrop!
 
-Además, para mantener el compromiso, las contribuciones realizadas durante un evento no se trasladarán a los siguientes lanzamientos aéreos. Esta política garantiza que los usuarios que contribuyan una sola vez no sean incluidos sistemáticamente en futuros lanzamientos aéreos, promoviendo así la participación activa.
+Además, para mantener el compromiso, las contribuciones realizadas durante un evento no se trasladarán a los próximos airdrops. Esta política garantiza que los usuarios que contribuyan una sola vez no sean incluidos sistemáticamente en futuros airdrops, promoviendo así la participación activa.
 
-Durante la fase previa al despliegue, mientras dure el evento de lanzamiento desde el aire, la tasa de intercambio del 0,5% no se asignará a los titulares de veXNF. En su lugar, estas tasas se utilizarán como recursos para apoyar la progresión del protocolo y los esfuerzos de difusión. Sin embargo, una vez que el XNF se haya desplegado en una cadena específica, el 100% de las comisiones de intercambio generadas en esa cadena se redirigirán como recompensas diarias de la cadena nativa a los titulares de veXNF (stakers de XNF). Esto crea un incentivo atractivo para participar activamente en el crecimiento del ecosistema y permite a los usuarios beneficiarse del volumen de intercambio continuo de Xenify.
+Durante la fase previa al lanzamiento, mientras dure el evento del airdrop, los swap fees del 0,5% no se asignará a los holders de veXNF. En su lugar, estas tasas se utilizarán como recursos para apoyar la progresión del protocolo y los esfuerzos de difusión. Sin embargo, una vez que el XNF se haya lanzado en una cadena específica, el 100% de los swap fees generados en esa cadena se redirigirán como recompensas diarias de la cadena nativa a los holders de veXNF (stakers de XNF). Esto crea un incentivo atractivo para participar activamente en el crecimiento del ecosistema y permite a los usuarios beneficiarse del volumen de intercambio continuo de Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1016,18 +1016,18 @@ Durante la fase previa al despliegue, mientras dure el evento de lanzamiento des
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Amplificar Quemas
+# ◽️ Amplificador de Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Presentando la amplificación de quema de Xenify, una oportunidad exclusivamente diseñada para los propietarios de Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic) o [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). A través de la propiedad de estos raros NFT, desbloquearás un efecto diario de quema amplificado, aumentando tu recuento de lotes en un asombroso 100 cuando quemes vXEN o vUSDy. Si posees o alquilas al menos cuatro de estos codiciados NFT, prepárate para una amplificación aún mayor, ya que tu billetera recibirá un generoso bono diario de 1000 lotes.
+Presentando el amplificador de quema de Xenify, una oportunidad exclusivamente diseñada para los propietarios de Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic) o [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). A través de la posesión de estos raros NFT, desbloquearás un efecto diario de quema o burn amplificado, aumentando tu recuento de lotes en un asombroso 100 cuando quemes vXEN o vUSDy. Si posees o alquilas al menos cuatro de estos codiciados NFT, prepárate para una amplificación aún mayor, ya que tu billetera recibirá un generoso bono diario de 1000 lotes.
 
-Además, los titulares de Phoenix Ape NFT disfrutarán de una variedad de ventajas adicionales. Esto incluye la oportunidad de ganar recompensas USDC cada 8 horas y omitir la Tasa de Salida Sigma en el protocolo YSL.IO. Estos beneficios adicionales mejoran la participación de los usuarios al tiempo que hacen contribuciones significativas al crecimiento de los ecosistemas Xenify y YSL.IO.
+Además, los titulares de Phoenix Ape NFT disfrutarán de una variedad de ventajas adicionales. Esto incluye la oportunidad de ganar recompensas USDC cada 8 horas y omitir el Sigma Exit Rate en el protocolo YSL.IO. Estos beneficios adicionales mejoran la participación de los usuarios al tiempo que hacen contribuciones significativas al crecimiento de los ecosistemas Xenify y YSL.IO.
 
 Cada billetera que posee un Phoenix Ape NFT está sujeta a un Cupo Semanal de Salida (WOQ) que permite una única transacción de salida que involucre un Phoenix Ape NFT cada 7 días. Las transacciones de salida incluyen transferir un Phoenix Ape NFT a otra billetera o vender el NFT. Tenga en cuenta que si bien la restricción WOQ está vigente, los titulares de la billetera aún pueden transferir la utilidad de su(s) Phoenix Ape NFT a otra cadena. En resumen, transferir la utilidad de un NFT a una cadena diferente no activa el WOQ ni afecta la capacidad del usuario para transferir la utilidad de su(s) Phoenix Ape NFT.
 
-Y aquí está lo mejor: tu bono diario de lotes, ya sea que poseas un NFT o cuatro Phoenix Ape NFT, se puede transferir sin problemas a cualquier cadena que Xenify lance. Con tu bono de quema reiniciándose cada día, tendrás la oportunidad de cosechar los beneficios de este efecto de quema amplificado en todas las cadenas en las que Xenify se lanza a diario.
+Y aquí está lo mejor: tu bono diario de lotes, ya sea que poseas un NFT o cuatro Phoenix Ape NFT, se puede transferir sin problemas a cualquier cadena que Xenify esté presente. Con tu bono de quema reiniciándose cada día, tendrás la oportunidad de cosechar los beneficios de este efecto de quema amplificado en todas las cadenas en las que Xenify se lanza a diario.
 
 Para hacer que los Phoenix Apes sean accesibles para una amplia gama de participantes, estarán disponibles exclusivamente a través de una subasta semanal. Esto asegura la equidad y la participación, dando a todos tiempo suficiente para asegurar su valioso Phoenix Ape NFT. La subasta comienza con una oferta mínima inicial de solo 10 bXNF (XNF nativo de BNB Chain). Esto significa que, si aún no se han realizado ofertas, puedes comenzar la subasta con una oferta mínima de 10 bXNF. Si ya existen ofertas, tu oferta debe ser 2 bXNF mayor que la oferta actual más alta o el 105% de la oferta actual más alta, lo que sea mayor.
 
@@ -1041,7 +1041,7 @@ Una vez que ganes la subasta, puedes reclamar tu Phoenix Ape NFT, lo que acuñar
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Coleccionable limitado
+## ◽️ Suministro limitado
 
 Los Phoenix Apes es un coleccionable NFT que ha sido diseñado para unir a las comunidades Xenify y YSL.IO. La exclusiva colección NFT desarrollada por YSL.IO, cuenta con un escaso suministro de solo 520. Estos codiciados NFT han sido ingeniosamente diseñados con utilidad en su núcleo. No solo poseen rarezas únicas, sino que también otorgan beneficios excepcionales a sus titulares dentro del ecosistema Xenify y YSL.IO.
 
@@ -1053,12 +1053,11 @@ Los Phoenix Apes es un coleccionable NFT que ha sido diseñado para unir a las c
 
 Así es cómo funciona: cuando los titulares de NFT deciden quemar vXEN o vUSDy en Xenify, desbloquean un bono de quema diario que duplica su recuento de lotes (NB). El bono está limitado a 100 lotes diarios por ID de NFT. Una vez que un usuario agota los 100 lotes de bonificación diaria asignados a su NFT, ese NFT específico ya no ofrecerá una quema amplificada para ese día.
 
-¿Buscas más potencia de fuego? ¡Tenemos fantásticas noticias! Al poseer o alquilar al menos 4 de estos NFT muy codiciados, se beneficiará de una amplificación aún mayor, y su billetera recibirá un bono diario de 1000 lotes. Esto reemplaza efectivamente los lotes de bonificación diaria predeterminados de 100 reservados para cada una de sus cuatro ID de NFT. En resumen, si tiene 4 NFT, su bono diario total estará limitado a 1000 lotes, no 1400 lotes.
-Recuerde, cuanto más lotes queme, más ahorrará en tarifas de quema. Al tener 4 NFT, puede lograr un ahorro máximo del 75% en sus tarifas de quema al quemar solo 9000 lotes durante la primera hora de un ciclo en lugar de los habituales 10000. Además, con los NFT Phoenix Ape que tienen un suministro limitado de 520, solo puede haber un máximo de 130 direcciones de billetera que pueden aprovechar esta potencia de fuego adicional.
+¿Buscas más gasolina? ¡Tenemos fantásticas noticias! Al poseer o alquilar al menos 4 de estos NFT muy codiciados, se beneficiará de una amplificación aún mayor, y su billetera recibirá un bono diario de 1000 lotes. Esto reemplaza efectivamente los lotes de bonificación diaria predeterminados de 100 reservados para cada una de sus cuatro ID de NFT. En resumen, si tiene 4 NFT, su bono diario total estará limitado a 1000 lotes, no 1400 lotes. Recuerde, cuanto más lotes queme, más ahorrará en tarifas de quema. Al tener 4 NFT, puede lograr un ahorro máximo del 75% en sus tarifas de quema al quemar solo 9000 lotes durante la primera hora de un ciclo en lugar de los habituales 10000. Además, con los NFT Phoenix Ape que tienen un suministro limitado de 520, solo puede haber un máximo de 130 direcciones de billetera que pueden aprovechar esta potencia de fuego adicional.
 
 Y aquí está lo mejor: tu bono diario de lotes, ya sea que tengas un NFT o cuatro NFT, se puede transferir sin problemas a cualquier cadena en la que se lanze Xenify. Digamos que Xenify se expande a Polygon y tienes 4 Phoenix Ape NFT. Una vez que hayas agotado tu bono diario de 1000 lotes en BNB Chain, puedes transferir fácilmente la utilidad de tus NFT a Polygon y disfrutar de 1000 lotes de bonificación allí. Con tu multiplicador reiniciándose todos los días, tendrás la oportunidad de cosechar los beneficios de este efecto de quema amplificado en todas las cadenas en las que Xenify se lanza a diario.
 
-En resumen, los titulares de Phoenix Ape NFT no solo disfrutan de una mayor participación en la distribución diaria de XNF, sino que también desbloquean mayores descuentos en la tarifa de quema al quemar una mayor cantidad de lotes. La cantidad máxima de lotes por transacción está limitada a 10000 lotes, y el descuento en la tarifa de quema está representado por el término (1 - (NB x CS)) en la fórmula de tarifa de quema del protocolo:
+En resumen, los titulares de Phoenix Ape NFT no solo disfrutan de una mayor participación en la distribución diaria de XNF, sino que también desbloquean mayores descuentos en la tarifa de quema al quemar una mayor cantidad de lotes. La cantidad máxima de lotes por transacción está limitada a 10000 lotes, y el descuento en el burn fee está representado por el término (1 - (NB x CS)) en la fórmula de tarifa de quema del protocolo:
 
 <br>
 
@@ -1068,13 +1067,13 @@ $$
 
 **Donde:**
 
-- $BF$ (Tarifa de Quema) - La tarifa cobrada por la función de quema, pagada en el token nativo de la blockchain.
+- $BF$ (Burn fee) - La tarifa cobrada por la función de quema, pagada en el token nativo de la blockchain.
 
-- $FC$ (Coeficiente de Tarifa de Quema) - Un coeficiente ponderado por tiempo utilizado para incorporar un descuento en la tarifa de quema.
+- $FC$ (Burn Fee Coefficient) - Un coeficiente ponderado por tiempo utilizado para incorporar un descuento en la tarifa de quema.
 
 - $VB$ (Valor de Lotes) - El valor en dólares de los lotes que se queman por el usuario, influyendo en la tarifa de quema a medida que aumenta el valor de los lotes.
 
-- $BC$ (Coeficiente de Lote) - Un coeficiente ponderado por tiempo utilizado para incorporar el descuento basado en los lotes que se queman. 
+- $BC$ (Batch Coefficient) - Un coeficiente ponderado por tiempo utilizado para incorporar el descuento basado en los lotes que se queman. 
 
 - $NB$ (Número de Lotes) - La cantidad de lotes que quema el usuario, influyendo en los descuentos de tarifas de quema a medida que aumenta la cantidad de lotes. Esto estará limitado a 10000 lotes.
 
@@ -1112,9 +1111,9 @@ Veamos más de cerca cómo funciona la quema amplificada en diferentes escenario
 
 ## ◽️ Recompensas USDC reclamables
 
-La NFT Phoenix ha sido diseñada para cambiar las reglas del juego en el mundo de las NFT. Con su innovador mecanismo de alquiler, esta NFT única apoya activamente el ecosistema YSL.IO y permite a los usuarios generar ingresos por alquiler, mientras que los inquilinos disfrutan de la ventaja de eludir la Tasa de Salida Sigma del protocolo. Cuando se alquila un NFT Phoenix Ape a través del mercado YSL.IO, una parte de los ingresos por alquiler del usuario se recauda en concepto de impuestos. Combinado con una parte de los impuestos de OpenSea, estos ingresos se distribuyen entre todos los titulares de NFT Phoenix Ape como recompensas USDC en la cadena BNB.
+La NFT Phoenix ha sido diseñada para cambiar las reglas del juego en el mundo de las NFT. Con su innovador mecanismo de alquiler, esta NFT única apoya activamente el ecosistema YSL.IO y permite a los usuarios generar ingresos por alquiler, mientras que los inquilinos disfrutan de la ventaja de eludir el Sigma Exit Rate del protocolo. Cuando se alquila un NFT Phoenix Ape a través del mercado YSL.IO, una parte de los ingresos por alquiler del usuario se recauda en concepto de impuestos. Combinado con una parte de los impuestos de OpenSea, estos ingresos se distribuyen entre todos los titulares de NFT Phoenix Ape como recompensas USDC en la cadena BNB.
 
-Los titulares podrán reclamar estas recompensas de USDC al final de cada época de 8 horas. Y aquí está la guinda: incluso si un usuario decide puentear su Phoenix NFT de la cadena BNB para amplificar quemaduras con Xenify en otra cadena, seguirá siendo elegible para la distribución USDC. En términos más sencillos, las recompensas USDC reclamables en la cadena BNB se reservarán para todas las direcciones que posean el NFT Phoenix Ape, independientemente de si puentean la utilidad a otra cadena.
+Los titulares podrán reclamar estas recompensas de USDC al final de cada epoch de 8 horas. Y aquí está lo mejor: incluso si un usuario decide transferir/bridge su Phoenix NFT de la cadena BNB para amplificar quemaduras con Xenify en otra cadena, seguirá siendo elegible para la distribución USDC. En términos más sencillos, las recompensas USDC reclamables en la cadena BNB se reservarán para todas las direcciones que posean el NFT Phoenix Ape, independientemente de si puentean la utilidad a otra cadena.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1122,7 +1121,7 @@ Los titulares podrán reclamar estas recompensas de USDC al final de cada época
   
 La NFT Phoenix ha sido diseñada para cambiar las reglas del juego en el mundo de las NFT. Con su innovador mecanismo de alquiler, esta NFT única apoya activamente el ecosistema YSL.IO y permite a los usuarios generar ingresos por alquiler, mientras que los inquilinos disfrutan de la ventaja de eludir la Tasa de Salida Sigma del protocolo. Cuando se alquila un NFT Phoenix Ape a través del mercado YSL.IO, una parte de los ingresos por alquiler del usuario se recauda en concepto de impuestos. Combinado con una parte de los impuestos de OpenSea, estos ingresos se distribuyen entre todos los titulares de NFT Phoenix Ape como recompensas USDC en la cadena BNB.
 
-Los titulares podrán reclamar estas recompensas de USDC al final de cada época de 8 horas. Y aquí está la guinda: incluso si un usuario decide puentear su Phoenix NFT de la cadena BNB para amplificar quemaduras con Xenify en otra cadena, seguirá siendo elegible para la distribución USDC. En términos más sencillos, las recompensas USDC reclamables en la cadena BNB se reservarán para todas las direcciones que posean el NFT Phoenix Ape, independientemente de si puentean la utilidad a otra cadena.
+Los titulares podrán reclamar estas recompensas de USDC al final de cada epoch de 8 horas. Y aquí está lo mejor: incluso si un usuario decide transferir/bridge su Phoenix NFT de la cadena BNB para amplificar quemaduras con Xenify en otra cadena, seguirá siendo elegible para la distribución USDC. En términos más sencillos, las recompensas USDC reclamables en la cadena BNB se reservarán para todas las direcciones que posean el NFT Phoenix Ape, independientemente de si puentean la utilidad a otra cadena.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1130,7 +1129,7 @@ Los titulares podrán reclamar estas recompensas de USDC al final de cada época
     
 El protocolo YSL.IO se ha diseñado específicamente para proporcionar estabilidad y resistencia a todos los participantes. El protocolo presenta un innovador Modelo de Estabilidad de Precios (PSM) que no solo pretende estabilizar el precio de los tokens nativos (YSL, xYSL, bYSL y USDy), sino que también garantiza a los usuarios una elevada liquidez de salida y preserva el crecimiento a largo plazo de la liquidez propiedad del tesoro.
 
-Un componente crucial del PSM es la Tasa de Salida Sigma, que restringe las ventas de tokens de un monedero teniendo en cuenta la adquisición o la última venta del token por parte del usuario. Sin embargo, los titulares privilegiados de Phoenix Ape NFT pueden disfrutar de la libertad de vender hasta el 100% de sus tokens xYSL, bYSL o USDy sin estar sujetos al Sigma Exit Rate. Esta característica exclusiva garantiza a los usuarios la máxima flexibilidad y control sobre sus tenencias de tokens nativos YSL.IO.
+Un componente crucial del PSM es el Sigma Exit Rate, que restringe las ventas de tokens de una cartera teniendo en cuenta la adquisición o la última venta del token por parte del usuario. Sin embargo, los titulares privilegiados de Phoenix Ape NFT pueden disfrutar de la libertad de vender hasta el 100% de sus tokens xYSL, bYSL o USDy sin estar sujetos al Sigma Exit Rate. Esta característica exclusiva garantiza a los usuarios la máxima flexibilidad y control sobre sus tenencias de tokens nativos YSL.IO.
 
 <br>
 
@@ -1144,7 +1143,7 @@ Xenify da la máxima importancia a proporcionar una experiencia de usuario excep
 
 A diferencia de las bolsas descentralizadas tradicionales, Xenify elimina la necesidad de que los usuarios proporcionen liquidez. En su lugar, opera como un agregador entre cadenas, aprovechando las API para obtener los tipos de cambio más favorables y las comisiones mínimas de múltiples bolsas descentralizadas. Este enfoque simplifica la experiencia del usuario y facilita las transacciones con un solo clic a través de diferentes redes de blockchain.
 
-Los usuarios pueden participar activamente con Xenify a través de una serie de funciones, incluyendo el intercambio de tokens, quemar vXEN o vUSDy, apostar o desapoderarse de XNF, y reclamar recompensas. La plataforma no sólo ofrece una experiencia fluida a los usuarios, sino que también les recompensa activamente por utilizar el protocolo a través de la distribución diaria del ciclo de recompensas.
+Los usuarios pueden participar activamente con Xenify a través de una serie de funciones, incluyendo el swapping de tokens, quemar vXEN o vUSDy, stake o unstake de XNF, y reclamar recompensas. La plataforma no sólo ofrece una experiencia fluida a los usuarios, sino que también les recompensa activamente por utilizar el protocolo a través de la distribución diaria del ciclo de recompensas.
 
 Este modelo de incentivos garantiza que los usuarios de Xenify reciban un reconocimiento constante por su participación y fomenta el uso continuado de la plataforma. Además, los usuarios pueden controlar cómodamente sus XNF apostados y las recompensas acumuladas, lo que les permite reclamar o retirar fácilmente sus tokens XNF con solo unos clics. Al adoptar este enfoque centrado en el usuario, Xenify sigue siendo accesible tanto para usuarios principiantes como experimentados.
 
@@ -1156,15 +1155,15 @@ Este modelo de incentivos garantiza que los usuarios de Xenify reciban un recono
 
 <br>
 
-En Xenify, la seguridad es primordial para garantizar la máxima seguridad y fiabilidad de nuestro protocolo. Para reforzar la seguridad de nuestro protocolo, estamos planeando una auditoría de los contratos por parte de PeckShield, una empresa de seguridad muy reconocida en el sector.
+En Xenify, la seguridad es primordial para garantizar la máxima seguridad y fiabilidad de nuestro protocolo. Para reforzar la seguridad, estamos planeando una auditoría de los contratos por parte de PeckShield, una empresa de seguridad muy reconocida en el sector.
 
-Nuestra plataforma está cuidadosamente diseñada con la descentralización y la autonomía como principios rectores. Los contratos inteligentes de Xenify carecen de claves de administración, lo que significa que no pueden ser actualizados o gobernados por una autoridad centralizada. Para reforzar la naturaleza verdaderamente descentralizada y autónoma de nuestro protocolo, el potencial de ganancias se distribuirá equitativamente entre los participantes en función de sus participaciones en veXNF y su poder asociado. A medida que Xenify evoluciona, nuestro objetivo es dar prioridad a los intereses de nuestros usuarios, fomentando la transparencia y la confianza en todo el protocolo.
+Nuestra plataforma está cuidadosamente diseñada con la descentralización y la autonomía como principios rectores. Los smart contracts de Xenify carecen de claves de administración, lo que significa que no pueden ser actualizados o gobernados por una autoridad centralizada. Para reforzar la naturaleza verdaderamente descentralizada y autónoma de nuestro protocolo, el potencial de ganancias se distribuirá equitativamente entre los participantes en función de sus participaciones en veXNF y su poder asociado. A medida que Xenify evoluciona, nuestro objetivo es dar prioridad a los intereses de nuestros usuarios, fomentando la transparencia y la confianza en todo el protocolo.
 
 La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y centrada en el usuario mediante la defensa de los Primeros Principios de Crypto en todos nuestros esfuerzos. Al comprometernos con estos valores fundamentales, aspiramos a establecer un protocolo que fomente la confianza, la equidad y el crecimiento impulsado por la comunidad en el espacio DeFi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Lanzamiento de la Feria
+## ◽️ Lanzamiento justo
   
 - El lanzamiento de Xenify está diseñado para ser imparcial, sin pre-minado o pre-asignación de tokens XNF. Esto garantiza la igualdad de condiciones para todos los participantes, cultivando un entorno de equidad e igualdad de oportunidades.
 
@@ -1172,7 +1171,7 @@ La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y ce
 
 ## ◽️ Sin puertas traseras
 
-- Los contratos inteligentes de Xenify y la arquitectura de la plataforma se desarrollarán meticulosamente sin funcionalidades ocultas ni puertas traseras, garantizando la máxima seguridad y fiabilidad de nuestro protocolo.
+- Los smart contracts de Xenify y la arquitectura de la plataforma se desarrollarán meticulosamente sin funcionalidades ocultas ni puertas traseras, garantizando la máxima seguridad y fiabilidad de nuestro protocolo.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1206,7 +1205,7 @@ La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y ce
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Los usuarios acuñan su capital
+## ◽️ Los usuarios adquieren su capital
 
 - Los tokens XNF no se minarán previamente ni se asignarán a inversores o miembros del equipo. En su lugar, los usuarios pueden adquirir tokens XNF participando activamente en el protocolo, ya sea quemando tokens vXEN o vUSDy, o intercambiando tokens de una cadena compatible. Este enfoque recompensa a los usuarios por sus contribuciones y garantiza una distribución justa de XNF dentro del ecosistema.
 
@@ -1214,7 +1213,7 @@ La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y ce
 
 ## ◽️ Contratos inmutables (sin claves administrativas)
 
-  - Los contratos inteligentes de Xenify se elaborarán cuidadosamente sin claves de administración ni control centralizado, salvaguardando la inmutabilidad del protocolo y preservando su naturaleza descentralizada. ¿Qué significa esto? Una vez que nuestros tokenomics y la arquitectura del protocolo se despliegan, están grabados en piedra - no se pueden hacer actualizaciones o alteraciones. Este compromiso con la inmutabilidad ofrece un entorno estable, transparente y seguro para nuestra comunidad, garantizando que ninguna entidad pueda tomar decisiones arbitrarias para manipular el protocolo.
+  - Los smart contracts de Xenify se elaborarán cuidadosamente sin claves de administración ni control centralizado, salvaguardando la inmutabilidad del protocolo y preservando su naturaleza descentralizada. ¿Qué significa esto? Una vez que nuestros tokenomics y la arquitectura del protocolo son lanzados, están grabados en piedra - no se pueden hacer actualizaciones o alteraciones. Este compromiso con la inmutabilidad ofrece un entorno estable, transparente y seguro para nuestra comunidad, garantizando que ninguna entidad pueda tomar decisiones arbitrarias para manipular el protocolo.
 
 <br>
 
@@ -1224,15 +1223,15 @@ La misión de Xenify es forjar una plataforma DeFi transparente, equitativa y ce
 
 <br>
 
-Xenify, un agregador de agregadores de cadenas cruzadas, se ha construido meticulosamente desde cero para transformar la forma en que los usuarios participan en los intercambios de tokens. Su principal objetivo es ofrecer una experiencia de usuario fluida, recompensar a los miembros activos de la comunidad y establecer un modelo de distribución de tokens justo y sostenible. Aprovechando la tokenómica innovadora, Xenify aspira a establecer una plataforma descentralizada e impulsada por la comunidad que valore y fomente la participación activa de los usuarios en el ecosistema.
+Xenify, un agregador de agregadores cross-chain, se ha construido meticulosamente desde cero para transformar la forma en que los usuarios participan en los intercambios de tokens. Su principal objetivo es ofrecer una experiencia de usuario fluida, recompensar a los miembros activos de la comunidad y establecer un modelo de distribución de tokens justo y sostenible. Aprovechando la tokenómica innovadora, Xenify aspira a establecer una plataforma descentralizada e impulsada por la comunidad que valore y fomente la participación activa de los usuarios en el ecosistema.
 
-Lo que distingue a Xenify es su conexión sin fisuras con 27 agregadores diferentes, lo que permite realizar canjes con un solo clic y sin esfuerzo a precios inmejorables en 50 cadenas líderes. Sin embargo, su valor va más allá de la mera comodidad. Al distinguirse de otras bolsas, Xenify facilita la adopción por parte del usuario garantizando que cada acción realizada en la plataforma contribuya a un entorno recíproco en el que los beneficios se acumulan en función de las contribuciones y la implicación.
+Lo que distingue a Xenify es su conexión sin fisuras con 27 agregadores diferentes, lo que permite realizar swaps con un solo clic y sin esfuerzo a precios inmejorables en 50 cadenas líderes. Sin embargo, su valor va más allá de la mera comodidad. Al distinguirse de otras bolsas, Xenify facilita la adopción por parte del usuario garantizando que cada acción realizada en la plataforma contribuya a un entorno recíproco en el que los beneficios se acumulan en función de las contribuciones y la implicación.
 
-Con Xenify, los usuarios tienen la oportunidad exclusiva de ganar tokens XNF en cada intercambio, complementado con un innovador modelo de apuestas que permite a los usuarios ganar tokens de cadenas nativas como ETH, BNB y MATIC diariamente. Este modelo de incentivos único posiciona innegablemente a Xenify como la mejor opción para aquellos que buscan simplificar el proceso de intercambio entre cadenas mientras maximizan su potencial de ganancias.
+Con Xenify, los usuarios tienen la oportunidad exclusiva de ganar tokens XNF en cada sawp, complementado con un innovador modelo de staking que permite a los usuarios ganar tokens de cadenas nativas como ETH, BNB y MATIC diariamente. Este modelo de incentivos único posiciona innegablemente a Xenify como la mejor opción para aquellos que buscan simplificar el proceso de cross-chain swapping mientras maximizan su potencial de ganancias.
 
-La seguridad y el compromiso con una distribución justa de los tokens son los principios básicos de Xenify. El protocolo ha sido cuidadosamente diseñado para salvaguardar los intereses de los usuarios, ya que implementa un proceso de acuñación equitativo y una estructura de incentivos que anima a los usuarios a participar activamente en el crecimiento del ecosistema. Este enfoque único cultiva una relación mutuamente beneficiosa entre todos los participantes, contribuyendo al crecimiento y la sostenibilidad a largo plazo de la plataforma. Al promover este entorno vibrante e impulsado por la comunidad y mantener los compromisos de seguridad, transparencia y equidad, Xenify está preparada para emerger como líder en el ámbito de los intercambios descentralizados.
+La seguridad y el compromiso con una distribución justa de los tokens son los principios básicos de Xenify. El protocolo ha sido cuidadosamente diseñado para salvaguardar los intereses de los usuarios, ya que implementa un proceso de distribución equitativo y una estructura de incentivos que anima a los usuarios a participar activamente en el crecimiento del ecosistema. Este enfoque único cultiva una relación mutuamente beneficiosa entre todos los participantes, contribuyendo al crecimiento y la sostenibilidad a largo plazo de la plataforma. Al promover este entorno vibrante e impulsado por la comunidad y mantener los compromisos de seguridad, transparencia y equidad, Xenify está preparada para emerger como líder en el ámbito de los exchanges descentralizados.
 
-En resumen, Xenify representa un cambio de paradigma en el mundo del intercambio de tokens entre cadenas. Con su eficiencia sin fisuras, su tokenómica gratificante y su compromiso inquebrantable con la seguridad y la equidad, Xenify ofrece a los usuarios una oportunidad sin precedentes de participar en un ecosistema verdaderamente descentralizado que valora la participación y fomenta el crecimiento mutuo. Al elegir Xenify, las personas pueden experimentar lo mejor de ambos mundos: el intercambio de tokens sin esfuerzo y la capacidad de maximizar su potencial de ingresos.
+En resumen, Xenify representa un cambio de paradigma en el mundo del cross-chain swapping. Con su eficiencia sin fisuras, su tokenómica gratificante y su compromiso inquebrantable con la seguridad y la equidad, Xenify ofrece a los usuarios una oportunidad sin precedentes de participar en un ecosistema verdaderamente descentralizado que valora la participación y fomenta el crecimiento mutuo. Al elegir Xenify, las personas pueden experimentar lo mejor de ambos mundos: el intercambio de tokens sin esfuerzo y la capacidad de maximizar su potencial de ingresos.
 
 <br>
 
@@ -1248,7 +1247,7 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 ## ◽️ ¿Tiene XNF un suministro inicial?
 
-  - No, Xenify no tiene un suministro inicial, y no hay pre-minado de tokens XNF. En su lugar, el protocolo recompensa diariamente a los usuarios por su participación activa en el ecosistema. Esto se consigue a través de varias contribuciones, tales como las contribuciones de burn fees realizadas quemando directamente vXEN o vUSDy tokens, así como las swap fees generadas a través del agregador de Xenify. En particular, todas las comisiones por quema y canje recaudadas en las cadenas EVM compatibles se destinan diariamente a los stakers de XNF, lo que ofrece un importante potencial de ingresos a largo plazo.
+  - No, Xenify no tiene un suministro inicial, y no hay pre-minado de tokens XNF. En su lugar, el protocolo recompensa diariamente a los usuarios por su participación activa en el ecosistema. Esto se consigue a través de varias contribuciones, tales como las contribuciones de burn fees realizadas quemando directamente vXEN o vUSDy tokens, así como las swap fees generadas a través del agregador de Xenify. En particular, todas los burn fees y swap fees recaudados en las cadenas EVM compatibles se destinan diariamente a los stakers de XNF, lo que ofrece un importante potencial de ingresos a largo plazo.
 
   - Mediante la aplicación de este sistema de distribución equitativa, Xenify pretende crear igualdad de condiciones para todos los usuarios, evitando cualquier concentración de tokens en manos de unos pocos pioneros. En su lugar, el protocolo hace hincapié en la importancia de la participación y las contribuciones continuas de los usuarios, ya que se traducen directamente en recompensas tangibles. Este enfoque innovador distingue a Xenify como una plataforma que valora a su comunidad y fomenta activamente su participación en la configuración del ecosistema.
 
@@ -1260,7 +1259,7 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
   - Además, al optar por reciclar sus recompensas, contribuye activamente al crecimiento y la sostenibilidad del ecosistema Xenify. El protocolo utiliza el 50% de sus recompensas acumuladas de la cadena nativa para crear liquidez XNF, lo que permite un mercado más sólido y eficiente para el token. Además, el 25% de las recompensas se utilizan para crear liquidez XEN, mejorando aún más la liquidez global del ecosistema. Por último, el 25% restante se envía como USDC al equipo, para sufragar los gastos operativos en curso, como el desarrollo de la plataforma, las campañas de marketing y las actividades de participación de la comunidad.
 
-  - Al reciclar sus recompensas, no solo mejora sus propios beneficios, sino que también desempeña un papel vital en el éxito continuado de la plataforma Xenify. Como resultado, los recicladores recibirán una distribución exclusiva adicional de tokens de cadena nativa generados a partir de las tasas de reclamación de la plataforma. Esto significa que al participar activamente en el proceso de reciclaje, usted tiene la oportunidad de asegurar aún más tokens de cadena nativa, aumentando sus tenencias totales.
+  - Al reciclar sus recompensas, no solo mejora sus propios beneficios, sino que también desempeña un papel vital en el éxito continuado de la plataforma Xenify. Como resultado, los recicladores recibirán una distribución exclusiva adicional de tokens de cadena nativa generados a partir de los claim fees de la plataforma. Esto significa que al participar activamente en el proceso de reciclaje, usted tiene la oportunidad de asegurar aún más tokens de cadena nativa, aumentando sus tenencias totales.
 
   - En conclusión, la función del botón de reciclaje no sólo ofrece comodidad, sino que también presenta numerosas ventajas para los titulares de veXNF. Al ahorrar en tasas, contribuir al crecimiento del ecosistema y acceder a distribuciones exclusivas, los recicladores pueden maximizar sus beneficios al tiempo que apoyan el éxito continuo de la plataforma Xenify.
 
@@ -1268,15 +1267,15 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 ## ◽️ ¿Por qué se revalorizará el XNF?
 
-  - El valor del XNF tiene el potencial de apreciarse significativamente debido a la innovadora tokenómica de Xenify, su próspero ecosistema y la creciente demanda de recompensas nativas de la cadena. Con el innovador agregador de cadenas cruzadas de Xenify, los usuarios pueden disfrutar de un intercambio de tokens sin problemas y participar en diversas actividades de recompensa, lo que impulsa la adopción del protocolo y, en última instancia, el valor del XNF.
+  - El valor del XNF tiene el potencial de apreciarse significativamente debido a la innovadora tokenómica de Xenify, su próspero ecosistema y la creciente demanda de recompensas nativas de la cadena. Con el innovador agregador cross-chain de Xenify, los usuarios pueden disfrutar del swapping de tokens sin problemas y participar en diversas actividades de recompensa, lo que impulsa la adopción del protocolo y, en última instancia, el valor del XNF.
 
-  - Además, es probable que la escasez de tokens XNF, provocada por los eventos de reducción a la mitad, aumente el valor del token a medida que más usuarios elijan Xenify como su plataforma preferida para intercambiar tokens. Esto conllevará más recompensas de la cadena nativa para los stakers de XNF, lo que se traducirá en una creciente demanda de tokens XNF. En consecuencia, el valor del token está a punto de aumentar debido a la demanda, consolidando la posición de Xenify como un proyecto prometedor dentro del ecosistema XEN.
+  - Además, es probable que la escasez de tokens XNF, provocada por los eventos de halving, aumente el valor del token a medida que más usuarios elijan Xenify como su plataforma preferida para intercambiar tokens. Esto conllevará más recompensas de la cadena nativa para los stakers de XNF, lo que se traducirá en una creciente demanda de tokens XNF. En consecuencia, el valor del token está a punto de aumentar debido a la demanda, consolidando la posición de Xenify como un proyecto prometedor dentro del ecosistema XEN.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Si hago una apuesta ahora, ¿cuándo puedo anularla?
+## ◽️ Si hago un stake ahora, ¿cuándo puedo anularla?
 
-  - Cuando decida apostar su XNF, tendrá la oportunidad de seleccionar un ciclo de apuesta que se ajuste a sus preferencias, desde un mínimo de 2 semanas hasta un máximo de 4 años. Es importante tener en cuenta que una vez que comience el ciclo de apuesta, sus fichas XNF se bloquearán y no podrá retirarlas hasta que se complete el ciclo. Una vez que el ciclo de estaca elegido llegue a su fin, tendrá la libertad de desestablecer sus fichas XNF, recuperando la plena propiedad y el control sobre ellas. Al participar en el staking, contribuyes a la salud general de nuestro ecosistema y, a cambio, tienes la oportunidad de ganar recompensas de la cadena nativa a diario.
+  - Cuando decida stake su XNF, tendrá la oportunidad de seleccionar un ciclo de apuesta que se ajuste a sus preferencias, desde un mínimo de 2 semanas hasta un máximo de 4 años. Es importante tener en cuenta que una vez que comience el ciclo de apuesta, sus XNF tokens se bloquearán y no podrá retirarlas hasta que se complete el ciclo. Una vez que el ciclo de estaca elegido llegue a su fin, tendrá la libertad de desestablecer sus XNF tokens, recuperando la plena propiedad y el control sobre ellas. Al participar en el staking, contribuyes a la salud general de nuestro ecosistema y, a cambio, tienes la oportunidad de ganar recompensas de la cadena nativa a diario.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1286,9 +1285,9 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Si hago una apuesta ahora, ¿cuándo recibiré las recompensas?
+## ◽️ Si hago una stake ahora, ¿cuándo recibiré las recompensas?
 
-  - Al apostar tokens XNF, recibirá recompensas al final del ciclo en el que haya realizado la apuesta. A lo largo del ciclo, estas recompensas se acumulan en un fondo de recompensas, y el protocolo distribuye todo el fondo de recompensas de tokens de la cadena nativa entre los titulares de veXNF al final del ciclo en función de su saldo de veXNF y el poder asociado, garantizando una distribución justa y transparente.
+  - Al stake tokens XNF, recibirá recompensas al final del ciclo en el que haya realizado el stake. A lo largo del ciclo, estas recompensas se acumulan en un fondo de recompensas, y el protocolo distribuye todo el fondo de recompensas de tokens de la cadena nativa entre los titulares de veXNF al final del ciclo en función de su saldo de veXNF y el poder asociado, garantizando una distribución justa y transparente.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1296,19 +1295,19 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 - Sí, hay varias maneras de participar con Xenify, incluyendo:
 
-  - Utilice el agregador de Xenify para realizar intercambios con un solo clic y ganar XNF en el proceso.
-  - Participar en quemas directas de vXEN o vUSDy para adquirir XNF.
-  - Canjee tokens XNF para ganar tokens de cadenas nativas como ETH, BNB y MATIC.
-  - Adquiera un Phoenix Ape NFT para desbloquear quemaduras diarias amplificadas y mucho más.
+  - Utilice el agregador de Xenify para realizar swaps con un solo clic y ganar XNF en el proceso.
+  - Participar en direct burns de vXEN o vUSDy para adquirir XNF.
+  - Stake XNF tokens para ganar tokens de cadenas nativas como ETH, BNB y MATIC.
+  - Adquiera un Phoenix Ape NFT para desbloquear burns diarios amplificados y mucho más.
   - Contribuir al crecimiento del protocolo a través de iniciativas comunitarias.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ ¿Qué ocurre si no hay intercambios o quemas de fichas durante un ciclo diario?
+## ◽️ ¿Qué ocurre si no hay swaps o burns de tokens durante un ciclo diario?
 
-- En el improbable caso de que no se produzcan swaps en Xenify, y ningún usuario queme ni vXEN ni vUSDy, la distribución diaria del ciclo XNF no se llevará a cabo. En este escenario, los tokens XNF programados para su distribución durante ese ciclo simplemente no se acuñarán. Como resultado, el suministro total de XNF disminuirá en la cantidad que estaba previsto distribuir en ese ciclo.
+- En el improbable caso de que no se produzcan swaps en Xenify, y ningún usuario queme ni vXEN ni vUSDy, la distribución diaria del ciclo XNF no se llevará a cabo. En este escenario, los tokens XNF programados para su distribución durante ese ciclo simplemente no se distribuirán. Como resultado, el suministro total de XNF disminuirá en la cantidad que estaba previsto distribuir en ese ciclo.
 
-- Por ejemplo, si la asignación diaria para un ciclo se fija en 20.000 XNF, y si no se produce ningún canje o quema durante ese ciclo, los 20.000 XNF no se acuñarán ni distribuirán. En su lugar, el suministro total de XNF se reducirá en 20.000 XNF al final del ciclo.
+- Por ejemplo, si la asignación diaria para un ciclo se fija en 20.000 XNF, y si no se produce ningún swap o burn durante ese ciclo, los 20.000 XNF no se mintearan ni distribuirán. En su lugar, el suministro total de XNF se reducirá en 20.000 XNF al final del ciclo.
 
 <br>
 
@@ -1330,7 +1329,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## ◽️ XNF
 
-  - XNF es el token de capital nativo de Xenify, un protocolo agregador de cadenas cruzadas de última generación en el espacio de las finanzas descentralizadas (DeFi). Los usuarios pueden ganar tokens XNF participando activamente en las actividades de la plataforma, como quemar tokens vXEN o vUSDy e intercambiar tokens en cadenas compatibles.
+  - XNF es el token de capital nativo de Xenify, un protocolo agregador cross-chain de última generación en el espacio de las finanzas descentralizadas (DeFi). Los usuarios pueden ganar tokens XNF participando activamente en las actividades de la plataforma, como burn tokens vXEN o vUSDy e intercambiar tokens en cadenas compatibles.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1342,19 +1341,19 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## ◽️ Xenify
 
-  - Xenify es un protocolo financiero descentralizado (DeFi) diseñado para revolucionar la experiencia del intercambio de tokens. Ofrece un agregador entre cadenas de última generación que facilita el intercambio de tokens entre 50 cadenas diferentes. Con acceso a las mejores rutas y las tarifas más bajas de 27 agregadores, Xenify permite a los usuarios intercambiar tokens sin problemas entre las cadenas compatibles. Hace hincapié en la equidad, la simplicidad, la transparencia, la capacitación de los usuarios y la interoperabilidad, con el objetivo de crear un ecosistema DeFi más conectado y fácil de usar.
+  - Xenify es un protocolo financiero descentralizado (DeFi) diseñado para revolucionar la experiencia del swap de tokens. Ofrece un agregador entre cadenas de última generación que facilita el intercambio de tokens entre 50 cadenas diferentes. Con acceso a las mejores rutas y las tarifas más bajas de 27 agregadores, Xenify permite a los usuarios intercambiar tokens sin problemas entre las cadenas compatibles. Hace hincapié en la equidad, la simplicidad, la transparencia, la capacitación de los usuarios y la interoperabilidad, con el objetivo de crear un ecosistema DeFi más conectado y fácil de usar.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Estacar
+## ◽️ Staking
 
-  - La estaca implica el bloqueo de tokens en un monedero o plataforma para apoyar las operaciones de la red, como la validación de transacciones o la seguridad de la red. A cambio, los participantes reciben recompensas.
+  - El staking implica el bloqueo de tokens en un monedero o plataforma para apoyar las operaciones de la red, como la validación de transacciones o la seguridad de la red. A cambio, los participantes reciben recompensas.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Cadena cruzada
+## ◽️ Cross-Chain 
 
-  - La cadena cruzada se refiere a la capacidad de interactuar y transferir activos entre diferentes redes de cadenas de bloques. Fomenta la interoperabilidad y un ecosistema más conectado.
+  - Cross-Chain se refiere a la capacidad de interactuar y transferir activos entre diferentes redes de cadenas de bloques. Fomenta la interoperabilidad y un ecosistema más conectado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1364,13 +1363,13 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Quemaduras directas
+## ◽️ Direct burns
 
   - Cuando se quema un token, normalmente se envía a una dirección inactiva y se retira de la circulación, reduciendo así el suministro total en la cantidad quemada. En Xenify, las quemas directas se producen cuando los usuarios queman tokens a propósito (vXEN o vUSDy) para promover el crecimiento del protocolo.  Como recompensa por su compromiso con el protocolo, los usuarios reciben tokens XNF a cambio de sus tokens vXEN o vUSDy quemados.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Prueba de quemadura
+## ◽️ Proof of buen
 
   - Proof of Burn es un mecanismo de compromiso en el que los usuarios queman tokens para mostrar su apoyo al protocolo. A cambio, reciben capital.
 
@@ -1396,7 +1395,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## ◽️ Smart Contracts
 
-  - Los contratos inteligentes son acuerdos digitales que se ejecutan automáticamente cuando se cumplen determinadas condiciones, lo que permite a dos o más partes intercambiar cosas como dinero, propiedades o acciones de forma transparente y sin complicaciones, sin necesidad de intermediarios. Estos contratos son como miniprogramas almacenados en una cadena de bloques y se ejecutan en cuanto se cumplen las condiciones acordadas. Al automatizar el proceso, todos los implicados pueden confiar en el resultado sin retrasos ni interferencias de intermediarios.
+  - Los smart contracts son acuerdos digitales que se ejecutan automáticamente cuando se cumplen determinadas condiciones, lo que permite a dos o más partes intercambiar cosas como dinero, propiedades o acciones de forma transparente y sin complicaciones, sin necesidad de intermediarios. Estos contratos son como miniprogramas almacenados en una cadena de bloques y se ejecutan en cuanto se cumplen las condiciones acordadas. Al automatizar el proceso, todos los implicados pueden confiar en el resultado sin retrasos ni interferencias de intermediarios.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
