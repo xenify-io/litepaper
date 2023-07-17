@@ -1224,7 +1224,7 @@ Xenify에서는 프로토콜의 안전성과 신뢰성을 최대한 보장하기
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ FAQ
+# ◽️ 자주 묻는 질문
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
