@@ -930,28 +930,28 @@ Para aprovechar esta función de reciclaje, asegúrese de tener un saldo suficie
 
 ## ♦️ Resumen del proceso de reciclaje
 
-  - Usted decide reciclar las recompensas de su cadena nativa.
+  - Decidiste reciclar tus recompensas de la cadena nativa.
   - El protocolo emplea el oráculo de precios de Chainlink para determinar el valor en dólares de su saldo de recompensas de la cadena nativa.
-  - Basándose en el valor en dólares de su contribución, el protocolo acuña un número apropiado de lotes vXEN. El número de lotes se determina redondeando a la baja.
-  - Todos los lotes vXEN acuñados se queman inmediatamente para participar en la subasta de quema diaria, y el protocolo cobra una tasa de quema de sus recompensas de cadena nativa recicladas.
+  - Basándose en el valor en dólares de su contribución, el protocolo mintea/genera un número apropiado de lotes vXEN. El número de lotes se determina redondeando a la baja.
+  - Todos los lotes vXEN minteados/generados se queman inmediatamente para participar en la subasta de quema diaria, y el protocolo cobra un burn fee de sus recompensas de cadena nativa recicladas.
   - Tras el proceso de quema, las recompensas de cadena nativa restantes se envían al Contrato de Reciclaje.
   - El Contrato de Reciclaje divide los tokens nativos en tres partes: 50% para crear liquidez propiedad del protocolo XNF, 25% para crear liquidez propiedad del protocolo XEN, y 25% asignado al equipo como USDC para apoyar las iniciativas de desarrollo, marketing y divulgación en curso de Xenify.
   - Los tokens XNF LP y XEN LP adquiridos en el proceso de reciclaje son propiedad del protocolo.
   - Al final de la subasta diaria de quema, recibirá tokens XNF basados en los lotes vXEN quemados de su contribución reciclada.
-  - A continuación, recibirá su parte de las recompensas diarias de la cadena nativa en función de su saldo de veXNF y su energía asociada.
-  - Por último, como reciclador, también recibirá una parte de los tokens de cadena nativa recaudados de la tasa de reclamación durante el ciclo, así como una parte de los XNF y XEN adquiridos de la liquidez propiedad del protocolo.
+  - A continuación, recibirá su parte de las recompensas diarias de la cadena nativa en función de su saldo de veXNF y su poder asociado.
+  - Por último, como reciclador, también recibirá una parte de los tokens de cadena nativa recaudados del claim fee durante el ciclo, así como una parte de los XNF y XEN adquiridos de la liquidez propiedad del protocolo.
 
-Al reciclar sus recompensas de cadena nativa, no solo reforzará su posición en XNF, sino que también disfrutará de un proceso simplificado que elimina las comisiones habituales asociadas a la subasta de quema diaria. Y lo que es más importante, como reciclador dedicado, ganará tokens de cadena nativa generados a partir de la tasa de reclamación del 25% y podrá optar a una distribución exclusiva de XNF y XEN al final de cada ciclo. Es una situación en la que todos ganan y que recompensa su participación activa y su compromiso con el crecimiento de Xenify.
+Al reciclar sus recompensas de cadena nativa, no solo reforzará su posición en XNF, sino que también disfrutará de un proceso simplificado que elimina las comisiones habituales asociadas a la subasta de quema diaria. Y lo que es más importante, como reciclador dedicado, ganará tokens de cadena nativa generados a partir del claim fee del 25% y podrá optar a una distribución exclusiva de XNF y XEN al final de cada ciclo. Es una situación en la que todos ganan y que recompensa su participación activa y su compromiso con el crecimiento de Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Native Token Reward Distribution
+## ◽️ Distribución de recompensa de tokens nativos 
 
-Durante cada ciclo, el fondo de recompensas del protocolo acumula gradualmente tokens nativos generados a partir de las comisiones por quema y canje. Este fondo crece con cada transacción, ya sea una permuta o un burn. La suma total del fondo de recompensas se distribuye entre los stakers de XNF en función de sus tenencias de veXNF y el poder asociado.
+Durante cada ciclo, el fondo de recompensas del protocolo acumula gradualmente tokens nativos generados a partir de las burn y swap fees. Este fondo crece con cada transacción, ya sea un swap o un burn. La suma total del fondo de recompensas se distribuye entre los stakers de XNF en función de sus tenencias de veXNF y el poder asociado.
 
-Además de la distribución de tokens nativos procedentes de las comisiones de canje y las comisiones de quema, hay distribuciones exclusivas de tokens nativos para los titulares de veXNF que hayan reciclado sus recompensas durante el ciclo. Estas distribuciones adicionales incluyen tokens nativos generados a partir de la tasa de reclamación del 25% de Xenify para recompensas de cadenas nativas.
+Además de la distribución de tokens nativos procedentes de los swap y burn fees, hay distribuciones exclusivas de tokens nativos para los titulares de veXNF que hayan reciclado sus recompensas durante el ciclo. Estas distribuciones adicionales incluyen tokens nativos generados a partir del claim fee de 25% de Xenify para recompensas de cadenas nativas.
 
-Es importante tener en cuenta que reclamar XNF en Xenify no conlleva ninguna comisión. Sin embargo, si los titulares de veXNF deciden reclamar sus recompensas de la cadena nativa, se les aplicará una tasa de reclamación del 25%. Los tokens de la cadena nativa adquiridos con esta tasa de reclamación durante un ciclo se reservan y se distribuyen entre los titulares de veXNF que hayan reciclado en el ciclo anterior.
+Es importante tener en cuenta que reclamar XNF en Xenify no conlleva ninguna comisión. Sin embargo, si los titulares de veXNF deciden reclamar sus recompensas de la cadena nativa, se les aplicará un claim fee del 25%. Los tokens de la cadena nativa adquiridos con esta tasa de reclamación durante un ciclo se reservan y se distribuyen entre los titulares de veXNF que hayan reciclado en el ciclo anterior.
 
 Con esta estructura de recompensa única, Xenify es capaz de fortalecer la demanda y el valor de XNF, al tiempo que proporciona un incentivo convincente para que los titulares participen activamente en el protocolo. Esto fomenta el compromiso y cultiva una base de usuarios cada vez mayor, ayudando a fortalecer el crecimiento a largo plazo del protocolo.
 
