@@ -607,7 +607,7 @@ Xenify se está preparando para ir a lo grande, así que estamos evaluando un mo
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costes de intercambio en Xenify
+## ◽️ Costes de swapping en Xenify
 
 Xenify ofrece una innovadora solución para el swapping de tokens que no solo simplifica las transacciones entre cadenas, sino que también recompensa a sus usuarios, al tiempo que fomenta la expansión de su ecosistema. A través de una comisión del 0,5% o swap fee en cada intercambio de tokens, Xenify es capaz de lograr tres objetivos cruciales: recompensar a los usuarios de su plataforma con tokens XNF, proporcionar recompensas nativas de la cadena a los stakers de XNF y garantizar el desarrollo continuo del protocolo.
 
@@ -617,23 +617,23 @@ Pero aquí viene la parte emocionante, al pagar la comisión de swap de 0,5% en 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costes de grabación en Xenify
+## ◽️ Costes de burning en Xenify
 
-El protocolo Xenify permite a los usuarios quemar tokens vXEN o vUSDy para asegurar XNF del ciclo diario de recompensas XNF. Piense en vXEN y vUSDy como homólogos virtuales de XEN y USDy, respectivamente. Estos tokens han sido creados específicamente para una conversión perfecta en XNF.
+El protocolo Xenify permite a los usuarios quemar o burn tokens vXEN o vUSDy para asegurar XNF del ciclo diario de recompensas XNF. Piense en vXEN y vUSDy como homólogos virtuales de XEN y USDy, respectivamente. Estos tokens han sido creados específicamente para una conversión perfecta en XNF.
 
-Al participar en el proceso de quema para adquirir XNF, los usuarios se encontrarán con ciertos costes, como las tasas de gas de transacción y las tasas obligatorias de acuñación y quema. Sin embargo, los cálculos de la comisión de acuñación y quema se han diseñado cuidadosamente no solo para garantizar un método transparente y coherente de quema de tokens, sino también para recompensar a los usuarios con atractivos descuentos en sus comisiones de quema de hasta el 75%.
+Al participar en el proceso de quema para adquirir XNF, los usuarios se encontrarán con ciertos costes, como las tasas de gas de transacción y las obligatorias mint fee y burn fee. Sin embargo, los cálculos del mint y burn fees se han diseñado cuidadosamente no solo para garantizar un método transparente y coherente de quema de tokens, sino también para recompensar a los usuarios con atractivos descuentos en sus fees de hasta un 75%.
 
-El cálculo de la tasa de quema está diseñado para tener en cuenta varios factores, como el momento de la quema durante un ciclo, el número de lotes que se queman y su valor asociado. ¿Y lo mejor? Cuantos más lotes queme un usuario, mayor será el descuento del que disfrutará, con un descuento potencial de hasta el 75% para 10.000 lotes durante la primera hora de cada ciclo. Esto crea un incentivo atractivo para que los usuarios realicen operaciones de quema más grandes en momentos más tempranos del ciclo.
+El cálculo del burn fee o comisión de quema está diseñado para tener en cuenta varios factores, como el momento de la quema durante un ciclo, el número de lotes que se queman y su valor asociado. ¿Y lo mejor? Cuantos más lotes queme un usuario, mayor será el descuento del que disfrutará, con un descuento potencial de hasta el 75% para 10.000 lotes durante la primera hora de cada ciclo. Esto crea un incentivo atractivo para que los usuarios realicen operaciones de quema más grandes en momentos más tempranos del ciclo.
 
-Al implementar este cálculo, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de un token específico (vXEN o vUSDy) que quemen. Además, nos enorgullece destacar que el 100% de las comisiones de quema recaudadas se destinan a los stakers de XNF, y la comisión de acuñación se redistribuirá para reforzar la liquidez. Este enfoque no sólo fomenta la eficiencia, sino que también recompensa a nuestros valiosos contribuyentes, estableciendo un ecosistema mutuamente beneficioso. Además, con el descuento máximo del 75% para 10.000 lotes, ¡cuantos más usuarios quemen, más ahorrarán! Esta emocionante perspectiva no sólo ofrece beneficios sustanciales a los que queman, sino que también genera mayores recompensas para los que apuestan por el XNF.
+Al implementar este cálculo, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de un token específico (vXEN o vUSDy) que quemen. Además, nos enorgullece destacar que el 100% de las comisiones de quema o burn fees recaudadas se destinan a los stakers de XNF, y las mint fees se redistribuirá para reforzar la liquidez. Este enfoque no sólo fomenta la eficiencia, sino que también recompensa a nuestros valiosos contribuyentes, estableciendo un ecosistema mutuamente beneficioso. Además, con el descuento máximo del 75% para 10.000 lotes, ¡cuantos más usuarios quemen, más ahorrarán! Esta emocionante perspectiva no sólo ofrece beneficios sustanciales a los que queman, sino que también genera mayores recompensas para los que apuestan por el XNF.
 
-Pero, ¿qué es exactamente un lote? Un lote representa un número fijo de fichas, ya sean vXEN o vUSDy, necesarias para participar en el proceso de quemado. Un único lote de vXEN se establece en una cantidad fija de 5 vXEN, y el valor de cada ficha vXEN se fija en 1,00 $. Del mismo modo, un único lote para vUSDy se establece en una cantidad fija de 5 vUSDy, con un valor por token vUSDy fijado en 1,00 $. La cantidad de variante de token XEN necesaria para adquirir un lote de vXEN será dinámica, adaptándose al precio de mercado siempre cambiante de cada variante de token XEN. Sin embargo, la cantidad de variante de token YSL.IO necesaria para adquirir un lote de vUSDy será fija, variando en función del token YSL.IO específico que se queme.
+Pero, ¿qué es exactamente un lote? Un lote representa un número fijo de tokens, ya sean vXEN o vUSDy, necesarios para participar en el proceso de quemado. Un único lote de vXEN se establece en una cantidad fija de 5 vXEN, y el valor de cada token vXEN se fija en 1,00 $. Del mismo modo, un único lote para vUSDy se establece en una cantidad fija de 5 vUSDy, con un valor por token vUSDy fijado en 1,00 $. La cantidad de variante de token XEN necesaria para adquirir un lote de vXEN será dinámica, adaptándose al precio de mercado siempre cambiante de cada variante de token XEN. Sin embargo, la cantidad de variante de token YSL.IO necesaria para adquirir un lote de vUSDy será fija, variando en función del token YSL.IO específico que se queme.
 
-Para obtener vXEN, sólo tiene que poseer una variante de token XEN compatible y una cantidad suficiente de tokens de la cadena nativa para cubrir la cuota de grabación obligatoria de vXEN. El 100% de la variante de token XEN que proporcione se quemará, lo que garantizará que su dirección de cartera se incluya en el registro de quemado para la distribución de X1, el token nativo de la nueva capa 1 de XEN (cadena X1).
+Para obtener vXEN, sólo tiene que poseer una variante de token XEN compatible y una cantidad suficiente de tokens de la cadena nativa para cubrir el burn fee obligatorio de vXEN. El 100% de la variante de token XEN que proporcione se quemará, lo que garantizará que su dirección de cartera se incluya en el registro de quemado para la distribución de X1, el token nativo de la nueva capa 1 de XEN (cadena X1).
 
 Ten en cuenta que el valor de vXEN es fijo, 1 vXEN equivale a 1,00 $ de XEN (y variante de token XEN) en función de su valor de mercado actual. Esto significa que la cantidad requerida para cada quema se adapta al valor de mercado actual de la variante específica del token XEN que estás quemando, asegurando un intercambio justo para todos los usuarios. Por ejemplo, si el precio actual del bXEN es de 0,01 $, y tienes 10.000 bXEN, el protocolo determinará que tus 10.000 bXEN equivalen a 100 $ vXEN (100 vXEN tokens).
 
-Del mismo modo, si quieres adquirir vUSDy, necesitarás tener tokens nativos de YSL.IO como bYSL, xYSL o USDy y una cantidad suficiente de tokens nativos de la cadena para cubrir la cuota de acuñación obligatoria de vUSDy. Ten en cuenta que cuando quemes vUSDy, el protocolo utilizará tasas predeterminadas para convertir bYSL, xYSL y USDy.
+Del mismo modo, si quieres adquirir vUSDy, necesitarás tener tokens nativos de YSL.IO como bYSL, xYSL o USDy y una cantidad suficiente de tokens nativos de la cadena para cubrir el mint fee obligatorio de vUSDy. Ten en cuenta que cuando quemes vUSDy, el protocolo utilizará tasas predeterminadas para convertir bYSL, xYSL y USDy.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -641,9 +641,9 @@ Del mismo modo, si quieres adquirir vUSDy, necesitarás tener tokens nativos de 
 
 Xenify introduce un enfoque innovador para los descuentos por "burn fee" que pretende promover la equidad y evitar la manipulación. Mediante la aplicación de un cálculo de burn fee cuidadosamente diseñado, el protocolo frena eficazmente las prácticas desleales en las que los usuarios programan estratégicamente las transacciones para maximizar sus recompensas o incentivos.
 
-El cálculo del canon de grabación (BF) incluye factores ponderados en el tiempo denominados Coeficiente de canon de grabación (FC) y Coeficiente de lote (BC), que ayudan a determinar el canon necesario para ejecutar la función de grabación basándose en el valor de los lotes que se están grabando. El descuento de la tasa de quema que se obtenga dependerá del Coeficiente de Tasa de Quema (FC) y del Coeficiente de Lote (BC) que se apliquen en el momento de la quema. Ambos coeficientes se ponderan en función del tiempo, disminuyendo a lo largo del ciclo diario. Esto significa que el descuento efectivo que obtenga variará en función del momento en que decida quemar durante un ciclo.
+El cálculo del Burn Fee (BF) incluye factores ponderados en el tiempo denominados Burn Fee Coefficient (FC) y Batch Coefficient (BC), que ayudan a determinar la comisión o fee necesaria para ejecutar la función de burning o quemado basándose en el valor de los lotes que se están quemando. El descuento del burn fee o comisión de burn que se obtenga dependerá del Burn Fee Coefficient (FC) y del Batch Coefficient (BC) que se apliquen en el momento de la quema. Ambos coeficientes se ponderan en función del tiempo, disminuyendo a lo largo del ciclo diario. Esto significa que el descuento efectivo que obtenga variará en función del momento en que decida quemar durante un ciclo.
 
-Para iniciar la función de quema en Xenify, los usuarios deben tener un saldo de cartera suficiente de tokens de cadena nativa que cumpla o supere la cantidad requerida para la Mint Fee y la Burn Fee. La comisión de acuñación que un usuario debe enviar dependerá del valor de mercado subyacente de los tokens que el usuario está quemando, y el protocolo calculará la Burn Fee (BF) utilizando la siguiente fórmula:
+Para iniciar la función de quema en Xenify, los usuarios deben tener un saldo de cartera suficiente de tokens de cadena nativa que cumpla o supere la cantidad requerida para la Mint Fee y la Burn Fee. El Mint Fee que un usuario debe enviar dependerá del valor de mercado subyacente de los tokens que el usuario está quemando, y el protocolo calculará la Burn Fee (BF) utilizando la siguiente fórmula:
 
 <br>
 
@@ -661,22 +661,22 @@ $$
 
 <br>
 
-Cabe señalar que el descuento de la tasa de combustión que reciba dependerá de los valores actuales del Coeficiente de la tasa de combustión (FC) y del Coeficiente de lote (BC) en el momento de la combustión. Como estos coeficientes disminuyen a lo largo del ciclo diario, el descuento efectivo que obtenga variará en función del momento en que decida quemar durante un ciclo. Este enfoque dinámico garantiza que los usuarios tengan la oportunidad de beneficiarse de diferentes niveles de descuento en función de su momento.
+Cabe señalar que el descuento del Burn Fee que reciba dependerá de los valores actuales del Burn Fee Coefficient (FC) y del Batch Coefficient (BC) en el momento del quemado. Como estos coeficientes disminuyen a lo largo del ciclo diario, el descuento efectivo que obtenga variará en función del momento en que decida quemar durante un ciclo. Este enfoque dinámico garantiza que los usuarios tengan la oportunidad de beneficiarse de diferentes niveles de descuento en función de su momento.
 
-El enfoque de Xenify respecto a los descuentos en las tarifas de burn no sólo promueve la equidad, sino que también ofrece a los usuarios la posibilidad de optimizar sus ahorros. Teniendo en cuenta los coeficientes ponderados por tiempo y eligiendo estratégicamente cuándo ejecutar los burns, los usuarios pueden maximizar sus descuentos y su valor global. Este enfoque innovador aporta transparencia, equidad y mayores beneficios a todos los participantes del ecosistema Xenify.
+El enfoque de Xenify respecto a los descuentos en las comisiones de burn o burn fees no sólo promueven la equidad, sino que también ofrece a los usuarios la posibilidad de optimizar sus ahorros. Teniendo en cuenta los coeficientes ponderados por tiempo y eligiendo estratégicamente cuándo ejecutar los burns, los usuarios pueden maximizar sus descuentos y su valor global. Este enfoque innovador aporta transparencia, equidad y mayores beneficios a todos los participantes del ecosistema Xenify.
 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Coeficiente de quemado (FC)
+## ◽️ Burn fee coefficient (FC)
 
-La tarifa de quemado (BF) necesaria para ejecutar la función de quemado aumentará a medida que aumente el valor total de los lotes que se queman, sin embargo, al ejecutar los quemados antes en el ciclo, los usuarios tienen la oportunidad de beneficiarse de una tarifa de quemado más baja gracias al coeficiente de tarifa de quemado (FC).
+El Burn Fee (BF) necesario para ejecutar la función de quemado aumentará a medida que aumente el valor total de los lotes que se queman, sin embargo, al ejecutar los quemados antes en el ciclo, los usuarios tienen la oportunidad de beneficiarse de un burn fee más bajo gracias al Burn Fee Coefficient (FC).
 
-Como se ilustra en la tabla siguiente, el Coeficiente de la Tasa de Quema comienza en el 50% cuando se inicia un ciclo y aumenta aproximadamente un 2,174% cada hora hasta alcanzar el 100% en la última hora del ciclo diario. Esto significa que los usuarios tendrán que contribuir más para ejecutar la función de quemado a medida que avance el día. Sin embargo, también brinda la oportunidad a los usuarios que queman antes en el ciclo de obtener un descuento de hasta el 75% durante la primera hora de cada ciclo.
+Como se ilustra en la tabla siguiente, el  Burn Fee Coefficient comienza en el 50% cuando se inicia un ciclo y aumenta aproximadamente un 2,174% cada hora hasta alcanzar el 100% en la última hora del ciclo diario. Esto significa que los usuarios tendrán que contribuir más para ejecutar la función de quemado a medida que avance el día. Sin embargo, también brinda la oportunidad a los usuarios que queman antes en el ciclo de obtener un descuento de hasta el 75% durante la primera hora de cada ciclo.
 
 <br>
 
-| Hora | Coeficiente de Tasa de Quemado (FC) |
+| Hora | Burn Fee Coefficient (FC) |
 |------|---------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -705,15 +705,15 @@ Como se ilustra en la tabla siguiente, el Coeficiente de la Tasa de Quema comien
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Coeficiente de lote (BC)
+## ◽️ Batch coefficient (BC)
 
-El coeficiente de lote (BC) aplica un descuento a la tasa de combustión en función del número de lotes quemados. Cuantos más lotes queme, mayor será el descuento por lote, representado por el término (1 - (NB x BC)). El valor del coeficiente de lotes (BC) varía en función del momento en que el usuario decide quemar durante un ciclo.
+El Batch Coefficient (BC) aplica un descuento al burn fee o comisión de quemado en función del número de lotes quemados. Cuantos más lotes queme, mayor será el descuento por lote, representado por el término (1 - (NB x BC)). El valor del Batch Coefficient (BC) varía en función del momento en que el usuario decide quemar durante un ciclo.
 
 La tabla siguiente ilustra cómo cambia el valor del coeficiente durante un ciclo de 24 horas. La constante comienza en 0,00005 al iniciarse el ciclo y disminuye en 0,0000025 cada hora hasta llegar a cero al cabo de 20 horas. Por consiguiente, los usuarios no se beneficiarán del descuento por lotes durante las cuatro últimas horas del ciclo.
 
 <br>
 
-| Hora | Coeficiente de lote (BC)  |
+| Hora | Batch Coefficient (BC)    |
 |------|---------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
