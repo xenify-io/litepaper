@@ -462,7 +462,7 @@ Toplam arzı 22,6 milyon XNF token ile sınırlı olan ve stratejik olarak üç 
 
 - **1.500.000 XNF, takas katılımcıları için özel bir airdrop olarak atanmıştır:** Katılımı teşvik etmek için, her zincir, XNF'nin dağıtımından önce takas yapan kullanıcılar için 1.500.000 XNF'lik özel bir airdrop'a sahip olacaktır. Airdrop, lansmanın ilk gününde gerçekleşecek ve 730 gün boyunca kademeli olarak açılacak şekilde kilitli tokenler olarak dağıtılacaktır.
 
-Bitcoin'den ilham alan Xenify'ın dağıtım modeli yarılanma ilkesini benimsemektedir. Aşağıdaki grafikte gösterildiği üzere, 7. yarılanmanın ardından Xenify'ın günlük darphane tahsisi oranı istikrar kazanarak 2112. ayda maksimum arza ulaşılana kadar günde 156,25 XNF token'lık tutarlı bir çıktı sağlamaktadır. Bu yenilikçi strateji, Xenify'ın dengeli bir ekosistemi ve ilgili bir topluluğu teşvik etme konusundaki sarsılmaz kararlılığını vurgulayarak, uzun vadeli kullanıcı katılımını merkeze alan adil bir arz dağılımı sağlamak için özenle tasarlanmıştır.
+Bitcoin'den ilham alan Xenify'ın dağıtım modeli yarılanma ilkesini benimsemektedir. Aşağıdaki grafikte gösterildiği üzere, 7. yarılanmanın ardından Xenify'ın günlük darphane tahsisi oranı istikrar kazanarak 2461. ayda maksimum arza ulaşılana kadar günde 156,25 XNF token'lık tutarlı bir çıktı sağlamaktadır. Bu yenilikçi strateji, Xenify'ın dengeli bir ekosistemi ve ilgili bir topluluğu teşvik etme konusundaki sarsılmaz kararlılığını vurgulayarak, uzun vadeli kullanıcı katılımını merkeze alan adil bir arz dağılımı sağlamak için özenle tasarlanmıştır.
 
 <br>
 
@@ -559,7 +559,7 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
   - Xenify'ın teşvik modeli özenle hazırlanmış olup platforma katılımlarını yoğunlaştıran kullanıcılara orantılı ödüller sunmaktadır. Böyle bir yaklaşım, kullanıcıların platform etkinliklerine göre yeni basılmış XNF tokenleri elde etmelerini sağlayarak katılımı daha da artırmaktadır.
 
-  - XNF tokenlerinin dağıtımı, 20.000 XNF tokenlik bir ödül havuzuyla başlayan bir günlük döngüleri takip eder. Bu günlük tahsisat eşit olarak bölünür: %50'si vXEN veya vUSDy tokenlarını yakan kullanıcılara dağıtılırken, kalan %50'si platformun takas ücretine katkıda bulunanlar için ayrılmıştır. Bu günlük tahsisat, gelecekteki diğer tüm dağıtım zincirlerini de kapsayacaktır. Yarılanma modelinin uygulanmasıyla, günlük basım miktarı kademeli olarak azalacak ve 2112. ay itibariyle toplam 22,6 milyon XNF tokeninin tamamen dağıtılmasıyla sonuçlanacaktır.
+  - XNF tokenlerinin dağıtımı, 20.000 XNF tokenlik bir ödül havuzuyla başlayan bir günlük döngüleri takip eder. Bu günlük tahsisat eşit olarak bölünür: %50'si vXEN veya vUSDy tokenlarını yakan kullanıcılara dağıtılırken, kalan %50'si platformun takas ücretine katkıda bulunanlar için ayrılmıştır. Bu günlük tahsisat, gelecekteki diğer tüm dağıtım zincirlerini de kapsayacaktır. Yarılanma modelinin uygulanmasıyla, günlük basım miktarı kademeli olarak azalacak ve 2461. ay itibariyle toplam 22,6 milyon XNF tokeninin tamamen dağıtılmasıyla sonuçlanacaktır.
 
   - Kullanıcılar, Ethereum zincirindeki ETH gibi zincire özgü yerel tokenlar şeklinde ödüller biriktirmelerine olanak tanıyan platformun stake mekanizması aracılığıyla daha da teşvik edilmektedir. Bu ödüller, Xenify bünyesindeki çeşitli faaliyetlerden, özellikle de takas ücretlerinden ve yakma ücretlerinden elde edilmektedir.
 
@@ -1021,35 +1021,45 @@ Dağıtım öncesi aşamada, airdrop etkinliği devam ederken, %0,5'lik takas ü
 
 <br>
 
-Xenify ve YSL.IO topluluklarını birleştiren özel NFT koleksiyonu [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT) ile tanışın. Bu olağanüstü NFT'lerden birine sahip olan Xenify kullanıcıları, vXEN veya vUSDy yakarken parti sayılarını katlanarak 100'e kadar artıran günlük güçlendirilmiş yakma etkisinin kilidini açacak. Dahası, bu çok beğenilen NFT'lerden en az 4 tanesine sahip olmak veya kiralamak, cüzdanınızın günlük 1.000 partiye kadar bonus almasıyla size daha da büyük bir güçlendirme sağlayacaktır.
+İşte Xenify'nin yakma kuvvetlendirmesi, Sınıf 1 APEX XENFT (Xunicorn), Sınıf 2 APEX XENFT (Exotic) veya [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT) sahipleri için özel olarak tasarlanmış bir fırsat. Bu nadir NFT'lere sahip olarak, günlük yakma etkisini güçlendiren ve vXEN veya vUSDy yakdığınızda toplam miktarınızı muazzam bir şekilde 100'e katlayan bir avantajı kilitleyeceksiniz. Eğer bu aranan NFT'lerden en az dördüne sahipseniz ya da kiralarsanız, cüzdanınıza günlük olarak 1000'lik cömert bir bonus verileceğinden kendinizi daha büyük bir kuvvetlendirme için hazırlayın.
 
-Ayrıca, Phoenix NFT sahipleri bir dizi ekstra avantajdan yararlanacak. Buna her 8 saatte bir USDC ödülleri kazanma ve YSL.IO protokolündeki Sigma Çıkış Oranını atlama fırsatı da dahildir. Bu ek avantajlar, kullanıcı katılımını artırırken hem Xenify hem de YSL.IO ekosistemlerinin büyümesine önemli katkılar sağlıyor.
+Ayrıca, Phoenix Ape NFT sahipleri, USDC ödüllerini her 8 saatte bir kazanma ve YSL.IO protokolü üzerinde Sigma Çıkış Oranı'nı atlama fırsatı da dahil olmak üzere bir dizi ek ayrıcalıktan yararlanacak. Bu ek faydalar, hem Xenify hem de YSL.IO ekosistemlerinin büyümesine önemli katkılarda bulunurken kullanıcı katılımını artırır. 
 
-Phoenix Ape NFT'ye sahip her cüzdan, her 7 günde bir Phoenix Ape NFT içeren tek bir giden işleme izin veren Haftalık Giden Kotasına (WOQ) tabidir. Giden işlemler, bir Phoenix Ape NFT'yi başka bir cüzdana aktarmayı veya NFT'yi satmayı içerir. WOQ kısıtlaması yürürlükteyken, cüzdan sahiplerinin Phoenix Ape NFT'lerinin faydasını başka bir zincire köprülemesine hala izin verildiğini lütfen unutmayın. Kısacası, bir NFT'nin faydasını farklı bir zincire köprülemek ne WOQ'u tetikler ne de kullanıcının Phoenix Ape NFT (ler) ini köprüleme yeteneğini etkiler.
+Her Phoenix Ape NFT'ye sahip olan cüzdan, haftada bir kez bir Phoenix Ape NFT'nin dışa aktarılmasına izin veren Haftalık Dışa Aktarma Kotası'na (WOQ) tabidir. Dışa aktarmalar, bir Phoenix Ape NFT'nin başka bir cüzdana aktarılmasını veya NFT'nin satılmasını içerir. Lütfen unutmayın ki, WOQ kısıtlaması yürürlükteyken, cüzdan sahipleri hala Phoenix Ape NFT'lerinin(lerinin) faydasını başka bir zincire köprülemesine izin verilmektedir. Kısacası, bir NFT'nin faydasını farklı bir zincire köprülemek ne WOQ'yu tetikler ne de kullanıcının Phoenix Ape NFT(ler)inin faydasını köprüleme yeteneğini etkiler.
 
-Ve işte en iyi kısmı: İster bir NFT'ye ister dört NFT'ye sahip olun, günlük toplu bonusunuz Xenify'ın başlattığı herhangi bir zincire sorunsuz bir şekilde köprülenebilir. Yakma bonusunuz her gün sıfırlanırken, Xenify'ın günlük olarak başlattığı tüm zincirlerde bu güçlendirilmiş yakma etkisinin avantajlarından yararlanma fırsatına sahip olacaksınız!
+Ve en iyi kısım da şu: Xenify'nin piyasaya sürdüğü her zincirde, bir NFT'niz olsun dört Phoenix Ape NFT'niz olsun, günlük toplu bonusunuz sorunsuz bir şekilde köprülenebilir. Günlük çarpanınızın her gün sıfırlandığı göz önüne alındığında, Xenify'nin piyasaya sürdüğü tüm zincirlerde bu güçlendirilmiş yakma etkisinden faydalanma fırsatınız olacak!
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Phoenix Ape'leri geniş bir katılımcı kitlesine erişilebilir kılmak için, yalnızca haftalık bir açık artırma yoluyla sunulacaktır. Bu, herkese yeterli süre tanıyarak adillik ve katılım sağlar, herkese değerli Phoenix Ape NFT'lerini güvence altına alma fırsatı verir. Açık artırma sadece 10 bXNF (BNB Zincir özgü BNB) ile başlayan minimum başlangıç teklifi ile başlar. Bu, henüz teklif verilmemişse, açık artırmayı minimum 10 bXNF teklifi ile başlatabileceğiniz anlamına gelir. Mevcut teklifler varsa, teklifiniz ya mevcut en yüksek tekliften 2 bXNF daha yüksek olmalıdır ya da mevcut en yüksek teklifin %105'i kadar olmalıdır, hangisi daha büyükse.
 
-## ◽️ Sınırlı Koleksiyonluk
+Her haftalık açık artırma, minimum 168 saat sürer ve 5 dakikalık bir zaman uzatma tamponu içerir. Yani, açık artırmanın bitmesine kalan son 5 dakika içinde bir teklif yapılırsa, 5 dakika daha eklenecek ve açık artırma son 5 dakika içinde teklif gelmediği sürece sona erecek. Bu, hiçbir açık artırmanın mevcut birinin bitmesinden önce başlamayacağını, herkese adil bir şekilde katılma fırsatı verdiğini garanti eder. Örneğin, açık artırmanın saat 12.00'de sona ermesi planlanmış ve saat 11.59'da bir teklif yapılmış olsun. Bitiş saati 12.05'e uzatılacak ve bu süreç son 5 dakika içinde teklif gelmemesi durumuna kadar devam edecek, her teklif verene adil bir fırsat sağlayacaktır. 
 
-YSL.IO için geliştirilen özel bir NFT koleksiyonu olan Phoenix Apes, sadece 520 adetlik sınırlı bir arzla övünüyor. Bu aranan NFT'ler, özünde fayda sağlamak üzere ustaca tasarlanmıştır. Sadece kendine özgü nadirliklere sahip olmakla kalmazlar, aynı zamanda sahibine YSL.IO ekosistemi içinde olağanüstü avantajlar sağlarlar.
+Dahası, açık artırma sırasında daha yüksek bir teklif yapılır yapılmaz, önceki en yüksek teklif sahibi bXNF'lerinin tamamını geri alır. Bu, süreç boyunca adaleti garanti eder, çünkü geri aldıkları bXNF'lerini istedikleri takdirde yeniden teklif vermek için kullanabilirler. Ayrıca, kazanan teklif sahibinden elde edilen bXNF'nin %100'ü yakılarak Xenify ekosistemine daha da fayda sağlanacaktır.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Açık artırmayı kazandığınızda, benzersiz NFT'nizi basan Phoenix Ape NFT'nizi talep edebilirsiniz. Dikkat edilmesi gereken önemli bir nokta, sadece kazanan teklif ile ilişkili cüzdan adresinin Phoenix Ape NFT'yi talep edebileceğidir, bu da tüm katılımcılar için kesin güvenlik sağlar. Ve bir diğer önemli detay: Eğer şanslı açık artırma kazananıysanız, sonraki açık artırmalara katılmadan önce Phoenix Ape NFT'nizi talep etmeniz gerekir. Bu mekanizma, tek bir katılımcının talep edilmemiş NFT'leri biriktirmesini önler. 
 
-## ◽️ Günlük Güçlendirilmiş Yanık Etkisi
+**Phoenix Ape NFT'lerini geleneksel NFT'lerden ayıran bazı dikkat çekici özelliklere göz atalım:**
 
-Phoenix Ape NFT sahipleri, Xenify'da vXEN veya vUSDy yakmayı seçtiklerinde özel bir güçlendirilmiş yanma etkisinin kilidini açar. Bu benzersiz avantaj, NFT sahiplerinin günlük XNF dağıtımından daha büyük bir pay almalarını sağlarken, aynı zamanda yakma ücretlerinde önemli indirimlerden yararlanmalarını sağlar. Her iki topluluk arasında köprü kuran bu istisnai avantaj, birlikteliği teşvik etmekte ve her iki protokol için de büyümeyi desteklemektedir.
+![line divider - filled](https://user-images.githubusercontent.com/60996729/218723259-e181f3eb-0394-4835-bbc0-a945b709ffd3.svg)
 
-İşte nasıl çalıştığı: Phoenix Ape NFT sahipleri Xenify'da vXEN veya vUSDy yakmaya karar verdiklerinde, parti sayılarını (NB) iki katına çıkaran günlük bir yakma bonusunun kilidini açarlar. Bonus, NFT kimliği başına 100 günlük parti ile sınırlandırılmıştır. Bir kullanıcı Phoenix Ape NFT'sine tahsis edilen 100 günlük bonus partisinin tamamını kullandığında, söz konusu NFT artık o gün için güçlendirilmiş bir yanma sunmayacaktır.
+## ◽️ Sınırlı Koleksiyon
 
-Ekstra ateş gücü mü arıyorsunuz? Size harika haberlerimiz var! Bu çok rağbet gören NFT'lerden en az 4 tanesine sahip olarak veya kiralayarak, cüzdanınızın günlük 1.000 parti bonus almasıyla daha da büyük bir güçlenmeden yararlanacaksınız. Bu, dört NFT ID'nizin her biri için ayrılmış varsayılan 100 günlük bonus partisinin yerini alır. Kısacası, 4 NFT'ye sahipseniz, toplam günlük bonusunuz 1.400 parti değil, 1.000 parti ile sınırlandırılacaktır.
+Phoenix Ape'ler, Xenify ve YSL.IO topluluklarını birleştirmek için tasarlanmış bir NFT koleksiyonudur. YSL.IO tarafından geliştirilen özel NFT koleksiyonu, sadece 520 adet sınırlı bir arza sahiptir. Bu aranan NFT'ler, çekirdeğinde fayda barındırmak için zekice tasarlanmıştır. Sadece benzersiz nadirliklere sahip olmakla kalmazlar, aynı zamanda Xenify ve YSL.IO ekosisteminde sahiplerine istisnai faydalar sağlarlar.
 
-Unutmayın, ne kadar çok parti yakarsanız, yakma ücretlerinden o kadar tasarruf edersiniz. 4 NFT tutarak, bir döngünün ilk saatinde normal 10.000 yerine sadece 9.000 parti yakarak yakma ücretlerinizde maksimum %75 tasarruf elde edebilirsiniz. Ayrıca, Phoenix Ape NFT'lerinin sınırlı 520 arzı olduğu için, bu ekstra ateş gücünü yakalayabilecek maksimum 130 cüzdan adresi olabilir.
+![grey v4](https://user-images.githubusercontent.com/60996729/218723462-34f6bd22-9733-48e4-ba64-8854cd6462a3.png)
 
-Ve işte en iyi kısmı: Günlük toplu bonusunuz, ister bir NFT'niz ister dört NFT'niz olsun, Xenify'ın başlattığı herhangi bir zincire sorunsuz bir şekilde köprülenebilir. Diyelim ki Xenify Ethereum'a genişliyor ve siz de 4 Phoenix Ape NFT'sine sahipsiniz. BNB Zincirindeki günlük 1.000 parti bonusunuzu tükettikten sonra, NFT'lerinizin faydasını Ethereum'a kolayca köprüleyebilir ve orada 1.000 bonus partisinin tadını çıkarabilirsiniz. Çarpanınız her gün sıfırlanırken, Xenify'ın günlük olarak piyasaya sürdüğü tüm zincirlerde bu güçlendirilmiş yanma etkisinin avantajlarından yararlanma fırsatına sahip olacaksınız!
+## ◽️ Günlük Arttırılmış Yakma Etkisi
 
-Özetle, Phoenix Ape NFT sahipleri yalnızca günlük XNF dağıtımından daha fazla pay almakla kalmaz, aynı zamanda daha fazla miktarda parti yakarak yakma ücretinde daha büyük indirimlerin kilidini açar. İşlem başına maksimum parti miktarı 10,000 parti ile sınırlandırılmıştır ve yakma ücreti indirimi, protokollerin yakma ücreti formülündeki (1 - (NB x CS)) terimi ile temsil edilir:
+Phoenix Ape NFT'nizin, Sınıf 1 APEX XENFT (Xunicorn) veya Sınıf 2 APEX XENFT (Exotic) gücünü Xenify'de serbest bırakmaya hazırlanın! Bu olağanüstü NFT'lerin gururlu bir sahibi olarak, yakma katkınızı yeni yüksekliklere taşıyan özel bir arttırılmış yakma etkisine erişim kazanırsınız. Bu benzersiz avantaj, NFT sahiplerinin günlük XNF dağıtımından daha büyük bir pay almasını sağlarken, yakma ücretlerinde önemli indirimlerden de yararlanmalarını sağlar. Bu istisnai NFT'lerin topluluklarını birleştirerek, bu arttırılmış yakma etkisi birlikteliği teşvik eder ve her bir ekosistemin büyümesini besler, tüm taraflar için kazan-kazan durumu yaratır.
+
+İşte nasıl çalıştığı: NFT sahipleri Xenify üzerinde vXEN veya vUSDy yakmaya karar verdiğinde, günlük yakma bonusu ile toplam miktarlarını (NB) iki katına çıkarırlar. Bonus her NFT kimliği için günlük 100 toplu ile sınırlıdır. Bir kullanıcı, belirli bir NFT'ye ayrılan günlük 100 bonus toplamını kullandığında, o belirli NFT o gün için artık arttırılmış yakma sunmayacaktır. 
+
+Daha fazla güce ihtiyacınız mı var? Harika haberimiz var! Bu çok aranan NFT'lerden en az 4 tanesine sahip olarak veya kiralayarak, arttırmadan daha da yararlanacaksınız, cüzdanınız günlük 1000 toplu bonus alacak. Bu, dört NFT kimliğinizin her biri için ayrılan varsayılan 100'lük günlük bonus toplamlarının yerine geçer. Kısacası, 4 NFT'niz varsa, toplam günlük bonusunuz 1400 toplu yerine 1000 toplu ile sınırlı olacaktır.
+
+Unutmayın, ne kadar çok toplu yakarsanız, yakma ücretlerinden o kadar çok indirim elde edersiniz. 4 NFT'ye sahip olarak, bir döngünün ilk saatinde sadece 9.000 toplu yakarak yakma ücretlerinde %75'e varan maksimum indirim elde edebilirsiniz, olağan 10.000 yerine. Ayrıca, Phoenix Ape NFT'lerinin sınırlı bir arza sahip olmasıyla, bu ek gücü yakalayabilecek maksimum 130 cüzdan adresi olabilir. 
+
+Ve en iyisi şu: Bir NFT'niz olsun dört Phoenix Ape NFT'niz olsun, günlük toplu bonusunuz Xenify'nin piyasaya sürdüğü her zincire sorunsuz bir şekilde köprülenebilir. Diyelim ki Xenify, Polygon'a genişledi ve 4 Phoenix Ape NFT'nize sahipsiniz. BNB Zinciri'ndeki günlük 1000'lik toplu bonusunuzu tükettikten sonra, NFT'lerinizin faydasını Polygon'a kolayca köprüleyebilir ve orada 1000'lik toplu bonuslardan yararlanabilirsiniz. Günlük çarpanınızın her gün sıfırlandığı göz önünde bulundurulursa, Xenify'nin piyasaya sürdüğü tüm zincirlerde bu güçlendirilmiş yakma etkisinden faydalanma fırsatınız olacak!
+
+Özetle, Phoenix Ape NFT sahipleri sadece günlük XNF dağıtımından daha büyük bir paya sahip olmakla kalmaz, aynı zamanda daha fazla toplu yakarak yakma ücretlerinde daha büyük indirimler de kazanırlar. Bir işlemdeki maksimum toplu miktarı 10.000 ile sınırlıdır ve yakma ücreti indirimi protokolün yakma ücreti formülündeki (1 - (NB x CS)) terimi ile temsil edilir:
 
 <br>
 
@@ -1057,43 +1067,43 @@ $$
 BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
-**Nerede:**
+**Burada:**
 
-- $BF$ (Yakma Ücreti) - Yakma işlevi için alınan ve blok zincirinin yerel tokenı ile ödenen ücret.
-- $FC$ (Yakma Ücreti Katsayısı) - Yakma ücretinde indirim yapmak için kullanılan zaman ağırlıklı bir katsayı.
-- $VB$ (Partilerin Değeri) - Kullanıcı tarafından yakılan partilerin dolar değeri, partilerin değeri arttıkça yakma ücretini etkiler.
-- $BC$ (Parti Katsayısı) - Yakılan partilere bağlı olarak indirimi hesaba katmak için kullanılan zaman ağırlıklı bir katsayı.
-- $NB$ (Parti Sayısı) - Kullanıcının yaktığı parti sayısı, parti sayısı arttıkça yakma ücretlerindeki indirimi etkiler. Bu sayı 10.000 parti ile sınırlandırılacaktır.
+- $BF$ (Yakma Ücreti) - Yakma işlevi için ödenen ücret, blok zincirinin yerel parası birimi cinsindendir.
+- $FC$ (Yakma Ücreti Katsayısı) - Yakma ücretinde indirim uygulamak için kullanılan zamana bağlı bir katsayı. 
+- $VB$ (Toplu Değeri) - Kullanıcının yaktığı toplu değeri, toplu değeri arttıkça yakma ücretini etkiler.
+- $BC$ (Toplu Katsayısı) - Yakılan toplu miktarına bağlı indirimi hesaba katmak için kullanılan zamana bağlı bir katsayı.
+- $NB$ (Toplu Miktarı) - Kullanıcının yaktığı toplu miktarı, yakılan toplu sayısı arttıkça indirimde etkili olur. Bu 10.000 toplu ile sınırlı olacaktır.
+
+![line divider - filled](https://user-images.githubusercontent.com/60996729/218723259-e181f3eb-0394-4835-bbc0-a945b709ffd3.svg)
+
+## ◽️ Örnek: Arttırılmış Yakma Etkisi
+
+Arttırılmış yakmanın farklı senaryolarda nasıl çalıştığına daha yakından bakalım:
+
+![grey v4](https://user-images.githubusercontent.com/60996729/218723462-34f6bd22-9733-48e4-ba64-8854cd6462a3.png)
+
+## ♦️ Senaryo 1: 1 ile 3 arasında Phoenix Ape NFT'niz, Sınıf 1 APEX XENFT'niz (Xunicorn) veya Sınıf 2 APEX XENFT'niz (Exotic) varsa:
+
+  - Her bir NFT'ye günlük olarak 100 toplu ile sınırlı bir bonus çarpanı verilir. Belirli bir miktarda toplu yakarken, protokol öncelikle NFT'lerinizden herhangi birinin bonus bakiyesine sahip olup olmadığını doğrular. Eğer öyleyse, protokol toplu sayınızı artırmak için bonus bakiyenizi kullanır.
+
+  - Örneğin, NFT'nizde günlük 100 topluluk bonusunuz olduğunu ve 10 toplu yakmayı seçtiğinizi hayal edin. Protokol, günlük bonus toplularınızdan 10'unu kullanarak toplu sayınızı etkili bir şekilde 20 topluya çıkaracaktır. Sonuç olarak, NFT kimliğinizin günlük bonusundan 10 toplu düşürülecek, o gün o NFT için 90 bonus toplu bırakılacaktır.
+
+  - Ancak, bonus bakiyenizi aşan bir miktar yakmaya karar verirseniz, protokol NFT'nizin tüm bakiyesini tüketir. Örneğin, mevcut günlük bonus bakiyeniz 90 topluysa ve 5.000 toplu yakmayı seçerseniz, yakma işlemi bunu 5.090 toplu olarak sayacaktır, NFT'nizin bonus bakiyesinden 90 topluyu kullanarak. Sonuç olarak, NFT kimliğine ayrılan 90 bonus toplu kaldırılacak, o gün o NFT için sıfır bonus toplu bırakılacaktır. Endişelenmeyin, bonus toplu sayınız ertesi gün 100'e sıfırlanacaktır.
+
+  - Ek olarak, NFT'nizin faydasını Xenify'nin piyasaya çıktığı başka bir zincire köprüleme seçeneğiniz var. Bunu yaparak, o gün ekstra 100 günlük bonus topluya erişebilir, efektif olarak NFT'nize 200 günlük bonus toplu vermiş olursunuz. Örneğin, BNB Zincirindeki günlük bonusunuzu tüketmişseniz, NFT'nizin faydasını basitçe Ethereum'a köprüleyebilir ve Ethereum'da 1.000 günlük bonus toplu alırsınız. Bu işlem Xenify'nin dağıtıldığı her zincir için tekrarlanabilir.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Örnek: Güçlendirilmiş Yanık Etkisi
+## ♦️ Senaryo 2: 4 veya daha fazla Phoenix Ape NFT'niz, Sınıf 1 APEX XENFT'niz (Xunicorn) veya Sınıf 2 APEX XENFT'niz (Exotic) varsa:
 
-Şimdi güçlendirilmiş yanığın farklı senaryolarda nasıl çalıştığına daha yakından bakalım:
+  - 4 NFT'ye sahipseniz toplu yakmak çok daha kazançlı hale gelir. Cüzdanınız günlük 1.000 toplu bonus alacaktır. Bu, NFT kimliklerinizin her biri için ayrılan varsayılan 100 günlük bonus topluların yerine geçer. Kısacası, cüzdanınızda 4 veya daha fazla NFT varsa, günlük toplam bonusunuz o cüzdan için 1.000 toplu ile sınırlı olacaktır. Mevcut günlük bonusunuzdan daha az bir toplu miktarını yakmayı seçtiğinizde, protokol eşdeğer bir miktarı kullanarak toplu sayınızı ikiye katlayacaktır.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+  - Örneğin, 4 NFT'niz varsa ve günlük 1.000 toplu bonusunuz varsa, 1 toplu yakmak yakma işlemi sırasında 2 toplu olarak sayılacaktır. Bu, 1 toplunun günlük NFT bonusunuzdan düşürüleceği anlamına gelir, o gün o zincirde 999 bonus toplu bırakır.
 
-## ♦️ Senaryo 1: Elinizde 1 ile 3 arasında Phoenix Ape NFT varsa
+  - Öte yandan, mevcut günlük bonusunuzdan daha fazla bir toplu miktarı yakmaya karar verirseniz, protokol tüm bonus bakiyenizi kullanır. 4 NFT'nizin olduğunu ve günlük 1.000 toplu bonusunuz olduğunu varsayalım. 6.000 topluya eşdeğerini yakmayı seçerseniz, yakma işlemi sırasında bunu 7.000 toplu olarak sayılacaktır. Protokol bunun için günlük 1.000'lik toplu bonusunuzun tamamını kullanacaktır. Sonuç olarak, o belirli gün o zincirde kullanmak için kalan bonus toplunuz olmayacaktır. Ama endişelenmeyin, bir sonraki gün başladığında, bonus toplu sayınız 1.000'e sıfırlanacaktır.
 
-  - Her Phoenix Ape NFT, 100 parti ile sınırlı bir günlük bonus çarpanı ile donatılmıştır. Belirli sayıda parti yakarken, protokol önce NFT'lerinizden herhangi birinin bonus bakiyesine sahip olup olmadığını doğrular. Eğer varsa, protokol parti sayınızı artırmak için bonus bakiyenizi kullanır.
-
-  - Örneğin, NFT'nizde günlük 100 parti bonusunuz olduğunu ve 10 parti yakmayı tercih ettiğinizi düşünün. Protokol, günlük bonus partilerinizin 10'unu kullanarak parti sayınızı etkili bir şekilde ikiye katlayarak 20 partiye çıkaracaktır. Sonuç olarak, NFT ID'nizin günlük bonusundan 10 parti düşülecek ve o gün o NFT için 90 bonus parti kalacaktır.
-
-  - Ancak, bonus bakiyenizi aşan bir miktarı yakmaya karar verirseniz, protokol NFT bakiyenizin tamamını tüketecektir. Örneğin, mevcut günlük bonus bakiyeniz 90 parti ise ve 5.000 parti yakmayı seçerseniz, yakma işlemi bunu 5.090 parti olarak sayacak ve NFT'nizin bonus bakiyesinden 90 partinin tamamını kullanacaktır. Sonuç olarak, NFT ID'sine tahsis edilen 90 bonus partisi kaldırılacak ve o gün o NFT için sıfır bonus partisi bırakılacaktır. Korkmayın, bonus parti sayınız ertesi gün 100'e sıfırlanacaktır.
-
-  - Ayrıca, NFT'nizin hizmetini Xenify'ın başlatıldığı başka bir zincirle köprüleme seçeneğiniz de vardır. Bunu yaparak, o gün fazladan 100 günlük bonus partisine erişebilir, böylece NFT'niz için 200 günlük bonus partisi elde edebilirsiniz. Örneğin, BNB Zincirindeki günlük bonusunuzu tükettiyseniz, NFT'nizin yardımcı programını Ethereum'a köprüleyin ve Ethereum'da 1.000 günlük bonus partisi alın. Bu işlem, Xenify'ın konuşlandırıldığı her zincir için tekrarlanabilir.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Senaryo 2: 4 veya daha fazla Phoenix Ape NFT'ye sahipseniz
-
-  - 4 Phoenix Ape NFT'ye sahipseniz veya kiraladıysanız, parti yakmak daha da ödüllendirici hale gelir. Cüzdanınız günlük 1.000 parti bonus alacaktır. Bu, her bir NFT kimliğiniz için ayrılmış varsayılan 100 günlük bonus partisinin yerini alır. Kısacası, cüzdanınızda 4 veya daha fazla NFT tutuyorsanız, toplam günlük bonusunuz o cüzdan için 1.000 parti ile sınırlandırılacaktır. Mevcut günlük bonusunuzdan daha az bir parti miktarı yakmayı seçtiğinizde, protokol eşdeğer bir miktar kullanarak parti sayınızı ikiye katlayacaktır.
-
-  - Örneğin, 4 NFT'niz ve günlük 1.000 parti bonusunuz varsa, 1 partiyi yakmak, yakma işlemi sırasında 2 parti olarak sayılacaktır. Bu da 1 partinin günlük NFT bonusunuzdan düşüleceği ve size o zincirdeki gün için 999 bonus parti kalacağı anlamına gelir.
-
-  - Öte yandan, mevcut günlük bonusunuzdan daha büyük bir parti miktarı yakmaya karar verirseniz, protokol bonus bakiyenizin tamamını kullanacaktır. Diyelim ki 4 NFT'niz ve günlük 1.000 parti bonusunuz var. Eşdeğer 6.000 parti yakmayı seçerseniz, yakma işlemi sırasında bu 7.000 parti olarak sayılacaktır. Protokol bunun için günlük 1.000 parti bonusunuzun tamamını kullanacaktır. Sonuç olarak, söz konusu zincirde o gün için kullanabileceğiniz herhangi bir bonus partiniz kalmayacaktır. Ancak endişelenmeyin, bir sonraki gün başladığında, bonus parti sayınız 1.000'e geri dönecektir.
-
-  - Ayrıca, 4 NFT'nizin faydasını Xenify'ın başlattığı başka bir zincirle köprülemeyi seçebilirsiniz. Bunu yaparak, o gün ek 1.000 günlük bonus partisini kullanabilir ve size etkili bir şekilde 2.000 günlük bonus partisi verebilirsiniz. Örneğin, BNB Zincirinde günlük bonusunuzu kullandıysanız, NFT'lerinizin yardımcı programını Ethereum'a köprüleyebilir ve Ethereum'da 1.000 günlük bonus partisi alabilirsiniz. Bu işlemi Xenify'ın konuşlandırıldığı her zincir için tekrarlayabilirsiniz.
+  - Ek olarak, 4 NFT'nizin faydasını Xenify'nin piyasaya çıkardığı başka bir zincire köprülemeyi seçebilirsiniz. Bunu yaparak, o gün ekstra 1.000 günlük bonus toplu kullanabilir, efektif olarak size 2.000 günlük bonus toplu verir. Örneğin, BNB Zincirindeki günlük bonusunuzu kullanmışsanız, NFT'lerinizin faydasını basitçe Ethereum'a köprüleyebilir ve Ethereum'da 1.000 günlük bonus toplu alırsınız. Bu işlemi Xenify'nin dağıtıldığı her zincir için tekrarlayabilirsiniz.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
