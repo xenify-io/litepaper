@@ -462,7 +462,7 @@ Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strateg
 
 - **1.500.000 XNF ditugaskan sebagai airdrop eksklusif untuk peserta swap:** Untuk mendorong keterlibatan, setiap rantai akan memiliki airdrop eksklusif sebesar 1.500.000 XNF untuk pengguna yang melakukan swap sebelum penerapan XNF. Airdrop akan berlangsung pada hari pertama peluncuran, dan akan didistribusikan sebagai token yang terkunci, secara bertahap dibuka selama 730 hari.
 
-Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip halving. Seperti yang diilustrasikan dalam grafik yang menyertai di bawah ini, setelah pembagian ke-7, tingkat alokasi mint harian Xenify menjadi stabil, memastikan hasil yang konsisten sebesar 156,25 XNF token per hari hingga pasokan maksimum tercapai pada bulan 2112. Strategi inovatif ini telah dirancang dengan cermat untuk memastikan distribusi pasokan yang adil yang berpusat pada partisipasi pengguna jangka panjang, menyoroti komitmen teguh Xenify untuk membina ekosistem yang seimbang dan komunitas yang terlibat.
+Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip halving. Seperti yang diilustrasikan dalam grafik yang menyertai di bawah ini, setelah pembagian ke-7, tingkat alokasi mint harian Xenify menjadi stabil, memastikan hasil yang konsisten sebesar 156,25 XNF token per hari hingga pasokan maksimum tercapai pada bulan 2461. Strategi inovatif ini telah dirancang dengan cermat untuk memastikan distribusi pasokan yang adil yang berpusat pada partisipasi pengguna jangka panjang, menyoroti komitmen teguh Xenify untuk membina ekosistem yang seimbang dan komunitas yang terlibat.
 
 <br>
 
@@ -559,7 +559,7 @@ Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockch
 
   - Model insentif Xenify dibuat dengan hati-hati, menawarkan imbalan yang proporsional kepada pengguna yang mengintensifkan keterlibatan mereka dengan platform. Pendekatan semacam itu mendorong partisipasi lebih lanjut, karena pengguna dapat memperoleh token XNF yang baru dicetak relatif terhadap aktivitas platform mereka.
 
-  - Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah 20.000 token XNF. Alokasi harian ini dibagi secara merata: 50% didistribusikan kepada pengguna yang membakar token vXEN atau vUSDy, dengan 50% sisanya dicadangkan untuk kontributor biaya swap platform. Alokasi harian ini juga akan berlaku untuk semua rantai penyebaran di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2112.
+  - Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah 20.000 token XNF. Alokasi harian ini dibagi secara merata: 50% didistribusikan kepada pengguna yang membakar token vXEN atau vUSDy, dengan 50% sisanya dicadangkan untuk kontributor biaya swap platform. Alokasi harian ini juga akan berlaku untuk semua rantai penyebaran di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
 
   - Pengguna diberi insentif lebih lanjut melalui mekanisme staking platform, yang memungkinkan mereka untuk mengakumulasi hadiah dalam bentuk token asli khusus rantai, seperti ETH pada rantai Ethereum. Imbalan ini dihasilkan dari berbagai aktivitas di dalam Xenify, khususnya dari biaya swap dan biaya pembakaran.
 
