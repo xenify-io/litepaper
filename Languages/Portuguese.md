@@ -91,7 +91,7 @@ Na Xenify, não nos contentamos com o status quo! A nossa ambição inabalável 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fairness
+## ◽️ Equidade
   
   - Acreditamos na criação de um campo de jogo justo e nivelado onde cada utilizador tem uma oportunidade igual de prosperar. A Xenify promove a distribuição equitativa de tokens e garante a igualdade de acesso ao protocolo, não deixando espaço para favoritismo em relação aos fundadores, membros da equipa ou investidores.
 
@@ -165,7 +165,7 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Token Burning
+## ♦️ Queima de fichas
 
 - A Xenify permite que os usuários queimem sem esforço seus tokens XEN ou tokens nativos YSL.IO diretamente de suas carteiras para participar do leilão diário de queima. Este mecanismo de queima exclusivo integra dois tokens personalizados conhecidos como vXEN e vUSDy, as contrapartes virtuais dos tokens XEN e dos tokens nativos YSL.IO, respetivamente. Estes tokens têm um objetivo específico - facilitar a cunhagem de tokens XNF através do processo de burn.
   
@@ -173,7 +173,7 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Cross-Chain Swapping
+## ♦️ Troca de cadeias cruzadas
 
 - A Xenify permite que os utilizadores executem swaps de cadeia cruzada sem problemas, tornando mais fácil do que nunca a troca de tokens em 50 cadeias diferentes. Nosso processo simplificado oferece um novo nível de simplicidade em trocas de tokens entre cadeias e fornece acesso a 27 agregadores, garantindo as taxas mais competitivas disponíveis, proporcionando uma experiência eficiente e gratificante como nunca antes.
 
@@ -216,7 +216,7 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XEN Overview
+# ◽️ XEN Visão geral
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -252,7 +252,7 @@ E aqui está a melhor parte: A Xenify implementou uma taxa fixa para vXEN, onde 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ USDy Overview
+# ◽️ USDy Visão geral
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -296,7 +296,7 @@ Depois de possuir vUSDy, você pode queimá-lo para participar da distribuição
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF & veXNF Overview
+# ◽️ XNF & veXNF Visão geral
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -312,7 +312,7 @@ Para os utilizadores que pretendem aumentar o seu potencial de ganhos com bloque
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Xenify Overview
+# ◽️ Xenify Visão geral
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -794,7 +794,7 @@ No final de cada ciclo, o protocolo retira 1% do total de tokens XNF LP e 1% dos
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vXEN Mint Fee
+## ◽️ vXEN MTaxa da Casa da Moeda
 
 A taxa de cunhagem de vXEN é aplicável apenas quando queima uma variante de token XEN para obter vXEN. A taxa de cunhagem é determinada pelo valor de mercado atual dos tokens que queima. Os tokens nativos gerados a partir da taxa de cunhagem vXEN serão atribuídos da seguinte forma:
 
@@ -806,7 +806,7 @@ A taxa de cunhagem de vXEN é aplicável apenas quando queima uma variante de to
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vUSDy Mint Fee
+## ◽️ vUSDy Taxa da Casa da Moeda
 
 A taxa de cunhagem de vUSDy só é aplicável quando o utilizador converte USDy, xYSL ou bYSL em vUSDy através do processo de queima. Os tokens nativos gerados a partir da taxa de cunhagem vUSDy serão atribuídos da seguinte forma:
 
@@ -872,7 +872,7 @@ Eis como funciona: O protocolo calcula a contribuição de swap do utilizador (S
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ Explicador visual
 
 <p align="center" dir="auto">
   <picture>
@@ -957,7 +957,7 @@ Com esta estrutura de recompensa única, a Xenify é capaz de reforçar a procur
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ Explicador visual
 
 <p align="center" dir="auto">
   <picture>
@@ -1003,7 +1003,7 @@ Durante a fase de pré-implantação, enquanto o evento de lançamento aéreo es
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Visual Explainer
+## ◽️ Explicador visual
 
 <p align="center" dir="auto">
   <picture>
@@ -1356,7 +1356,7 @@ Bem-vindo ao Glossário Xenify, seu recurso de referência para entender os prin
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Swap Volume
+## ◽️ Volume de troca
   
   - O volume de swap refere-se ao valor total dos swaps de token executados na plataforma Xenify. Serve de base para a distribuição de tokens XNF aos utilizadores durante o ciclo de recompensa diário.
 
