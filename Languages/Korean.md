@@ -510,7 +510,7 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 - Optimism
 - Avalanche
 - Moonriver
-- OKX 체인
+- OKX Chain
 - PulseChain
 - Moonbeam
 
