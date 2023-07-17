@@ -1021,7 +1021,7 @@ Pendant la phase de pré-déploiement, alors que l'événement de largage est en
 
 <br>
 
-Voici [Phoenix Apes] (https://docs.ysl.io/protocol-features/Phoenix-NFT), le NFT exclusif à collectionner qui unit les communautés Xenify et YSL.IO. En possédant l'un de ces extraordinaires NFT, les utilisateurs de Xenify débloqueront un effet de combustion quotidien amplifié, augmentant de façon exponentielle leur nombre de lots jusqu'à 100 lors de la combustion de vXEN ou vUSDy. De plus, posséder ou louer un minimum de 4 de ces NFT très convoités vous permettra de bénéficier d'une amplification encore plus importante, votre portefeuille recevant un bonus quotidien pouvant aller jusqu'à 1 000 lots.
+Voici [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), le NFT exclusif à collectionner qui unit les communautés Xenify et YSL.IO. En possédant l'un de ces extraordinaires NFT, les utilisateurs de Xenify débloqueront un effet de combustion quotidien amplifié, augmentant de façon exponentielle leur nombre de lots jusqu'à 100 lors de la combustion de vXEN ou vUSDy. De plus, posséder ou louer un minimum de 4 de ces NFT très convoités vous permettra de bénéficier d'une amplification encore plus importante, votre portefeuille recevant un bonus quotidien pouvant aller jusqu'à 1 000 lots.
 
 En outre, les détenteurs du Phoenix NFT bénéficieront d'une série d'avantages supplémentaires. Ils auront notamment la possibilité de gagner des récompenses USDC toutes les 8 heures et de contourner le taux de sortie Sigma sur le protocole YSL.IO. Ces avantages supplémentaires renforcent l'engagement des utilisateurs tout en contribuant de manière significative à la croissance des écosystèmes Xenify et YSL.IO.
 
@@ -1059,11 +1059,11 @@ $$
 
 **Où:**
 
-- $BF$ (Burn Fee) - Frais facturés pour la fonction de combustion, payés en jetons natifs de la blockchain.
-- $FC$ (Burn Fee Coefficient) - Un coefficient pondéré par le temps utilisé pour tenir compte d'une réduction sur les frais de combustion.
-- $VB$ (Value of Batches) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion au fur et à mesure que la valeur des lots augmente.
-- $BC$ (Batch Coefficient) - Coefficient pondéré dans le temps utilisé pour tenir compte de la réduction basée sur les lots brûlés.
-- $NB$ (Number of Batches) - Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de combustion à mesure que le nombre de lots augmente. Ce nombre sera plafonné à 10 000 lots.
+- $BF$ (Frais de brûlage) - Frais facturés pour la fonction de combustion, payés en jetons natifs de la blockchain.
+- $FC$ (Coefficient de redevance de combustion) - Un coefficient pondéré par le temps utilisé pour tenir compte d'une réduction sur les frais de combustion.
+- $VB$ (Valeur des lots) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion au fur et à mesure que la valeur des lots augmente.
+- $BC$ (Coefficient de lot) - Coefficient pondéré dans le temps utilisé pour tenir compte de la réduction basée sur les lots brûlés.
+- $NB$ (Nombre de lots) - Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de combustion à mesure que le nombre de lots augmente. Ce nombre sera plafonné à 10 000 lots.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1428,7 +1428,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 **Liens:**
 
-- [Website](https://dbxen.org/)
+- [[Site web](https://dbxen.org/)
 - [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
 - [Code Source](https://github.com/deb0x/dbXenBurnerProject)
 - [Profil Twitter](https://twitter.com/DBXencrypto)
@@ -1468,7 +1468,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 ## ◽️Phoenix Ape NFTs
 
-- Opensea](https://opensea.io/collection/phoenix-ape-nft)
+- [Opensea](https://opensea.io/collection/phoenix-ape-nft)
 - [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 
 <br>
