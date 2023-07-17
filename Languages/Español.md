@@ -894,7 +894,7 @@ Los usuarios que deseen obtener una parte de las recompensas de la cadena nativa
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Unstaking XNF Tokens
+## ◽️ Unstaking XNF tokens
 
 Una vez completado el ciclo de staking elegido, los usuarios tienen la opción de retirar sus XNF tokens. Es importante señalar que los usuarios no pueden retirar sus XNF durante el periodo de bloqueo especificado. Sin embargo, los usuarios acumularán recompensas nativas de la cadena durante el periodo de bloqueo. Estas recompensas están directamente conectadas a su posición veXNF, y la potencia del veXNF de un usuario durante el ciclo de bloqueo determina su parte de cada distribución de recompensas.
 
@@ -904,7 +904,7 @@ La decisión de ampliar el ciclo de apuesta o retirar los tokens es totalmente d
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Reclamación de recompensas de la Cadena Nativa
+## ◽️ Reclamación de recompensas de la cadena nativa
 
 Xenify permite a los usuarios reclamar y retirar sin esfuerzo sus recompensas acumuladas de la cadena nativa según su conveniencia. Sin embargo, tenga en cuenta que se aplicará un claim fee del 25% al reclamar sus recompensas de cadena nativa.
 
@@ -914,13 +914,13 @@ Esta distribución única se produce durante la distribución diaria de recompen
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Reciclaje Recompensas Cadena Nativa
+## ◽️ Reciclar recompensas de la cadena nativa
 
-Descubre la forma más inteligente de maximizar tus recompensas con la función de reciclaje de Xenify. Si optas por reciclar tus recompensas de la cadena nativa, no solo evitarás la comisión de reclamación del 25 %, sino que también mejorarás tu posición en XNF, ya que todo tu saldo de recompensas se utiliza para participar en la quema diaria de vXEN.
+Descubre la forma más inteligente de maximizar tus recompensas con la función de reciclaje de Xenify. Si optas por reciclar tus recompensas de la cadena nativa, no solo evitarás el claim fee del 25 %, sino que también mejorarás tu posición en XNF, ya que todo tu saldo de recompensas se utiliza para participar en la quema/burn diaria de vXEN.
 
-Lo que diferencia a este proceso es la capacidad del protocolo para acuñar vXEN tokens equivalentes al valor de sus recompensas y deducir directamente la comisión de grabación de su saldo de recompensas. Esto significa que puedes quemar vXEN sin necesidad de obtener recompensas adicionales de la cadena nativa para cubrir la tasa de acuñación o de quema obligatoria, que suele ser necesaria en el proceso de quema por defecto.
+Lo que diferencia a este proceso es la capacidad que tiene el protocolo para mintear vXEN tokens equivalentes al valor de sus recompensas y deducir directamente el burn fee de tu saldo de recompensas. Esto significa que puedes quemar vXEN sin necesidad de obtener recompensas adicionales de la cadena nativa para cubrir el mint o burn fee obligatorio, que son necesarios en el proceso de quema por defecto.
 
-Al hacer uso de la función de reciclaje, también obtendrá acceso exclusivo a la distribución diaria de tokens nativos generados a partir de la comisión de reclamación del 25% de la plataforma. Esta comisión de reclamación se recaudará cada vez que un usuario decida reclamar sus recompensas de la cadena nativa. Al final del ciclo, los tokens nativos acumulados se distribuirán exclusivamente a los titulares de veXNF que hayan reciclado durante el ciclo. Cuantas más recompensas de la cadena nativa recicles dentro de un ciclo, mayor será tu parte para ese ciclo. Por ejemplo, si se reclaman recompensas de cadena nativa por valor de 100.000 dólares durante un ciclo y usted es el único poseedor de veXNF que recicla durante ese ciclo, recibirá la totalidad de los 25.000 dólares en tokens de cadena nativa generados por la tasa de reclamación al final del ciclo.
+Al hacer uso de la función de reciclaje, también obtendrá acceso exclusivo a la distribución diaria de tokens nativos generados a partir del claim fee de 25% de la plataforma. Esta comisión de reclamación se recaudará cada vez que un usuario decida reclamar sus recompensas de la cadena nativa. Al final del ciclo, los tokens nativos acumulados se distribuirán exclusivamente a los titulares de veXNF que hayan reciclado durante el ciclo. Cuantas más recompensas de la cadena nativa recicles dentro de un ciclo, mayor será tu parte para ese ciclo. Por ejemplo, si se reclaman recompensas de cadena nativa por valor de 100.000 dólares durante un ciclo y usted es el único poseedor de veXNF que recicla durante ese ciclo, recibirá la totalidad de los 25.000 dólares en tokens de cadena nativa generados por el claim fee al final del ciclo.
 
 Pero espera, ¡hay más! Como muestra de gratitud por su participación activa en el protocolo, los titulares de veXNF que reciclen sus recompensas durante un ciclo también podrán optar a una distribución exclusiva de XNF y XEN al final de cada ciclo. El protocolo adquirirá XNF y XEN de la liquidez propiedad del protocolo, retirando el 1% del total de tokens XNF LP y el 1% de los tokens XEN LP que se posean al final del ciclo. Los tokens nativos de la cadena obtenidos de los tokens LP retirados se utilizan entonces para comprar XNF y XEN, respectivamente. Estos tokens comprados, combinados con los tokens XNF y XEN retirados, se distribuyen posteriormente entre los poseedores de veXNF que hayan participado en el reciclaje de recompensas durante el ciclo anterior. En términos sencillos, cuantas más recompensas de la cadena nativa recicle durante un ciclo, mayor será su parte de los XNF y XEN adquiridos de la liquidez propiedad del protocolo.
 
