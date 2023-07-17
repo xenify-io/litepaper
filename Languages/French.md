@@ -1396,10 +1396,10 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 **Liens:**
 
-- Site web](https://ysl.io/)
-- Livre blanc](https://docs.ysl.io)
-- Profil Twitter](https://twitter.com/ysl_io)
-- Canal Telegram](https://t.me/ysl_io)
+- [Site web](https://ysl.io/)
+- [Livre blanc](https://docs.ysl.io)
+- [Profil Twitter](https://twitter.com/ysl_io)
+- [Canal Telegram](https://t.me/ysl_io)
 
 **Concepts influents:**
 
@@ -1411,16 +1411,16 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 **Liens:**
 
-- Site web](https://faircrypto.org)
+- [Site web](https://faircrypto.org)
 - [Litepaper](https://faircrypto.org/xencryptolp.pdf)
-- Code source](https://github.com/FairCrypto/XEN-crypto)
-- Profil Twitter](https://twitter.com/XEN_Crypto)
-- Canal Telegram](https://t.me/XENCryptoTalk)
+- [Code source](https://github.com/FairCrypto/XEN-crypto)
+- [Profil Twitter](https://twitter.com/XEN_Crypto)
+- [Canal Telegram](https://t.me/XENCryptoTalk)
 
 **Concepts influents:**
 
-- Principes de base] (https://faircrypto.org/xencryptolp.pdf)
-- [Preuve de participation] (https://faircrypto.org/xencryptolp.pdf)
+- [Principes de base](https://faircrypto.org/xencryptolp.pdf)
+- [Preuve de participation](https://faircrypto.org/xencryptolp.pdf)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1428,16 +1428,16 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 **Liens:**
 
-- Site web](https://dbxen.org/)
+- [Website](https://dbxen.org/)
 - [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
-- Code source](https://github.com/deb0x/dbXenBurnerProject)
-- Profil Twitter](https://twitter.com/DBXencrypto)
-- Canal Telegram](https://t.co/vprGbYeXqc)
+- [Code Source](https://github.com/deb0x/dbXenBurnerProject)
+- [Profil Twitter](https://twitter.com/DBXencrypto)
+- [Canal Telegram](https://t.co/vprGbYeXqc)
 
 **Concepts influents:**
 
-- Coût de la combustion] (https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
-- Distribution des jetons](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
+- [Coût de la combustion](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#costs-of-burning-usdxen)
+- [Distribution des jetons](https://dbxen.gitbook.io/dbxen-litepaper/dbxen-functionalities#usddxn-cycle-reward-distribution)
 
 <br>
 
