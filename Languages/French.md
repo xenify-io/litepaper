@@ -287,11 +287,11 @@ Une fois que vous possédez vUSDy, vous pouvez le brûler pour participer à la 
 
 <br>
 
-| Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion - Taux de conversion
+| Taux de conversion  | Taux de conversion   |
 |---------------------|----------------------|
-| USDy - 1 USDy = 1 vUSDy - 1 USDy = 1 vUSDy - 1 USDy = 1 vUSDy - 1 USDy = 1 vUSDy
-bYSL | 1 bYSL = 5 vUSDy | xYSL | 1 xYSL = 120 vUSDy | 1 xYSL = 1 vUSDy
-xYSL | 1 xYSL = 120 vUSDy | xYSL | 1 xYSL = 1 vUSDy | 1 xYSL = 1 vUSDy
+| USDy                | 1 USDy = 1 vUSDy     |
+| bYSL                | 1 bYSL = 5 vUSDy     |
+| xYSL                | 1 xYSL = 120 vUSDy   |
 
 <br>
 
