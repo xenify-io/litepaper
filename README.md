@@ -440,9 +440,9 @@ XNF is the lifeblood of the Xenify protocol, and features a limited total supply
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
