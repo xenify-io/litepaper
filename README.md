@@ -462,7 +462,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
-Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2112. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
+Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2461. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
 <br>
 
@@ -559,7 +559,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
   - Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
-  - Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly: 50% is distributed to users who burn vXEN or vUSDy tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2112.
+  - Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly: 50% is distributed to users who burn vXEN or vUSDy tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
 
   - Users are further incentivised through the platform's staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees.
 
