@@ -1016,40 +1016,49 @@ Selama fase pra-penyebaran, saat acara airdrop berlangsung, biaya swap 0,5% tida
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Memperkuat Luka Bakar
+# ◽️ Burn Amplifikasi
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Memperkenalkan [Phoenix Apes] (https://docs.ysl.io/protocol-features/Phoenix-NFT), koleksi NFT eksklusif yang menyatukan komunitas Xenify dan YSL.IO. Dengan memiliki salah satu NFT yang luar biasa ini, pengguna Xenify akan mendapatkan efek pembakaran harian yang diperkuat, yang secara eksponensial meningkatkan jumlah batch mereka hingga 100 saat membakar vXEN atau vUSDy. Selain itu, memiliki atau menyewa minimal 4 NFT yang sangat didambakan ini akan memberi Anda amplifikasi yang lebih besar, dengan dompet Anda menerima bonus harian hingga 1.000 batch.
+Memperkenalkan Burn Amplification Xenify, kesempatan eksklusif yang dikhususkan bagi pemilik Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic), atau pemilik [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). Melalui kepemilikan NFT langka ini, Anda akan membuka efek burn amplifikasi harian, yang akan meningkatkan jumlah batch Anda sebesar 100 kali lipat saat membakar vXEN atau vUSDy. Jika Anda memiliki atau menyewa setidaknya empat NFT yang sangat diincar ini, bersiaplah untuk amplifikasi yang bahkan lebih besar, karena dompet Anda akan menerima bonus harian sebesar 1000 batch.
 
-Selain itu, pemegang Phoenix NFT akan menikmati berbagai fasilitas tambahan. Ini termasuk peluang untuk mendapatkan hadiah USDC setiap 8 jam dan melewati Sigma Exit Rate pada protokol YSL.IO. Manfaat tambahan ini meningkatkan keterlibatan pengguna sekaligus memberikan kontribusi yang signifikan terhadap pertumbuhan ekosistem Xenify dan YSL.IO.
+Selain itu, pemegang Phoenix Ape NFT juga akan menikmati berbagai keuntungan ekstra. Ini termasuk kesempatan untuk mendapatkan penghargaan USDC setiap 8 jam sekali dan menghindari Sigma Exit Rate pada protokol YSL.IO. Manfaat tambahan ini meningkatkan keterlibatan pengguna sekaligus memberikan kontribusi signifikan bagi pertumbuhan ekosistem Xenify dan YSL.IO.
 
-Setiap dompet yang menyimpan NFT Phoenix Ape tunduk pada Kuota Keluar Mingguan (WOQ) yang mengizinkan satu transaksi keluar yang melibatkan NFT Phoenix Ape setiap 7 hari. Transaksi keluar termasuk mentransfer NFT Phoenix Ape ke dompet lain atau menjual NFT. Harap diperhatikan bahwa selama pembatasan WOQ berlaku, pemegang dompet masih diizinkan untuk menjembatani utilitas NFT Phoenix Ape mereka ke chain lain. Singkatnya, menjembatani utilitas NFT ke chain yang berbeda tidak memicu WOQ atau memengaruhi kemampuan pengguna untuk menjembatani utilitas NFT Phoenix Ape mereka.
+Setiap dompet yang memiliki Phoenix Ape NFT tunduk pada Weekly Outbound Quota (WOQ) yang mengizinkan satu transaksi keluar yang melibatkan Phoenix Ape NFT setiap 7 hari. Transaksi keluar termasuk mentransfer Phoenix Ape NFT ke dompet lain atau menjual NFT tersebut. Harap dicatat bahwa meskipun pembatasan WOQ berlaku, pemegang dompet masih diizinkan untuk menjembatani utilitas Phoenix Ape NFT mereka ke rantai lain. Singkatnya, menjembatani utilitas NFT ke rantai yang berbeda tidak memicu WOQ atau berdampak pada kemampuan pengguna untuk menjembatani utilitas Phoenix Ape NFT mereka. 
 
-Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dengan mudah dihubungkan ke chain mana pun yang diluncurkan Xenify. Dengan pengaturan ulang bonus burn Anda setiap hari, Anda akan memiliki kesempatan untuk mendapatkan keuntungan dari efek burn yang diperkuat di semua chain yang diluncurkan Xenify setiap hari!
+Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat Phoenix Ape NFT, dapat dengan lancar dijembatani ke rantai mana pun yang diluncurkan Xenify. Dengan reset bonus burn Anda setiap hari, Anda akan memiliki kesempatan untuk memetik manfaat dari efek burn yang diperkuat ini di semua rantai tempat Xenify meluncurkan secara harian!
+
+Untuk membuat Phoenix Apes dapat diakses oleh berbagai peserta, NFT ini akan tersedia secara eksklusif melalui lelang mingguan. Ini memastikan keadilan dan keterlibatan, memberi semua orang waktu yang cukup untuk mengamankan Phoenix Ape NFT mereka yang berharga. Lelang dimulai dengan penawaran pembukaan minimum hanya 10 bXNF (XNF asli untuk Rantai BNB). Ini berarti, jika belum ada tawaran yang ditempatkan, Anda dapat memulai lelang dengan penawaran minimum 10 bXNF. Jika sudah ada penawaran, penawaran Anda harus 2 bXNF lebih tinggi dari penawaran tertinggi saat ini atau 105% dari penawaran tertinggi saat ini, mana yang lebih besar.
+
+Setiap lelang mingguan berlangsung minimum 168 jam dan dilengkapi perpanjangan waktu penyangga 5 menit. Ini berarti bahwa jika penawaran ditempatkan dalam 5 menit terakhir lelang, 5 menit tambahan akan ditambahkan ke durasi, dengan lelang hanya berakhir ketika tidak ada penawaran yang ditempatkan dalam 5 menit terakhir dari waktu berakhir yang dijadwalkan. Ini memastikan bahwa lelang berikutnya tidak akan dimulai hingga lelang saat ini selesai, memberi semua orang kesempatan yang adil untuk berpartisipasi. Misalnya, mari kita katakan lelang diatur untuk berakhir pada pukul 12.00, dan penawaran ditempatkan pada pukul 11.59. Waktu berakhir akan diperpanjang hingga pukul 12.05, dan proses ini berlanjut hingga tidak ada penawaran dalam 5 menit terakhir, memberi setiap penawar kesempatan yang adil.
+
+Selain itu, begitu penawaran lebih tinggi ditempatkan selama lelang, penawar tertinggi sebelumnya akan menerima pengembalian penuh bXNF mereka. Ini menjamin keadilan di sepanjang proses, karena mereka dapat menggunakan bXNF mereka yang dikembalikan untuk menempatkan penawaran lain jika mereka memilih untuk melakukannya. Selain itu, 100% bXNF yang diperoleh dari pemenang lelang akan dibakar, yang lebih menguntungkan ekosistem Xenify.
+
+Setelah Anda memenangkan lelang, Anda dapat mengklaim Phoenix Ape NFT Anda, yang akan mencetak NFT unik Anda. Penting untuk dicatat bahwa hanya alamat dompet yang terkait dengan penawar pemenang yang dapat mengklaim Phoenix Ape NFT, memastikan keamanan tertinggi bagi semua peserta. Dan berikut detail penting lainnya: jika Anda adalah pemenang lelang yang beruntung, Anda perlu mengklaim Phoenix Ape NFT Anda sebelum berpartisipasi dalam lelang berikutnya. Mekanisme ini mencegah setiap peserta mengumpulkan NFT yang belum dicetak.
+
+**Mari kita jelajahi beberapa fitur unggulan yang membedakan Phoenix Ape NFT dari NFT konvensional:**
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Koleksi Terbatas
 
-Phoenix Apes, koleksi NFT eksklusif yang dikembangkan untuk YSL.IO, memiliki persediaan yang langka, yaitu hanya 520 buah. NFT yang banyak dicari ini telah dirancang secara cerdik dengan utilitas pada intinya. Tidak hanya memiliki kelangkaan yang khas, tetapi juga memberikan keuntungan luar biasa bagi pemegangnya dalam ekosistem YSL.IO.
+Phoenix Apes merupakan koleksi NFT yang dirancang untuk menyatukan komunitas Xenify dan YSL.IO. Koleksi NFT eksklusif yang dikembangkan oleh YSL.IO, hanya memiliki pasokan langka sebanyak 520. NFT yang sangat diincar ini secara cerdas dirancang dengan utilitas sebagai intinya. Mereka tidak hanya memiliki keunikan, tetapi juga memberikan manfaat luar biasa bagi para pemegangnya dalam ekosistem Xenify dan YSL.IO.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Efek Bakar yang Diperkuat Harian
+## ◽️ Efek Burn Amplifikasi Harian
 
-Pemegang Phoenix Ape NFT membuka efek pembakaran eksklusif yang diperkuat saat mereka memilih untuk membakar vXEN atau vUSDy di Xenify. Keuntungan unik ini memberdayakan pemegang NFT untuk mendapatkan bagian yang lebih besar dari distribusi harian XNF, sekaligus mendapatkan keuntungan dari diskon yang signifikan untuk biaya pembakaran mereka. Dengan menjembatani kedua komunitas, manfaat luar biasa ini memupuk persatuan dan mendorong pertumbuhan kedua protokol.
+Bersiaplah untuk melepaskan kekuatan Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), atau Class 2 APEX XENFT (Exotic) Anda di Xenify! Sebagai pemilik bangga NFT luar biasa ini, Anda mendapatkan akses ke efek burn amplifikasi eksklusif yang meningkatkan kontribusi burn Anda ke tingkat baru. Keunggulan unik ini memberdayakan pemegang NFT untuk mengamankan porsi harian distribusi XNF yang lebih besar, sekaligus mendapatkan diskon signifikan pada biaya burn mereka. Dengan menyatukan komunitas NFT luar biasa ini, efek burn amplifikasi ini mendorong persatuan dan mendorong pertumbuhan setiap ekosistem, menciptakan situasi win-win bagi semua pihak. 
 
-Begini cara kerjanya: Ketika pemegang Phoenix Ape NFT memutuskan untuk membakar vXEN atau vUSDy di Xenify, mereka akan mendapatkan bonus pembakaran harian yang menggandakan jumlah batch (NB) mereka. Bonus dibatasi hingga 100 batch harian per ID NFT. Setelah pengguna menggunakan semua 100 batch bonus harian yang dialokasikan ke NFT Phoenix Ape mereka, NFT tertentu tidak akan lagi menawarkan pembakaran yang diperkuat untuk hari itu.
+Begitu cara kerjanya: Ketika pemegang NFT memutuskan untuk membakar vXEN atau vUSDy di Xenify, mereka membuka bonus burn harian yang melipatgandakan jumlah batch (NB) mereka. Bonusnya dibatasi hingga 100 batch per hari per ID NFT. Setelah pengguna menggunakan semua 100 bonus batch harian yang dialokasikan untuk NFT mereka, NFT spesifik tersebut tidak akan lagi menawarkan burn yang diperkuat untuk hari itu.
 
-Mencari daya tembak ekstra? Kami punya berita fantastis! Dengan memiliki atau menyewa setidaknya 4 NFT yang sangat dicari ini, Anda akan mendapatkan keuntungan yang lebih besar, dengan dompet Anda menerima bonus harian sebesar 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang disediakan untuk masing-masing dari empat ID NFT Anda. Singkatnya, jika Anda memiliki 4 NFT, total bonus harian Anda akan dibatasi pada 1.000 batch, bukan 1.400 batch.
+Mencari kekuatan tambahan? Kami punya kabar bagus! Dengan memiliki atau menyewa setidaknya 4 NFT yang sangat diincar ini, Anda akan mendapatkan amplifikasi yang bahkan lebih besar, dengan dompet Anda menerima bonus harian sebesar 1.000 batch. Ini secara efektif menggantikan bonus batch harian default 100 yang dicadangkan untuk masing-masing dari keempat ID NFT Anda. Singkatnya, jika Anda memiliki 4 NFT, total bonus harian Anda akan dibatasi hingga 1.000 batch, bukan 1.400 batch.
+Ingat, semakin banyak batch yang Anda bakar, semakin banyak penghematan biaya bakar yang Anda dapatkan. Dengan memiliki 4 NFT, Anda bisa mencapai penghematan maksimum 75% dari biaya bakar Anda hanya dengan membakar 9.000 batch selama jam pertama siklus, bukan 10.000 seperti biasanya. Selain itu, dengan Phoenix Ape NFT memiliki pasokan terbatas 520, hanya bisa ada maksimum 130 alamat dompet yang bisa merebut kekuatan tambahan ini.
 
-Ingat, semakin banyak batch yang Anda bakar, semakin banyak Anda menghemat biaya pembakaran. Dengan memiliki 4 NFT, Anda dapat mencapai penghematan maksimum 75% dari biaya pembakaran dengan membakar hanya 9.000 batch selama satu jam pertama dalam satu siklus, bukan 10.000 batch seperti biasanya. Selain itu, dengan NFT Phoenix Ape yang memiliki persediaan terbatas sebanyak 520, hanya ada maksimal 130 alamat dompet yang dapat memanfaatkan daya tembak ekstra ini.
+Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dengan lancar dijembatani ke rantai manapun yang diluncurkan Xenify. Misalnya, Xenify berekspansi ke Polygon dan Anda memiliki 4 Phoenix Ape NFT. Setelah Anda menghabiskan bonus batch harian 1.000 Anda di Rantai BNB, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Polygon dan menikmati 1.000 bonus batch di sana. Dengan reset multiplier Anda setiap hari, Anda akan memiliki kesempatan untuk memetik manfaat dari efek burn amplifikasi ini di semua rantai tempat Xenify meluncurkan secara harian!
 
-Dan inilah bagian terbaiknya: Bonus batch harian Anda, baik Anda memiliki satu NFT atau empat NFT, dapat dihubungkan dengan mulus ke chain mana pun yang diluncurkan Xenify. Katakanlah Xenify berekspansi ke Ethereum dan Anda memiliki 4 NFT Phoenix Ape. Setelah Anda menghabiskan bonus 1.000 batch harian Anda di BNB Chain, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Ethereum dan menikmati 1.000 batch bonus di sana. Dengan pengali yang disetel ulang setiap hari, Anda akan memiliki kesempatan untuk menuai keuntungan dari efek burn yang diperkuat ini di semua chain yang diluncurkan Xenify setiap hari!
-
-Singkatnya, pemegang NFT Phoenix Ape tidak hanya menikmati peningkatan bagian dari distribusi XNF harian, tetapi juga mendapatkan diskon yang lebih besar untuk biaya pembakaran dengan membakar lebih banyak batch. Jumlah maksimum batch per transaksi dibatasi hingga 10.000 batch, dan diskon biaya pembakaran diwakili oleh istilah (1 - (NB x CS)) dalam rumus biaya pembakaran protokol:
+Secara ringkas, pemegang Phoenix Ape NFT tidak hanya menikmati peningkatan porsi distribusi XNF harian tetapi juga membuka diskon lebih besar pada biaya bakar dengan membakar sejumlah batch yang lebih besar. Jumlah batch maksimum per transaksi dibatasi hingga 10.000 batch, dan diskon biaya bakar diwakili oleh istilah (1 - (NB x CS)) dalam rumus biaya bakar protokol:
 
 <br>
 
@@ -1059,41 +1068,41 @@ $$
 
 **Di mana:**
 
-- $BF$ (Burn Fee) - Biaya yang dikenakan untuk fungsi pembakaran, dibayarkan dalam token asli blockchain.
-- $FC $ (Koefisien Biaya Bakar) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon pada biaya pembakaran.
-- $VB $ (Nilai Batch) - Nilai dolar dari batch yang dibakar oleh pengguna, yang mempengaruhi biaya pembakaran saat nilai batch meningkat.
-- $BC$ (Koefisien Batch) - Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.
-- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, yang memengaruhi diskon biaya pembakaran seiring dengan meningkatnya jumlah batch. Ini akan dibatasi pada 10.000 batch.
+- $BF$ (Biaya Bakar) - Biaya yang dikenakan untuk fungsi bakar, dibayar dalam token asli blockchain.
+- $FC$ (Koefisien Biaya Bakar) - Koefisien pembobot waktu yang digunakan untuk memperhitungkan diskon pada biaya bakar.
+- $VB$ (Nilai Batch) - Nilai dolar batch yang dibakar oleh pengguna, mempengaruhi biaya bakar karena nilai batch meningkat.
+- $BC$ (Koefisien Batch) - Koefisien pembobot waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.
+- $NB$ (Jumlah Batch) - Jumlah batch yang dibakar pengguna, mempengaruhi diskon biaya bakar karena jumlah batch meningkat. Ini akan dibatasi hingga 10.000 batch.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Contoh: Efek Bakar yang Diperkuat
+## ◽️ Contoh: Efek Burn Amplifikasi
 
-Mari kita cermati lebih dekat, bagaimana cara kerja burn yang diperkuat dalam berbagai skenario:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 Phoenix Ape NFT
-
-  - Setiap NFT Phoenix Ape dilengkapi dengan pengganda bonus harian yang dibatasi hingga 100 batch. Saat membakar sejumlah batch tertentu, protokol pertama-tama memverifikasi apakah ada NFT Anda yang memiliki saldo bonus. Jika ya, protokol akan menggunakan saldo bonus Anda untuk meningkatkan jumlah batch Anda.
-
-  - Misalnya, bayangkan Anda memiliki bonus harian 100 batch di NFT Anda dan memilih untuk membakar 10 batch. Protokol ini secara efektif akan menggandakan jumlah batch Anda menjadi 20 batch, dengan memanfaatkan 10 batch bonus harian Anda. Akibatnya, 10 batch dari bonus harian ID NFT Anda akan dikurangi, menyisakan 90 batch bonus untuk NFT tersebut pada hari itu.
-
-  - Namun, jika Anda memutuskan untuk membakar jumlah yang melebihi saldo bonus Anda, protokol akan menghabiskan seluruh saldo NFT Anda. Misalnya, jika saldo bonus harian Anda saat ini adalah 90 batch dan Anda memilih untuk membakar 5.000 batch, proses pembakaran akan menghitungnya sebagai 5.090 batch, menggunakan seluruh 90 batch dari saldo bonus NFT Anda. Akibatnya, 90 batch bonus yang dialokasikan ke ID NFT akan dihapus, sehingga tidak ada lagi bonus batch untuk NFT tersebut pada hari itu. Jangan khawatir, jumlah batch bonus Anda akan disetel ulang menjadi 100 pada hari berikutnya.
-
-  - Selain itu, Anda memiliki opsi untuk menjembatani utilitas NFT Anda ke chain lain yang telah diluncurkan Xenify. Dengan demikian, Anda dapat mengakses 100 batch bonus harian tambahan pada hari itu, yang secara efektif memberi Anda 200 batch bonus harian untuk NFT Anda. Misalnya, jika Anda telah menghabiskan bonus harian Anda di Rantai BNB, cukup jembatani utilitas NFT Anda ke Ethereum dan dapatkan 1.000 batch bonus harian di Ethereum. Proses ini dapat diulangi untuk setiap chain di mana Xenify telah digunakan.
+Mari kita lihat lebih dekat bagaimana burn amplifikasi bekerja dalam skenario yang berbeda:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Skenario 2: Jika Anda memiliki 4 atau lebih Phoenix Ape NFT
+## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), atau Class 2 APEX XENFT (Exotic):
 
-  - Jika Anda memiliki atau menyewa 4 Phoenix Ape NFT, membakar batch menjadi lebih bermanfaat. Dompet Anda akan menerima bonus harian sebesar 1.000 batch. Ini secara efektif menggantikan 100 batch bonus harian default yang disediakan untuk setiap ID NFT Anda. Singkatnya, jika Anda memiliki 4 atau lebih NFT di dompet Anda, total bonus harian Anda akan dibatasi hingga 1,000 batch untuk dompet tersebut. Ketika Anda memilih untuk membakar jumlah batch yang kurang dari bonus harian Anda saat ini, protokol akan menggandakan jumlah batch Anda dengan menggunakan jumlah yang setara.
+  - Setiap NFT diberikan bonus pengganda harian yang dibatasi hingga 100 batch. Ketika membakar sejumlah batch tertentu, protokol pertama-tama memverifikasi apakah salah satu NFT Anda memiliki saldo bonus. Jika ya, protokol akan menggunakan saldo bonus Anda untuk meningkatkan jumlah batch Anda.
 
-  - Misalnya, jika Anda memiliki 4 NFT dan bonus harian 1.000 batch, membakar 1 batch akan dihitung sebagai 2 batch selama proses pembakaran. Ini berarti bahwa 1 batch akan dipotong dari bonus NFT harian Anda, sehingga Anda akan mendapatkan 999 bonus batch untuk hari itu di chain tersebut.
+  - Sebagai contoh, bayangkan Anda memiliki bonus harian 100 batch pada NFT Anda dan memilih untuk membakar 10 batch. Protokol secara efektif akan melipatgandakan jumlah batch Anda menjadi 20 batch, dengan menggunakan 10 dari bonus batch harian Anda. Akibatnya, 10 batch dari bonus harian NFT ID Anda akan dikurangi, menyisakan 90 bonus batch untuk NFT itu pada hari itu.
 
-  - Di sisi lain, jika Anda memutuskan untuk membakar jumlah batch yang lebih besar dari bonus harian Anda saat ini, protokol akan menggunakan seluruh saldo bonus Anda. Katakanlah Anda memiliki 4 NFT dan bonus harian 1.000 batch. Jika Anda memilih untuk membakar setara dengan 6.000 batch, maka akan dihitung sebagai 7.000 batch selama proses pembakaran. Protokol akan menggunakan seluruh bonus 1.000 batch harian Anda untuk ini. Akibatnya, Anda tidak akan memiliki bonus batch yang tersisa untuk digunakan pada hari itu di chain tersebut. Namun jangan khawatir, setelah hari berikutnya dimulai, jumlah bonus batch Anda akan diatur ulang kembali ke 1.000.
+  - Namun, jika Anda memutuskan untuk membakar jumlah yang melebihi saldo bonus Anda, protokol akan menghabiskan seluruh saldo NFT Anda. Sebagai contoh, jika saldo bonus harian Anda saat ini adalah 90 batch dan Anda memilih untuk membakar 5.000 batch, proses bakar akan menghitungnya sebagai 5.090 batch, menggunakan seluruh 90 batch dari bonus NFT Anda. Akibatnya, 90 bonus batch yang dialokasikan ke ID NFT akan dihapus, menyisakan nol bonus batch untuk NFT itu pada hari itu. Jangan khawatir, jumlah batch bonus Anda akan direset menjadi 100 pada hari berikutnya.
 
-  - Selain itu, Anda dapat memilih untuk menjembatani utilitas 4 NFT Anda ke chain lain yang telah diluncurkan Xenify. Dengan melakukan ini, Anda dapat menggunakan 1.000 bonus harian tambahan pada hari itu, yang secara efektif memberi Anda 2.000 bonus harian. Misalnya, jika Anda telah menggunakan bonus harian Anda di Rantai BNB, Anda dapat dengan mudah menjembatani utilitas NFT Anda ke Ethereum dan menerima 1.000 batch bonus harian di Ethereum. Anda dapat mengulangi proses ini untuk setiap chain di mana Xenify telah digunakan.
+  - Selain itu, Anda memiliki pilihan untuk menjembatani utilitas NFT Anda ke rantai lain di mana Xenify telah meluncurkan. Dengan melakukan hal tersebut, Anda dapat mengakses 100 bonus batch harian tambahan pada hari itu, yang secara efektif memberi Anda 200 bonus batch harian untuk NFT Anda. Sebagai contoh, jika Anda telah menghabiskan bonus harian Anda di Rantai BNB, cukup jembatani utilitas NFT Anda ke Ethereum dan terima 1.000 bonus batch harian di Ethereum. Proses ini dapat diulang untuk setiap rantai tempat Xenify telah dideploy.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Skenario 2: Jika Anda memiliki 4 atau lebih Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), atau Class 2 APEX XENFT (Exotic):
+
+  - Jika Anda memiliki 4 NFT membakar batch menjadi lebih menguntungkan. Dompet Anda akan menerima bonus harian 1.000 batch. Ini secara efektif menggantikan bonus batch harian default 100 yang dicadangkan untuk masing-masing ID NFT Anda. Singkatnya, jika Anda memiliki 4 atau lebih NFT dalam dompet Anda, total bonus harian Anda akan dibatasi hingga 1.000 batch untuk dompet tersebut. Ketika Anda memilih untuk membakar sejumlah batch yang kurang dari bonus harian Anda saat ini, protokol akan melipatgandakan jumlah batch Anda dengan menggunakan jumlah yang setara.
+
+  - Sebagai contoh, jika Anda memiliki 4 NFT dan bonus harian 1.000 batch, membakar 1 batch akan dihitung sebagai 2 batch selama proses bakar. Ini berarti 1 batch akan dikurangi dari bonus NFT harian Anda, menyisakan 999 bonus batch untuk hari itu pada rantai tersebut.
+
+  - Di sisi lain, jika Anda memutuskan untuk membakar jumlah batch yang lebih besar daripada bonus harian Anda saat ini, protokol akan menggunakan seluruh saldo bonus Anda. Mari katakan Anda memiliki 4 NFT dan bonus harian 1.000 batch. Jika Anda memilih untuk membakar setara dengan 6.000 batch, ini akan dihitung sebagai 7.000 batch selama proses bakar. Protokol akan menggunakan seluruh bonus batch harian 1.000 Anda untuk ini. Akibatnya, Anda tidak akan memiliki sisa bonus batch yang dapat digunakan untuk hari tertentu pada rantai tersebut. Tetapi jangan khawatir, begitu hari berikutnya dimulai, hitungan bonus batch Anda akan direset kembali menjadi 1.000.
+
+  - Selain itu, Anda dapat memilih untuk menjembatani utilitas 4 NFT Anda ke rantai lain di mana Xenify telah meluncurkan. Dengan melakukan ini, Anda dapat menggunakan 1.000 bonus batch harian tambahan pada hari itu, yang secara efektif memberi Anda 2.000 bonus batch harian. Sebagai contoh, jika Anda telah menggunakan bonus harian Anda di Rantai BNB, Anda cukup menjembatani utilitas NFT Anda ke Ethereum dan menerima 1.000 bonus batch harian di Ethereum. Anda dapat mengulangi proses ini untuk setiap rantai di mana Xenify telah dideploy.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
