@@ -520,36 +520,36 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 <br>
 
-| Nom de la chaîne - Nom DEX - Appairage de liquidité - Nom de la chaîne - Nom DEX - Appairage de liquidité - Nom de la chaîne - Appairage de liquidité
+| Nom de la chaîne | Nom DEX - Appairage de liquidité | Nom de la chaîne |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC - [MojitoSwap](https://www.mojitoswap.finance) | kXNF-KCS - [Uniswap V3](https://www.mojitoswap.finance) | cXNF-CELO - [Uniswap V3](https://www.mojitoswap.finance)
-| KCC - [MojitoSwap](https://app.uniswap.org) | kXNF-KCS | Celo - [Uniswap V3](https://app.uniswap.org) | cXNF-CELO
-| Fusée - [SushiSwap](https://www.sushi.com) | fXNF-FUSE | Boba - [SushiSwap](https://www.sushi.com) | cXNF-CELO
-| Boba | [SushiSwap](https://www.sushi.com) | boXNF-BOBA
-Heco [MDEX](https://mdex.com) | hcXNF-HT | Telos [ApeSwap](https://mdex.com) | hcXNF-HT | hcXNF-FUSE
-| Heco - [MDEX](https://apeswap.finance) | hcXNF-HT | Telos - [ApeSwap](https://apeswap.finance) | tXNF-TELOS
-| Velas - [Wavelength](https://app.wavelength.exchange) | veXNF-VLX - [MDEX](https://app.wavelength.exchange) | veXNF-VLX - [MDEX](https://app.wavelength.exchange) | veXNF-VLX
-| Metis [Hummus Exchange] (https://www.hummus.exchange) | meXNF-METIS
-| Canto [Canto Dex] (https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO
-| Klaytn | [KlaySwap](https://klayswap.com) | kXNF-KLAY |
-| Evmos [SpaceSwap] (https://swap-evmos.spacefi.io) | coXNF-WEVMOS
-Aurora - [Polaris Finance](https://polarisfinance.io) | arXNF-ETH | Gnosis - [Balancer](https://polarisfinance.io) | arXNF-ETH | arXNF-ETH
-| Gnosis | [Balancer V2](https://balancer.finance) | gXNF-GNO |
-zkSync | [SyncSwap](https://syncswap.xyz) | zkXNF-ETH | zkXNF-ETH | zkSync | [SyncSwap](https://syncswap.xyz) | zkXNF-ETH
-| Cronos [VVS Finance](https://vvs.finance) | crXNF-CRO | Fantom [SpookySwap](https://vvs.finance) | crXNF-CRO
-| Fantom | [SpookySwap](https://spooky.fi) | fmXNF-FTM |
-| Polygone | [Uniswap V3](https://app.uniswap.org) | mXNF-MATIC
-| Arbitrum - [Uniswap V3](https://app.uniswap.org) - aXNF-ETH - aXNF-ETH - aXNF-ETH - aXNF-ETH
-| Ethereum - [Uniswap V3](https://app.uniswap.org) - XNF-ETH - Optimisme - [Uniswap V3](https://app.uniswap.org) - XNF-ETH
-| Optimisme | [Uniswap V3](https://app.uniswap.org) | oXNF-ETH
-| Avalanche [Trader Joe](https://traderjoexyz.com) | avXNF-AVAX
-Moonriver [Solarbeam](https://app.solarbeam.io/exchange/swap) | mrXNF-MOVR | OKX Chain [OKXNF-MOVR](https://app.solarbeam.io/exchange/swap) | mrXNF-MOVR | mrXNF-ETH
-| OKX Chain - [OKExSwap](https://www.okex.com/swap) | okXNF-OKT - [OKExSwap](https://www.okex.com/swap) | mrXNF-MOVR
-| Moonbeam | [Stellaswap](https://app.stellaswap.com/pulsar) | mbXNF-WGLMR | Chaîne BNB | [Apex](https://app.stellaswap.com/pulsar) | mrXNF-MOVR | mrXNF-MOVR
-| Chaîne BNB [ApeSwap](https://apeswap.finance) | bXNF-BNB | chaîne BNB [ApeSwap](https://apeswap.finance) | bXNF-WGLMR
-| PulseChain [PulseX](https://pulsex.com) | pXNF-PLS
-| Ethereum PoW | [Uniwswap](https://uniwswap.com) | vvXNF-WETH
-| Polygon zkEVM | [Quickswap](https://quickswap.exchange) | mkXNF-MATIC |
+| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
+| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
+| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
+| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
+| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
+| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
+| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
+| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
+| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
+| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
+| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
+| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
+| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
