@@ -335,90 +335,90 @@ L'approche innovante de Xenify en matière de staking et de récompenses, combin
 
 | Numérique | Agrégateur | Agrégateur de sites web |
 |-----|-------------------|------------------------------------|
-| 1 | LI.FI | https://li.fi |
-| 2 | 1inch | https://1inch.io |
-| 3 | Exolix | https://exolix.com |
-| 4 | Swing | https://swing.xyz |
-| 5 | Rango | https://rango.exchange |
-| 6 | Kucoin | https://www.kucoin.com |
-| 7 | Krystal | https://defi.krystal.app |
-| 8 | Matcha | https://matcha.xyz |
-| 9 | Firebird | https://firebird.finance |
-| 10 - DeSwap - https://app.debridge.finance - 11 - Binance - https://app.debridge.finance
-11 | Binance | https://www.binance.com | 12 | Voyager | https://www.binance.com | 11 | Binance | https://www.binance.com
-| 12 | Voyager | https://app.thevoyager.io/swap |
-| 13 | Paraswap | https://paraswap.io |
-| ThorSwap - https://app.thorswap.finance/swap - 15 - ChainHop - https://app.thorswap.finance/swap
-| 15 | ChainHop | https://chainhop.io |
-| 16 | Stealth EX | https://stealthex.io |
-| Changelly https://changelly.com
-| 18 | XY Finance | https://app.xy.finance |
-| 19 | KyberSwap | https://kyberswap.com |
-| 20 | OpenOcean | https://openocean.finance |
-| SimpleSwap - https://simpleswap.io - 22
-| 22 | CoinCraddle | https://coincraddle.com |
-| 23 | Squid Router | https://app.squidrouter.com |
-| 24 - ChangeNOW - https://changenow.io - 25 - Houdini Swap - https://changenow.io - 25 - Houdini Swap - https://changenow.io
-| Houdini Swap - https://houdiniswap.com - 26 Rubic Finance - https://houdiniswap.com
-| Rubic Finance https://rubic.finance
-| 27 | Chainge Finance | https://dapp.chainge.finance |
+| 1   | LI.FI             | https://li.fi                      |
+| 2   | 1inch             | https://1inch.io                   |
+| 3   | Exolix            | https://exolix.com                 |
+| 4   | Swing             | https://swing.xyz                  |
+| 5   | Rango             | https://rango.exchange             |
+| 6   | Kucoin            | https://www.kucoin.com             |
+| 7   | Krystal           | https://defi.krystal.app           |
+| 8   | Matcha            | https://matcha.xyz                 |
+| 9   | Firebird          | https://firebird.finance           |
+| 10  | DeSwap            | https://app.debridge.finance       |
+| 11  | Binance           | https://www.binance.com            |
+| 12  | Voyager           | https://app.thevoyager.io/swap     |
+| 13  | Paraswap          | https://paraswap.io                |
+| 14  | ThorSwap          | https://app.thorswap.finance/swap  |
+| 15  | ChainHop          | https://chainhop.io                |
+| 16  | Stealth EX        | https://stealthex.io               |
+| 17  | Changelly         | https://changelly.com              |
+| 18  | XY Finance        | https://app.xy.finance             |
+| 19  | KyberSwap         | https://kyberswap.com              |
+| 20  | OpenOcean         | https://openocean.finance          |
+| 21  | SimpleSwap        | https://simpleswap.io              |
+| 22  | CoinCraddle       | https://coincraddle.com            | 
+| 23  | Squid Router      | https://app.squidrouter.com        |
+| 24  | ChangeNOW         | https://changenow.io               |
+| 25  | Houdini Swap      | https://houdiniswap.com            |
+| 26  | Rubic Finance     | https://rubic.finance              |
+| 27  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
 ## ◽️ Chaînes prises en charge
 
-| Numérique | Type de chaîne | Nom de la chaîne | Site Internet de la chaîne
+| Numérique | Type de chaîne | Nom de la chaîne | Site Internet de la chaîne      |
 |-----|-------------------|---------------|---------------------------------------|
-| 1 | couche 1 | Sui | https://sui.io |
-| 2 | Couche 1 | EOS | https://eosnetwork.com |
-| 3 | Couche 1 | KCC | https://www.kcc.io |
-| 4 | Couche 1 | Fuse | https://fuse.io |
-| 5 | Couche 1 | Tron | https://tron.network |
-| 6 | Couche 1 | Kava | https://www.kava.io |
-| 7 | Couche 1 | Celo | https://celo.org |
-| 8. Couche 1. Heco. https://www.hecochain.com.
-| 9 | Couche 2 | Boba | https://boba.network |
-| 10 | Couche 1 | Beam | https://www.beam.mw |
-| 11 | Couche 1 | Velas | https://www.velas.com | 12 | Couche 1 | Tél.
-| 12 | Couche 1 | Telos | https://telos.net |
-| 13 | Couche 1 | Tezos | https://tezos.com |
-| 14 | Couche 2 | Metis | https://metis.io |
-Zcash | https://www.z.cash | 15 | Couche 1 | Zcash | https://www.z.cash | 16 | Couche 1 | Cantal
-| 16 | Couche 1 | Canto | https://canto.io |
-| 17 | Couche 1 | Aptos | https://aptoslabs.com |
-| 18 | Couche 1 | Klaytn | https://www.klaytn.com |
-| 19 | Couche 1 | Stellar | https://www.stellar.org |
-| 20 | Couche 1 | Evmos | https://evmos.dev |
-| 21 | Couche 2 | zkSync | https://zksync.io |
-| 22 | Couche 1 | Gnosis | https://gnosis.io |
-| 23 | Couche 1 | Aurora | https://aurora.dev |
-| 24 | Couche 1 | Solana | https://solana.com |
-| Ripple | https://ripple.com
-| 26 | Couche 1 | Bitcoin | https://bitcoin.org |
-| 27 | Couche 1 | Cronos | https://crypto.com/chain |
-| 28 - couche 1 - Fantom - https://fantom.foundation - couche 2 - bitcoin
-| 29 | Couche 1 | Filecoin | https://filecoin.io |
-| 30 | Couche 1 | Litecoin | http://litecoin.org |
-| 31 | Couche 1 | Monero | https://www.getmonero.org |
-| Couche 2 - Polygon - https://polygon.technology - Couche 1 - Monero - https://polygon.technology - Couche 2 - Polygon - https://polygon.technology - Couche 2 - Monero - https://polygon.technology
-| Couche 1 - Arweave - https://arweave.org - Couche 2 - Polygon - https://arweave.org - Couche 3 - Arweave - https://arweave.org - Couche 4 - Arweave - https://arweave.org
-| Couche 1 - Osmosis - https://osmosis.zone - Couche 2 - Polygon - https://osmosis.zone - Couche 3 - Arweave - https://osmosis.zone - Couche 4 - Osmosis - https://osmosis.zone
-| 35 | Couche 1 | Cardano | https://www.cardano.org |
-| Couche 1 - Arbitrum - https://arbitrum.io - 36 - Couche 2 - Arbitrum - https://arbitrum.io - 36 - 36 - 36 - 36 - 36 - 36 - 36 - 36 - 36 - 36
-| Couche 1 - Polkadot - https://polkadot.network
-| 38 | Couche 1 | Ethereum | https://ethereum.org |
-| 39 | Couche 2 | Optimisme | https://optimism.io |
-| 40 | Couche 1 | Avalanche | https://www.avax.network |
-| 41 | Couche 1 | Bitcoin SV | https://bitcoinsv.com |
-| Couche 1 - Bitcoin SV - https://www.bnbchain.org | Couche 1 - BNB Chain - https://www.bnbchain.org | Couche 2 - Bitcoin SV - https://www.bnbchain.org
-| 43 | Couche 2 | PulseChain | https://pulsechain.com |
-| Couche 1 - Chaîne OKEx - https://www.okex.com/okexchain - Couche 2 - Chaîne Pulse - https://www.okex.com/okexchain - Couche 3 - Chaîne Bitcoin - https://www.okex.com/okexchain
-| 45 | Couche 1 | Bitcoin Cash | https://www.bitcoincash.org |
-| Couche 1 - Bitcoin Cash - https://near.org | 46 - Protocole NEAR - https://near.org |
-| 47 | Couche 2 | Ethereum PoW | https://ethereumpow.org |
-| Couche 2 - Polygon zkEVM - https://zkevm.polygon.technology - Couche 2 - Ethereum PoW - https://zkevm.polygon.technology - Couche 2 - Polygon zkEVM - https://zkevm.polygon.technology
-| 49 | Parachain | Moonbeam | https://moonbeam.network |
-| 50 | Parachain | Moonriver | https://moonbeam.network/moonriver |
+| 1   | Layer 1           | Sui           | https://sui.io                        |
+| 2   | Layer 1           | EOS           | https://eosnetwork.com                |
+| 3   | Layer 1           | KCC           | https://www.kcc.io                    |
+| 4   | Layer 1           | Fuse          | https://fuse.io                       |
+| 5   | Layer 1           | Tron          | https://tron.network                  |
+| 6   | Layer 1           | Kava          | https://www.kava.io                   |
+| 7   | Layer 1           | Celo          | https://celo.org                      |
+| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 9   | Layer 2           | Boba          | https://boba.network                  |
+| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 11  | Layer 1           | Velas         | https://www.velas.com                 |
+| 12  | Layer 1           | Telos         | https://telos.net                     |
+| 13  | Layer 1           | Tezos         | https://tezos.com                     |
+| 14  | Layer 2           | Metis         | https://metis.io                      |
+| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 16  | Layer 1           | Canto         | https://canto.io                      |
+| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 21  | Layer 2           | zkSync        | https://zksync.io                     |
+| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 24  | Layer 1           | Solana        | https://solana.com                    |
+| 25  | Layer 1           | Ripple        | https://ripple.com                    |
+| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 32  | Layer 2           | Polygon       | https://polygon.technology            |
+| 33  | Layer 1           | Arweave       | https://arweave.org                   |
+| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 39  | Layer 2           | Optimism      | https://optimism.io                   |
+| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -500,19 +500,19 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 - Klaytn
 - Evmos
 - zkEVM
-- Aurore
+- Aurora
 - Gnosis
 - zkSync
 - Cronos
 - Fantom
-- Polygone
-- Arbitrage
-- Optimisme
+- Polygon
+- Arbitrum
+- Optimism
 - Avalanche
-- Lever de lune
-- Chaîne OKX
+- Moonriver
+- OKX Chain
 - PulseChain
-- Rayon de lune
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
