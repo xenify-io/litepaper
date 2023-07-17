@@ -7,7 +7,7 @@
 </p>
 
  <p align="center">
- Libere el potencial de los intercambios entre cadenas: ¡sin esfuerzo, eficientes y gratificantes!</p> <p
+ Libere el potencial de los intercambios entre cadenas: ¡sin esfuerzo, eficientes y gratificantes!</p>
  
 <p align="center">
 Simran Dhillon - Cofundadora - <a href="mailto:simran@xenify.io">simran@xenify.io</a>
