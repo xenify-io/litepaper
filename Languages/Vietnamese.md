@@ -455,7 +455,7 @@ Với tổng nguồn cung được giới hạn ở 22,6 triệu token XNF, đư
 
 - **1.500.000 XNF được dành riêng như một phần thưởng độc quyền dành cho những người tham gia hoán đổi:** Để khuyến khích sự tham gia, mỗi chuỗi sẽ có một phần thưởng độc quyền gồm 1.500.000 XNF dành cho những người thực hiện các hoán đổi trước khi triển khai XNF. Phần thưởng sẽ diễn ra vào ngày đầu tiên ra mắt, và sẽ được phân phối dưới dạng các token bị khóa, mở khóa dần dần trong 730 ngày.
 
-Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng nguyên tắc giảm đôi. Như minh họa trong biểu đồ đi kèm dưới đây, sau lần giảm đôi thứ 7, tốc độ phân bổ hàng ngày của Xenify ổn định, đảm bảo sản lượng ổn định 156,25 token XNF mỗi ngày cho đến khi đạt đến nguồn cung tối đa vào tháng 2112. Chiến lược sáng tạo này được thiết kế cẩn thận để đảm bảo phân phối nguồn cung công bằng, tập trung vào sự tham gia của người dùng lâu dài, nổi bật cam kết không lay chuyển của Xenify trong việc nuôi dưỡng một hệ sinh thái cân bằng và một cộng đồng tích cực.
+Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng nguyên tắc giảm đôi. Như minh họa trong biểu đồ đi kèm dưới đây, sau lần giảm đôi thứ 7, tốc độ phân bổ hàng ngày của Xenify ổn định, đảm bảo sản lượng ổn định 156,25 token XNF mỗi ngày cho đến khi đạt đến nguồn cung tối đa vào tháng 2461. Chiến lược sáng tạo này được thiết kế cẩn thận để đảm bảo phân phối nguồn cung công bằng, tập trung vào sự tham gia của người dùng lâu dài, nổi bật cam kết không lay chuyển của Xenify trong việc nuôi dưỡng một hệ sinh thái cân bằng và một cộng đồng tích cực.
 
 <br>
 
@@ -552,7 +552,7 @@ Xenify đang chuẩn bị bước lên sàn lớn, xem xét một loạt các bl
 
   - Mô hình khuyến khích của Xenify được thiết kế cẩn thận, cung cấp phần thưởng tương xứng cho những người dùng tăng cường sự tham gia với nền tảng. Cách tiếp cận như vậy thúc đẩy sự tham gia hơn nữa, vì người dùng có cơ hội nhận được các token XNF được phát hành mới tương ứng với hoạt động của họ trên nền tảng.
 
-  - Việc phân phối các token XNF theo chu kỳ một ngày, bắt đầu với quỹ thưởng 20.000 token XNF. Số lượng phân bổ hàng ngày này được chia đều: 50% được phân phối cho người dùng đốt token vXEN hoặc vUSDy, 50% còn lại dành cho những người đóng góp vào phí hoán đổi của nền tảng. Số lượng phát hành hàng ngày này sẽ mở rộng sang tất cả các chuỗi triển khai trong tương lai. Thông qua việc thực hiện mô hình giảm dần đôi, số lượng phát hành hàng ngày giảm dần, kết thúc với việc phân phối hoàn tất 22,6 triệu token XNF vào tháng 2112.
+  - Việc phân phối các token XNF theo chu kỳ một ngày, bắt đầu với quỹ thưởng 20.000 token XNF. Số lượng phân bổ hàng ngày này được chia đều: 50% được phân phối cho người dùng đốt token vXEN hoặc vUSDy, 50% còn lại dành cho những người đóng góp vào phí hoán đổi của nền tảng. Số lượng phát hành hàng ngày này sẽ mở rộng sang tất cả các chuỗi triển khai trong tương lai. Thông qua việc thực hiện mô hình giảm dần đôi, số lượng phát hành hàng ngày giảm dần, kết thúc với việc phân phối hoàn tất 22,6 triệu token XNF vào tháng 2461.
 
   - Người dùng được khuyến khích thêm thông qua cơ chế stake của nền tảng, cho phép họ tích lũy phần thưởng dưới dạng token gốc chuỗi cụ thể, chẳng hạn như ETH trên chuỗi Ethereum. Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify, cụ thể là từ phí hoán đổi và phí đốt.
 
@@ -997,85 +997,96 @@ Trong giai đoạn trước khi triển khai, trong khi sự kiện phân phối
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
-
 # ◽️ Tăng cường Đốt
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-Giới thiệu [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), bộ sưu tập NFT độc quyền kết hợp cộng đồng Xenify và YSL.IO. Bằng cách sở hữu một trong những NFT đặc biệt này, người dùng Xenify sẽ mở khóa hiệu ứng đốt hàng ngày được khuếch đại, tăng đột biến số lượng lô của họ lên đến 100 khi đốt vXEN hoặc vUSDy. Hơn nữa, việc sở hữu hoặc cho thuê tối thiểu 4 trong số những NFT được săn đón này sẽ mang lại cho bạn một hiệu ứng khuếch đại còn lớn hơn, với ví của bạn nhận được phần thưởng hàng ngày lên đến 1.000 lô.
+Giới thiệu chức năng tăng cường đốt tiền ảo của Xenify, một cơ hội được thiết kế đặc biệt dành riêng cho những chủ sở hữu XENFT hạng 1 APEX (Xunicorn), XENFT hạng 2 APEX (Exotic), hoặc [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). Thông qua quyền sở hữu những NFT hiếm này, bạn sẽ mở khóa hiệu ứng đốt tiền ảo tăng cường hàng ngày, nâng số lượng batch lên đến 100 khi đốt vXEN hoặc vUSDy. Nếu bạn sở hữu hoặc thuê ít nhất 4 trong số những NFT được săn đón này, hãy chuẩn bị cho một hiệu ứng tăng cường còn lớn hơn nữa, khi ví của bạn sẽ nhận được một khoản thưởng hàng ngày hào phóng là 1000 batch.
 
-Ngoài ra, những người nắm giữ NFT Phoenix sẽ được hưởng một loạt các quyền lợi bổ sung. Điều này bao gồm cơ hội kiếm thưởng USDC mỗi 8 giờ và bỏ qua Tỷ lệ Thoát Sigma trên giao thức YSL.IO. Những lợi ích bổ sung này nâng cao sự tham gia của người dùng đồng thời đóng góp đáng kể cho sự phát triển của cả hai hệ sinh thái Xenify và YSL.IO.
+Hơn nữa, những chủ sở hữu NFT Phoenix Ape sẽ được hưởng một loạt những quyền lợi bổ sung. Điều này bao gồm cơ hội kiếm thưởng USDC mỗi 8 giờ và bỏ qua Tỷ lệ Thoát Sigma trên giao thức YSL.IO. Những lợi ích bổ sung này tăng cường sự tham gia của người dùng đồng thời đóng góp đáng kể vào sự phát triển của cả hai hệ sinh thái Xenify và YSL.IO.
 
-Mỗi ví nắm giữ NFT Phoenix Ape phải tuân theo Hạn ngạch Giao dịch Ra hằng Tuần (WOQ) cho phép một giao dịch ra duy nhất liên quan đến NFT Phoenix Ape mỗi 7 ngày. Các giao dịch ra bao gồm chuyển một NFT Phoenix Ape sang ví khác hoặc bán NFT đó. Lưu ý rằng trong khi hạn chế WOQ có hiệu lực, người nắm giữ ví vẫn được phép chuyển tiện ích của NFT Phoenix Ape của họ sang chuỗi khác. Nói ngắn gọn, việc chuyển tiện ích của một NFT sang chuỗi khác không kích hoạt WOQ cũng không ảnh hưởng đến khả năng chuyển tiện ích NFT Phoenix Ape của người dùng. 
+Mọi ví giữ một NFT Phoenix Ape sẽ phải tuân thủ Hạn mức Giao dịch Ra Hàng tuần (WOQ) cho phép một giao dịch ra duy nhất liên quan đến NFT Phoenix Ape mỗi 7 ngày. Các giao dịch ra bao gồm chuyển một NFT Phoenix Ape sang ví khác hoặc bán NFT đó. Lưu ý rằng trong khi hạn chế WOQ có hiệu lực, người nắm giữ ví vẫn được phép bridge tiện ích của NFT Phoenix Ape(s) của họ sang một chuỗi khác. Nói ngắn gọn, việc bridge tiện ích của một NFT sang chuỗi khác không kích hoạt WOQ cũng không ảnh hưởng đến khả năng bridge tiện ích NFT Phoenix Ape(s) của người dùng.  
 
-Và đây là phần tốt nhất: Phần thưởng lô hàng ngày của bạn, cho dù bạn sở hữu một NFT hay bốn NFT, có thể được chuyển một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Với phần thưởng của bạn đặt lại mỗi ngày, bạn sẽ có cơ hội hưởng lợi từ hiệu ứng đốt được khuếch đại này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
+Và đây là phần tuyệt vời nhất: Khoản thưởng batch hàng ngày của bạn, cho dù bạn sở hữu một NFT hay bốn NFT Phoenix Ape, có thể được bridge một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Với khoản nhân đôi của bạn được reset mỗi ngày, bạn sẽ có cơ hội thu hoạch lợi ích từ hiệu ứng đốt tăng cường này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
+
+Để giúp nhiều người tham gia tiếp cận được Phoenix Apes, nó sẽ chỉ được cung cấp thông qua đấu giá hàng tuần. Điều này đảm bảo tính công bằng và tham gia, cho tất cả mọi người đủ thời gian để giành được NFT Phoenix Ape đáng mơ ước của họ. Cuộc đấu giá bắt đầu với mức giá khởi điểm chỉ 10 bXNF (XNF gốc trên BNB Chain). Điều này có nghĩa, nếu chưa có lời đặt giá nào, bạn có thể bắt đầu cuộc đấu giá với mức đặt cọc tối thiểu 10 bXNF. Nếu đã có những lời đặt giá hiện tại, lời đặt giá của bạn phải cao hơn 2 bXNF so với mức giá cao nhất hiện tại hoặc 105% mức giá cao nhất hiện tại, tùy theo mức nào cao hơn.
+
+Mỗi đợt đấu giá hàng tuần kéo dài tối thiểu 168 giờ và có thời gian kéo dài thêm 5 phút. Điều này có nghĩa là nếu một lời đặt giá được đặt trong 5 phút cuối cùng của cuộc đấu giá, thời gian sẽ được kéo dài thêm 5 phút nữa, với cuộc đấu giá chỉ kết thúc khi không có lời đặt giá nào trong 5 phút cuối cùng của thời gian dự kiến kết thúc. Điều này đảm bảo rằng không có cuộc đấu giá nào bắt đầu cho đến khi cuộc đấu giá hiện tại kết thúc, cho tất cả mọi người cơ hội công bằng để tham gia. Ví dụ, giả sử cuộc đấu giá dự kiến kết thúc vào 12:00 chiều, và một lời đặt giá được đặt vào 11:59 sáng. Thời gian kết thúc sẽ được kéo dài đến 12:05 chiều, và quá trình này tiếp tục cho đến khi không có lời đặt giá nào trong 5 phút cuối cùng, cung cấp cho mọi người đặt giá cơ hội công bằng.
+
+Hơn nữa, ngay khi một lời đặt giá cao hơn được đặt trong quá trình đấu giá, người đặt giá cao nhất trước đó sẽ được hoàn lại đầy đủ số bXNF của họ. Điều này đảm bảo tính công bằng trong suốt quá trình, vì họ có thể sử dụng lại số bXNF được hoàn lại của mình để đặt giá tiếp nếu muốn. Hơn nữa, 100% bXNF thu được từ người đặt giá thắng cuộc sẽ bị đốt, thêm lợi cho hệ sinh thái Xenify.
+
+Sau khi chiến thắng cuộc đấu giá, bạn có thể đòi quyền sở hữu NFT Phoenix Ape của mình, quá trình này sẽ khởi tạo NFT độc nhất của bạn. Điều quan trọng cần lưu ý là chỉ có địa chỉ ví liên kết với lời đặt giá chiến thắng mới có thể đòi quyền sở hữu NFT Phoenix Ape, đảm bảo tính bảo mật tối đa cho tất cả người tham gia. Và đây là một chi tiết quan trọng nữa: nếu bạn là người chiến thắng may mắn của cuộc đấu giá, bạn sẽ cần phải đòi quyền sở hữu NFT Phoenix Ape của mình trước khi tham gia các cuộc đấu giá tiếp theo. Cơ chế này ngăn bất kỳ người tham gia nào tích lũy các NFT chưa được khởi tạo.
+
+
+**Hãy khám phá một số tính năng nổi bật khiến NFT Phoenix Ape khác biệt so với các NFT thông thường:**
+
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Bộ sưu tập Giới hạn 
+## ◽️ Bộ sưu tập giới hạn 
 
-Phoenix Apes, bộ sưu tập NFT độc quyền được phát triển cho YSL.IO, có nguồn cung khan hiếm chỉ 520. Những NFT được săn đón này đã được thiết kế một cách thông minh với tiện ích là trọng tâm. Chúng không chỉ sở hữu những tính năng hiếm có riêng biệt, mà còn mang lại cho người nắm giữ những lợi ích đặc biệt trong hệ sinh thái YSL.IO.
+Phoenix Apes là một NFT sưu tập được thiết kế để kết nối các cộng đồng Xenify và YSL.IO. Bộ sưu tập NFT độc quyền do YSL.IO phát triển, chỉ có nguồn cung khan hiếm 520 mẫu. Những NFT được săn đón này đã được thiết kế tinh vi với tiện ích là trọng tâm. Chúng không chỉ sở hữu tính khan hiếm độc đáo, mà còn mang lại những lợi ích đặc biệt cho người nắm giữ chúng trong hệ sinh thái Xenify và YSL.IO.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png) 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Hiệu ứng Đốt Được Khuếch đại Hàng ngày
+## ◽️ Hiệu ứng đốt tiền ảo tăng cường hàng ngày
 
-Những người nắm giữ NFT Phoenix Ape mở khóa lợi thế đốt được khuếch đại độc quyền khi họ chọn đốt vXEN hoặc vUSDy trên Xenify. Lợi thế độc đáo này trao quyền cho những người nắm giữ NFT để đảm bảo phần lớn hơn trong việc phân phối XNF hàng ngày, đồng thời hưởng lợi từ các khoản giảm giá đáng kể trên phí đốt của họ. Bằng cách kết nối cả hai cộng đồng, lợi ích đặc biệt này thúc đẩy sự đoàn kết và thúc đẩy sự phát triển cho cả hai giao thức.
+Hãy chuẩn bị để giải phóng sức mạnh của NFT Phoenix Ape, XENFT cấp 1 APEX (Xunicorn), hoặc XENFT cấp 2 APEX (Exotic) của bạn trên Xenify! Là một chủ sở hữu tự hào của những NFT đáng chú ý này, bạn có quyền truy cập vào hiệu ứng đốt tăng cường độc quyền giúp đóng góp đốt của bạn lên một tầm cao mới. Lợi thế độc đáo này trao quyền cho người nắm giữ NFT để giành được phần lớn hơn trong việc phân phối XNF hàng ngày, đồng thời hưởng những giảm giá đáng kể trên phí đốt bằng cách đốt một lượng batch lớn hơn. Bằng cách kết nối cộng đồng của những NFT xuất sắc này, hiệu ứng đốt tăng cường thúc đẩy sự đoàn kết và thúc đẩy sự phát triển của mỗi hệ sinh thái, tạo ra một tình huống cùng có lợi cho tất cả các bên liên quan.
 
-Đây là cách nó hoạt động: Khi những người nắm giữ NFT Phoenix Ape quyết định đốt vXEN hoặc vUSDy trên Xenify, họ mở khóa phần thưởng đốt hàng ngày nhân đôi số lượng lô của họ (NB). Phần thưởng bị giới hạn ở 100 lô hàng ngày cho mỗi ID NFT. Một khi người dùng đã sử dụng hết 100 lô thưởng hàng ngày được phân bổ cho NFT Phoenix Ape của họ, NFT cụ thể đó sẽ không còn cung cấp đốt được khuếch đại cho ngày hôm đó.
+Đây là cách nó hoạt động: Khi người nắm giữ NFT quyết định đốt vXEN hoặc vUSDy trên Xenify, họ mở khóa khoản thưởng đốt hàng ngày nhân đôi số lượng batch của họ (NB). Khoản thưởng này được giới hạn ở 100 batch mỗi ngày cho mỗi ID NFT. Một khi người dùng đã sử dụng hết 100 batch thưởng hàng ngày được cấp cho NFT của họ, NFT cụ thể đó sẽ không còn cung cấp hiệu ứng đốt tăng cường cho ngày hôm đó.
 
-Đang tìm kiếm sức mạnh bổ sung? Chúng tôi có tin tuyệt vời! Bằng cách sở hữu hoặc cho thuê ít nhất 4 trong số những NFT được săn đón này, bạn sẽ được hưởng lợi từ sự khuếch đại thậm chí còn lớn hơn, với ví của bạn nhận được phần thưởng hàng ngày lên đến 1.000 lô. Điều này thay thế hiệu quả 100 lô thưởng hàng ngày dành cho mỗi trong bốn ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 NFT, tổng số lô thưởng hàng ngày của bạn sẽ bị giới hạn ở 1.000 lô, không phải 1.400 lô. 
+Đang tìm kiếm sức mạnh bổ sung? Chúng tôi có tin tuyệt vời! Bằng cách sở hữu hoặc thuê ít nhất 4 trong số các NFT được săn đón cao này, bạn sẽ được hưởng hiệu ứng tăng cường thậm chí còn lớn hơn nữa, với ví của bạn nhận được khoản thưởng hàng ngày là 1.000 batch. Điều này thay thế hiệu quả 100 batch thưởng hàng ngày được dành cho mỗi ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 NFT, tổng số batch thưởng hàng ngày của bạn sẽ bị giới hạn ở 1.000 batch, không phải 1.400 batch.
 
-Hãy nhớ rằng, bạn đốt càng nhiều lô, bạn càng tiết kiệm được nhiều phí đốt. Bằng cách nắm giữ 4 NFT, bạn có thể đạt được mức tiết kiệm tối đa 75% phí đốt chỉ bằng cách đốt 9.000 lô trong giờ đầu tiên của một chu kỳ thay vì 10.000 lô thông thường. Hơn nữa, với việc Phoenix Ape NFT chỉ có nguồn cung giới hạn 520, chỉ có tối đa 130 địa chỉ ví có thể nắm bắt được sức mạnh bổ sung này. 
+Hãy nhớ rằng, càng nhiều batch bạn đốt, bạn càng tiết kiệm được nhiều phí đốt. Bằng cách nắm giữ 4 NFT, bạn có thể đạt được mức tiết kiệm tối đa 75% phí đốt bằng cách chỉ đốt 9.000 batch trong giờ đầu tiên của một chu kỳ thay vì 10.000 batch thông thường. Hơn nữa, với nguồn cung giới hạn 520 NFT Phoenix Ape, chỉ có tối đa 130 địa chỉ ví có thể tận dụng sức mạnh bổ sung này.
 
-Và đây là phần tốt nhất: Phần thưởng lô hàng ngày của bạn, cho dù bạn có một NFT hay bốn NFT, có thể được chuyển một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Giả sử Xenify mở rộng sang Ethereum và bạn nắm giữ 4 NFT Phoenix Ape. Một khi bạn đã sử dụng hết 1.000 lô thưởng hàng ngày trên BNB Chain, bạn có thể dễ dàng chuyển tiện ích của NFT của mình sang Ethereum và tận hưởng 1.000 lô thưởng ở đó. Với bộ nhân của bạn đặt lại mỗi ngày, bạn sẽ có cơ hội hưởng lợi từ hiệu ứng đốt được khuếch đại này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
+Và đây là phần tốt nhất: Khoản thưởng batch hàng ngày của bạn, cho dù bạn có một NFT hay bốn NFT, có thể được bridge một cách liền mạch sang bất kỳ chuỗi nào mà Xenify ra mắt. Giả sử Xenify mở rộng sang Polygon và bạn nắm giữ 4 NFT Phoenix Ape. Sau khi đã sử dụng hết 1.000 batch thưởng hàng ngày trên BNB Chain, bạn có thể dễ dàng bridge tiện ích NFT của mình sang Polygon và nhận thêm 1.000 batch thưởng ở đó. Với việc nhân đôi của bạn được reset mỗi ngày, bạn sẽ có cơ hội hưởng lợi từ hiệu ứng đốt tăng cường này trên tất cả các chuỗi mà Xenify ra mắt hàng ngày!
 
-Tóm lại, những người nắm giữ NFT Phoenix Ape không chỉ được hưởng phần lớn hơn trong việc phân phối XNF hàng ngày mà còn mở khóa các khoản giảm giá lớn hơn trên phí đốt bằng cách đốt nhiều lô hơn. Số lượng lô tối đa trên mỗi giao dịch bị giới hạn ở 10.000 lô, và khoản giảm phí đốt được biểu thị bằng thuật ngữ (1 - (NB x BC)) trong công thức phí đốt của giao thức:
+Tóm lại, người nắm giữ NFT Phoenix Ape không chỉ được hưởng phần lớn hơn trong việc phân phối XNF hàng ngày mà còn mở khóa những giảm giá lớn hơn trên phí đốt bằng cách đốt nhiều batch hơn. Số lượng batch tối đa trên mỗi giao dịch bị giới hạn ở 10.000 batch, và khoản giảm trên phí đốt được thể hiện bởi thuật ngữ (1 - (NB x CS)) trong công thức tính phí đốt của giao thức:
 
 <br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))
+BF = (FC × VB) × (1 - (NB × BC)) 
 $$
 
 **Trong đó:**
 
-- $BF$ (Phí Đốt) - Phí tính cho chức năng đốt, thanh toán bằng mã thông báo gốc của blockchain.  
-- $FC$ (Hệ số Phí Đốt) - Hệ số được tính theo thời gian để tính giảm giá trên phí đốt.
-- $VB$ (Giá trị của các Lô) - Giá trị đô la của các lô mà người dùng đốt, ảnh hưởng đến phí đốt khi giá trị của các lô tăng lên.
-- $BC$ (Hệ số Lô) - Hệ số được tính theo thời gian để tính giảm giá dựa trên số lượng lô được đốt.  
-- $NB$ (Số lượng Lô) - Số lượng lô mà người dùng đốt, ảnh hưởng đến khoản giảm phí đốt khi số lượng lô tăng lên. Điều này sẽ bị giới hạn ở 10.000 lô.
+- $BF$ (Phí Đốt) - Phí tính cho chức năng đốt, thanh toán bằng token gốc của blockchain.
+- $FC$ (Hệ số Phí Đốt) - Hệ số tính theo thời gian được sử dụng để tính chiết khấu trên phí đốt.  
+- $VB$ (Giá trị của các Batch) - Giá trị đô la của các batch mà người dùng đốt, ảnh hưởng đến phí đốt khi giá trị của các batch tăng.
+- $BC$ (Hệ số Batch) - Hệ số tính theo thời gian được sử dụng để tính chiết khấu dựa trên các batch được đốt.
+- $NB$ (Số lượng Batch) - Số lượng batch mà người dùng đốt, ảnh hưởng đến khoản chiết khấu trên phí đốt khi số lượng batch tăng. Con số này sẽ bị giới hạn ở 10.000 batch.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Ví dụ: Hiệu ứng Đốt được Tăng cường 
+## ◽️ Ví dụ: Hiệu ứng đốt tăng cường  
 
-Hãy xem xét kỹ hơn cách đốt được tăng cường hoạt động trong các kịch bản khác nhau:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Kịch bản 1: Nếu bạn nắm giữ từ 1 đến 3 NFT Phoenix Ape
-
-- Mỗi NFT Phoenix Ape được trang bị bội số thưởng hàng ngày giới hạn ở 100 batch. Khi đốt một số lượng batch cụ thể, giao thức trước tiên xác minh xem bất kỳ NFT nào của bạn có dư số dư thưởng không. Nếu có, giao thức sẽ sử dụng số dư thưởng của bạn để tăng số lượng batch của bạn.
-
-- Ví dụ, hãy tưởng tượng bạn có số dư thưởng hàng ngày là 100 batch trên NFT của mình và chọn đốt 10 batch. Giao thức sẽ hiệu quả gấp đôi số lượng batch của bạn lên 20 batch, bằng cách sử dụng 10 trong số các batch thưởng hàng ngày của bạn. Do đó, 10 batch từ số dư thưởng hàng ngày của ID NFT đó sẽ bị trừ đi, để lại 90 batch thưởng cho NFT đó vào ngày hôm đó. 
-
-- Tuy nhiên, nếu bạn quyết định đốt một lượng vượt quá số dư thưởng của mình, giao thức sẽ tiêu thụ toàn bộ số dư của NFT của bạn. Ví dụ, nếu số dư thưởng hàng ngày hiện tại của bạn là 90 batch và bạn chọn đốt 5.000 batch, quá trình đốt sẽ tính là 5.090 batch, sử dụng hết 90 batch còn lại từ số dư thưởng của NFT của bạn. Kết quả là, 90 batch thưởng được phân bổ cho ID NFT sẽ bị xóa, để lại không còn batch thưởng nào cho NFT đó vào ngày hôm đó. Đừng lo lắng, số lượng batch thưởng của bạn sẽ được đặt lại về 100 vào ngày tiếp theo.
-
-- Ngoài ra, bạn có thể lựa chọn bridge tiện ích NFT của mình sang một chuỗi khác mà Xenify đã ra mắt. Bằng cách này, bạn có thể truy cập thêm 100 batch thưởng hàng ngày vào ngày đó, hiệu quả cấp cho bạn 200 batch thưởng hàng ngày cho NFT của bạn. Ví dụ, nếu bạn đã sử dụng hết số thưởng hàng ngày của mình trên BNB Chain, bạn chỉ cần bridge tiện ích NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Quá trình này có thể được lặp lại cho mỗi chuỗi mà Xenify đã được triển khai.
+Hãy xem xét kỹ hơn cách hoạt động của đốt tăng cường trong các kịch bản khác nhau:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ♦️ Kịch bản 2: Nếu bạn nắm giữ 4 hoặc nhiều hơn NFT Phoenix Ape
+## ♦️ Kịch bản 1: Nếu bạn nắm giữ từ 1 đến 3 NFT Phoenix Ape, XENFT cấp 1 APEX (Xunicorn) hoặc XENFT cấp 2 APEX (Exotic):
 
-- Nếu bạn sở hữu hoặc thuê 4 NFT Phoenix Ape, việc đốt batch trở nên còn thưởng hơn. Ví của bạn sẽ nhận được thưởng hàng ngày 1.000 batch. Điều này thực tế thay thế 100 batch thưởng hàng ngày mặc định được dành riêng cho mỗi ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 hoặc nhiều hơn NFT trong ví của mình, tổng số thưởng hàng ngày của bạn sẽ được giới hạn ở 1.000 batch cho ví đó. Khi bạn chọn đốt một lượng batch nhỏ hơn số thưởng hàng ngày hiện tại của mình, giao thức sẽ gấp đôi số lượng batch của bạn bằng cách sử dụng một lượng tương đương.
+  - Mỗi NFT được cấp một nhân đôi thưởng hàng ngày giới hạn ở 100 batch. Khi đốt một số lượng batch cụ thể, giao thức trước tiên xác minh xem bất kỳ NFT nào của bạn còn dư số dư thưởng hay không. Nếu có, giao thức sẽ sử dụng số dư thưởng của bạn để tăng số lượng batch của bạn.
 
-- Ví dụ, nếu bạn có 4 NFT và thưởng hàng ngày 1.000 batch, đốt 1 batch sẽ được tính là 2 batch trong quá trình đốt. Điều này có nghĩa là 1 batch sẽ bị trừ từ số thưởng NFT hàng ngày của bạn, để lại cho bạn 999 batch thưởng trong ngày đó trên chuỗi đó.
+  - Ví dụ, hãy tưởng tượng bạn có thưởng hàng ngày là 100 batch trên NFT của mình và quyết định đốt 10 batch. Giao thức sẽ nhân đôi hiệu quả số lượng batch của bạn lên 20 batch, bằng cách sử dụng 10 batch thưởng hàng ngày của bạn. Do đó, 10 batch từ số dư thưởng hàng ngày của ID NFT đó sẽ bị trừ đi, chỉ còn lại 90 batch thưởng cho NFT đó vào ngày hôm đó.
 
-- Mặt khác, nếu bạn quyết định đốt một lượng batch lớn hơn số thưởng hàng ngày hiện tại của mình, giao thức sẽ sử dụng toàn bộ số dư thưởng của bạn. Giả sử bạn có 4 NFT và thưởng hàng ngày 1.000 batch. Nếu bạn chọn đốt tương đương 6.000 batch, nó sẽ được tính là 7.000 batch trong quá trình đốt. Giao thức sẽ sử dụng toàn bộ số thưởng batch hàng ngày 1.000 của bạn cho việc này. Kết quả là, bạn sẽ không còn bất kỳ batch thưởng nào để sử dụng cho ngày cụ thể đó trên chuỗi đó. Nhưng đừng lo lắng, một khi ngày mới bắt đầu, số lượng batch thưởng của bạn sẽ đặt lại về 1.000.
+  - Tuy nhiên, nếu bạn quyết định đốt một lượng vượt quá số dư thưởng của mình, giao thức sẽ sử dụng toàn bộ số dư của NFT đó. Ví dụ, nếu số dư thưởng hàng ngày hiện tại của bạn là 90 batch và bạn chọn đốt 5.000 batch, quá trình đốt sẽ tính đó là 5.090 batch, sử dụng hết 90 batch còn lại từ số dư thưởng của NFT. Kết quả là, 90 batch thưởng được cấp cho ID NFT đó sẽ bị xóa, không còn batch thưởng nào cho NFT đó vào ngày hôm đó. Đừng lo lắng, số lượng batch thưởng của bạn sẽ được reset lại 100 vào ngày tiếp theo.
 
-- Ngoài ra, bạn có thể chọn bridge tiện ích của 4 NFT của mình sang một chuỗi khác mà Xenify đã ra mắt. Bằng cách này, bạn có thể sử dụng thêm 1.000 batch thưởng hàng ngày vào ngày đó, hiệu quả cung cấp cho bạn 2.000 batch thưởng hàng ngày. Ví dụ, nếu bạn đã sử dụng hết số thưởng hàng ngày của mình trên BNB Chain, bạn chỉ cần bridge tiện ích NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Bạn có thể lặp lại quy trình này cho mỗi chuỗi mà Xenify đã được triển khai.
+  - Ngoài ra, bạn có thể lựa chọn bridge tiện ích NFT của mình sang một chuỗi khác nơi Xenify đã ra mắt. Bằng cách đó, bạn có thể truy cập thêm 100 batch thưởng hàng ngày vào ngày hôm đó, hiệu quả cấp cho bạn 200 batch thưởng hàng ngày cho NFT của mình. Ví dụ, nếu bạn đã sử dụng hết thưởng hàng ngày trên BNB Chain, bạn chỉ cần bridge tiện ích NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Quá trình này có thể được lặp lại cho mỗi chuỗi nơi Xenify đã được triển khai.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Kịch bản 2: Nếu bạn nắm giữ 4 hoặc nhiều hơn NFT Phoenix Ape, XENFT cấp 1 APEX (Xunicorn) hoặc XENFT cấp 2 APEX (Exotic):
+
+- Nếu bạn nắm giữ 4 NFT, việc đốt batch trở nên còn mang lại lợi ích hơn. Ví của bạn sẽ nhận được thưởng hàng ngày là 1.000 batch. Điều này thay thế hiệu quả 100 batch thưởng hàng ngày được dành cho mỗi ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 hoặc nhiều hơn NFT trong ví của mình, tổng số batch thưởng hàng ngày của bạn sẽ bị giới hạn ở 1.000 batch cho ví đó. Khi bạn chọn đốt một lượng batch nhỏ hơn thưởng hàng ngày hiện tại của mình, giao thức sẽ nhân đôi số lượng batch của bạn bằng cách sử dụng một lượng tương đương.
+
+- Ví dụ, nếu bạn có 4 NFT và thưởng hàng ngày là 1.000 batch, việc đốt 1 batch sẽ được tính là 2 batch trong quá trình đốt. Điều này có nghĩa là 1 batch sẽ bị trừ từ thưởng NFT hàng ngày của bạn, chỉ còn lại 999 batch thưởng cho ngày đó trên chuỗi đó. 
+
+- Mặt khác, nếu bạn quyết định đốt một lượng batch lớn hơn thưởng hàng ngày hiện tại của mình, giao thức sẽ sử dụng toàn bộ số dư thưởng của bạn. Giả sử bạn có 4 NFT và thưởng hàng ngày là 1.000 batch. Nếu bạn chọn đốt tương đương 6.000 batch, nó sẽ được tính là 7.000 batch trong quá trình đốt. Giao thức sẽ sử dụng toàn bộ 1.000 batch thưởng hàng ngày của bạn cho việc này. Kết quả là, bạn sẽ không còn bất kỳ batch thưởng nào để sử dụng cho ngày cụ thể đó trên chuỗi đó. Nhưng đừng lo lắng, một khi ngày mới bắt đầu, số lượng batch thưởng của bạn sẽ được reset lại 1.000.
+
+- Ngoài ra, bạn có thể chọn bridge tiện ích của 4 NFT của mình sang một chuỗi khác mà Xenify đã ra mắt. Bằng cách này, bạn có thể sử dụng thêm 1.000 batch thưởng hàng ngày vào ngày đó, hiệu quả cung cấp cho bạn 2.000 batch thưởng hàng ngày. Ví dụ, nếu bạn đã sử dụng hết thưởng hàng ngày trên BNB Chain, bạn chỉ cần bridge tiện ích của NFT của mình sang Ethereum và nhận 1.000 batch thưởng hàng ngày trên Ethereum. Bạn có thể lặp lại quá trình này cho mỗi chuỗi mà Xenify đã triển khai.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
