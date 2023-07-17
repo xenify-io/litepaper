@@ -516,7 +516,7 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Liquidity Pools When Deployed
+## ◽️ XNF Caisses de liquidité en cas de déploiement
 
 <br>
 
@@ -653,11 +653,11 @@ $$
 
 **Où:**
 
-- $BF$ (Burn Fee) - Frais facturés pour la fonction de combustion, payés en jetons natifs de la blockchain.
-- $FC$ (Burn Fee Coefficient) - Un coefficient pondéré par le temps utilisé pour tenir compte d'une réduction sur les frais de combustion.
-- $VB$ (Value of Batches) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion au fur et à mesure que la valeur des lots augmente.
-- $BC$ (Batch Coefficient) - Coefficient pondéré dans le temps utilisé pour tenir compte de la réduction basée sur les lots brûlés.
-- $NB$ (Number of Batches) - Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de combustion à mesure que le nombre de lots augmente. Ce nombre sera plafonné à 10 000 lots.
+- $BF$ (Frais de brûlage) - Frais facturés pour la fonction de combustion, payés en jetons natifs de la blockchain.
+- $FC$ (Coefficient de redevance de combustion) - Un coefficient pondéré par le temps utilisé pour tenir compte d'une réduction sur les frais de combustion.
+- $VB$ (Valeur des lots) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion au fur et à mesure que la valeur des lots augmente.
+- $BC$ (Coefficient de lot) - Coefficient pondéré dans le temps utilisé pour tenir compte de la réduction basée sur les lots brûlés.
+- $NB$ (Nombre de lots) - Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de combustion à mesure que le nombre de lots augmente. Ce nombre sera plafonné à 10 000 lots.
 
 <br>
 
@@ -676,32 +676,32 @@ Comme le montre le tableau ci-dessous, le coefficient de frais de combustion com
 
 <br>
 
-| Coefficient de frais de combustion (CF)
+| Heure | Coefficient de frais de combustion (CF) |
 |------|---------------------------|
-| 1 | 50.00% |
-| 2 | 52.17% |
-| 3 | 54.35% |
-| 4 | 56.52% |
-| 5 | 58.70% |
-| 6 | 60.87% |
-| 7 | 63.04% |
-| 8 | 65.22% |
-| 9 | 67.39% |
-| 10 | 69.57% |
-| 11 | 71.74% |
-| 12 | 73.91% |
-| 13 | 76.09% |
-| 14 | 78.26% |
-| 15 | 80.43% |
-| 16 | 82.61% |
-| 17 | 84.78% |
-| 18 | 86.96% |
-| 19 | 89.13% |
-| 20 | 91.30% |
-| 21 | 93.48% |
-| 22 | 95.65% |
-| 23 | 97.83% |
-| 24 | 100.00% |
+| 1    | 50.00%                    |
+| 2    | 52.17%                    |
+| 3    | 54.35%                    |
+| 4    | 56.52%                    |
+| 5    | 58.70%                    |
+| 6    | 60.87%                    |
+| 7    | 63.04%                    |
+| 8    | 65.22%                    |
+| 9    | 67.39%                    |
+| 10   | 69.57%                    |
+| 11   | 71.74%                    |
+| 12   | 73.91%                    |
+| 13   | 76.09%                    |
+| 14   | 78.26%                    |
+| 15   | 80.43%                    |
+| 16   | 82.61%                    |
+| 17   | 84.78%                    |
+| 18   | 86.96%                    |
+| 19   | 89.13%                    |
+| 20   | 91.30%                    |
+| 21   | 93.48%                    |
+| 22   | 95.65%                    |
+| 23   | 97.83%                    |
+| 24   | 100.00%                   |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -713,32 +713,32 @@ Le tableau ci-dessous illustre l'évolution de la valeur du coefficient au cours
 
 <br>
 
-| Coefficient de lot (BC) | Heure | Coefficient de lot (BC)
+| Heure | Coefficient de lot (BC)  |
 |------|---------------------------|
-| 1 | 0.00005 |
-| 2 | 0.0000475 |
-| 3 | 0.000045 |
-| 4 | 0.0000425 |
-| 5 | 0.00004 |
-| 6 | 0.0000375 |
-| 7 | 0.000035 |
-| 8 | 0.0000325 |
-| 9 | 0.00003 |
-| 10 | 0.0000275 |
-| 11 | 0.000025 |
-| 12 | 0.0000225 |
-| 13 | 0.00002 |
-| 14 | 0.0000175 |
-| 15 | 0.000015 |
-| 16 | 0.0000125 |
-| 17 | 0.00001 |
-| 18 | 0.0000075 |
-| 19 | 0.000005 |
-| 20 | 0.0000025 |
-| 21 | 0 |
-| 22 | 0 |
-| 23 | 0 |
-| 24 | 0 |
+| 1    | 0.00005                   |
+| 2    | 0.0000475                 |
+| 3    | 0.000045                  |
+| 4    | 0.0000425                 |
+| 5    | 0.00004                   |
+| 6    | 0.0000375                 |
+| 7    | 0.000035                  |
+| 8    | 0.0000325                 |
+| 9    | 0.00003                   |
+| 10   | 0.0000275                 |
+| 11   | 0.000025                  |
+| 12   | 0.0000225                 |
+| 13   | 0.00002                   |
+| 14   | 0.0000175                 |
+| 15   | 0.000015                  |
+| 16   | 0.0000125                 |
+| 17   | 0.00001                   |
+| 18   | 0.0000075                 |
+| 19   | 0.000005                  |
+| 20   | 0.0000025                 |
+| 21   | 0                         |
+| 22   | 0                         |
+| 23   | 0                         |
+| 24   | 0                         |
 
 <br>
 
@@ -778,7 +778,7 @@ La comparaison de ces scénarios met en évidence les avantages qu'il y a à br�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mint Fee Manager
+## ◽️ Gestionnaire d'honoraires de la Monnaie
 
 La vente aux enchères quotidienne de Xenify est l'occasion idéale de mettre la main sur des jetons XNF, et tout ce dont vous avez besoin est d'avoir vXEN ou vUSDy. Le processus d'acquisition de ces jetons est simple : il suffit de brûler une variante du jeton XEN ou un jeton natif YSL.IO, respectivement. Il s'agit d'un processus transparent qui permet aux utilisateurs d'accéder à la vente aux enchères quotidienne et de sécuriser le XNF. Gardez à l'esprit que pendant le processus de combustion, il y a une Mint Fee obligatoire basée sur la valeur de marché actuelle des jetons brûlés.
 
@@ -794,7 +794,7 @@ Les 50 % restants de la Mint Fee sont destinés à créer des liquidités en XEN
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ vXEN Mint Fee
+## ◽️ vXEN Frais d'affranchissement
 
 Les frais de frappe du vXEN ne s'appliquent que lorsque vous brûlez une variante de jeton XEN pour obtenir du vXEN. Le mint fee est déterminé par la valeur de marché actuelle des tokens que vous brûlez. Les jetons natifs générés par les frais de frappe de la vXEN seront alloués comme suit :
 
@@ -843,7 +843,7 @@ $$
 - *BC* - représente la contribution de l'utilisateur.
 - *TCD* - représente la quantité totale de jetons XNF distribués au cours d'un cycle.
 - *UBB* - représente le nombre de lots brûlés par un utilisateur spécifique au cours d'un cycle.
-- TBB* - représente le nombre total de lots brûlés au cours d'un cycle par tous les utilisateurs.
+- *TBB* - représente le nombre total de lots brûlés au cours d'un cycle par tous les utilisateurs.
 
 <br>
 
@@ -914,7 +914,7 @@ Cette distribution unique a lieu lors de la distribution quotidienne des récomp
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Recycling Native Chain Rewards
+## ◽️ Recyclage Récompenses de la chaîne indigène
 
 Découvrez la manière intelligente de maximiser vos récompenses grâce à la fonction de recyclage de Xenify ! En choisissant de recycler vos récompenses de la chaîne native, vous éviterez non seulement les frais de réclamation de 25 %, mais vous augmenterez également votre position XNF, car l'intégralité de votre solde de récompenses est utilisée pour rejoindre la combustion quotidienne de vXEN.
 
