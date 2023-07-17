@@ -7,7 +7,7 @@
 </p>
 
  <p align="center">
- Libere el potencial de los intercambios entre cadenas: ¡sin esfuerzo, eficientes y gratificantes!</p>
+ Libere el potencial del cross-chain swapping: ¡sin esfuerzo, eficientes y gratificantes!</p>
  
 <p align="center">
 Simran Dhillon - Cofundadora - <a href="mailto:simran@xenify.io">simran@xenify.io</a>
@@ -127,31 +127,31 @@ En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición
 
 <br>
 
-Construido sobre una base de equidad, simplicidad, transparencia, empoderamiento del usuario e interoperabilidad, Xenify no se conforma con jugar al juego, sino que está aquí para sacudir las cosas y reescribir las reglas del juego. Con una potente amalgama de funciones innovadoras y centradas en el usuario, diseñadas para revolucionar la forma en que navegamos e interactuamos a través de múltiples cadenas, Xenify es algo más que una simple incorporación al ecosistema XEN. Profundicemos en algunas de las características más destacadas que distinguen a Xenify de los protocolos convencionales.
+Construido sobre una base de equidad, simplicidad, transparencia, empoderamiento del usuario e interoperabilidad, Xenify no se conforma con jugar al juego, sino que está aquí para sacudir las cosas y reescribir las reglas del mismo. Con una potente amalgama de funciones innovadoras centradas en el usuario, diseñadas para revolucionar la forma en que navegamos e interactuamos a través de múltiples cadenas, Xenify es algo más que una simple incorporación al ecosistema XEN. Profundicemos en algunas de las características más destacadas que distinguen a Xenify de los protocolos convencionales.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Principios de Xenify
 
-Xenify se distingue en el espacio DeFi por su compromiso inquebrantable con la equidad, la simplicidad, la transparencia, el empoderamiento del usuario y la interoperabilidad. Estos principios rectores son la base del desarrollo y crecimiento de Xenify, y nos impulsan a revolucionar la experiencia DeFi y crear un ecosistema más inclusivo, accesible e interconectado.
+Xenify se distingue en el espacio DeFi por su compromiso inquebrantable con la equidad, la simplicidad, la transparencia, el empoderamiento del usuario y la interoperabilidad. Estos principios centrales son la base del desarrollo y crecimiento de Xenify, y nos impulsan a revolucionar la experiencia DeFi y crear un ecosistema más inclusivo, accesible e interconectado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Capacidades avanzadas de agregación entre cadenas
 
-Con Xenify, el intercambio entre cadenas nunca ha sido tan fluido y eficiente, rompiendo barreras y fomentando un ecosistema DeFi más interconectado. Una característica destacada que diferencia a Xenify del resto es que somos un metaagregador de agregadores entre cadenas. Aunque el término pueda sonar complejo, simplemente significa que reunimos múltiples agregadores de cadenas cruzadas en una única plataforma. Aprovechando nuestro avanzado protocolo de agregación de liquidez, somos capaces de transformar la forma en que los usuarios realizan la transición entre redes de blockchain. Además, los usuarios tienen la oportunidad de ganar tokens nativos de las respectivas cadenas a diario, mejorando aún más su cartera. Con acceso a tarifas competitivas y liquidez excepcional de 27 agregadores a través de 50 cadenas, nuestros usuarios disfrutan de beneficios sin precedentes y una mayor flexibilidad en la gestión de sus activos.  
+Con Xenify, cross-chain swapping nunca ha sido tan fluido y eficiente, rompiendo barreras y fomentando un ecosistema DeFi más interconectado. Una característica destacada que diferencia a Xenify del resto es que somos un meta-agregador de agregadores cross-chain. Aunque el término pueda sonar complejo, simplemente significa que reunimos múltiples agregadores cross-chain en una única plataforma. Aprovechando nuestro avanzado protocolo de agregación de liquidez, somos capaces de transformar la forma en que los usuarios realizan la transición entre redes de blockchain. Además, los usuarios tienen la oportunidad de ganar tokens nativos de las respectivas cadenas a diario, mejorando aún más su cartera. Con acceso a tarifas competitivas y liquidez excepcional de 27 agregadores a través de 50 cadenas, nuestros usuarios disfrutan de beneficios sin precedentes y una mayor flexibilidad en la gestión de sus activos.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Énfasis en el capital y la inversión a largo plazo
 
-Xenify pone gran énfasis en la equidad y las inversiones a largo plazo. Creemos en permitir a nuestros usuarios cosechar las recompensas del crecimiento de nuestro protocolo y la apreciación del valor del token. Al tener una participación en Xenify, los usuarios tienen la oportunidad de convertirse en parte de nuestro éxito y potencialmente generar ingresos pasivos a través de la estaca XNF. Para lograr esto, hemos desarrollado una serie de características robustas diseñadas para maximizar sus beneficios como usuario de Xenify:
+Xenify pone gran énfasis en la equidad y las inversiones a largo plazo. Creemos en permitir a nuestros usuarios cosechar recompensas del crecimiento de nuestro protocolo y la apreciación del valor del token. Al tener una participación en Xenify, los usuarios tienen la oportunidad de convertirse en parte de nuestro éxito y potencialmente generar ingresos pasivos a través del staking de su XNF. Para lograr esto, hemos desarrollado una serie de características robustas diseñadas para maximizar sus beneficios como usuario de Xenify:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Estacar
+## ♦️ Staking
 
-- Xenify introduce un sistema dinámico de recompensas que ofrece ventajas significativas a los apostadores de XNF. Al apostar tokens XNF, los usuarios pueden optar a recibir un impresionante 100% de las comisiones por quema y canje generadas en las cadenas soportadas, todos los días.
+- Xenify introduce un sistema dinámico de recompensas que ofrece ventajas significativas a los stakers de XNF. Al stakear tokens XNF, los usuarios pueden optar a recibir un impresionante 100% de los burn fees y swap fees generadas en las cadenas soportadas, todos los días.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
