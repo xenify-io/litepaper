@@ -87,13 +87,13 @@ Pero Xenify es más que un protocolo: es una comunidad. Nos apasiona capacitar a
 
 <br>
 
-En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición nos ha llevado a perseguir el audaz objetivo de revolucionar el intercambio de tokens entre cadenas. Guiados por nuestros firmes valores fundamentales, tenemos la misión de construir una experiencia transformadora que elimine barreras, amplíe la accesibilidad y empodere a los usuarios de todo el mundo. Como parte integral del ecosistema XEN, Xenify es inquebrantable en su dedicación a nutrir una comunidad vibrante que comparte nuestra visión de un futuro brillante y descentralizado. Nos esforzamos constantemente por elevar nuestros estándares y mantenemos el compromiso de defender los Primeros Principios de Crypto en todos nuestros esfuerzos:
+En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición nos ha llevado a perseguir el audaz objetivo de revolucionar el intercambio de tokens entre cadenas. Guiados por nuestros valores centrales, tenemos la misión de construir una experiencia transformadora que elimine barreras, amplíe la accesibilidad y empodere a los usuarios de todo el mundo. Como parte integral del ecosistema XEN, Xenify está centrado en su dedicación por nutrir una comunidad vibrante que comparte nuestra visión de un futuro brillante y descentralizado. Nos esforzamos constantemente por elevar nuestros estándares y mantenemos el compromiso de defender los Primeros Principios de Crypto en todos nuestros esfuerzos:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Equidad
   
-  - Creemos en la creación de un campo de juego justo y equitativo en el que todos los usuarios tengan las mismas oportunidades de prosperar. Xenify promueve la distribución equitativa de tokens y garantiza la igualdad de acceso al protocolo, sin dejar lugar a favoritismos hacia fundadores, miembros del equipo o inversores.
+  - Creemos en la creación de un campo de juego justo y equitativo en el que todos los usuarios tengan las mismas oportunidades para prosperar. Xenify promueve la distribución equitativa de tokens y garantiza la igualdad de acceso al protocolo, sin dejar lugar a favoritismos hacia fundadores, miembros del equipo o inversores.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -111,13 +111,13 @@ En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición
 
 ## ◽️ Interoperabilidad
 
-  - Adoptamos la diversidad y la innovación como motores del ecosistema DeFi. Salvando las distancias entre varias cadenas, Xenify aprovecha las capacidades entre cadenas para permitir interacciones fluidas y ampliar el alcance del protocolo, desbloqueando infinitas posibilidades.
+  - Adoptamos la diversidad y la innovación como motores del ecosistema DeFi. Creando una conexión entre varias cadenas, Xenify aprovecha las capacidades cross-chain para permitir interacciones fluidas y ampliar el alcance del protocolo, desbloqueando infinitas posibilidades.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Capacitación del usuario
 
-  - Empoderamos a nuestros usuarios para que tomen el control de su patrimonio, gobernanza y crecimiento. Xenify permite a los usuarios acuñar sus propios tokens, tener voz en la dirección del protocolo y compartir su éxito. Nuestros usuarios no son meros pasajeros en este viaje: son una parte esencial del mismo y tienen el poder de dirigir su propio rumbo.
+  - Empoderamos a nuestros usuarios para que tomen el control de su patrimonio, gobernanza y crecimiento. Xenify permite el minting a los usuarios de sus propios tokens, tener voz en la dirección del protocolo y compartir su éxito. Nuestros usuarios no son meros pasajeros en este viaje: son una parte esencial del mismo y tienen el poder de dirigir su propio rumbo.
 
 <br>
 
