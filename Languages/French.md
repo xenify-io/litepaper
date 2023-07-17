@@ -755,7 +755,7 @@ Examinons de plus près le fonctionnement de la remise pour frais de brûlure po
 <br>
 
 $$
-FB = (0,5 fois 5 000) fois (1 - (10 000 fois 0,00005)) = 1 250
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250
 $$
 
 <br>
@@ -769,7 +769,7 @@ $$
 <br>
 
 $$
-BF = (1 fois 5 000) \Nfois (1 - (10 000 \Nfois 0)) = 5 000
+BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250
 $$
 
 <br>
