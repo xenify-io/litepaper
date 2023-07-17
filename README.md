@@ -1021,33 +1021,42 @@ During the pre-deployment phase, while the airdrop event is ongoing, the 0.5% sw
 
 <br>
 
-Introducing [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), the exclusive NFT collectable that unites the Xenify and YSL.IO communities. By owning one of these extraordinary NFTs, users of Xenify will unlock a daily amplified burn effect, exponentially boosting their batch count by up to 100 when burning vXEN or vUSDy. Moreover, owning or renting a minimum of 4 of these highly coveted NFTs will grant you an even greater amplification, with your wallet receiving a daily bonus of up to 1,000 batches.
+Introducing Xenify's burn amplification, an opportunity exclusively tailored for Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic), or [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT) owners. Through ownership of these rare NFTs, you'll unlock a daily amplified burn effect, boosting your batch count by a staggering 100 when burning vXEN or vUSDy. If you own or rent, at least, four of these sought-after NFTs, prepare yourself for an even bigger amplification, as your wallet will receive a generous daily bonus of 1000 batches.
 
-Furthermore, holders of the Phoenix NFT will enjoy a range of extra perks. This includes the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
+Furthermore, holders of the Phoenix Ape NFT will enjoy a range of extra perks. This includes the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
 
 Every wallet that holds a Phoenix Ape NFT is subject to a Weekly Outbound Quota (WOQ) that permits a single outbound transaction involving a Phoenix Ape NFT every 7 days. Outbound transactions include transferring a Phoenix Ape NFT to another wallet or selling the NFT. Please note that while the WOQ restriction is in effect, wallet holders are still permitted to bridge the utility of their Phoenix Ape NFT(s) to another chain. In short, bridging the utility of an NFT to a different chain neither triggers the WOQ nor impacts the user's ability to bridge their Phoenix Ape NFT(s) utility.
 
-And here's the best part: Your daily batch bonus, whether you possess one NFT or four NFTs, can seamlessly be bridged to any chain that Xenify launches. With your burn bonus resetting each day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
+And here's the best part: Your daily batch bonus, whether you possess one NFT or four Phoenix Ape NFTs, can seamlessly be bridged to any chain that Xenify launches. With your burn bonus resetting each day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
+
+To make the Phoenix Apes accessible to a wide range of participants, it will be made available exclusively through a weekly auction. This ensures fairness and engagement, giving everyone ample time to secure their prized Phoenix Ape NFT. The auction starts with a minimum starting bid of just 10 bXNF (XNF native to the BNB Chain). This means, if no bids have been placed yet, you can kick off the auction with a minimum bid of 10 bXNF. If there are existing bids, your bid must be either 2 bXNF higher than the current highest bid or 105% of the current highest bid, whichever is greater.
+
+Each weekly auction lasts a minimum of 168 hours and features a time buffer extension of 5 minutes. This means that if a bid is placed within the last 5 minutes of the auction, an additional 5 minutes will be added to the duration, with the auction only ending when no bids are placed within the last 5 minutes of the scheduled end time. This ensures that no auction will start until the current one concludes, giving everyone a fair chance to participate. For instance, let’s say the auction is set to end at 12:00 pm, and a bid is placed at 11:59 am. The end time will be extended to 12:05 pm, and this process continues until there are no bids within the last five minutes, providing every bidder with a fair opportunity.
+
+Once you win the auction, you can claim your Phoenix Ape NFT, which mints your unique NFT. It's important to note that only the wallet address associated with the winning bid can claim the Phoenix Ape NFT, ensuring utmost security for all participants. And here's another important detail: if you're the lucky auction winner, you'll need to claim your Phoenix Ape NFT before participating in subsequent auctions. This mechanism prevents any single participant from accumulating unminted NFTs.
+
+We also want to ensure a positive experience for everyone, even if they don't win the auction. That's why as soon as a higher bid is placed during the auction, the previous highest bidder receives a full refund of their bXNF. This guarantees fairness throughout the process, as they can use their refunded bXNF to place another bid if they choose to do so. Moreover, 100% of the bXNF acquired from the winning bidder will be burned, further benefiting the Xenify ecosystem.
+
+**Let's explore some of the standout features that set Phoenix Ape NFTs apart from conventional NFTs:**
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Limited Collectible
 
-The Phoenix Apes, an exclusive NFT collection developed for YSL.IO, boasts a scarce supply of just 520. These sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess distinctive rarities, but they also grant the holder exceptional benefits within the YSL.IO ecosystem.
+The Phoenix Apes is an NFT collectible that has been designed to unite the Xenify and YSL.IO communities. The exclusive NFT collection developed by YSL.IO, boasts a scarce supply of just 520. These sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess unique rarities, but they also bestow exceptional benefits upon their holders within the Xenify and YSL.IO ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Daily Amplified Burn Effect
 
-Phoenix Ape NFT holders unlock an exclusive amplified burn effect when they choose to burn vXEN or vUSDy on Xenify. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging both communities, this exceptional benefit fosters unity and fuels growth for both protocols.
+Prepare to unleash the power of your Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), or Class 2 APEX XENFT (Exotic) on Xenify! As a proud owner of these remarkable NFTs, you gain access to an exclusive amplified burn effect that takes your burn contribution to new heights. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging the communities of these exceptional NFTs, this amplified burn effect fosters unity and fuels the growth of each ecosystem, creating a win-win situation for all involved.
 
-Here's how it works: When Phoenix Ape NFT holders decide to burn vXEN or vUSDy on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their Phoenix Ape NFT, that specific NFT will no longer offer an amplified burn for that day.
+Here's how it works: When NFT holders decide to burn vXEN or vUSDy on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their NFT, that specific NFT will no longer offer an amplified burn for that day.
 
 Looking for extra firepower? We've got fantastic news! By owning or renting at least 4 of these highly sought-after NFTs, you'll benefit from even greater amplification, with your wallet receiving a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your four NFT IDs. In short, if you hold 4 NFTs, your total daily bonus will be capped at 1,000 batches, not 1,400 batches.
-
 Remember, the more batches you burn, the more you save on burn fees. By holding 4 NFTs, you can achieve maximum savings of 75% off your burn fees by burning just 9,000 batches during the first hour of a cycle instead of the usual 10,000. Plus, with Phoenix Ape NFTs having a limited supply of 520, there can only be a maximum of 130 wallet addresses that can seize this extra firepower.
 
-And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Ethereum and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Ethereum and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
+And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
 
 In summary, holders of Phoenix Ape NFTs not only enjoy an increased share of the daily XNF distribution but also unlock greater discounts on the burn fee by burning a larger amount of batches. The maximum amount of batches per transaction is capped at 10,000 batches, and the burn fee discount is represented by the term (1 - (NB x CS)) in the protocols burn fee formula:
 
@@ -1073,9 +1082,9 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs
+## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs, Class 1 APEX XENFTs (Xunicorn), or Class 2 APEX XENFTs (Exotic):
 
-  - Each Phoenix Ape NFT is equipped with a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
+  - Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
 
   - For instance, imagine you have a daily bonus of 100 batches on your NFT and opt to burn 10 batches. The protocol will effectively double your batch count to 20 batches, by utilising 10 of your daily bonus batches. Consequently, 10 batches from your NFT ID's daily bonus will be deducted, leaving 90 bonus batches for that NFT on that day.
 
@@ -1085,9 +1094,9 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs
+## ♦️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs, Class 1 APEX XENFTs (Xunicorn), or Class 2 APEX XENFTs (Exotic):
 
-  - If you own or rent 4 Phoenix Ape NFTs, burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
+  - If you hold 4 NFTs burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
   - For instance, if you have 4 NFTs and a daily bonus of 1,000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
 
