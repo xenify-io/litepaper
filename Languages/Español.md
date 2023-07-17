@@ -301,11 +301,11 @@ Una vez que poseas vUSDy, puedes quemarlo para participar en la distribución di
 
 <br>
 
-En su núcleo, XNF sirve como un token de recompensa que estimula el compromiso del usuario dentro del Protocolo Xenify. Su base tokenómica única allana el camino para un método distintivo de reclamación y bloqueo, que mejora el compromiso de los usuarios y les permite gestionar sus estrategias de bloqueo. Los usuarios tienen la libertad de reclamar su XNF y determinar el periodo de bloqueo, que puede abarcar desde un mínimo de 2 semanas hasta un máximo de 4 años, proporcionando una interacción personalizada con el protocolo.
+En su núcleo, XNF sirve como un token de recompensa que estimula el compromiso del usuario dentro del Protocolo Xenify. Su base tokenómica única allana el camino para un método distintivo de reclamación/claim y bloqueo/lock, que mejora el compromiso de los usuarios y les permite gestionar sus estrategias de bloqueo. Los usuarios tienen la libertad de reclamar su XNF y determinar el periodo de bloqueo, que puede abarcar desde un mínimo de 2 semanas hasta un máximo de 4 años, proporcionando una interacción personalizada con el protocolo.
 
-Aquí es donde entra en juego veXNF. veXNF es un token no fungible (NFT) ERC-721 que los usuarios reciben al bloquear su XNF. La cantidad de veXNF acuñado es directamente proporcional a la cantidad de XNF bloqueado y el período de bloqueo elegido. veXNF no sólo refleja la participación de un usuario en el protocolo, sino que también sirve como un indicador del "poder de ganancia" del usuario, que dicta su participación en la distribución de recompensas de la cadena nativa.
+Aquí es donde entra en juego veXNF. veXNF es un token no fungible (NFT) ERC-721 que los usuarios reciben al bloquear su XNF. La cantidad de veXNF recibido es directamente proporcional a la cantidad de XNF bloqueado y el período de bloqueo elegido. veXNF no sólo refleja la participación de un usuario en el protocolo, sino que también sirve como un indicador del "poder de ganancia" del usuario, que dicta su participación en la distribución de recompensas de la cadena nativa.
 
-Sin embargo, este "poder de ganancia" no es fijo. A lo largo del periodo de bloqueo, aunque se extienda hasta un máximo de 4 años, el poder de veXNF experimenta un decaimiento gradual. Este decaimiento significa una reducción de las ganancias potenciales a lo largo del tiempo, lo que subraya la necesidad de que los usuarios interactúen de forma activa y regular con el protocolo. Para elevar su poder veXNF y mantener su capacidad de ganancia, los usuarios deben reclamar y reciclar sus recompensas con frecuencia, y para conservar este poder, se les exige que amplíen la duración de sus bloqueos.
+Sin embargo, este "poder de ganancia" no es fijo. A lo largo del periodo de bloqueo, aunque se extienda hasta un máximo de 4 años, el poder de veXNF experimenta un decaimiento gradual. Este decaimiento significa una reducción de las ganancias potenciales a lo largo del tiempo, lo que resalta la necesidad de que los usuarios interactúen de forma activa y regular con el protocolo. Para elevar su poder veXNF y mantener su capacidad de ganancia, los usuarios deben reclamar y reciclar sus recompensas con frecuencia, y para conservar este poder, se les exige que amplíen la duración de sus bloqueos.
 
 Para los usuarios que aspiran a aumentar su potencial de ganancias desde bloqueos anteriores, el protocolo ofrece la oportunidad de prolongar el periodo de bloqueo. Esta acción no sólo mantiene o aumenta la cantidad de veXNF, sino que también restablece el calendario de decaimiento, promoviendo así la participación sostenida dentro del protocolo.
 
@@ -317,17 +317,17 @@ Para los usuarios que aspiran a aumentar su potencial de ganancias desde bloqueo
 
 <br>
 
-Presentamos Xenify, el mejor agregador de agregadores entre cadenas. Diseñado por expertos para agilizar el proceso de intercambio para los usuarios que atraviesan múltiples cadenas, Xenify ofrece capacidades inigualables. Impulsado por un avanzado protocolo de agregación de liquidez, Xenify se conecta a 27 agregadores diferentes, ofreciendo una liquidez excepcional y tarifas inmejorables a través de 50 cadenas líderes. Tanto si quieres intercambiar tokens entre Ethereum, BNB Chain, Polygon o muchas otras, ¡Xenify lo hace fácil y gratificante!
+Presentamos Xenify, el agregador de agregadores cross-chain superior. Diseñado por expertos para agilizar el proceso de swapping para los usuarios que atraviesan múltiples cadenas, Xenify ofrece capacidades inigualables. Impulsado por un avanzado protocolo de agregación de liquidez, Xenify se conecta a 27 agregadores diferentes, ofreciendo una liquidez excepcional y tarifas inmejorables a través de 50 cadenas líderes. Tanto si quieres intercambiar tokens entre Ethereum, BNB Chain, Polygon o muchas otras, ¡Xenify lo hace fácil y gratificante!
 
-Imagina este escenario: quieres intercambiar Token-A en Ethereum por Token-B en BNB Chain. Con Xenify, todo lo que se necesita es un solo clic y una sola transacción en Ethereum. No más molestias de navegar por diferentes cadenas o buscar las mejores tarifas - Xenify se encarga de todo, proporcionándole las tarifas más favorables disponibles. Pero Xenify es mucho más que intercambios entre cadenas; es un ecosistema meticulosamente diseñado con una tokenómica única, que incorpora un innovador modelo de incentivos que beneficia a todos los participantes.
+Imagina este escenario: quieres intercambiar Token-A en Ethereum por Token-B en BNB Chain. Con Xenify, todo lo que se necesita es un solo click y una sola transacción en Ethereum. No más molestias de navegar por diferentes cadenas o buscar las mejores tarifas - Xenify se encarga de todo, proporcionándole las tarifas más favorables disponibles. Pero Xenify es mucho más que cross-chain swapping; es un ecosistema meticulosamente diseñado con una tokenómica única, que incorpora un innovador modelo de incentivos que beneficia a todos los participantes.
 
-El mecanismo de canje integrado de Xenify crea un entorno recíproco que recompensa a los usuarios de la plataforma con XNF como parte del ciclo de recompensa diario, y a los stakers de XNF con el 100% de las comisiones de canje generadas en las cadenas soportadas. En las cadenas en las que el XNF aún no se ha desplegado, el equipo utiliza la comisión de intercambio para promocionar y mejorar la plataforma Xenify y sus tokens asociados, garantizando una amplia concienciación y adopción.
+El mecanismo de swap fee integrado de Xenify crea un entorno recíproco que recompensa a los usuarios de la plataforma con XNF como parte del ciclo de recompensa diario, y a los stakers de XNF con el 100% de las fees o comisiones de swap generadas en las cadenas soportadas. En las cadenas en las que el XNF aún no se ha desplegado, el equipo utilizará las comisiones generadas por los  swap para promocionar y mejorar la plataforma Xenify y sus tokens asociados, garantizando una amplia concienciación y adopción.
 
-Así es como funciona: Al pagar la comisión de intercambio del 0,5% para ejecutar un intercambio en cadenas EVM compatibles en las que se ha implementado XNF, no sólo facilita su transacción, sino que también se asegura una posición en el ciclo de recompensas diarias de XNF para esa cadena. Al final de cada día, el 100% de la comisión de intercambio se distribuye como recompensas nativas de la cadena a los titulares de XNF apostados en esa cadena específica. Esto significa que no sólo ganas tokens XNF basados en tu contribución a la comisión de intercambio, sino que también recompensas a los poseedores de XNF con tokens nativos de la cadena. Todos los implicados salen ganando.
+Así es como funciona: Al pagar el swap fee del 0,5% para ejecutar un intercambio en cadenas EVM compatibles en las que se ha implementado XNF, no sólo facilita su transacción, sino que también se asegura una posición en el ciclo de recompensas diarias de XNF para esa cadena. Al final de cada día, el 100% de las comisiones generadas por los swap se distribuirán como recompensas nativas de la cadena a los titulares de XNF staking en esa cadena específica. Esto significa que no sólo ganas tokens XNF basados en tu contribución realizada através del swap fee, sino que también recompensas a los poseedores de XNF con tokens nativos de la cadena. Todos los implicados salen ganando.
 
-Es más, Xenify incorpora un ingenioso mecanismo de quemado que permite a los usuarios quemar tokens XEN y USDy para acuñar XNF. El proceso de quema de XEN actúa como un quemador estratégico de capa 1, y aquí está la parte emocionante: el 100% de las tarifas de quema vuelven a los creadores de XNF. Este enfoque no sólo fomenta el compromiso de los usuarios a largo plazo, sino que también mejora las recompensas para aquellos que están profundamente involucrados con el protocolo.
+Es más, Xenify incorpora un ingenioso mecanismo de burning/quemado que permite a los usuarios quemar tokens XEN y USDy para adquirir XNF. El proceso de quema de XEN actúa como un quemador estratégico de capa 1, y aquí está la parte emocionante: el 100% de las tarifas de quema o burn fees vuelven a los creadores de XNF. Este enfoque no sólo fomenta el compromiso de los usuarios a largo plazo, sino que también mejora las recompensas para aquellos que están profundamente involucrados con el protocolo.
 
-El enfoque innovador de Xenify en cuanto a apuestas y recompensas, combinado con su modelo único de tokenómica, crea un ecosistema cuidadosamente diseñado que beneficia a todos los participantes. Ya sea que esté ejecutando intercambios de tokens entre cadenas o quemando tokens para acuñar XNF, cada acción que realice en la plataforma Xenify contribuye a un entorno recíproco de recompensas y compromiso. No sólo disfrutará de una eficiencia sin precedentes a la hora de intercambiar tokens a través de 50 cadenas líderes, sino que también tendrá la oportunidad de ganar tokens de cadenas nativas diariamente y formar parte de una próspera comunidad. Xenify realmente ofrece lo mejor de ambos mundos: intercambio de tokens entre cadenas sin esfuerzo y un importante potencial de ganancias.
+El enfoque innovador de Xenify en cuanto a staking y recompensas, combinado con su modelo único de tokenómica, crea un ecosistema cuidadosamente diseñado que beneficia a todos los participantes. Ya sea que esté ejecutando swaps de tokens entre cadenas o quemando tokens para adquirir XNF, cada acción que realice en la plataforma Xenify contribuye a un entorno recíproco de recompensas y compromiso. No sólo disfrutará de una eficiencia sin precedentes a la hora de intercambiar tokens a través de 50 cadenas líderes, sino que también tendrá la oportunidad de ganar tokens de cadenas nativas diariamente y formar parte de una próspera comunidad. Xenify realmente ofrece lo mejor de ambos mundos: intercambio de tokens entre cadenas sin esfuerzo y un importante potencial de ganancias.
 
 <br>
 
@@ -428,13 +428,13 @@ El enfoque innovador de Xenify en cuanto a apuestas y recompensas, combinado con
 
 <br>
 
-Xenifiy es un protocolo innovador que aboga por la equidad, la sostenibilidad y la participación de los usuarios. En el corazón de su estructura tokenómica se encuentra XNF, el token nativo de la plataforma. XNF es el principal incentivo para los usuarios, con un suministro limitado de 22,6 millones. Al participar en una multitud de actividades de protocolo, como quemar, apostar e intercambiar tokens, los usuarios son recompensados, fomentando un ecosistema dinámico en el que los beneficios se acumulan en función de las contribuciones y la participación. Con este cuidadoso diseño, Xenify garantiza la igualdad de condiciones para todos los usuarios, creando un entorno en el que todos pueden cosechar las recompensas y sentando las bases de una plataforma equitativa impulsada por la comunidad.
+Xenifiy es un protocolo innovador que aboga por la equidad, la sostenibilidad y la participación de los usuarios. En el corazón de su estructura tokenómica se encuentra XNF, el token nativo de la plataforma. XNF es el principal incentivo para los usuarios, con un suministro limitado de 22,6 millones. Al participar en una multitud de actividades de protocolo, como quemar, stake y swap tokens, los usuarios son recompensados, fomentando un ecosistema dinámico en el que los beneficios se acumulan en función de las contribuciones y la participación. Con este cuidadoso diseño, Xenify garantiza la igualdad de condiciones para todos los usuarios, creando un entorno en el que todos pueden cosechar las recompensas y sentando las bases de una plataforma equitativa impulsada por la comunidad.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-XNF es el alma del protocolo Xenify, y cuenta con un suministro total limitado de 22,6 millones de tokens. El proceso de distribución de XNF se ha diseñado teniendo en cuenta la transparencia y la equidad, garantizando la igualdad de condiciones para todos. Sin pre-minas, asignaciones de inversores, asignaciones de fundadores o asignaciones de equipos, el protocolo Xenify fomenta un entorno de equidad e inclusión. Los usuarios tienen la oportunidad de ganar equidad XNF mediante la participación en diversas actividades, tales como la quema de vXEN o vUSDy tokens y el intercambio de tokens a través de las cadenas apoyadas. Este modelo único de suministro de tokens no sólo promueve la participación activa, sino que también cultiva un ecosistema próspero, centrado en la comunidad, del que todo el mundo puede formar parte.
+XNF es el alma del protocolo Xenify, y cuenta con un suministro total limitado de 22,6 millones de tokens. El proceso de distribución de XNF se ha diseñado teniendo en cuenta la transparencia y la equidad, garantizando la igualdad de condiciones para todos. Sin pre-mintings, asignaciones para inversores, asignaciones para fundadores o asignaciones de equipos, el protocolo Xenify fomenta un entorno de equidad e inclusión. Los usuarios tienen la oportunidad de ganar equidad XNF mediante la participación en diversas actividades, tales como la quema o burning de vXEN o vUSDy tokens y mediante el swapping de tokens a través de las cadenas apoyadas. Este modelo único de suministro de tokens no sólo promueve la participación activa, sino que también cultiva un ecosistema próspero, centrado en la comunidad, del que todo el mundo puede formar parte.
 
 <br>
 
@@ -454,15 +454,15 @@ Con una oferta total limitada a 22,6 millones de tokens XNF, divididos estratég
 
 - **21.000.000 XNF asignados para las subastas diarias:** Los usuarios que participen en diversas actividades que impulsen el desarrollo continuo del protocolo tendrán la oportunidad de ganar una parte de los tokens XNF dedicados a las subastas diarias.
 
-  - 10.500.000 XNF (50%) de la subasta diaria se distribuyen entre los usuarios que realizan quemas directas de vXEN y vUSDy. Durante cada ciclo, si nadie inicia el proceso de quema, la asignación de XNF correspondiente no se acuñará. Este mecanismo basado en la escasez disminuye la oferta total de XNF, lo que contribuye a aumentar su valor potencial.
+  - 10.500.000 XNF (50%) de la subasta diaria se distribuyen entre los usuarios que realizan quemas/burns directas de vXEN y vUSDy. Durante cada ciclo, si nadie inicia el proceso de quema, la asignación de XNF correspondiente no se efectuará. Este mecanismo basado en la escasez disminuye la oferta total de XNF, lo que contribuye a aumentar su valor potencial.
 
-  - 10.500.000 XNF (50%) de la subasta diaria se distribuyen entre los usuarios que realizan swaps en cadenas EVM compatibles. Si no se produce ningún intercambio durante un ciclo, la asignación de XNF correspondiente no se acuñará. Esto también reduce la oferta total de XNF, aumentando su escasez y su valor potencial.
+  - 10.500.000 XNF (50%) de la subasta diaria se distribuyen entre los usuarios que realizan swaps en cadenas EVM compatibles. Si no se produce ningún swap durante un ciclo, la asignación de XNF correspondiente no se efectuará. Esto también reduce la oferta total de XNF, aumentando su escasez y su valor potencial.
 
-- **100.000 XNF asignados para la creación de liquidez XNF:** Para facilitar esto, hemos reservado 50.000 XNF para el Gestor de Cuotas de la Casa de la Moneda vXEN y otros 50.000 XNF para el Gestor de Cuotas de la Casa de la Moneda vUSDy. Cada vez que un usuario participe en la quema diaria de vXEN o vUSDy estará contribuyendo a la proliferación de liquidez en XNF. Esta iniciativa refuerza la salud general del protocolo y fomenta una sólida reserva de liquidez para nuestra comunidad.
+- **100.000 XNF asignados para la creación de liquidez XNF:** Para facilitar esto, hemos reservado 50.000 XNF para el Mint Fee Manager de vXEN y otros 50.000 XNF para el Mint Fee Manager de vUSDy. Cada vez que un usuario participe en la quema/ burn diaria de vXEN o vUSDy estará contribuyendo a la proliferación de liquidez en XNF. Esta iniciativa refuerza la salud general del protocolo y fomenta una sólida reserva de liquidez para nuestra comunidad.
 
-- **1.500.000 XNF asignados como airdrop exclusivo para participantes en swaps:** Para fomentar el compromiso, cada cadena tendrá un airdrop exclusivo de 1.500.000 XNF para los usuarios que realicen swaps antes del despliegue de XNF. La entrega tendrá lugar el primer día del lanzamiento y se distribuirá como fichas bloqueadas, que se desbloquearán gradualmente a lo largo de 730 días.
+- **1.500.000 XNF asignados como airdrop exclusivo para participantes en swaps:** Para fomentar el compromiso, cada cadena tendrá un airdrop exclusivo de 1.500.000 XNF para los usuarios que realicen swaps antes del lanzamiento de XNF. El airdrop tendrá lugar el primer día del lanzamiento y se distribuirá en forma de tokens bloqueados, que se desbloquearán gradualmente a lo largo de 730 días.
 
-Inspirándose en Bitcoin, el modelo de distribución de Xenify adopta el principio de división a la mitad. Como se ilustra en el gráfico adjunto, tras la séptima reducción a la mitad, la tasa de asignación diaria de Xenify se estabiliza, garantizando una producción constante de 156,25 tokens XNF al día hasta que se alcance el suministro máximo en el mes 2461. Esta innovadora estrategia ha sido cuidadosamente diseñada para garantizar una distribución equitativa de la oferta centrada en la participación de los usuarios a largo plazo, destacando el compromiso inquebrantable de Xenify para fomentar un ecosistema equilibrado y una comunidad comprometida.
+Inspirándose en Bitcoin, el modelo de distribución de Xenify adopta el principio de halving. Como se ilustra en el gráfico adjunto, tras la séptima reducción a la mitad, la tasa de asignación diaria de Xenify se estabiliza, garantizando una producción constante de 156,25 tokens XNF al día hasta que se alcance el suministro máximo en el mes 2461. Esta innovadora estrategia ha sido cuidadosamente diseñada para garantizar una distribución equitativa de la oferta centrada en la participación de los usuarios a largo plazo, destacando el compromiso inquebrantable de Xenify para fomentar un ecosistema equilibrado y una comunidad comprometida.
 
 <br>
 
@@ -476,17 +476,17 @@ Inspirándose en Bitcoin, el modelo de distribución de Xenify adopta el princip
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Despliegue confirmado
+## ◽️ Lanzamientos confirmados
 
-- Despliegue Génesis > Cadena BNB
-- Segundo despliegue > Ethereum
-- Tercer despliegue > Polygon
+- Lanzamiento Génesis > Cadena BNB
+- Segundo lanzamiento > Ethereum
+- Tercer lanzamiento  > Polygon
 
 <br>
 
 ## ◽️ Cadenas de expansión potenciales
 
-Xenify se está preparando para ir a lo grande, evaluando un montón de cadenas de bloques para su próximo gran movimiento. La lista de cadenas que estamos comprobando ahora mismo es bastante variada, desde pesos pesados como Arbitrum y Avalanche a los nuevos chicos de la blockchain como zkSync y PulseChain, no hay escasez de opciones. La lista completa incluye:
+Xenify se está preparando para ir a lo grande, así que estamos evaluando un montón de blockchains en las cuales queremos aterrizar. La lista de cadenas que estamos evaluando ahora mismo es bastante variada, desde pesos pesados como Arbitrum y Avalanche a los nuevos chicos de la blockchain como zkSync y PulseChain, no hay escasez de opciones. La lista completa incluye:
 
 - KCC
 - Celo
@@ -553,7 +553,7 @@ Xenify se está preparando para ir a lo grande, evaluando un montón de cadenas 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Proceso de acuñación del XNF e incentivos
+## ◽️ Proceso de minting de XNF e incentivos
 
   - El proceso de acuñación de XNF en Xenify se ha estructurado meticulosamente para recompensar a los usuarios que participan activamente y contribuyen al crecimiento del protocolo. Esta iniciativa garantiza una distribución equitativa de los tokens XNF y fomenta un protocolo genuinamente descentralizado e impulsado por la comunidad.
 
