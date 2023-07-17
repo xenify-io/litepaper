@@ -194,24 +194,24 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ◽️ Simran Dhillon
-- Twitter](https://twitter.com/simran_ysl)
-- LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- Telegram](https://t.me/SD_YSL)
+- [Twitter](https://twitter.com/simran_ysl)
+- [LinkedIn](https://www.linkedin.com/in/ssdhillon)
+- [Telegram](https://t.me/SD_YSL)
 - [Expériences passées](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ◽️ Hardev Dhillon
-- Twitter](https://twitter.com/hardev_ysl)
-- LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- Télégramme](https://t.me/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_ysl)
+- [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
+- [Télégramme](https://t.me/hardev_ysl)
 
 ## ◽️ Dayana Plaz
-- Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
-- LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
-- Telegram](https://t.me/Dayplaz)
+- [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
+- [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
+- [Telegram](https://t.me/Dayplaz)
 - [Expériences passées](https://www.youtube.com/watch?v=_7UB-4d1NxM)
 
 ## ◽️ Team KYC Verified (by Solidproof)
-- Certificat KYC](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
+- [Certificat KYC](https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_YSL.IO.png)
 
 <br>
 
