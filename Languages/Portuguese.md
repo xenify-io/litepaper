@@ -1021,80 +1021,89 @@ Durante a fase de pré-implantação, enquanto o evento de lançamento aéreo es
 
 <br>
 
-Apresentamos o [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), o NFT colecionável exclusivo que une as comunidades Xenify e YSL.IO. Ao possuir um destes extraordinários NFTs, os utilizadores da Xenify irão desbloquear um efeito de queima amplificado diário, aumentando exponencialmente a sua contagem de lotes até 100 ao queimar vXEN ou vUSDy. Além disso, possuir ou alugar um mínimo de 4 destes NFTs altamente cobiçados irá conceder-lhe uma amplificação ainda maior, com a sua carteira a receber um bónus diário de até 1.000 lotes.
+Apresentando a amplificação de queima da Xenify, uma oportunidade exclusivamente desenvolvida para detentores do NFT APEX XENFT Classe 1 (Xunicorn), APEX XENFT Classe 2 (Exótico) ou [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT). Através da posse desses raros NFTs, você desbloqueará um efeito de queima amplificado diário, aumentando sua contagem de lotes em impressionantes 100 ao queimar vXEN ou vUSDy. Se você possuir ou alugar pelo menos quatro desses cobiçados NFTs, prepare-se para uma amplificação ainda maior, pois sua carteira receberá um generoso bônus diário de 1000 lotes.  
 
-Além disso, os detentores do Phoenix NFT desfrutarão de uma série de vantagens extras. Isso inclui a oportunidade de ganhar recompensas USDC a cada 8 horas e contornar a taxa de saída Sigma no protocolo YSL.IO. Estes benefícios adicionais aumentam o envolvimento do utilizador, contribuindo significativamente para o crescimento dos ecossistemas Xenify e YSL.IO.
+Além disso, os detentores do NFT Phoenix Ape desfrutarão de uma série de vantagens extras. Isso inclui a oportunidade de ganhar recompensas em USDC a cada 8 horas e contornar a Taxa de Saída Sigma no protocolo YSL.IO. Esses benefícios adicionais aprimoram o engajamento do usuário ao mesmo tempo em que contribuem significativamente para o crescimento dos ecossistemas Xenify e YSL.IO.
 
-Cada carteira que detém um NFT da Phoenix Ape está sujeita a uma Quota Semanal de Saída (WOQ) que permite uma única transação de saída envolvendo um NFT da Phoenix Ape a cada 7 dias. As transações de saída incluem a transferência de um NFT Phoenix Ape para outra carteira ou a venda do NFT. Observe que, enquanto a restrição WOQ estiver em vigor, os titulares de carteiras ainda podem fazer a ponte entre a utilidade de seu (s) NFT (s) Phoenix Ape e outra cadeia. Em suma, fazer a ponte da utilidade de um NFT para uma cadeia diferente não aciona o WOQ nem afeta a capacidade do usuário de fazer a ponte da utilidade de seu (s) NFT (s) Phoenix Ape.
+Toda carteira que possui um NFT Phoenix Ape está sujeita a uma Cota Semanal de Saída (WOQ) que permite uma única transação de saída envolvendo um NFT Phoenix Ape a cada 7 dias. As transações de saída incluem transferir um NFT Phoenix Ape para outra carteira ou vender o NFT. Observe que, embora a restrição WOQ esteja em vigor, os detentores da carteira ainda podem fazer a ponte da utilidade de seu(s) NFT(s) Phoenix Ape para outra cadeia. Em poucas palavras, fazer a ponte da utilidade de um NFT para uma cadeia diferente não aciona o WOQ nem afeta a capacidade do usuário de fazer a ponte da utilidade de seu(s) NFT(s) Phoenix Ape.  
 
-E aqui está a melhor parte: O seu bónus de lote diário, quer possua um NFT ou quatro NFTs, pode ser facilmente transferido para qualquer cadeia que a Xenify lance. Com o seu bónus de queima a ser reposto todos os dias, terá a oportunidade de colher os benefícios deste efeito de queima amplificado em todas as cadeias que a Xenify lança diariamente!
+E aqui está a melhor parte: seu bônus diário de lote, seja você possuir um NFT ou quatro NFTs Phoenix Ape, pode ser facilmente transferido para qualquer cadeia em que a Xenify seja lançada. Com seu bônus sendo reiniciado a cada dia, você terá a oportunidade de colher os benefícios deste efeito de queima amplificado em todas as cadeias em que a Xenify for lançada diariamente!
+
+Para tornar os Phoenix Apes acessíveis a uma ampla gama de participantes, eles estarão disponíveis exclusivamente por meio de um leilão semanal. Isso garante justiça e engajamento, dando a todos tempo suficiente para garantir seu cobiçado NFT Phoenix Ape. O leilão começa com um lance mínimo inicial de apenas 10 bXNF (XNF nativo da BNB Chain). Isso significa que, se não tiverem sido feitos lances ainda, você pode iniciar o leilão com um lance mínimo de 10 bXNF. Se já existirem lances, seu lance deve ser 2 bXNF maior que o lance atual mais alto ou 105% do lance atual mais alto, o que for maior.
+
+Cada leilão semanal dura um mínimo de 168 horas e apresenta uma extensão de tempo de buffer de 5 minutos. Isso significa que, se um lance for realizado nos últimos 5 minutos do leilão, 5 minutos adicionais serão adicionados à duração, terminando o leilão apenas quando não forem realizados lances nos últimos 5 minutos do horário agendado para o término. Isso garante que nenhum leilão seja iniciado até que o atual seja concluído, dando a todos uma chance justa de participar. Por exemplo, vamos supor que o leilão esteja programado para terminar às 12h00 e um lance seja feito às 11h59. O horário de término será estendido para as 12h05 e esse processo continua até que não haja lances nos últimos cinco minutos, dando a cada licitante uma oportunidade justa.
+
+Além disso, assim que um lance mais alto for realizado durante o leilão, o licitante com o lance mais alto anterior recebe um reembolso completo de seu bXNF. Isso garante justiça durante todo o processo, pois eles podem usar seu bXNF reembolsado para fazer outro lance, se assim o desejarem. Além disso, 100% do bXNF adquirido do licitante vencedor será queimado, beneficiando ainda mais o ecossistema Xenify.
+
+Depois de vencer o leilão, você pode reivindicar seu NFT Phoenix Ape, que cunha seu NFT exclusivo. É importante observar que apenas o endereço da carteira associado ao lance vencedor pode reivindicar o NFT Phoenix Ape, garantindo a máxima segurança para todos os participantes. E aqui está outro detalhe importante: se você for o feliz vencedor do leilão, precisará reivindicar seu NFT Phoenix Ape antes de participar de leilões subsequentes. Este mecanismo impede que qualquer participante único acumule NFTs não cunhados.
+
+Vamos explorar alguns dos principais recursos que diferenciam os NFTs Phoenix Ape dos NFTs convencionais:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Colecionável limitado
+## ◽️ Colecionável Limitado  
 
-A Phoenix Apes, uma coleção exclusiva de NFT desenvolvida para a YSL.IO, conta com uma escassa oferta de apenas 520 exemplares. Estes NFTs muito procurados foram engenhosamente concebidos com a utilidade no seu núcleo. Não só possuem raridades distintas, como também concedem ao seu detentor benefícios excepcionais no ecossistema YSL.IO.
+O Phoenix Apes é um colecionável NFT que foi projetado para unir as comunidades Xenify e YSL.IO. A coleção NFT exclusiva desenvolvida pela YSL.IO, possui uma oferta limitada de apenas 520. Esses cobiçados NFTs foram engenhosamente projetados com utilidade em seu cerne. Não só possuem raridades únicas, mas também conferem benefícios excepcionais a seus detentores dentro dos ecossistemas Xenify e YSL.IO.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ◽️ Efeito de queimadura diário amplificado
+## ◽️ Efeito Diário de Queima Amplificada  
 
-Os detentores de NFT da Phoenix Ape desbloqueiam um efeito de queima amplificado exclusivo quando optam por queimar vXEN ou vUSDy na Xenify. Essa vantagem exclusiva permite que os detentores de NFT garantam uma parcela maior da distribuição diária de XNF, ao mesmo tempo em que se beneficiam de descontos significativos em suas taxas de queima. Ao fazer a ponte entre as duas comunidades, este benefício excecional promove a unidade e alimenta o crescimento de ambos os protocolos.
+Prepare-se para desencadear o poder de seu NFT Phoenix Ape, APEX XENFT Classe 1 (Xunicorn) ou APEX XENFT Classe 2 (Exótico) na Xenify! Como proprietário orgulhoso desses notáveis ​​NFTs, você ganha acesso a um efeito de queima amplificado exclusivo que leva sua contribuição de queima a novos patamares. Esta vantagem única capacita os detentores de NFTs a obter uma parcela maior da distribuição diária de XNF, ao mesmo tempo em que se beneficiam de descontos significativos em suas taxas de queima. Ao unir as comunidades desses excepcionais NFTs, este efeito de queima amplificado promove a unidade e impulsiona o crescimento de cada ecossistema, criando uma situação de ganho mútuo para todos os envolvidos.  
 
-Funciona da seguinte forma: Quando os titulares de NFTs do Phoenix Ape decidem queimar vXEN ou vUSDy no Xenify, eles desbloqueiam um bônus diário de queima que dobra sua contagem de lotes (NB). O bónus é limitado a 100 lotes diários por ID NFT. Assim que um utilizador utilizar todos os 100 lotes de bónus diários atribuídos ao seu NFT Phoenix Ape, esse NFT específico deixará de oferecer uma queima amplificada para esse dia.
+Aqui está como funciona: quando os detentores de NFTs decidem queimar vXEN ou vUSDy na Xenify, eles desbloqueiam um bônus de queima diário que duplica sua contagem de lotes (NB). O bônus é limitado a 100 lotes diários por identificação de NFT. Depois que um usuário usa todos os 100 lotes de bônus diários alocados para seu NFT, esse NFT específico não oferecerá mais uma queima amplificada para aquele dia.
 
-Procura um poder de fogo extra? Temos notícias fantásticas! Ao possuir ou alugar pelo menos 4 destes NFTs muito procurados, beneficiará de uma amplificação ainda maior, com a sua carteira a receber um bónus diário de 1.000 lotes. Isto substitui eficazmente os 100 lotes de bónus diários predefinidos reservados para cada um dos seus quatro IDs NFT. Resumindo, se tiver 4 NFTs, o seu bónus diário total será limitado a 1.000 lotes e não a 1.400 lotes.
+Procurando mais poder de fogo? Temos ótimas notícias! Ao possuir ou alugar pelo menos 4 desses NFTs super procurados, você se beneficiará de uma amplificação ainda maior, com sua carteira recebendo um bônus diário de 1.000 lotes. Isso efetivamente substitui os 100 lotes diários de bônus padrão reservados para cada um de seus quatro IDs de NFT. Em poucas palavras, se você possui 4 NFTs, seu bônus diário total será limitado a 1.000 lotes, não 1.400 lotes.  
+Lembre-se, quanto mais lotes você queimar, mais economizará nas taxas de queima. Ao possuir 4 NFTs, você pode obter um desconto máximo de 75% nas suas taxas de queima, queimando apenas 9.000 lotes durante a primeira hora de um ciclo, em vez dos habituais 10.000. Além disso, como os NFTs Phoenix Ape têm uma oferta limitada de 520, no máximo 130 endereços de carteira podem aproveitar este poder extra.
 
-Lembre-se, quanto mais lotes queimar, mais poupa nas taxas de queima. Ao manter 4 NFTs, pode obter uma poupança máxima de 75% nas suas taxas de queima ao queimar apenas 9.000 lotes durante a primeira hora de um ciclo, em vez dos habituais 10.000. Além disso, como os NFTs do Phoenix Ape têm um fornecimento limitado de 520, só pode haver um máximo de 130 endereços de carteira que podem aproveitar esse poder de fogo extra.
+E aqui está a melhor parte: seu bônus diário de lote, seja você possuir um NFT ou quatro NFTs, pode ser facilmente transferido para qualquer cadeia em que a Xenify seja lançada. Vamos supor que a Xenify se expanda para Polygon e você possua 4 NFTs Phoenix Ape. Depois de esgotar seu bônus diário de 1.000 lotes na BNB Chain, você pode facilmente fazer a ponte da utilidade de seus NFTs para Polygon e desfrutar de 1.000 lotes bônus lá. Com seu multiplicador sendo reiniciado a cada dia, você terá a oportunidade de colher os benefícios deste efeito de queima amplificado em todas as cadeias em que a Xenify for lançada diariamente!  
 
-E aqui está a melhor parte: Seu bônus de lote diário, quer você tenha um NFT ou quatro NFTs, pode ser perfeitamente conectado a qualquer cadeia que o Xenify lançar. Digamos que Xenify se expande para Ethereum e você possui 4 NFTs Phoenix Ape. Depois de esgotar seu bônus diário de 1,000 lotes na Cadeia BNB, você pode facilmente conectar a utilidade de seus NFTs ao Ethereum e desfrutar de 1,000 lotes de bônus lá. Com o seu multiplicador sendo redefinido todos os dias, você terá a oportunidade de colher os benefícios desse efeito de queima amplificado em todas as cadeias que o Xenify lança diariamente!
-
-Em suma, os detentores de NFTs Phoenix Ape não só desfrutam de uma maior quota da distribuição diária de XNF, como também desbloqueiam maiores descontos na taxa de queima, queimando uma maior quantidade de lotes. A quantidade máxima de lotes por transação está limitada a 10.000 lotes e o desconto na taxa de gravação é representado pelo termo (1 - (NB x CS)) na fórmula da taxa de gravação dos protocolos:
+Em resumo, os detentores de NFTs Phoenix Ape não apenas desfrutam de uma parcela aumentada da distribuição diária de XNF, mas também desbloqueiam maiores descontos na taxa de queima, queimando uma maior quantidade de lotes. A quantidade máxima de lotes por transação é limitada a 10.000 lotes e o desconto da taxa de queima é representado pelo termo (1 - (NB x CS)) na fórmula de taxa de queima do protocolo:
 
 <br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))
+BF = (FC \times VB) \times (1 - (NB \times BC)) 
 $$
 
 **Onde:**
 
-- $BF$ (Burn Fee) - A taxa cobrada pela função de queima, paga no token nativo da blockchain.
-- $FC$ (Burn Fee Coefficient) - Um coeficiente ponderado pelo tempo usado para considerar um desconto na taxa de queima.
-- $VB$ (Value of Batches) - O valor em dólares dos lotes que estão a ser queimados pelo utilizador, influenciando a taxa de queima à medida que o valor dos lotes aumenta.
-- $BC$ (Batch Coefficient) - Coeficiente ponderado no tempo utilizado para calcular o desconto com base nos lotes queimados.
-- $NB$ (Number of Batches) - O número de lotes que o utilizador queima, influenciando o desconto nas taxas de queima à medida que o número de lotes aumenta. Este valor será limitado a 10.000 lotes.
+- $BF$ (Taxa de Queima) - A taxa cobrada pela função de queima, paga no token nativo do blockchain.
+- $FC$ (Coeficiente da Taxa de Queima) - Um coeficiente ponderado no tempo usado para calcular um desconto na taxa de queima.
+- $VB$ (Valor dos Lotes) - O valor em dólares dos lotes sendo queimados pelo usuário, influenciando a taxa de queima à medida que o valor dos lotes aumenta. 
+- $BC$ (Coeficiente de Lote) - Um coeficiente ponderado no tempo usado para calcular o desconto com base nos lotes sendo queimados.
+- $NB$ (Número de Lotes) - O número de lotes que o usuário queima, influenciando o desconto nas taxas de queima à medida que o número de lotes aumenta. Isso será limitado a 10.000 lotes.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Exemplo: Efeito de queimadura amplificado
+## ◽️ Exemplo: Efeito de Queima Amplificada  
 
-Vejamos mais detalhadamente como funciona a queima amplificada em diferentes cenários:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Cenário 1: Se tiveres entre 1 e 3 NFTs do Macaco Fénix
-
-  - Cada NFT do macaco Fénix está equipado com um multiplicador de bónus diário limitado a 100 lotes. Ao queimar um número específico de lotes, o protocolo verifica primeiro se algum dos seus NFTs possui um saldo de bónus. Em caso afirmativo, o protocolo utiliza o saldo de bónus para aumentar o número de lotes.
-
-  - Por exemplo, imagine que tem um bónus diário de 100 lotes no seu NFT e opta por queimar 10 lotes. O protocolo duplicará efetivamente a sua contagem de lotes para 20 lotes, utilizando 10 dos seus lotes de bónus diários. Consequentemente, serão deduzidos 10 lotes do bónus diário do seu NFT ID, deixando 90 lotes de bónus para esse NFT nesse dia.
-
-  - No entanto, se decidir queimar um montante que exceda o seu saldo de bónus, o protocolo consumirá todo o saldo do seu NFT. Por exemplo, se o seu saldo de bónus diário atual for de 90 lotes e optar por queimar 5.000 lotes, o processo de queima será contabilizado como 5.090 lotes, consumindo a totalidade dos 90 lotes do saldo de bónus do seu NFT. Como resultado, os 90 lotes de bónus atribuídos ao ID do NFT serão removidos, deixando zero lotes de bónus para esse NFT nesse dia. Caso contrário, o número de lotes de bónus será reposto para 100 no dia seguinte.
-
-  - Além disso, tem a opção de ligar o utilitário do seu NFT a outra cadeia onde a Xenify foi lançada. Ao fazê-lo, pode aceder a mais 100 lotes de bónus diários nesse dia, concedendo-lhe efetivamente 200 lotes de bónus diários para o seu NFT. Por exemplo, se tiver esgotado o seu bónus diário na cadeia BNB, basta ligar o utilitário do seu NFT ao Ethereum e receber 1.000 lotes de bónus diários no Ethereum. Este processo pode ser repetido para cada cadeia onde o Xenify foi implantado.
+Vamos dar uma olhada mais de perto em como a queima amplificada funciona em diferentes cenários:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Cenário 2: Se tiveres 4 ou mais NFTs do Macaco Fénix
+## ♦️ Cenário 1: Se você possuir entre 1 e 3 NFTs Phoenix Ape, APEX XENFT Classe 1 (Xunicorn) ou APEX XENFT Classe 2 (Exótico):
 
-  - Se possuir ou alugar 4 NFTs Phoenix Ape, a queima de lotes torna-se ainda mais gratificante. A sua carteira receberá um bónus diário de 1.000 lotes. Isto substitui efetivamente os 100 lotes de bónus diários por defeito reservados para cada um dos seus NFTs. Em suma, se tiver 4 ou mais NFTs na sua carteira, o seu bónus diário total será limitado a 1.000 lotes para essa carteira. Quando optar por queimar uma quantidade de lotes inferior ao seu bónus diário atual, o protocolo duplicará a sua contagem de lotes utilizando uma quantidade equivalente.
+  - Cada NFT recebe um bônus de multiplicador diário limitado a 100 lotes. Ao queimar uma quantidade específica de lotes, o protocolo primeiro verifica se algum de seus NFTs possui um saldo de bônus. Se sim, o protocolo usa seu saldo de bônus para aumentar sua contagem de lotes.
 
-  - Por exemplo, se tiver 4 NFTs e um bónus diário de 1.000 lotes, a queima de 1 lote será contabilizada como 2 lotes durante o processo de queima. Isto significa que 1 lote será deduzido do seu bónus diário de NFTs, deixando-o com 999 lotes de bónus para o dia nessa cadeia.
+  - Por exemplo, imagina que você tenha um bônus diário de 100 lotes em seu NFT e opte por queimar 10 lotes. O protocolo efetivamente dobrará sua contagem de lotes para 20 lotes, utilizando 10 de seus lotes de bônus diários. Consequentemente, 10 lotes do bônus diário do ID do seu NFT serão deduzidos, deixando 90 lotes de bônus para esse NFT naquele dia.
 
-  - Por outro lado, se decidir queimar um montante de lotes superior ao seu bónus diário atual, o protocolo utilizará todo o seu saldo de bónus. Digamos que tem 4 NFTs e um bónus diário de 1.000 lotes. Se optar por queimar o equivalente a 6.000 lotes, serão contados como 7.000 lotes durante o processo de queima. O protocolo utilizará todo o seu bónus diário de 1.000 lotes para este efeito. Como resultado, não terá mais nenhum lote de bónus para utilizar nesse dia específico da cadeia. Mas não se preocupe, assim que o dia seguinte começar, a sua contagem de lotes de bónus voltará a ser de 1.000.
+  - No entanto, se você decidir queimar uma quantidade que exceda seu saldo de bônus, o protocolo consumirá o saldo completo do seu NFT. Por exemplo, se seu saldo de bônus diário atual for de 90 lotes e você escolher queimar 5.000 lotes, o processo de queima contará como 5.090 lotes, usando os 90 lotes completos do saldo de bônus do seu NFT. Como resultado, 90 lotes de bônus alocados ao ID do NFT serão removidos, deixando zero lotes de bônus para esse NFT naquele dia. Não se preocupe, sua contagem de lotes de bônus será redefinida para 100 no dia seguinte.
 
-  - Adicionalmente, pode optar por fazer a ponte entre a utilidade dos seus 4 NFTs e outra cadeia que a Xenify tenha lançado. Ao fazer isto, pode utilizar mais 1.000 lotes de bónus diários nesse dia, dando-lhe efetivamente 2.000 lotes de bónus diários. Por exemplo, se tiver esgotado o seu bónus diário na cadeia BNB, pode simplesmente fazer a ponte entre a utilidade dos seus NFTs e o Ethereum e receber 1.000 lotes de bónus diários no Ethereum. Pode repetir este processo para cada cadeia onde o Xenify foi implementado.
+  - Além disso, você tem a opção de fazer a ponte da utilidade do seu NFT para outra cadeia onde a Xenify foi lançada. Ao fazer isso, você pode acessar 100 lotes de bônus diários extras naquele dia, efetivamente concedendo a você 200 lotes de bônus diários para o seu NFT. Por exemplo, se você esgotou seu bônus diário na BNB Chain, basta fazer a ponte da utilidade do seu NFT para Ethereum e receber 1.000 lotes de bônus diários no Ethereum. Esse processo pode ser repetido para cada cadeia onde a Xenify foi implantada.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+
+## ♦️ Cenário 2: Se você possuir 4 ou mais NFTs Phoenix Ape, APEX XENFT Classe 1 (Xunicorn) ou APEX XENFT Classe 2 (Exótico):
+
+  - Se você possui 4 NFTs, queimar lotes se torna ainda mais gratificante. Sua carteira receberá um bônus diário de 1.000 lotes. Isso efetivamente substitui os 100 lotes de bônus diários padrão reservados para cada um dos IDs dos seus NFTs. Em poucas palavras, se você possui 4 ou mais NFTs em sua carteira, seu bônus diário total será limitado a 1.000 lotes para aquela carteira. Ao optar por queimar uma quantidade de lotes menor que seu bônus diário atual, o protocolo dobrará sua contagem de lotes usando uma quantia equivalente.
+
+  - Por exemplo, se você tiver 4 NFTs e um bônus diário de 1.000 lotes, queimar 1 lote será contado como 2 lotes durante o processo de queima. Isso significa que 1 lote será deduzido de seu bônus diário de NFTs, deixando 999 lotes de bônus para o dia naquela cadeia.
+
+  - Por outro lado, se você decidir queimar uma quantidade de lotes maior do que seu bônus diário atual, o protocolo utilizará todo o seu saldo de bônus. Vamos supor que você tenha 4 NFTs e um bônus diário de 1.000 lotes. Se você optar por queimar o equivalente a 6.000 lotes, será contado como 7.000 lotes durante o processo de queima. O protocolo usará todo o seu bônus diário de lotes de 1.000 para isso. Como resultado, você não terá nenhum lote de bônus restante para usar naquele dia específico naquela cadeia. Mas não se preocupe, assim que o próximo dia começar, sua contagem de lotes bônus será redefinida para 1.000.
+
+  - Além disso, você pode optar por fazer a ponte da utilidade de seus 4 NFTs para outra cadeia em que a Xenify foi lançada. Ao fazer isso, você pode usar lotes de bônus diários adicionais de 1.000 naquele dia, efetivamente concedendo a você 2.000 lotes de bônus diários. Por exemplo, se você esgotou seu bônus diário na BNB Chain, basta fazer a ponte da utilidade de seus NFTs para o Ethereum e receber 1.000 lotes de bônus diários no Ethereum. Você pode repetir esse processo para cada cadeia onde a Xenify foi implantada.
+  
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Recompensas USDC reclamáveis
