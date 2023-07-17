@@ -520,7 +520,7 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 <br>
 
-| Nom de la chaîne | Nom DEX - Appairage de liquidité | Nom de la chaîne |
+| Nom de la chaîne | Nom DEX | Appairage de liquidité |
 | ------------------ | ----------------------------------------------------- | ------------------- |
 | KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
