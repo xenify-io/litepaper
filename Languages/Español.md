@@ -742,15 +742,15 @@ La tabla siguiente ilustra cómo cambia el valor del coeficiente durante un cicl
 
 <br>
 
-## ◽️ Diferentes escenarios de tasas de quema
+## ◽️ Diferentes escenarios de burn fee
 
-Veamos con más detalle cómo funciona el descuento de la comisión de consumo ponderada por el tiempo en distintos escenarios:
+Veamos con más detalle cómo funciona el descuento del burn fee ponderada por el tiempo en distintos escenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Escenario 1: El usuario se quema durante la Hora-1 de un ciclo
 
-  - Supongamos que decide quemar 10.000 lotes por valor de 5.000 $ durante la primera hora del ciclo diario. Teniendo en cuenta que el Coeficiente de Lote (BC) durante la primera hora de un ciclo es 0,00005 y el Coeficiente de Tasa de Quemado (FC) durante la primera hora es 50%, el protocolo determinará su Tasa de Quemado (BF) en 1.250 $.
+  - Supongamos que decide quemar 10.000 lotes por valor de 5.000 $ durante la primera hora del ciclo diario. Teniendo en cuenta que el Batch Coefficien (BC) durante la primera hora de un ciclo es 0,00005 y el Burn Fee Coefficient (FC) durante la primera hora es 50%, el protocolo determinará su Burn Fee (BF) en 1.250 $.
 
 <br>
 
@@ -764,7 +764,7 @@ $$
 
 ## ♦️ Escenario 2: El usuario se quema durante la Hora-24 de un ciclo
 
-  - Supongamos ahora que decide quemar 10.000 lotes durante la última hora del ciclo diario. Teniendo en cuenta que el Coeficiente de Lote (BC) durante la última hora de un ciclo es 0 y el Coeficiente de Tasa de Quemado (FC) durante la última hora es 100%, el protocolo determinará su Tasa de Quemado (BF) como 5.000 $.
+  - Supongamos ahora que decide quemar 10.000 lotes durante la última hora del ciclo diario. Teniendo en cuenta que el Batch Coefficient (BC) durante la última hora de un ciclo es 0 y el Burn Fee Coefficient (FC) durante la última hora es 100%, el protocolo determinará su Burn Fee (BF) como 5.000 $.
 
 <br>
 
@@ -780,15 +780,15 @@ La comparación de estos escenarios pone de manifiesto las ventajas de quemar lo
 
 ## ◽️ Mint Fee Manager
 
-La subasta diaria de burn de Xenify es la oportunidad perfecta para hacerte con tokens XNF, y todo lo que necesitas es tener vXEN o vUSDy. El proceso de adquisición de estos tokens es sencillo: basta con quemar una variante del token XEN o un token nativo YSL.IO, respectivamente. Se trata de un proceso sencillo que permite a los usuarios acceder a la subasta diaria de quema y la oportunidad de conseguir XNF. Hay que tener en cuenta que durante el proceso de quema es obligatorio pagar una comisión de acuñación basada en el valor de mercado actual de los tokens que se queman.
+La subasta diaria de burn de Xenify es la oportunidad perfecta para que los tokens XNF llegen a tus manos, y todo lo que necesitas es tener vXEN o vUSDy. El proceso de adquisición de estos tokens es sencillo: basta con quemar una variante del token XEN o un token nativo YSL.IO, respectivamente. Se trata de un proceso sencillo que permite a los usuarios acceder a la subasta diaria de quema y la oportunidad de conseguir XNF. Hay que tener en cuenta que durante el proceso de quema es obligatorio pagar una mint fee basada en el valor de mercado actual de los tokens que se queman.
 
 Al aportar la Mint Fee, los usuarios contribuyen a la creación de liquidez propiedad del protocolo. Esta liquidez también allana el camino para la distribución de recompensas adicionales en forma de tokens XNF y XEN nativos a los recicladores al final de cada ciclo. En consecuencia, el Mint Fee Manager no sólo refuerza la liquidez propiedad del protocolo, sino que también genera indirectamente más recompensas para los recicladores. Este diseño innovador garantiza la sostenibilidad y el crecimiento a largo plazo del ecosistema Xenify. Además, la ausencia de claves administrativas en el contrato que salvaguarda la liquidez propiedad del protocolo elimina cualquier posibilidad de manipulación.
 
-Para poner en marcha la generación de esta liquidez propiedad del protocolo, el Gestor de la Tasa Mint recibe una asignación de 100.000 tokens XNF preminados cuando se despliega XNF. Estos tokens sirven para crear liquidez XNF a través de la Mint Fee. Los 100.000 tokens XNF se dividen a partes iguales, con 50.000 tokens asignados para la Mint Fee vXEN y 50.000 tokens para la Mint Fee vUSDy. El equipo no tiene acceso a estos tokens preminados, y sólo puede ejecutar la quema de estos tokens si es necesario.
+Para poner en marcha la generación de esta liquidez propiedad del protocolo, el Mint Fee Manager recibe una asignación de 100.000 tokens XNF preminados cuando se despliega XNF. Estos tokens sirven para crear liquidez XNF a través de la Mint Fee. Los 100.000 tokens XNF se dividen a partes iguales, con 50.000 tokens asignados para la Mint Fee vXEN y 50.000 tokens para la Mint Fee vUSDy. El equipo no tiene acceso a estos tokens preminados, y sólo puede ejecutar la quema de estos tokens si es necesario.
 
-Funciona de la siguiente manera: Cuando un usuario envía la Mint Fee, el Mint Fee Manager emparejará el 50% de los tokens nativos de la cadena con los tokens XNF preminados, para añadir como liquidez XNF a pleno rendimiento, quedando todos los tokens LP en poder del protocolo. Este proceso continuará hasta que se agote la asignación XNF preminada. Después de eso, el gestor inicia su proceso por defecto, que consiste en utilizar el 25% de los tokens nativos para comprar XNF, emparejar los XNF adquiridos con el 25% de los tokens nativos, para añadir liquidez a pleno rendimiento, con todos los tokens LP en manos del protocolo.
+Funciona de la siguiente manera: Cuando un usuario envía el mint fee, el Mint Fee Manager emparejará el 50% de los tokens nativos de la cadena con los tokens XNF preminados, para añadir como liquidez XNF a pleno rendimiento, quedando todos los tokens LP en poder del protocolo. Este proceso continuará hasta que se agote la asignación XNF preminada. Después de eso, el gestor inicia su proceso por defecto, que consiste en utilizar el 25% de los tokens nativos para comprar XNF, emparejar los XNF adquiridos con el 25% de los tokens nativos, para añadir liquidez a pleno rendimiento, con todos los tokens LP en manos del protocolo.
 
-El 50% restante de la Mint Fee se destina a crear liquidez XEN o liquidez USDy, dependiendo de si el usuario envió la Mint Fee para adquirir vXEN o vUSDy, respectivamente. Cuando el protocolo crea liquidez USDy a través de la Mint Fee vUSDy, los tokens USDy LP se envían a la Tesorería de YSL.IO. Por otro lado, cuando genera liquidez XEN a través de la comisión de acuñación vXEN, los tokens LP XEN son retenidos por el protocolo.
+El 50% restante de la mint fee se destina a crear liquidez XEN o liquidez USDy, dependiendo de si el usuario envió el mint fee para adquirir vXEN o vUSDy, respectivamente. Cuando el protocolo crea liquidez USDy a través del mint fee vUSDy, los tokens USDy LP se envían a la Tesorería de YSL.IO. Por otro lado, cuando genera liquidez XEN a través del mint fee vXEN, los tokens LP XEN son retenidos por el protocolo.
 
 Al final de cada ciclo, el protocolo retira el 1% del total de tokens XNF LP y el 1% de los tokens XEN LP. Los tokens de cadena nativos adquiridos a partir de los tokens LP retirados se utilizan para comprar XNF y XEN, respectivamente, y los tokens comprados se combinan con los tokens XNF y XEN retirados, respectivamente. Estos tokens comprados se combinan con los tokens XNF y XEN retirados previamente y se distribuyen posteriormente entre los titulares de veXNF que hayan participado en el reciclaje de recompensas durante el ciclo anterior. Los tokens XEN adquiridos durante este proceso representan el token nativo para la cadena específica, como bXEN en la cadena BNB. Del mismo modo, los tokens XNF adquiridos representan el token nativo de la cadena, como bXNF en la cadena BNB.
 
@@ -796,39 +796,39 @@ Al final de cada ciclo, el protocolo retira el 1% del total de tokens XNF LP y e
 
 ## ◽️ vXEN Mint Fee
 
-La comisión de acuñación de vXEN sólo se aplica cuando se quema una variante de ficha XEN para obtener vXEN. La comisión se determina en función del valor de mercado actual de los tokens quemados. Los tokens nativos generados a partir del canon de emisión vXEN se asignarán de la siguiente manera:
+El mint fee de vXEN sólo se aplica cuando se quema una variante de token XEN para obtener vXEN. El mint fee se determina en función del valor de mercado actual de los tokens quemados. Los tokens nativos generados a partir del mint dee de vXEN se asignarán de la siguiente manera:
 
 - **El 50% se utilizará para crear liquidez XNF:** El protocolo utiliza el 50% de los tokens nativos para crear liquidez XNF para la cadena. Si los 50.000 XNF preminted están disponibles, la cantidad completa de los tokens nativos se emparejará con XNF preminted para emparejar liquidez, quedando los tokens LP en poder del protocolo. Sin embargo, si la asignación de XNF preminted se ha agotado, el protocolo utilizará la mitad del 50% de los tokens nativos para comprar tokens XNF y el 25% restante de los tokens nativos para el emparejamiento de liquidez, quedando los tokens LP en poder del protocolo.
 
 - El protocolo utiliza el 50% de los tokens de la cadena nativa para crear liquidez para la variante de token XEN nativa para el pool XEN más líquido de esa cadena (por ejemplo, en la cadena BNB creará liquidez para la liquidez bXEN-BNB), utilizando el 25% de los tokens para comprar el token XEN nativo (por ejemplo, bXEN) y el 25% restante de los tokens para el emparejamiento de liquidez con los tokens LP que mantiene el protocolo.
 
-- Por ejemplo, supongamos que tienes 10.000 bXEN y quieres convertirlos en vXEN. Si el valor actual del bXEN es de 0,01 $ y usted tiene 10.000 bXEN, su bXEN vale 100 $. Por lo tanto, tendría que aportar 100 $ en BNB para la comisión de acuñación. Tras iniciar el proceso de acuñación, el protocolo generará vXEN basándose en el valor total de su bXEN y la comisión de acuñación. En este ejemplo, recibirá 200 vXEN a cambio, teniendo en cuenta su bXEN de 100 $ y la comisión de acuñación de 100 $ en BNB. Los bXEN por valor de 100 $ que enviaste durante el proceso se retirarán permanentemente de la circulación, y la contribución de 100 BNB por la comisión de acuñación irá a parar al Gestor de comisiones de acuñación de vXEN.
+- Por ejemplo, supongamos que tienes 10.000 bXEN y quieres convertirlos en vXEN. Si el valor actual del bXEN es de 0,01 $ y usted tiene 10.000 bXEN, su bXEN vale 100 $. Por lo tanto, tendría que aportar 100 $ en BNB para el mint fee. Tras iniciar el proceso de minting, el protocolo generará vXEN basándose en el valor total de su bXEN y el mint fee. En este ejemplo, recibirá 200 vXEN a cambio, teniendo en cuenta su bXEN de 100 $ y el mint fee de 100 $ en BNB. Los bXEN por valor de 100 $ que enviaste durante el proceso se retirarán permanentemente de la circulación, y la contribución de 100 BNB por la comisión de acuñación irá a parar el Mint Fee Manager de vXEN.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ vUSDy Mint Fee
 
-La comisión de acuñación vUSDy sólo es aplicable cuando conviertes USDy, xYSL o bYSL a vUSDy mediante el proceso de quemado. Los tokens nativos generados por la comisión de acuñación vUSDy se asignarán de la siguiente manera:
+El mint fee de vUSDy sólo es aplicable cuando conviertes USDy, xYSL o bYSL a vUSDy mediante el proceso de quemado. Los tokens nativos generados por el mint fee de vUSDy se asignarán de la siguiente manera:
 
 - El protocolo utiliza el 50% de los tokens nativos para crear liquidez XNF para la cadena. Si los 50.000 XNF preminted están disponibles, la cantidad completa de los tokens nativos se emparejará con XNF preminted para emparejar liquidez, quedando los tokens LP en poder del protocolo. Sin embargo, si la asignación de XNF preminted se ha agotado, el protocolo utilizará la mitad del 50% de los tokens nativos para comprar tokens XNF y el 25% restante de los tokens nativos para el emparejamiento de liquidez, quedando los tokens LP en poder del protocolo.
 
-- El protocolo utiliza el 50% de los tokens nativos para crear liquidez USDy-USDC propiedad del tesoro, acuñando el lado USDy del emparejamiento de liquidez y comprando USDC con el 50% de los tokens, enviando los tokens LP al Tesoro de YSL.IO.
+- El protocolo utiliza el 50% de los tokens nativos para crear liquidez USDy-USDC propiedad del tesoro, al minting en el lado USDy del emparejamiento de liquidez y comprando USDC con el 50% de los tokens, enviando los tokens LP al Tesoro de YSL.IO.
 
-- Por ejemplo, supongamos que tienes 100 tokens USDy y quieres convertirlos en vUSDy. Para cubrir la comisión de acuñación, necesita tener tokens nativos de la cadena. La comisión de acuñación se determinará en 100 BNB, basándose en el tipo de conversión fijo de 1,00 $ por USDy. Tras iniciar el proceso de acuñación, el protocolo generará vUSDy basándose en el valor total de tus USDy y la comisión de acuñación. En este ejemplo, recibirás 200 vUSDy a cambio, teniendo en cuenta tus 100 USDy y los 100 dólares de la comisión de acuñación del BNB. Los 100 USDy que enviaste durante el proceso se retirarán permanentemente de la circulación, y la comisión de acuñación de 100 BNB se enviará al Gestor de comisiones de acuñación de vUSDy.
+- Por ejemplo, supongamos que tienes 100 tokens USDy y quieres convertirlos en vUSDy. Para cubrir el mint fee, necesita tener tokens nativos de la cadena. El mint fee se determinará en 100 BNB, basándose en el tipo de conversión fijo de 1,00 $ por USDy. Tras iniciar el proceso de minting, el protocolo generará vUSDy basándose en el valor total de tus USDy y el mint fee. En este ejemplo, recibirás 200 vUSDy a cambio, teniendo en cuenta tus 100 USDy y los 100 dólares pertenecientes al mint fee en BNB. Los 100 USDy que enviaste durante el proceso se retirarán permanentemente de la circulación, y la comisión de acuñación de 100 BNB se enviará al  Mint Fee Manager de vUSDy.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Distribución del ciclo
+## ◽️ Ciclo de distribución de XNF
 
-Xenify emplea un enfoque equilibrado en la distribución diaria de los tokens XNF, centrándose en dos componentes centrales en todas las cadenas en las que está desplegado: las comisiones por quema y las comisiones por intercambio. Estos componentes reciben una parte equitativa de la recaudación diaria, con un 50% asignado a los usuarios que participan en la quema de vXEN o vUSDy tokens, y el 50% restante distribuido entre los que participan en swaps.
+Xenify emplea un enfoque equilibrado en la distribución diaria de los tokens XNF, centrándose en dos componentes centrales en todas las cadenas en las que está lanzado: las burn fees y los swap fees. Estos componentes reciben una parte equitativa de la recaudación diaria, con un 50% asignado a los usuarios que participan en la quema de vXEN o vUSDy tokens, y el 50% restante distribuido entre los que participan en swaps.
 
-Por ejemplo, si la cantidad diaria de fichas XNF acuñadas es de 20.000, la distribución se divide a partes iguales. Aquellos que contribuyen a las tasas de quema reciben 10.000 tokens XNF, y una cantidad equivalente se da a los que contribuyen a las tasas de intercambio. Esta estructura de reparto uniforme se extiende a todas las cadenas en las que Xenify está presente. Por lo tanto, independientemente de la cadena que estén utilizando, los participantes involucrados en la quema de tokens o en la ejecución de swaps tienen la oportunidad de ganar una parte de los tokens XNF acuñados diariamente.
+Por ejemplo, si la cantidad diaria de tokens XNF minteados es de 20.000, la distribución se divide a partes iguales. Aquellos que contribuyen a los burn fees reciben 10.000 tokens XNF, y una cantidad equivalente se da a los que contribuyen a los swap fees. Esta estructura de reparto uniforme se extiende a todas las cadenas en las que Xenify está presente. Por lo tanto, independientemente de la cadena que estén utilizando, los participantes involucrados en la quema de tokens o en la ejecución de swaps tienen la oportunidad de ganar una parte de los tokens XNF minteados diariamente.
 
-Por ejemplo, si la acuñación diaria de XNF es de 20.000 tokens XNF, Xenify distribuirá la asignación de dos maneras: 10.000 XNF a los que contribuyen a las tasas de quemado, y 10.000 XNF a los que contribuyen a las tasas de intercambio. Esta misma estructura de asignación se aplica en todas las demás cadenas en las que Xenify está desplegado. En consecuencia, independientemente de la cadena, los usuarios que contribuyan a la quema de tokens o participen en swaps tendrán la oportunidad de ganar una parte de los tokens XNF recién acuñados cada día.
+Por ejemplo, si la creacion o minting diario de XNF es de 20.000 tokens XNF, Xenify distribuirá la asignación de dos maneras: 10.000 XNF a los que contribuyen a los burn fees, y 10.000 XNF a los que contribuyen a los swap fees. Esta misma estructura de asignación se aplica en todas las demás cadenas en las que Xenify se lanzé o se encuentre presente. En consecuencia, independientemente de la cadena, los usuarios que contribuyan a la quema de tokens o participen en swaps tendrán la oportunidad de ganar una parte de los tokens XNF minted cada día.
 
-Para determinar la parte de cada usuario de la moneda diaria asignada a las contribuciones de intercambio y quema, el protocolo realizará una serie de cálculos. Estos cálculos se basarán en las contribuciones de intercambio y quema realizadas por un usuario durante el ciclo. El protocolo consolidará estas contribuciones para calcular con precisión la distribución total de XNF para cada usuario. Este enfoque metódico garantiza una distribución equitativa, acreditando tanto la participación activa del usuario en la quema de tokens como su contribución en términos de comisiones de intercambio.
+Para determinar el share de la alocación correspondiente de los minting diarios de cada usuario atribuidos sus contribiciones de burn y swap fees, el protocolo realizará una serie de cálculos. Estos cálculos se basarán en las contribuciones de swap y buen realizadas por un usuario durante el ciclo. El protocolo consolidará estas contribuciones para calcular con precisión la distribución total de XNF para cada usuario. Este enfoque metódico garantiza una distribución equitativa, acreditando tanto la participación activa del usuario en la quema de tokens como su contribución en términos de comisiones de intercambio.
 
-El protocolo calcula la contribución de quemado (BC) de un usuario específico en un ciclo, basándose en el total de tokens XNF distribuidos (TCD), el número total de lotes quemados por todos los usuarios (TNB) y el número de lotes quemados por el usuario específico (UNB). He aquí la fórmula explicada en detalle:
+El protocolo calcula la contribución de quemado o burn contribution (BC) de un usuario específico en un ciclo, basándose en el total de tokens XNF distribuidos (TCD), el número total de lotes quemados por todos los usuarios (TNB) y el número de lotes quemados por el usuario específico (UNB). He aquí la fórmula explicada en detalle:
 
 <br>
 
@@ -849,7 +849,7 @@ $$
 
 Funciona de la siguiente manera: El protocolo calcula la contribución a la quema dividiendo primero el total de tokens distribuidos durante un ciclo (TCD) entre 2, ya que el 50% del mint diario de XNF se asigna a los participantes que queman vXEN o vUSDy. A continuación, calcula la proporción de lotes quemados por el usuario específico (UNB) respecto al total de lotes quemados por todos los usuarios (TNB). El resultado es un valor por lote quemado. Por último, el protocolo multiplica estos dos valores para determinar la contribución individual del usuario en ese ciclo (BC).
 
-El cálculo de la contribución de intercambio sigue una lógica similar, según la cual el protocolo calcula la contribución de intercambio (SC) de un usuario específico en un ciclo, basándose en el total de tokens XNF distribuidos (TCD), el total de comisiones de intercambio pagadas por todos los usuarios (TSF) y las comisiones de intercambio pagadas por el usuario específico (USF). He aquí la fórmula explicada en detalle:
+El cálculo de la contribución de swap sigue una lógica similar, según la cual el protocolo calcula la contribución de swap (SC) de un usuario específico en un ciclo, basándose en el total de tokens XNF distribuidos (TCD), el total de swap fees pagadas por todos los usuarios (TSF) y los swap fees pagadas por el usuario específico (USF). He aquí la fórmula explicada en detalle:
 
 <br>
 
@@ -861,14 +861,14 @@ $$
 
 **Dónde:**
 
-- *SC* - representa la contribución de intercambio del usuario.
+- *SC* - representa la contribución de swap del usuario.
 - *TCD* - es la cantidad total de tokens XNF distribuidos en un ciclo.
-- *USF* - son las comisiones de intercambio pagadas por un usuario específico en un ciclo.
-- *TSF* - es el total de comisiones de intercambio pagadas en un ciclo por todos los usuarios.
+- *USF* - son las swap fees pagadas por un usuario específico en un ciclo.
+- *TSF* - es el total de swap fees pagadas en un ciclo por todos los usuarios.
 
 <br>
 
-Funciona de la siguiente manera: El protocolo calcula la contribución de intercambio del usuario (SC) dividiendo primero el total de tokens XNF distribuidos (TCD) por 2, ya que el 50% de la acuñación diaria de XNF se asigna a los participantes que realizan intercambios en cadenas compatibles. A continuación, multiplica el resultado por la relación entre las comisiones de intercambio del usuario (USF) y el total de comisiones de intercambio (TSF) pagadas por todos los usuarios. Esto genera un valor específico para cada unidad de comisión de intercambio pagada y ayuda a determinar la proporción de tokens XNF que recibe un usuario en función de su contribución individual a las comisiones de intercambio en un ciclo determinado.
+Funciona de la siguiente manera: El protocolo calcula la contribución de swap del usuario (SC) dividiendo primero el total de tokens XNF distribuidos (TCD) por 2, ya que el 50% de minting diaria de XNF se asigna a los participantes que realizan swaps en cadenas compatibles. A continuación, multiplica el resultado por la relación entre las swap fees del usuario (USF) y el total de swap fees (TSF) pagadas por todos los usuarios. Esto genera un valor específico para cada unidad de swap fee pagada y ayuda a determinar la proporción de tokens XNF que recibe un usuario en función de su contribución individual a las swap fees en un ciclo determinado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -884,19 +884,19 @@ Funciona de la siguiente manera: El protocolo calcula la contribución de interc
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Estacar fichas XNF
+## ◽️ Staking XNF tokens
 
-Cada ciclo, el protocolo de Xenify distribuye tokens XNF recién acuñados a sus usuarios. La distribución tiene lugar al final de cada día y se adhiere a una estructura de asignación particular. En concreto, el 50% de los XNF acuñados diariamente se asigna a los usuarios que participan en la quema de tokens vXEN y vUSDy, y el 50% restante se distribuye a los usuarios que participan en intercambios a través de todas las cadenas EVM compatibles.
+Cada ciclo, el protocolo de Xenify distribuye tokens XNF recién minted a sus usuarios. La distribución tiene lugar al final de cada día y se adhiere a una estructura de asignación particular. En concreto, el 50% de los XNF distribuidos diariamente se asigna a los usuarios que participan en la quema de tokens vXEN y vUSDy, y el 50% restante se distribuye a los usuarios que participan en swaps a través de todas las cadenas EVM compatibles.
 
-Los tokens XNF apostados desempeñan un papel esencial en la acumulación de recompensas de la cadena nativa para los usuarios, y la parte de cada usuario viene determinada por su posición veXNF y el poder de ganancia asociado. Los tokens apostados empiezan a acumular recompensas nativas de la cadena en el mismo ciclo en el que son apostados. Estas recompensas se reúnen en un fondo de recompensas durante cada ciclo y luego se distribuyen entre los apostadores XNF por el protocolo al final del ciclo diario.
+Los tokens XNF que estan staked desempeñan un papel esencial en la acumulación de recompensas de la cadena nativa para los usuarios, y la parte de cada usuario viene determinada por su posición veXNF y el poder de ganancia asociado. Los tokens stakeados empiezan a acumular recompensas nativas de la cadena en el mismo ciclo en el que son staked. Estas recompensas se reúnen en un fondo de recompensas durante cada ciclo y luego se distribuyen entre los stakers XNF por el protocolo al final del ciclo diario.
 
-Los usuarios que deseen obtener una parte de las recompensas de la cadena nativa en Xenify deben apostar manualmente sus tokens XNF o reclamar activamente su asignación diaria de XNF. Al hacerlo, bloquean su XNF durante el periodo de bloqueo elegido, que puede ser tan corto como dos semanas o tan largo como cuatro años. Una vez establecido el periodo de bloqueo deseado, el XNF del usuario se estaca y bloquea según el periodo seleccionado. Posteriormente, el protocolo acuñará tokens veXNF para el usuario, reflejando la cantidad de XNF apostado y el periodo de bloqueo elegido. Durante el periodo de bloqueo, los usuarios no pueden retirar su XNF, pero siguen acumulando recompensas nativas de la cadena. La distribución de estas recompensas viene determinada por el poder adquisitivo de su veXNF.
+Los usuarios que deseen obtener una parte de las recompensas de la cadena nativa en Xenify deben stakear manualmente sus tokens XNF o reclamar activamente su asignación diaria de XNF. Al hacerlo, bloquean su XNF durante el periodo de bloqueo elegido, que puede ser tan corto como dos semanas o tan largo como cuatro años. Una vez establecido el periodo de bloqueo deseado, el XNF del usuario se stakea y bloquea según el periodo seleccionado. Posteriormente, el protocolo distribuirá tokens veXNF para el usuario, reflejando la cantidad de XNF stekeado y el periodo de bloqueo elegido. Durante el periodo de bloqueo, los usuarios no pueden retirar su XNF, pero siguen acumulando recompensas nativas de la cadena. La distribución de estas recompensas viene determinada por el poder adquisitivo de su veXNF.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-Una vez completado el ciclo de apuesta elegido, los usuarios tienen la opción de retirar sus fichas XNF. Es importante señalar que los usuarios no pueden retirar sus XNF durante el periodo de bloqueo especificado. Sin embargo, los usuarios acumularán recompensas nativas de la cadena durante el periodo de bloqueo. Estas recompensas están directamente conectadas a su posición veXNF, y la potencia del veXNF de un usuario durante el ciclo de bloqueo determina su parte de cada distribución de recompensas.
+Una vez completado el ciclo de staking elegido, los usuarios tienen la opción de retirar sus XNF tokens. Es importante señalar que los usuarios no pueden retirar sus XNF durante el periodo de bloqueo especificado. Sin embargo, los usuarios acumularán recompensas nativas de la cadena durante el periodo de bloqueo. Estas recompensas están directamente conectadas a su posición veXNF, y la potencia del veXNF de un usuario durante el ciclo de bloqueo determina su parte de cada distribución de recompensas.
 
 Una vez finalizado el periodo de bloqueo elegido, el poder de ganancia de la posición veXNF de un usuario decaerá por completo. Esto significa que ya no obtendrán recompensas nativas de la cadena por su posición. En este punto, los usuarios tienen dos opciones: pueden ampliar su ciclo de participación por una duración máxima de 4 años para preservar el poder de ganancia de su veXNF, o pueden decidir desinvertir sus tokens XNF y recuperar la plena propiedad.
 
@@ -906,9 +906,9 @@ La decisión de ampliar el ciclo de apuesta o retirar los tokens es totalmente d
 
 ## ◽️ Reclamación de recompensas de la Cadena Nativa
 
-Xenify permite a los usuarios reclamar y retirar sin esfuerzo sus recompensas acumuladas de la cadena nativa según su conveniencia. Sin embargo, tenga en cuenta que se aplicará una tasa de reclamación del 25% al reclamar sus recompensas de cadena nativa.
+Xenify permite a los usuarios reclamar y retirar sin esfuerzo sus recompensas acumuladas de la cadena nativa según su conveniencia. Sin embargo, tenga en cuenta que se aplicará un claim fee del 25% al reclamar sus recompensas de cadena nativa.
 
-Para evitar la tasa de reclamación del 25%, simplemente haga clic en el botón "Reciclar". Esto le permite utilizar sus tokens nativos acumulados en la cadena para adquirir XNF participando en la quema diaria de vUSDy, evitando por completo la Comisión de Reclamación. A lo largo de cada ciclo, los tokens nativos recaudados de esta tasa se almacenan en una reserva temporal. Al final del ciclo, estos tokens se distribuyen exclusivamente entre los titulares de veXNF que hayan empleado la función Reciclar durante el ciclo.
+Para evitar el claim fee del 25%, simplemente haga clic en el botón "Reciclar". Esto le permite utilizar sus tokens nativos acumulados en la cadena para adquirir XNF participando en la quema diaria de vUSDy, evitando por completo el claim fee. A lo largo de cada ciclo, los tokens nativos recaudados de esta tasa o fee se almacenan en una reserva temporal. Al final del ciclo, estos tokens se distribuyen exclusivamente entre los titulares de veXNF que hayan empleado la función Reciclar durante el ciclo.
 
 Esta distribución única se produce durante la distribución diaria de recompensas de la cadena nativa del protocolo, en la que cada participante elegible recibe una parte en función de su posición. Por ejemplo, si un usuario recicla sus recompensas durante un ciclo, se le incluirá en la distribución de los ingresos generados por la Cuota de Reclamación al final de ese ciclo.
 
