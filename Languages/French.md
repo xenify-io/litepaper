@@ -287,7 +287,7 @@ Une fois que vous possédez vUSDy, vous pouvez le brûler pour participer à la 
 
 <br>
 
-| Taux de conversion  | Taux de conversion   |
+| Jeton natif  | Taux de conversion   |
 |---------------------|----------------------|
 | USDy                | 1 USDy = 1 vUSDy     |
 | bYSL                | 1 bYSL = 5 vUSDy     |
@@ -1016,86 +1016,94 @@ Pendant la phase de pré-déploiement, alors que l'événement de largage est en
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Amplifier les brûlures
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Amplification des brûlures
 
-<br>
+![Ligne de séparation - Remplie](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-Voici [Phoenix Apes](https://docs.ysl.io/protocol-features/Phoenix-NFT), le NFT exclusif à collectionner qui unit les communautés Xenify et YSL.IO. En possédant l'un de ces extraordinaires NFT, les utilisateurs de Xenify débloqueront un effet de combustion quotidien amplifié, augmentant de façon exponentielle leur nombre de lots jusqu'à 100 lors de la combustion de vXEN ou vUSDy. De plus, posséder ou louer un minimum de 4 de ces NFT très convoités vous permettra de bénéficier d'une amplification encore plus importante, votre portefeuille recevant un bonus quotidien pouvant aller jusqu'à 1 000 lots.
+Présentation de l'amplification des brûlures de Xenify, une opportunité exclusivement conçue pour les propriétaires de XENFT de classe 1 APEX (Xunicorn), de XENFT de classe 2 APEX (Exotique) ou de [Jetons Non Fongibles Phoenix Ape](https://docs.ysl.io/protocol-features/Phoenix-NFT). Grâce à la propriété de ces NFT rares, vous débloquerez un effet de brûlure amplifié quotidien, augmentant votre nombre de lots de 100 lors de la combustion de vXEN ou vUSDy. Si vous possédez ou louez au moins quatre de ces NFT très recherchés, préparez-vous à un bonus quotidien encore plus important, car votre portefeuille recevra un généreux bonus quotidien de 1000 lots.
 
-En outre, les détenteurs du Phoenix NFT bénéficieront d'une série d'avantages supplémentaires. Ils auront notamment la possibilité de gagner des récompenses USDC toutes les 8 heures et de contourner le taux de sortie Sigma sur le protocole YSL.IO. Ces avantages supplémentaires renforcent l'engagement des utilisateurs tout en contribuant de manière significative à la croissance des écosystèmes Xenify et YSL.IO.
+En outre, les détenteurs du jeton non fongible Phoenix Ape bénéficieront d'une gamme d'avantages supplémentaires. Cela comprend la possibilité de gagner des récompenses en USDC toutes les 8 heures et de contourner le taux de sortie Sigma sur le protocole YSL.IO. Ces avantages supplémentaires améliorent l'engagement des utilisateurs tout en contribuant de manière significative à la croissance des écosystèmes Xenify et YSL.IO.
 
-Chaque portefeuille qui détient un NFT de Phoenix Ape est soumis à un quota hebdomadaire de sortie (WOQ) qui autorise une seule transaction sortante impliquant un NFT de Phoenix Ape tous les 7 jours. Les transactions sortantes comprennent le transfert d'un NFT de Phoenix Ape vers un autre portefeuille ou la vente du NFT. Veuillez noter que pendant que la restriction WOQ est en vigueur, les détenteurs de portefeuilles sont toujours autorisés à transférer l'utilité de leur(s) NFT de Phoenix Ape vers une autre chaîne. En bref, le transfert de l'utilité d'un NFT vers une chaîne différente ne déclenche pas le WOQ et n'affecte pas la capacité de l'utilisateur à transférer l'utilité de son (ses) NFT de Phoenix Ape.
+Chaque portefeuille détenant un jeton non fongible Phoenix Ape est soumis à un quota hebdomadaire sortant (QHS) qui permet une seule transaction sortante impliquant un jeton non fongible Phoenix Ape tous les 7 jours. Les transactions sortantes comprennent le transfert d'un jeton non fongible Phoenix Ape à un autre portefeuille ou la vente du NFT. Veuillez noter que pendant que la restriction QHS est en vigueur, les détenteurs de portefeuilles sont toujours autorisés à transférer l'utilité de leur(s) jeton(s) non fongible(s) Phoenix Ape sur une autre chaîne. En résumé, le transfert de l'utilité d'un NFT sur une chaîne différente ne déclenche pas le QHS et n'a aucun impact sur la capacité de l'utilisateur à transférer l'utilité de ses NFT Phoenix Ape.
 
-Et voici le meilleur : Votre bonus de lot quotidien, que vous possédiez un ou quatre NFT, peut être transféré de façon transparente à n'importe quelle chaîne lancée par Xenify. Votre bonus de combustion étant réinitialisé chaque jour, vous aurez l'opportunité de récolter les bénéfices de cet effet de combustion amplifié sur toutes les chaînes que Xenify lance quotidiennement !
+Et voici le meilleur : votre bonus quotidien de lots, que vous possédiez un NFT ou quatre NFT Phoenix Ape, peut être transféré sans problème sur n'importe quelle chaîne sur laquelle Xenify est lancé. Avec votre bonus réinitialisé chaque jour, vous aurez la possibilité de récolter les avantages de cet effet de brûlure amplifié sur toutes les chaînes sur lesquelles Xenify est lancé quotidiennement !
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Pour rendre les Phoenix Apes accessibles à un large éventail de participants, il sera disponible exclusivement via une enchère hebdomadaire. Cela garantit l'équité et l'engagement, en donnant à chacun suffisamment de temps pour sécuriser son précieux NFT Phoenix Ape. L'enchère débute avec une mise à prix minimale de seulement 10 bXNF (XNF natif de la chaîne BNB). Cela signifie que, si aucune offre n'a encore été placée, vous pouvez lancer l'enchère avec une mise minimale de 10 bXNF. S'il existe des offres existantes, votre offre doit être soit supérieure de 2 bXNF à l'offre la plus élevée, soit 105 % de l'offre la plus élevée, selon le montant le plus élevé.
+
+Chaque enchère hebdomadaire dure un minimum de 168 heures et comprend une extension temporelle tampon de 5 minutes. Cela signifie que si une offre est placée dans les 5 dernières minutes de l'enchère, 5 minutes supplémentaires seront ajoutées à la durée, l'enchère ne se terminant que lorsqu'aucune offre n'est placée dans les 5 dernières minutes de l'heure de fin prévue. Cela garantit qu'aucune enchère ne commencera tant que l'enchère en cours ne sera pas terminée, donnant à chacun une chance équitable de participer. Par exemple, supposons que l'enchère doive se terminer à 12h00 et qu'une offre soit placée à 11h59. L'heure de fin sera prolongée jusqu'à 12h05, et ce processus se poursuit jusqu'à ce qu'il n'y ait aucune offre dans les cinq dernières minutes, donnant à chaque enchérisseur une chance équitable.
+
+En outre, dès qu'une offre plus élevée est placée pendant l'enchère, le précédent enchérisseur le plus offrant reçoit un remboursement complet de ses bXNF. Cela garantit l'équité tout au long du processus, car ils peuvent utiliser leurs bXNF remboursés pour placer une autre offre s'ils le souhaitent. De plus, 100% des bXNF acquis auprès de l'enchérisseur gagnant seront brûlés, ce qui profitera davantage à l'écosystème Xenify.
+
+Une fois que vous remportez l'enchère, vous pouvez réclamer votre NFT Phoenix Ape, qui génère votre NFT unique. Il est important de noter que seul le portefeuille associé à la mise gagnante peut réclamer le NFT Phoenix Ape, assurant ainsi une sécurité maximale pour tous les participants. Et voici un autre détail important : si vous êtes l'heureux gagnant de l'enchère, vous devrez réclamer votre NFT Phoenix Ape avant de participer à des enchères ultérieures. Ce mécanisme empêche tout participant unique d'accumuler des NFT non frappés.
+
+**Examinons quelques-unes des caractéristiques exceptionnelles qui distinguent les NFT Phoenix Ape des NFT conventionnels :**
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Collection limitée
 
-Les Phoenix Apes, une collection exclusive de NFT développée pour YSL.IO, sont disponibles en 520 exemplaires seulement. Ces NFT très recherchés ont été ingénieusement conçus dans un souci d'utilité. Non seulement ils possèdent des raretés distinctives, mais ils accordent également à leur détenteur des avantages exceptionnels au sein de l'écosystème YSL.IO.
+Le Phoenix Apes est un NFT de collection qui a été conçu pour unir les communautés Xenify et YSL.IO. L'exclusif développé par YSL.IO, collection NFT, dispose d'une offre rare de seulement 520. Ces NFT très recherchés ont été intelligemment conçus avec une utilité à leur cœur. Non seulement ils possèdent des raretés uniques, mais ils confèrent également des avantages exceptionnels à leurs détenteurs au sein de l'écosystème Xenify et YSL.IO.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Effet de brûlure quotidien amplifié
+## ◽️ Effet de combustion amplifié quotidien
 
-Les détenteurs de NFT de Phoenix Ape bénéficient d'un effet de gravure amplifié exclusif lorsqu'ils choisissent de graver vXEN ou vUSDy sur Xenify. Cet avantage unique permet aux détenteurs de NFT de s'assurer une plus grande part de la distribution quotidienne de XNF, tout en bénéficiant de réductions significatives sur leurs frais de combustion. En jetant un pont entre les deux communautés, cet avantage exceptionnel favorise l'unité et alimente la croissance des deux protocoles.
+Préparez-vous à déchaîner la puissance de votre NFT Phoenix Ape, XENFT de classe 1 APEX (Xunicorn) ou XENFT de classe 2 APEX (Exotique) sur Xenify ! En tant que fier propriétaire de ces remarquables NFT, vous accédez à un effet de brûlure amplifié exclusif qui élève votre contribution de brûlure à de nouveaux sommets. Cet avantage unique permet aux détenteurs de NFT de sécuriser une plus grande part de la distribution quotidienne de XNF, tout en bénéficiant également de réductions importantes sur leurs frais de brûlure. En réunissant les communautés de ces NFT exceptionnels, cet effet de brûlure amplifié favorise l'unité et alimente la croissance de chaque écosystème, créant une situation gagnant-gagnant pour toutes les parties prenantes.
 
-Voici comment cela fonctionne : Lorsque les détenteurs de NFT de Phoenix Ape décident de brûler vXEN ou vUSDy sur Xenify, ils débloquent un bonus de brûlage quotidien qui double leur nombre de lots (NB). Le bonus est plafonné à 100 lots quotidiens par NFT ID. Une fois qu'un utilisateur a épuisé les 100 lots quotidiens alloués à son NFT Phoenix Ape, ce NFT spécifique n'offrira plus de combustion amplifiée pour ce jour.
+Voici comment cela fonctionne : lorsque les détenteurs de NFT décident de brûler du vXEN ou du vUSDy sur Xenify, ils débloquent un bonus de brûlure quotidien qui double leur nombre de lots (NB). Le bonus est plafonné à 100 lots quotidiens par identifiant NFT. Une fois qu'un utilisateur a épuisé les 100 lots de bonus quotidiens alloués à son NFT, ce NFT spécifique n'offrira plus de brûlure amplifiée pour ce jour-là.
 
-Vous avez besoin d'une puissance de feu supplémentaire ? Nous avons une excellente nouvelle ! En possédant ou en louant au moins 4 de ces NFT très recherchés, vous bénéficierez d'une amplification encore plus importante, votre portefeuille recevant un bonus quotidien de 1 000 lots. Cela remplace effectivement les 100 lots de bonus quotidiens par défaut réservés à chacun de vos quatre NFT ID. En bref, si vous détenez 4 NFT, votre bonus quotidien total sera plafonné à 1 000 lots, et non à 1 400 lots.
+Vous recherchez plus de puissance de feu ? Nous avons une excellente nouvelle ! En possédant ou en louant au moins 4 de ces NFT très convoités, vous bénéficierez d'une amplification encore plus grande, avec votre portefeuille recevant un bonus quotidien de 1 000 lots. Cela remplace effectivement les 100 lots de bonus quotidiens par défaut réservés à chacun de vos quatre identifiants NFT. En bref, si vous détenez 4 NFT, votre bonus quotidien total sera plafonné à 1 000 lots, et non à 1 400 lots.
+N'oubliez pas, plus vous brûlez de lots, plus vous économisez sur les frais de combustion. En détenant 4 NFT, vous pouvez obtenir une réduction maximale de 75 % sur vos frais de combustion en brûlant seulement 9 000 lots pendant la première heure d'un cycle au lieu des 10 000 habituels. De plus, avec une offre limitée de seulement 520 NFT Phoenix Ape, il ne peut y avoir qu'un maximum de 130 adresses de portefeuille pouvant saisir cette puissance de feu supplémentaire.
 
-N'oubliez pas que plus vous brûlez de lots, plus vous économisez sur les frais de combustion. En détenant 4 NFT, vous pouvez réaliser une économie maximale de 75 % sur vos frais de combustion en brûlant seulement 9 000 lots pendant la première heure d'un cycle au lieu des 10 000 habituels. De plus, les NFT de Phoenix Ape étant limités à 520, il ne peut y avoir qu'un maximum de 130 adresses de portefeuilles qui peuvent profiter de cette puissance de feu supplémentaire.
+Et voici le meilleur : votre bonus quotidien de lots, que vous ayez un NFT ou quatre NFT, peut être transféré sans problème vers n'importe quelle chaîne sur laquelle Xenify est lancé. Supposons que Xenify s'étende à Polygon et que vous déteniez 4 NFT Phoenix Ape. Une fois que vous avez épuisé votre bonus quotidien de 1 000 lots sur la chaîne BNB, vous pouvez facilement transférer l'utilité de vos NFT vers Polygon et bénéficier de 1 000 lots bonus là-bas. Avec votre multiplicateur réinitialisé chaque jour, vous aurez la possibilité de récolter les avantages de cet effet de brûlure amplifié sur toutes les chaînes sur lesquelles Xenify est lancé quotidiennement !
 
-Et voici le meilleur : Votre bonus quotidien par lot, que vous ayez un ou quatre NFT, peut être transféré de manière transparente vers n'importe quelle chaîne lancée par Xenify. Supposons que Xenify s'étende à Ethereum et que vous déteniez 4 NFT Phoenix Ape. Une fois que vous avez épuisé votre bonus quotidien de 1 000 lots sur la chaîne BNB, vous pouvez facilement transférer l'utilité de vos NFT sur Ethereum et profiter de 1 000 lots de bonus. Votre multiplicateur étant réinitialisé chaque jour, vous aurez l'opportunité de récolter les bénéfices de cet effet de combustion amplifié sur toutes les chaînes que Xenify lance quotidiennement !
-
-En résumé, les détenteurs de Phoenix Ape NFTs bénéficient non seulement d'une part accrue de la distribution quotidienne de XNF, mais aussi de réductions plus importantes sur les frais de combustion en brûlant un plus grand nombre de lots. La quantité maximale de lots par transaction est plafonnée à 10 000 lots, et la réduction de la commission de combustion est représentée par le terme (1 - (NB x CS)) dans la formule de la commission de combustion des protocoles :
+En résumé, les détenteurs de NFT Phoenix Ape bénéficient non seulement d'une part accrue de la distribution quotidienne de XNF, mais débloquent également des réductions plus importantes sur les frais de combustion en brûlant un plus grand nombre de lots. Le nombre maximum de lots par transaction est plafonné à 10 000 lots, et la réduction des frais de combustion est représentée par le terme (1 - (NB x CS)) dans la formule des frais de combustion du protocole :
 
 <br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))
+BF = (FC \times VB) \times (1 - (NB \times BC)) 
 $$
 
-**Où:**
+**Où :**
 
-- $BF$ (Frais de brûlage) - Frais facturés pour la fonction de combustion, payés en jetons natifs de la blockchain.
-- $FC$ (Coefficient de redevance de combustion) - Un coefficient pondéré par le temps utilisé pour tenir compte d'une réduction sur les frais de combustion.
-- $VB$ (Valeur des lots) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion au fur et à mesure que la valeur des lots augmente.
-- $BC$ (Coefficient de lot) - Coefficient pondéré dans le temps utilisé pour tenir compte de la réduction basée sur les lots brûlés.
-- $NB$ (Nombre de lots) - Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de combustion à mesure que le nombre de lots augmente. Ce nombre sera plafonné à 10 000 lots.
+- $BF$ (Frais de combustion) - Les frais facturés pour la fonction de combustion, payés dans le jeton natif de la blockchain.
+- $FC$ (Coefficient des frais de combustion) - Un coefficient pondéré dans le temps utilisé pour prendre en compte une remise sur les frais de combustion.  
+- $VB$ (Valeur des lots) - La valeur en dollars des lots brûlés par l'utilisateur, influençant les frais de combustion à mesure que la valeur des lots augmente.
+- $BC$ (Coefficient de lot) - Un coefficient pondéré dans le temps utilisé pour prendre en compte la remise en fonction des lots brûlés.
+- $NB$ (Nombre de lots) - Le nombre de lots que l'utilisateur brûle, influençant la remise sur les frais de combustion à mesure que le nombre de lots augmente. Ceci sera plafonné à 10 000 lots.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Exemple : Effet de brûlure amplifié
+## ◽️ Exemple : Effet de brûlure amplifié 
 
-Examinons de plus près le fonctionnement de la combustion amplifiée dans différents scénarios :
+Regardons de plus près comment fonctionne la combustion amplifiée dans différents scénarios :
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scénario 1 : Si vous détenez entre 1 et 3 NFT Phoenix Ape
+## ♦️ Scénario 1 : Si vous détenez entre 1 et 3 NFT Phoenix Ape, XENFT de classe 1 APEX (Xunicorn) ou XENFT de classe 2 APEX (Exotique) :
 
-  - Chaque NFT de Phoenix Ape est équipé d'un multiplicateur de bonus quotidien limité à 100 lots. Lors de la combustion d'un nombre spécifique de lots, le protocole vérifie d'abord si l'un de vos NFT possède un solde de bonus. Si c'est le cas, le protocole utilise votre solde de bonus pour augmenter votre nombre de lots.
+  - Chaque NFT se voit accorder un multiplicateur de bonus quotidien limité à 100 lots. Lors de la combustion d'un nombre spécifique de lots, le protocole vérifie d'abord si l'un de vos NFT possède un solde de bonus. Si c'est le cas, le protocole utilise votre solde de bonus pour augmenter votre nombre de lots.
 
-  - Par exemple, imaginez que vous ayez un bonus quotidien de 100 lots sur votre NFT et que vous choisissiez de brûler 10 lots. Le protocole doublera effectivement votre nombre de lots à 20 lots, en utilisant 10 des lots de votre bonus quotidien. Par conséquent, 10 lots du bonus quotidien de votre NFT ID seront déduits, ce qui laissera 90 lots bonus pour ce NFT ce jour-là.
+  - Par exemple, imaginez que vous avez un bonus quotidien de 100 lots sur votre NFT et que vous choisissez de brûler 10 lots. Le protocole doublera effectivement votre nombre de lots à 20 lots, en utilisant 10 de vos lots de bonus quotidiens. En conséquence, 10 lots du bonus quotidien de l'ID NFT seront déduits, laissant 90 lots de bonus pour ce NFT ce jour-là.
 
-  - Cependant, si vous décidez de brûler un montant supérieur à votre solde de bonus, le protocole consommera la totalité du solde de votre NFT. Par exemple, si votre solde de bonus quotidien est de 90 lots et que vous décidez de brûler 5 000 lots, le processus de combustion comptera 5 090 lots, ce qui consommera la totalité des 90 lots du solde de bonus de votre NFT. Par conséquent, les 90 lots de bonus attribués à l'ID du NFT seront supprimés, laissant zéro lot de bonus pour ce NFT ce jour-là. Si ce n'est pas le cas, votre nombre de lots de bonus sera réinitialisé à 100 le jour suivant.
+  - Cependant, si vous décidez de brûler un montant dépassant votre solde de bonus, le protocole consommera l'intégralité du solde de votre NFT. Par exemple, si votre solde de bonus quotidien actuel est de 90 lots et que vous choisissez de brûler 5 000 lots, le processus de combustion le comptera comme 5 090 lots, en utilisant les 90 lots complets du solde de bonus de votre NFT. En conséquence, les 90 lots de bonus alloués à l'ID NFT seront supprimés, laissant zéro lot de bonus pour ce NFT ce jour-là. Ne vous inquiétez pas, votre nombre de lots de bonus sera réinitialisé à 100 le lendemain.
 
-  - En outre, vous avez la possibilité de relier l'utilité de votre NFT à une autre chaîne où Xenify a été lancé. Ce faisant, vous pouvez accéder à 100 lots de bonus quotidiens supplémentaires ce jour-là, ce qui vous permet d'obtenir 200 lots de bonus quotidiens pour votre NFT. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, il vous suffit de relier l'utilitaire de votre NFT à Ethereum pour recevoir 1 000 lots de bonus quotidiens sur Ethereum. Ce processus peut être répété pour chaque chaîne où Xenify a été déployé.
+  - De plus, vous avez la possibilité de transférer l'utilité de votre NFT vers une autre chaîne où Xenify a été lancé. Ce faisant, vous pouvez accéder à 100 lots de bonus quotidiens supplémentaires ce jour-là, vous accordant effectivement 200 lots de bonus quotidiens pour votre NFT. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, il vous suffit de transférer l'utilité de votre NFT vers Ethereum et de recevoir 1 000 lots de bonus quotidiens sur Ethereum. Ce processus peut être répété pour chaque chaîne où Xenify a été déployé.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scénario 2 : si vous détenez 4 NFT Phoenix Ape ou plus
+## ♦️ Scénario 2 : Si vous détenez 4 NFT Phoenix Ape, XENFT de classe 1 APEX (Xunicorn) ou XENFT de classe 2 APEX (Exotique) ou plus :
 
-  - Si vous possédez ou louez 4 Phoenix Ape NFT, brûler des lots devient encore plus gratifiant. Votre portefeuille recevra un bonus quotidien de 1 000 lots. Cela remplace les 100 lots de bonus quotidiens par défaut réservés à chacun de vos NFT ID. En bref, si vous détenez 4 NFT ou plus dans votre portefeuille, votre bonus quotidien total sera plafonné à 1 000 lots pour ce portefeuille. Lorsque vous choisissez de brûler une quantité de lots inférieure à votre bonus quotidien actuel, le protocole doublera votre nombre de lots en utilisant une quantité équivalente.
+  - Si vous détenez 4 NFT et que vous brûlez des lots, cela devient encore plus gratifiant. Votre portefeuille recevra un bonus quotidien de 1 000 lots. Cela remplace effectivement les 100 lots de bonus quotidiens par défaut réservés pour chacun de vos ID NFT. En bref, si vous détenez 4 NFT ou plus dans votre portefeuille, votre bonus quotidien total sera plafonné à 1 000 lots pour ce portefeuille. Lorsque vous choisissez de brûler un nombre de lots inférieur à votre bonus quotidien actuel, le protocole doublera votre nombre de lots en utilisant un montant équivalent.
 
-  - Par exemple, si vous avez 4 NFT et un bonus quotidien de 1 000 lots, brûler 1 lot sera compté comme 2 lots pendant le processus de combustion. Cela signifie qu'un lot sera déduit de votre bonus quotidien de NFT, ce qui vous laissera 999 lots de bonus pour la journée sur cette chaîne.
+  - Par exemple, si vous avez 4 NFT et un bonus quotidien de 1 000 lots, brûler 1 lot sera compté comme 2 lots pendant le processus de combustion. Cela signifie que 1 lot sera déduit du bonus quotidien de vos NFT, vous laissant avec 999 lots de bonus pour la journée sur cette chaîne.
 
-  - En revanche, si vous décidez de brûler un nombre de lots supérieur à votre bonus quotidien actuel, le protocole utilisera la totalité de votre solde de bonus. Supposons que vous ayez 4 NFT et un bonus quotidien de 1 000 lots. Si vous choisissez de brûler l'équivalent de 6 000 lots, il sera compté comme 7 000 lots au cours du processus de combustion. Le protocole utilisera pour cela la totalité de votre bonus quotidien de 1 000 lots. Par conséquent, il ne vous restera plus de lots bonus à utiliser pour ce jour particulier sur cette chaîne. Mais ne vous inquiétez pas, dès le début de la journée suivante, votre nombre de lots bonus sera réinitialisé à 1 000.
+  - D'un autre côté, si vous décidez de brûler un nombre de lots supérieur à votre bonus quotidien actuel, le protocole utilisera l'intégralité de votre solde de bonus. Supposons que vous ayez 4 NFT et un bonus quotidien de 1 000 lots. Si vous choisissez de brûler l'équivalent de 6 000 lots, cela sera compté comme 7 000 lots pendant le processus de combustion. Le protocole utilisera vos 1 000 lots de bonus quotidiens complets pour cela. En conséquence, il ne vous restera aucun lot de bonus à utiliser pour ce jour particulier sur cette chaîne. Mais ne vous inquiétez pas, dès que le jour suivant commencera, votre nombre de lots de bonus sera réinitialisé à 1 000.
 
-  - En outre, vous pouvez choisir de relier l'utilité de vos 4 NFT à une autre chaîne lancée par Xenify. Ce faisant, vous pouvez utiliser 1 000 lots de bonus quotidiens supplémentaires ce jour-là, ce qui vous donne effectivement 2 000 lots de bonus quotidiens. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, vous pouvez simplement relier l'utilité de vos NFT à l'Ethereum et recevoir 1 000 lots de bonus quotidiens sur l'Ethereum. Vous pouvez répéter ce processus pour chaque chaîne où Xenify a été déployé.
+  - De plus, vous pouvez choisir de transférer l'utilité de vos 4 NFT vers une autre chaîne sur laquelle Xenify a été lancé. Ce faisant, vous pouvez utiliser 1 000 lots de bonus quotidiens supplémentaires ce jour-là, vous donnant effectivement 2 000 lots de bonus quotidiens. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, il vous suffit de transférer l'utilité de vos NFT vers Ethereum et de recevoir 1 000 lots de bonus quotidiens sur Ethereum. Vous pouvez répéter ce processus pour chaque chaîne où Xenify a été déployé.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Récompenses de l'USDC pouvant faire l'objet d'une demande d'indemnisation
 
@@ -1428,7 +1436,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 **Liens:**
 
-- [[Site web](https://dbxen.org/)
+- [Site web](https://dbxen.org/)
 - [Litepaper](https://dbxen.gitbook.io/dbxen-litepaper)
 - [Code Source](https://github.com/deb0x/dbXenBurnerProject)
 - [Profil Twitter](https://twitter.com/DBXencrypto)
