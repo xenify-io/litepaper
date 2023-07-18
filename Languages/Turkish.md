@@ -440,9 +440,9 @@ XNF, Xenify protokolünün can damarıdır ve toplam 22,6 milyon token ile sın�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ Bitcoin'den ilham alan Xenify'ın dağıtım modeli yarılanma ilkesini benimsem
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1107,19 +1107,19 @@ Arttırılmış yakmanın farklı senaryolarda nasıl çalıştığına daha yak
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Talep Edilebilir USDC Ödülleri
+## ◽️ Kabul Edilebilir USDC Ödülleri
 
-Phoenix NFT, NFT dünyasında oyunun kurallarını değiştirecek şekilde tasarlanmıştır. Yenilikçi kiralama mekanizmasıyla bu benzersiz NFT, YSL.IO ekosistemini aktif olarak destekler ve kullanıcıların kira geliri elde etmesine olanak tanırken, kiracılar protokolün Sigma Çıkış Oranını atlama avantajından yararlanır. Bir Phoenix Ape NFT'si YSL.IO pazarı aracılığıyla kiralandığında, kullanıcının kira gelirinin bir kısmı vergi olarak tahsil edilir. OpenSea'den alınan telif vergilerinin bir kısmıyla birleştirilen bu kazançlar daha sonra tüm Phoenix Ape NFT sahipleri arasında BNB Zinciri üzerinde USDC ödülleri olarak dağıtılır.
+Bir Phoenix Ape NFT, Xenify pazar yerinden kiralandığında, kullanıcının kiralama geliri üzerinden vergi toplanır. OpenSea'den gelen telif hakkı vergilerinin bir payı ile birleştirilir ve ardından bu kazançlar her 8 saatte bir biten dönem sonunda tüm Phoenix Ape NFT sahipleri arasında BNB Zincirinde kullanılabilir USDC ödülleri olarak dağıtılır. 
 
-Bu USDC ödülleri, sahiplerinin her 8 saatlik dönemin sonunda talep etmeleri için hazır olacaktır. Ve işte tepedeki kiraz: Bir kullanıcı Phoenix NFT'sini BNB zincirinden başka bir zincirdeki Xenify ile yanıkları güçlendirmek için köprülemeye karar verse bile, USDC dağıtımı için hala uygun olacaktır. Daha basit bir ifadeyle, BNB Zincirindeki talep edilebilir USDC ödülleri, başka bir zincire köprü programı olup olmadığına bakılmaksızın Phoenix Ape NFT'ye sahip tüm adresler için ayrılacaktır.
+Ve işin en güzel yanı şu: Bir kullanıcı Phoenix NFT'sini BNB zincirinden başka bir zincire köprülemeye karar verse bile Xenify ile yakmaları artırmak için, USDC dağıtımı için hala uygun olacaktır. Daha basit bir ifadeyle, BNB Zincirindeki kullanılabilir USDC ödülleri, Phoenix Ape NFT'ye sahip tüm adresler için ayrılacaktır, NFT'lerini başka bir zincire köprüleseler bile.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gri V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Benzersiz Kiralama Mekanizması
-  
-Phoenix NFT, NFT dünyasında oyunun kurallarını değiştirecek şekilde tasarlanmıştır. Yenilikçi kiralama mekanizmasıyla bu benzersiz NFT, YSL.IO ekosistemini aktif olarak destekler ve kullanıcıların kira geliri elde etmesine olanak tanırken, kiracılar protokolün Sigma Çıkış Oranını atlama avantajından yararlanır. Bir Phoenix Ape NFT'si YSL.IO pazarı aracılığıyla kiralandığında, kullanıcının kira gelirinin bir kısmı vergi olarak tahsil edilir. OpenSea'den alınan telif vergilerinin bir kısmıyla birleştirilen bu kazançlar daha sonra tüm Phoenix Ape NFT sahipleri arasında BNB Zinciri üzerinde USDC ödülleri olarak dağıtılır.
+## ◽️ Benzersiz Kiralama Mekanizması 
 
-Bu USDC ödülleri, sahiplerinin her 8 saatlik dönemin sonunda talep etmeleri için hazır olacaktır. Ve işte tepedeki kiraz: Bir kullanıcı Phoenix NFT'sini BNB zincirinden başka bir zincirdeki Xenify ile yanıkları güçlendirmek için köprülemeye karar verse bile, USDC dağıtımı için hala uygun olacaktır. Daha basit bir ifadeyle, BNB Zincirindeki talep edilebilir USDC ödülleri, başka bir zincire köprü programı olup olmadığına bakılmaksızın Phoenix Ape NFT'ye sahip tüm adresler için ayrılacaktır.
+Phoenix Ape NFT, BNB Zincirindeki sahiplerinin NFT'lerini belirli bir süre için önceden belirlenmiş bir USDC fiyatına kiralamalarını sağlayan eşsiz bir kiralama mekanizmasına sahiptir. Phoenix Ape NFT'lerini kiralamayı seçerek, kullanıcılar YSL.IO protokolünün USDy Teşvik Geri Alımı (UIB) mekanizması için kullanılan LP tokenlerinin oluşumuna aktif olarak katkıda bulunurlar. Bu yenilikçi model, sadece USDy jetonunun istikrarını sağlamakla kalmaz, aynı zamanda YSL.IO ekosisteminin genel sağlığının güçlenmesinde de önemli bir rol oynar.
+
+Buna ek olarak, NFT'lerini kiralamayı seçmeyen BNB Zincirindeki Phoenix Ape NFT sahipleri de bu istisnai kiralama mekanizmasının faydalarından yararlanır. Phoenix NFT'sini Xenify pazar yerinde kiralayan kullanıcılardan elde edilen kiralama vergisinin bir payını alırlar. Bu vergi, OpenSea'nin telif hakkı vergisi payı ile birleştirilir ve 8 saatte bir tüm BNB Zincirindeki Phoenix Ape NFT sahiplerine kullanılabilir USDC olarak dağıtılır. Bu, kullanıcıları bu özel NFT'ye sahip olmaları için daha fazla ödüllendirir.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
