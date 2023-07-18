@@ -257,7 +257,7 @@ Ve işte en iyi kısmı: Xenify, vXEN için bir vXEN'in 1,00 $'a ve bir partinin
 
 <br>
 
-USDy, özünde istikrar ve sürdürülebilirlik olan YSL.IO ekosistemine katılımı teşvik eden bir ödül tokenıdır. Son teknoloji tokenomincs ile geliştirilen YSL.IO protokolü, USDy'yi DeFi ortamında öne çıkan bir ödül tokenı haline getiren bir dizi yenilikçi özelliğe sahiptir.
+USDy, özünde istikrar ve sürdürülebilirlik olan YSL.IO ekosistemine katılımı teşvik eden bir ödül tokenıdır. Son teknoloji tokenomics ile geliştirilen YSL.IO protokolü, USDy'yi DeFi alanında öne çıkan bir ödül jetonuna dönüştüren bir dizi yenilikçi özelliğe sahip.
 
 USDy'nin en önemli özelliklerinden biri, satış baskısı karşısında bile likiditede sürekli bir artış sağlayan Fiyat İstikrar Modeli'dir (PSM). Protokol bunu, otonom Hazine Mülkiyetli Likidite yaratma ve USDy'nin fiyatını dengelemek için aktif olarak çalışan ustaca bir Geri Al ve Yak özelliğinin (UBB) bir kombinasyonu yoluyla başarır.
 
