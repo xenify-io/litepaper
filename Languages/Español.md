@@ -257,7 +257,7 @@ Y aquí está la mejor parte: Xenify ha implementado una tarifa fija para vXEN, 
 
 <br>
 
-USDy es un token de recompensa que incentiva la participación en el ecosistema de YSL.IO con estabilidad y sostenibilidad en su núcleo. Desarrollado con tokenomincs de vanguardia, el protocolo YSL.IO cuenta con una serie de características innovadoras que hacen de USDy un token de recompensa destacado en el panorama DeFi.
+USDy es un token de recompensa que incentiva la participación en el ecosistema de YSL.IO con estabilidad y sostenibilidad en su núcleo. Desarrollado con una tokenomía de vanguardia, el protocolo YSL.IO cuenta con una serie de características innovadoras que hacen de USDy un token de recompensa destacado en el panorama DeFi.
 
 Uno de los aspectos más destacados de USDy es su Modelo de Estabilidad de Precios (PSM), que garantiza un aumento continuo de la liquidez, incluso ante buying preassure. El protocolo lo consigue mediante una combinación de creación autónoma de liquidez (protocol owned) y una ingeniosa función de Buyback and Burn (UBB), que trabaja activamente para estabilizar el precio del USDy.
 
