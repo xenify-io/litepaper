@@ -433,9 +433,9 @@ XNF là mạch sống của giao thức Xenify, với tổng nguồn cung giới
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -461,9 +461,9 @@ Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1090,19 +1090,19 @@ Hãy xem xét kỹ hơn cách hoạt động của đốt tăng cường trong c
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Phần thưởng USDC có thể yêu cầu
+## ◽️ Phần thưởng USDC có thể nhận 
 
-NFT Phoenix được thiết kế để là một bước đột phá trong thế giới NFT. Với cơ chế cho thuê độc đáo, NFT độc đáo này chủ động hỗ trợ hệ sinh thái YSL.IO và cho phép người dùng tạo thu nhập từ cho thuê, trong khi người thuê hưởng lợi thế bỏ qua Tỷ lệ Thoát Sigma của giao thức. Khi một NFT Phoenix Ape được cho thuê thông qua sàn giao dịch YSL.IO, một phần thu nhập cho thuê của người dùng được thu như thuế. Kết hợp với một phần thuế bản quyền từ OpenSea, những khoản thu này sau đó được phân phối cho tất cả những người nắm giữ NFT Phoenix Ape dưới dạng phần thưởng USDC trên BNB Chain.
+Khi một Phoenix Ape NFT được cho thuê thông qua thị trường Xenify, một phần thu nhập cho thuê của người dùng sẽ được thu như một khoản thuế. Kết hợp với một phần thuế bản quyền từ OpenSea, những khoản thu này sau đó sẽ được phân phối cho tất cả các chủ sở hữu Phoenix Ape NFT dưới dạng phần thưởng USDC có thể nhận trên BNB Chain vào cuối mỗi kỷ nguyên 8 tiếng.
 
-Những phần thưởng USDC này sẽ có sẵn để người nắm giữ yêu cầu vào cuối mỗi epoch 8 giờ. Và đây là phần tuyệt vời: ngay cả khi một người dùng quyết định bridge NFT Phoenix của họ từ chuỗi BNB để tăng cường đốt với Xenify trên một chuỗi khác, họ vẫn đủ điều kiện nhận phân phối USDC. Nói đơn giản hơn, phần thưởng USDC có thể yêu cầu trên BNB Chain sẽ được dành cho tất cả các địa chỉ nắm giữ NFT Phoenix Ape, bất kể họ có bridge tiện ích sang chuỗi khác hay không.
+Và đây là phần tốt nhất: ngay cả khi một người dùng quyết định bridge NFT Phoenix của họ từ chuỗi BNB sang một chuỗi khác để tăng cháy với Xenify, họ vẫn đủ điều kiện nhận phần thưởng USDC. Nói một cách đơn giản hơn, phần thưởng USDC có thể nhận trên BNB Chain sẽ được dành cho tất cả các địa chỉ nắm giữ NFT Phoenix Ape, bất kể họ có bridge tiện ích sang chuỗi khác hay không.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Cơ chế cho thuê độc đáo
+## ◽️ Cơ chế cho thuê độc đáo 
 
-NFT Phoenix được thiết kế để là một bước đột phá trong thế giới NFT. Với cơ chế cho thuê độc đáo, NFT độc đáo này chủ động hỗ trợ hệ sinh thái YSL.IO và cho phép người dùng tạo thu nhập từ cho thuê, trong khi người thuê hưởng lợi thế bỏ qua Tỷ lệ Thoát Sigma của giao thức. Khi một NFT Phoenix Ape được cho thuê thông qua sàn giao dịch YSL.IO, một phần thu nhập cho thuê của người dùng được thu như thuế. Kết hợp với một phần thuế bản quyền từ OpenSea, những khoản thu này sau đó được phân phối cho tất cả những người nắm giữ NFT Phoenix Ape dưới dạng phần thưởng USDC trên BNB Chain.
+NFT Phoenix Ape có một cơ chế cho thuê độc đáo cho phép người dùng BNB Chain cho thuê NFT của họ với mức giá USDC định sẵn trong một khoảng thời gian nhất định. Bằng cách chọn cho thuê NFT Phoenix Ape của họ, người dùng chủ động đóng góp vào việc tạo ra các token LP được sử dụng bởi giao thức YSL.IO cho Cơ chế Mua lại Khuyến khích USDy (UIB). Mô hình đột phá này không chỉ đảm bảo sự ổn định của token USDy mà còn đóng một vai trò quan trọng trong việc thúc đẩy sức khỏe tổng thể của hệ sinh thái YSL.IO.
 
-Những phần thưởng USDC này sẽ có sẵn để người nắm giữ yêu cầu vào cuối mỗi epoch 8 giờ. Và đây là phần tuyệt vời: ngay cả khi một người dùng quyết định bridge NFT Phoenix của họ từ chuỗi BNB để tăng cường đốt với Xenify trên một chuỗi khác, họ vẫn đủ điều kiện nhận phân phối USDC. Nói đơn giản hơn, phần thưởng USDC có thể yêu cầu trên BNB Chain sẽ được dành cho tất cả các địa chỉ nắm giữ NFT Phoenix Ape, bất kể họ có bridge tiện ích sang chuỗi khác hay không.
+Hơn nữa, những người nắm giữ NFT Phoenix Ape trên BNB Chain mà không cho thuê NFT của họ vẫn hưởng lợi từ cơ chế cho thuê đặc biệt này. Họ sẽ nhận được một phần thuế cho thuê được tạo ra từ người dùng cho thuê NFT Phoenix của họ trên thị trường Xenify. Khoản thuế này sẽ được kết hợp với một phần thuế bản quyền của OpenSea và phân phối cho tất cả các chủ sở hữu NFT Phoenix Ape trên BNB Chain dưới dạng USDC có thể nhận mỗi 8 tiếng, thưởng thêm cho người dùng vì đã chủ động nắm giữ NFT độc quyền này.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
