@@ -1108,7 +1108,7 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ## ◽️ Claimable USDC Rewards
 
-When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain at the end of each 8-hour epoch.
+When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as claimable USDC rewards on the BNB Chain at the end of each 8-hour epoch.
 
 And here's the best part: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
