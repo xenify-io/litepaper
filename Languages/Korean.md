@@ -440,9 +440,9 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1106,19 +1106,19 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ 청구 가능한 USDC 리워드
+## ◽️ 청구 가능한 USDC 리워드  
 
-피닉스 대체불가토큰은 대체불가토큰 세계의 판도를 바꾸도록 설계되었습니다. 혁신적인 렌탈 메커니즘을 갖춘 이 독특한 NFT는 YSL.IO 생태계를 적극적으로 지원하며 사용자는 렌탈 수입을 창출할 수 있고, 렌탈자는 프로토콜의 시그마 종료율을 우회할 수 있는 이점을 누릴 수 있습니다. YSL.IO 마켓플레이스를 통해 피닉스 에이프 NFT를 임대하면 사용자 임대 수입의 일부가 세금으로 징수됩니다. 이 수익은 OpenSea의 로열티 세금과 합쳐져 모든 Phoenix Ape NFT 보유자에게 BNB 체인에서 USDC 보상으로 분배됩니다.
+Xenify 마켓플레이스를 통해 Phoenix Ape NFT가 임대될 때, 사용자의 임대 수익의 일부가 세금으로 징수됩니다. OpenSea의 로열티 세금 일부와 결합하여, 이러한 수익은 8시간마다 에폭이 끝날 때 BNB 체인의 모든 Phoenix Ape NFT 보유자에게 청구 가능한 USDC 리워드로 배포됩니다.   
 
-이러한 USDC 보상은 매 8시간이 끝날 때마다 보유자가 청구할 수 있습니다. 그리고 가장 중요한 점은 사용자가 다른 체인에서 제니파이로 번을 증폭하기 위해 BNB 체인에서 피닉스 NFT를 브리징하기로 결정하더라도 USDC 분배를 받을 자격이 있다는 것입니다. 간단히 말해서, 다른 체인으로 유틸리티를 브리징하는지 여부에 관계없이 BNB 체인에서 청구 가능한 USDC 보상은 피닉스 에이프 NFT를 보유하고 있는 모든 주소에 예약됩니다.
+그리고 여기 가장 좋은 부분이 있습니다. 사용자가 Phoenix NFT를 BNB 체인에서 다른 체인으로 브릿징하기로 결정하더라도, Xenify에서 번역을 증폭하기 위해, 그들은 여전히 USDC 배포를 받을 자격이 있습니다. 더 간단히 말하면, BNB 체인의 청구 가능한 USDC 리워드는 Phoenix Ape NFT를 보유하는 모든 주소에 예약됩니다. 체인을 브릿징하는 여부와 관계없이 말이죠.  
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+\!\[Grey V4\](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ 고유한 렌탈 메커니즘
-  
-피닉스 대체불가토큰은 대체불가토큰 세계의 판도를 바꾸도록 설계되었습니다. 혁신적인 렌탈 메커니즘을 갖춘 이 독특한 NFT는 YSL.IO 생태계를 적극적으로 지원하며 사용자는 렌탈 수익을 창출할 수 있고, 렌탈자는 프로토콜의 시그마 종료율을 우회할 수 있는 이점을 누릴 수 있습니다. YSL.IO 마켓플레이스를 통해 피닉스 에이프 NFT를 임대하면 사용자 임대 수입의 일부가 세금으로 징수됩니다. 이 수익은 OpenSea의 로열티 세금과 합쳐져 모든 Phoenix Ape NFT 보유자에게 BNB 체인에서 USDC 보상으로 분배됩니다.
+## ◽️ 고유한 임대 메커니즘  
 
-이러한 USDC 보상은 매 8시간이 끝날 때마다 보유자가 청구할 수 있습니다. 그리고 가장 중요한 점은 사용자가 다른 체인에서 제니파이로 번을 증폭하기 위해 BNB 체인에서 피닉스 NFT를 브리징하기로 결정하더라도 USDC 분배를 받을 자격이 있다는 것입니다. 간단히 말해서, 다른 체인으로 유틸리티를 브리징하는지 여부에 관계없이 BNB 체인에서 청구 가능한 USDC 보상은 피닉스 에이프 NFT를 보유하고 있는 모든 주소에 예약됩니다.
+Phoenix Ape NFT는 사용자가 특정 기간 동안 미리 결정된 USDC 가격에 자신의 NFT를 임대할 수 있는 독특한 임대 메커니즘을 제공합니다. Phoenix Ape NFT를 임대하기로 선택함으로써, 사용자는 YSL.IO 프로토콜의 USDy 인센티브 바이백(UIB) 메커니즘에 사용되는 LP 토큰 생성에 적극적으로 기여합니다. 이 혁신적인 모델은 USDy 토큰의 안정성만 보장하는 것이 아니라 YSL.IO 생태계의 전반적인 건강 증진에 핵심적인 역할을 합니다.   
+
+게다가, BNB 체인의 Phoenix Ape NFT 소유자들이 자신의 NFT를 임대하지 않기로 선택하더라도, 이 뛰어난 임대 메커니즘의 혜택을 받습니다. 그들은 Xenify 마켓플레이스에서 Phoenix NFT를 임대하는 사용자들로부터 생성된 임대 수수료의 일부를 받게 됩니다. 이 수수료는 OpenSea의 로열티 수수료 일부와 함께 결합되어 8시간마다 모든 BNB 체인 Phoenix Ape NFT 소유자에게 청구 가능한 USDC로 배포됨으로써, 이 독점적 NFT를 보유하는 사용자들의 적극적 참여를 더욱 보상합니다.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
