@@ -440,9 +440,9 @@ O XNF é a força vital do protocolo Xenify e apresenta um fornecimento total li
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ Inspirando-se na Bitcoin, o modelo de distribuição da Xenify adopta o princíp
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1106,19 +1106,19 @@ Vamos dar uma olhada mais de perto em como a queima amplificada funciona em dife
   
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Recompensas USDC reclamáveis
+## ◽️ Recompensas Reivindicáveis ​​USDC
 
-O NFT Phoenix foi concebido para ser um divisor de águas no mundo dos NFTs. Com o seu mecanismo de aluguer inovador, este NFT único apoia ativamente o ecossistema YSL.IO e permite aos utilizadores gerar rendimentos de aluguer, enquanto os locatários desfrutam da vantagem de contornar a taxa de saída Sigma do protocolo. Quando um NFT Phoenix Ape é alugado através do mercado YSL.IO, uma parte do rendimento do aluguer do utilizador é cobrada como imposto. Combinados com uma parte dos impostos de royalties da OpenSea, esses ganhos são então distribuídos entre todos os detentores de NFTs do Phoenix Ape como recompensas em USDC na cadeia BNB.
+Quando um NFT Macaco Fênix é alugado através do mercado Xenify, uma parte da renda de aluguel do usuário é coletada como imposto. Combinado com uma parte dos impostos de royalties da OpenSea, esses ganhos são então distribuídos entre todos os detentores de NFT Macaco Fênix como recompensas USDC reivindicáveis ​​na Rede BNB no final de cada época de 8 horas. 
 
-Essas recompensas do USDC estarão disponíveis para os titulares reivindicarem no final de cada período de 8 horas. E aqui está a cereja no topo do bolo: mesmo que um usuário decida fazer a ponte entre seu Phoenix NFT da cadeia BNB para amplificar as queimaduras com Xenify em outra cadeia, ele ainda será elegível para a distribuição de USDC. Em termos mais simples, as recompensas USDC reivindicáveis na cadeia BNB serão reservadas para todos os endereços que possuem o Phoenix Ape NFT, independentemente de eles fazerem a ponte entre o utilitário e outra cadeia.
+E aqui está a melhor parte: mesmo que um usuário decida fazer uma ponte de seu NFT Fênix da rede BNB para amplificar as queimas com Xenify em outra rede, eles ainda serão elegíveis para a distribuição USDC. Em termos mais simples, as recompensas USDC reivindicáveis ​​na Rede BNB serão reservadas para todos os endereços que detêm o NFT Macaco Fênix, independentemente de fazerem ponte da utilidade para outra rede.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Mecanismo de aluguer único
-  
-O NFT Phoenix foi concebido para ser um divisor de águas no mundo dos NFTs. Com o seu mecanismo de aluguer inovador, este NFT único apoia ativamente o ecossistema YSL.IO e permite aos utilizadores gerar rendimentos de aluguer, enquanto os locatários desfrutam da vantagem de contornar a taxa de saída Sigma do protocolo. Quando um NFT Phoenix Ape é alugado através do mercado YSL.IO, uma parte do rendimento do aluguer do utilizador é cobrada como imposto. Combinados com uma parte dos impostos de royalties da OpenSea, esses ganhos são então distribuídos entre todos os detentores de NFTs do Phoenix Ape como recompensas em USDC na cadeia BNB.
+## ◽️ Mecanismo de Aluguel Único 
 
-Essas recompensas do USDC estarão disponíveis para os titulares reivindicarem no final de cada período de 8 horas. E aqui está a cereja no topo do bolo: mesmo que um usuário decida fazer a ponte entre seu Phoenix NFT da cadeia BNB para amplificar as queimaduras com Xenify em outra cadeia, ele ainda será elegível para a distribuição de USDC. Em termos mais simples, as recompensas USDC reivindicáveis na cadeia BNB serão reservadas para todos os endereços que possuem o Phoenix Ape NFT, independentemente de eles fazerem a ponte entre o utilitário e outra cadeia.
+O NFT Macaco Fênix apresenta um mecanismo de aluguel único que capacita os detentores da Rede BNB a alugar seu NFT por um preço pré-determinado em USDC por uma duração específica. Ao optar por alugar seu NFT Macaco Fênix, os usuários contribuem ativamente para a geração de tokens LP utilizados pelo protocolo YSL.IO para o mecanismo de Recompra de Incentivo USDy (UIB). Este modelo inovador não apenas garante a estabilidade do token USDy, mas também desempenha um papel fundamental no fomento da saúde geral do ecossistema YSL.IO.
+
+Além disso, os detentores de NFT Macaco Fênix na Rede BNB que optarem por não alugar seu NFT ainda colhem os benefícios deste mecanismo de aluguel excepcional. Eles receberão uma parte do imposto de aluguel gerado pelos usuários que alugam seu NFT Fênix no mercado Xenify. Este imposto será combinado com uma parte do imposto de royalties da OpenSea e distribuído para todos os detentores de NFT Macaco Fênix na Rede BNB como USDC reivindicável a cada 8 horas, recompensando ainda mais os usuários por sua participação ativa na manutenção deste NFT exclusivo.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
