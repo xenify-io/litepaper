@@ -257,7 +257,7 @@ Dan inilah bagian terbaiknya: Xenify telah menerapkan kurs tetap untuk vXEN, di 
 
 <br>
 
-USDy adalah token reward yang memberikan insentif untuk berpartisipasi dalam ekosistem YSL.IO dengan stabilitas dan keberlanjutan sebagai intinya. Dikembangkan dengan tokenomincs mutakhir, protokol YSL.IO menawarkan sejumlah fitur inovatif yang menjadikan USDy sebagai token reward yang menonjol di lanskap DeFi.
+USDy adalah token reward yang memberikan insentif untuk berpartisipasi dalam ekosistem YSL.IO dengan stabilitas dan keberlanjutan sebagai intinya. Dikembangkan dengan tokenomics mutakhir, protokol YSL.IO menawarkan sejumlah fitur inovatif yang menjadikan USDy sebagai token reward yang menonjol di lanskap DeFi.
 
 Salah satu sorotan utama USDy adalah Model Stabilitas Harga (PSM), yang memastikan peningkatan likuiditas yang berkelanjutan, bahkan dalam menghadapi tekanan jual. Protokol ini mencapai hal ini melalui kombinasi penciptaan Likuiditas Milik Treasury secara otonom dan fitur Buyback and Burn (UBB) yang cerdas, yang secara aktif bekerja untuk menstabilkan harga USDy.
 
