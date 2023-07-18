@@ -440,9 +440,9 @@ XNF est l'élément vital du protocole Xenify, et son offre totale est limitée 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ S'inspirant du Bitcoin, le modèle de distribution de Xenify adopte le principe 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1104,20 +1104,19 @@ Regardons de plus près comment fonctionne la combustion amplifiée dans différ
   - De plus, vous pouvez choisir de transférer l'utilité de vos 4 NFT vers une autre chaîne sur laquelle Xenify a été lancé. Ce faisant, vous pouvez utiliser 1 000 lots de bonus quotidiens supplémentaires ce jour-là, vous donnant effectivement 2 000 lots de bonus quotidiens. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, il vous suffit de transférer l'utilité de vos NFT vers Ethereum et de recevoir 1 000 lots de bonus quotidiens sur Ethereum. Vous pouvez répéter ce processus pour chaque chaîne où Xenify a été déployé.
 
 ![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+## ◽️ Récompenses en USDC réclamables
 
-## ◽️ Récompenses de l'USDC pouvant faire l'objet d'une demande d'indemnisation
+Lorsqu'un NFT Phoenix Ape est loué via le marché Xenify, une partie des revenus locatifs de l'utilisateur est collectée sous forme de taxe. Combinées à une part des taxes sur les redevances d'OpenSea, ces gains sont ensuite distribués à tous les détenteurs de NFT Phoenix Ape sous forme de récompenses en USDC réclamables sur BNB Chain à la fin de chaque époque de 8 heures. 
 
-Le NFT Phoenix a été conçu pour changer la donne dans le monde des NFT. Grâce à son mécanisme de location innovant, ce NFT unique soutient activement l'écosystème YSL.IO et permet aux utilisateurs de générer des revenus locatifs, tandis que les locataires bénéficient de l'avantage de contourner le taux de sortie Sigma du protocole. Lorsqu'un NFT de Phoenix Ape est loué sur la place de marché YSL.IO, une partie des revenus de location de l'utilisateur est collectée sous forme de taxe. Combinés à une part des taxes sur les redevances d'OpenSea, ces revenus sont ensuite distribués à tous les détenteurs de NFT de Phoenix Ape sous forme de récompenses USDC sur la chaîne BNB.
-
-Ces récompenses USDC seront disponibles pour les détenteurs à la fin de chaque période de 8 heures. Et voici la cerise sur le gâteau : même si un utilisateur décide de faire passer son NFT Phoenix de la chaîne BNB pour amplifier les brûlures avec Xenify sur une autre chaîne, il sera toujours éligible pour la distribution d'USDC. En d'autres termes, les récompenses USDC à réclamer sur la chaîne BNB seront réservées à toutes les adresses qui détiennent le NFT Phoenix Ape, qu'elles soient ou non reliées à une autre chaîne.
+Et voici le meilleur : même si un utilisateur décide de bridge son NFT Phoenix de la chaîne BNB pour amplifier les burns avec Xenify sur une autre chaîne, il restera éligible à la distribution de USDC. En termes simples, les récompenses en USDC réclamables sur BNB Chain seront réservées à toutes les adresses détenant le NFT Phoenix Ape, qu'elles aient bridgé l'utilité vers une autre chaîne ou non.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Mécanisme de location unique
-  
-Le NFT Phoenix a été conçu pour changer la donne dans le monde des NFT. Grâce à son mécanisme de location innovant, ce NFT unique soutient activement l'écosystème YSL.IO et permet aux utilisateurs de générer des revenus locatifs, tandis que les locataires bénéficient de l'avantage de contourner le taux de sortie Sigma du protocole. Lorsqu'un NFT de Phoenix Ape est loué sur la place de marché YSL.IO, une partie des revenus de location de l'utilisateur est collectée sous forme de taxe. Combinés à une part des taxes sur les redevances d'OpenSea, ces revenus sont ensuite distribués à tous les détenteurs de NFT de Phoenix Ape sous forme de récompenses USDC sur la chaîne BNB.
 
-Ces récompenses USDC seront disponibles pour les détenteurs à la fin de chaque période de 8 heures. Et voici la cerise sur le gâteau : même si un utilisateur décide de faire passer son NFT Phoenix de la chaîne BNB pour amplifier les brûlures avec Xenify sur une autre chaîne, il sera toujours éligible pour la distribution d'USDC. En d'autres termes, les récompenses USDC à réclamer sur la chaîne BNB seront réservées à toutes les adresses qui détiennent le NFT Phoenix Ape, qu'elles soient ou non reliées à une autre chaîne.
+Le NFT Phoenix Ape dispose d'un mécanisme de location unique qui permet aux détenteurs de BNB Chain de louer leur NFT à un prix USDC prédéterminé pour une durée spécifique. En choisissant de louer leur NFT Phoenix Ape, les utilisateurs contribuent activement à la génération de jetons LP utilisés par le protocole YSL.IO pour le mécanisme de rachat incitatif USDy (UIB). Ce modèle révolutionnaire assure non seulement la stabilité du jeton USDy, mais joue également un rôle central dans le renforcement de la santé globale de l'écosystème YSL.IO.
+
+De plus, les détenteurs de NFT Phoenix Ape sur BNB Chain qui choisissent de ne pas louer leur NFT continuent de bénéficier de ce mécanisme de location exceptionnel. Ils recevront une part de la taxe de location générée par les utilisateurs louant leur NFT Phoenix sur le marché Xenify. Cette taxe sera combinée à une partie de la taxe sur les redevances d'OpenSea et distribuée à tous les détenteurs de NFT Phoenix Ape sur BNB Chain sous forme d’USDC réclamables toutes les 8 heures, récompensant ainsi les utilisateurs pour leur participation active à la détention de ce NFT exclusif.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
