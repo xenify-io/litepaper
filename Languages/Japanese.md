@@ -440,9 +440,9 @@ XNFはXenifyプロトコルの生命線であり、2,260万トークンの限ら
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -468,9 +468,9 @@ XNFトークンの総供給上限は2,260万トークンで、戦略的に3つ�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1108,19 +1108,19 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ 請求可能なUSDC報酬
+## ◽️ クレーム可能なUSDC報酬  
 
-Phoenix NFTはNFTの世界を大きく変えるものとして設計されました。革新的なレンタルメカニズムにより、このユニークなNFTはYSL.IOエコシステムを積極的にサポートし、ユーザーがレンタル収入を得ることを可能にします。Phoenix Ape NFTがYSL.IOマーケットプレイスを通じてレンタルされると、ユーザーのレンタル収入の一部が税金として徴収されます。OpenSeaからのロイヤリティ税と合わせて、これらの収益はBNBチェーン上のUSDC報酬としてすべてのPhoenix Ape NFT保有者に分配されます。
+XenifyマーケットプレイスでPhoenix Ape NFTが賃貸されると、ユーザーの賃貸収入の一部が税金として集められます。OpenSeaのロイヤルティ税の一部と合わせて、これらの収益は8時間ごとのエポックの終わりに、すべてのPhoenix Ape NFT保有者にBNBチェーン上でクレーム可能なUSDC報酬として分配されます。
 
-これらのUSDC報酬は、各8時間エポックの終了時に受け取ることができます。BNBチェーンからPhoenix NFTをブリッジし、他のチェーン上のXenifyで燃焼を増幅することを決定した場合でも、USDC配布の対象となります。より簡単に言えば、BNBチェーン上のUSDC報酬は、他のチェーンへのブリッジユーティリティの有無にかかわらず、Phoenix Ape NFTを保有するすべてのアドレスに確保されるということです。
+そして、ここで最高の部分は、ユーザーがBNBチェーンからPhoenix NFTを別のチェーンにブリッジして、Xenifyでの燃焼を増幅させることを選択しても、USDCの分配資格があることです。つまり、BNBチェーン上のクレーム可能なUSDC報酬は、チェーンをブリッジしたか否かに関わらず、Phoenix Ape NFTを保有するすべてのアドレスのために確保されます。
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ◽️ 独自のレンタル・メカニズム
-  
-Phoenix NFTはNFTの世界を大きく変えるものとして設計されました。革新的なレンタルメカニズムにより、このユニークなNFTはYSL.IOエコシステムを積極的にサポートし、ユーザーがレンタル収入を得ることを可能にします。Phoenix Ape NFTがYSL.IOマーケットプレイスを通じてレンタルされると、ユーザーのレンタル収入の一部が税金として徴収されます。OpenSeaからのロイヤリティ税と合わせて、これらの収益はBNBチェーン上のUSDC報酬としてすべてのPhoenix Ape NFT保有者に分配されます。
+## ◽️ ユニークな賃貸メカニズム  
 
-これらのUSDC報酬は、各8時間エポックの終了時に受け取ることができます。BNBチェーンからPhoenix NFTをブリッジし、他のチェーン上のXenifyで燃焼を増幅することを決定した場合でも、USDC配布の対象となります。より簡単に言えば、BNBチェーン上のUSDC報酬は、他のチェーンへのブリッジユーティリティの有無にかかわらず、Phoenix Ape NFTを保有するすべてのアドレスに確保されるということです。
+Phoenix Ape NFTには、BNBチェーンの保有者が特定の期間に予め決められたUSDC価格で自分のNFTを賃貸できるようにする画期的な賃貸メカニズムがあります。Phoenix Ape NFTを賃貸することを選択すると、ユーザーはYSL.IOプロトコルのUSDyインセンティブ買い戻し(UIB)メカニズムで使用されるLPトークンの生成に積極的に貢献します。この革新的なモデルは、USDyトークンの安定性を確保するだけでなく、YSL.IOエコシステムの全体的な健全性を育成する上でも重要な役割を果たします。
+
+さらに、BNBチェーン上のPhoenix Ape NFT保有者で、NFTの賃貸を選択しない場合でも、この例外的な賃貸メカニズムの恩恵を受けます。彼らは、XenifyマーケットプレイスでPhoenix NFTを賃貸しているユーザーから生成される賃貸税の分配を受け取ります。この税金はOpenSeaのロイヤルティ税の一部と合わせて、8時間ごとにすべてのBNBチェーンPhoenix Ape NFT保有者にクレーム可能なUSDCとして分配され、この独占的なNFTを保有するためのユーザーの積極的な参加をさらに報います。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
