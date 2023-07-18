@@ -439,9 +439,9 @@ XNF是Xenify协议的生命线，总供应量有限，只有2260万个代币。X
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/2e87b55a-14d8-407a-91e2-971c31322c78" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/48247401-344e-48c2-8d53-91e35a75d274" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -467,9 +467,9 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/e83a89c9-b54d-4f87-8f23-760807f348c9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/f977cf3b-1a5e-4f0e-a01d-d116893b63bc" style="visibility:visible;max-width:100%;">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
 
@@ -1108,19 +1108,19 @@ $$
   
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ 可申请的USDC奖励
+## ◽️ 可领取的USDC奖励
 
-Phoenix NFT旨在改变NFT领域的游戏规则。凭借其创新的租赁机制，这种独特的NFT积极支持YSL.IO生态系统，并允许用户产生租金收入，而租赁者则享有绕过协议的西格玛退出率的优势。当Phoenix Ape NFT通过YSL.IO市场出租时，用户租金收入的一部分将作为税收收取。结合OpenSea的特许权使用税，这些收入将作为BNB链上的USDC奖励分配给所有凤凰猿NFT持有者。
+当一个Phoenix Ape NFT通过Xenify市场出租时,用户的出租收入的一部分将作为税收收取。与OpenSea的部分版税税共享后,这些收益将在每8小时的epoch结束时分配给所有Phoenix Ape NFT持有者作为BNB链上可以领取的USDC奖励。
 
-这些USDC奖励将在每个8小时纪元结束时供持有者领取。最重要的是：即使用户决定将他们的 Phoenix NFT 从 BNB 链上桥接到另一条链上的 Xenify 上放大燃烧，他们仍然有资格获得 USDC 分配。简单来说，BNB链上的USDC奖励将保留给所有持有Phoenix Ape NFT的地址，无论他们是否将效用桥接到另一条链上。
+这里是最好的部分:即使用户决定将他们的Phoenix NFT从BNB链桥接到另一条链,以通过Xenify在另一条链上放大燃烧,他们仍有资格获得USDC分配。简单来说,BNB链上可以领取的USDC奖励将为所有持有Phoenix Ape NFT的地址保留,无论他们是否将效用桥接到另一条链。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ 独特的租赁机制
-  
-Phoenix NFT旨在改变NFT领域的游戏规则。凭借其创新的租赁机制，这种独特的NFT积极支持YSL.IO生态系统，并允许用户产生租金收入，而租赁者则享有绕过协议的西格玛退出率的优势。当Phoenix Ape NFT通过YSL.IO市场出租时，用户租金收入的一部分将作为税收收取。结合OpenSea的特许权使用税，这些收入将作为BNB链上的USDC奖励分配给所有凤凰猿NFT持有者。
 
-这些USDC奖励将在每个8小时纪元结束时供持有者领取。最重要的是：即使用户决定将他们的 Phoenix NFT 从 BNB 链上桥接到另一条链上的 Xenify 上放大燃烧，他们仍然有资格获得 USDC 分配。简单来说，BNB链上的USDC奖励将保留给所有持有Phoenix Ape NFT的地址，无论他们是否将效用桥接到另一条链上。
+Phoenix Ape NFT具有一种独特的租赁机制,它使BNB链持有者能够以预定的USDC价格和特定期限出租他们的NFT。通过选择出租他们的Phoenix Ape NFT,用户积极促进生成YSL.IO协议用于USDy激励回购(UIB)机制的LP令牌。这种突破性模型不仅确保了USDy代币的稳定性,还在促进YSL.IO生态系统的整体健康方面发挥着关键作用。
+
+此外,选择不出租NFT的BNB链Phoenix Ape NFT持有者仍然从这一非凡的租赁机制中受益。他们将收到用户在Xenify市场上出租Phoenix NFT所产生的租金税的一部分。这笔税金将与OpenSea的部分版税税共享,并在每8小时分配给所有BNB链Phoenix Ape NFT持有者作为可领取的USDC,进一步奖励用户积极持有这一独家NFT。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
