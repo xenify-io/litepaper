@@ -1082,7 +1082,7 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs, Class 1 APEX XENFTs (Xunicorn), or Class 2 APEX XENFTs (Exotic):
+## ♦️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs, Xunicorn APEX XENFTs, or Exotic APEX XENFTs:
 
   - Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. 
 
@@ -1094,7 +1094,7 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs, Class 1 APEX XENFTs (Xunicorn), or Class 2 APEX XENFTs (Exotic):
+## ♦️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs, Xunicorn APEX XENFTs, or Exotic APEX XENFTs:
 
   - If you hold 4 NFTs burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. 
 
