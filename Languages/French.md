@@ -257,7 +257,7 @@ Et voici le meilleur : Xenify a mis en place un taux fixe pour les vXEN, où un 
 
 <br>
 
-USDy est un jeton de récompense qui encourage la participation à l'écosystème YSL.IO avec la stabilité et la durabilité à son cœur. Développé avec des tokenomincs de pointe, le protocole YSL.IO est doté d'une multitude de caractéristiques innovantes qui font de l'USDy un jeton de récompense à part dans le paysage DeFi.
+USDy est un jeton de récompense qui encourage la participation à l'écosystème YSL.IO avec la stabilité et la durabilité à son cœur. Développé avec une tokenomique de pointe, le protocole YSL.IO est doté d'une multitude de caractéristiques innovantes qui font de l'USDy un jeton de récompense à part dans le paysage DeFi.
 
 L'un des points forts de l'USDy est son modèle de stabilité des prix (PSM), qui garantit une augmentation continue de la liquidité, même en cas de pression à la vente. Le protocole y parvient en combinant la création autonome de liquidités détenues par le Trésor et une ingénieuse fonction de rachat et de combustion (UBB), qui travaille activement à la stabilisation du prix de l'USDy.
 
