@@ -250,7 +250,7 @@ Và đây là phần tốt nhất: Xenify đã thực hiện tỷ giá cố đ�
 ## ◽️ Tổng quan về USDy
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-USDy là một token thưởng khuyến khích sự tham gia vào hệ sinh thái YSL.IO với ổn định và bền vững là trọng tâm. Được phát triển với các tokenomincs tiên tiến, giao thức YSL.IO được trang bị một loạt các tính năng sáng tạo khiến USDy trở thành một token thưởng nổi bật trong cảnh quan DeFi.
+USDy là một token thưởng khuyến khích sự tham gia vào hệ sinh thái YSL.IO với ổn định và bền vững là trọng tâm. Được phát triển với các tokenomics tiên tiến, giao thức YSL.IO có một loạt các tính năng sáng tạo giúp USDy trở thành một token thưởng nổi bật trong cảnh quan DeFi.
 
 Một trong những điểm nổi bật chính của USDy là Mô hình Ổn định Giá (PSM), đảm bảo tăng thanh khoản liên tục, ngay cả khi có áp lực bán. Giao thức đạt được điều này thông qua kết hợp tạo thanh khoản tự động sở hữu bởi Quỹ và tính năng Mua lại và Đốt linh hoạt (UBB), chủ động ổn định giá USDy. 
 
