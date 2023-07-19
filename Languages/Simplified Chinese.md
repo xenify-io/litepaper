@@ -1084,7 +1084,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ 场景 1:如果您持有 1 到 3 个 Phoenix Ape NFT、一类 APEX XENFT(Xunicorn)或二类 APEX XENFT(Exotic):
+## ♦️ 场景 1：如果您持有 1 到 3 个 Phoenix Ape NFT、Xunicorn APEX XENFT 或 Exotic APEX XENFT：
 
   - 每个 NFT 都被授予每日限制在 100 个批次的奖励乘数。在燃烧特定数量的批次时,协议首先验证您的任何 NFT 是否拥有奖励余额。如果是,则协议会使用您的奖励余额来增加您的批次数。
 
@@ -1096,7 +1096,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ 场景 2:如果您持有 4 个或更多 Phoenix Ape NFT、一类 APEX XENFT(Xunicorn)或二类 APEX XENFT(Exotic):
+## ♦️ 场景 2：如果您持有 4 个或更多 Phoenix Ape NFT、Xunicorn APEX XENFT 或 Exotic APEX XENFT：
 
   - 如果您持有 4 个 NFT 并燃烧批次,回报会更丰厚。您的钱包将获得每日 1000 个批次的奖励。这实际上取代了为您的每个 NFT ID 保留的默认 100 个每日奖励批次。简而言之,如果您在钱包中持有 4 个或更多 NFT,您的每日总奖励将被限制在该钱包的 1000 个批次。当您选择燃烧少于当前每日奖励数量的批次时,协议将通过使用等量的批次来将您的批次数翻倍。
 
