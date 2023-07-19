@@ -1068,13 +1068,9 @@ $$
 **Donde:**
 
 - $BF$ (Burn fee) - La tarifa cobrada por la función de quema, pagada en el token nativo de la blockchain.
-
 - $FC$ (Burn Fee Coefficient) - Un coeficiente ponderado por tiempo utilizado para incorporar un descuento en la tarifa de quema.
-
 - $VB$ (Valor de Lotes) - El valor en dólares de los lotes que se queman por el usuario, influyendo en la tarifa de quema a medida que aumenta el valor de los lotes.
-
 - $BC$ (Batch Coefficient) - Un coeficiente ponderado por tiempo utilizado para incorporar el descuento basado en los lotes que se queman. 
-
 - $NB$ (Número de Lotes) - La cantidad de lotes que quema el usuario, influyendo en los descuentos de tarifas de quema a medida que aumenta la cantidad de lotes. Esto estará limitado a 10000 lotes.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -1085,7 +1081,7 @@ Veamos más de cerca cómo funciona la quema amplificada en diferentes escenario
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ♦️ Escenario 1: Si tienes entre 1 y 3 Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn) o Class 2 APEX XENFT (Exotic):
+## ♦️ Escenario 1: si tiene entre 1 y 3 Phoenix Ape NFT, Xunicorn APEX XENFT o Exotic APEX XENFT:
 
   - Cada NFT recibe un multiplicador de bonificación diario limitado a 100 lotes. Al quemar una cantidad específica de lotes, el protocolo primero verifica si alguno de tus NFT tiene un saldo de bonificación. Si es así, el protocolo usa tu saldo de bonificación para aumentar tu recuento de lotes.
 
@@ -1097,7 +1093,7 @@ Veamos más de cerca cómo funciona la quema amplificada en diferentes escenario
   
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Escenario 2: Si tiene 4 o más Phoenix Ape NFT, XENFT de clase 1 APEX (Xunicorn) o XENFT de clase 2 APEX (Exótico):
+## ♦️ Escenario 2: si tiene 4 o más Phoenix Ape NFT, Xunicorn APEX XENFT o Exotic APEX XENFT:
 
   - Si tiene 4 NFT, quemar lotes se vuelve aún más recompensante. Su billetera recibirá un bono diario de 1.000 lotes. Esto efectivamente reemplaza los 100 lotes diarios de bonificación predeterminados reservados para cada uno de sus ID de NFT. En resumen, si tiene 4 o más NFT en su billetera, su bono diario total se limitará a 1.000 lotes para esa billetera. Cuando elija quemar una cantidad de lote que sea menor que su bono diario actual, el protocolo duplicará su recuento de lote utilizando una cantidad equivalente.
 
