@@ -1066,7 +1066,7 @@ Hãy xem xét kỹ hơn cách hoạt động của đốt tăng cường trong c
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ♦️ Kịch bản 1: Nếu bạn nắm giữ từ 1 đến 3 NFT Phoenix Ape, XENFT cấp 1 APEX (Xunicorn) hoặc XENFT cấp 2 APEX (Exotic):
+## ♦️ Tình huống 1: Nếu bạn nắm giữ từ 1 đến 3 Phoenix Ape NFT, Xunicorn APEX XENFT hoặc Exotic APEX XENFT:
 
   - Mỗi NFT được cấp một nhân đôi thưởng hàng ngày giới hạn ở 100 batch. Khi đốt một số lượng batch cụ thể, giao thức trước tiên xác minh xem bất kỳ NFT nào của bạn còn dư số dư thưởng hay không. Nếu có, giao thức sẽ sử dụng số dư thưởng của bạn để tăng số lượng batch của bạn.
 
@@ -1078,7 +1078,7 @@ Hãy xem xét kỹ hơn cách hoạt động của đốt tăng cường trong c
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Kịch bản 2: Nếu bạn nắm giữ 4 hoặc nhiều hơn NFT Phoenix Ape, XENFT cấp 1 APEX (Xunicorn) hoặc XENFT cấp 2 APEX (Exotic):
+## ♦️ Tình huống 2: Nếu bạn nắm giữ 4 hoặc nhiều hơn Phoenix Ape NFT, Xunicorn APEX XENFT hoặc Exotic APEX XENFT:
 
 - Nếu bạn nắm giữ 4 NFT, việc đốt batch trở nên còn mang lại lợi ích hơn. Ví của bạn sẽ nhận được thưởng hàng ngày là 1.000 batch. Điều này thay thế hiệu quả 100 batch thưởng hàng ngày được dành cho mỗi ID NFT của bạn. Nói ngắn gọn, nếu bạn nắm giữ 4 hoặc nhiều hơn NFT trong ví của mình, tổng số batch thưởng hàng ngày của bạn sẽ bị giới hạn ở 1.000 batch cho ví đó. Khi bạn chọn đốt một lượng batch nhỏ hơn thưởng hàng ngày hiện tại của mình, giao thức sẽ nhân đôi số lượng batch của bạn bằng cách sử dụng một lượng tương đương.
 
