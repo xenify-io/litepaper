@@ -1082,7 +1082,7 @@ Vamos dar uma olhada mais de perto em como a queima amplificada funciona em dife
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Cenário 1: Se você possuir entre 1 e 3 NFTs Phoenix Ape, APEX XENFT Classe 1 (Xunicorn) ou APEX XENFT Classe 2 (Exótico):
+## ♦️ Cenário 1: Se você tiver entre 1 e 3 NFTs Phoenix Ape, Xunicorn APEX XENFTs ou Exotic APEX XENFTs:
 
   - Cada NFT recebe um bônus de multiplicador diário limitado a 100 lotes. Ao queimar uma quantidade específica de lotes, o protocolo primeiro verifica se algum de seus NFTs possui um saldo de bônus. Se sim, o protocolo usa seu saldo de bônus para aumentar sua contagem de lotes.
 
@@ -1094,7 +1094,7 @@ Vamos dar uma olhada mais de perto em como a queima amplificada funciona em dife
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
-## ♦️ Cenário 2: Se você possuir 4 ou mais NFTs Phoenix Ape, APEX XENFT Classe 1 (Xunicorn) ou APEX XENFT Classe 2 (Exótico):
+## ♦️ Cenário 2: Se você possui 4 ou mais NFTs Phoenix Ape, Xunicorn APEX XENFTs ou Exotic APEX XENFTs:
 
   - Se você possui 4 NFTs, queimar lotes se torna ainda mais gratificante. Sua carteira receberá um bônus diário de 1.000 lotes. Isso efetivamente substitui os 100 lotes de bônus diários padrão reservados para cada um dos IDs dos seus NFTs. Em poucas palavras, se você possui 4 ou mais NFTs em sua carteira, seu bônus diário total será limitado a 1.000 lotes para aquela carteira. Ao optar por queimar uma quantidade de lotes menor que seu bônus diário atual, o protocolo dobrará sua contagem de lotes usando uma quantia equivalente.
 
