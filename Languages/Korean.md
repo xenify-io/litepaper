@@ -1082,7 +1082,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ 시나리오 1: Phoenix Ape NFT, 1등급 APEX XENFT (Xunicorn), 또는 2등급 APEX XENFT (Exotic)를 1개에서 3개 보유한 경우:
+## ♦️ 시나리오 1: Phoenix Ape NFT, Xunicorn APEX XENFT 또는 Exotic APEX XENFT를 1~3개 보유하고 있는 경우:
 
   - 각 NFT에는 일일 100배치로 제한된 보너스 곱셈기가 제공됩니다. 특정 수의 배치를 번할 때, 프로토콜은 먼저 NFT 중 보너스 잔액이 있는지 확인합니다. 그렇다면, 프로토콜은 보너스 잔액을 사용하여 배치 수를 늘립니다.
 
@@ -1094,7 +1094,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ 시나리오 2: Phoenix Ape NFT, 1등급 APEX XENFT (Xunicorn), 또는 2등급 APEX XENFT (Exotic)를 4개 이상 보유한 경우:
+## ♦️ 시나리오 2: Phoenix Ape NFT, Xunicorn APEX XENFT 또는 Exotic APEX XENFT를 4개 이상 보유한 경우:
 
   - 4개의 NFT를 보유하면 배치를 번하는 것이 더 유익해집니다. 지갑은 일일 1,000배치 보너스를 받습니다. 이는 기본적으로 각 NFT ID에 할당된 100일별 보너스 배치를 효과적으로 대체합니다. 간단히 말해서, 지갑에 4개 이상의 NFT를 보유한 경우 그 지갑의 총 일일 보너스는 1,000배치로 제한됩니다. 현재 일일 보너스보다 적은 배치 수를 번하기로 선택하면, 프로토콜은 동등한 수량을 사용하여 배치 수를 두 배로 늘립니다.
 
