@@ -1083,7 +1083,7 @@ Arttırılmış yakmanın farklı senaryolarda nasıl çalıştığına daha yak
 
 ![grey v4](https://user-images.githubusercontent.com/60996729/218723462-34f6bd22-9733-48e4-ba64-8854cd6462a3.png)
 
-## ♦️ Senaryo 1: 1 ile 3 arasında Phoenix Ape NFT'niz, Sınıf 1 APEX XENFT'niz (Xunicorn) veya Sınıf 2 APEX XENFT'niz (Exotic) varsa:
+## ♦️ Senaryo 1: 1 ila 3 Phoenix Ape NFT'ye, Xunicorn APEX XENFT'ye veya Egzotik APEX XENFT'ye sahipseniz:
 
   - Her bir NFT'ye günlük olarak 100 toplu ile sınırlı bir bonus çarpanı verilir. Belirli bir miktarda toplu yakarken, protokol öncelikle NFT'lerinizden herhangi birinin bonus bakiyesine sahip olup olmadığını doğrular. Eğer öyleyse, protokol toplu sayınızı artırmak için bonus bakiyenizi kullanır.
 
@@ -1095,7 +1095,7 @@ Arttırılmış yakmanın farklı senaryolarda nasıl çalıştığına daha yak
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Senaryo 2: 4 veya daha fazla Phoenix Ape NFT'niz, Sınıf 1 APEX XENFT'niz (Xunicorn) veya Sınıf 2 APEX XENFT'niz (Exotic) varsa:
+## ♦️ Senaryo 2: 4 veya daha fazla Phoenix Ape NFT'ye, Xunicorn APEX XENFT'ye veya Egzotik APEX XENFT'ye sahipseniz:
 
   - 4 NFT'ye sahipseniz toplu yakmak çok daha kazançlı hale gelir. Cüzdanınız günlük 1.000 toplu bonus alacaktır. Bu, NFT kimliklerinizin her biri için ayrılan varsayılan 100 günlük bonus topluların yerine geçer. Kısacası, cüzdanınızda 4 veya daha fazla NFT varsa, günlük toplam bonusunuz o cüzdan için 1.000 toplu ile sınırlı olacaktır. Mevcut günlük bonusunuzdan daha az bir toplu miktarını yakmayı seçtiğinizde, protokol eşdeğer bir miktarı kullanarak toplu sayınızı ikiye katlayacaktır.
 
