@@ -1084,7 +1084,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ シナリオ1: Phoenix Ape NFT、クラス1 APEX XENFT (Xunicorn)、クラス2 APEX XENFT (Exotic)のいずれかを1~3つ保有している場合:
+## ♦️ シナリオ 1: 1 ～ 3 個の Phoenix Ape NFT、Xunicorn APEX XENFT、または Exotic APEX XENFT を保有している場合:
 
   - 各NFTには1日あたり100バッチに制限された日次ボーナス乗数が付与されます。 特定数のバッチをバーンする際、プロトコルはまず、NFTのいずれかにボーナス残高があるかどうかを確認します。 ある場合、プロトコルはボーナス残高を使用してバッチ数を増加させます。
 
@@ -1096,7 +1096,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ シナリオ2: Phoenix Ape NFT、クラス1 APEX XENFT (Xunicorn)、クラス2 APEX XENFT (Exotic)を4つ以上保有している場合:
+## ♦️ シナリオ 2: 4 つ以上の Phoenix Ape NFT、Xunicorn APEX XENFT、または Exotic APEX XENFT を保有している場合:
 
   - 4つのNFTを保有していれば、バッチをバーンするのがさらに報われます。ウォレットは1日あたり1,000バッチのボーナスを受け取ります。 これは、NFT IDごとに割り当てられたデフォルトの100日次ボーナスバッチを効果的に置き換えます。 つまり、ウォレットに4つ以上のNFTを保有している場合、そのウォレットの合計の日次ボーナスは1,000バッチに制限されます。 バーンするバッチ数が現在の日次ボーナスより少ない場合、プロトコルは同等の量を使用してバッチ数を2倍にします。
 
