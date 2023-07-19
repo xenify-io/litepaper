@@ -1082,7 +1082,7 @@ Mari kita lihat lebih dekat bagaimana burn amplifikasi bekerja dalam skenario ya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), atau Class 2 APEX XENFT (Exotic):
+## ♦️ Skenario 1: Jika Anda memiliki antara 1 dan 3 Phoenix Ape NFT, Xunicorn APEX XENFT, atau Exotic APEX XENFT:
 
   - Setiap NFT diberikan bonus pengganda harian yang dibatasi hingga 100 batch. Ketika membakar sejumlah batch tertentu, protokol pertama-tama memverifikasi apakah salah satu NFT Anda memiliki saldo bonus. Jika ya, protokol akan menggunakan saldo bonus Anda untuk meningkatkan jumlah batch Anda.
 
@@ -1094,7 +1094,7 @@ Mari kita lihat lebih dekat bagaimana burn amplifikasi bekerja dalam skenario ya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Skenario 2: Jika Anda memiliki 4 atau lebih Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), atau Class 2 APEX XENFT (Exotic):
+## ♦️ Skenario 2: Jika Anda memegang 4 atau lebih NFT Phoenix Ape, XENFT APEX Xunicorn, atau XENFT APEX Eksotis:
 
   - Jika Anda memiliki 4 NFT membakar batch menjadi lebih menguntungkan. Dompet Anda akan menerima bonus harian 1.000 batch. Ini secara efektif menggantikan bonus batch harian default 100 yang dicadangkan untuk masing-masing ID NFT Anda. Singkatnya, jika Anda memiliki 4 atau lebih NFT dalam dompet Anda, total bonus harian Anda akan dibatasi hingga 1.000 batch untuk dompet tersebut. Ketika Anda memilih untuk membakar sejumlah batch yang kurang dari bonus harian Anda saat ini, protokol akan melipatgandakan jumlah batch Anda dengan menggunakan jumlah yang setara.
 
