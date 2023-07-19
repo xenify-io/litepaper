@@ -1081,7 +1081,7 @@ Regardons de plus près comment fonctionne la combustion amplifiée dans différ
 
 ![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scénario 1 : Si vous détenez entre 1 et 3 NFT Phoenix Ape, XENFT de classe 1 APEX (Xunicorn) ou XENFT de classe 2 APEX (Exotique) :
+## ♦️ Scénario 1 : si vous détenez entre 1 et 3 NFT Phoenix Ape, Xunicorn APEX XENFT ou Exotic APEX XENFT :
 
   - Chaque NFT se voit accorder un multiplicateur de bonus quotidien limité à 100 lots. Lors de la combustion d'un nombre spécifique de lots, le protocole vérifie d'abord si l'un de vos NFT possède un solde de bonus. Si c'est le cas, le protocole utilise votre solde de bonus pour augmenter votre nombre de lots.
 
@@ -1093,7 +1093,7 @@ Regardons de plus près comment fonctionne la combustion amplifiée dans différ
 
 ![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Scénario 2 : Si vous détenez 4 NFT Phoenix Ape, XENFT de classe 1 APEX (Xunicorn) ou XENFT de classe 2 APEX (Exotique) ou plus :
+## ♦️ Scénario 2 : Si vous détenez au moins 4 NFT Phoenix Ape, Xunicorn APEX XENFT ou Exotic APEX XENFT :
 
   - Si vous détenez 4 NFT et que vous brûlez des lots, cela devient encore plus gratifiant. Votre portefeuille recevra un bonus quotidien de 1 000 lots. Cela remplace effectivement les 100 lots de bonus quotidiens par défaut réservés pour chacun de vos ID NFT. En bref, si vous détenez 4 NFT ou plus dans votre portefeuille, votre bonus quotidien total sera plafonné à 1 000 lots pour ce portefeuille. Lorsque vous choisissez de brûler un nombre de lots inférieur à votre bonus quotidien actuel, le protocole doublera votre nombre de lots en utilisant un montant équivalent.
 
