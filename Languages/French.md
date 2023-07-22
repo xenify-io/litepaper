@@ -961,8 +961,8 @@ Grâce à cette structure de récompense unique, Xenify est en mesure de renforc
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f056f3f7-605f-418f-b4d1-ff956c907906" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/814e17d7-88ea-40f9-8a94-d3060bc95e99" class="source-dark">
+    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/64c4ef1c-d66f-4022-88cd-13867386bcc3" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/21b858e9-88ba-46dd-b7c6-1e6d381202bf" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
     </picture>
 </p>
@@ -976,7 +976,7 @@ Grâce à cette structure de récompense unique, Xenify est en mesure de renforc
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3f59ac54-47bf-4d29-848b-bb0b909f9160" class="source-light">
-    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/d9f00b77-7e6d-4fd6-ad81-e980bbf46290" class="source-dark">
+    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d9f00b77-7e6d-4fd6-ad81-e980bbf46290" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
