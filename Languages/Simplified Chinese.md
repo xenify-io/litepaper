@@ -439,8 +439,8 @@ XNF是Xenify协议的生命线，总供应量有限，只有2260万个代币。X
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/bd620b01-b215-4873-ba3d-555c6bb082ec" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1b4c8e4e-c6af-4741-a890-c5778a9024af" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d34d5899-5b65-47c1-b619-1be4e1278b3f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -467,8 +467,8 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a2c7e5f0-b1fc-4646-91f8-0e5830adc682" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fb5cf98a-3b18-446f-8e73-9d012c5d38ab" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ab0d281d-ced0-4751-b9e9-73592902b8b9" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -875,8 +875,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/809f5146-79e9-4cd1-8b7e-5ee4dff62ad0" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/98168d30-5107-4d7d-b035-e00ae48d3425" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -960,8 +960,8 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b252a131-8970-4a6b-adf6-e5b51117f1f9" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/75b76e69-1f53-4fdc-942f-419520b603e6" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
     </picture>
 </p>
@@ -972,10 +972,10 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 <br>
 
-<p align="center" dir="auto">
+r="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/92a5bcb5-6ccb-4070-af4f-681af3404916" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2c4924db-1f96-415d-804f-593687e96c19" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1006,8 +1006,8 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 <p align="center" dir="auto">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e3e56328-0aad-471a-a1a7-2136a907f205" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/74343418-0200-4920-be1c-cbeec29df2c9" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
