@@ -436,12 +436,10 @@ Xenifiy adalah protokol inovatif yang mengedepankan keadilan, keberlanjutan, dan
 
 XNF adalah sumber kehidupan protokol Xenify, dan memiliki total pasokan terbatas sebesar 22,6 juta token. Proses distribusi untuk XNF dirancang dengan mempertimbangkan transparansi dan kesetaraan, memastikan lapangan bermain yang setara untuk semua. Tanpa pra-tambang, alokasi investor, alokasi pendiri, atau alokasi tim, protokol Xenify mendorong lingkungan yang adil dan inklusif. Pengguna memiliki kesempatan untuk mendapatkan ekuitas XNF dengan terlibat dalam berbagai aktivitas, seperti membakar token vXEN atau vUSDy dan menukar token di seluruh chain yang didukung. Model pasokan token yang unik ini tidak hanya mendorong partisipasi aktif, tetapi juga menumbuhkan ekosistem yang berkembang dan berfokus pada komunitas sehingga semua orang dapat menjadi bagian darinya.
 
-<br>
-
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9efbd49d-e8dd-4956-b4ea-7c10c23c5674" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d15271d1-c11f-4a58-ac7c-352175b70892" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -468,8 +466,8 @@ Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip hal
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/bc1bc740-9231-43ed-98c5-60f44c697a90" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/033796c2-57a7-4847-a62e-7f97f11c031e" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -876,8 +874,8 @@ Begini cara kerjanya: Protokol menghitung kontribusi swap (SC) pengguna dengan t
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f4423728-ea92-49d1-9301-76097a479e11" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f34e9d40-6328-4ac8-bf90-1768e46a713b" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility: visible;max-width: 100%;">
   <picture>
 </p>
@@ -961,8 +959,8 @@ Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nil
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c70ea021-e48f-41ab-8379-a6001ce60783" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6c2ce135-fa16-4b26-9692-b767524e50f4" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
     <picture>
 </p>
@@ -975,8 +973,8 @@ Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nil
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/5e1eb015-f6e1-4253-b1e7-267b0f08936d" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fd912147-8375-43b9-8385-167c9ef7ca30" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
@@ -1007,8 +1005,8 @@ Selama fase pra-penyebaran, saat acara airdrop berlangsung, biaya swap 0,5% tida
 
 <p align="center" dir="auto">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3718a4be-5b64-42c9-bfd8-28bd22073923" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/eb919e61-dbde-4f05-938c-9aab83bfde16" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
