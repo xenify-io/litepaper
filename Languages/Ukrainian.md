@@ -440,8 +440,8 @@ XNF є основою протоколу Xenify і має обмежену за�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9cda133e-4d65-4feb-954d-3640678ab36b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/eda11345-58c8-4361-8dd9-f44ec2fcb863" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -468,8 +468,8 @@ XNF є основою протоколу Xenify і має обмежену за�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/02ec0b28-265d-4cbe-ae45-d6f1bbfd877e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/5f6f45a3-9eac-4d77-9828-781b6f1b5af4" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -876,8 +876,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/87785177-38ab-4a00-80d8-20e6a298c785" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b624eaeb-f57e-4474-bfdc-6e5b4c8c32a6" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -961,8 +961,8 @@ Xenify дає можливість користувачам без зайвих 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/14b949ba-a82f-4c3b-b4db-01ba1d468a71" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a8f95529-f0be-4691-acc5-9a84854af835" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
     </picture>
 </p>
@@ -975,8 +975,8 @@ Xenify дає можливість користувачам без зайвих 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9bd466ae-7229-460c-9e5d-e26d8ad65416" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b4052c01-8849-426c-90fe-beba8aa68831" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1007,8 +1007,8 @@ Xenify дає можливість користувачам без зайвих 
 
 <p align="center" dir="auto">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/28205764-f046-4a57-bee5-22d1437bc540" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/cbd06bb7-9666-44be-afe9-5985ba224f81" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
