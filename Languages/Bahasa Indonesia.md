@@ -959,8 +959,8 @@ Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nil
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c70ea021-e48f-41ab-8379-a6001ce60783" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6c2ce135-fa16-4b26-9692-b767524e50f4" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2ff60fa6-7d0a-4e7c-80bd-501f98f79aa4" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/8539b600-6763-4f47-8b3e-5f88bfc7a305" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
     <picture>
 </p>
