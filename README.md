@@ -1058,7 +1058,7 @@ Remember, the more batches you burn, the more you save on burn fees. By holding 
 
 And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
 
-In summary, holders of Phoenix Ape NFTs not only enjoy an increased share of the daily XNF distribution but also unlock greater discounts on the burn fee by burning a larger amount of batches. The maximum amount of batches per transaction is capped at 10,000 batches, and the burn fee discount is represented by the term (1 - (NB x CS)) in the protocols burn fee formula:
+In summary, Phoenix Ape NFT holders gain a twofold advantage. They enjoy an increased portion of the daily XNF distribution and unlock substantial discounts on the burn fee by burning a greater number of batches. However, keep in mind that the maximum limit for batches per burn transaction (NB) is set at 10,000, and the upper limit for bonus batches per burn transaction remains capped at 1,000. The burn fee discount you obtain is represented by the term (1 - (NB x BC)) in the protocols burn fee formula:
 
 <br>
 
