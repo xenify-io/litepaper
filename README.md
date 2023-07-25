@@ -1265,9 +1265,11 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ## ◽️ What happens if there are no token swaps or burns during a daily cycle?
 
-- In the unlikely event that no swaps occur on Xenify, and no users burn either vXEN or vUSDy, the daily XNF cycle distribution will not be carried out. In this scenario, the XNF tokens scheduled for distribution during that cycle will simply not be minted. As a result, the total supply of XNF will decrease by the amount that was intended to be distributed in that cycle.
+- In the unlikely event that a cycle passes without any swaps on Xenify and no users burning either vXEN or vUSDy, the daily XNF cycle distribution will not occur. The XNF tokens that were due to be distributed during this cycle won't be minted. Consequently, the overall supply of XNF will reduce by the number intended for distribution in that cycle. For instance, if the daily allocation for a cycle was set at 20,000 XNF, and no swaps or burns take place during that cycle, then these 20,000 XNF will neither be minted nor distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the end of the cycle.
 
-- For instance, if the daily allocation for a cycle is set at 20,000 XNF, and if no swaps or burns occur during that cycle, the 20,000 XNF will not be minted or distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the conclusion of the cycle.
+- But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
+
+- Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
 
 <br>
 
