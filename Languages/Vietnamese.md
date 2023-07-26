@@ -433,8 +433,8 @@ XNF là mạch sống của giao thức Xenify, với tổng nguồn cung giới
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7646c13f-9e48-4714-b2da-7adac5b3c68a" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f427f0a3-1ce3-4e76-b787-e6001bb739de" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9c33bbb7-09e3-49cc-b946-cb98dca5cafd" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f2fa1ee7-0a55-4804-90c7-be154fdd0669" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -447,11 +447,11 @@ Với tổng nguồn cung được giới hạn ở 22,6 triệu token XNF, đư
 
 - **21.000.000 XNF dành cho các cuộc đấu giá hàng ngày:** Những người dùng tham gia vào các hoạt động khác nhau thúc đẩy sự phát triển liên tục của giao thức sẽ có cơ hội nhận được một phần của các token XNF dành riêng cho các cuộc đấu giá hàng ngày.
 
-  - 10.500.000 XNF (50%) của đấu giá hàng ngày được phân phối cho những người trực tiếp đốt vXEN và vUSDy. Trong mỗi chu kỳ, nếu không ai khởi tạo quá trình đốt, phân bổ XNF tương ứng sẽ không được đúc. Cơ chế khan hiếm này làm giảm tổng nguồn cung XNF, góp phần vào khả năng tăng giá trị tiềm năng của nó.
+  - 10.500.000 XNF (50%) được phân phối cho những người tham gia đấu giá đốt. Nếu quá trình đốt chưa được bắt đầu trong một chu kỳ, phân bổ XNF hàng ngày cho những người tham gia đấu giá đốt sẽ được phân phối giữa những người tham gia hoán đổi cho chu kỳ đó. Nếu không có hoán đổi hoặc bỏng xảy ra trong một chu kỳ, phân bổ XNF sẽ không được đúc cũng không được phân phối. Kết quả là, cơ chế dựa trên sự khan hiếm này làm giảm tổng nguồn cung XNF, có khả năng làm tăng giá trị của nó.
 
-  - 10.500.000 XNF (50%) của đấu giá hàng ngày được phân phối cho những người tham gia hoán đổi trên các chuỗi EVM được hỗ trợ. Nếu không có giao dịch hoán đổi nào xảy ra trong một chu kỳ, phân bổ XNF tương ứng sẽ không được đúc. Điều này cũng giúp giảm tổng nguồn cung XNF, tăng cường tính khan hiếm và giá trị tiềm năng của nó.
+  - 10.500.000 XNF (50%) được phân phối cho những người dùng tham gia hoán đổi trên các chuỗi EVM được hỗ trợ. Trong trường hợp không có hoán đổi trong một chu kỳ, phân bổ XNF cho những người tham gia hoán đổi sẽ được phân phối để đốt những người tham gia đấu giá cho chu kỳ đó. Nếu không có hoán đổi hoặc bỏng xảy ra trong một chu kỳ, phân bổ XNF này sẽ không được đúc cũng như phân phối. Hành động này cũng góp phần làm giảm tổng nguồn cung XNF, do đó tăng cường sự khan hiếm và giá trị tiềm năng của nó.
   
-- **100.000 XNF được dành để tạo thanh khoản XNF:** Để tạo điều kiện cho việc này, chúng tôi đã dành riêng 50.000 XNF cho Quản lý Phí đúc vXEN và thêm 50.000 XNF cho Quản lý Phí đúc vUSDy. Mỗi khi người dùng tham gia vào việc đốt hàng ngày của vXEN hoặc vUSDy, họ sẽ đóng góp vào sự phát triển của thanh khoản XNF. Sáng kiến này củng cố sức khỏe tổng thể của giao thức và nuôi dưỡng một nhóm thanh khoản vững chắc cho cộng đồng của chúng tôi.
+- **100.000 XNF được chỉ định để tạo thanh khoản XNF:** Để tạo thuận lợi cho điều này, chúng tôi đã dành 100.000 XNF cho giao thức Trình quản lý phí Mint. Mỗi khi người dùng tham gia vào việc đốt vXEN hoặc vUSDy hàng ngày, họ sẽ góp phần vào sự gia tăng thanh khoản của XNF. Sáng kiến này củng cố sức khoẻ tổng thể của giao thức và thúc đẩy một nhóm thanh khoản mạnh mẽ cho cộng đồng của chúng tôi.
 
 - **1.500.000 XNF được dành riêng như một phần thưởng độc quyền dành cho những người tham gia hoán đổi:** Để khuyến khích sự tham gia, mỗi chuỗi sẽ có một phần thưởng độc quyền gồm 1.500.000 XNF dành cho những người thực hiện các hoán đổi trước khi triển khai XNF. Phần thưởng sẽ diễn ra vào ngày đầu tiên ra mắt, và sẽ được phân phối dưới dạng các token bị khóa, mở khóa dần dần trong 730 ngày.
 
@@ -461,8 +461,8 @@ Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/cb4518df-1305-41d0-81ca-b8c39c8cda3a" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/661fdf32-5039-4434-a30e-99a81584ddd8" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/9be022ee-bf88-4e23-ad24-07532b56d9eb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/10b1fbf5-f675-4929-a218-6ccca64f7702" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -479,33 +479,17 @@ Lấy cảm hứng từ Bitcoin, mô hình phân phối của Xenify áp dụng 
 
 ## ◽️ Các chuỗi mở rộng tiềm năng
 
-Xenify đang chuẩn bị bước lên sàn lớn, xem xét một loạt các blockchain cho bước đi lớn tiếp theo của mình. Danh sách các chuỗi chúng tôi đang xem xét ngay bây giờ thực sự rất đa dạng, từ các chuỗi lớn như Arbitrum và Avalanche đến các chuỗi blockchain mới nổi như zkSync và PulseChain, lựa chọn thật vô vàn. Danh sách đầy đủ bao gồm:
+Xenify đang chuẩn bị phát triển mạnh mẽ, mở rộng quy mô một loạt các blockchain cho động thái lớn tiếp theo của nó. Danh sách các chuỗi chúng tôi đang kiểm tra ngay bây giờ là khá hỗn hợp, từ các đối thủ nặng ký như Arbitrum và Avalanche đến những đứa trẻ mới trên blockchain như PulseChain, không thiếu các tuỳ chọn. Danh sách đầy đủ bao gồm:
   
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas  
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -513,36 +497,22 @@ Xenify đang chuẩn bị bước lên sàn lớn, xem xét một loạt các bl
 
 <br>
 
-| Tên chuỗi            | Tên DEX                                                 | Cặp thanh khoản            |
-|----------------------|---------------------------------------------------------|----------------------------|  
-| KCC                  | [MojitoSwap](https://www.mojitoswap.finance)             | kXNF-KCS                   |
-| Celo                 | [Uniswap V3](https://app.uniswap.org)                    | cXNF-CELO                  |
-| Fuse                 | [SushiSwap](https://www.sushi.com)                       | fXNF-FUSE                  |
-| Boba                 | [SushiSwap](https://www.sushi.com)                       | boXNF-BOBA                 |
-| Heco                 | [MDEX](https://mdex.com)                                 | hcXNF-HT                   |
-| Telos                | [ApeSwap](https://apeswap.finance)                       | tXNF-TELOS                 |  
-| Velas                | [Wavelength](https://app.wavelength.exchange)            | veXNF-VLX                  |
-| Metis                | [Hummus Exchange](https://www.hummus.exchange)           | meXNF-METIS                |
-| Canto                | [Canto Dex](https://app.slingshot.finance/swap/CANTO)    | caXNF-CANTO                |
-| Klaytn               | [KlaySwap](https://klayswap.com)                         | kXNF-KLAY                  |
-| Evmos                | [SpaceSwap](https://swap-evmos.spacefi.io)               | coXNF-WEVMOS               |
-| Aurora               | [Polaris Finance](https://polarisfinance.io)             | arXNF-ETH                  |  
-| Gnosis               | [Balancer V2](https://balancer.finance)                  | gXNF-GNO                   |
-| zkSync               | [SyncSwap](https://syncswap.xyz)                         | zkXNF-ETH                  |
-| Cronos               | [VVS Finance](https://vvs.finance)                       | crXNF-CRO                  |
-| Fantom               | [SpookySwap](https://spooky.fi)                          | fmXNF-FTM                  |
-| Polygon              | [Uniswap V3](https://app.uniswap.org)                    | mXNF-MATIC                 |
-| Arbitrum             | [Uniswap V3](https://app.uniswap.org)                    | aXNF-ETH                   |
-| Ethereum             | [Uniswap V3](https://app.uniswap.org)                    | XNF-ETH                    |
-| Optimism             | [Uniswap V3](https://app.uniswap.org)                    | oXNF-ETH                   |  
-| Avalanche            | [Trader Joe](https://traderjoexyz.com)                   | avXNF-AVAX                 |
-| Moonriver            | [Solarbeam](https://app.solarbeam.io/exchange/swap)      | mrXNF-MOVR                 |
-| OKX Chain            | [OKExSwap](https://www.okex.com/swap)                    | okXNF-OKT                  |
-| Moonbeam             | [Stellaswap](https://app.stellaswap.com/pulsar)          | mbXNF-WGLMR                |
-| BNB Chain            | [ApeSwap](https://apeswap.finance)                       | bXNF-BNB                   |
-| PulseChain           | [PulseX](https://pulsex.com)                             | pXNF-PLS                   |
-| Ethereum PoW         | [Uniwswap](https://uniwswap.com)                         | vvXNF-WETH                 |
-| Polygon zkEVM       | [Quickswap](https://quickswap.exchange)                  | mkXNF-MATIC                |
+| Tên chuỗi          | Tên DEX                                               | Cặp thanh khoản     |
+|--------------------|-------------------------------------------------------|---------------------|  
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -763,7 +733,7 @@ So sánh các kịch bản này làm nổi bật lợi ích của việc đốt 
 
 Bằng cách cung cấp Phí đúc, người dùng đóng góp vào việc tạo ra thanh khoản sở hữu giao thức. Thanh khoản này cũng mở đường cho việc phân phối thêm phần thưởng dưới dạng token XNF và token XEN gốc cho những người tham gia tái chế phần thưởng vào cuối mỗi chu kỳ. Do đó, Quản lý Phí đúc không chỉ củng cố thanh khoản sở hữu giao thức mà còn gián tiếp tạo ra nhiều phần thưởng hơn cho những người tham gia tái chế. Thiết kế sáng tạo này đảm bảo tính bền vững và tăng trưởng lâu dài của hệ sinh thái Xenify. Hơn nữa, việc không có khóa quản trị trong hợp đồng bảo vệ thanh khoản sở hữu giao thức loại bỏ hoàn toàn khả năng thao túng.
 
-Để khởi động việc tạo ra thanh khoản sở hữu giao thức này, Quản lý Phí đúc nhận được phân bổ 100.000 token XNF được phát hành trước khi triển khai XNF. Những token này phục vụ mục đích tạo thanh khoản XNF thông qua Phí đúc. 100.000 token XNF được chia đều, với 50.000 token được phân bổ cho Phí đúc vXEN và 50.000 token cho Phí đúc vUSDy. Nhóm phát triển không có quyền truy cập vào những token được phát hành trước này, và chỉ có thể thực hiện đốt những token này nếu cần thiết. 
+Để khởi động việc tạo ra thanh khoản thuộc sở hữu giao thức này, Người quản lý Phí Mint nhận được phân bổ 100.000 mã thông báo XNF được trộn sẵn khi XNF được triển khai. Các mã thông báo này phục vụ mục đích tạo thanh khoản XNF thông qua Phí Mint. Nhóm không có quyền truy cập vào các mã thông báo được trộn sẵn này và chỉ có thể thực hiện việc đốt các mã thông báo này nếu cần.
 
 Đây là cách nó hoạt động: Khi người dùng gửi Phí đúc, Quản lý Phí đúc sẽ ghép nối 50% số token gốc chuỗi với các token XNF được phát hành trước, để thêm vào thanh khoản XNF ở phạm vi đầy đủ, với tất cả token LP được nắm giữ bởi giao thức. Quá trình này sẽ tiếp tục cho đến khi số lượng XNF được phát hành trước được sử dụng hết. Sau đó, quản lý khởi động quy trình mặc định của nó, liên quan đến việc sử dụng 25% số token gốc để mua token XNF, ghép nối XNF thu được với 25% số token gốc cho việc tạo thanh khoản ở phạm vi đầy đủ, với tất cả token LP được nắm giữ bởi giao thức. 
 
@@ -777,7 +747,7 @@ Vào cuối mỗi chu kỳ, giao thức rút 1% tổng số token LP XNF và 1% 
 
 Phí đúc vXEN chỉ áp dụng khi bạn đốt một biến thể token XEN để có được vXEN. Phí đúc được xác định bởi giá trị thị trường hiện tại của các token bạn đốt. Các token gốc tạo ra từ phí đúc vXEN sẽ được phân bổ như sau:
 
-- **50% sẽ được dùng để tạo thanh khoản XNF:** Giao thức sử dụng 50% số token gốc để tạo thanh khoản XNF cho chuỗi đó. Nếu có 50.000 XNF được phát hành trước, toàn bộ số lượng token gốc sẽ được ghép cặp với XNF được phát hành trước cho ghép đôi thanh khoản, với các token LP được nắm giữ bởi giao thức. Tuy nhiên, nếu số lượng XNF được phát hành trước đã cạn, giao thức sẽ sử dụng một nửa 50% token gốc để mua token XNF và 25% token gốc còn lại để ghép đôi thanh khoản, với các token LP được nắm giữ bởi giao thức.
+- **50% sẽ được sử dụng để tạo thanh khoản XNF:** Giao thức sử dụng 50% mã thông báo gốc để tạo thanh khoản XNF cho chuỗi. Nếu 100.000 XNF được trộn sẵn, toàn bộ số lượng mã thông báo gốc sẽ được ghép nối với XNF được trộn sẵn để ghép nối thanh khoản, với các mã thông báo LP được giữ bởi giao thức. Tuy nhiên, nếu phân bổ XNF được trộn sẵn đã cạn kiệt, giao thức sẽ sử dụng một nửa trong số 50% mã thông báo gốc để mua mã thông báo XNF và 25% còn lại của mã thông báo gốc để ghép nối thanh khoản, với các mã thông báo LP được giữ bởi giao thức.
 
 - **50% sẽ được dùng để tạo thanh khoản token XEN:** Giao thức sử dụng 50% số token gốc chuỗi để tạo thanh khoản cho biến thể token XEN gốc cho bể thanh khoản XEN phổ biến nhất trên chuỗi đó (ví dụ, trên BNB Chain nó sẽ tạo thanh khoản cho cặp bXEN-BNB), bằng cách sử dụng 25% số token để mua token XEN gốc (ví dụ: bXEN) và 25% token gốc còn lại để ghép đôi thanh khoản với các token LP được nắm giữ bởi giao thức.
 
@@ -789,7 +759,7 @@ Phí đúc vXEN chỉ áp dụng khi bạn đốt một biến thể token XEN �
 
 Phí đúc vUSDy chỉ áp dụng khi bạn chuyển đổi USDy, xYSL hoặc bYSL sang vUSDy thông qua quá trình đốt. Các token gốc được tạo ra từ phí đúc vUSDy sẽ được phân bổ như sau:
 
-- **50% sẽ được sử dụng để tạo thanh khoản XNF:** Giao thức sử dụng 50% token gốc để tạo thanh khoản XNF cho chuỗi. Nếu 50.000 XNF Đã đúc sẵn có sẵn, toàn bộ số lượng token gốc sẽ được ghép đôi với XNF đã đúc sẵn để tạo thanh khoản, với các LP token được giữ bởi giao thức. Tuy nhiên, nếu khoản phân bổ XNF đã đúc sẵn đã cạn kiệt, giao thức sẽ sử dụng một nửa 50% token gốc để mua các token XNF và 25% còn lại của các token gốc để ghép đôi thanh khoản, với các LP token được giữ bởi giao thức.
+- **50% sẽ được sử dụng để tạo thanh khoản XNF:** Giao thức sử dụng 50% mã thông báo gốc để tạo thanh khoản XNF cho chuỗi. Nếu 100.000 XNF được trộn sẵn, toàn bộ số lượng mã thông báo gốc sẽ được ghép nối với XNF được trộn sẵn để ghép nối thanh khoản, với các mã thông báo LP được giữ bởi giao thức. Tuy nhiên, nếu phân bổ XNF được trộn sẵn đã cạn kiệt, giao thức sẽ sử dụng một nửa trong số 50% mã thông báo gốc để mua mã thông báo XNF và 25% còn lại của mã thông báo gốc để ghép nối thanh khoản, với các mã thông báo LP được giữ bởi giao thức.
 
 - **50% sẽ được sử dụng để tạo thanh khoản USDy do kho bạc sở hữu:** Giao thức sử dụng 50% token gốc để tạo thanh khoản USDy-USDC do kho bạc sở hữu, bằng cách đúc phần USDy của cặp thanh khoản và mua USDC bằng 50% token, với các LP token được gửi đến YSL.IO Treasury.
 
@@ -855,8 +825,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6046946a-98f4-4c0f-868a-3f3bf6dbcf5f" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9bcae1a3-4648-4500-9512-335ba4603fe4" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/37c0540d-c1f0-4c0e-bb37-81c5cb2b63a6" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -940,8 +910,8 @@ Với cấu trúc phần thưởng độc đáo này, Xenify có thể củng c�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/741e3958-713c-49e5-a2b1-c7668f276d94" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/bf7eb849-2c27-4967-a1d6-fdf914c8086d" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -955,8 +925,8 @@ Với cấu trúc phần thưởng độc đáo này, Xenify có thể củng c�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/20fdc94f-ec5b-4b93-9239-dcafa38b0962" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/0bb4c250-9a78-4812-bd5e-37f9e09d1bf0" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/6f046f79-5810-49d8-97bc-83914736f358" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -988,8 +958,8 @@ Trong giai đoạn trước khi triển khai, trong khi sự kiện phân phối
 
 <p align="center" dir="auto">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/dd061057-7e65-4d46-9b6c-724bfc029f87" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a72679fc-8e00-4828-9bb0-22c4de08ebe1" class="source-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/307cc2d5-2e7c-4383-9685-350565dbca13" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/1335d2a5-fc5e-4c0a-b6d4-77dac395a416" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
