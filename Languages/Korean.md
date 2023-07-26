@@ -455,11 +455,11 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 - **일일 경매에 할당된 21,000,000 XNF:** 프로토콜의 지속적인 개발을 강화하는 다양한 활동에 참여하는 사용자는 일일 경매 전용 XNF 토큰을 획득할 수 있는 기회를 갖게 됩니다.
 
-  - 일일 경매의 10,500,000 XNF(50%)는 vXEN 및 vUSDy를 직접 소각하는 사용자에게 분배됩니다. 각 주기 동안 아무도 소각 프로세스를 시작하지 않으면 해당 XNF 할당은 발행되지 않습니다. 이러한 희소성 중심의 메커니즘은 XNF의 총 공급량을 감소시켜 잠재적 가치 상승에 기여합니다.
+  - 10,500,000 XNF(50%)가 소각 경매 참가자에게 분배됩니다. 한 사이클 동안 소각 프로세스가 시작되지 않은 경우, 소각 경매 참가자에 대한 일일 XNF 할당은 해당 사이클의 스왑 참가자에게 분배됩니다. 한 주기 동안 스왑이나 소각이 발생하지 않으면 XNF 할당은 발행되지도 배포되지도 않습니다. 결과적으로 이러한 희소성 중심 메커니즘은 XNF의 총 공급량을 감소시켜 잠재적으로 그 가치를 증가시킵니다.
 
-  - 일일 경매의 10,500,000 XNF(50%)는 지원되는 EVM 체인에서 스왑에 참여한 사용자에게 분배됩니다. 한 주기 동안 스왑이 발생하지 않으면 해당 XNF 할당은 발행되지 않습니다. 이 역시 XNF의 총 공급량을 감소시켜 희소성과 잠재적 가치를 높입니다.
+  - 10,500,000 XNF(50%)는 지원되는 EVM 체인에서 스왑에 참여하는 사용자에게 분배됩니다. 한 주기 동안 스왑이 발생하지 않을 경우, 스왑 참여자에 대한 XNF 할당은 해당 주기의 번 경매 참여자에게 분배됩니다. 한 주기 동안 스왑이나 소각이 발생하지 않으면 이 XNF 할당은 발행되거나 분배되지 않습니다. 이러한 조치는 전체 XNF 공급량을 줄여 희소성과 잠재적 가치를 높이는 데도 기여합니다.
 
-- **XNF 유동성 창출을 위해 할당된 100,000 XNF:** 이를 촉진하기 위해 당사는 vXEN 민트 수수료 매니저를 위해 50,000 XNF를 할당하고 vUSDy 민트 수수료 매니저를 위해 추가로 50,000 XNF를 할당했습니다. 사용자가 일일 소각에 참여할 때마다 vXEN 또는 vUSDy는 XNF 유동성 확산에 기여하게 됩니다. 이 이니셔티브는 프로토콜의 전반적인 건전성을 강화하고 커뮤니티를 위한 강력한 유동성 풀을 조성합니다.
+- **XNF 유동성 생성을 위해 할당된 100,000 XNF:** 이를 촉진하기 위해 프로토콜의 민트 수수료 관리자를 위해 100,000 XNF를 따로 할당했습니다. 사용자가 일일 소각에 참여할 때마다 vXEN 또는 vUSDy는 XNF 유동성 확산에 기여하게 됩니다. 이 이니셔티브는 프로토콜의 전반적인 건전성을 강화하고 커뮤니티를 위한 강력한 유동성 풀을 조성합니다.
 
 - **스왑 참여자를 위한 독점 에어드랍으로 할당된 1,500,000 XNF:** 참여를 장려하기 위해 각 체인에서는 XNF 배포 전에 스왑을 수행하는 사용자에게 1,500,000 XNF를 독점 에어드랍할 예정입니다. 에어드랍은 출시 첫날에 진행되며, 잠긴 토큰으로 배포되어 730일에 걸쳐 점진적으로 잠금 해제됩니다.
 
@@ -487,33 +487,17 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 ## ◽️ 잠재적 확장 체인
 
-제니파이는 다음 단계로 나아가기 위해 여러 블록체인의 규모를 조정하며 큰 변화를 준비하고 있습니다. 현재 검토 중인 체인 목록은 Arbitrum, Avalanche와 같은 거물급 블록체인부터 zkSync, PulseChain과 같은 신생 블록체인에 이르기까지 매우 다양하며, 선택의 폭이 넓습니다. 전체 목록은 다음과 같습니다:
+제니파이는 다음 단계로 나아가기 위해 여러 블록체인을 검토하며 큰 행보를 준비하고 있습니다. 현재 검토 중인 체인 목록은 Arbitrum, Avalanche와 같은 거물급 블록체인부터 PulseChain과 같은 신생 블록체인에 이르기까지 매우 다양하며, 선택의 폭이 넓습니다. 전체 목록은 다음과 같습니다:
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -523,34 +507,20 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 | 체인 이름            | DEX 이름                                                | 유동성 페어링          |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
 | Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 | Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -785,7 +755,7 @@ Xenify의 일일 소각 경매는 XNF 토큰을 손에 넣을 수 있는 완벽�
 
 사용자는 민트 수수료를 제공함으로써 프로토콜 소유의 유동성 생성에 기여합니다. 이 유동성은 또한 각 사이클이 끝날 때마다 재활용자에게 XNF 및 네이티브 XEN 토큰의 형태로 추가 보상을 분배할 수 있는 길을 열어줍니다. 결과적으로 민트 수수료 관리자는 프로토콜 소유의 유동성을 강화할 뿐만 아니라 간접적으로 재활용자에게 더 많은 보상을 제공합니다. 이러한 혁신적인 설계는 제니파이 생태계의 지속 가능성과 장기적인 성장을 보장합니다. 또한, 프로토콜 소유 유동성을 보호하는 컨트랙트에 관리자 키가 없기 때문에 조작의 가능성이 없습니다.
 
-이 프로토콜 소유의 유동성 생성을 시작하기 위해, 민트 수수료 관리자는 XNF가 배포될 때 미리 발행된 100,000개의 XNF 토큰을 할당받습니다. 이 토큰은 민트 수수료를 통해 XNF 유동성을 생성하기 위한 목적으로 사용됩니다. 100,000개의 XNF 토큰은 균등하게 분할되며, 50,000개의 토큰은 vXEN 민트 수수료에 할당되고 50,000개의 토큰은 vUSDy 민트 수수료에 할당됩니다. 팀은 이러한 사전 발행된 토큰에 액세스할 수 없으며 필요한 경우에만 해당 토큰의 소각을 실행할 수 있습니다.
+이 프로토콜 소유의 유동성 생성을 시작하기 위해, 민트 수수료 관리자는 XNF가 배포될 때 미리 발행된 100,000개의 XNF 토큰을 할당받습니다. 이 토큰은 민트 수수료를 통해 XNF 유동성을 생성하기 위한 목적으로 사용됩니다. 팀은 이러한 사전 발행된 토큰에 액세스할 수 없으며 필요한 경우에만 토큰 소각을 실행할 수 있습니다.
 
 작동 방식은 다음과 같습니다: 사용자가 발행 수수료를 보내면 발행 수수료 관리자가 기본 체인 토큰의 50%를 사전 발행된 XNF 토큰과 페어링하여 전체 범위에서 XNF 유동성으로 추가하고, 모든 LP 토큰은 프로토콜이 보유하게 됩니다. 이 프로세스는 사전 발행된 XNF 할당이 고갈될 때까지 계속됩니다. 그 후 관리자는 기본 프로세스를 시작하는데, 기본 토큰의 25%를 사용하여 XNF를 구매하고, 구매한 XNF를 기본 토큰의 25%와 페어링하여 전체 범위에서 유동성으로 추가하며, 모든 LP 토큰은 프로토콜이 보유하게 됩니다.
 
@@ -799,7 +769,7 @@ Xenify의 일일 소각 경매는 XNF 토큰을 손에 넣을 수 있는 완벽�
 
 vXEN 발행 수수료는 vXEN을 얻기 위해 XEN 토큰 변형을 소각하는 경우에만 적용됩니다. 발행 수수료는 소각하는 토큰의 현재 시장 가치에 따라 결정됩니다. vXEN 발행 수수료로 생성된 기본 토큰은 다음과 같이 할당됩니다:
 
-- **50%는 XNF 유동성 생성에 사용됨:** 프로토콜은 네이티브 토큰의 50%를 사용하여 체인의 XNF 유동성을 생성합니다. 50,000개의 프리인티드 XNF를 사용할 수 있는 경우, 유동성 페어링을 위해 네이티브 토큰 전량이 프리인티드 XNF와 페어링되며, LP 토큰은 프로토콜이 보유하게 됩니다. 그러나 사전 발행된 XNF 할당이 고갈된 경우, 프로토콜은 50%의 네이티브 토큰 중 절반을 사용하여 XNF 토큰을 구매하고 나머지 25%의 네이티브 토큰을 유동성 페어링에 사용하며 LP 토큰은 프로토콜이 보유하게 됩니다.
+- **50%는 XNF 유동성 생성에 사용됨:** 프로토콜은 네이티브 토큰의 50%를 사용하여 체인의 XNF 유동성을 생성합니다. 100,000개의 프리인티드 XNF를 사용할 수 있는 경우, 유동성 페어링을 위해 네이티브 토큰의 전량이 프리인티드 XNF와 페어링되며, LP 토큰은 프로토콜이 보유하게 됩니다. 그러나 사전 발행된 XNF 할당이 고갈된 경우, 프로토콜은 50%의 네이티브 토큰 중 절반을 사용하여 XNF 토큰을 구매하고 나머지 25%의 네이티브 토큰을 유동성 페어링에 사용하며 LP 토큰은 프로토콜이 보유하게 됩니다.
 
 - **50%는 XEN 토큰 유동성 생성에 사용됩니다:** 프로토콜은 네이티브 체인 토큰의 50%를 사용하여 해당 체인에서 가장 유동성이 높은 XEN 풀의 네이티브 XEN 토큰 변형에 대한 유동성을 생성합니다(예: BNB 체인에서는 bXEN-BNB 유동성에 대한 유동성 생성), 토큰의 25%는 네이티브 XEN 토큰 구매에 사용하고 나머지 25%는 프로토콜이 보유 중인 LP 토큰과의 유동성 쌍을 위해 사용합니다.
 
@@ -811,9 +781,9 @@ vXEN 발행 수수료는 vXEN을 얻기 위해 XEN 토큰 변형을 소각하는
 
 vUSDy 발행 수수료는 소각 프로세스를 통해 USDy, xYSL 또는 bYSL을 vUSDy로 변환하는 경우에만 적용됩니다. vUSDy 발행 수수료로 생성된 네이티브 토큰은 다음과 같이 할당됩니다:
 
-- 50%는 XNF 유동성 생성에 사용됨:** 프로토콜은 네이티브 토큰의 50%를 사용하여 체인의 XNF 유동성을 생성합니다. 50,000개의 프리인티드 XNF를 사용할 수 있는 경우, 유동성 페어링을 위해 네이티브 토큰 전량이 프리인티드 XNF와 페어링되며, LP 토큰은 프로토콜이 보유하게 됩니다. 그러나 사전 발행된 XNF 할당이 고갈된 경우, 프로토콜은 50%의 네이티브 토큰 중 절반을 사용하여 XNF 토큰을 구매하고 나머지 25%의 네이티브 토큰을 유동성 페어링에 사용하며 LP 토큰은 프로토콜이 보유하게 됩니다.
+- **50%는 XNF 유동성 생성에 사용됨:** 프로토콜은 네이티브 토큰의 50%를 사용하여 체인의 XNF 유동성을 생성합니다. 100,000개의 프리인티드 XNF를 사용할 수 있는 경우, 유동성 페어링을 위해 네이티브 토큰의 전량이 프리인티드 XNF와 페어링되며, LP 토큰은 프로토콜이 보유하게 됩니다. 그러나 사전 발행된 XNF 할당이 고갈된 경우, 프로토콜은 50%의 네이티브 토큰 중 절반을 사용하여 XNF 토큰을 구매하고 나머지 25%의 네이티브 토큰을 유동성 페어링에 사용하며 LP 토큰은 프로토콜이 보유하게 됩니다.
 
-- 50%는 USDy 국고 소유 유동성 생성에 사용됩니다:** 이 프로토콜은 유동성 페어링의 USDy 쪽을 발행하고 50%의 토큰으로 USDC를 구매하고 LP 토큰을 YSL.IO 국고로 전송하는 방식으로 네이티브 토큰의 50%를 사용하여 USDy-USDC 국고 소유 유동성을 생성합니다.
+- **50%는 USDy 국고 소유 유동성 생성에 사용됩니다:** 이 프로토콜은 유동성 페어링의 USDy 쪽을 발행하고 50%의 토큰으로 USDC를 구매하고 LP 토큰을 YSL.IO 국고로 전송하는 방식으로 네이티브 토큰의 50%를 사용하여 USDy-USDC 국고 소유 유동성을 생성합니다.
 
 - 예를 들어 100 USDy 토큰이 있고 이를 vUSDy로 전환하고 싶다고 가정해 보겠습니다. 발행 수수료를 충당하려면 네이티브 체인 토큰을 보유해야 합니다. 발행 수수료는 USDy당 1.00달러의 고정 전환율을 기준으로 100BNB로 결정됩니다. 발행 프로세스를 시작하면 프로토콜은 USDy의 총 가치와 발행 수수료를 기준으로 vUSDy를 생성합니다. 이 예시에서는 100 USDy와 100 BNB의 발행 수수료를 고려하면 200 vUSDy를 받게 됩니다. 이 과정에서 전송한 100 USDy는 유통에서 영구적으로 제거되며, 100 BNB의 발행 수수료는 vUSDy 발행 수수료 관리자에게 전송됩니다.
 
