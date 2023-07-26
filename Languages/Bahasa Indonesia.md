@@ -452,11 +452,11 @@ Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strateg
 
 - **21.000.000 XNF ditugaskan untuk lelang harian:** Pengguna yang berpartisipasi dalam berbagai kegiatan yang mendukung pengembangan protokol yang sedang berlangsung akan memiliki kesempatan untuk mendapatkan bagian dari token XNF yang didedikasikan untuk lelang harian.
 
-  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang melakukan pembakaran langsung vXEN dan vUSDy. Selama setiap siklus, jika tidak ada yang memulai proses pembakaran, alokasi XNF yang sesuai tidak akan dicetak. Mekanisme yang digerakkan oleh kelangkaan ini mengurangi total pasokan XNF, yang berkontribusi pada potensi peningkatan nilainya.
+  - 10.500.000 XNF (50%) didistribusikan kepada peserta lelang burn. Jika proses burn belum dimulai selama satu siklus, alokasi XNF harian untuk peserta lelang burn akan didistribusikan di antara peserta swap untuk siklus tersebut. Jika tidak ada swap atau burn yang terjadi selama satu siklus, alokasi XNF tidak akan dicetak atau didistribusikan. Akibatnya, mekanisme yang digerakkan oleh kelangkaan ini mengurangi total pasokan XNF, yang berpotensi meningkatkan nilainya.
 
-  - 10.500.000 XNF (50%) dari lelang harian didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Jika tidak ada swap yang terjadi selama satu siklus, alokasi XNF yang sesuai tidak akan dicetak. Hal ini juga mengurangi total pasokan XNF, meningkatkan kelangkaan dan nilai potensialnya.
+  - 10.500.000 XNF (50%) didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Jika tidak ada swap selama satu siklus, alokasi XNF untuk peserta swap akan didistribusikan kepada peserta lelang burn untuk siklus tersebut. Jika tidak ada swap atau burn yang terjadi selama satu siklus, alokasi XNF ini tidak akan dicetak atau didistribusikan. Tindakan ini juga berkontribusi dalam mengurangi total pasokan XNF, sehingga meningkatkan kelangkaan dan nilai potensialnya.
 
-- **100.000 XNF ditugaskan untuk penciptaan likuiditas XNF:** Untuk memfasilitasi hal ini, kami telah menyisihkan 50.000 XNF untuk Manajer Biaya Mint vXEN dan 50.000 XNF tambahan untuk Manajer Biaya Mint vUSDy. Setiap kali pengguna berpartisipasi dalam pembakaran harian vXEN atau vUSDy, mereka akan berkontribusi pada proliferasi likuiditas XNF. Inisiatif ini meningkatkan kesehatan protokol secara keseluruhan dan mendorong kumpulan likuiditas yang kuat untuk komunitas kami.
+- **100.000 XNF ditugaskan untuk penciptaan likuiditas XNF:** Untuk memfasilitasi hal ini, kami telah menyisihkan 100.000 XNF untuk Manajer Biaya Mint protokol. Setiap kali pengguna berpartisipasi dalam pembakaran harian vXEN atau vUSDy, mereka akan berkontribusi pada proliferasi likuiditas XNF. Inisiatif ini meningkatkan kesehatan protokol secara keseluruhan dan menumbuhkan kumpulan likuiditas yang kuat untuk komunitas kami.
 
 - **1.500.000 XNF ditugaskan sebagai airdrop eksklusif untuk peserta swap:** Untuk mendorong keterlibatan, setiap rantai akan memiliki airdrop eksklusif sebesar 1.500.000 XNF untuk pengguna yang melakukan swap sebelum penerapan XNF. Airdrop akan berlangsung pada hari pertama peluncuran, dan akan didistribusikan sebagai token yang terkunci, secara bertahap dibuka selama 730 hari.
 
@@ -484,74 +484,44 @@ Mengambil inspirasi dari Bitcoin, model distribusi Xenify mengadopsi prinsip hal
 
 ## ◽️ Potensi Ekspansi Rantai
 
-Xenify bersiap untuk melakukan ekspansi besar-besaran, meninjau sejumlah blockchain untuk langkah besar berikutnya. Daftar rantai yang sedang kami teliti saat ini cukup beragam, dari raksasa seperti Arbitrum dan Avalanche hingga rantai baru seperti zkSync dan PulseChain, pilihan tidak kurang. Daftar lengkapnya meliputi:
+Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain untuk langkah besar berikutnya. Daftar chain yang sedang kami periksa saat ini cukup beragam, mulai dari kelas berat seperti Arbitrum dan Avalanche hingga anak-anak baru di blockchain seperti PulseChain, tidak ada kekurangan pilihan. Daftar lengkapnya meliputi:
 
-- KCC  
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
-- Fantom  
-- Polygon
+- Fantom
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Kumpulan Likuiditas Saat Digunakan
+## ◽️ XNF Liquidity Pools Saat Digunakan
 
 <br>
 
 | Nama Rantai | Nama DEX | Pasangan Likuiditas |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC | [MojitoSwap](https://www.mojitoswap.finance) | kXNF-KCS |
-| Celo | [Uniswap V3](https://app.uniswap.org) | cXNF-CELO |
-| Fuse | [SushiSwap](https://www.sushi.com) | fXNF-FUSE |
-| Boba | [SushiSwap](https://www.sushi.com) | boXNF-BOBA |
-| Heco | [MDEX](https://mdex.com) | hcXNF-HT |
-| Telos | [ApeSwap](https://apeswap.finance) | tXNF-TELOS |
-| Velas | [Panjang gelombang](https://app.wavelength.exchange) | veXNF-VLX |
-| Metis | [Hummus Exchange](https://www.hummus.exchange) | meXNF-METIS |
-| Canto | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO |
-| Klaytn | [KlaySwap](https://klayswap.com) | kXNF-KLAY |
-| Evmos | [SpaceSwap](https://swap-evmos.spacefi.io) | coXNF-WEVMOS |
-| Aurora | [Polaris Finance](https://polarisfinance.io) | arXNF-ETH |
-| Gnosis | [Balancer V2](https://balancer.finance) | gXNF-GNO |
-| zkSync | [SyncSwap](https://syncswap.xyz) | zkXNF-ETH |
-| Cronos | [VVS Finance](https://vvs.finance) | crXNF-CRO |
-| Fantom | [SpookySwap](https://spooky.fi) | fmXNF-FTM |
-| Polygon | [Uniswap V3](https://app.uniswap.org) | mXNF-MATIC |
-| Arbitrum | [Uniswap V3](https://app.uniswap.org) | aXNF-ETH |
-| Ethereum | [Uniswap V3](https://app.uniswap.org) | XNF-ETH |
-| Optimisme | [Uniswap V3](https://app.uniswap.org) | oXNF-ETH |
-| Avalanche | [Trader Joe](https://traderjoexyz.com) | avXNF-AVAX |
-| Moonriver | [Solarbeam](https://app.solarbeam.io/exchange/swap) | mrXNF-MOVR |
-| OKX Chain | [OKExSwap](https://www.okex.com/swap) | okXNF-OKT |
-| Moonbeam | [Stellaswap](https://app.stellaswap.com/pulsar) | mbXNF-WGLMR |
-| Rantai BNB | [ApeSwap](https://apeswap.finance) | bXNF-BNB |
-| PulseChain | [PulseX](https://pulsex.com) | pXNF-PLS |
-| Ethereum PoW | [Uniwswap](https://uniwswap.com) | vvXNF-WETH |
-| Polygon zkEVM | [Quickswap](https://quickswap.exchange) | mkXNF-MATIC |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Proses Pencetakan dan Insentif
+## ◽️ Proses Pencetakan XNF dan Insentif
 
   - Proses pencetakan XNF di dalam Xenify telah disusun dengan cermat untuk memberi hadiah kepada pengguna yang secara aktif terlibat dan berkontribusi pada pertumbuhan protokol. Inisiatif ini memastikan distribusi token XNF yang adil dan mendorong protokol yang benar-benar terdesentralisasi dan digerakkan oleh komunitas.
 
@@ -782,7 +752,7 @@ Lelang pembakaran harian Xenify adalah kesempatan sempurna untuk mendapatkan tok
 
 Dengan memberikan Biaya Mint, pengguna berkontribusi pada penciptaan likuiditas yang dimiliki protokol. Likuiditas ini juga membuka jalan untuk distribusi hadiah tambahan dalam bentuk XNF dan token XEN asli kepada pendaur ulang di akhir setiap siklus. Akibatnya, Mint Fee Manager tidak hanya memperkuat likuiditas yang dimiliki protokol tetapi juga secara tidak langsung menghasilkan lebih banyak hadiah untuk pendaur ulang. Desain inovatif ini memastikan keberlanjutan dan pertumbuhan jangka panjang ekosistem Xenify. Selain itu, tidak adanya kunci admin dalam kontrak yang melindungi likuiditas yang dimiliki protokol menghilangkan kemungkinan manipulasi.
 
-Untuk memulai pembuatan likuiditas milik protokol ini, Mint Fee Manager menerima alokasi 100.000 token XNF yang telah dicetak sebelumnya ketika XNF digunakan. Token ini berfungsi untuk menciptakan likuiditas XNF melalui Mint Fee. 100.000 token XNF dibagi rata, dengan 50.000 token dialokasikan untuk Biaya Mint vXEN dan 50.000 token untuk Biaya Mint vUSDy. Tim tidak memiliki akses ke token yang telah dicetak ini, dan hanya dapat melakukan pembakaran token ini jika diperlukan.
+Untuk memulai pembuatan likuiditas milik protokol ini, Mint Fee Manager menerima alokasi 100.000 token XNF yang telah dicetak sebelumnya ketika XNF digunakan. Token-token ini memiliki tujuan untuk menciptakan likuiditas XNF melalui Mint Fee. Tim tidak memiliki akses ke token yang telah dicetak sebelumnya, dan hanya dapat melakukan pembakaran token ini jika diperlukan.
 
 Begini cara kerjanya: Ketika pengguna mengirimkan Biaya Mint, Manajer Biaya Mint akan memasangkan 50% token rantai asli dengan token XNF yang telah dicetak sebelumnya, untuk ditambahkan sebagai likuiditas XNF dengan jangkauan penuh, dengan semua token LP dipegang oleh protokol. Proses ini akan berlanjut hingga alokasi XNF yang telah dicetak sebelumnya habis. Setelah itu, manajer memulai proses defaultnya, yang melibatkan penggunaan 25% token asli untuk membeli XNF, memasangkan XNF yang diperoleh dengan 25% token asli, untuk ditambahkan sebagai likuiditas dalam jangkauan penuh, dengan semua token LP dipegang oleh protokol.
 
@@ -796,7 +766,7 @@ Pada akhir setiap siklus, protokol menarik 1% dari total token LP XNF dan 1% dar
 
 Biaya mint vXEN hanya berlaku jika Anda membakar varian token XEN untuk mendapatkan vXEN. Biaya mint ditentukan oleh nilai pasar saat ini dari token yang Anda bakar. Token asli yang dihasilkan dari biaya mint vXEN akan dialokasikan sebagai berikut:
 
-- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+- **50% akan digunakan untuk menciptakan likuiditas XNF:** Protokol ini menggunakan 50% token asli untuk menciptakan likuiditas XNF untuk rantai. Jika 100.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
 
 - **50% akan digunakan untuk menciptakan likuiditas token XEN:** Protokol menggunakan 50% token rantai asli untuk menciptakan likuiditas untuk varian token XEN asli untuk kumpulan XEN paling likuid di rantai tersebut (misalnya, pada Rantai BNB, protokol ini akan menciptakan likuiditas untuk likuiditas bXEN-BNB), dengan menggunakan 25% dari token untuk membeli token XEN asli (misalnya bXEN) dan sisa 25% token untuk pasangan likuiditas dengan token LP yang dipegang oleh protokol.
 
@@ -808,7 +778,7 @@ Biaya mint vXEN hanya berlaku jika Anda membakar varian token XEN untuk mendapat
 
 Biaya mint vUSDy hanya berlaku jika Anda mengonversi USDy, xYSL, atau bYSL ke vUSDy melalui proses burn. Token asli yang dihasilkan dari biaya mint vUSDy akan dialokasikan sebagai berikut:
 
-- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 50.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
+- **50% akan digunakan untuk membuat likuiditas XNF:** Protokol menggunakan 50% token asli untuk membuat likuiditas XNF untuk rantai. Jika 100.000 Preminted XNF tersedia, jumlah penuh token asli akan dipasangkan dengan preminted XNF untuk pemasangan likuiditas, dengan token LP dipegang oleh protokol. Namun, jika alokasi XNF yang dicetak sebelumnya telah habis, protokol akan menggunakan setengah dari 50% token asli untuk membeli token XNF dan sisa 25% token asli untuk pasangan likuiditas, dengan token LP dipegang oleh protokol.
 
 - **50% akan digunakan untuk membuat likuiditas milik treasury USDy:** Protokol menggunakan 50% token asli untuk membuat likuiditas milik treasury USDy-USDC, dengan mencetak sisi USDy dari pasangan likuiditas dan membeli USDC dengan 50% token, dengan token LP yang dikirim ke Treasury YSL.IO.
 
