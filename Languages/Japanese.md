@@ -448,17 +448,17 @@ XNFはXenifyプロトコルの生命線であり、2,260万トークンの限ら
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ 配給
+## ◽️ 供給配分
 
-XNFトークンの総供給上限は2,260万トークンで、戦略的に3つのコアセグメントに分けられ、Xenifyはバランスの取れたエコシステムを促進しながら、積極的な参加者に報いるよう意図的に設計されている：
+Xenifyは、3つのコアセグメントに戦略的に分割された総供給量2260万XNFを上限として、バランスの取れたエコシステムを促進しながら、積極的な参加者に報酬を与えるように意図的に設計されています：
 
-- プロトコルの継続的な開発を支援する様々な活動に参加するユーザーには、デイリーオークション専用のXNFトークンのシェアを獲得するチャンスがあります。
+- デイリーオークションに割り当てられる21,000,000XNF:** プロトコルの継続的な開発を支援する様々な活動に参加するユーザーには、デイリーオークション専用のXNFトークンのシェアを獲得するチャンスがあります。
 
-  - 1日のオークションのうち10,500,000XNF（50%）が、vXENとvUSDyの直接バーンを行うユーザーに分配される。各サイクルの間、誰もバーンプロセスを開始しなければ、対応するXNFの割り当ては鋳造されない。この希少性主導のメカニズムはXNFの総供給量を減少させ、その潜在的な価値上昇に寄与する。
+  - 10,500,000XNF（50%）がバーンオークション参加者に分配される。サイクル中にバーン処理が開始されなかった場合、バーン・オークション参加者の 1 日あたりの XNF 割り当ては、そのサイクルのスワップ参加者に分配される。サイクル中にスワップもバーンも発生しなかった場合、XNFの割当ては鋳造も分配もされない。その結果、この希少性主導のメカニズムはXNFの総供給量を減らし、その価値を高める可能性がある。
 
-  - 1日のオークションのうち10,500,000 XNF（50%）が、サポートされているEVMチェーン上でスワップを行ったユーザーに分配されます。サイクル中にスワップが発生しなかった場合、対応するXNFの割当ては鋳造されない。これもXNFの総供給量を減らし、希少性と潜在的価値を高める。
+  - 10,500,000XNF(50%)が、サポートされているEVMチェーン上でスワップを行うユーザーに分配されます。あるサイクルでスワップが発生しなかった場合、スワップ参加者のXNF割当は、そのサイクルのバーンオークション参加者に分配されます。サイクル中にスワップもバーンも発生しない場合、このXNF割当ては鋳造も分配もされません。この行為もXNFの総供給量を減らすことに貢献するため、XNFの希少性と潜在的価値を高めることになる。
 
-- **XNF流動性創出用に100,000XNFを割り当て:**これを促進するため、vXEN Mint Fee Manager用に50,000XNF、vUSDy Mint Fee Manager用にさらに50,000XNFを確保しました。ユーザーがvXENまたはvUSDyのデイリーバーンに参加するたびに、XNF流動性の拡散に貢献することになります。このイニシアチブは、プロトコルの全体的な健全性を強化し、私たちのコミュニティのための強固な流動性プールを育成します。
+- **XNF流動性創出用に100,000 XNFを割り当て:**これを促進するため、プロトコルのMint Fee Manager用に100,000 XNFを確保しました。ユーザーがvXENまたはvUSDyの毎日の燃焼に参加するたびに、彼らはXNF流動性の拡散に貢献することになります。このイニシアチブは、プロトコルの全体的な健全性を強化し、私たちのコミュニティのための強固な流動性プールを育成します。
 
 - **スワップ参加者限定のエアドロップとして1,500,000 XNFが割り当てられる：**エンゲージメントを促進するため、各チェーンではXNFの配備前にスワップを行ったユーザー向けに1,500,000 XNFを独占的にエアドロップする。エアドロップはローンチ初日に行われ、ロックされたトークンとして配布され、730日かけて徐々にロックが解除される。
 
@@ -486,33 +486,17 @@ XNFトークンの総供給上限は2,260万トークンで、戦略的に3つ�
 
 ## ◽️ 拡張チェーンの可能性
 
-Xenifyは、次の大きな一手を打つために、多くのブロックチェーンを選別し、大きな一手を打つ準備をしている。ArbitrumやAvalancheのような重鎮から、zkSyncやPulseChainのようなブロックチェーンの新参者まで、選択肢には事欠かない。全リストは以下の通り：
+Xenifyは、次の大きな一手を打つために、多くのブロックチェーンを見極めながら、大きな一手を打つ準備をしている。ArbitrumやAvalancheのような重鎮からPulseChainのようなブロックチェーンの新参者まで、選択肢には事欠かない。全リストは以下の通り：
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -522,34 +506,20 @@ Xenifyは、次の大きな一手を打つために、多くのブロックチ�
 
 | チェーン名          | DEX 名称                                              | Liquidity ペアリング |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
 | Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 | Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -784,7 +754,7 @@ XenifyのデイリーバーンオークションはXNFトークンを手に入�
 
 Mint Feeを提供することで、ユーザーはプロトコルが所有する流動性の創造に貢献します。この流動性はまた、各サイクルの終わりにXNFとネイティブXENトークンの形で追加の報酬をリサイクル業者に分配する道を開きます。その結果、Mint Fee Managerはプロトコルが所有する流動性を強化するだけでなく、間接的にリサイクル業者により多くの報酬を生み出します。この革新的なデザインは、Xenifyエコシステムの持続可能性と長期的な成長を保証します。さらに、プロトコルが所有する流動性を保護する契約には管理キーが存在しないため、不正操作の可能性を排除することができます。
 
-このプロトコルが所有する流動性の生成を開始するために、Mint Fee ManagerはXNFがデプロイされる際に10万プレミントのXNFトークンの割り当てを受ける。これらのトークンはMint Feeを通じてXNFの流動性を創出する役割を果たす。100,000XNFトークンは均等に分配され、50,000トークンがvXEN Mint Feeに、50,000トークンがvUSDy Mint Feeに割り当てられる。チームはこれらのプレミントークンにアクセスすることはできず、必要な場合にのみこれらのトークンのバーニングを実行することができます。
+このプロトコルが所有する流動性の生成を開始するために、Mint Fee ManagerはXNFがデプロイされる際に10万プレミントのXNFトークンの割り当てを受ける。これらのトークンは、Mint Feeを通じてXNFの流動性を創出する目的で使用されます。チームはこれらのプレミントークンにアクセスすることはできず、必要な場合にのみこれらのトークンの燃焼を実行することができます。
 
 その仕組みは以下の通り：ユーザーがMint Feeを送金すると、Mint Fee Managerはネイティブチェーントークンの50%をプレミントのXNFトークンとペアリングし、XNFの流動性をフルレンジで追加します。このプロセスは、プレミントのXNF割り当てが枯渇するまで続きます。このプロセスでは、ネイティブトークンの25%を使用してXNFを購入し、取得したXNFとネイティブトークンの25%をペアにして、流動性をフルレンジで追加します。
 
@@ -798,9 +768,9 @@ Mint Feeを提供することで、ユーザーはプロトコルが所有する
 
 vXEN の造幣局手数料は、XEN トークンを焼却して vXEN を取得する場合にのみ適用されます。造幣局手数料は、焼却したトークンの現在の市場価値によって決定されます。vXEN ミントフィーから生成されるネイティブトークンは以下のように割り当てられます：
 
-- 50% は XNF の流動性を創出するために使用されます。50,000のPreminted XNFが利用可能な場合、ネイティブトークンの全額がPreminted XNFとペアリングされ、LPトークンはプロトコルが保有します。しかし、Preminted XNFの割り当てが枯渇した場合、プロトコルは50%のネイティブトークンの半分をXNFトークンの購入に使用し、残りの25%のネイティブトークンを流動性のペアリングに使用します。
+- **50% は XNF の流動性を創出するために使用されます。** 100,000プレミントXNFが利用可能な場合、ネイティブトークンの全額が流動性ペアリングのためにプレミントXNFとペアリングされ、LPトークンはプロトコルが保有します。しかし、Preminted XNFの割り当てが枯渇した場合、プロトコルは50%のネイティブトークンの半分をXNFトークンの購入に使用し、残りの25%のネイティブトークンを流動性のペアリングに使用します。
 
-- プロトコルは 50%のネイティブチェーントークンを、そのチェーンで最も流動性の高い XEN プールのネイティブ XEN トークンのバリアント（例えば BNB チェーンでは bXEN-BNB 流動性）の流動性を創出するために利用する。
+- **50% は XEN トークンの流動性を創出するために使用される。** プロトコルはネイティブチェーントークンの 50%を、そのチェーンで最も流動性の高い XEN プールのネイティブ XEN トークンのバリアント（例えば BNB チェーンでは bXEN-BNB の流動性）の流動性を創出するために利用し、トークンの 25%をネイティブ XEN トークン（例えば bXEN）の購入に、残りの 25%をプロトコルが保有する LP トークンとの流動性ペアリングに使用する。
 
 - たとえば、10,000 bXEN を持っていて、それを vXEN に変換したいとします。bXENの現在の価値が0.01ドルで、10,000 bXENを保有している場合、あなたのbXENは100ドルの価値があります。したがって、造幣局の手数料として100ドルをBNBで提供する必要があります。造幣プロセスを開始すると、プロトコルはあなたのbXENと造幣手数料の合計値に基づいてvXENを生成します。この例では、$100のbXENと$100のBNBの造幣手数料を考慮して、$200のvXENを受け取ることになります。プロセス中に送信された100ドル相当のbXENは永久に流通から削除され、造幣局の手数料として100BNBがvXEN造幣局に寄付されます。
 
@@ -810,9 +780,9 @@ vXEN の造幣局手数料は、XEN トークンを焼却して vXEN を取得�
 
 vUSDy mint feeは、USDy、xYSL、またはbYSLをバーンプロセスでvUSDyに変換する場合にのみ適用されます。vUSDyミントフィーから生成されたネイティブトークンは、以下のように割り当てられます：
 
-- 50% は XNF の流動性を創出するために使用されます。50,000のPreminted XNFが利用可能な場合、ネイティブトークンの全額がPreminted XNFとペアリングされ、LPトークンはプロトコルが保有します。しかし、Preminted XNFの割り当てが枯渇した場合、プロトコルは50%のネイティブトークンの半分をXNFトークンの購入に使用し、残りの25%のネイティブトークンを流動性のペアリングに使用します。
+- **50%はXNFの流動性を生み出すために使われる。** このプロトコルは、ネイティブトークンの50%をチェーンのXNF流動性を創出するために使用します。100,000プレミントXNFが利用可能な場合、ネイティブトークンの全額が流動性ペアリングのためにプレミントXNFとペアリングされ、LPトークンはプロトコルが保有します。しかし、プレミントのXNF割り当てが枯渇した場合、プロトコルは50%のネイティブトークンの半分をXNFトークンの購入に使用し、残りの25%のネイティブトークンを流動性ペアリングに使用し、LPトークンはプロトコルが保有します。
 
-- このプロトコルは、ネイティブ・トークンの50%をUSDy-USDC財務省所有の流動性を創出するために利用します。これは、流動性のペアリングのUSDy側を鋳造し、トークンの50%でUSDCを購入し、LPトークンはYSL.IO財務省に送られます。
+- **50%はUSDy国庫所有の流動性を創出するために使用される。** プロトコルは、流動性ペアリングのUSDy側を鋳造し、トークンの50％でUSDCを購入し、LPトークンはYSL.IO財務省に送られることにより、USDy-USDC財務省所有の流動性を作成するためにネイティブトークンの50％を利用します。
 
 - 例えば、100 USDyトークンを持っていて、それをvUSDyに変換したいとします。造幣局手数料を賄うには、ネイティブチェーントークンを保有する必要があります。造幣局手数料は、1USDyあたり1.00ドルの固定換算レートに基づき、100BNBと決定されます。造幣プロセスを開始すると、プロトコルはUSDyと造幣手数料の合計値に基づいてvUSDyを生成します。この例では、100USDyと100BNBの造幣局手数料を考慮して、200VUSDyを受け取ることになります。プロセス中にあなたが送った100 USDyは永久に流通から削除され、100 BNBの造幣局手数料はvUSDy造幣局手数料マネージャーに送られます。
 
