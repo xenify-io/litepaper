@@ -452,13 +452,13 @@ XNF est l'élément vital du protocole Xenify, et son offre totale est limitée 
 
 Avec une offre totale plafonnée à 22,6 millions de jetons XNF, stratégiquement divisée en trois segments principaux, Xenify a été délibérément conçu pour récompenser les participants actifs tout en promouvant un écosystème équilibré :
 
-- 21 000 000 XNF affectés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités visant à soutenir le développement continu du protocole auront la possibilité de gagner une part des jetons XNF affectés aux enchères quotidiennes.
+- **21 000 000 XNF affectés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités visant à soutenir le développement continu du protocole auront la possibilité de gagner une part des jetons XNF affectés aux enchères quotidiennes.
 
-  - 10 500 000 XNF (50 %) de l'enchère quotidienne sont distribués aux utilisateurs qui effectuent des brûlages directs de vXEN et de vUSDy. Au cours de chaque cycle, si personne ne lance le processus de combustion, l'allocation de XNF correspondante ne sera pas frappée. Ce mécanisme axé sur la rareté diminue l'offre totale de XNF, contribuant ainsi à l'augmentation potentielle de sa valeur.
+  - 10 500 000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Si le processus de combustion n'a pas été lancé au cours d'un cycle, l'allocation quotidienne de XNF pour les participants aux enchères de combustion sera répartie entre les participants aux échanges pour ce cycle. Si aucun échange ou combustion n'a lieu au cours d'un cycle, l'allocation de XNF ne sera ni frappée ni distribuée. Par conséquent, ce mécanisme axé sur la rareté diminue l'offre totale de XNF, ce qui peut augmenter sa valeur.
 
-  - 10 500 000 XNF (50 %) de l'enchère quotidienne sont distribués aux utilisateurs qui procèdent à des échanges sur les chaînes EVM prises en charge. Si aucun échange n'a lieu au cours d'un cycle, l'allocation de XNF correspondante ne sera pas frappée. Cela aussi réduit l'offre totale de XNF, augmentant sa rareté et sa valeur potentielle.
+  - 10 500 000 XNF (50 %) sont distribués aux utilisateurs qui procèdent à des échanges sur les chaînes EVM prises en charge. En l'absence d'échanges au cours d'un cycle, l'allocation de XNF pour les participants aux échanges sera distribuée aux participants aux enchères de brûlures pour ce cycle. Si aucun échange ou combustion n'a lieu pendant un cycle, cette allocation de XNF ne sera ni frappée ni distribuée. Cette action contribue également à réduire l'offre totale de XNF, augmentant ainsi sa rareté et sa valeur potentielle.
 
-- 100 000 XNF affectés à la création de liquidités XNF:** Pour faciliter cette opération, nous avons mis de côté 50 000 XNF pour le gestionnaire de frais de la Monnaie vXEN et 50 000 XNF supplémentaires pour le gestionnaire de frais de la Monnaie vUSDy. Chaque fois qu'un utilisateur participe à la combustion quotidienne de vXEN ou de vUSDy, il contribue à la prolifération des liquidités en XNF. Cette initiative renforce la santé globale du protocole et favorise un pool de liquidités robuste pour notre communauté.
+- **100 000 XNF assignés à la création de liquidité XNF:** Pour faciliter cela, nous avons mis de côté 100 000 XNF pour le Mint Fee Manager du protocole. Chaque fois qu'un utilisateur participe à la combustion quotidienne de vXEN ou de vUSDy, il contribue à la prolifération de la liquidité XNF. Cette initiative renforce la santé globale du protocole et favorise un pool de liquidités robuste pour notre communauté.
 
 - Pour encourager l'engagement, chaque chaîne aura un airdrop exclusif de 1 500 000 XNF pour les utilisateurs qui effectuent des swaps avant le déploiement de XNF. L'airdrop aura lieu le premier jour du lancement et sera distribué sous forme de jetons verrouillés, qui se déverrouilleront progressivement sur une période de 730 jours.
 
@@ -486,33 +486,17 @@ S'inspirant du Bitcoin, le modèle de distribution de Xenify adopte le principe 
 
 ## ◽️ Chaînes d'expansion potentielles
 
-Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blockchains en vue de son prochain coup d'éclat. La liste des chaînes que nous examinons actuellement est assez hétérogène : des poids lourds comme Arbitrum et Avalanche aux nouveaux venus sur la blockchain comme zkSync et PulseChain, ce ne sont pas les options qui manquent. La liste complète comprend :
+Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blockchains en vue de son prochain coup d'éclat. La liste des chaînes que nous examinons actuellement est assez hétérogène : des poids lourds comme Arbitrum et Avalanche aux nouveaux venus sur la blockchain comme PulseChain, ce ne sont pas les options qui manquent. La liste complète comprend :
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -522,34 +506,20 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 | Nom de la chaîne | Nom DEX | Appairage de liquidité |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
 | Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 | Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -784,7 +754,7 @@ La vente aux enchères quotidienne de Xenify est l'occasion idéale de mettre la
 
 En versant la Mint Fee, les utilisateurs contribuent à la création de liquidités appartenant au protocole. Cette liquidité ouvre également la voie à la distribution de récompenses supplémentaires sous la forme de XNF et de jetons XEN natifs aux recycleurs à la fin de chaque cycle. Par conséquent, le Mint Fee Manager renforce non seulement la liquidité détenue par le protocole, mais génère également indirectement plus de récompenses pour les recycleurs. Cette conception innovante garantit la durabilité et la croissance à long terme de l'écosystème Xenify. En outre, l'absence de clés d'administration dans le contrat protégeant les liquidités appartenant au protocole élimine toute possibilité de manipulation.
 
-Pour lancer la génération de cette liquidité appartenant au protocole, le gestionnaire des frais de la Monnaie reçoit une allocation de 100 000 jetons XNF pré-établis lors du déploiement de XNF. Ces jetons servent à créer de la liquidité XNF par le biais de la Mint Fee. Les 100 000 jetons XNF sont répartis de manière égale, 50 000 jetons étant alloués à la Mint Fee vXEN et 50 000 jetons à la Mint Fee vUSDy. L'équipe n'a pas accès à ces jetons pré-affectés et ne peut exécuter la combustion de ces jetons qu'en cas de besoin.
+Pour lancer la génération de cette liquidité appartenant au protocole, le gestionnaire des frais de la Monnaie reçoit une allocation de 100 000 jetons XNF pré-établis lors du déploiement de XNF. Ces jetons servent à créer de la liquidité XNF par le biais de la Mint Fee. L'équipe n'a pas accès à ces jetons pré-affectés et ne peut exécuter la combustion de ces jetons qu'en cas de besoin.
 
 Voici comment cela fonctionne : Lorsqu'un utilisateur envoie les frais de la Monnaie, le gestionnaire des frais de la Monnaie associe 50 % des jetons de la chaîne native aux jetons XNF pré-affectés, afin d'ajouter des liquidités XNF à la gamme complète, tous les jetons LP étant détenus par le protocole. Ce processus se poursuivra jusqu'à l'épuisement de l'allocation de XNF. Après cela, le gestionnaire lance son processus par défaut, qui consiste à utiliser 25 % des jetons natifs pour acheter des XNF, à coupler les XNF acquis avec 25 % des jetons natifs, pour ajouter de la liquidité à pleine fourchette, tous les jetons LP étant détenus par le protocole.
 
@@ -798,9 +768,9 @@ Les 50 % restants de la Mint Fee sont destinés à créer des liquidités en XEN
 
 Les frais de frappe du vXEN ne s'appliquent que lorsque vous brûlez une variante de jeton XEN pour obtenir du vXEN. Le mint fee est déterminé par la valeur de marché actuelle des tokens que vous brûlez. Les jetons natifs générés par les frais de frappe de la vXEN seront alloués comme suit :
 
-- Le protocole utilise 50 % des jetons natifs pour créer de la liquidité en XNF pour la chaîne. Si les 50 000 XNF préminés sont disponibles, le montant total des jetons natifs sera apparié avec les XNF préminés pour l'appariement des liquidités, les jetons LP étant détenus par le protocole. Toutefois, si l'allocation de XNF préminé a été épuisée, le protocole utilisera la moitié des 50 % de jetons natifs pour acheter des jetons XNF et les 25 % restants des jetons natifs pour l'appariement des liquidités, les jetons LP étant détenus par le protocole.
+- **50% seront utilisés pour créer de la liquidité XNF:** Le protocole utilise 50 % des jetons natifs pour créer de la liquidité en XNF pour la chaîne. Si les 100 000 XNF préminés sont disponibles, le montant total des jetons natifs sera apparié avec les XNF préminés pour l'appariement des liquidités, les jetons LP étant détenus par le protocole. Toutefois, si l'allocation de XNF préminé a été épuisée, le protocole utilisera la moitié des 50 % de jetons natifs pour acheter des jetons XNF et les 25 % restants des jetons natifs pour l'appariement des liquidités, les jetons LP étant détenus par le protocole.
 
-- Le protocole utilise 50 % des jetons de la chaîne native pour créer de la liquidité pour la variante de jeton XEN native pour le pool XEN le plus liquide sur cette chaîne (par exemple, sur la chaîne BNB, il créera de la liquidité pour la liquidité bXEN-BNB), en utilisant 25 % des jetons pour acheter le jeton XEN natif (par exemple, bXEN) et les 25 % restants pour l'appariement de la liquidité avec les jetons LP détenus par le protocole.
+- **50 % seront utilisés pour créer de la liquidité pour les jetons XEN** Le protocole utilise 50 % des jetons de la chaîne native pour créer de la liquidité pour la variante du jeton XEN native pour le pool XEN le plus liquide sur cette chaîne (par exemple, sur la chaîne BNB, il créera de la liquidité pour la liquidité bXEN-BNB), en utilisant 25 % des jetons pour acheter le jeton XEN natif (par exemple, bXEN) et les 25 % restants pour l'appariement de la liquidité avec les jetons LP détenus par le protocole.
 
 - Par exemple, disons que vous possédez 10 000 bXEN et que vous souhaitez les convertir en vXEN. Si le bXEN est actuellement évalué à 0,01 $ et que vous détenez 10 000 bXEN, votre bXEN vaut 100 $. Par conséquent, vous devrez fournir 100 $ en BNB pour les frais de frappe. Une fois que vous avez lancé le processus de frappe, le protocole génère des vXEN sur la base de la valeur totale de vos bXEN et des frais de frappe. Dans cet exemple, vous recevrez 200 $ de vXEN en retour, compte tenu de vos 100 $ de bXEN et des 100 $ de frais de frappe en BNB. Les 100 $ de bXEN que vous avez envoyés au cours du processus seront définitivement retirés de la circulation, et la contribution de 100 BNB pour les frais de frappe ira au gestionnaire des frais de frappe du vXEN.
 
@@ -810,9 +780,9 @@ Les frais de frappe du vXEN ne s'appliquent que lorsque vous brûlez une variant
 
 Les frais de frappe du vUSDy ne s'appliquent que lorsque vous convertissez des USDy, xYSL ou bYSL en vUSDy par le biais du processus de combustion. Les jetons natifs générés par les frais de frappe de la vUSDy seront alloués comme suit :
 
-- Le protocole utilise 50 % des jetons natifs pour créer de la liquidité en XNF pour la chaîne. Si les 50 000 XNF préminés sont disponibles, le montant total des jetons natifs sera apparié avec les XNF préminés pour l'appariement des liquidités, les jetons LP étant détenus par le protocole. Toutefois, si l'allocation de XNF préminé a été épuisée, le protocole utilisera la moitié des 50 % de jetons natifs pour acheter des jetons XNF et les 25 % restants des jetons natifs pour l'appariement des liquidités, les jetons LP étant détenus par le protocole.
+- **50% seront utilisés pour créer de la liquidité XNF:** Le protocole utilise 50 % des jetons natifs pour créer de la liquidité en XNF pour la chaîne. Si les 100 000 XNF préminés sont disponibles, le montant total des jetons natifs sera apparié avec les XNF préminés pour l'appariement des liquidités, les jetons LP étant détenus par le protocole. Toutefois, si l'allocation de XNF préminé a été épuisée, le protocole utilisera la moitié des 50 % de jetons natifs pour acheter des jetons XNF et les 25 % restants des jetons natifs pour l'appariement des liquidités, les jetons LP étant détenus par le protocole.
 
-- Le protocole utilise 50 % des jetons natifs pour créer des liquidités USDy-USDC appartenant au Trésor, en frappant le côté USDy de l'appariement des liquidités et en achetant des USDC avec les 50 % des jetons, les jetons LP étant envoyés au Trésor YSL.IO.
+- **50 % seront utilisés pour créer des liquidités détenues par le Trésor en USDy** Le protocole utilise 50 % des jetons natifs pour créer des liquidités USDy-USDC détenues par le Trésor, en frappant le côté USDy de l'appariement des liquidités et en achetant des USDC avec les 50 % des jetons, les jetons LP étant envoyés au Trésor YSL.IO.
 
 - Par exemple, disons que vous avez 100 jetons USDy et que vous voulez les convertir en vUSDy. Pour couvrir les frais de frappe, vous devez détenir des jetons de la chaîne native. Les frais de frappe seront fixés à 100 BNB, sur la base du taux de conversion fixe de 1,00 $ par USDy. Une fois que vous avez lancé le processus de frappe, le protocole génère des vUSDy sur la base de la valeur totale de vos USDy et des frais de frappe. Dans cet exemple, vous recevrez 200 vUSDy en retour, compte tenu de vos 100 USDy et des frais de frappe de 100 $ BNB. Les 100 USDy que vous avez envoyés au cours du processus seront définitivement retirés de la circulation, et les 100 $ de frais de frappe de la BNB seront envoyés au gestionnaire des frais de frappe de la vUSDy.
 
