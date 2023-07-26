@@ -453,11 +453,11 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 - **21,000,000XNF分配用于每日拍卖：** 参与各种活动以支持协议的持续发展的用户将有机会获得每日拍卖专用的XNF代币份额。
 
-  - 每天拍卖的10,500,000 XNF（50%）分配给直接烧毁vXEN和vUSDy的用户。在每个周期内，如果没有人启动焚烧流程，相应的XNF分配将不会被铸币。这种稀缺性驱动的机制减少了XNF的总供应量，有助于其潜在价值的提升。
+  - 10,500,000 XNF（50%）分配给烧毁拍卖参与者。如果在一个周期内未启动烧毁程序，则烧毁拍卖参与者的每日 XNF 分配额将在该周期的互换参与者之间分配。如果在一个周期内没有发生互换或烧毁，则 XNF 分配既不会被铸造，也不会被分配。因此，这种由稀缺性驱动的机制会减少 XNF 的总供应量，从而可能增加其价值。
 
-  - 每日拍卖的10,500,000 XNF（50%）分配给在支持的EVM链上进行交换的用户。如果在一个周期内没有交换发生，相应的XNF分配将不会被铸造。这也会减少XNF的总供应量，提高其稀缺性和潜在价值。
+  - 10,500,000 XNF（50%）将分配给在受支持的 EVM 链上参与交换的用户。如果在一个周期内没有互换，分配给互换参与者的 XNF 将分配给该周期的烧毁拍卖参与者。如果一个周期内没有发生掉期或烧毁，则既不铸造也不分配 XNF 分配。这一行动也有助于减少 XNF 的总供应量，从而提高其稀缺性和潜在价值。
 
-- **100,000XNF分配用于XNF流动性的创造：**为促进这一目标的实现，我们为vXEN Mint Fee Manager预留了50,000XNF，并为vUSDy Mint Fee Manager预留了额外的50,000XNF。每次用户参与vXEN或vUSDy的每日燃烧，都将为XNF流动性的增加做出贡献。这一举措促进了协议的整体健康，并为我们的社区建立了一个强大的流动性池。
+- **100,000XNF分配用于XNF流动性的创造：** 为便于实现这一目标，我们为协议的造币厂费用管理器预留了100,000XNF。每次用户参与 vXEN 或 vUSDy 的每日燃烧，都将为 XNF 流动性的扩散做出贡献。这一举措将促进协议的整体健康，并为我们的社区提供一个强大的流动性池。
 
 - 为鼓励参与，每条链将为在XNF部署前进行交换的用户独家空投1500,000 XNF。空投将在推出的第一天进行，并将作为锁定代币分发，在730天内逐步解锁。
 
@@ -485,33 +485,17 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 ## ◽️ 潜在扩展链
 
-Xenify正准备大干一场，为其下一个大动作筛选一批区块链。从Arbitrum和Avalanche等重量级区块链，到zkSync和PulseChain等区块链新秀，我们正在查看的区块链名单可谓鱼龙混杂。完整列表包括
+Xenify 正准备大干一场，为下一步的大动作筛选一批区块链。从 Arbitrum 和 Avalanche 等重量级区块链，到 PulseChain 等区块链新秀，我们正在查看的区块链名单可谓鱼龙混杂。完整列表包括
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -521,34 +505,20 @@ Xenify正准备大干一场，为其下一个大动作筛选一批区块链。�
 
 | 链条名称            | DEX 名称                                              | Liquidity 配对       |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
 | Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 | Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -783,7 +753,7 @@ Xenify的每日刻录拍卖是获得XNF代币的绝佳机会，您只需拥有vX
 
 通过提供造币厂费用，用户为协议自有流动性的创造做出了贡献。这种流动性也为在每个周期结束时以XNF和原生XEN代币的形式向回收者分配额外奖励铺平了道路。因此，造币厂费用管理器不仅加强了协议拥有的流动性，还间接为回收者创造了更多奖励。这一创新设计确保了 Xenify 生态系统的可持续性和长期增长。此外，合同中没有管理密钥来保护协议拥有的流动性，消除了任何操纵的可能性。
 
-为了启动该协议自有流动性的生成，Mint Fee经理在XNF部署时会收到100,000个预铸币XNF代币的分配。这些代币的作用是通过Mint Fee创造XNF流动性。这100,000个XNF代币被平均分配，其中50,000个代币分配给vXEN Mint Fee，50,000个代币分配给vUSDy Mint Fee。该团队无法获得这些预铸币，只能在必要时执行这些代币的焚烧。
+为了启动协议自有流动性的生成，造币厂费用管理器会在 XNF 部署时收到 100,000 个预铸币 XNF 代币的分配。这些代币的作用是通过 Mint Fee 创造 XNF 流动性。团队无法获得这些预铸币，只能在必要时执行这些代币的焚烧。
 
 具体操作如下：当用户发送Mint Fee时，Mint Fee管理器将把50%的原生链代币与预铸币的XNF代币配对，以增加全范围的XNF流动性，所有LP代币由协议持有。这一过程将持续到预铸币XNF分配耗尽为止。之后，管理器启动默认流程，即使用25%的本链代币购买XNF，将获得的XNF与25%的本链代币配对，以全额范围增加流动性，所有LP代币由协议持有。
 
@@ -797,7 +767,7 @@ Xenify的每日刻录拍卖是获得XNF代币的绝佳机会，您只需拥有vX
 
 vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费由您所焚烧代币的当前市值决定。vXEN 造币费产生的原生代币将按以下方式分配：
 
-- **50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
+- **50%将用于创造XNF流动性：** 协议使用50%的原生代币为链创造XNF流动性。如果有 10 万个预铸币 XNF 可用，则全额本源代币将与预铸币 XNF 配对，用于流动性配对，LP 代币由协议持有。但是，如果预铸币 XNF 分配已用完，协议将使用 50% 原生代币中的一半购买 XNF 代币，剩余 25% 的原生代币用于流动性配对，LP 代币由协议持有。
 
 - **50%将用于创造XEN代币的流动性：**该协议利用50%的原生链代币为该链上流动性最高的XEN池的原生XEN代币变体创造流动性（例如，在BNB链上，它将为bXEN-BNB流动性创造流动性），通过使用25%的代币购买原生XEN代币（例如bXEN），剩余25%的代币用于与协议持有的LP代币进行流动性配对。
 
@@ -809,9 +779,9 @@ vXEN造币费仅适用于您通过烧毁XEN代币变体来获得vXEN。铸币费
 
 vUSDy造币费仅适用于您通过烧币过程将USDy、xYSL或bYSL转换为vUSDy。vUSDy铸币费产生的原生代币将按以下方式分配：
 
-- **50%将用于创造XNF流动性：**协议使用50%的原生代币为链创造XNF流动性。如果50,000预铸币XNF可用，全额的原生代币将与预铸币XNF配对，用于流动性配对，LP代币由协议持有。但是，如果预铸币XNF分配额已用完，协议将使用50%的本币中的一半购买XNF代币，剩余25%的本币用于流动性配对，LP代币由协议持有。
+- **50%将用于创造XNF流动性：** 协议使用50%的原生代币为链创造XNF流动性。如果有 10 万个预铸币 XNF 可用，则全额本源代币将与预铸币 XNF 配对，用于流动性配对，LP 代币由协议持有。但是，如果预铸币 XNF 分配已用完，协议将使用 50% 原生代币中的一半购买 XNF 代币，剩余 25% 的原生代币用于流动性配对，LP 代币由协议持有。
 
-- **50%将用于创建USDY国库所有的流动性：**该协议利用50%的原生代币创建USDY-USDC国库所有的流动性，通过铸造流动性配对的USDY端，并用50%的代币购买USDC，LP代币将被发送到YSL.IO国库。
+- **50%将用于创建USDY国库所有的流动性：** 该协议利用50%的原生代币创建USDY-USDC国库所有的流动性，通过铸造流动性配对的USDY端，并用50%的代币购买USDC，LP代币将被发送到YSL.IO国库。
 
 - 例如，假设您有100个USDy代币，您想将它们转换成vUSDy。为了支付铸币费，您需要持有原生链代币。根据每USDy1.00美元的固定转换率，铸币费将被确定为100BNB美元。在您启动造币过程后，协议将根据您的USDy和造币费的总价值生成vUSDy。在本例中，考虑到您的100美元y和100美元的BNB造币费，您将收到200美元的vUSDy。您在此过程中发送的100USDy将从流通中永久移除，100BNB造币费将被发送到vUSDy造币费管理器。
 
