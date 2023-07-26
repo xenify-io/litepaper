@@ -454,11 +454,11 @@ Toplam arzı 22,6 milyon XNF token ile sınırlı olan ve stratejik olarak üç 
 
 - **Günlük açık artırmalar için tahsis edilen 21.000.000 XNF:** Protokolün devam eden gelişimini destekleyen çeşitli etkinliklere katılan kullanıcılar, günlük açık artırmalara tahsis edilen XNF tokenlerinden pay kazanma şansına sahip olacak.
 
-  - Günlük açık artırmanın 10.500.000 XNF'si (%50) vXEN ve vUSDy'nin doğrudan yakımını gerçekleştiren kullanıcılara dağıtılır. Her döngü sırasında, hiç kimse yakma işlemini başlatmazsa, ilgili XNF tahsisi basılmayacaktır. Bu kıtlık odaklı mekanizma, toplam XNF arzını azaltarak potansiyel değer artışına katkıda bulunur.
+  - 10.500.000 XNF (%50) yakma ihalesi katılımcılarına dağıtılır. Bir döngü sırasında yakma işlemi başlatılmamışsa, yakma ihalesi katılımcıları için günlük XNF tahsisi o döngü için takas katılımcıları arasında dağıtılacaktır. Bir döngü sırasında hiçbir takas veya yakma işlemi gerçekleşmezse, XNF tahsisi ne basılır ne de dağıtılır. Sonuç olarak, bu kıtlık odaklı mekanizma toplam XNF arzını azaltarak potansiyel olarak değerini artırır.
 
-  - Günlük açık artırmanın 10.500.000 XNF'si (%50) desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bir döngü sırasında hiçbir takas gerçekleşmezse, ilgili XNF tahsisi basılmayacaktır. Bu da toplam XNF arzını azaltarak XNF'in kıtlığını ve potansiyel değerini artırır.
+  - 10.500.000 XNF (%50) desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bir döngü sırasında takas olmaması durumunda, takas katılımcıları için XNF tahsisi, o döngü için yakma ihalesi katılımcılarına dağıtılacaktır. Bir döngü sırasında takas veya yakma gerçekleşmezse, bu XNF tahsisi ne basılacak ne de dağıtılacaktır. Bu eylem aynı zamanda toplam XNF arzının azaltılmasına katkıda bulunarak XNF'in kıtlığını ve potansiyel değerini artırır.
 
-- **XNF likiditesi yaratmak için 100.000 XNF tahsis edildi:** Bunu kolaylaştırmak için vXEN Mint Fee Manager için 50.000 XNF ve vUSDy Mint Fee Manager için ek 50.000 XNF ayırdık. Bir kullanıcı vXEN veya vUSDy'nin günlük yakımına her katıldığında, XNF likiditesinin çoğalmasına katkıda bulunacaktır. Bu girişim, protokolün genel sağlığını desteklemekte ve topluluğumuz için sağlam bir likidite havuzunu teşvik etmektedir.
+- **XNF likiditesi yaratılması için 100.000 XNF tahsis edildi:** Bunu kolaylaştırmak için protokolün Darphane Ücreti Yöneticisi için 100.000 XNF ayırdık. Bir kullanıcı günlük vXEN veya vUSDy yakımına her katıldığında, XNF likiditesinin çoğalmasına katkıda bulunacaktır. Bu girişim, protokolün genel sağlığını desteklemekte ve topluluğumuz için sağlam bir likidite havuzunu teşvik etmektedir.
 
 - **1.500.000 XNF, takas katılımcıları için özel bir airdrop olarak atanmıştır:** Katılımı teşvik etmek için, her zincir, XNF'nin dağıtımından önce takas yapan kullanıcılar için 1.500.000 XNF'lik özel bir airdrop'a sahip olacaktır. Airdrop, lansmanın ilk gününde gerçekleşecek ve 730 gün boyunca kademeli olarak açılacak şekilde kilitli tokenler olarak dağıtılacaktır.
 
@@ -486,33 +486,17 @@ Bitcoin'den ilham alan Xenify'ın dağıtım modeli yarılanma ilkesini benimsem
 
 ## ◽️ Potansiyel Genişleme Zincirleri
 
-Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirerek büyük adımlar atmaya hazırlanıyor. Şu anda incelediğimiz zincirlerin listesi, Arbitrum ve Avalanche gibi ağır toplardan zkSync ve PulseChain gibi blok zincirindeki yeni çocuklara kadar oldukça karışık bir çanta, seçenek sıkıntısı yok. Tam liste şunları içeriyor:
+Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirerek büyük oynamaya hazırlanıyor. Şu anda incelediğimiz zincirlerin listesi, Arbitrum ve Avalanche gibi ağır toplardan PulseChain gibi blok zincirindeki yeni çocuklara kadar oldukça karışık bir çanta, seçenek sıkıntısı yok. Tam liste şunları içeriyor:
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -522,34 +506,20 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
 | Zincir Adı         | DEX İsim                                              | Liquidity Eşleştirme |
 | ------------------ | ----------------------------------------------------- | -------------------  |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS             |
-| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO            |
-| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE            |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA           |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT             |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS           |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX            |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS          |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO          |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY            |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS         |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH            |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO             |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH            |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO            |
-| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM            |
-| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC           |
-| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH             |
-| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH              |
-| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH             |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX           |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR           |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT            |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR          |
-| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB             |
-| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS             |
-| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH           |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC          |
+| Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
+| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
+| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
+| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
+| Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
+| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
+| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -784,7 +754,7 @@ Xenify'ın günlük yakma açık artırması, XNF tokenlarına sahip olmak için
 
 Kullanıcılar, Mint Ücretini sağlayarak protokole ait likiditenin yaratılmasına katkıda bulunur. Bu likidite, her döngünün sonunda geri dönüşümcülere XNF ve yerel XEN tokenleri şeklinde ek ödüllerin dağıtılmasının da önünü açar. Sonuç olarak, Mint Fee Manager yalnızca protokole ait likiditeyi güçlendirmekle kalmaz, aynı zamanda dolaylı olarak geri dönüşümcüler için daha fazla ödül üretir. Bu yenilikçi tasarım, Xenify ekosisteminin sürdürülebilirliğini ve uzun vadeli büyümesini sağlar. Ayrıca, protokole ait likiditeyi koruyan sözleşmede yönetici anahtarlarının bulunmaması, her türlü manipülasyon olasılığını ortadan kaldırır.
 
-Protokole ait bu likiditenin oluşturulmasını başlatmak için, Darphane Ücreti Yöneticisi, XNF dağıtıldığında 100.000 adet önceden belirlenmiş XNF token tahsisi alır. Bu tokenlar, Mint Fee aracılığıyla XNF likiditesi yaratma amacına hizmet eder. 100.000 XNF tokenı, vXEN Mint Fee için 50.000 token ve vUSDy Mint Fee için 50.000 token olmak üzere eşit olarak paylaştırılır. Ekibin önceden belirlenmiş bu tokenlara erişimi yoktur ve yalnızca gerektiğinde bu tokenların yakılmasını gerçekleştirebilir.
+Protokole ait bu likiditenin oluşturulmasını başlatmak için, Darphane Ücreti Yöneticisi, XNF dağıtıldığında 100.000 adet önceden belirlenmiş XNF token tahsisi alır. Bu tokenler, Mint Fee aracılığıyla XNF likiditesi yaratma amacına hizmet eder. Ekibin bu önceden belirlenmiş tokenlara erişimi yoktur ve yalnızca gerektiğinde bu tokenların yakılmasını gerçekleştirebilir.
 
 İşte nasıl çalıştığı: Bir kullanıcı Mint Ücretini gönderdiğinde, Mint Ücret Yöneticisi, tüm LP tokenleri protokol tarafından tutulurken, tam aralıkta XNF likiditesi olarak eklemek için yerel zincir tokenlerinin %50'sini önceden belirlenmiş XNF tokenleri ile eşleştirecektir. Bu süreç, önceden belirlenmiş XNF tahsisi tükenene kadar devam edecektir. Bundan sonra yönetici, XNF satın almak için yerel tokenların %25'ini kullanmayı, satın alınan XNF'yi yerel tokenların %25'i ile eşleştirmeyi ve tüm LP tokenları protokol tarafından tutulurken tam aralıkta likidite olarak eklemeyi içeren varsayılan sürecini başlatır.
 
@@ -798,7 +768,7 @@ Her döngünün sonunda protokol, toplam XNF LP tokenlarının %1'ini ve sahip o
 
 vXEN darphane ücreti yalnızca vXEN elde etmek için bir XEN token varyantı yaktığınızda geçerlidir. Darphane ücreti, yaktığınız tokenların mevcut piyasa değerine göre belirlenir. vXEN mint ücretinden elde edilen yerel tokenlar aşağıdaki şekilde tahsis edilecektir:
 
-- **50'si XNF likiditesi yaratmak için kullanılacaktır:** Protokol, zincir için XNF likiditesi yaratmak amacıyla yerel tokenların %50'sini kullanacaktır. 50.000 önceden belirlenmiş XNF mevcutsa, yerel tokenların tamamı likidite eşleştirmesi için önceden belirlenmiş XNF ile eşleştirilecek ve LP tokenları protokol tarafından tutulacaktır. Bununla birlikte, önceden belirlenmiş XNF tahsisi tükenmişse, protokol %50 yerel tokenın yarısını XNF tokenları satın almak için ve yerel tokenların kalan %25'ini likidite eşleştirmesi için kullanacak ve LP tokenları protokol tarafından tutulacaktır.
+- **50'si XNF likiditesi yaratmak için kullanılacaktır:** Protokol, zincir için XNF likiditesi yaratmak amacıyla yerel tokenların %50'sini kullanacaktır. Eğer 100.000 önceden belirlenmiş XNF mevcutsa, yerel tokenların tamamı likidite eşleştirmesi için önceden belirlenmiş XNF ile eşleştirilecek ve LP tokenları protokol tarafından tutulacaktır. Ancak, önceden belirlenmiş XNF tahsisi tükenmişse, protokol %50 yerel tokenın yarısını XNF tokenları satın almak için ve yerel tokenların kalan %25'ini likidite eşleştirmesi için kullanacak ve LP tokenları protokol tarafından tutulacaktır.
 
 - **50'si XEN token likiditesi yaratmak için kullanılacaktır:** Protokol, yerel zincir tokenlerinin %50'sini, o zincirdeki en likit XEN havuzu için yerel XEN token varyantı için likidite yaratmak için kullanır (örneğin, BNB Zincirinde bXEN-BNB likiditesi için likidite yaratacaktır), tokenlerin %25'ini yerel XEN tokenini (ör. bXEN) satın almak için ve tokenlerin kalan %25'ini protokol tarafından tutulan LP tokenleri ile likidite eşleştirmesi için kullanır.
 
@@ -810,7 +780,7 @@ vXEN darphane ücreti yalnızca vXEN elde etmek için bir XEN token varyantı ya
 
 vUSDy mint ücreti yalnızca USDy, xYSL veya bYSL'yi yakma işlemi yoluyla vUSDy'ye dönüştürdüğünüzde geçerlidir. vUSDy mint ücretinden elde edilen yerel tokenlar aşağıdaki şekilde tahsis edilecektir:
 
-- **50'si XNF likiditesi yaratmak için kullanılacaktır:** Protokol, zincir için XNF likiditesi yaratmak amacıyla yerel tokenların %50'sini kullanacaktır. 50.000 önceden belirlenmiş XNF mevcutsa, yerel tokenların tamamı likidite eşleştirmesi için önceden belirlenmiş XNF ile eşleştirilecek ve LP tokenları protokol tarafından tutulacaktır. Bununla birlikte, önceden belirlenmiş XNF tahsisi tükenmişse, protokol %50 yerel tokenın yarısını XNF tokenları satın almak için ve yerel tokenların kalan %25'ini likidite eşleştirmesi için kullanacak ve LP tokenları protokol tarafından tutulacaktır.
+- **50'si XNF likiditesi yaratmak için kullanılacaktır:** Protokol, zincir için XNF likiditesi yaratmak amacıyla yerel tokenların %50'sini kullanacaktır. Eğer 100.000 önceden belirlenmiş XNF mevcutsa, yerel tokenların tamamı likidite eşleştirmesi için önceden belirlenmiş XNF ile eşleştirilecek ve LP tokenları protokol tarafından tutulacaktır. Ancak, önceden belirlenmiş XNF tahsisi tükenmişse, protokol %50 yerel tokenın yarısını XNF tokenları satın almak için ve yerel tokenların kalan %25'ini likidite eşleştirmesi için kullanacak ve LP tokenları protokol tarafından tutulacaktır.
 
 - **50'si USDy hazinesine ait likidite yaratmak için kullanılacaktır:** Protokol, likidite eşleştirmesinin USDy tarafını basarak ve tokenların %50'si ile USDC satın alarak USDy-USDC hazinesine ait likidite yaratmak için yerel tokenların %50'sini kullanır ve LP tokenları YSL.IO Hazinesine gönderilir.
 
