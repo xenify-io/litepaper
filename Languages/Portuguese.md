@@ -454,11 +454,11 @@ Com uma oferta total limitada a 22,6 milhões de tokens XNF, estrategicamente di
 
 - **21.000.000 XNF atribuídos para os leilões diários:** Os utilizadores que participarem em várias actividades que reforcem o desenvolvimento contínuo do protocolo terão a oportunidade de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
 
-  - 10.500.000 XNF (50%) do leilão diário são distribuídos aos utilizadores que realizam queimas directas de vXEN e vUSDy. Durante cada ciclo, se ninguém iniciar o processo de queima, a alocação de XNF correspondente não será cunhada. Este mecanismo de escassez diminui a oferta total de XNF, contribuindo para o seu potencial aumento de valor.
+  - 10.500.000 XNF (50%) são distribuídos pelos participantes no leilão de queima. Se o processo de queima não tiver sido iniciado durante um ciclo, a alocação diária de XNF para os participantes do leilão de queima será distribuída entre os participantes de swap para esse ciclo. Se não ocorrerem swaps ou burns durante um ciclo, a atribuição de XNF não será cunhada nem distribuída. Como resultado, este mecanismo orientado para a escassez diminui a oferta total de XNF, aumentando potencialmente o seu valor.
 
-  - 10.500.000 XNF (50%) do leilão diário é distribuído aos utilizadores que participam em swaps nas cadeias EVM suportadas. Se não ocorrerem swaps durante um ciclo, a atribuição de XNF correspondente não será cunhada. Este facto também reduz a oferta total de XNF, aumentando a sua escassez e valor potencial.
+  - 10.500.000 XNF (50%) são distribuídos aos utilizadores que participam em trocas nas cadeias EVM suportadas. Na ausência de swaps durante um ciclo, a atribuição de XNF para os participantes em swaps será distribuída aos participantes em leilões de queima para esse ciclo. Se não ocorrerem swaps ou burns durante um ciclo, esta atribuição de XNF não será cunhada nem distribuída. Esta ação também contribui para reduzir a oferta total de XNF, aumentando assim a sua escassez e valor potencial.
 
-- **100.000 XNF atribuídos para a criação de liquidez XNF:** Para facilitar este processo, reservámos 50.000 XNF para o gestor da taxa de emissão vXEN e 50.000 XNF adicionais para o gestor da taxa de emissão vUSDy. Cada vez que um utilizador participa na queima diária de vXEN ou vUSDy, estará a contribuir para a proliferação da liquidez XNF. Esta iniciativa reforça a saúde geral do protocolo e promove um conjunto robusto de liquidez para a nossa comunidade.
+- **100.000 XNF atribuídos para a criação de liquidez XNF:** Para facilitar este processo, reservámos 100.000 XNF para o Mint Fee Manager do protocolo. Cada vez que um utilizador participa na queima diária de vXEN ou vUSDy, estará a contribuir para a proliferação de liquidez XNF. Esta iniciativa reforça a saúde geral do protocolo e promove um conjunto robusto de liquidez para a nossa comunidade.
 
 - Para encorajar o envolvimento, cada cadeia terá um lançamento aéreo exclusivo de 1.500.000 XNF para os utilizadores que efectuem trocas antes do lançamento do XNF. O lançamento aéreo terá lugar no primeiro dia do lançamento e será distribuído como tokens bloqueados, desbloqueando gradualmente ao longo de 730 dias.
 
@@ -486,33 +486,17 @@ Inspirando-se na Bitcoin, o modelo de distribuição da Xenify adopta o princíp
 
 ## ◽️ Potenciais cadeias de expansão
 
-A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cadeias de blocos para a sua próxima grande jogada. A lista de cadeias que estamos a verificar neste momento é bastante variada, desde pesos pesados como Arbitrum e Avalanche até às novas crianças na blockchain como zkSync e PulseChain, não há falta de opções. A lista completa inclui:
+A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cadeias de blocos para a sua próxima grande jogada. A lista de cadeias que estamos a verificar neste momento é bastante variada, desde pesos pesados como Arbitrum e Avalanche até às novas crianças na blockchain como PulseChain, não há falta de opções. A lista completa inclui:
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
+- Moonbeam
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
-- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -522,34 +506,20 @@ A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cad
 
 | Nome da cadeia | Nome do DEX | Emparelhamento de liquidez |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
 | Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
 | Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
-| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
+| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 | Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -784,7 +754,7 @@ O leilão diário de queima do Xenify é a oportunidade perfeita para colocar as
 
 Ao fornecer a Mint Fee, os utilizadores contribuem para a criação de liquidez de propriedade do protocolo. Essa liquidez também abre caminho para a distribuição de recompensas adicionais na forma de XNF e tokens XEN nativos para recicladores no final de cada ciclo. Consequentemente, o Mint Fee Manager não apenas fortalece a liquidez de propriedade do protocolo, mas também gera indiretamente mais recompensas para os recicladores. Este design inovador garante a sustentabilidade e o crescimento a longo prazo do ecossistema Xenify. Além disso, a ausência de chaves de administração no contrato que salvaguarda a liquidez de propriedade do protocolo elimina qualquer possibilidade de manipulação.
 
-Para dar o pontapé inicial na geração dessa liquidez de propriedade do protocolo, o Mint Fee Manager recebe uma alocação de 100.000 tokens XNF pré-instalados quando o XNF é implantado. Estes tokens servem o objetivo de criar liquidez XNF através da Mint Fee. Os 100.000 tokens XNF são divididos igualmente, com 50.000 tokens alocados para a taxa da Casa da Moeda vXEN e 50.000 tokens para a taxa da Casa da Moeda vUSDy. A equipa não tem acesso a estes tokens pré-mintados e só pode executar a queima destes tokens se necessário.
+Para dar o pontapé inicial na geração dessa liquidez de propriedade do protocolo, o Mint Fee Manager recebe uma alocação de 100.000 tokens XNF pré-instalados quando o XNF é implantado. Estes tokens servem o objetivo de criar liquidez XNF através da Mint Fee. A equipa não tem acesso a estes tokens pré-mintados e só pode executar a queima destes tokens se necessário.
 
 O funcionamento é o seguinte: Quando um utilizador envia a Mint Fee, o Mint Fee Manager irá emparelhar 50% dos tokens da cadeia nativa com os tokens XNF pré-minturados, para adicionar como liquidez XNF em toda a gama, com todos os tokens LP sendo mantidos pelo protocolo. Este processo continuará até que a alocação de XNF pré-mintada esteja esgotada. Depois disso, o gestor inicia o seu processo por defeito, que envolve a utilização de 25% dos tokens nativos para comprar XNF, emparelhar o XNF adquirido com 25% dos tokens nativos, para adicionar como liquidez a toda a gama, com todos os tokens LP a serem detidos pelo protocolo.
 
@@ -798,9 +768,9 @@ No final de cada ciclo, o protocolo retira 1% do total de tokens XNF LP e 1% dos
 
 A taxa de cunhagem de vXEN é aplicável apenas quando queima uma variante de token XEN para obter vXEN. A taxa de cunhagem é determinada pelo valor de mercado atual dos tokens que queima. Os tokens nativos gerados a partir da taxa de cunhagem vXEN serão atribuídos da seguinte forma:
 
-- **50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se os 50.000 Preminted XNF estiverem disponíveis, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo. No entanto, se a alocação de XNF pré-minted tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
+- **50% serão utilizados para criar liquidez XNF:** O protocolo utiliza 50% dos tokens nativos para criar liquidez XNF para a cadeia. Se o 100.000 Preminted XNF estiver disponível, o montante total dos tokens nativos será emparelhado com o preminted XNF para o emparelhamento de liquidez, com os tokens LP sendo mantidos pelo protocolo. No entanto, se a alocação de XNF pré-mintado tiver sido esgotada, o protocolo utilizará metade dos 50% de tokens nativos para comprar tokens XNF e os restantes 25% dos tokens nativos para o emparelhamento de liquidez, sendo os tokens LP detidos pelo protocolo.
 
-- O protocolo utiliza 50% dos tokens da cadeia nativa para criar liquidez para a variante do token XEN nativo para o pool XEN mais líquido nessa cadeia (por exemplo, na cadeia BNB, criará liquidez para a liquidez bXEN-BNB), utilizando 25% dos tokens para comprar o token XEN nativo (por exemplo, bXEN) e os restantes 25% dos tokens para o emparelhamento de liquidez com os tokens LP detidos pelo protocolo.
+- **50% serão utilizados para criar liquidez de token XEN:** O protocolo utiliza 50% dos tokens da cadeia nativa para criar liquidez para a variante do token XEN nativo para o pool XEN mais líquido nessa cadeia (por exemplo, na cadeia BNB, criará liquidez para a liquidez bXEN-BNB), utilizando 25% dos tokens para comprar o token XEN nativo (por exemplo, bXEN) e os restantes 25% dos tokens para o emparelhamento de liquidez com os tokens LP detidos pelo protocolo.
 
 - Por exemplo, digamos que tem 10.000 bXEN e quer convertê-las em vXEN. Se a bXEN estiver atualmente avaliada em $0,01 e tiver 10.000 bXEN, a sua bXEN vale $100. Por conseguinte, teria de fornecer $100 em BNB para a taxa de cunhagem. Depois de iniciar o processo de cunhagem, o protocolo irá gerar vXEN com base no valor total das suas bXEN e na taxa de cunhagem. Neste exemplo, receberá $200 vXEN em troca, considerando os seus $100 bXEN e a taxa de cunhagem de $100 BNB. O valor de $100 de bXEN que enviou durante o processo será permanentemente retirado de circulação e a contribuição de $100 BNB para a taxa de cunhagem irá para o gestor da taxa de cunhagem de vXEN.
 
