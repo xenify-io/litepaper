@@ -488,28 +488,12 @@ Inspirándose en Bitcoin, el modelo de distribución de Xenify adopta el princip
 
 Xenify se está preparando para ir a lo grande, así que estamos evaluando un montón de blockchains en las cuales queremos aterrizar. La lista de cadenas que estamos evaluando ahora mismo es bastante variada, desde pesos pesados como Arbitrum y Avalanche a los nuevos chicos de la blockchain como zkSync y PulseChain, no hay escasez de opciones. La lista completa incluye:
 
-- KCC
 - Celo
-- Fuse
-- Boba
-- Heco
-- Telos
-- Velas
-- Metis
-- Canto
-- Klaytn
 - Evmos
-- zkEVM
-- Aurora
-- Gnosis
-- zkSync
-- Cronos
 - Fantom
-- Polygon
 - Arbitrum
 - Optimism
 - Avalanche
-- Moonriver
 - OKX Chain
 - PulseChain
 - Moonbeam
@@ -522,34 +506,17 @@ Xenify se está preparando para ir a lo grande, así que estamos evaluando un mo
 
 | Nombre de la cadena | Nombre de DEX | Emparejamiento de liquidez |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| KCC                | [MojitoSwap](https://www.mojitoswap.finance)          | kXNF-KCS            |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
-| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Boba               | [SushiSwap](https://www.sushi.com)                    | boXNF-BOBA          |
-| Heco               | [MDEX](https://mdex.com)                              | hcXNF-HT            |
-| Telos              | [ApeSwap](https://apeswap.finance)                    | tXNF-TELOS          |
-| Velas              | [Wavelength](https://app.wavelength.exchange)         | veXNF-VLX           |
-| Metis              | [Hummus Exchange](https://www.hummus.exchange)        | meXNF-METIS         |
-| Canto              | [Canto Dex](https://app.slingshot.finance/swap/CANTO) | caXNF-CANTO         |
-| Klaytn             | [KlaySwap](https://klayswap.com)                      | kXNF-KLAY           |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
-| Aurora             | [Polaris Finance](https://polarisfinance.io)          | arXNF-ETH           |
-| Gnosis             | [Balancer V2](https://balancer.finance)               | gXNF-GNO            |
-| zkSync             | [SyncSwap](https://syncswap.xyz)                      | zkXNF-ETH           |
-| Cronos             | [VVS Finance](https://vvs.finance)                    | crXNF-CRO           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
 | Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| Moonriver          | [Solarbeam](https://app.solarbeam.io/exchange/swap)   | mrXNF-MOVR          |
 | OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
-| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
-| Polygon zkEVM      | [Quickswap](https://quickswap.exchange)               | mkXNF-MATIC         |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
