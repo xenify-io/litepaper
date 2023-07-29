@@ -534,7 +534,7 @@ Xenify se está preparando para ir a lo grande, así que estamos evaluando un mo
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Quemar para ganar XNF
+## ♦️ Quema para ganar XNF
 
   - Xenify permite a los usuarios quemar/burn sin esfuerzo sus tokens XEN o tokens nativos YSL.IO directamente desde sus carteras para participar en el ciclo de quema diario. Este mecanismo único de quema integra dos tokens conocidos como vXEN y vUSDy, los homólogos virtuales de los tokens XEN y los tokens nativos YSL.IO, respectivamente. Estos tokens tienen un propósito específico: facilitar la adquisición o minting de tokens XNF a través del proceso de quemado. En consecuencia, los usuarios pueden participar en el ciclo de quema diario, independientemente de la variante de token XEN o YSL.IO que posean. Este mecanismo de quema va más allá de la simple reducción de la oferta circulante de tokens XEN y tokens nativos YSL.IO; encarna un enfoque estratégico que reúne a la comunidad YSL.IO y a las comunidades XEN más amplias de todas las cadenas, fomentando una visión compartida que unifica ambos ecosistemas.
 
@@ -562,7 +562,7 @@ Xenify se está preparando para ir a lo grande, así que estamos evaluando un mo
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Stake XNF to earn native tokens
+## ♦️ Stake XNF para ganar native tokens
 
   - A diferencia de los agregadores genéricos, Xenify se enorgullece de su vanguardista modelo de incentivos, que permite a los usuarios de la plataforma realizar intercambios sin problemas y embarcarse en un viaje gratificante al obtener recompensas en cada ciclo en función de su XNF apostado. Estas recompensas se distribuyen en forma de tokens nativos de la cadena -un activo de gran liquidez-, lo que supone un retorno potencialmente lucrativo para los usuarios que apuestan XNF.
 
@@ -574,7 +574,7 @@ Xenify se está preparando para ir a lo grande, así que estamos evaluando un mo
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costes de swapping en Xenify
+## ◽️ Costos de swapping en Xenify
 
 Xenify ofrece una innovadora solución para el swapping de tokens que no solo simplifica las transacciones entre cadenas, sino que también recompensa a sus usuarios, al tiempo que fomenta la expansión de su ecosistema. A través de una comisión del 0,5% o swap fee en cada intercambio de tokens, Xenify es capaz de lograr tres objetivos cruciales: recompensar a los usuarios de su plataforma con tokens XNF, proporcionar recompensas nativas de la cadena a los stakers de XNF y garantizar el desarrollo continuo del protocolo.
 
@@ -584,7 +584,7 @@ Pero aquí viene la parte emocionante, al pagar la comisión de swap de 0,5% en 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costes de burning en Xenify
+## ◽️ Costos de burning en Xenify
 
 El protocolo Xenify permite a los usuarios quemar o burn tokens vXEN o vUSDy para asegurar XNF del ciclo diario de recompensas XNF. Piense en vXEN y vUSDy como homólogos virtuales de XEN y USDy, respectivamente. Estos tokens han sido creados específicamente para una conversión perfecta en XNF.
 
@@ -604,7 +604,7 @@ Del mismo modo, si quieres adquirir vUSDy, necesitarás tener tokens nativos de 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Time-Weighted Burn Fee Discount
+## ◽️ Descuento del time-weighted burn fee 
 
 Xenify introduce un enfoque innovador para los descuentos por "burn fee" que pretende promover la equidad y evitar la manipulación. Mediante la aplicación de un cálculo de burn fee cuidadosamente diseñado, el protocolo frena eficazmente las prácticas desleales en las que los usuarios programan estratégicamente las transacciones para maximizar sus recompensas o incentivos.
 
@@ -715,7 +715,7 @@ Veamos con más detalle cómo funciona el descuento del burn fee ponderada por e
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Escenario 1: El usuario se quema durante la Hora-1 de un ciclo
+## ♦️ Escenario 1: El usuario se quema durante la hora 1 de un ciclo
 
   - Supongamos que decide quemar 10.000 lotes por valor de 5.000 $ durante la primera hora del ciclo diario. Teniendo en cuenta que el Batch Coefficien (BC) durante la primera hora de un ciclo es 0,00005 y el Burn Fee Coefficient (FC) durante la primera hora es 50%, el protocolo determinará su Burn Fee (BF) en 1.250 $.
 
@@ -729,7 +729,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Escenario 2: El usuario se quema durante la Hora-24 de un ciclo
+## ♦️ Escenario 2: El usuario quema durante la hora 24 de un ciclo
 
   - Supongamos ahora que decide quemar 10.000 lotes durante la última hora del ciclo diario. Teniendo en cuenta que el Batch Coefficient (BC) durante la última hora de un ciclo es 0 y el Burn Fee Coefficient (FC) durante la última hora es 100%, el protocolo determinará su Burn Fee (BF) como 5.000 $.
 
