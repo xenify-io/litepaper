@@ -22,26 +22,27 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 # ◽️ Isi
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- [Pendahuluan](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
-- [Misi Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
-- [Prinsip-prinsip Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
-- [Fitur Utama](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
-- [Pendiri Kami](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
-- [Ikhtisar XEN](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- [Ikhtisar USDy](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
-- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
-- [Ikhtisar Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
-- [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
-- [Arsitektur Xenify](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
-- [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
-- [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
-- [Pengalaman Pengguna](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
-- [Keamanan](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
-- [Kesimpulan](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
-- [Glosarium](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
-- [Ucapan Terima Kasih](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
-- [Alamat Kontrak](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
-- [Tautan Bermanfaat](https://github.com/xenify-io/litepaper#%EF%B8%8F-helpful-links)
+- [Pendahuluan](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pendahuluan)
+- [Misi Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-misi-kami)
+- [Prinsip-prinsip Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-prinsip-prinsip-kami)
+- [Fitur Utama](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-fitur-utama)
+- [Pendiri Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pendiri-kami)
+- [Ikhtisar XEN](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xen)
+- [Ikhtisar USDy](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-usdy)
+- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xnf--vexnf-ikhtisar)
+- [Ikhtisar Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xenify)
+- [Xenify Tokenomics](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xenify-tokenomics)
+- [Arsitektur Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-arsitektur-xenify)
+- [XNF Airdrops](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xnf-airdrops)
+- [Amplify Burns](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-burn-amplifikasi)
+- [Pengalaman Pengguna](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pengalaman-pengguna)
+- [Keamanan](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-keamanan)
+- [Kesimpulan](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-kesimpulan)
+- [FAQ](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-faq)
+- [Glosarium](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-glosarium)
+- [Ucapan Terima Kasih](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ucapan-terima-kasih)
+- [Alamat Kontrak](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-alamat-kontrak)
+- [Tautan Bermanfaat](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-tautan-bermanfaat)
 
 <br>
 
@@ -296,7 +297,7 @@ Setelah Anda memiliki vUSDy, Anda dapat membakarnya untuk berpartisipasi dalam d
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF & veXNF Ikhtisar
+# ◽️ Ikhtisar XNF & veXNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
