@@ -493,10 +493,10 @@ Xenify se está preparando para ir a lo grande, dimensionando un montón de bloc
 - Fantom
 - Arbitrum
 - Optimism
-- Moonbeam
 - Avalanche
 - OKX Chain
 - PulseChain
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -507,19 +507,16 @@ Xenify se está preparando para ir a lo grande, dimensionando un montón de bloc
 | Nombre de la cadena | Nombre de DEX | Emparejamiento de liquidez |
 | ------------------ | ----------------------------------------------------- | ------------------- |
 | Celo               | [Uniswap V3](https://app.uniswap.org)                 | cXNF-CELO           |
-| Fuse               | [SushiSwap](https://www.sushi.com)                    | fXNF-FUSE           |
-| Evmos              | [SpaceSwap](https://swap-evmos.spacefi.io)            | coXNF-WEVMOS        |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | oXNF-ETH            |
-| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
 | Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
 | OKX Chain          | [OKExSwap](https://www.okex.com/swap)                 | okXNF-OKT           |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
-| Ethereum PoW       | [Uniwswap](https://uniwswap.com)                      | vvXNF-WETH          |
+| Moonbeam           | [Stellaswap](https://app.stellaswap.com/pulsar)       | mbXNF-WGLMR         |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
