@@ -216,7 +216,7 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XEN Visão geral
+# ◽️ Visão geral do XEN
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -252,7 +252,7 @@ E aqui está a melhor parte: A Xenify implementou uma taxa fixa para vXEN, onde 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ USDy Visão geral
+# ◽️ Visão geral do USDy
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -296,7 +296,7 @@ Depois de possuir vUSDy, você pode queimá-lo para participar da distribuição
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF & veXNF Visão geral
+# ◽️ Visão geral do XNF e veXNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -312,7 +312,7 @@ Para os utilizadores que pretendem aumentar o seu potencial de ganhos com bloque
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Xenify Visão geral
+# ◽️ Visão geral da Xenify
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
