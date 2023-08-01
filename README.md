@@ -38,6 +38,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [User Experience](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
 - [Conclusion](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
+- [FAQs](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-faqs)
 - [Glossary](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
 - [Acknowledgements](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
 - [Contract Addresses](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
