@@ -24,7 +24,7 @@ Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xe
 
 - [소개](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%86%8C%EA%B0%9C)
 - [우리의 사명](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%82%AC%EB%AA%85)
-- [우리의 원칙]()https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9B%90%EC%B9%99
+- [우리의 원칙](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9B%90%EC%B9%99)
 - [주요 기능](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
 - [창립자](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%B0%BD%EB%A6%BD%EC%9E%90)
 - [XEN 개요](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xen-%EA%B0%9C%EC%9A%94)
