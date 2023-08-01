@@ -1024,7 +1024,7 @@ Así es cómo funciona: cuando los titulares de NFT deciden quemar vXEN o vUSDy 
 
 Y aquí está lo mejor: tu bono diario de lotes, ya sea que tengas un NFT o cuatro NFT, se puede transferir sin problemas a cualquier cadena en la que se lanze Xenify. Digamos que Xenify se expande a Polygon y tienes 4 Phoenix Ape NFT. Una vez que hayas agotado tu bono diario de 1000 lotes en BNB Chain, puedes transferir fácilmente la utilidad de tus NFT a Polygon y disfrutar de 1000 lotes de bonificación allí. Con tu multiplicador reiniciándose todos los días, tendrás la oportunidad de cosechar los beneficios de este efecto de quema amplificado en todas las cadenas en las que Xenify se lanza a diario.
 
-En resumen, los titulares de Phoenix Ape NFT no solo disfrutan de una mayor participación en la distribución diaria de XNF, sino que también desbloquean mayores descuentos en la tarifa de quema al quemar una mayor cantidad de lotes. La cantidad máxima de lotes por transacción está limitada a 10000 lotes, y el descuento en el burn fee está representado por el término (1 - (NB x CS)) en la fórmula de tarifa de quema del protocolo:
+En resumen, los holders de Phoenix Ape NFT obtienen una doble ventaja. Disfrutan de una mayor parte de la distribución diaria de XNF y desbloquean importantes descuentos en el burn fee al  poder quemar un mayor número de batches. Sin embargo, ten en cuenta que el límite máximo para los batches por transación de burn (BN) es de 10.000, y el límite máximo para los batches de bono por transacción de burn sigue siendo de 1.000. El descuento del burn fee al que puedes acceder  está representado por el término (1 - (NB x BC)) en la fórmula de burn fee del protocolo: 
 
 <br>
 
