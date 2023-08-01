@@ -216,7 +216,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Vue d'ensemble du XEN
+# ◽️ Vue d'ensemble de XEN
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -252,7 +252,7 @@ Et voici le meilleur : Xenify a mis en place un taux fixe pour les vXEN, où un 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ USDy Aperçu
+# ◽️ Vue d'ensemble de l'USDy
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -296,7 +296,7 @@ Une fois que vous possédez vUSDy, vous pouvez le brûler pour participer à la 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF & veXNF Vue d'ensemble
+# ◽️ Vue d'ensemble de XEN et XNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
