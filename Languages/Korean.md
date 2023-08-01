@@ -1082,7 +1082,7 @@ Xenify 마켓플레이스를 통해 Phoenix Ape NFT가 임대될 때, 사용자�
 
 그리고 여기 가장 좋은 부분이 있습니다. 사용자가 Phoenix NFT를 BNB 체인에서 다른 체인으로 브릿징하기로 결정하더라도, Xenify에서 번역을 증폭하기 위해, 그들은 여전히 USDC 배포를 받을 자격이 있습니다. 더 간단히 말하면, BNB 체인의 청구 가능한 USDC 리워드는 Phoenix Ape NFT를 보유하는 모든 주소에 예약됩니다. 체인을 브릿징하는 여부와 관계없이 말이죠.  
 
-\!\[Grey V4\](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ 고유한 임대 메커니즘  
 
