@@ -1268,9 +1268,11 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 ## ◽️ ¿Qué ocurre si no hay swaps o burns de tokens durante un ciclo diario?
 
-- En el improbable caso de que no se produzcan swaps en Xenify, y ningún usuario queme ni vXEN ni vUSDy, la distribución diaria del ciclo XNF no se llevará a cabo. En este escenario, los tokens XNF programados para su distribución durante ese ciclo simplemente no se distribuirán. Como resultado, el suministro total de XNF disminuirá en la cantidad que estaba previsto distribuir en ese ciclo.
-
-- Por ejemplo, si la asignación diaria para un ciclo se fija en 20.000 XNF, y si no se produce ningún swap o burn durante ese ciclo, los 20.000 XNF no se mintearan ni distribuirán. En su lugar, el suministro total de XNF se reducirá en 20.000 XNF al final del ciclo.
+- En el improbable caso de que un ciclo pase sin ningún swap en Xenify y ningún usuario queme vXEN o vUSDy, la distribución diaria del ciclo XNF no ocurrirá. Los tokens XNF que debían distribuirse durante este ciclo no se minarán. Por consiguiente, el suministro global de XNF se reducirá en el número previsto para la distribución en ese ciclo. Por ejemplo, si la asignación diaria para un ciclo se fijó en 20.000 XNF, y no se producen swaps o burns durante ese ciclo, entonces estos 20.000 XNF no se minarán ni distribuirán. En cambio, el suministro total de XNF se reducirá en 20.000 XNF al final del ciclo.
+  
+- Pero, ¿y si un ciclo pasa donde sólo se realizan swaps y no se producen quemas o burns? Bueno, en este escenario, el XNF diario designado para la distribución se asignará a aquellos que participaron en los swaps. Por ejemplo, si la asignación diaria para un ciclo se establece en 20.000 XNF, y los swaps se realizan sin que se produzcan quemas o burns durante ese ciclo, la asignación completa de 20.000 XNF se minará y distribuirá entre los participantes de los swaps.
+  
+- Del mismo modo, en un ciclo en el que sólo se ejecuten quemas sin swaps, la asignación completa de XNF programada para su distribución se asignará a los participantes de la subasta de burn. Por ejemplo, si la asignación diaria para un ciclo se establece en 20.000 XNF, y las quemas se llevan a cabo sin que ocurra ningún swap durante ese ciclo, entonces la asignación completa de 20.000 XNF se minará y distribuirá entre los participantes de la subasta de burns.
 
 <br>
 
