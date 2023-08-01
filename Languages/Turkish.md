@@ -22,26 +22,27 @@ Dayana Plaz • Kurucu Ortak • <a href="mailto:dayana@xenify.io">dayana@xenify
 # ◽️ İçindekiler
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- [Giriş](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
-- [Misyonumuz](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
-- [İlkelerimiz](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
-- [Temel Özellikler](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
-- [Kurucularımız](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
-- [XEN Genel Bakış](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- [USDy Genel Bakış](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
-- [XNF & veXNF Genel Bakış](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
-- [Xenify Genel Bakış](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
-- [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
-- [Xenify Mimarisi](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
-- [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
-- [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
-- [Kullanıcı Deneyimi](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
-- [Güvenlik](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
-- [Sonuç](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
-- [Sözlük](https://github.com/xenify-io/litepaper#%EF%B8%8F-glossary)
-- [Teşekkür](https://github.com/xenify-io/litepaper#%EF%B8%8F-acknowledgements)
-- [Sözleşme Adresleri](https://github.com/xenify-io/litepaper#%EF%B8%8F-contract-addresses)
-- [Yararlı Bağlantılar](https://github.com/xenify-io/litepaper#%EF%B8%8F-helpful-links)
+- [Giriş](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-giri%C5%9F)
+- [Misyonumuz](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-misyonumuz)
+- [İlkelerimiz](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-i%CC%87lkelerimiz)
+- [Temel Özellikler](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-temel-%C3%B6zellikler)
+- [Kurucularımız](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-kurucular%C4%B1m%C4%B1z)
+- [XEN Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xen-genel-bak%C4%B1%C5%9F)
+- [USDy Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-usdy-genel-bak%C4%B1%C5%9F)
+- [XNF & veXNF Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xnf--vexnf-genel-bak%C4%B1%C5%9F)
+- [Xenify Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xenify-genel-bak%C4%B1%C5%9F)
+- [Xenify Tokenomics](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xenify-tokenomics)
+- [Xenify Mimarisi](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xenify-mimarisi)
+- [XNF Airdrop](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xnf-airdrop)
+- [Amplify Burns](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-amplify-burns)
+- [Kullanıcı Deneyimi](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-kullan%C4%B1c%C4%B1-deneyimi)
+- [Güvenlik](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-g%C3%BCvenlik)
+- [Sonuç](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-sonu%C3%A7)
+- [SSS](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-sss)
+- [Sözlük](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-s%C3%B6zl%C3%BCk)
+- [Teşekkür](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-te%C5%9Fekk%C3%BCr)
+- [Sözleşme Adresleri](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-s%C3%B6zle%C5%9Fme-adresleri)
+- [Yararlı Bağlantılar](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-yararl%C4%B1-ba%C4%9Flant%C4%B1lar)
 
 <br>
 
@@ -1008,13 +1009,13 @@ Açık artırmayı kazandığınızda, benzersiz NFT'nizi basan Phoenix Ape NFT'
 
 **Phoenix Ape NFT'lerini geleneksel NFT'lerden ayıran bazı dikkat çekici özelliklere göz atalım:**
 
-![line divider - filled](https://user-images.githubusercontent.com/60996729/218723259-e181f3eb-0394-4835-bbc0-a945b709ffd3.svg)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Sınırlı Koleksiyon
 
 Phoenix Ape'ler, Xenify ve YSL.IO topluluklarını birleştirmek için tasarlanmış bir NFT koleksiyonudur. YSL.IO tarafından geliştirilen özel NFT koleksiyonu, sadece 520 adet sınırlı bir arza sahiptir. Bu aranan NFT'ler, çekirdeğinde fayda barındırmak için zekice tasarlanmıştır. Sadece benzersiz nadirliklere sahip olmakla kalmazlar, aynı zamanda Xenify ve YSL.IO ekosisteminde sahiplerine istisnai faydalar sağlarlar.
 
-![grey v4](https://user-images.githubusercontent.com/60996729/218723462-34f6bd22-9733-48e4-ba64-8854cd6462a3.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Günlük Arttırılmış Yakma Etkisi
 
@@ -1044,13 +1045,13 @@ $$
 - $BC$ (Toplu Katsayısı) - Yakılan toplu miktarına bağlı indirimi hesaba katmak için kullanılan zamana bağlı bir katsayı.
 - $NB$ (Toplu Miktarı) - Kullanıcının yaktığı toplu miktarı, yakılan toplu sayısı arttıkça indirimde etkili olur. Bu 10.000 toplu ile sınırlı olacaktır.
 
-![line divider - filled](https://user-images.githubusercontent.com/60996729/218723259-e181f3eb-0394-4835-bbc0-a945b709ffd3.svg)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Örnek: Arttırılmış Yakma Etkisi
 
 Arttırılmış yakmanın farklı senaryolarda nasıl çalıştığına daha yakından bakalım:
 
-![grey v4](https://user-images.githubusercontent.com/60996729/218723462-34f6bd22-9733-48e4-ba64-8854cd6462a3.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Senaryo 1: 1 ila 3 Phoenix Ape NFT'ye, Xunicorn APEX XENFT'ye veya Egzotik APEX XENFT'ye sahipseniz:
 
@@ -1082,7 +1083,7 @@ Bir Phoenix Ape NFT, Xenify pazar yerinden kiralandığında, kullanıcının ki
 
 Ve işin en güzel yanı şu: Bir kullanıcı Phoenix NFT'sini BNB zincirinden başka bir zincire köprülemeye karar verse bile Xenify ile yakmaları artırmak için, USDC dağıtımı için hala uygun olacaktır. Daha basit bir ifadeyle, BNB Zincirindeki kullanılabilir USDC ödülleri, Phoenix Ape NFT'ye sahip tüm adresler için ayrılacaktır, NFT'lerini başka bir zincire köprüleseler bile.
 
-![Gri V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Benzersiz Kiralama Mekanizması 
 
