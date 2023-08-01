@@ -29,7 +29,7 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 - [Pendiri Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pendiri-kami)
 - [Ikhtisar XEN](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xen)
 - [Ikhtisar USDy](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-usdy)
-- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xnf--vexnf-ikhtisar)
+- [Ikhtisar XNF & veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xnf--vexnf)
 - [Ikhtisar Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xenify)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xenify-tokenomics)
 - [Arsitektur Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-arsitektur-xenify)
