@@ -56,7 +56,7 @@ Xenify'a Hoş Geldiniz! Biz Yenilik, Ödül, Zahmetsiz Çapraz Zincir Takası ve
 
 Xenify, toplayıcıların çapraz zincir meta toplayıcısı olarak yeni bir 'Kazanmak için Takas' çağına öncülük ediyor. Çığır açan protokolümüz, yaratıcı tokenomik ve gelişmiş çapraz zincir işlevselliğini tek ve güçlü bir pakete sorunsuz bir şekilde entegre etmektedir. Xenify, katılımı aktif olarak ödüllendiren benzersiz, oyun teorisine dayalı bir teşvik modeli ile zincirler arası takas dünyasında sismik bir değişim başlatmaya hazırlanıyor. Misyonumuz açık: Her iki dünyanın da en iyisini sunarak DeFi dünyasında devrim yaratmak: ultra verimli bir zincirler arası takas deneyimi ve önemli kazanç fırsatları.
 
-Xenify'ın cesur vizyonunun özünde, zincirler arası token takaslarını kolaylaştıran son teknoloji bir likidite toplama protokolü bulunmaktadır. İster Ethereum, BNB Chain, Polygon, Arbitrum veya desteklenen 50 zincirden herhangi birinde token takası yapmak isteyin, Xenify size yardımcı olacaktır. 27 farklı toplayıcıya erişimi olan Xenify, takaslarınız için benzersiz likidite ve optimum oranları garanti eder. Son teknoloji API'lerden yararlanan Xenify, çok çeşitli DEX toplayıcıları ile sorunsuz iletişim kurarak takas deneyimini önemli ölçüde geliştirir ve zincirlerin geniş gobleninde en uygun takas rotaları arayışını kolaylaştırır.
+Xenify'ın cesur vizyonunun özünde, zincirler arası token takaslarını kolaylaştıran son teknoloji bir likidite toplama protokolü bulunmaktadır. İster Ethereum, BNB Chain, Polygon, Arbitrum veya desteklenen 52 zincirden herhangi birinde token takası yapmak isteyin, Xenify size yardımcı olacaktır. 27 farklı toplayıcıya erişimi olan Xenify, takaslarınız için benzersiz likidite ve optimum oranları garanti eder. Son teknoloji API'lerden yararlanan Xenify, çok çeşitli DEX toplayıcıları ile sorunsuz iletişim kurarak takas deneyimini önemli ölçüde geliştirir ve zincirlerin geniş gobleninde en uygun takas rotaları arayışını kolaylaştırır.
 
 Xenify'ı diğer zincirler arası takas platformlarından ayıran şey, tüm katılımcılar için karşılıklı fayda sağlayan bir ortam yaratma taahhüdüdür. Desteklenen EVM zincirlerinde takas ücretlerine katkıda bulunarak XNF tokenları kazanırken, takas ücretlerinizin %100'ü XNF stakerlarına ödül olarak dağıtılır. Dahası, Xenify, XEN sahiplerinin varlıklarını öngörülebilir bir oranda zahmetsizce XNF'ye dönüştürmelerini sağlayarak XEN'in stratejik bir katman 1 yakıcısı olarak hizmet vermektedir. Bu yakma süreci boyunca, benzersiz ücret kullanım algoritmamız, yakma ücretlerinin %100'ünün XNF staker'larına ödül olarak yönlendirilmesini garanti ederken, darphane ücreti XNF likiditesinin büyümesini destekler. Bu kazan-kazan stratejisi, piyasa aktivitesinden bağımsız olarak XNF likiditesinin sürekli çoğalmasını sağlarken, Xenify'ın özel katılımcıları için ödülleri artırır.
 
@@ -72,7 +72,7 @@ Son teknoloji likidite toplama ve ayırt edici tokenomiklerimizi bir araya getir
 
 <br>
 
-Xenify sadece sınırları zorlamak için burada değil - DeFi'nin ana akım olarak benimsenmesini engelleyen bariyerleri yok etme misyonundayız. Amaca yönelik olarak oluşturulmuş protokolümüz, 50 zincirden oluşan geniş bir ağda token transferlerinde devrim yaratırken, birden fazla zincir arasında token takasının karmaşık dünyasında gezinen kullanıcılar için akıcı ve sorunsuz bir deneyim sağlamaya hazırlanıyor.
+Xenify sadece sınırları zorlamak için burada değil - DeFi'nin ana akım olarak benimsenmesini engelleyen bariyerleri yok etme misyonundayız. Amaca yönelik olarak oluşturulmuş protokolümüz, 52 zincirden oluşan geniş bir ağda token transferlerinde devrim yaratırken, birden fazla zincir arasında token takasının karmaşık dünyasında gezinen kullanıcılar için akıcı ve sorunsuz bir deneyim sağlamaya hazırlanıyor.
 
 Zincirler arası takas toplamada gerçek öncüler olarak, engelleri yıkma taahhüdümüz derinlere uzanıyor. Çok sayıda EVM zincirinde tokenları takas etmenin ve stake etmenin zahmetsiz olduğu sezgisel, güvenli ve adil bir ortam oluşturmayı hedefliyoruz. Misyonumuz, Xenify'ın özelliklerini sürekli olarak yenilemek ve iyileştirmek, çeşitli topluluğumuzun sürekli gelişen ihtiyaçlarına uyum sağlamak ve kullanıcı tabanımızı sürekli genişletmektir.
 
@@ -140,7 +140,7 @@ Xenify, DeFi alanında adalet, basitlik, şeffaflık, kullanıcı güçlendirme 
 
 ## ◽️ Gelişmiş Zincirler Arası Toplayıcı Yetenekleri
 
-Xenify ile zincirler arasında geçiş yapmak hiç bu kadar sorunsuz ve verimli olmamıştı, engelleri ortadan kaldırıyor ve birbirine daha bağlı bir DeFi ekosistemini teşvik ediyor. Xenify'ı diğerlerinden ayıran göze çarpan bir özellik, toplayıcıların çapraz zincir meta toplayıcısı olmamızdır. Bu terim kulağa karmaşık gelse de, basitçe birden fazla çapraz zincir toplayıcıyı tek bir platformda bir araya getirdiğimiz anlamına gelir. Gelişmiş likidite toplama protokolümüzden yararlanarak, kullanıcıların blok zinciri ağları arasında geçiş yapma şeklini dönüştürebiliyoruz. Dahası, kullanıcılar ilgili zincirlerden günlük olarak yerel token kazanma fırsatına sahip olarak portföylerini daha da geliştiriyor. Kullanıcılarımız, 50 zincirdeki 27 toplayıcıdan rekabetçi oranlara ve olağanüstü likiditeye erişim sayesinde, varlıklarını yönetmede benzersiz avantajlardan ve gelişmiş esneklikten yararlanmaktadır.  
+Xenify ile zincirler arasında geçiş yapmak hiç bu kadar sorunsuz ve verimli olmamıştı, engelleri ortadan kaldırıyor ve birbirine daha bağlı bir DeFi ekosistemini teşvik ediyor. Xenify'ı diğerlerinden ayıran göze çarpan bir özellik, toplayıcıların çapraz zincir meta toplayıcısı olmamızdır. Bu terim kulağa karmaşık gelse de, basitçe birden fazla çapraz zincir toplayıcıyı tek bir platformda bir araya getirdiğimiz anlamına gelir. Gelişmiş likidite toplama protokolümüzden yararlanarak, kullanıcıların blok zinciri ağları arasında geçiş yapma şeklini dönüştürebiliyoruz. Dahası, kullanıcılar ilgili zincirlerden günlük olarak yerel token kazanma fırsatına sahip olarak portföylerini daha da geliştiriyor. Kullanıcılarımız, 52 zincirdeki 27 toplayıcıdan rekabetçi oranlara ve olağanüstü likiditeye erişim sayesinde, varlıklarını yönetmede benzersiz avantajlardan ve gelişmiş esneklikten yararlanmaktadır.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenify, öz sermayeye ve uzun vadeli yatırımlara büyük önem vermektedir. Ku
 
 ## ♦️ Çapraz Zincir Değiştirme
 
-- Xenify, kullanıcıların sorunsuz çapraz zincir takasları gerçekleştirmesini sağlayarak 50 farklı zincirde token takasını hiç olmadığı kadar kolay hale getirir. Kolaylaştırılmış sürecimiz, zincirler arası token takaslarında yeni bir basitlik düzeyi sunuyor ve 27 toplayıcıya erişim sağlayarak mevcut en rekabetçi oranları garanti ederken, daha önce hiç olmadığı kadar verimli ve ödüllendirici bir deneyim sunuyor.
+- Xenify, kullanıcıların sorunsuz çapraz zincir takasları gerçekleştirmesini sağlayarak 52 farklı zincirde token takasını hiç olmadığı kadar kolay hale getirir. Kolaylaştırılmış sürecimiz, zincirler arası token takaslarında yeni bir basitlik düzeyi sunuyor ve 27 toplayıcıya erişim sağlayarak mevcut en rekabetçi oranları garanti ederken, daha önce hiç olmadığı kadar verimli ve ödüllendirici bir deneyim sunuyor.
 
 - Ama işte en iyi kısmı: Xenify kullanmanın benzersiz avantajlarından biri, kullanıcıların XNF'nin konuşlandırıldığı zincirlerde %0,5'lik takas ücretini her ödediklerinde, günlük takas açık artırması yoluyla XNF tokenları ile ödüllendirilmeleridir. Bu, kullanıcıların XNF token biriktirirken aynı zamanda zahmetsiz bir takas deneyiminin keyfini çıkarabileceği anlamına gelir.
 
@@ -318,7 +318,7 @@ Daha önceki kilitlemelerden elde ettikleri kazanç potansiyelini artırmak iste
 
 <br>
 
-Toplayıcıların nihai çapraz zincir toplayıcısı Xenify ile tanışın! Birden fazla zincirden geçen kullanıcılar için takas sürecini kolaylaştırmak üzere ustalıkla tasarlanan Xenify, benzersiz yetenekler sunar. Gelişmiş bir likidite toplama protokolü ile desteklenen Xenify, 27 farklı toplayıcıya bağlanarak 50 lider zincirde olağanüstü likidite ve rakipsiz oranlar sunar. İster Ethereum, BNB Chain, Polygon veya diğerleri arasında token takası yapmak isteyin, Xenify bunu zahmetsiz ve ödüllendirici hale getirir!
+Toplayıcıların nihai çapraz zincir toplayıcısı Xenify ile tanışın! Birden fazla zincirden geçen kullanıcılar için takas sürecini kolaylaştırmak üzere ustalıkla tasarlanan Xenify, benzersiz yetenekler sunar. Gelişmiş bir likidite toplama protokolü ile desteklenen Xenify, 27 farklı toplayıcıya bağlanarak 52 lider zincirde olağanüstü likidite ve rakipsiz oranlar sunar. İster Ethereum, BNB Chain, Polygon veya diğerleri arasında token takası yapmak isteyin, Xenify bunu zahmetsiz ve ödüllendirici hale getirir!
 
 Şu senaryoyu hayal edin: Ethereum üzerindeki Token-A'yı BNB Zinciri üzerindeki Token-B ile takas etmek istiyorsunuz. Xenify ile tek yapmanız gereken tek bir tıklama ve Ethereum üzerinde tek bir işlem. Artık farklı zincirlerde gezinme veya en iyi oranları arama zahmetine girmenize gerek yok - Xenify her şeyi hallederek size mevcut en uygun oranları sunar. Ancak Xenify'da zincirler arası takaslardan daha fazlası var; tüm katılımcılara fayda sağlayan çığır açan bir teşvik modeli içeren benzersiz tokenomiklere sahip, titizlikle tasarlanmış bir ekosistem.
 
@@ -328,7 +328,7 @@ Xenify'ın yerleşik takas ücreti mekanizması, platform kullanıcılarını g�
 
 Dahası, Xenify, kullanıcıların XNF basmak için XEN ve USDy tokenlerini yakmalarını sağlayan ustaca bir yakma mekanizmasına sahiptir. XEN yakma işlemi stratejik bir katman 1 yakıcı görevi görür ve işin heyecan verici kısmı da şudur: Yakma ücretlerinin %100'ü XNF staker'larına geri döner. Bu yaklaşım yalnızca uzun vadeli kullanıcı katılımını teşvik etmekle kalmıyor, aynı zamanda protokole derinden dahil olanlar için ödülleri de artırıyor.
 
-Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benzersiz tokenomics modeliyle birleştiğinde, tüm katılımcılara fayda sağlayan, özenle tasarlanmış bir ekosistem oluşturur. İster zincirler arası token takası yapıyor ister XNF basmak için token yakıyor olun, Xenify platformunda gerçekleştirdiğiniz her eylem karşılıklı bir ödül ve etkileşim ortamına katkıda bulunur. Önde gelen 50 zincir arasında token takası yaparken yalnızca benzersiz verimliliğin keyfini çıkarmakla kalmaz, aynı zamanda günlük olarak yerel zincir tokenları kazanma ve gelişen bir topluluğun parçası olma fırsatına da sahip olursunuz. Xenify gerçekten her iki dünyanın da en iyisini sunuyor: zahmetsiz zincirler arası token takası ve önemli kazanç potansiyeli.
+Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benzersiz tokenomics modeliyle birleştiğinde, tüm katılımcılara fayda sağlayan, özenle tasarlanmış bir ekosistem oluşturur. İster zincirler arası token takası yapıyor ister XNF basmak için token yakıyor olun, Xenify platformunda gerçekleştirdiğiniz her eylem karşılıklı bir ödül ve etkileşim ortamına katkıda bulunur. Önde gelen 52 zincir arasında token takası yaparken yalnızca benzersiz verimliliğin keyfini çıkarmakla kalmaz, aynı zamanda günlük olarak yerel zincir tokenları kazanma ve gelişen bir topluluğun parçası olma fırsatına da sahip olursunuz. Xenify gerçekten her iki dünyanın da en iyisini sunuyor: zahmetsiz zincirler arası token takası ve önemli kazanç potansiyeli.
 
 <br>
 
@@ -373,53 +373,55 @@ Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benz
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
 | 3   | Layer 1           | KCC           | https://www.kcc.io                    |
-| 4   | Layer 1           | Fuse          | https://fuse.io                       |
-| 5   | Layer 1           | Tron          | https://tron.network                  |
-| 6   | Layer 1           | Kava          | https://www.kava.io                   |
-| 7   | Layer 1           | Celo          | https://celo.org                      |
-| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 9   | Layer 2           | Boba          | https://boba.network                  |
-| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
-| 11  | Layer 1           | Velas         | https://www.velas.com                 |
-| 12  | Layer 1           | Telos         | https://telos.net                     |
-| 13  | Layer 1           | Tezos         | https://tezos.com                     |
-| 14  | Layer 2           | Metis         | https://metis.io                      |
-| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 16  | Layer 1           | Canto         | https://canto.io                      |
-| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 21  | Layer 2           | zkSync        | https://zksync.io                     |
-| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 24  | Layer 1           | Solana        | https://solana.com                    |
-| 25  | Layer 1           | Ripple        | https://ripple.com                    |
-| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 32  | Layer 2           | Polygon       | https://polygon.technology            |
-| 33  | Layer 1           | Arweave       | https://arweave.org                   |
-| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 39  | Layer 2           | Optimism      | https://optimism.io                   |
-| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 4   | Layer 2           | Base          | https://base.org                      |
+| 5   | Layer 1           | Fuse          | https://fuse.io                       |
+| 6   | Layer 1           | Tron          | https://tron.network                  |
+| 7   | Layer 1           | Kava          | https://www.kava.io                   |
+| 8   | Layer 1           | Celo          | https://celo.org                      |
+| 9   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 10  | Layer 2           | Boba          | https://boba.network                  |
+| 11  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 12  | Layer 1           | Velas         | https://www.velas.com                 |
+| 13  | Layer 1           | Telos         | https://telos.net                     |
+| 14  | Layer 2           | Linea         | https://linea.build                   |
+| 15  | Layer 1           | Tezos         | https://tezos.com                     |
+| 16  | Layer 2           | Metis         | https://metis.io                      |
+| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 18  | Layer 1           | Canto         | https://canto.io                      |
+| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 23  | Layer 2           | zkSync        | https://zksync.io                     |
+| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 26  | Layer 1           | Solana        | https://solana.com                    |
+| 27  | Layer 1           | Ripple        | https://ripple.com                    |
+| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 34  | Layer 2           | Polygon       | https://polygon.technology            |
+| 35  | Layer 1           | Arweave       | https://arweave.org                   |
+| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 41  | Layer 2           | Optimism      | https://optimism.io                   |
+| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 45  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -551,7 +553,7 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
 ## ♦️ XNF kazanmak için takas edin
 
-  - Xenify, 50 zincirde tek tıklamayla sorunsuz çapraz zincir işlemlerine olanak tanıyan çığır açan bir platformla oyunu yeniden tanımlarken, staker'lara günlük olarak yerel zincir token'ları kazanmak için heyecan verici bir fırsat sunuyor.
+  - Xenify, 52 zincirde tek tıklamayla sorunsuz çapraz zincir işlemlerine olanak tanıyan çığır açan bir platformla oyunu yeniden tanımlarken, staker'lara günlük olarak yerel zincir token'ları kazanmak için heyecan verici bir fırsat sunuyor.
 
   - Kullanıcılar, XNF'nin konuşlandırıldığı zincirlerde %0,5'lik takas ücretini her ödediklerinde, günlük takas açık artırması yoluyla XNF tokenları ile ödüllendirilirler. Bu benzersiz avantaj, kullanıcıların zahmetsiz bir takas deneyiminin keyfini çıkarırken aynı zamanda XNF tokenleri biriktirmelerini sağlar.
 
@@ -559,7 +561,7 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
   - Kullanıcılar, Xenify ile token takaslarına katılarak platformun büyümesinde önemli bir rol oynamaktadır. XNF'nin dağıtıldığı zincirlerde elde edilen takas ücretleri, söz konusu zincirdeki XNF stakerları arasında dağıtılır. XNF'nin henüz konuşlandırılmadığı zincirlerde, takas ücretleri ekip tarafından tanıtım çabalarını desteklemek ve Xenify ve bağlı tokenlerinin gelişimini ilerletmek için kullanılır. Bu, platformun daha fazla bilinirliğini ve daha geniş çapta benimsenmesini teşvik ederek tüm topluma fayda sağlar.
 
-  - Ayrıca, kullanıcılar desteklenen 50 zincirden herhangi birinde takas yaparak 1.500.000 XNF'lik özel bir airdrop için uygun hale gelirler. Her airdrop etkinliği, XNF'in konuşlandırılmasının planlandığı bir zincirde gerçekleşir ve lansmandan önceki 60 gün boyunca sürer. Bu süre zarfında yapılan tüm takaslar, kullanıcılara yaklaşan XNF airdrop'undan bir pay garanti eder. Başka bir deyişle, XNF'nin konuşlandırılmadığı zincirlerde takas gerçekleştirdiğinizde günlük XNF tahsisinden yararlanamasanız da, özel bir XNF airdrop'una dahil olma fırsatına sahip olursunuz.
+  - Ayrıca, kullanıcılar desteklenen 52 zincirden herhangi birinde takas yaparak 1.500.000 XNF'lik özel bir airdrop için uygun hale gelirler. Her airdrop etkinliği, XNF'in konuşlandırılmasının planlandığı bir zincirde gerçekleşir ve lansmandan önceki 60 gün boyunca sürer. Bu süre zarfında yapılan tüm takaslar, kullanıcılara yaklaşan XNF airdrop'undan bir pay garanti eder. Başka bir deyişle, XNF'nin konuşlandırılmadığı zincirlerde takas gerçekleştirdiğinizde günlük XNF tahsisinden yararlanamasanız da, özel bir XNF airdrop'una dahil olma fırsatına sahip olursunuz.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1193,7 +1195,7 @@ Xenify'ın misyonu, tüm çalışmalarımızda Kripto'nun İlk İlkelerini koruy
 
 Toplayıcıların çapraz zincir toplayıcısı olan Xenify, kullanıcıların token takaslarına katılma şeklini dönüştürmek için sıfırdan titizlikle inşa edilmiştir. Birincil odak noktası sorunsuz bir kullanıcı deneyimi sunmak, aktif topluluk üyelerini ödüllendirmek ve adil ve sürdürülebilir bir token dağıtım modeli oluşturmaktır. Xenify, yenilikçi tokenomiklerden yararlanarak, kullanıcıların ekosisteme aktif katılımına değer veren ve teşvik eden merkezi olmayan, topluluk odaklı bir platform kurmayı amaçlamaktadır.
 
-Xenify'ı diğerlerinden ayıran şey, 27 farklı toplayıcıya sorunsuz bir şekilde bağlanması ve önde gelen 50 zincirde rakipsiz fiyatlarla tek tıklamayla zahmetsizce takas imkanı sunmasıdır. Bununla birlikte, değeri sadece kolaylığın ötesine uzanmaktadır. Kendisini diğer borsalardan ayıran Xenify, platformda gerçekleştirilen her eylemin, katkı ve katılıma dayalı faydaların tahakkuk ettiği karşılıklı bir ortama katkıda bulunmasını sağlayarak kullanıcının benimsemesini kolaylaştırır.
+Xenify'ı diğerlerinden ayıran şey, 27 farklı toplayıcıya sorunsuz bir şekilde bağlanması ve önde gelen 52 zincirde rakipsiz fiyatlarla tek tıklamayla zahmetsizce takas imkanı sunmasıdır. Bununla birlikte, değeri sadece kolaylığın ötesine uzanmaktadır. Kendisini diğer borsalardan ayıran Xenify, platformda gerçekleştirilen her eylemin, katkı ve katılıma dayalı faydaların tahakkuk ettiği karşılıklı bir ortama katkıda bulunmasını sağlayarak kullanıcının benimsemesini kolaylaştırır.
 
 Xenify ile kullanıcılara her takasta XNF token kazanma fırsatı sunulmakta ve bu fırsat, kullanıcıların günlük olarak ETH, BNB ve MATIC gibi yerel zincir tokenleri kazanmalarını sağlayan yenilikçi bir stake modeliyle tamamlanmaktadır. Bu benzersiz teşvik modeli, Xenify'ı, kazanç potansiyellerini en üst düzeye çıkarırken zincirler arası takas sürecini basitleştirmek isteyenler için inkar edilemez bir şekilde en iyi seçenek olarak konumlandırıyor.
 
@@ -1304,7 +1306,7 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 
 ## ◽️ Xenify
 
-  - Xenify, token takas deneyiminde devrim yaratmak için tasarlanmış merkezi olmayan bir finans (DeFi) protokolüdür. Son teknoloji ürünü bir zincirler arası toplayıcı sunarak 50 farklı zincirde token takası yapmayı kolaylaştırır. Xenify, 27 toplayıcıdan en iyi rotalara ve en düşük ücretlere erişim sağlayarak, kullanıcıların desteklenen zincirler arasında sorunsuz bir şekilde token takas etmelerini sağlar. Daha bağlantılı ve kullanıcı dostu bir DeFi ekosistemi yaratmayı amaçlayarak adaleti, basitliği, şeffaflığı, kullanıcı yetkilendirmesini ve birlikte çalışabilirliği vurgular.
+  - Xenify, token takas deneyiminde devrim yaratmak için tasarlanmış merkezi olmayan bir finans (DeFi) protokolüdür. Son teknoloji ürünü bir zincirler arası toplayıcı sunarak 52 farklı zincirde token takası yapmayı kolaylaştırır. Xenify, 27 toplayıcıdan en iyi rotalara ve en düşük ücretlere erişim sağlayarak, kullanıcıların desteklenen zincirler arasında sorunsuz bir şekilde token takas etmelerini sağlar. Daha bağlantılı ve kullanıcı dostu bir DeFi ekosistemi yaratmayı amaçlayarak adaleti, basitliği, şeffaflığı, kullanıcı yetkilendirmesini ve birlikte çalışabilirliği vurgular.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
