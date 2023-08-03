@@ -56,7 +56,7 @@ Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xe
 
 제니파이는 크로스 체인 메타 애그리게이터로서 '스왑 투 적립'의 새로운 시대를 개척하고 있습니다. 당사의 획기적인 프로토콜은 독창적인 토큰노믹스와 고급 크로스체인 기능을 하나의 강력한 패키지에 원활하게 통합합니다. 참여에 적극적으로 보상하는 고유한 게임 이론 기반 인센티브 모델을 통합함으로써 제니파이는 크로스체인 스와핑의 세계에 지각변동을 일으킬 준비가 되어 있습니다. 우리의 사명은 분명합니다. 매우 효율적인 크로스체인 스왑 경험과 상당한 수익 창출 기회라는 두 가지 장점을 모두 제공함으로써 탈중앙 금융 환경을 혁신하는 것입니다.
 
-제니파이의 대담한 비전의 핵심은 크로스체인 토큰 스왑을 간소화하는 최첨단 유동성 집계 프로토콜입니다. 이더리움, BNB 체인, 폴리곤, 아리트럼 또는 지원되는 50개 체인에서 토큰을 스왑하고 싶으시다면 Xenify가 도와드리겠습니다. 27개의 다양한 어그리게이터에 액세스할 수 있는 Xenify는 스왑을 위한 탁월한 유동성과 최적의 금리를 보장합니다. 최첨단 API를 활용하여 다양한 DEX 애그리게이터와의 원활한 통신을 연결하여 스왑 경험을 획기적으로 개선하고 방대한 체인에서 최적의 스왑 경로를 찾는 과정을 간소화합니다.
+제니파이의 대담한 비전의 핵심은 크로스체인 토큰 스왑을 간소화하는 최첨단 유동성 집계 프로토콜입니다. 이더리움, BNB 체인, 폴리곤, 아리트럼 또는 지원되는 52개 체인에서 토큰을 스왑하고 싶으시다면 Xenify가 도와드리겠습니다. 27개의 다양한 어그리게이터에 액세스할 수 있는 Xenify는 스왑을 위한 탁월한 유동성과 최적의 금리를 보장합니다. 최첨단 API를 활용하여 다양한 DEX 애그리게이터와의 원활한 통신을 연결하여 스왑 경험을 획기적으로 개선하고 방대한 체인에서 최적의 스왑 경로를 찾는 과정을 간소화합니다.
 
 제니파이가 다른 크로스체인 스와핑 플랫폼과 차별화되는 점은 모든 참여자에게 상호 이익이 되는 환경을 조성하기 위해 노력한다는 점입니다. 지원되는 EVM 체인에서 스왑 수수료에 기여함으로써 XNF 토큰을 획득하고, 스왑 수수료의 100%는 XNF 스테이커에게 보상으로 분배됩니다. 또한, 제니파이는 XEN의 전략적 레이어 1 소각기 역할을 하여 XEN 보유자가 예측 가능한 비율로 손쉽게 보유 자산을 XNF로 전환할 수 있도록 합니다. 이 소각 과정에서 당사의 고유한 수수료 활용 알고리즘은 소각 수수료의 100%가 XNF 스테이커에게 보상으로 지급되도록 보장하며, 민트 수수료는 XNF 유동성 증가를 강화합니다. 이러한 윈윈 전략은 시장 활동과 관계없이 XNF 유동성의 지속적인 확산을 보장하는 동시에 제니파이의 헌신적인 참여자에 대한 보상을 강화합니다.
 
@@ -72,7 +72,7 @@ Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xe
 
 <br>
 
-제니파이는 단순히 경계를 허물기 위해 존재하는 것이 아니라, 디파이의 주류 채택을 가로막고 있는 장벽을 없애기 위해 존재합니다. 특별히 설계된 프로토콜은 50개 체인의 방대한 네트워크에서 토큰 전송을 혁신하는 동시에 여러 체인에 걸친 복잡한 토큰 스와핑의 세계를 탐색하는 사용자에게 유동적이고 원활한 경험을 보장합니다.
+제니파이는 단순히 경계를 허물기 위해 존재하는 것이 아니라, 디파이의 주류 채택을 가로막고 있는 장벽을 없애기 위해 존재합니다. 특별히 설계된 프로토콜은 52개 체인의 방대한 네트워크에서 토큰 전송을 혁신하는 동시에 여러 체인에 걸친 복잡한 토큰 스와핑의 세계를 탐색하는 사용자에게 유동적이고 원활한 경험을 보장합니다.
 
 크로스체인 스왑 어그리게이션의 진정한 선구자로서, 저희는 장벽을 허물기 위해 노력하고 있습니다. 저희는 수많은 EVM 체인에서 토큰을 쉽게 교환하고 스테이킹할 수 있는 직관적이고 안전하며 공정한 환경을 구축하고자 합니다. 우리의 임무는 끊임없이 혁신하고 제니파이의 기능을 개선하여 다양한 커뮤니티의 끊임없이 진화하는 요구에 적응하고 사용자 기반을 지속적으로 확장하는 것입니다.
 
@@ -140,7 +140,7 @@ Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xe
 
 ## ◽️ 고급 크로스체인 애그리게이터 기능
 
-제니파이를 사용하면 체인 간 스왑이 그 어느 때보다 원활하고 효율적으로 이루어져 장벽을 허물고 더욱 상호 연결된 디파이 생태계를 조성할 수 있습니다. 다른 애그리게이터와 차별화되는 제니파이의 두드러진 특징은 크로스체인 메타 애그리게이터라는 점입니다. 이 용어는 복잡하게 들릴 수 있지만, 간단히 말해 여러 크로스 체인 애그리게이터를 단일 플랫폼에 통합한다는 의미입니다. 저희는 고급 유동성 집계 프로토콜을 활용하여 사용자가 블록체인 네트워크 간에 전환하는 방식을 혁신할 수 있습니다. 또한 사용자는 매일 각 체인에서 네이티브 토큰을 획득할 수 있는 기회를 갖게 되어 포트폴리오를 더욱 강화할 수 있습니다. 50개 체인에 걸쳐 27개 어그리게이터가 제공하는 경쟁력 있는 이자율과 탁월한 유동성을 통해 사용자는 자산을 관리할 때 비교할 수 없는 혜택과 향상된 유연성을 누릴 수 있습니다.  
+제니파이를 사용하면 체인 간 스왑이 그 어느 때보다 원활하고 효율적으로 이루어져 장벽을 허물고 더욱 상호 연결된 디파이 생태계를 조성할 수 있습니다. 다른 애그리게이터와 차별화되는 제니파이의 두드러진 특징은 크로스체인 메타 애그리게이터라는 점입니다. 이 용어는 복잡하게 들릴 수 있지만, 간단히 말해 여러 크로스 체인 애그리게이터를 단일 플랫폼에 통합한다는 의미입니다. 저희는 고급 유동성 집계 프로토콜을 활용하여 사용자가 블록체인 네트워크 간에 전환하는 방식을 혁신할 수 있습니다. 또한 사용자는 매일 각 체인에서 네이티브 토큰을 획득할 수 있는 기회를 갖게 되어 포트폴리오를 더욱 강화할 수 있습니다. 52개 체인에 걸쳐 27개 어그리게이터가 제공하는 경쟁력 있는 이자율과 탁월한 유동성을 통해 사용자는 자산을 관리할 때 비교할 수 없는 혜택과 향상된 유연성을 누릴 수 있습니다.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Dayana Plaz • 공동 창립자 • <a href="mailto:dayana@xenify.io">dayana@xe
 
 ## ♦️ 교차 체인 스와핑
 
-- 제니파이를 통해 사용자는 원활한 크로스체인 스왑을 실행할 수 있으며, 50개의 서로 다른 체인에서 토큰을 교환하는 것이 그 어느 때보다 쉬워집니다. 간소화된 프로세스는 새로운 차원의 간소화된 크로스체인 토큰 스왑을 제공하며, 27개의 애그리게이터에 대한 액세스를 제공하여 가장 경쟁력 있는 가격을 보장하는 동시에 이전과는 다른 효율적이고 보람 있는 경험을 선사합니다.
+- 제니파이를 통해 사용자는 원활한 크로스체인 스왑을 실행할 수 있으며, 52개의 서로 다른 체인에서 토큰을 교환하는 것이 그 어느 때보다 쉬워집니다. 간소화된 프로세스는 새로운 차원의 간소화된 크로스체인 토큰 스왑을 제공하며, 27개의 애그리게이터에 대한 액세스를 제공하여 가장 경쟁력 있는 가격을 보장하는 동시에 이전과는 다른 효율적이고 보람 있는 경험을 선사합니다.
 
 - 하지만 여기에 가장 좋은 부분이 있습니다: 제니파이 사용의 독특한 장점 중 하나는 사용자가 XNF가 배포된 체인에서 0.5%의 스왑 수수료를 지불할 때마다 일일 스왑 경매를 통해 XNF 토큰으로 보상을 받는다는 점입니다. 즉, 사용자는 손쉽게 스왑 경험을 즐기면서 XNF 토큰을 축적할 수 있습니다.
 
@@ -318,7 +318,7 @@ XNF의 핵심은 제니파이 프로토콜 내에서 사용자 참여를 촉진�
 
 <br>
 
-최고의 크로스체인 애그리게이터인 Xenify를 소개합니다! 여러 체인을 넘나드는 사용자의 스와핑 프로세스를 간소화하도록 전문적으로 설계된 Xenify는 탁월한 기능을 제공합니다. 고급 유동성 집계 프로토콜로 구동되는 제니파이는 27개의 서로 다른 애그리게이터에 연결하여 50개의 주요 체인에 걸쳐 탁월한 유동성과 파격적인 환율을 제공합니다. 이더리움, BNB 체인, 폴리곤 또는 기타 여러 체인 간에 토큰을 교환하고 싶으시다면 제니파이를 통해 쉽고 보람 있게 교환할 수 있습니다!
+최고의 크로스체인 애그리게이터인 Xenify를 소개합니다! 여러 체인을 넘나드는 사용자의 스와핑 프로세스를 간소화하도록 전문적으로 설계된 Xenify는 탁월한 기능을 제공합니다. 고급 유동성 집계 프로토콜로 구동되는 제니파이는 27개의 서로 다른 애그리게이터에 연결하여 52개의 주요 체인에 걸쳐 탁월한 유동성과 파격적인 환율을 제공합니다. 이더리움, BNB 체인, 폴리곤 또는 기타 여러 체인 간에 토큰을 교환하고 싶으시다면 제니파이를 통해 쉽고 보람 있게 교환할 수 있습니다!
 
 이더리움의 토큰 A를 BNB 체인의 토큰 B로 거래하고자 하는 시나리오를 상상해 보세요. Xenify를 사용하면 클릭 한 번으로 이더리움에서 단 한 번의 트랜잭션만 하면 됩니다. 더 이상 여러 체인을 탐색하거나 최적의 환율을 검색하는 번거로움이 없습니다. Xenify가 모든 것을 처리하여 가장 유리한 환율을 제공합니다. 하지만 제니파이에는 크로스체인 스왑 외에도 모든 참여자에게 혜택을 주는 획기적인 인센티브 모델을 통합한 고유한 토큰노믹스로 세심하게 설계된 생태계가 있습니다.
 
@@ -328,7 +328,7 @@ XNF의 핵심은 제니파이 프로토콜 내에서 사용자 참여를 촉진�
 
 또한, 제니파이에는 독창적인 소각 메커니즘이 통합되어 있어 사용자가 XEN 및 USDy 토큰을 소각하여 XNF를 발행할 수 있습니다. XEN 소각 프로세스는 전략적 레이어 1 소각기 역할을 하며, 흥미로운 점은 소각 수수료의 100%가 XNF 스테이커에게 돌아간다는 점입니다. 이러한 접근 방식은 장기적인 사용자 참여를 장려할 뿐만 아니라 프로토콜에 깊이 관여하는 사람들에게 더 많은 보상을 제공합니다.
 
-스테이킹과 보상에 대한 제니파이의 혁신적인 접근 방식은 고유한 토큰노믹스 모델과 결합하여 모든 참여자에게 혜택을 주는 세심하게 설계된 생태계를 만들어냅니다. 크로스체인 토큰 스왑을 실행하든, 토큰을 소각하여 XNF를 발행하든, Xenify 플랫폼에서 수행하는 모든 작업은 보상과 참여의 상호적인 환경에 기여합니다. 50개 주요 체인에서 토큰을 교환할 때 비교할 수 없는 효율성을 누릴 수 있을 뿐만 아니라 매일 네이티브 체인 토큰을 획득하고 번성하는 커뮤니티의 일원이 될 수 있는 기회도 있습니다. 제니파이는 간편한 크로스체인 토큰 스와핑과 상당한 수익 잠재력이라는 두 가지 장점을 모두 제공합니다.
+스테이킹과 보상에 대한 제니파이의 혁신적인 접근 방식은 고유한 토큰노믹스 모델과 결합하여 모든 참여자에게 혜택을 주는 세심하게 설계된 생태계를 만들어냅니다. 크로스체인 토큰 스왑을 실행하든, 토큰을 소각하여 XNF를 발행하든, Xenify 플랫폼에서 수행하는 모든 작업은 보상과 참여의 상호적인 환경에 기여합니다. 52개 주요 체인에서 토큰을 교환할 때 비교할 수 없는 효율성을 누릴 수 있을 뿐만 아니라 매일 네이티브 체인 토큰을 획득하고 번성하는 커뮤니티의 일원이 될 수 있는 기회도 있습니다. 제니파이는 간편한 크로스체인 토큰 스와핑과 상당한 수익 잠재력이라는 두 가지 장점을 모두 제공합니다.
 
 <br>
 
@@ -368,58 +368,60 @@ XNF의 핵심은 제니파이 프로토콜 내에서 사용자 참여를 촉진�
 
 ## ◽️ 지원되는 체인
 
-| 번호 | 체인 종류            | 체인 이름       | 체인 웹사이트                            |
+| 번호| 체인 종류          | 체인 이름      | 체인 웹사이트                          |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
 | 3   | Layer 1           | KCC           | https://www.kcc.io                    |
-| 4   | Layer 1           | Fuse          | https://fuse.io                       |
-| 5   | Layer 1           | Tron          | https://tron.network                  |
-| 6   | Layer 1           | Kava          | https://www.kava.io                   |
-| 7   | Layer 1           | Celo          | https://celo.org                      |
-| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 9   | Layer 2           | Boba          | https://boba.network                  |
-| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
-| 11  | Layer 1           | Velas         | https://www.velas.com                 |
-| 12  | Layer 1           | Telos         | https://telos.net                     |
-| 13  | Layer 1           | Tezos         | https://tezos.com                     |
-| 14  | Layer 2           | Metis         | https://metis.io                      |
-| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 16  | Layer 1           | Canto         | https://canto.io                      |
-| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 21  | Layer 2           | zkSync        | https://zksync.io                     |
-| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 24  | Layer 1           | Solana        | https://solana.com                    |
-| 25  | Layer 1           | Ripple        | https://ripple.com                    |
-| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 32  | Layer 2           | Polygon       | https://polygon.technology            |
-| 33  | Layer 1           | Arweave       | https://arweave.org                   |
-| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 39  | Layer 2           | Optimism      | https://optimism.io                   |
-| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 4   | Layer 2           | Base          | https://base.org                      |
+| 5   | Layer 1           | Fuse          | https://fuse.io                       |
+| 6   | Layer 1           | Tron          | https://tron.network                  |
+| 7   | Layer 1           | Kava          | https://www.kava.io                   |
+| 8   | Layer 1           | Celo          | https://celo.org                      |
+| 9   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 10  | Layer 2           | Boba          | https://boba.network                  |
+| 11  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 12  | Layer 1           | Velas         | https://www.velas.com                 |
+| 13  | Layer 1           | Telos         | https://telos.net                     |
+| 14  | Layer 2           | Linea         | https://linea.build                   |
+| 15  | Layer 1           | Tezos         | https://tezos.com                     |
+| 16  | Layer 2           | Metis         | https://metis.io                      |
+| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 18  | Layer 1           | Canto         | https://canto.io                      |
+| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 23  | Layer 2           | zkSync        | https://zksync.io                     |
+| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 26  | Layer 1           | Solana        | https://solana.com                    |
+| 27  | Layer 1           | Ripple        | https://ripple.com                    |
+| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 34  | Layer 2           | Polygon       | https://polygon.technology            |
+| 35  | Layer 1           | Arweave       | https://arweave.org                   |
+| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 41  | Layer 2           | Optimism      | https://optimism.io                   |
+| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 45  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -552,7 +554,7 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 ## ♦️ 스왑하여 XNF 적립하기
 
-  - 제니파이는 50개 체인에서 원클릭 크로스체인 거래를 원활하게 지원하는 획기적인 플랫폼으로 게임을 재정의하는 동시에 스테이커들에게 매일 네이티브 체인 토큰을 획득할 수 있는 흥미로운 기회를 제공하고 있습니다.
+  - 제니파이는 52개 체인에서 원클릭 크로스체인 거래를 원활하게 지원하는 획기적인 플랫폼으로 게임을 재정의하는 동시에 스테이커들에게 매일 네이티브 체인 토큰을 획득할 수 있는 흥미로운 기회를 제공하고 있습니다.
 
   - XNF가 배포된 체인에서 사용자가 0.5%의 스왑 수수료를 지불할 때마다 일일 스왑 경매를 통해 XNF 토큰을 보상으로 받게 됩니다. 이 독특한 이점을 통해 사용자는 손쉽게 스왑 경험을 즐기면서 동시에 XNF 토큰을 축적할 수 있습니다.
 
@@ -560,7 +562,7 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
   - 사용자는 제니파이와 토큰 스왑에 참여함으로써 플랫폼의 성장을 주도하는 중추적인 역할을 합니다. XNF가 배포된 체인에서 생성된 스왑 수수료는 해당 특정 체인의 XNF 스테이커에게 분배됩니다. XNF가 아직 배포되지 않은 체인의 경우, 스왑 수수료는 팀이 홍보 활동을 지원하고 제니파이 및 관련 토큰의 개발을 발전시키는 데 활용됩니다. 이는 플랫폼에 대한 인지도를 높이고 더 폭넓은 채택을 촉진하여 전체 커뮤니티에 혜택을 줍니다.
 
-  - 또한, 지원되는 50개 체인 중 하나에서 스왑에 참여하면 사용자는 1,500,000 XNF의 독점 에어드랍을 받을 수 있습니다. 각 에어드랍 이벤트는 XNF가 배포될 예정인 체인에서 진행되며, 출시 전 60일 동안 지속됩니다. 이 기간 동안 진행되는 모든 스왑은 사용자에게 다가오는 XNF 에어드랍의 지분을 보장합니다. 즉, XNF가 배포되지 않은 체인에서 스왑을 실행하면 일일 XNF 할당의 혜택을 받지 못하더라도 독점 XNF 에어드랍에 포함될 수 있는 기회가 있습니다.
+  - 또한, 지원되는 52개 체인 중 하나에서 스왑에 참여하면 사용자는 1,500,000 XNF의 독점 에어드랍을 받을 수 있습니다. 각 에어드랍 이벤트는 XNF가 배포될 예정인 체인에서 진행되며, 출시 전 60일 동안 지속됩니다. 이 기간 동안 진행되는 모든 스왑은 사용자에게 다가오는 XNF 에어드랍의 지분을 보장합니다. 즉, XNF가 배포되지 않은 체인에서 스왑을 실행하면 일일 XNF 할당의 혜택을 받지 못하더라도 독점 XNF 에어드랍에 포함될 수 있는 기회가 있습니다.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1193,7 +1195,7 @@ Xenify에서는 프로토콜의 안전성과 신뢰성을 최대한 보장하기
 
 크로스체인 애그리게이터인 제니파이는 사용자가 토큰 스왑에 참여하는 방식을 혁신하기 위해 처음부터 세심하게 구축되었습니다. 원활한 사용자 경험을 제공하고, 활동적인 커뮤니티 회원에게 보상을 제공하며, 공정하고 지속 가능한 토큰 분배 모델을 구축하는 데 중점을 두고 있습니다. 혁신적인 토큰노믹스를 활용함으로써 제니파이는 생태계 내에서 사용자의 적극적인 참여를 소중히 여기고 장려하는 탈중앙화된 커뮤니티 중심 플랫폼을 구축하고자 합니다.
 
-27개의 서로 다른 애그리게이터에 원활하게 연결되어 50개의 주요 체인에서 탁월한 가격으로 클릭 한 번으로 손쉽게 스왑할 수 있다는 점이 Xenify를 차별화하는 요소입니다. 하지만 그 가치는 단순한 편의성 그 이상입니다. 다른 거래소와 차별화되는 제니파이는 플랫폼에서 이루어지는 모든 행동이 기여와 참여에 따라 혜택이 발생하는 호혜적인 환경에 기여하도록 보장함으로써 사용자 채택을 촉진합니다.
+27개의 서로 다른 애그리게이터에 원활하게 연결되어 52개의 주요 체인에서 탁월한 가격으로 클릭 한 번으로 손쉽게 스왑할 수 있다는 점이 Xenify를 차별화하는 요소입니다. 하지만 그 가치는 단순한 편의성 그 이상입니다. 다른 거래소와 차별화되는 제니파이는 플랫폼에서 이루어지는 모든 행동이 기여와 참여에 따라 혜택이 발생하는 호혜적인 환경에 기여하도록 보장함으로써 사용자 채택을 촉진합니다.
 
 제니파이를 통해 사용자는 스왑할 때마다 XNF 토큰을 획득할 수 있는 독점적인 기회를 얻게 되며, 매일 이더리움, 비트코인, 마틱과 같은 네이티브 체인 토큰을 획득할 수 있는 혁신적인 스테이킹 모델을 통해 이를 보완합니다. 이 독특한 인센티브 모델은 크로스체인 스와핑 프로세스를 간소화하면서 수익 잠재력을 극대화하고자 하는 사람들에게 최고의 선택으로 자리매김하고 있습니다.
 
@@ -1304,7 +1306,7 @@ Xenify와 그 기능 및 잠재력에 대해 궁금한 점이 있을 수 있다�
 
 ## ◽️ Xenify
 
-  - 제니파이는 토큰 스왑 경험을 혁신하기 위해 설계된 탈중앙화 금융(DeFi) 프로토콜입니다. 최첨단 크로스체인 어그리게이터를 제공하여 50개의 서로 다른 체인에서 토큰을 쉽게 교환할 수 있습니다. 27개 애그리게이터에서 제공하는 최적의 경로와 최저 수수료를 통해 사용자는 지원되는 체인 간에 토큰을 원활하게 교환할 수 있습니다. 공정성, 단순성, 투명성, 사용자 권한 부여, 상호운용성을 강조하며 보다 연결되고 사용자 친화적인 탈중앙 금융 생태계를 만드는 것을 목표로 합니다.
+  - 제니파이는 토큰 스왑 경험을 혁신하기 위해 설계된 탈중앙화 금융(DeFi) 프로토콜입니다. 최첨단 크로스체인 어그리게이터를 제공하여 52개의 서로 다른 체인에서 토큰을 쉽게 교환할 수 있습니다. 27개 애그리게이터에서 제공하는 최적의 경로와 최저 수수료를 통해 사용자는 지원되는 체인 간에 토큰을 원활하게 교환할 수 있습니다. 공정성, 단순성, 투명성, 사용자 권한 부여, 상호운용성을 강조하며 보다 연결되고 사용자 친화적인 탈중앙 금융 생태계를 만드는 것을 목표로 합니다.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
