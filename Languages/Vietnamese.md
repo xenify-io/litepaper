@@ -544,6 +544,20 @@ Xenify đang chuẩn bị phát triển mạnh mẽ, mở rộng quy mô một l
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ♦️ Chuyển đổi để kiếm XNF 
+
+- Xenify đang định nghĩa lại trò chơi với một nền tảng đột phá cho phép giao dịch chéo chuỗi một cú nhấp chuột liền mạch trên 52 chuỗi, đồng thời cung cấp cho người đặt cược cơ hội thú vị để kiếm được thẻ chuỗi bản địa hàng ngày.
+
+- Mỗi lần người dùng trả khoản phí trao đổi 0,5% trên các chuỗi mà XNF đã được triển khai, họ được thưởng bằng các token XN F thông qua cuộc đấu giá trao đổi hàng ngày. Lợi thế độc đáo này cho phép người dùng tận hưởng trải nghiệm trao đổi dễ dàng trong khi đồng thời tích lũy các token XNF.
+
+- Nhưng phần thưởng không dừng lại ở đó. Bằng cách đặt cược các token XNF này, người dùng có cơ hội để rake trong token chuỗi bản địa như BNB, ETH, và MATIC trên cơ sở hàng ngày. Những phần thưởng chuỗi bản địa này có nguồn gốc từ nhiều nguồn, bao gồm phí trao đổi và phí đốt. Kết quả là, người dùng không chỉ có thể tận hưởng hiệu quả và mức giá cạnh tranh mà còn có quyền truy cập vào một hệ thống phần thưởng năng động và bền vững giúp nâng cao danh mục đầu tư của họ.
+
+- Bằng cách tham gia trao đổi token với Xenify, người dùng đóng một vai trò quan trọng trong việc thúc đẩy sự phát triển của nền tảng. Các khoản phí trao đổi được tạo ra trên các chuỗi mà XNF đã được triển khai được phân phối giữa các bên tham gia vào chuỗi đó. Đối với các chuỗi mà XNF vẫn chưa được triển khai, các khoản phí trao đổi được sử dụng bởi nhóm để hỗ trợ các nỗ lực quảng cáo và thúc đẩy sự phát triển của Xenify và các token liên kết của nó. Điều này thúc đẩy sự nhận thức và chấp nhận rộng rãi hơn về nền tảng, mang lại lợi ích cho toàn bộ cộng đồng.
+
+- Hơn nữa, bằng cách tham gia trao đổi trên bất kỳ chuỗi nào trong số 52 chuỗi được hỗ trợ, người dùng trở thành đủ điều kiện cho một chuyến bay độc quyền 1.500.000 XNF. Mỗi sự kiện máy bay rơi diễn ra trên một chuỗi nơi mà XNF được lên kế hoạch triển khai và kéo dài trong 60 ngày trước khi phóng. Tất cả các trao đổi được thực hiện trong khoảng thời gian này đảm bảo người dùng một phần của XNF airdrop sắp tới. Nói cách khác, ngay cả khi bạn không được hưởng lợi từ việc phân bổ hàng ngày XNF khi bạn thực hiện trao đổi trên các chuỗi mà không được triển khai, bạn vẫn có cơ hội được bao gồm trong một chiếc máy bay độc quyền.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ♦️ Stake XNF để kiếm token gốc
 
   - Tách biệt với các tổng hợp viên thông thường, Xenify tự hào về mô hình khuyến khích tiên tiến của mình, trao quyền cho người dùng nền tảng thực hiện các hoán đổi trôi chảy và bắt đầu hành trình được thưởng bằng cách kiếm phần thưởng mỗi chu kỳ dựa trên XNF đã stake của họ. Những phần thưởng này được phân phối dưới dạng các token chuỗi gốc - một tài sản rất thanh khoản - tín hiệu hóa một lợi nhuận tiềm năng hấp dẫn cho những người stake XNF.
