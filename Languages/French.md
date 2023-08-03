@@ -56,7 +56,7 @@ Bienvenue chez Xenify ! Nous sommes le point de rencontre de l'innovation, de la
 
 Xenify est un méta-agrégateur d'agrégateurs inter-chaînes, pionnier d'une nouvelle ère de "Swap to Earn" (échanger pour gagner). Notre protocole révolutionnaire intègre de manière transparente une tokenomique inventive et une fonctionnalité cross-chain avancée dans un ensemble unique et puissant. En incorporant un modèle incitatif unique, basé sur la théorie des jeux, qui récompense activement l'engagement, Xenify est prêt à provoquer un changement sismique dans le monde de l'échange entre chaînes. Notre mission est claire : révolutionner le paysage DeFi en offrant le meilleur des deux mondes : une expérience d'échange cross-chain ultra-efficace et des opportunités de gains substantielles.
 
-Au cœur de la vision audacieuse de Xenify se trouve un protocole d'agrégation de liquidités de pointe qui rationalise les échanges de jetons entre chaînes. Que vous souhaitiez échanger des jetons sur Ethereum, BNB Chain, Polygon, Arbitrum ou l'une des 50 chaînes prises en charge, Xenify vous couvre. Avec un accès à 27 agrégateurs différents, Xenify garantit une liquidité inégalée et des taux optimaux pour vos swaps. En s'appuyant sur des API de pointe, Xenify établit une communication transparente avec un large éventail d'agrégateurs DEX, ce qui améliore considérablement l'expérience d'échange et simplifie la recherche d'itinéraires d'échange optimaux dans la vaste mosaïque de chaînes.
+Au cœur de la vision audacieuse de Xenify se trouve un protocole d'agrégation de liquidités de pointe qui rationalise les échanges de jetons entre chaînes. Que vous souhaitiez échanger des jetons sur Ethereum, BNB Chain, Polygon, Arbitrum ou l'une des 52 chaînes prises en charge, Xenify vous couvre. Avec un accès à 27 agrégateurs différents, Xenify garantit une liquidité inégalée et des taux optimaux pour vos swaps. En s'appuyant sur des API de pointe, Xenify établit une communication transparente avec un large éventail d'agrégateurs DEX, ce qui améliore considérablement l'expérience d'échange et simplifie la recherche d'itinéraires d'échange optimaux dans la vaste mosaïque de chaînes.
 
 Ce qui distingue Xenify des autres plateformes d'échange entre chaînes est son engagement à créer un environnement mutuellement bénéfique pour tous les participants. En contribuant aux frais d'échange sur les chaînes EVM prises en charge, vous gagnez des jetons XNF, tandis que 100 % de vos frais d'échange sont distribués sous forme de récompenses aux détenteurs de XNF. De plus, Xenify sert de brûleur stratégique de couche 1 de XEN, permettant aux détenteurs de XEN de convertir sans effort leurs avoirs en XNF à un taux prévisible. Tout au long de ce processus de combustion, notre algorithme unique d'utilisation des frais garantit que 100 % des frais de combustion sont utilisés pour récompenser les détenteurs de XNF, tandis que les frais de menthe soutiennent la croissance de la liquidité du XNF. Cette stratégie gagnant-gagnant assure une prolifération constante de la liquidité XNF, quelle que soit l'activité du marché, tout en améliorant les récompenses pour les participants dévoués de Xenify.
 
@@ -72,7 +72,7 @@ En réunissant notre agrégation de liquidité de pointe et notre tokenomique di
 
 <br>
 
-Xenify n'est pas seulement là pour repousser les limites - nous avons pour mission d'éliminer les barrières qui ont freiné l'adoption du DeFi par le grand public. Notre protocole est conçu pour révolutionner les transferts de jetons à travers un vaste réseau de 50 chaînes, tout en garantissant une expérience fluide et transparente pour les utilisateurs qui naviguent dans le monde complexe de l'échange de jetons à travers plusieurs chaînes.
+Xenify n'est pas seulement là pour repousser les limites - nous avons pour mission d'éliminer les barrières qui ont freiné l'adoption du DeFi par le grand public. Notre protocole est conçu pour révolutionner les transferts de jetons à travers un vaste réseau de 52 chaînes, tout en garantissant une expérience fluide et transparente pour les utilisateurs qui naviguent dans le monde complexe de l'échange de jetons à travers plusieurs chaînes.
 
 En tant que véritables pionniers de l'agrégation de swaps entre chaînes, notre engagement à faire tomber les barrières est profond. Nous aspirons à créer un environnement intuitif, sécurisé et équitable dans lequel l'échange et la mise en jeu de jetons sur un grand nombre de chaînes EVM se font sans effort. Notre mission est d'innover et d'affiner en permanence les fonctionnalités de Xenify, en nous adaptant aux besoins en constante évolution de notre communauté diversifiée et en élargissant continuellement notre base d'utilisateurs.
 
@@ -140,7 +140,7 @@ Xenify se distingue dans l'espace DeFi par son engagement inébranlable en faveu
 
 ## ◽️ Capacités avancées d'agrégation inter-chaînes
 
-Avec Xenify, le passage d'une chaîne à l'autre n'a jamais été aussi transparent et efficace, ce qui permet de faire tomber les barrières et de favoriser un écosystème DeFi plus interconnecté. L'une des caractéristiques qui distingue Xenify des autres est que nous sommes un méta-agrégateur d'agrégateurs inter-chaînes. Bien que ce terme puisse paraître complexe, il signifie simplement que nous rassemblons plusieurs agrégateurs inter-chaînes sur une seule plateforme. En tirant parti de notre protocole avancé d'agrégation des liquidités, nous sommes en mesure de transformer la façon dont les utilisateurs passent d'un réseau blockchain à l'autre. En outre, les utilisateurs ont la possibilité de gagner des jetons natifs des chaînes respectives sur une base quotidienne, ce qui améliore encore leur portefeuille. Avec l'accès à des taux compétitifs et à une liquidité exceptionnelle de 27 agrégateurs à travers 50 chaînes, nos utilisateurs bénéficient d'avantages inégalés et d'une flexibilité accrue dans la gestion de leurs actifs.  
+Avec Xenify, le passage d'une chaîne à l'autre n'a jamais été aussi transparent et efficace, ce qui permet de faire tomber les barrières et de favoriser un écosystème DeFi plus interconnecté. L'une des caractéristiques qui distingue Xenify des autres est que nous sommes un méta-agrégateur d'agrégateurs inter-chaînes. Bien que ce terme puisse paraître complexe, il signifie simplement que nous rassemblons plusieurs agrégateurs inter-chaînes sur une seule plateforme. En tirant parti de notre protocole avancé d'agrégation des liquidités, nous sommes en mesure de transformer la façon dont les utilisateurs passent d'un réseau blockchain à l'autre. En outre, les utilisateurs ont la possibilité de gagner des jetons natifs des chaînes respectives sur une base quotidienne, ce qui améliore encore leur portefeuille. Avec l'accès à des taux compétitifs et à une liquidité exceptionnelle de 27 agrégateurs à travers 52 chaînes, nos utilisateurs bénéficient d'avantages inégalés et d'une flexibilité accrue dans la gestion de leurs actifs.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 ## ♦️ Échange de chaînes croisées
 
-- Xenify permet aux utilisateurs d'exécuter des swaps inter-chaînes transparents, facilitant plus que jamais l'échange de jetons entre 50 chaînes différentes. Notre processus rationalisé offre un nouveau niveau de simplicité dans les échanges de jetons entre chaînes et donne accès à 27 agrégateurs, garantissant les taux les plus compétitifs disponibles, tout en offrant une expérience efficace et gratifiante comme jamais auparavant.
+- Xenify permet aux utilisateurs d'exécuter des swaps inter-chaînes transparents, facilitant plus que jamais l'échange de jetons entre 52 chaînes différentes. Notre processus rationalisé offre un nouveau niveau de simplicité dans les échanges de jetons entre chaînes et donne accès à 27 agrégateurs, garantissant les taux les plus compétitifs disponibles, tout en offrant une expérience efficace et gratifiante comme jamais auparavant.
 
 - Mais voici le meilleur : L'un des avantages uniques de l'utilisation de Xenify est que chaque fois que les utilisateurs paient les frais d'échange de 0,5 % sur les chaînes où le XNF est déployé, ils sont récompensés par des jetons XNF dans le cadre d'une vente aux enchères d'échange quotidienne. Cela signifie que les utilisateurs peuvent profiter d'une expérience d'échange sans effort tout en accumulant des jetons XNF.
 
@@ -318,7 +318,7 @@ Pour les utilisateurs qui aspirent à augmenter leur potentiel de gain à partir
 
 <br>
 
-Voici Xenify, l'ultime agrégateur d'agrégateurs inter-chaînes ! Conçu pour rationaliser le processus d'échange pour les utilisateurs traversant plusieurs chaînes, Xenify offre des capacités inégalées. Alimenté par un protocole avancé d'agrégation de liquidités, Xenify se connecte à 27 agrégateurs différents, offrant une liquidité exceptionnelle et des taux imbattables sur 50 chaînes de premier plan. Que vous souhaitiez échanger des jetons entre Ethereum, BNB Chain, Polygon ou bien d'autres, Xenify vous permet de le faire sans effort et de manière gratifiante !
+Voici Xenify, l'ultime agrégateur d'agrégateurs inter-chaînes ! Conçu pour rationaliser le processus d'échange pour les utilisateurs traversant plusieurs chaînes, Xenify offre des capacités inégalées. Alimenté par un protocole avancé d'agrégation de liquidités, Xenify se connecte à 27 agrégateurs différents, offrant une liquidité exceptionnelle et des taux imbattables sur 52 chaînes de premier plan. Que vous souhaitiez échanger des jetons entre Ethereum, BNB Chain, Polygon ou bien d'autres, Xenify vous permet de le faire sans effort et de manière gratifiante !
 
 Imaginez ce scénario : vous voulez échanger le Token-A sur Ethereum contre le Token-B sur BNB Chain. Avec Xenify, il suffit d'un seul clic et d'une seule transaction sur Ethereum. Plus besoin de naviguer entre les différentes chaînes ou de chercher les meilleurs taux - Xenify s'occupe de tout, en vous fournissant les taux les plus favorables disponibles. Il s'agit d'un écosystème méticuleusement conçu avec une tokenomique unique, incorporant un modèle d'incitation révolutionnaire qui profite à tous les participants.
 
@@ -328,7 +328,7 @@ Voici comment cela fonctionne : Lorsque vous payez les frais de swap de 0,5 % po
 
 De plus, Xenify intègre un mécanisme de combustion ingénieux qui permet aux utilisateurs de brûler des jetons XEN et USDy pour frapper du XNF. Le processus de combustion du XEN agit comme un brûleur stratégique de niveau 1, et voici la partie la plus intéressante : 100 % des frais de combustion sont reversés aux créateurs de XNF. Cette approche encourage non seulement l'engagement à long terme des utilisateurs, mais améliore également les récompenses pour ceux qui sont profondément impliqués dans le protocole.
 
-L'approche innovante de Xenify en matière de staking et de récompenses, combinée à son modèle tokenomique unique, crée un écosystème bien pensé qui profite à tous les participants. Que vous exécutiez des échanges de jetons entre chaînes ou que vous brûliez des jetons pour monnayer du XNF, chaque action que vous entreprenez sur la plateforme Xenify contribue à un environnement réciproque de récompenses et d'engagement. Vous bénéficiez non seulement d'une efficacité inégalée lors de l'échange de jetons entre 50 chaînes de premier plan, mais vous avez également la possibilité de gagner quotidiennement des jetons de chaînes natives et de faire partie d'une communauté florissante. Xenify offre vraiment le meilleur des deux mondes : un échange de jetons entre chaînes sans effort et un potentiel de gain important.
+L'approche innovante de Xenify en matière de staking et de récompenses, combinée à son modèle tokenomique unique, crée un écosystème bien pensé qui profite à tous les participants. Que vous exécutiez des échanges de jetons entre chaînes ou que vous brûliez des jetons pour monnayer du XNF, chaque action que vous entreprenez sur la plateforme Xenify contribue à un environnement réciproque de récompenses et d'engagement. Vous bénéficiez non seulement d'une efficacité inégalée lors de l'échange de jetons entre 52 chaînes de premier plan, mais vous avez également la possibilité de gagner quotidiennement des jetons de chaînes natives et de faire partie d'une communauté florissante. Xenify offre vraiment le meilleur des deux mondes : un échange de jetons entre chaînes sans effort et un potentiel de gain important.
 
 <br>
 
@@ -373,53 +373,55 @@ L'approche innovante de Xenify en matière de staking et de récompenses, combin
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
 | 3   | Layer 1           | KCC           | https://www.kcc.io                    |
-| 4   | Layer 1           | Fuse          | https://fuse.io                       |
-| 5   | Layer 1           | Tron          | https://tron.network                  |
-| 6   | Layer 1           | Kava          | https://www.kava.io                   |
-| 7   | Layer 1           | Celo          | https://celo.org                      |
-| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 9   | Layer 2           | Boba          | https://boba.network                  |
-| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
-| 11  | Layer 1           | Velas         | https://www.velas.com                 |
-| 12  | Layer 1           | Telos         | https://telos.net                     |
-| 13  | Layer 1           | Tezos         | https://tezos.com                     |
-| 14  | Layer 2           | Metis         | https://metis.io                      |
-| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 16  | Layer 1           | Canto         | https://canto.io                      |
-| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 21  | Layer 2           | zkSync        | https://zksync.io                     |
-| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 24  | Layer 1           | Solana        | https://solana.com                    |
-| 25  | Layer 1           | Ripple        | https://ripple.com                    |
-| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 32  | Layer 2           | Polygon       | https://polygon.technology            |
-| 33  | Layer 1           | Arweave       | https://arweave.org                   |
-| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 39  | Layer 2           | Optimism      | https://optimism.io                   |
-| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 4   | Layer 2           | Base          | https://base.org                      |
+| 5   | Layer 1           | Fuse          | https://fuse.io                       |
+| 6   | Layer 1           | Tron          | https://tron.network                  |
+| 7   | Layer 1           | Kava          | https://www.kava.io                   |
+| 8   | Layer 1           | Celo          | https://celo.org                      |
+| 9   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 10  | Layer 2           | Boba          | https://boba.network                  |
+| 11  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 12  | Layer 1           | Velas         | https://www.velas.com                 |
+| 13  | Layer 1           | Telos         | https://telos.net                     |
+| 14  | Layer 2           | Linea         | https://linea.build                   |
+| 15  | Layer 1           | Tezos         | https://tezos.com                     |
+| 16  | Layer 2           | Metis         | https://metis.io                      |
+| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 18  | Layer 1           | Canto         | https://canto.io                      |
+| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 23  | Layer 2           | zkSync        | https://zksync.io                     |
+| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 26  | Layer 1           | Solana        | https://solana.com                    |
+| 27  | Layer 1           | Ripple        | https://ripple.com                    |
+| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 34  | Layer 2           | Polygon       | https://polygon.technology            |
+| 35  | Layer 1           | Arweave       | https://arweave.org                   |
+| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 41  | Layer 2           | Optimism      | https://optimism.io                   |
+| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 45  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -551,7 +553,7 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 ## ♦️ Échanger pour gagner XNF
 
-  - Xenify redéfinit le jeu avec une plateforme révolutionnaire qui permet des transactions transparentes en un seul clic entre 50 chaînes, tout en offrant aux stakers la possibilité de gagner quotidiennement des jetons de chaînes natives.
+  - Xenify redéfinit le jeu avec une plateforme révolutionnaire qui permet des transactions transparentes en un seul clic entre 52 chaînes, tout en offrant aux stakers la possibilité de gagner quotidiennement des jetons de chaînes natives.
 
   - Chaque fois que les utilisateurs paient les frais d'échange de 0,5 % sur les chaînes où le XNF a été déployé, ils sont récompensés par des jetons XNF dans le cadre de l'enchère d'échange quotidienne. Cet avantage unique permet aux utilisateurs de profiter d'une expérience d'échange sans effort tout en accumulant des jetons XNF.
 
@@ -559,7 +561,7 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
   - En participant aux échanges de jetons avec Xenify, les utilisateurs jouent un rôle essentiel dans la croissance de la plateforme. Les frais d'échange générés sur les chaînes où le XNF a été déployé sont distribués aux stakers XNF sur cette chaîne spécifique. Pour les chaînes où le XNF n'a pas encore été déployé, les frais d'échange sont utilisés par l'équipe pour soutenir les efforts de promotion et faire progresser le développement de Xenify et de ses jetons affiliés. Cela favorise une plus grande sensibilisation et une adoption plus large de la plateforme, ce qui profite à l'ensemble de la communauté.
 
-  - De plus, en effectuant des échanges sur l'une des 50 chaînes prises en charge, les utilisateurs peuvent bénéficier d'un largage exclusif de 1 500 000 XNF. Chaque événement de largage a lieu sur une chaîne où le déploiement de XNF est prévu et dure 60 jours avant le lancement. Tous les échanges effectués pendant cette période garantissent aux utilisateurs une part du prochain largage de XNF. En d'autres termes, même si vous ne bénéficiez pas d'une allocation quotidienne de XNF lorsque vous exécutez des swaps sur des chaînes où le XNF n'a pas été déployé, vous avez toujours la possibilité de participer à un airdrop exclusif de XNF.
+  - De plus, en effectuant des échanges sur l'une des 52 chaînes prises en charge, les utilisateurs peuvent bénéficier d'un largage exclusif de 1 500 000 XNF. Chaque événement de largage a lieu sur une chaîne où le déploiement de XNF est prévu et dure 60 jours avant le lancement. Tous les échanges effectués pendant cette période garantissent aux utilisateurs une part du prochain largage de XNF. En d'autres termes, même si vous ne bénéficiez pas d'une allocation quotidienne de XNF lorsque vous exécutez des swaps sur des chaînes où le XNF n'a pas été déployé, vous avez toujours la possibilité de participer à un airdrop exclusif de XNF.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1301,7 +1303,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 ## ◽️ Xenify
 
-  - Xenify est un protocole de finance décentralisée (DeFi) conçu pour révolutionner l'expérience d'échange de jetons. Il offre un agrégateur inter-chaînes de pointe, facilitant l'échange de jetons entre 50 chaînes différentes. Grâce à l'accès aux meilleurs itinéraires et aux frais les plus bas de 27 agrégateurs, Xenify permet aux utilisateurs d'échanger des jetons de manière transparente entre les chaînes prises en charge. Xenify met l'accent sur l'équité, la simplicité, la transparence, l'autonomisation des utilisateurs et l'interopérabilité, dans le but de créer un écosystème DeFi plus connecté et plus convivial.
+  - Xenify est un protocole de finance décentralisée (DeFi) conçu pour révolutionner l'expérience d'échange de jetons. Il offre un agrégateur inter-chaînes de pointe, facilitant l'échange de jetons entre 52 chaînes différentes. Grâce à l'accès aux meilleurs itinéraires et aux frais les plus bas de 27 agrégateurs, Xenify permet aux utilisateurs d'échanger des jetons de manière transparente entre les chaînes prises en charge. Xenify met l'accent sur l'équité, la simplicité, la transparence, l'autonomisation des utilisateurs et l'interopérabilité, dans le but de créer un écosystème DeFi plus connecté et plus convivial.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
