@@ -996,15 +996,13 @@ Mỗi ví chứa Phoenix Ape NFT phải tuân theo Hạn ngạch xuất hàng tu
 
  Và đây là phần hay nhất: Phần thưởng hàng ngày của bạn, cho dù bạn sở hữu một NFT hay bốn NFT Phoenix Ape, có thể được kết nối liền mạch với bất kỳ chuỗi nào mà Xenify khởi chạy. Với việc đặt lại tiền thưởng đốt cháy của bạn mỗi ngày, bạn sẽ có cơ hội gặt hái những lợi ích của hiệu ứng đốt cháy khuếch đại này trên tất cả các chuỗi Xenify ra mắt hàng ngày!
 
-Để làm cho Phoenix Apes có thể truy cập được cho nhiều người tham gia, nó sẽ được cung cấp độc quyền thông qua một cuộc đấu giá hàng tuần. Điều này đảm bảo sự công bằng và cam kết, cho mọi người nhiều thời gian để bảo đảm Phoenix Ape NFT được đánh giá cao của họ. Cuộc đấu giá bắt đầu với mức giá khởi điểm tối thiểu chỉ là 10 BNB. Điều này có nghĩa là, nếu chưa có giá thầu nào được đặt, bạn có thể bắt đầu cuộc đấu giá với mức giá tối thiểu là 10 đô la BNB. Nếu có giá thầu hiện tại, giá thầu của bạn phải cao hơn 2 đô la BNB so với giá thầu cao nhất hiện tại hoặc 105% giá thầu cao nhất hiện tại, tuỳ theo giá nào lớn hơn.
+Để làm cho Phoenix Ape có thể truy cập được với nhiều người tham gia, nó sẽ được cung cấp độc quyền thông qua một cuộc đấu giá hàng tuần. Điều này đảm bảo sự công bằng và cam kết, cho mọi người nhiều thời gian để đảm bảo Phoenix Ape NFT được đánh giá cao của họ. Cuộc đấu giá bắt đầu với mức giá khởi điểm tối thiểu chỉ là 10 đô la BNB. Điều này có nghĩa là, nếu chưa có giá thầu nào được đặt, bạn có thể bắt đầu cuộc đấu giá với mức giá tối thiểu là 10 đô la BNB. Nếu có giá thầu hiện tại, giá thầu của bạn phải tương đương với 105% giá thầu cao nhất hiện tại. Ví dụ, nếu người trả giá cao nhất là 0,5 BNB, bạn có thể nhảy vào cuộc đấu giá và trả giá cao hơn người trả giá cao nhất hiện tại với 0,525 BNB.
 
 Mỗi phiên đấu giá hàng tuần kéo dài tối thiểu 168 giờ và có phần mở rộng bộ đệm thời gian là 5 phút. Điều này có nghĩa là nếu một giá thầu được đặt trong vòng 5 phút cuối cùng của cuộc đấu giá, thêm 5 phút sẽ được thêm vào thời gian, với cuộc đấu giá chỉ kết thúc khi không có giá thầu nào được đặt trong vòng 5 phút cuối cùng của thời gian kết thúc theo lịch trình. Điều này đảm bảo rằng không có cuộc đấu giá nào sẽ bắt đầu cho đến khi cuộc đấu giá hiện tại kết thúc, mang lại cho mọi người một cơ hội công bằng để tham gia. Ví dụ: giả sử cuộc đấu giá được thiết lập kết thúc vào lúc 12:00 chiều và giá thầu được đặt vào lúc 11:59 sáng. Thời gian kết thúc sẽ được kéo dài đến 12:05 tối và quá trình này tiếp tục cho đến khi không có giá thầu nào trong
 
 Sau khi chiến thắng cuộc đấu giá, bạn có thể đòi quyền sở hữu NFT Phoenix Ape của mình, quá trình này sẽ khởi tạo NFT độc nhất của bạn. Điều quan trọng cần lưu ý là chỉ có địa chỉ ví liên kết với lời đặt giá chiến thắng mới có thể đòi quyền sở hữu NFT Phoenix Ape, đảm bảo tính bảo mật tối đa cho tất cả người tham gia. Và đây là một chi tiết quan trọng nữa: nếu bạn là người chiến thắng may mắn của cuộc đấu giá, bạn sẽ cần phải đòi quyền sở hữu NFT Phoenix Ape của mình trước khi tham gia các cuộc đấu giá tiếp theo. Cơ chế này ngăn bất kỳ người tham gia nào tích lũy các NFT chưa được khởi tạo.
 
-
 **Hãy khám phá một số tính năng nổi bật khiến NFT Phoenix Ape khác biệt so với các NFT thông thường:**
-
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
