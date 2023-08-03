@@ -56,7 +56,7 @@ Xenifyへようこそ！私たちは、イノベーション、報酬、簡単�
 
 Xenifyはアグリゲーターのクロスチェーンメタアグリゲーターとして、「スワップで稼ぐ」新時代を切り開きます。私たちの画期的なプロトコルは、独創的なトークノミクスと先進的なクロスチェーン機能を単一の強力なパッケージにシームレスに統合しています。Xenifyは、ゲーム理論に基づいた独自のインセンティブモデルを採用し、積極的に報酬を与えることで、クロスチェーンスワップの世界に大きな変化をもたらします。私たちの使命は明確です。超効率的なクロスチェーンスワップ体験と実質的な収益機会の両方を提供することで、DeFiの世界に革命を起こすことです。
 
-Xenifyの大胆なビジョンの中核には、クロスチェーントークンスワップを合理化する最先端の流動性集約プロトコルがあります。Ethereum、BNB Chain、Polygon、Arbitrum、またはサポートされている50のチェーンのどれでトークンをスワップしたい場合でも、Xenifyがカバーします。27の異なるアグリゲーターにアクセスすることで、Xenifyはあなたのスワップに比類のない流動性と最適なレートを保証します。最先端のAPIを活用することで、Xenifyは様々なDEXアグリゲーターとのシームレスな通信を可能にし、スワップ体験を劇的に向上させ、膨大なチェーンの中から最適なスワップルートを探し出すことを合理化します。
+Xenifyの大胆なビジョンの中核には、クロスチェーントークンスワップを合理化する最先端の流動性集約プロトコルがあります。Ethereum、BNB Chain、Polygon、Arbitrum、またはサポートされている52のチェーンのどれでトークンをスワップしたい場合でも、Xenifyがカバーします。27の異なるアグリゲーターにアクセスすることで、Xenifyはあなたのスワップに比類のない流動性と最適なレートを保証します。最先端のAPIを活用することで、Xenifyは様々なDEXアグリゲーターとのシームレスな通信を可能にし、スワップ体験を劇的に向上させ、膨大なチェーンの中から最適なスワップルートを探し出すことを合理化します。
 
 Xenifyが他のクロスチェーンスワッピングプラットフォームと異なる点は、すべての参加者にとって相互に有益な環境を作るというコミットメントです。サポートされているEVMチェーンのスワップフィーに貢献することで、XNFトークンを獲得することができ、スワップフィーの100%はXNFステーカーに報酬として分配されます。さらに、XenifyはXENの戦略的なレイヤー1バーナーとして機能し、XENホルダーは保有するXNFを予測可能なレートで容易に変換することができます。このバーニングプロセスを通じて、当社独自の手数料利用アルゴリズムにより、バーニング手数料の100%がXNFステイカーへの報酬となることが保証される一方、ミントフィーがXNF流動性の成長を後押しします。このWin-Winの戦略により、市場の動きに関係なくXNFの流動性が常に増殖し、同時にXenifyの熱心な参加者への報酬が強化されます。
 
@@ -72,7 +72,7 @@ Xenifyは、最先端の流動性アグリゲーションと特徴的なトー�
 
 <br>
 
-Xenifyは、DeFiの主流化を妨げている障壁を取り除くことを使命としています。私たちの専用プロトコルは、50のチェーンからなる広大なネットワークでのトークン移動に革命を起こすと同時に、複数のチェーンにまたがる複雑なトークン交換の世界をナビゲートするユーザーにとって、流動的でシームレスなエクスペリエンスを保証します。
+Xenifyは、DeFiの主流化を妨げている障壁を取り除くことを使命としています。私たちの専用プロトコルは、52のチェーンからなる広大なネットワークでのトークン移動に革命を起こすと同時に、複数のチェーンにまたがる複雑なトークン交換の世界をナビゲートするユーザーにとって、流動的でシームレスなエクスペリエンスを保証します。
 
 クロスチェーンスワップアグリゲーションの真のパイオニアとして、垣根を取り払うことに深くコミットしています。私たちは、直感的で安全かつ公平な環境を構築することで、膨大な数のEVMチェーン間でトークンをスワップしたりステークしたりすることが簡単に感じられるようになることを目指しています。私たちの使命は、Xenifyの機能を絶え間なく革新・改良し、多様なコミュニティの進化し続けるニーズに適応し、ユーザーベースを継続的に拡大することです。
 
@@ -140,7 +140,7 @@ Xenifyは、公平性、シンプルさ、透明性、ユーザーエンパワ�
 
 ## ◽️ 高度なクロスチェーン・アグリゲーター機能
 
-Xenifyを使えば、チェーン間のスワップはかつてないほどシームレスで効率的になり、障壁を取り払い、より相互接続されたDeFiエコシステムを育むことができます。Xenifyが他と一線を画す際立った特徴は、クロスチェーンのメタアグリゲーターであるということです。この言葉は複雑に聞こえるかもしれませんが、簡単に言えば、複数のクロスチェーン・アグリゲーターを一つのプラットフォームにまとめるということです。私たちの先進的な流動性集約プロトコルを活用することで、ユーザーがブロックチェーン・ネットワーク間を移行する方法を変革することができます。さらに、ユーザーはそれぞれのチェーンからネイティブトークンを毎日獲得する機会があり、ポートフォリオをさらに充実させることができます。50のチェーンにまたがる27のアグリゲーターから競争力のあるレートと卓越した流動性にアクセスすることで、当社のユーザーは比類のないメリットと資産運用の柔軟性を享受しています。  
+Xenifyを使えば、チェーン間のスワップはかつてないほどシームレスで効率的になり、障壁を取り払い、より相互接続されたDeFiエコシステムを育むことができます。Xenifyが他と一線を画す際立った特徴は、クロスチェーンのメタアグリゲーターであるということです。この言葉は複雑に聞こえるかもしれませんが、簡単に言えば、複数のクロスチェーン・アグリゲーターを一つのプラットフォームにまとめるということです。私たちの先進的な流動性集約プロトコルを活用することで、ユーザーがブロックチェーン・ネットワーク間を移行する方法を変革することができます。さらに、ユーザーはそれぞれのチェーンからネイティブトークンを毎日獲得する機会があり、ポートフォリオをさらに充実させることができます。52のチェーンにまたがる27のアグリゲーターから競争力のあるレートと卓越した流動性にアクセスすることで、当社のユーザーは比類のないメリットと資産運用の柔軟性を享受しています。  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenifyは株式投資と長期投資を重視しています。私たちは、�
 
 ## ♦️ クロスチェーンスワッピング
 
-- Xenifyは、ユーザーがシームレスなクロスチェーンスワップを実行することを可能にし、50の異なるチェーン間でトークンを交換することをこれまで以上に容易にします。Xenifyの合理化されたプロセスは、クロスチェーントークンスワップにおいて新しいレベルのシンプルさを提供し、27のアグリゲーターへのアクセスを提供します。
+- Xenifyは、ユーザーがシームレスなクロスチェーンスワップを実行することを可能にし、52の異なるチェーン間でトークンを交換することをこれまで以上に容易にします。Xenifyの合理化されたプロセスは、クロスチェーントークンスワップにおいて新しいレベルのシンプルさを提供し、27のアグリゲーターへのアクセスを提供します。
 
 - しかし、ここが一番いいところだ：Xenifyを使用するユニークな利点の一つは、ユーザーがXNFがデプロイされているチェーンで0.5%のスワップ手数料を支払うたびに、毎日のスワップオークションを通じてXNFトークンが報酬として支払われることです。つまり、ユーザーはXNFトークンを貯めながら、楽にスワップを楽しむことができるのです。
 
@@ -373,53 +373,55 @@ Xenifyの革新的なステーキングと報酬のアプローチは、その�
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
 | 3   | Layer 1           | KCC           | https://www.kcc.io                    |
-| 4   | Layer 1           | Fuse          | https://fuse.io                       |
-| 5   | Layer 1           | Tron          | https://tron.network                  |
-| 6   | Layer 1           | Kava          | https://www.kava.io                   |
-| 7   | Layer 1           | Celo          | https://celo.org                      |
-| 8   | Layer 1           | Heco          | https://www.hecochain.com             |
-| 9   | Layer 2           | Boba          | https://boba.network                  |
-| 10  | Layer 1           | Beam          | https://www.beam.mw                   |
-| 11  | Layer 1           | Velas         | https://www.velas.com                 |
-| 12  | Layer 1           | Telos         | https://telos.net                     |
-| 13  | Layer 1           | Tezos         | https://tezos.com                     |
-| 14  | Layer 2           | Metis         | https://metis.io                      |
-| 15  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 16  | Layer 1           | Canto         | https://canto.io                      |
-| 17  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 18  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 19  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 20  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 21  | Layer 2           | zkSync        | https://zksync.io                     |
-| 22  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 23  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 24  | Layer 1           | Solana        | https://solana.com                    |
-| 25  | Layer 1           | Ripple        | https://ripple.com                    |
-| 26  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 27  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 28  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 29  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 30  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 31  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 32  | Layer 2           | Polygon       | https://polygon.technology            |
-| 33  | Layer 1           | Arweave       | https://arweave.org                   |
-| 34  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 35  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 36  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 37  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 38  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 39  | Layer 2           | Optimism      | https://optimism.io                   |
-| 40  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 41  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 42  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 43  | Layer 2           | PulseChain    | https://pulsechain.com                |
-| 44  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 45  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 46  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 47  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 48  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 49  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 50  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 4   | Layer 2           | Base          | https://base.org                      |
+| 5   | Layer 1           | Fuse          | https://fuse.io                       |
+| 6   | Layer 1           | Tron          | https://tron.network                  |
+| 7   | Layer 1           | Kava          | https://www.kava.io                   |
+| 8   | Layer 1           | Celo          | https://celo.org                      |
+| 9   | Layer 1           | Heco          | https://www.hecochain.com             |
+| 10  | Layer 2           | Boba          | https://boba.network                  |
+| 11  | Layer 1           | Beam          | https://www.beam.mw                   |
+| 12  | Layer 1           | Velas         | https://www.velas.com                 |
+| 13  | Layer 1           | Telos         | https://telos.net                     |
+| 14  | Layer 2           | Linea         | https://linea.build                   |
+| 15  | Layer 1           | Tezos         | https://tezos.com                     |
+| 16  | Layer 2           | Metis         | https://metis.io                      |
+| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 18  | Layer 1           | Canto         | https://canto.io                      |
+| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 23  | Layer 2           | zkSync        | https://zksync.io                     |
+| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 26  | Layer 1           | Solana        | https://solana.com                    |
+| 27  | Layer 1           | Ripple        | https://ripple.com                    |
+| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 34  | Layer 2           | Polygon       | https://polygon.technology            |
+| 35  | Layer 1           | Arweave       | https://arweave.org                   |
+| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 41  | Layer 2           | Optimism      | https://optimism.io                   |
+| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 45  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
+| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
 
 <br>
 
@@ -551,7 +553,7 @@ Xenifyは、次の大きな一手を打つために、多くのブロックチ�
 
 ## ♦️ XNFを獲得するためのスワップ
 
-  - Xenifyは画期的なプラットフォームでゲームを再定義し、50のチェーンでシームレスなシングルクリックのクロスチェーン取引を可能にする一方、ステーカーにはネイティブチェーントークンを毎日獲得できるエキサイティングな機会を提供しています。
+  - Xenifyは画期的なプラットフォームでゲームを再定義し、52のチェーンでシームレスなシングルクリックのクロスチェーン取引を可能にする一方、ステーカーにはネイティブチェーントークンを毎日獲得できるエキサイティングな機会を提供しています。
 
   - ユーザーは、XNFが配備されたチェーンで0.5％のスワップ手数料を支払うたびに、毎日のスワップオークションを通じてXNFトークンを受け取ることができる。このユニークな利点により、ユーザーはXNFトークンを貯めると同時に、楽にスワップ体験を楽しむことができる。
 
@@ -559,7 +561,7 @@ Xenifyは、次の大きな一手を打つために、多くのブロックチ�
 
   - Xenifyとのトークンスワップに参加することで、ユーザーはプラットフォームの成長に極めて重要な役割を果たします。XNFがデプロイされたチェーンで発生したスワップ手数料は、その特定のチェーンのXNFステーカーに分配されます。XNFがまだ配備されていないチェーンでは、Xenifyとその関連トークンのプロモーション活動を支援し、開発を進めるためにスワップフィーが活用されます。これにより、Xenifyの認知度が高まり、プラットフォームが広く採用され、コミュニティ全体に利益をもたらします。
 
-  - さらに、サポートされている50のチェーンのいずれかでスワップに参加することで、ユーザーは1,500,000 XNFの独占エアドロップの資格を得る。各エアドロップイベントは、XNFの配備が予定されているチェーンで行われ、配備開始の60日前から開催される。この期間中に行われるすべてのスワップは、次のXNFエアドロップのシェアをユーザーに保証する。言い換えれば、XNFが配備されていないチェーンでスワップを実行した場合、毎日のXNF割り当ての恩恵は受けられないものの、独占的なXNFエアドロップに参加するチャンスはあるということです。
+  - さらに、サポートされている52のチェーンのいずれかでスワップに参加することで、ユーザーは1,500,000 XNFの独占エアドロップの資格を得る。各エアドロップイベントは、XNFの配備が予定されているチェーンで行われ、配備開始の60日前から開催される。この期間中に行われるすべてのスワップは、次のXNFエアドロップのシェアをユーザーに保証する。言い換えれば、XNFが配備されていないチェーンでスワップを実行した場合、毎日のXNF割り当ての恩恵は受けられないものの、独占的なXNFエアドロップに参加するチャンスはあるということです。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1305,7 +1307,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 ## ◽️ Xenify
 
-  - Xenifyは、トークンのスワップ体験に革命を起こすために設計された分散型金融（DeFi）プロトコルです。最先端のクロスチェーンアグリゲーターを提供し、50の異なるチェーン間でトークンを簡単にスワップすることができます。27のアグリゲーターから最良のルートと最低の手数料を利用できるXenifyは、ユーザーがサポートされているチェーン間でシームレスにトークンをスワップできるようにします。Xenifyは、公平性、シンプルさ、透明性、ユーザーエンパワーメント、相互運用性を重視し、より接続されたユーザーフレンドリーなDeFiエコシステムの構築を目指しています。
+  - Xenifyは、トークンのスワップ体験に革命を起こすために設計された分散型金融（DeFi）プロトコルです。最先端のクロスチェーンアグリゲーターを提供し、52の異なるチェーン間でトークンを簡単にスワップすることができます。27のアグリゲーターから最良のルートと最低の手数料を利用できるXenifyは、ユーザーがサポートされているチェーン間でシームレスにトークンをスワップできるようにします。Xenifyは、公平性、シンプルさ、透明性、ユーザーエンパワーメント、相互運用性を重視し、より接続されたユーザーフレンドリーなDeFiエコシステムの構築を目指しています。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
