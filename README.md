@@ -712,6 +712,8 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 <br>
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Different Burn Fee Scenarios
 
 Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in different scenarios:
@@ -1467,3 +1469,5 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 - <https://medium.com/xenify>
 - <https://twitter.com/xenify_io>
 - <https://www.youtube.com/@xenify-io>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
