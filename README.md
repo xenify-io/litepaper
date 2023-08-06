@@ -484,7 +484,8 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 - Genesis Deployment > BNB Chain
 - Second Deployment > Ethereum
 - Third Deployment > Polygon
-<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Potential Expansion Chains
 
