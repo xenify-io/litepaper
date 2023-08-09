@@ -407,7 +407,7 @@ Cách tiếp cận sáng tạo của Xenify đối với việc stake và thư�
 | 42  | Layer 1           | Avalanche     | https://www.avax.network              |
 | 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
 | 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 45  | Layer 2           | PulseChain    | https://pulsechain.com                |
+| 45  | Layer 1           | PulseChain    | https://pulsechain.com                |
 | 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
 | 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
 | 48  | Layer 1           | NEAR Protocol | https://near.org                      |
