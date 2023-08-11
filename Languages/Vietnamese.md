@@ -56,7 +56,7 @@ Chào mừng bạn đến với Xenify! Chúng tôi là Trung tâm đổi mới,
 
 Xenify đứng như một tổng hợp chéo chuỗi phụ của các tổng hợp viên, tiên phong một kỷ nguyên mới của 'Swap để kiếm tiền'. Giao thức tiên tiến của chúng tôi kết hợp một cách khéo léo các tokenomics đổi mới và chức năng chéo chuỗi nâng cao thành một gói mạnh mẽ. Bằng cách kết hợp mô hình khuyến khích dựa trên lý thuyết trò chơi độc đáo, khuyến khích tích cực sự tham gia, Xenify được chuẩn bị để khởi xướng một sự dịch chuyển địa chấn trong thế giới của việc hoán đổi chéo chuỗi. Sứ mệnh của chúng tôi rõ ràng: cách mạng hóa cảnh quan DeFi bằng cách cung cấp tốt nhất của cả hai thế giới: một trải nghiệm hoán đổi chéo chuỗi siêu hiệu quả và cơ hội đáng kể để kiếm tiền.
 
-Ở trung tâm của tầm nhìn đầy tham vọng của Xenify là một giao thức tổng hợp thanh khoản cắt đỉnh, đơn giản hóa các giao dịch hoán đổi token chéo chuỗi. Cho dù bạn muốn hoán đổi token trên Ethereum, BNB Chain, Polygon, Arbitrum hay bất kỳ trong số 52 chuỗi được hỗ trợ nào, Xenify đều bao quát. Với quyền truy cập vào 27 tổng hợp viên khác nhau, Xenify đảm bảo thanh khoản vượt trội và tỷ lệ tối ưu cho các giao dịch hoán đổi của bạn. Bằng cách tận dụng các API tiên tiến, Xenify thiết lập liên lạc trôi chảy với một loạt các tổng hợp viên DEX, nâng cao đáng kể trải nghiệm hoán đổi và đơn giản hóa nhiệm vụ tìm kiếm các tuyến đường hoán đổi tối ưu trên bức tranh thêu rộng lớn của chuỗi.  
+Ở trung tâm của tầm nhìn đầy tham vọng của Xenify là một giao thức tổng hợp thanh khoản cắt đỉnh, đơn giản hóa các giao dịch hoán đổi token chéo chuỗi. Cho dù bạn muốn hoán đổi token trên Ethereum, BNB Chain, Polygon, Arbitrum hay bất kỳ trong số 52 chuỗi được hỗ trợ nào, Xenify đều bao quát. Với quyền truy cập vào 28 tổng hợp viên khác nhau, Xenify đảm bảo thanh khoản vượt trội và tỷ lệ tối ưu cho các giao dịch hoán đổi của bạn. Bằng cách tận dụng các API tiên tiến, Xenify thiết lập liên lạc trôi chảy với một loạt các tổng hợp viên DEX, nâng cao đáng kể trải nghiệm hoán đổi và đơn giản hóa nhiệm vụ tìm kiếm các tuyến đường hoán đổi tối ưu trên bức tranh thêu rộng lớn của chuỗi.  
 
 Điều làm nên sự khác biệt của Xenify so với các nền tảng hoán đổi chéo chuỗi khác là cam kết của nó trong việc tạo ra môi trường có lợi cho tất cả người tham gia. Bằng cách đóng góp phí giao dịch trên các chuỗi EVM được hỗ trợ, bạn kiếm được token XNF, trong khi 100% phí giao dịch của bạn được phân phối dưới dạng phần thưởng cho những người stake XNF. Ngoài ra, Xenify phục vụ như một lớp đốt chiến lược 1 của XEN, cho phép người nắm giữ XEN dễ dàng chuyển đổi tài sản của họ thành XNF với tỷ lệ dự đoán được. Xuyên suốt quá trình đốt này, thuật toán sử dụng phí của chúng tôi đảm bảo rằng 100% phí đốt được chuyển hướng dưới dạng thưởng cho những người stake XNF, trong khi phí đúc giúp tăng trưởng thanh khoản XNF. Chiến lược có lợi cho cả hai bên này đảm bảo sự phát triển liên tục của thanh khoản XNF, bất kể hoạt động thị trường, đồng thời tăng cường phần thưởng cho những người tham gia chuyên tâm của Xenify.
 
@@ -136,7 +136,7 @@ Xenify tạo ra sự khác biệt trong không gian DeFi với cam kết không 
 
 ## ◽️ Khả năng Tổng hợp Chéo chuỗi Nâng cao 
 
-Với Xenify, việc hoán đổi giữa các chuỗi chưa bao giờ đơn giản và hiệu quả hơn, phá vỡ các rào cản và thúc đẩy một hệ sinh thái DeFi được kết nối hơn. Một tính năng nổi bật làm nên sự khác biệt của Xenify so với phần còn lại là chúng tôi là một tổng hợp chéo chuỗi phụ của các tổng hợp viên. Mặc dù thuật ngữ có thể nghe phức tạp, nó đơn giản có nghĩa là chúng tôi kết hợp nhiều tổng hợp viên chéo chuỗi vào một nền tảng duy nhất. Bằng cách tận dụng giao thức tổng hợp thanh khoản tiên tiến của chúng tôi, chúng tôi có thể chuyển đổi cách người dùng chuyển tiếp giữa các mạng blockchain. Hơn nữa, người dùng có cơ hội kiếm được các token gốc từ các chuỗi tương ứng hàng ngày, tăng cường thêm danh mục đầu tư của họ. Với quyền truy cập vào các tỷ lệ cạnh tranh và tính thanh khoản đặc biệt từ 27 tổng hợp viên trên 52 chuỗi, người dùng của chúng tôi tận hưởng những lợi ích vượt trội và tính linh hoạt tăng cường trong việc quản lý tài sản của họ.
+Với Xenify, việc hoán đổi giữa các chuỗi chưa bao giờ đơn giản và hiệu quả hơn, phá vỡ các rào cản và thúc đẩy một hệ sinh thái DeFi được kết nối hơn. Một tính năng nổi bật làm nên sự khác biệt của Xenify so với phần còn lại là chúng tôi là một tổng hợp chéo chuỗi phụ của các tổng hợp viên. Mặc dù thuật ngữ có thể nghe phức tạp, nó đơn giản có nghĩa là chúng tôi kết hợp nhiều tổng hợp viên chéo chuỗi vào một nền tảng duy nhất. Bằng cách tận dụng giao thức tổng hợp thanh khoản tiên tiến của chúng tôi, chúng tôi có thể chuyển đổi cách người dùng chuyển tiếp giữa các mạng blockchain. Hơn nữa, người dùng có cơ hội kiếm được các token gốc từ các chuỗi tương ứng hàng ngày, tăng cường thêm danh mục đầu tư của họ. Với quyền truy cập vào các tỷ lệ cạnh tranh và tính thanh khoản đặc biệt từ 28 tổng hợp viên trên 52 chuỗi, người dùng của chúng tôi tận hưởng những lợi ích vượt trội và tính linh hoạt tăng cường trong việc quản lý tài sản của họ.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -172,7 +172,7 @@ Xenify rất chú trọng đến công bằng và đầu tư dài hạn. Chúng 
 
 ## ♦️ Swap Chéo chuỗi
 
-- Xenify cho phép người dùng thực hiện các giao dịch hoán đổi chéo chuỗi trôi chảy, làm cho việc trao đổi token giữa 52 chuỗi khác nhau dễ dàng hơn bao giờ hết. Quy trình đơn giản hóa của chúng tôi cung cấp một mức độ đơn giản mới trong các giao dịch hoán đổi token chéo chuỗi và cung cấp quyền truy cập vào 27 tổng hợp viên, đảm bảo các tỷ lệ cạnh tranh nhất có sẵn, đồng thời mang lại trải nghiệm hiệu quả và có phần thưởng chưa từng có.
+- Xenify cho phép người dùng thực hiện các giao dịch hoán đổi chéo chuỗi trôi chảy, làm cho việc trao đổi token giữa 52 chuỗi khác nhau dễ dàng hơn bao giờ hết. Quy trình đơn giản hóa của chúng tôi cung cấp một mức độ đơn giản mới trong các giao dịch hoán đổi token chéo chuỗi và cung cấp quyền truy cập vào 28 tổng hợp viên, đảm bảo các tỷ lệ cạnh tranh nhất có sẵn, đồng thời mang lại trải nghiệm hiệu quả và có phần thưởng chưa từng có.
 
 - Nhưng đây là phần hay nhất: Một trong những lợi thế độc đáo khi sử dụng Xenify là mỗi khi người dùng trả 0,5% phí hoán đổi trên các chuỗi mà XNF được triển khai, họ sẽ được thưởng XNF token thông qua một đấu giá hoán đổi hàng ngày. Điều này có nghĩa là người dùng có thể tận hưởng trải nghiệm hoán đổi trôi chảy trong khi tích lũy token XNF.
 
@@ -311,7 +311,7 @@ Tuy nhiên, 'sức mạnh kiếm tiền' này không cố định. Trong suốt 
 
 <br>
   
-Giới thiệu Xenify, tổng hợp chéo chuỗi tối đa của các tổng hợp viên! Được thiết kế để đơn giản hóa quy trình hoán đổi cho người dùng đi qua nhiều chuỗi, Xenify cung cấp các khả năng vô địch. Được hỗ trợ bởi một giao thức tổng hợp thanh khoản tiên tiến, Xenify kết nối với 27 tổng hợp viên khác nhau, cung cấp tính thanh khoản đặc biệt và tỷ lệ không thể đánh bại trên 52 chuỗi hàng đầu. Cho dù bạn muốn hoán đổi token giữa Ethereum, BNB Chain, Polygon hay nhiều loại khác, Xenify làm cho việc đó trở nên dễ dàng và có phần thưởng!
+Giới thiệu Xenify, tổng hợp chéo chuỗi tối đa của các tổng hợp viên! Được thiết kế để đơn giản hóa quy trình hoán đổi cho người dùng đi qua nhiều chuỗi, Xenify cung cấp các khả năng vô địch. Được hỗ trợ bởi một giao thức tổng hợp thanh khoản tiên tiến, Xenify kết nối với 28 tổng hợp viên khác nhau, cung cấp tính thanh khoản đặc biệt và tỷ lệ không thể đánh bại trên 52 chuỗi hàng đầu. Cho dù bạn muốn hoán đổi token giữa Ethereum, BNB Chain, Polygon hay nhiều loại khác, Xenify làm cho việc đó trở nên dễ dàng và có phần thưởng!
   
 Hãy tưởng tượng tình huống này: bạn muốn giao dịch Token-A trên Ethereum lấy Token-B trên BNB Chain. Với Xenify, tất cả chỉ cần một cú nhấp chuột và một giao dịch duy nhất trên Ethereum. Không còn rắc rối phải điều hướng giữa các chuỗi khác nhau hoặc tìm kiếm các tỷ lệ tốt nhất - Xenify chăm sóc tất cả, cung cấp cho bạn các tỷ lệ có sẵn tốt nhất. Nhưng Xenify còn hơn thế nữa so với các giao dịch chéo chuỗi; Đó là một hệ sinh thái được thiết kế cẩn thận với tokenomics độc đáo, kết hợp một mô hình khuyến khích đột phá mang lại lợi ích cho tất cả người tham gia.
   
@@ -327,45 +327,46 @@ Cách tiếp cận sáng tạo của Xenify đối với việc stake và thư�
 
 ## ◽️ Các đầu mối tổng hợp được hỗ trợ
 
-| STT | Đầu mối tổng hợp | Trang web đầu mối tổng hợp                 |
-|-----|------------------|---------------------------------------------|  
-| 1   | LI.FI            | https://li.fi                               |
-| 2   | 1inch            | https://1inch.io                            |
-| 3   | Exolix           | https://exolix.com                          |
-| 4   | Swing            | https://swing.xyz                           |
-| 5   | Rango            | https://rango.exchange                      |  
-| 6   | Kucoin           | https://www.kucoin.com                      |
-| 7   | Krystal          | https://defi.krystal.app                    |
-| 8   | Matcha           | https://matcha.xyz                          |
-| 9   | Firebird         | https://firebird.finance                    |
-| 10  | DeSwap           | https://app.debridge.finance                |
-| 11  | Binance          | https://www.binance.com                     |  
-| 12  | Voyager          | https://app.thevoyager.io/swap              |
-| 13  | Paraswap         | https://paraswap.io                         |
-| 14  | ThorSwap         | https://app.thorswap.finance/swap           |
-| 15  | ChainHop         | https://chainhop.io                         |
-| 16  | Stealth EX       | https://stealthex.io                        |
-| 17  | Changelly        | https://changelly.com                       |
-| 18  | XY Finance       | https://app.xy.finance                      |
-| 19  | KyberSwap        | https://kyberswap.com                       |
-| 20  | OpenOcean        | https://openocean.finance                   |
-| 21  | SimpleSwap       | https://simpleswap.io                       |
-| 22  | CoinCraddle      | https://coincraddle.com                     |
-| 23  | Squid Router     | https://app.squidrouter.com                 |
-| 24  | ChangeNOW        | https://changenow.io                        |  
-| 25  | Houdini Swap     | https://houdiniswap.com                     |
-| 26  | Rubic Finance    | https://rubic.finance                       |
-| 27  | Chainge Finance  | https://dapp.chainge.finance                |
+| STT | Đầu mối tổng hợp  | Trang web đầu mối tổng hợp         |
+|-----|-------------------|------------------------------------|
+| 1   | LI.FI             | https://li.fi                      |
+| 2   | 1inch             | https://1inch.io                   |
+| 3   | Exolix            | https://exolix.com                 |
+| 4   | Swing             | https://swing.xyz                  |
+| 5   | Rango             | https://rango.exchange             |
+| 6   | Kucoin            | https://www.kucoin.com             |
+| 7   | Krystal           | https://defi.krystal.app           |
+| 8   | Matcha            | https://matcha.xyz                 |
+| 9   | Firebird          | https://firebird.finance           |
+| 10  | DeSwap            | https://app.debridge.finance       |
+| 11  | Binance           | https://www.binance.com            |
+| 12  | Voyager           | https://app.thevoyager.io/swap     |
+| 13  | Paraswap          | https://paraswap.io                |
+| 14  | ThorSwap          | https://app.thorswap.finance/swap  |
+| 15  | ChainHop          | https://chainhop.io                |
+| 16  | Stealth EX        | https://stealthex.io               |
+| 17  | Changelly         | https://changelly.com              |
+| 18  | FixedFloat        | https://fixedfloat.com             |
+| 19  | XY Finance        | https://app.xy.finance             |
+| 20  | KyberSwap         | https://kyberswap.com              |
+| 21  | OpenOcean         | https://openocean.finance          |
+| 22  | SimpleSwap        | https://simpleswap.io              |
+| 23  | CoinCraddle       | https://coincraddle.com            | 
+| 24  | Squid Router      | https://app.squidrouter.com        |
+| 25  | ChangeNOW         | https://changenow.io               |
+| 26  | Houdini Swap      | https://houdiniswap.com            |
+| 27  | Rubic Finance     | https://rubic.finance              |
+| 28  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
 ## ◽️ Các chuỗi được hỗ trợ  
 
-| STT | Loại chuỗi       | Tên chuỗi     | Trang web chuỗi                            |
-|-----|------------------|---------------|--------------------------------------------|
-| 1   | Layer 1          | Sui           | https://sui.io                             |
-| 2   | Layer 1          | EOS           | https://eosnetwork.com                     |
-| 3   | Layer 1          | KCC           | https://www.kcc.io                         |  
+| STT | Loại chuỗi        | Tên chuỗi     | Trang web chuỗi                       |
+|-----|-------------------|---------------|---------------------------------------|
+| 1   | Layer 1           | Sui           | https://sui.io                        |
+| 2   | Layer 1           | EOS           | https://eosnetwork.com                |
+| 3   | Layer 1           | KCC           | https://www.kcc.io                    |  
 | 4   | Layer 2           | Base          | https://base.org                      |
 | 5   | Layer 1           | Fuse          | https://fuse.io                       |
 | 6   | Layer 1           | Tron          | https://tron.network                  |
@@ -1191,7 +1192,7 @@ Sứ mệnh của Xenify là tạo ra một nền tảng DeFi minh bạch, công
 
 Xenify, một bộ tổng hợp chuỗi chéo các bộ tổng hợp, đã được xây dựng cẩn thận từ đầu để chuyển đổi cách người dùng tham gia hoán đổi mã thông báo. Mục tiêu chính của nó là cung cấp trải nghiệm người dùng liền mạch, thưởng cho các thành viên cộng đồng tích cực và thiết lập một mô hình phân phối mã thông báo công bằng và bền vững. Bằng cách tận dụng các mô hình kinh tế mã thông báo đổi mới, Xenify khao khát thiết lập một nền tảng phi tập trung, dựa trên cộng đồng đánh giá cao và khuyến khích sự tham gia tích cực của người dùng trong hệ sinh thái. 
 
-Điều làm cho Xenify khác biệt là sự kết nối liền mạch với 27 bộ tổng hợp khác nhau, cho phép dễ dàng hoán đổi một cú nhấp chuột với tỷ giá không thể đánh bại trên 52 chuỗi hàng đầu. Tuy nhiên, giá trị của nó vượt xa sự tiện lợi. Tách biệt với các sàn giao dịch khác, Xenify tạo điều kiện cho việc áp dụng người dùng bằng cách đảm bảo mọi hành động được thực hiện trên nền tảng đều đóng góp vào một môi trường hỗ tương nơi lợi ích tích lũy dựa trên đóng góp và sự tham gia. 
+Điều làm cho Xenify khác biệt là sự kết nối liền mạch với 28 bộ tổng hợp khác nhau, cho phép dễ dàng hoán đổi một cú nhấp chuột với tỷ giá không thể đánh bại trên 52 chuỗi hàng đầu. Tuy nhiên, giá trị của nó vượt xa sự tiện lợi. Tách biệt với các sàn giao dịch khác, Xenify tạo điều kiện cho việc áp dụng người dùng bằng cách đảm bảo mọi hành động được thực hiện trên nền tảng đều đóng góp vào một môi trường hỗ tương nơi lợi ích tích lũy dựa trên đóng góp và sự tham gia. 
 
 Với Xenify, người dùng được cấp cơ hội độc quyền để kiếm mã thông báo XNF trên mọi lần hoán đổi, bổ sung bởi một mô hình staking đổi mới cho phép người dùng kiếm được các mã thông báo chuỗi gốc như ETH, BNB và MATIC hàng ngày. Mô hình khuyến khích độc đáo này chắc chắn định vị Xenify là lựa chọn hàng đầu cho những người muốn đơn giản hóa quá trình hoán đổi chuỗi chéo đồng thời tối đa hóa tiềm năng kiếm tiền của họ.
 
@@ -1305,7 +1306,7 @@ Chào mừng bạn đến với Bách khoa thuật ngữ Xenify, nguồn tài ng
 
 ## ◽️ Xenify
 
-  - Xenify là một giao thức tài chính phi tập trung (DeFi) được thiết kế để cách mạng hóa trải nghiệm hoán đổi token. Nó cung cấp một đầu mối tổng hợp chuỗi chéo tiên tiến, giúp dễ dàng hoán đổi token trên 52 chuỗi khác nhau. Với quyền truy cập vào các tuyến đường tốt nhất và phí thấp nhất từ 27 đầu mối tổng hợp, Xenify trao quyền cho người dùng để hoán đổi token một cách trơn tru giữa các chuỗi được hỗ trợ. Nó nhấn mạnh tính công bằng, đơn giản, minh bạch, trao quyền cho người dùng và khả năng tương tác, nhằm tạo ra một hệ sinh thái DeFi kết nối hơn và thân thiện với người dùng.
+  - Xenify là một giao thức tài chính phi tập trung (DeFi) được thiết kế để cách mạng hóa trải nghiệm hoán đổi token. Nó cung cấp một đầu mối tổng hợp chuỗi chéo tiên tiến, giúp dễ dàng hoán đổi token trên 52 chuỗi khác nhau. Với quyền truy cập vào các tuyến đường tốt nhất và phí thấp nhất từ 28 đầu mối tổng hợp, Xenify trao quyền cho người dùng để hoán đổi token một cách trơn tru giữa các chuỗi được hỗ trợ. Nó nhấn mạnh tính công bằng, đơn giản, minh bạch, trao quyền cho người dùng và khả năng tương tác, nhằm tạo ra một hệ sinh thái DeFi kết nối hơn và thân thiện với người dùng.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)  
 
