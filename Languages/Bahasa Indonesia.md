@@ -334,7 +334,7 @@ Pendekatan inovatif Xenify terhadap staking dan reward, dikombinasikan dengan mo
 
 ## ◽️ Agregator yang Didukung
 
-| Nomor | Agregator | Situs Web Agregator |
+| No  | Agregator         | Situs Web Agregator                |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -369,7 +369,7 @@ Pendekatan inovatif Xenify terhadap staking dan reward, dikombinasikan dengan mo
 
 ## ◽️ Rantai yang Didukung
 
-| No | Jenis Rantai | Nama Rantai | Situs Web Rantai |
+| No  | Jenis Rantai      | Nama Rantai   | Situs Web Rantai                      |
 |-----|-------------------|---------------|---------------------------------------|  
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
