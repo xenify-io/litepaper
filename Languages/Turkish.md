@@ -56,7 +56,7 @@ Xenify'a Hoş Geldiniz! Biz Yenilik, Ödül, Zahmetsiz Çapraz Zincir Takası ve
 
 Xenify, toplayıcıların çapraz zincir meta toplayıcısı olarak yeni bir 'Kazanmak için Takas' çağına öncülük ediyor. Çığır açan protokolümüz, yaratıcı tokenomik ve gelişmiş çapraz zincir işlevselliğini tek ve güçlü bir pakete sorunsuz bir şekilde entegre etmektedir. Xenify, katılımı aktif olarak ödüllendiren benzersiz, oyun teorisine dayalı bir teşvik modeli ile zincirler arası takas dünyasında sismik bir değişim başlatmaya hazırlanıyor. Misyonumuz açık: Her iki dünyanın da en iyisini sunarak DeFi dünyasında devrim yaratmak: ultra verimli bir zincirler arası takas deneyimi ve önemli kazanç fırsatları.
 
-Xenify'ın cesur vizyonunun özünde, zincirler arası token takaslarını kolaylaştıran son teknoloji bir likidite toplama protokolü bulunmaktadır. İster Ethereum, BNB Chain, Polygon, Arbitrum veya desteklenen 52 zincirden herhangi birinde token takası yapmak isteyin, Xenify size yardımcı olacaktır. 27 farklı toplayıcıya erişimi olan Xenify, takaslarınız için benzersiz likidite ve optimum oranları garanti eder. Son teknoloji API'lerden yararlanan Xenify, çok çeşitli DEX toplayıcıları ile sorunsuz iletişim kurarak takas deneyimini önemli ölçüde geliştirir ve zincirlerin geniş gobleninde en uygun takas rotaları arayışını kolaylaştırır.
+Xenify'ın cesur vizyonunun özünde, zincirler arası token takaslarını kolaylaştıran son teknoloji bir likidite toplama protokolü bulunmaktadır. İster Ethereum, BNB Chain, Polygon, Arbitrum veya desteklenen 52 zincirden herhangi birinde token takası yapmak isteyin, Xenify size yardımcı olacaktır. 28 farklı toplayıcıya erişimi olan Xenify, takaslarınız için benzersiz likidite ve optimum oranları garanti eder. Son teknoloji API'lerden yararlanan Xenify, çok çeşitli DEX toplayıcıları ile sorunsuz iletişim kurarak takas deneyimini önemli ölçüde geliştirir ve zincirlerin geniş gobleninde en uygun takas rotaları arayışını kolaylaştırır.
 
 Xenify'ı diğer zincirler arası takas platformlarından ayıran şey, tüm katılımcılar için karşılıklı fayda sağlayan bir ortam yaratma taahhüdüdür. Desteklenen EVM zincirlerinde takas ücretlerine katkıda bulunarak XNF tokenları kazanırken, takas ücretlerinizin %100'ü XNF stakerlarına ödül olarak dağıtılır. Dahası, Xenify, XEN sahiplerinin varlıklarını öngörülebilir bir oranda zahmetsizce XNF'ye dönüştürmelerini sağlayarak XEN'in stratejik bir katman 1 yakıcısı olarak hizmet vermektedir. Bu yakma süreci boyunca, benzersiz ücret kullanım algoritmamız, yakma ücretlerinin %100'ünün XNF staker'larına ödül olarak yönlendirilmesini garanti ederken, darphane ücreti XNF likiditesinin büyümesini destekler. Bu kazan-kazan stratejisi, piyasa aktivitesinden bağımsız olarak XNF likiditesinin sürekli çoğalmasını sağlarken, Xenify'ın özel katılımcıları için ödülleri artırır.
 
@@ -140,7 +140,7 @@ Xenify, DeFi alanında adalet, basitlik, şeffaflık, kullanıcı güçlendirme 
 
 ## ◽️ Gelişmiş Zincirler Arası Toplayıcı Yetenekleri
 
-Xenify ile zincirler arasında geçiş yapmak hiç bu kadar sorunsuz ve verimli olmamıştı, engelleri ortadan kaldırıyor ve birbirine daha bağlı bir DeFi ekosistemini teşvik ediyor. Xenify'ı diğerlerinden ayıran göze çarpan bir özellik, toplayıcıların çapraz zincir meta toplayıcısı olmamızdır. Bu terim kulağa karmaşık gelse de, basitçe birden fazla çapraz zincir toplayıcıyı tek bir platformda bir araya getirdiğimiz anlamına gelir. Gelişmiş likidite toplama protokolümüzden yararlanarak, kullanıcıların blok zinciri ağları arasında geçiş yapma şeklini dönüştürebiliyoruz. Dahası, kullanıcılar ilgili zincirlerden günlük olarak yerel token kazanma fırsatına sahip olarak portföylerini daha da geliştiriyor. Kullanıcılarımız, 52 zincirdeki 27 toplayıcıdan rekabetçi oranlara ve olağanüstü likiditeye erişim sayesinde, varlıklarını yönetmede benzersiz avantajlardan ve gelişmiş esneklikten yararlanmaktadır.  
+Xenify ile zincirler arasında geçiş yapmak hiç bu kadar sorunsuz ve verimli olmamıştı, engelleri ortadan kaldırıyor ve birbirine daha bağlı bir DeFi ekosistemini teşvik ediyor. Xenify'ı diğerlerinden ayıran göze çarpan bir özellik, toplayıcıların çapraz zincir meta toplayıcısı olmamızdır. Bu terim kulağa karmaşık gelse de, basitçe birden fazla çapraz zincir toplayıcıyı tek bir platformda bir araya getirdiğimiz anlamına gelir. Gelişmiş likidite toplama protokolümüzden yararlanarak, kullanıcıların blok zinciri ağları arasında geçiş yapma şeklini dönüştürebiliyoruz. Dahası, kullanıcılar ilgili zincirlerden günlük olarak yerel token kazanma fırsatına sahip olarak portföylerini daha da geliştiriyor. Kullanıcılarımız, 52 zincirdeki 28 toplayıcıdan rekabetçi oranlara ve olağanüstü likiditeye erişim sayesinde, varlıklarını yönetmede benzersiz avantajlardan ve gelişmiş esneklikten yararlanmaktadır.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenify, öz sermayeye ve uzun vadeli yatırımlara büyük önem vermektedir. Ku
 
 ## ♦️ Çapraz Zincir Değiştirme
 
-- Xenify, kullanıcıların sorunsuz çapraz zincir takasları gerçekleştirmesini sağlayarak 52 farklı zincirde token takasını hiç olmadığı kadar kolay hale getirir. Kolaylaştırılmış sürecimiz, zincirler arası token takaslarında yeni bir basitlik düzeyi sunuyor ve 27 toplayıcıya erişim sağlayarak mevcut en rekabetçi oranları garanti ederken, daha önce hiç olmadığı kadar verimli ve ödüllendirici bir deneyim sunuyor.
+- Xenify, kullanıcıların sorunsuz çapraz zincir takasları gerçekleştirmesini sağlayarak 52 farklı zincirde token takasını hiç olmadığı kadar kolay hale getirir. Kolaylaştırılmış sürecimiz, zincirler arası token takaslarında yeni bir basitlik düzeyi sunuyor ve 28 toplayıcıya erişim sağlayarak mevcut en rekabetçi oranları garanti ederken, daha önce hiç olmadığı kadar verimli ve ödüllendirici bir deneyim sunuyor.
 
 - Ama işte en iyi kısmı: Xenify kullanmanın benzersiz avantajlarından biri, kullanıcıların XNF'nin konuşlandırıldığı zincirlerde %0,5'lik takas ücretini her ödediklerinde, günlük takas açık artırması yoluyla XNF tokenları ile ödüllendirilmeleridir. Bu, kullanıcıların XNF token biriktirirken aynı zamanda zahmetsiz bir takas deneyiminin keyfini çıkarabileceği anlamına gelir.
 
@@ -318,7 +318,7 @@ Daha önceki kilitlemelerden elde ettikleri kazanç potansiyelini artırmak iste
 
 <br>
 
-Toplayıcıların nihai çapraz zincir toplayıcısı Xenify ile tanışın! Birden fazla zincirden geçen kullanıcılar için takas sürecini kolaylaştırmak üzere ustalıkla tasarlanan Xenify, benzersiz yetenekler sunar. Gelişmiş bir likidite toplama protokolü ile desteklenen Xenify, 27 farklı toplayıcıya bağlanarak 52 lider zincirde olağanüstü likidite ve rakipsiz oranlar sunar. İster Ethereum, BNB Chain, Polygon veya diğerleri arasında token takası yapmak isteyin, Xenify bunu zahmetsiz ve ödüllendirici hale getirir!
+Toplayıcıların nihai çapraz zincir toplayıcısı Xenify ile tanışın! Birden fazla zincirden geçen kullanıcılar için takas sürecini kolaylaştırmak üzere ustalıkla tasarlanan Xenify, benzersiz yetenekler sunar. Gelişmiş bir likidite toplama protokolü ile desteklenen Xenify, 28 farklı toplayıcıya bağlanarak 52 lider zincirde olağanüstü likidite ve rakipsiz oranlar sunar. İster Ethereum, BNB Chain, Polygon veya diğerleri arasında token takası yapmak isteyin, Xenify bunu zahmetsiz ve ödüllendirici hale getirir!
 
 Şu senaryoyu hayal edin: Ethereum üzerindeki Token-A'yı BNB Zinciri üzerindeki Token-B ile takas etmek istiyorsunuz. Xenify ile tek yapmanız gereken tek bir tıklama ve Ethereum üzerinde tek bir işlem. Artık farklı zincirlerde gezinme veya en iyi oranları arama zahmetine girmenize gerek yok - Xenify her şeyi hallederek size mevcut en uygun oranları sunar. Ancak Xenify'da zincirler arası takaslardan daha fazlası var; tüm katılımcılara fayda sağlayan çığır açan bir teşvik modeli içeren benzersiz tokenomiklere sahip, titizlikle tasarlanmış bir ekosistem.
 
@@ -353,16 +353,17 @@ Xenify'ın stake etme ve ödüllendirmeye yönelik yenilikçi yaklaşımı, benz
 | 15  | ChainHop          | https://chainhop.io                |
 | 16  | Stealth EX        | https://stealthex.io               |
 | 17  | Changelly         | https://changelly.com              |
-| 18  | XY Finance        | https://app.xy.finance             |
-| 19  | KyberSwap         | https://kyberswap.com              |
-| 20  | OpenOcean         | https://openocean.finance          |
-| 21  | SimpleSwap        | https://simpleswap.io              |
-| 22  | CoinCraddle       | https://coincraddle.com            | 
-| 23  | Squid Router      | https://app.squidrouter.com        |
-| 24  | ChangeNOW         | https://changenow.io               |
-| 25  | Houdini Swap      | https://houdiniswap.com            |
-| 26  | Rubic Finance     | https://rubic.finance              |
-| 27  | Chainge Finance   | https://dapp.chainge.finance       |
+| 18  | FixedFloat        | https://fixedfloat.com             |
+| 19  | XY Finance        | https://app.xy.finance             |
+| 20  | KyberSwap         | https://kyberswap.com              |
+| 21  | OpenOcean         | https://openocean.finance          |
+| 22  | SimpleSwap        | https://simpleswap.io              |
+| 23  | CoinCraddle       | https://coincraddle.com            | 
+| 24  | Squid Router      | https://app.squidrouter.com        |
+| 25  | ChangeNOW         | https://changenow.io               |
+| 26  | Houdini Swap      | https://houdiniswap.com            |
+| 27  | Rubic Finance     | https://rubic.finance              |
+| 28  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
@@ -1195,7 +1196,7 @@ Xenify'ın misyonu, tüm çalışmalarımızda Kripto'nun İlk İlkelerini koruy
 
 Toplayıcıların çapraz zincir toplayıcısı olan Xenify, kullanıcıların token takaslarına katılma şeklini dönüştürmek için sıfırdan titizlikle inşa edilmiştir. Birincil odak noktası sorunsuz bir kullanıcı deneyimi sunmak, aktif topluluk üyelerini ödüllendirmek ve adil ve sürdürülebilir bir token dağıtım modeli oluşturmaktır. Xenify, yenilikçi tokenomiklerden yararlanarak, kullanıcıların ekosisteme aktif katılımına değer veren ve teşvik eden merkezi olmayan, topluluk odaklı bir platform kurmayı amaçlamaktadır.
 
-Xenify'ı diğerlerinden ayıran şey, 27 farklı toplayıcıya sorunsuz bir şekilde bağlanması ve önde gelen 52 zincirde rakipsiz fiyatlarla tek tıklamayla zahmetsizce takas imkanı sunmasıdır. Bununla birlikte, değeri sadece kolaylığın ötesine uzanmaktadır. Kendisini diğer borsalardan ayıran Xenify, platformda gerçekleştirilen her eylemin, katkı ve katılıma dayalı faydaların tahakkuk ettiği karşılıklı bir ortama katkıda bulunmasını sağlayarak kullanıcının benimsemesini kolaylaştırır.
+Xenify'ı diğerlerinden ayıran şey, 28 farklı toplayıcıya sorunsuz bir şekilde bağlanması ve önde gelen 52 zincirde rakipsiz fiyatlarla tek tıklamayla zahmetsizce takas imkanı sunmasıdır. Bununla birlikte, değeri sadece kolaylığın ötesine uzanmaktadır. Kendisini diğer borsalardan ayıran Xenify, platformda gerçekleştirilen her eylemin, katkı ve katılıma dayalı faydaların tahakkuk ettiği karşılıklı bir ortama katkıda bulunmasını sağlayarak kullanıcının benimsemesini kolaylaştırır.
 
 Xenify ile kullanıcılara her takasta XNF token kazanma fırsatı sunulmakta ve bu fırsat, kullanıcıların günlük olarak ETH, BNB ve MATIC gibi yerel zincir tokenleri kazanmalarını sağlayan yenilikçi bir stake modeliyle tamamlanmaktadır. Bu benzersiz teşvik modeli, Xenify'ı, kazanç potansiyellerini en üst düzeye çıkarırken zincirler arası takas sürecini basitleştirmek isteyenler için inkar edilemez bir şekilde en iyi seçenek olarak konumlandırıyor.
 
@@ -1306,7 +1307,7 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 
 ## ◽️ Xenify
 
-  - Xenify, token takas deneyiminde devrim yaratmak için tasarlanmış merkezi olmayan bir finans (DeFi) protokolüdür. Son teknoloji ürünü bir zincirler arası toplayıcı sunarak 52 farklı zincirde token takası yapmayı kolaylaştırır. Xenify, 27 toplayıcıdan en iyi rotalara ve en düşük ücretlere erişim sağlayarak, kullanıcıların desteklenen zincirler arasında sorunsuz bir şekilde token takas etmelerini sağlar. Daha bağlantılı ve kullanıcı dostu bir DeFi ekosistemi yaratmayı amaçlayarak adaleti, basitliği, şeffaflığı, kullanıcı yetkilendirmesini ve birlikte çalışabilirliği vurgular.
+  - Xenify, token takas deneyiminde devrim yaratmak için tasarlanmış merkezi olmayan bir finans (DeFi) protokolüdür. Son teknoloji ürünü bir zincirler arası toplayıcı sunarak 52 farklı zincirde token takası yapmayı kolaylaştırır. Xenify, 28 toplayıcıdan en iyi rotalara ve en düşük ücretlere erişim sağlayarak, kullanıcıların desteklenen zincirler arasında sorunsuz bir şekilde token takas etmelerini sağlar. Daha bağlantılı ve kullanıcı dostu bir DeFi ekosistemi yaratmayı amaçlayarak adaleti, basitliği, şeffaflığı, kullanıcı yetkilendirmesini ve birlikte çalışabilirliği vurgular.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
