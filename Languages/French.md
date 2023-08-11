@@ -334,7 +334,7 @@ L'approche innovante de Xenify en matière de staking et de récompenses, combin
 
 ## ◽️ Agrégateurs pris en charge
 
-| Numérique | Agrégateur | Agrégateur de sites web |
+| Num | Agrégateur        | Agrégateur de sites web            |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -369,7 +369,7 @@ L'approche innovante de Xenify en matière de staking et de récompenses, combin
 
 ## ◽️ Chaînes prises en charge
 
-| Numérique | Type de chaîne | Nom de la chaîne | Site Internet de la chaîne      |
+| Num | Type de chaîne    | Nom de la chaîne | Site Internet de la chaîne         |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
