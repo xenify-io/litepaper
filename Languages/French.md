@@ -56,7 +56,7 @@ Bienvenue chez Xenify ! Nous sommes le point de rencontre de l'innovation, de la
 
 Xenify est un méta-agrégateur d'agrégateurs inter-chaînes, pionnier d'une nouvelle ère de "Swap to Earn" (échanger pour gagner). Notre protocole révolutionnaire intègre de manière transparente une tokenomique inventive et une fonctionnalité cross-chain avancée dans un ensemble unique et puissant. En incorporant un modèle incitatif unique, basé sur la théorie des jeux, qui récompense activement l'engagement, Xenify est prêt à provoquer un changement sismique dans le monde de l'échange entre chaînes. Notre mission est claire : révolutionner le paysage DeFi en offrant le meilleur des deux mondes : une expérience d'échange cross-chain ultra-efficace et des opportunités de gains substantielles.
 
-Au cœur de la vision audacieuse de Xenify se trouve un protocole d'agrégation de liquidités de pointe qui rationalise les échanges de jetons entre chaînes. Que vous souhaitiez échanger des jetons sur Ethereum, BNB Chain, Polygon, Arbitrum ou l'une des 52 chaînes prises en charge, Xenify vous couvre. Avec un accès à 27 agrégateurs différents, Xenify garantit une liquidité inégalée et des taux optimaux pour vos swaps. En s'appuyant sur des API de pointe, Xenify établit une communication transparente avec un large éventail d'agrégateurs DEX, ce qui améliore considérablement l'expérience d'échange et simplifie la recherche d'itinéraires d'échange optimaux dans la vaste mosaïque de chaînes.
+Au cœur de la vision audacieuse de Xenify se trouve un protocole d'agrégation de liquidités de pointe qui rationalise les échanges de jetons entre chaînes. Que vous souhaitiez échanger des jetons sur Ethereum, BNB Chain, Polygon, Arbitrum ou l'une des 52 chaînes prises en charge, Xenify vous couvre. Avec un accès à 28 agrégateurs différents, Xenify garantit une liquidité inégalée et des taux optimaux pour vos swaps. En s'appuyant sur des API de pointe, Xenify établit une communication transparente avec un large éventail d'agrégateurs DEX, ce qui améliore considérablement l'expérience d'échange et simplifie la recherche d'itinéraires d'échange optimaux dans la vaste mosaïque de chaînes.
 
 Ce qui distingue Xenify des autres plateformes d'échange entre chaînes est son engagement à créer un environnement mutuellement bénéfique pour tous les participants. En contribuant aux frais d'échange sur les chaînes EVM prises en charge, vous gagnez des jetons XNF, tandis que 100 % de vos frais d'échange sont distribués sous forme de récompenses aux détenteurs de XNF. De plus, Xenify sert de brûleur stratégique de couche 1 de XEN, permettant aux détenteurs de XEN de convertir sans effort leurs avoirs en XNF à un taux prévisible. Tout au long de ce processus de combustion, notre algorithme unique d'utilisation des frais garantit que 100 % des frais de combustion sont utilisés pour récompenser les détenteurs de XNF, tandis que les frais de menthe soutiennent la croissance de la liquidité du XNF. Cette stratégie gagnant-gagnant assure une prolifération constante de la liquidité XNF, quelle que soit l'activité du marché, tout en améliorant les récompenses pour les participants dévoués de Xenify.
 
@@ -140,7 +140,7 @@ Xenify se distingue dans l'espace DeFi par son engagement inébranlable en faveu
 
 ## ◽️ Capacités avancées d'agrégation inter-chaînes
 
-Avec Xenify, le passage d'une chaîne à l'autre n'a jamais été aussi transparent et efficace, ce qui permet de faire tomber les barrières et de favoriser un écosystème DeFi plus interconnecté. L'une des caractéristiques qui distingue Xenify des autres est que nous sommes un méta-agrégateur d'agrégateurs inter-chaînes. Bien que ce terme puisse paraître complexe, il signifie simplement que nous rassemblons plusieurs agrégateurs inter-chaînes sur une seule plateforme. En tirant parti de notre protocole avancé d'agrégation des liquidités, nous sommes en mesure de transformer la façon dont les utilisateurs passent d'un réseau blockchain à l'autre. En outre, les utilisateurs ont la possibilité de gagner des jetons natifs des chaînes respectives sur une base quotidienne, ce qui améliore encore leur portefeuille. Avec l'accès à des taux compétitifs et à une liquidité exceptionnelle de 27 agrégateurs à travers 52 chaînes, nos utilisateurs bénéficient d'avantages inégalés et d'une flexibilité accrue dans la gestion de leurs actifs.  
+Avec Xenify, le passage d'une chaîne à l'autre n'a jamais été aussi transparent et efficace, ce qui permet de faire tomber les barrières et de favoriser un écosystème DeFi plus interconnecté. L'une des caractéristiques qui distingue Xenify des autres est que nous sommes un méta-agrégateur d'agrégateurs inter-chaînes. Bien que ce terme puisse paraître complexe, il signifie simplement que nous rassemblons plusieurs agrégateurs inter-chaînes sur une seule plateforme. En tirant parti de notre protocole avancé d'agrégation des liquidités, nous sommes en mesure de transformer la façon dont les utilisateurs passent d'un réseau blockchain à l'autre. En outre, les utilisateurs ont la possibilité de gagner des jetons natifs des chaînes respectives sur une base quotidienne, ce qui améliore encore leur portefeuille. Avec l'accès à des taux compétitifs et à une liquidité exceptionnelle de 28 agrégateurs à travers 52 chaînes, nos utilisateurs bénéficient d'avantages inégalés et d'une flexibilité accrue dans la gestion de leurs actifs.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 ## ♦️ Échange de chaînes croisées
 
-- Xenify permet aux utilisateurs d'exécuter des swaps inter-chaînes transparents, facilitant plus que jamais l'échange de jetons entre 52 chaînes différentes. Notre processus rationalisé offre un nouveau niveau de simplicité dans les échanges de jetons entre chaînes et donne accès à 27 agrégateurs, garantissant les taux les plus compétitifs disponibles, tout en offrant une expérience efficace et gratifiante comme jamais auparavant.
+- Xenify permet aux utilisateurs d'exécuter des swaps inter-chaînes transparents, facilitant plus que jamais l'échange de jetons entre 52 chaînes différentes. Notre processus rationalisé offre un nouveau niveau de simplicité dans les échanges de jetons entre chaînes et donne accès à 28 agrégateurs, garantissant les taux les plus compétitifs disponibles, tout en offrant une expérience efficace et gratifiante comme jamais auparavant.
 
 - Mais voici le meilleur : L'un des avantages uniques de l'utilisation de Xenify est que chaque fois que les utilisateurs paient les frais d'échange de 0,5 % sur les chaînes où le XNF est déployé, ils sont récompensés par des jetons XNF dans le cadre d'une vente aux enchères d'échange quotidienne. Cela signifie que les utilisateurs peuvent profiter d'une expérience d'échange sans effort tout en accumulant des jetons XNF.
 
@@ -318,7 +318,7 @@ Pour les utilisateurs qui aspirent à augmenter leur potentiel de gain à partir
 
 <br>
 
-Voici Xenify, l'ultime agrégateur d'agrégateurs inter-chaînes ! Conçu pour rationaliser le processus d'échange pour les utilisateurs traversant plusieurs chaînes, Xenify offre des capacités inégalées. Alimenté par un protocole avancé d'agrégation de liquidités, Xenify se connecte à 27 agrégateurs différents, offrant une liquidité exceptionnelle et des taux imbattables sur 52 chaînes de premier plan. Que vous souhaitiez échanger des jetons entre Ethereum, BNB Chain, Polygon ou bien d'autres, Xenify vous permet de le faire sans effort et de manière gratifiante !
+Voici Xenify, l'ultime agrégateur d'agrégateurs inter-chaînes ! Conçu pour rationaliser le processus d'échange pour les utilisateurs traversant plusieurs chaînes, Xenify offre des capacités inégalées. Alimenté par un protocole avancé d'agrégation de liquidités, Xenify se connecte à 28 agrégateurs différents, offrant une liquidité exceptionnelle et des taux imbattables sur 52 chaînes de premier plan. Que vous souhaitiez échanger des jetons entre Ethereum, BNB Chain, Polygon ou bien d'autres, Xenify vous permet de le faire sans effort et de manière gratifiante !
 
 Imaginez ce scénario : vous voulez échanger le Token-A sur Ethereum contre le Token-B sur BNB Chain. Avec Xenify, il suffit d'un seul clic et d'une seule transaction sur Ethereum. Plus besoin de naviguer entre les différentes chaînes ou de chercher les meilleurs taux - Xenify s'occupe de tout, en vous fournissant les taux les plus favorables disponibles. Il s'agit d'un écosystème méticuleusement conçu avec une tokenomique unique, incorporant un modèle d'incitation révolutionnaire qui profite à tous les participants.
 
@@ -353,16 +353,17 @@ L'approche innovante de Xenify en matière de staking et de récompenses, combin
 | 15  | ChainHop          | https://chainhop.io                |
 | 16  | Stealth EX        | https://stealthex.io               |
 | 17  | Changelly         | https://changelly.com              |
-| 18  | XY Finance        | https://app.xy.finance             |
-| 19  | KyberSwap         | https://kyberswap.com              |
-| 20  | OpenOcean         | https://openocean.finance          |
-| 21  | SimpleSwap        | https://simpleswap.io              |
-| 22  | CoinCraddle       | https://coincraddle.com            | 
-| 23  | Squid Router      | https://app.squidrouter.com        |
-| 24  | ChangeNOW         | https://changenow.io               |
-| 25  | Houdini Swap      | https://houdiniswap.com            |
-| 26  | Rubic Finance     | https://rubic.finance              |
-| 27  | Chainge Finance   | https://dapp.chainge.finance       |
+| 18  | FixedFloat        | https://fixedfloat.com             |
+| 19  | XY Finance        | https://app.xy.finance             |
+| 20  | KyberSwap         | https://kyberswap.com              |
+| 21  | OpenOcean         | https://openocean.finance          |
+| 22  | SimpleSwap        | https://simpleswap.io              |
+| 23  | CoinCraddle       | https://coincraddle.com            | 
+| 24  | Squid Router      | https://app.squidrouter.com        |
+| 25  | ChangeNOW         | https://changenow.io               |
+| 26  | Houdini Swap      | https://houdiniswap.com            |
+| 27  | Rubic Finance     | https://rubic.finance              |
+| 28  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
@@ -1192,7 +1193,7 @@ La mission de Xenify est de créer une plateforme DeFi transparente, équitable 
 
 Xenify, un agrégateur d'agrégateurs inter-chaînes, a été méticuleusement conçu pour transformer la façon dont les utilisateurs s'engagent dans les échanges de jetons. Son objectif principal est d'offrir une expérience utilisateur transparente, de récompenser les membres actifs de la communauté et d'établir un modèle de distribution de jetons équitable et durable. En exploitant la tokenomique innovante, Xenify aspire à établir une plateforme décentralisée et communautaire qui valorise et encourage la participation active des utilisateurs au sein de l'écosystème.
 
-Xenify se distingue par sa connexion transparente à 27 agrégateurs différents, ce qui permet d'échanger en un seul clic et sans effort des billets à des tarifs imbattables dans 50 grandes chaînes. Cependant, sa valeur va au-delà de la simple commodité. Se distinguant des autres échanges, Xenify facilite l'adoption par les utilisateurs en veillant à ce que chaque action effectuée sur la plateforme contribue à un environnement réciproque où les avantages s'accumulent en fonction des contributions et de l'implication.
+Xenify se distingue par sa connexion transparente à 28 agrégateurs différents, ce qui permet d'échanger en un seul clic et sans effort des billets à des tarifs imbattables dans 50 grandes chaînes. Cependant, sa valeur va au-delà de la simple commodité. Se distinguant des autres échanges, Xenify facilite l'adoption par les utilisateurs en veillant à ce que chaque action effectuée sur la plateforme contribue à un environnement réciproque où les avantages s'accumulent en fonction des contributions et de l'implication.
 
 Avec Xenify, les utilisateurs ont l'opportunité exclusive de gagner des jetons XNF sur chaque échange, complétée par un modèle innovant de mise en jeu qui permet aux utilisateurs de gagner des jetons de la chaîne native tels que ETH, BNB et MATIC sur une base quotidienne. Ce modèle d'incitation unique positionne indéniablement Xenify comme le premier choix pour ceux qui cherchent à simplifier le processus d'échange entre chaînes tout en maximisant leur potentiel de gain.
 
@@ -1303,7 +1304,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 ## ◽️ Xenify
 
-  - Xenify est un protocole de finance décentralisée (DeFi) conçu pour révolutionner l'expérience d'échange de jetons. Il offre un agrégateur inter-chaînes de pointe, facilitant l'échange de jetons entre 52 chaînes différentes. Grâce à l'accès aux meilleurs itinéraires et aux frais les plus bas de 27 agrégateurs, Xenify permet aux utilisateurs d'échanger des jetons de manière transparente entre les chaînes prises en charge. Xenify met l'accent sur l'équité, la simplicité, la transparence, l'autonomisation des utilisateurs et l'interopérabilité, dans le but de créer un écosystème DeFi plus connecté et plus convivial.
+  - Xenify est un protocole de finance décentralisée (DeFi) conçu pour révolutionner l'expérience d'échange de jetons. Il offre un agrégateur inter-chaînes de pointe, facilitant l'échange de jetons entre 52 chaînes différentes. Grâce à l'accès aux meilleurs itinéraires et aux frais les plus bas de 28 agrégateurs, Xenify permet aux utilisateurs d'échanger des jetons de manière transparente entre les chaînes prises en charge. Xenify met l'accent sur l'équité, la simplicité, la transparence, l'autonomisation des utilisateurs et l'interopérabilité, dans le but de créer un écosystème DeFi plus connecté et plus convivial.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
