@@ -56,7 +56,7 @@ Bem-vindo à Xenify! Somos o Nexus da Inovação, Recompensa, Troca sem esforço
 
 A Xenify é um meta-agregador de agregadores de cadeia cruzada, pioneiro numa nova era de "Trocar para Ganhar". Nosso protocolo inovador integra perfeitamente tokenomics inventivos e funcionalidade avançada de cadeia cruzada em um único e poderoso pacote. Ao incorporar um modelo de incentivo único, baseado na teoria dos jogos, que recompensa ativamente o envolvimento, a Xenify está preparada para instigar uma mudança sísmica no mundo da troca entre cadeias. A nossa missão é clara: revolucionar a paisagem DeFi, oferecendo o melhor dos dois mundos: uma experiência de troca de cadeia cruzada ultra-eficiente e oportunidades substanciais de ganho.
 
-No centro da visão ousada da Xenify está um protocolo de agregação de liquidez de ponta que simplifica as trocas de tokens entre cadeias. Se você deseja trocar tokens no Ethereum, BNB Chain, Polygon, Arbitrum ou em qualquer uma das 52 cadeias suportadas, a Xenify o cobre. Com acesso a 27 agregadores diferentes, a Xenify garante uma liquidez incomparável e taxas óptimas para os seus swaps. Ao alavancar APIs de ponta, a Xenify estabelece uma comunicação perfeita com uma ampla gama de agregadores DEX, melhorando drasticamente a experiência de troca e simplificando a busca por rotas de troca ideais através da vasta tapeçaria de cadeias.
+No centro da visão ousada da Xenify está um protocolo de agregação de liquidez de ponta que simplifica as trocas de tokens entre cadeias. Se você deseja trocar tokens no Ethereum, BNB Chain, Polygon, Arbitrum ou em qualquer uma das 52 cadeias suportadas, a Xenify o cobre. Com acesso a 28 agregadores diferentes, a Xenify garante uma liquidez incomparável e taxas óptimas para os seus swaps. Ao alavancar APIs de ponta, a Xenify estabelece uma comunicação perfeita com uma ampla gama de agregadores DEX, melhorando drasticamente a experiência de troca e simplificando a busca por rotas de troca ideais através da vasta tapeçaria de cadeias.
 
 O que distingue a Xenify de outras plataformas de troca entre cadeias é o seu compromisso de criar um ambiente mutuamente benéfico para todos os participantes. Ao contribuir para as taxas de swap nas cadeias EVM suportadas, ganha tokens XNF, enquanto 100% das suas taxas de swap são distribuídas como recompensas aos stakers XNF. Além disso, a Xenify serve como um queimador estratégico de camada 1 de XEN, permitindo que os detentores de XEN convertam sem esforço as suas participações em XNF a uma taxa previsível. Ao longo deste processo de queima, o nosso algoritmo único de utilização de taxas garante que 100% das taxas de queima são direccionadas como recompensas para os stakers de XNF, enquanto a taxa de cunhagem reforça o crescimento da liquidez de XNF. Esta estratégia ganha-ganha garante a proliferação constante da liquidez XNF, independentemente da atividade do mercado, enquanto aumenta as recompensas para os participantes dedicados da Xenify.
 
@@ -140,7 +140,7 @@ A Xenify distingue-se no espaço DeFi pelo seu compromisso inabalável com a jus
 
 ## ◽️ Capacidades avançadas de agregador de cadeia cruzada
 
-Com o Xenify, a troca entre cadeias nunca foi tão perfeita e eficiente, quebrando barreiras e promovendo um ecossistema DeFi mais interconectado. Um recurso de destaque que diferencia o Xenify do resto é que somos um meta agregador de agregadores de cadeia cruzada. Embora o termo possa parecer complexo, significa simplesmente que reunimos vários agregadores de cadeia cruzada numa única plataforma. Ao alavancar nosso avançado protocolo de agregação de liquidez, somos capazes de transformar a maneira como os usuários fazem a transição entre as redes blockchain. Além disso, os utilizadores têm a oportunidade de ganhar diariamente tokens nativos das respectivas cadeias, melhorando ainda mais a sua carteira. Com acesso a taxas competitivas e liquidez excecional de 27 agregadores em 52 cadeias, os nossos utilizadores desfrutam de benefícios incomparáveis e maior flexibilidade na gestão dos seus activos.  
+Com o Xenify, a troca entre cadeias nunca foi tão perfeita e eficiente, quebrando barreiras e promovendo um ecossistema DeFi mais interconectado. Um recurso de destaque que diferencia o Xenify do resto é que somos um meta agregador de agregadores de cadeia cruzada. Embora o termo possa parecer complexo, significa simplesmente que reunimos vários agregadores de cadeia cruzada numa única plataforma. Ao alavancar nosso avançado protocolo de agregação de liquidez, somos capazes de transformar a maneira como os usuários fazem a transição entre as redes blockchain. Além disso, os utilizadores têm a oportunidade de ganhar diariamente tokens nativos das respectivas cadeias, melhorando ainda mais a sua carteira. Com acesso a taxas competitivas e liquidez excecional de 28 agregadores em 52 cadeias, os nossos utilizadores desfrutam de benefícios incomparáveis e maior flexibilidade na gestão dos seus activos.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 
 ## ♦️ Troca de cadeias cruzadas
 
-- A Xenify permite que os utilizadores executem swaps de cadeia cruzada sem problemas, tornando mais fácil do que nunca a troca de tokens em 52 cadeias diferentes. Nosso processo simplificado oferece um novo nível de simplicidade em trocas de tokens entre cadeias e fornece acesso a 27 agregadores, garantindo as taxas mais competitivas disponíveis, proporcionando uma experiência eficiente e gratificante como nunca antes.
+- A Xenify permite que os utilizadores executem swaps de cadeia cruzada sem problemas, tornando mais fácil do que nunca a troca de tokens em 52 cadeias diferentes. Nosso processo simplificado oferece um novo nível de simplicidade em trocas de tokens entre cadeias e fornece acesso a 28 agregadores, garantindo as taxas mais competitivas disponíveis, proporcionando uma experiência eficiente e gratificante como nunca antes.
 
 - Mas aqui está a melhor parte: Uma das vantagens únicas de utilizar a Xenify é que sempre que os utilizadores pagam a taxa de troca de 0,5% em cadeias onde o XNF é implementado, são recompensados com tokens XNF através de um leilão de troca diário. Isto significa que os utilizadores podem desfrutar de uma experiência de troca sem esforço, ao mesmo tempo que acumulam tokens XNF.
 
@@ -318,7 +318,7 @@ Para os utilizadores que pretendem aumentar o seu potencial de ganhos com bloque
 
 <br>
 
-Apresentamos o Xenify, o melhor agregador de agregadores entre cadeias! Especialmente concebido para simplificar o processo de troca para os utilizadores que atravessam várias cadeias, o Xenify oferece capacidades inigualáveis. Alimentado por um protocolo avançado de agregação de liquidez, o Xenify se conecta a 27 agregadores diferentes, oferecendo liquidez excecional e taxas imbatíveis em 52 cadeias líderes. Se você deseja trocar tokens entre Ethereum, BNB Chain, Polygon ou muitos outros, Xenify torna isso fácil e gratificante!
+Apresentamos o Xenify, o melhor agregador de agregadores entre cadeias! Especialmente concebido para simplificar o processo de troca para os utilizadores que atravessam várias cadeias, o Xenify oferece capacidades inigualáveis. Alimentado por um protocolo avançado de agregação de liquidez, o Xenify se conecta a 28 agregadores diferentes, oferecendo liquidez excecional e taxas imbatíveis em 52 cadeias líderes. Se você deseja trocar tokens entre Ethereum, BNB Chain, Polygon ou muitos outros, Xenify torna isso fácil e gratificante!
 
 Imagine este cenário: quer trocar o Token-A no Ethereum pelo Token-B na BNB Chain. Com a Xenify, basta um único clique e uma única transação no Ethereum. Acabou-se o incómodo de navegar em diferentes cadeias ou de procurar as melhores taxas - a Xenify trata de tudo, fornecendo-lhe as taxas mais favoráveis disponíveis. Mas há mais na Xenify do que apenas trocas entre cadeias; É um ecossistema meticulosamente concebido com tokenomics únicos, incorporando um modelo de incentivo inovador que beneficia todos os participantes.
 
@@ -353,16 +353,17 @@ A abordagem inovadora da Xenify ao staking e às recompensas, combinada com o se
 | 15  | ChainHop          | https://chainhop.io                |
 | 16  | Stealth EX        | https://stealthex.io               |
 | 17  | Changelly         | https://changelly.com              |
-| 18  | XY Finance        | https://app.xy.finance             |
-| 19  | KyberSwap         | https://kyberswap.com              |
-| 20  | OpenOcean         | https://openocean.finance          |
-| 21  | SimpleSwap        | https://simpleswap.io              |
-| 22  | CoinCraddle       | https://coincraddle.com            | 
-| 23  | Squid Router      | https://app.squidrouter.com        |
-| 24  | ChangeNOW         | https://changenow.io               |
-| 25  | Houdini Swap      | https://houdiniswap.com            |
-| 26  | Rubic Finance     | https://rubic.finance              |
-| 27  | Chainge Finance   | https://dapp.chainge.finance       |
+| 18  | FixedFloat        | https://fixedfloat.com             |
+| 19  | XY Finance        | https://app.xy.finance             |
+| 20  | KyberSwap         | https://kyberswap.com              |
+| 21  | OpenOcean         | https://openocean.finance          |
+| 22  | SimpleSwap        | https://simpleswap.io              |
+| 23  | CoinCraddle       | https://coincraddle.com            | 
+| 24  | Squid Router      | https://app.squidrouter.com        |
+| 25  | ChangeNOW         | https://changenow.io               |
+| 26  | Houdini Swap      | https://houdiniswap.com            |
+| 27  | Rubic Finance     | https://rubic.finance              |
+| 28  | Chainge Finance   | https://dapp.chainge.finance       |
 
 <br>
 
@@ -1194,7 +1195,7 @@ A missão da Xenify é forjar uma plataforma DeFi transparente, equitativa e cen
 
 Xenify, um agregador de agregadores de cadeia cruzada, foi meticulosamente construído desde o início para transformar a forma como os utilizadores se envolvem em trocas de tokens. Seu foco principal é oferecer uma experiência de usuário perfeita, recompensar membros ativos da comunidade e estabelecer um modelo de distribuição de token justo e sustentável. Ao aproveitar a tokenomics inovadora, a Xenify aspira a estabelecer uma plataforma descentralizada e orientada para a comunidade que valoriza e incentiva a participação ativa dos utilizadores no ecossistema.
 
-O que distingue a Xenify é a sua ligação perfeita a 27 agregadores diferentes, permitindo trocas sem esforço com um único clique a taxas imbatíveis em 52 cadeias líderes. No entanto, o seu valor vai para além da mera conveniência. Distinguindo-se de outras trocas, a Xenify facilita a adoção do utilizador, assegurando que cada ação realizada na plataforma contribui para um ambiente recíproco onde os benefícios se acumulam com base nas contribuições e no envolvimento.
+O que distingue a Xenify é a sua ligação perfeita a 28 agregadores diferentes, permitindo trocas sem esforço com um único clique a taxas imbatíveis em 52 cadeias líderes. No entanto, o seu valor vai para além da mera conveniência. Distinguindo-se de outras trocas, a Xenify facilita a adoção do utilizador, assegurando que cada ação realizada na plataforma contribui para um ambiente recíproco onde os benefícios se acumulam com base nas contribuições e no envolvimento.
 
 Com o Xenify, os utilizadores têm uma oportunidade exclusiva de ganhar tokens XNF em cada troca, complementada por um modelo inovador de staking que permite aos utilizadores ganhar tokens de cadeia nativa como ETH, BNB e MATIC diariamente. Este modelo de incentivo único posiciona inegavelmente a Xenify como a melhor escolha para aqueles que procuram simplificar o processo de troca entre cadeias enquanto maximizam o seu potencial de ganhos.
 
@@ -1305,7 +1306,7 @@ Bem-vindo ao Glossário Xenify, seu recurso de referência para entender os prin
 
 ## ◽️ Xenify
 
-  - Xenify é um protocolo financeiro descentralizado (DeFi) projetado para revolucionar a experiência de troca de tokens. Ele oferece um agregador de cadeia cruzada de última geração, facilitando a troca de tokens em 52 cadeias diferentes. Com acesso às melhores rotas e taxas mais baixas de 27 agregadores, o Xenify permite que os usuários troquem tokens sem problemas entre as cadeias suportadas. Ele enfatiza a justiça, a simplicidade, a transparência, a capacitação do usuário e a interoperabilidade, com o objetivo de criar um ecossistema DeFi mais conectado e fácil de usar.
+  - Xenify é um protocolo financeiro descentralizado (DeFi) projetado para revolucionar a experiência de troca de tokens. Ele oferece um agregador de cadeia cruzada de última geração, facilitando a troca de tokens em 52 cadeias diferentes. Com acesso às melhores rotas e taxas mais baixas de 28 agregadores, o Xenify permite que os usuários troquem tokens sem problemas entre as cadeias suportadas. Ele enfatiza a justiça, a simplicidade, a transparência, a capacitação do usuário e a interoperabilidade, com o objetivo de criar um ecossistema DeFi mais conectado e fácil de usar.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
