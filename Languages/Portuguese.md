@@ -334,7 +334,7 @@ A abordagem inovadora da Xenify ao staking e às recompensas, combinada com o se
 
 ## ◽️ Agregadores suportados
 
-| Num | Agregador | Site Agregador |
+| Num | Agregador         | Site Agregador                     |
 |-----|-------------------|------------------------------------|
 | 1   | LI.FI             | https://li.fi                      |
 | 2   | 1inch             | https://1inch.io                   |
@@ -369,7 +369,7 @@ A abordagem inovadora da Xenify ao staking e às recompensas, combinada com o se
 
 ## ◽️ Cadeias suportadas
 
-| Número | Tipo de corrente | Nome da corrente | Site da corrente |
+| Num | Tipo de corrente  | Nome da corrente | Site da corrente                   |
 |-----|-------------------|---------------|---------------------------------------|
 | 1   | Layer 1           | Sui           | https://sui.io                        |
 | 2   | Layer 1           | EOS           | https://eosnetwork.com                |
