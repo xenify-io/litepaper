@@ -1282,7 +1282,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ## ◽️What happens to the rewards if there are no veXNF holders?
 
-If there are no veXNF holders at the end of the cycle, the native chain rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered only when there are no veXNF holders and all locks are expired.
+- If there are no veXNF holders at the end of the cycle, the native chain rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
 <br>
 
