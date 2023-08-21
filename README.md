@@ -1278,6 +1278,12 @@ We understand that you may have questions about Xenify, its features, and its po
 
 - Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️What happens to the rewards if there are no veXNF holders?
+
+If there are no veXNF holders at the end of the cycle, the native chain rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered only when there are no veXNF holders and all locks are expired.
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
