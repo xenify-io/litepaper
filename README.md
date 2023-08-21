@@ -458,9 +458,9 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **21,000,000 XNF assigned for the daily auctions:** Users that participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions.
 
-  - 10,500,000 XNF (50%) is distributed to burn auction participants. If the burn process has not been initiated during a cycle, the daily XNF allocation for burn auction participants will be distributed among swap participants for that cycle. If no swaps or burns occur during a cycle, the XNF allocation will neither be minted nor distributed. As a result, this scarcity-driven mechanism decreases the total supply of XNF, potentially increasing its value.
+  - 10,500,000 XNF (50%) is distributed to burn auction participants. If the burn process has not been initiated during a cycle, the daily XNF allocation for burn auction participants will be distributed among swap participants for that cycle. 
 
-  - 10,500,000 XNF (50%) is distributed to users who engage in swaps on supported EVM chains. In the absence of swaps during a cycle, the XNF allocation for swap participants will be distributed to burn auction participants for that cycle. If no swaps or burns occur during a cycle, this XNF allocation will neither be minted nor distributed. This action also contributes to reducing the total XNF supply, thus enhancing its scarcity and potential value.
+  - 10,500,000 XNF (50%) is distributed to users who engage in swaps on supported EVM chains. In the absence of swaps during a cycle, the XNF allocation for swap participants will be distributed to burn auction participants for that cycle. 
 
 - **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 100,000 XNF for the protocol’s Mint Fee Manager. Each time a user participates in the daily burn of vXEN or vUSDy they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
 
