@@ -302,13 +302,15 @@ Setelah Anda memiliki vUSDy, Anda dapat membakarnya untuk berpartisipasi dalam d
 
 <br>
 
-Pada intinya, XNF berfungsi sebagai token hadiah yang merangsang keterlibatan pengguna dalam Protokol Xenify. Fondasi tokenomiknya yang unik membuka jalan bagi metode klaim dan penguncian yang berbeda, yang meningkatkan keterlibatan pengguna dan memberdayakan pengguna untuk mengelola strategi penguncian mereka. Pengguna memiliki kebebasan untuk mengklaim XNF mereka dan menentukan periode penguncian, yang dapat berkisar dari minimal 2 minggu hingga maksimum 4 tahun, memberikan interaksi yang dipersonalisasi dengan protokol.
+Inti dari Xenify adalah XNF, sebuah token reward dinamis yang dirancang untuk mendorong partisipasi aktif dari pengguna. Tokenomiknya yang khas membentuk fondasi untuk pendekatan unik untuk mengklaim dan mengunci, mendorong keterlibatan pengguna yang lebih besar dan memberi pengguna kendali atas strategi penghasilan mereka. Ini berarti Anda memiliki kebebasan untuk mengklaim hadiah XNF Anda dan memutuskan periode penguncian yang disesuaikan dengan preferensi Anda, mulai dari 2 minggu hingga maksimal 4 tahun. Tingkat penyesuaian ini menawarkan interaksi yang benar-benar dipersonalisasi dengan protokol.
 
-Di sinilah veXNF berperan. veXNF adalah token non-fungible (NFT) ERC-721 yang diterima pengguna setelah mengunci XNF mereka. Jumlah veXNF yang dicetak berbanding lurus dengan jumlah XNF yang dikunci dan periode penguncian yang dipilih. veXNF tidak hanya mencerminkan kepemilikan pengguna dalam protokol, tetapi juga berfungsi sebagai indikator 'kekuatan penghasilan' pengguna, yang menentukan bagian mereka dalam distribusi hadiah rantai asli.
+Saat Anda mengunci token XNF Anda, token non-fungible (NFT) ERC-721 khusus dicetak sebagai gantinya - yang dikenal sebagai veXNF. Selain mencerminkan kepemilikan Anda dalam protokol, veXNF juga bertindak sebagai indikator 'kekuatan penghasilan' Anda, yang memengaruhi bagian Anda dalam distribusi reward rantai asli.
 
-Namun, 'daya penghasilan' ini tidak tetap. Selama periode penguncian, bahkan jika periode tersebut mencapai maksimum 4 tahun, kekuatan veXNF mengalami peluruhan secara bertahap. Peluruhan ini menandakan penurunan potensi penghasilan dari waktu ke waktu, menekankan perlunya pengguna untuk secara aktif dan teratur berinteraksi dengan protokol. Untuk meningkatkan kekuatan veXNF mereka dan mempertahankan kapasitas penghasilan mereka, pengguna harus sering mengklaim dan mendaur ulang reward mereka, dan untuk mempertahankan kekuatan ini, mereka diharuskan untuk memperpanjang durasi penguncian mereka.
+Kekuatan veXNF Anda selaras dengan jumlah XNF yang telah Anda kunci dan durasi periode penguncian yang Anda pilih. Penting untuk diperhatikan bahwa 'kekuatan penghasilan' ini tidak statis. Seiring waktu, meskipun Anda memilih periode penguncian maksimum 4 tahun, kekuatan daya veXNF Anda secara bertahap berkurang. Penurunan ini menggarisbawahi pentingnya terlibat secara teratur dengan protokol untuk mempertahankan dan bahkan meningkatkan potensi penghasilan Anda. Untuk meningkatkan kekuatan veXNF Anda dan memastikan kapasitas penghasilan yang konsisten, disarankan untuk tidak hanya mengklaim reward dan menambah saldo XNF yang terkunci, tetapi juga memperpanjang durasi penguncian sesuai kebutuhan.
+Bagi pengguna yang ingin mempertahankan potensi penghasilan mereka dari waktu ke waktu, protokol ini menawarkan kesempatan untuk memperpanjang periode penguncian. Dengan demikian, Anda tidak hanya meningkatkan kekuatan veXNF Anda, tetapi juga mengatur ulang jadwal peluruhan posisi Anda, sehingga Anda dapat terus terlibat dalam protokol.
 
-Untuk pengguna yang ingin meningkatkan potensi penghasilan mereka dari penguncian sebelumnya, protokol ini memberikan kesempatan untuk memperpanjang periode penguncian. Tindakan ini tidak hanya mempertahankan atau meningkatkan kuantitas veXNF tetapi juga mengatur ulang jadwal peluruhan, sehingga mendorong partisipasi yang berkelanjutan dalam protokol.
+Selain memperpanjang periode penguncian, pengguna juga dapat memanfaatkan opsi untuk Menggabungkan atau Membagi posisi veXNF mereka. Saat menggabungkan beberapa NFT veXNF, protokol akan menggabungkan saldo yang terkunci dan menerbitkan NFT veXNF baru dengan periode penguncian terpanjang di antara token yang digabungkan. Atau, saat memilih untuk membagi posisi veXNF Anda, NFT lama akan dibakar, dan NFT veXNF baru akan dicetak berdasarkan persentase tertentu yang Anda pilih.
+Intinya, XNF dan veXNF bekerja sama untuk tidak hanya menghargai keterlibatan Anda, tetapi juga memberdayakan Anda untuk menyesuaikan keterlibatan Anda dalam Protokol Xenify dengan preferensi dan tujuan unik Anda.
 
 <br>
 
@@ -456,9 +458,9 @@ Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strateg
 
 - **21.000.000 XNF ditugaskan untuk lelang harian:** Pengguna yang berpartisipasi dalam berbagai kegiatan yang mendukung pengembangan protokol yang sedang berlangsung akan memiliki kesempatan untuk mendapatkan bagian dari token XNF yang didedikasikan untuk lelang harian.
 
-  - 10.500.000 XNF (50%) didistribusikan kepada peserta lelang burn. Jika proses burn belum dimulai selama satu siklus, alokasi XNF harian untuk peserta lelang burn akan didistribusikan di antara peserta swap untuk siklus tersebut. Jika tidak ada swap atau burn yang terjadi selama satu siklus, alokasi XNF tidak akan dicetak atau didistribusikan. Akibatnya, mekanisme yang digerakkan oleh kelangkaan ini mengurangi total pasokan XNF, yang berpotensi meningkatkan nilainya.
-
-  - 10.500.000 XNF (50%) didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Jika tidak ada swap selama satu siklus, alokasi XNF untuk peserta swap akan didistribusikan kepada peserta lelang burn untuk siklus tersebut. Jika tidak ada swap atau burn yang terjadi selama satu siklus, alokasi XNF ini tidak akan dicetak atau didistribusikan. Tindakan ini juga berkontribusi dalam mengurangi total pasokan XNF, sehingga meningkatkan kelangkaan dan nilai potensialnya.
+  - 10.500.000 XNF (50%) didistribusikan kepada peserta lelang burn. Jika proses burn belum dimulai selama satu siklus, alokasi XNF harian untuk peserta lelang burn akan didistribusikan di antara peserta swap untuk siklus tersebut.
+  
+  - 10.500.000 XNF (50%) didistribusikan kepada pengguna yang melakukan swap pada chain EVM yang didukung. Jika tidak ada swap selama satu siklus, alokasi XNF untuk peserta swap akan didistribusikan kepada peserta lelang burn untuk siklus tersebut.
 
 - **100.000 XNF ditugaskan untuk penciptaan likuiditas XNF:** Untuk memfasilitasi hal ini, kami telah menyisihkan 100.000 XNF untuk Manajer Biaya Mint protokol. Setiap kali pengguna berpartisipasi dalam pembakaran harian vXEN atau vUSDy, mereka akan berkontribusi pada proliferasi likuiditas XNF. Inisiatif ini meningkatkan kesehatan protokol secara keseluruhan dan menumbuhkan kumpulan likuiditas yang kuat untuk komunitas kami.
 
@@ -1271,6 +1273,12 @@ Kami memahami bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fitur
 - Tetapi bagaimana jika siklus berlalu di mana hanya pertukaran yang dilakukan dan tidak ada pembakaran yang terjadi? Dalam skenario ini, XNF harian yang ditetapkan untuk distribusi akan dibagi di antara para peserta swap. Misalnya, jika alokasi harian untuk suatu siklus ditetapkan pada 20.000 XNF, dan swap dilakukan tanpa ada burn yang terjadi selama siklus tersebut, maka alokasi penuh 20.000 XNF akan dicetak dan didistribusikan di antara peserta swap.
 
 - Demikian pula, dalam siklus di mana hanya burn yang dieksekusi tanpa ada swap yang terjadi, alokasi penuh XNF yang dijadwalkan untuk didistribusikan akan dialokasikan kepada peserta lelang burn. Misalnya, jika alokasi harian untuk satu siklus ditetapkan pada 20.000 XNF, dan burn dilakukan tanpa ada swap yang terjadi selama siklus tersebut, maka alokasi penuh 20.000 XNF akan dicetak dan didistribusikan di antara para peserta lelang burn.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## Apa yang akan terjadi pada reward jika tidak ada pemegang veXNF?
+
+- Jika tidak ada pemegang veXNF di akhir siklus, reward rantai asli yang dihasilkan dari biaya swap dan biaya pembakaran akan digunakan untuk menciptakan likuiditas XNF yang dimiliki protokol. Fungsi ini hanya akan dipicu pada akhir siklus ketika tidak ada pemegang veXNF dan semua kunci kedaluwarsa.
 
 <br>
 
