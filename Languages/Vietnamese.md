@@ -52,15 +52,19 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 
 <br>
   
-Chào mừng bạn đến với Xenify! Chúng tôi là Trung tâm đổi mới, thưởng, Swap Cross-Chain một cách dễ dàng và mở rộng cộng đồng.
+Chào mừng đến với Xenify! Chúng tôi là sự kết nối của sự đổi mới, phần thưởng, trao đổi giữa các chuỗi không có nỗ lực, và mở rộng do cộng đồng thúc đẩy. 
 
-Xenify đứng như một tổng hợp chéo chuỗi phụ của các tổng hợp viên, tiên phong một kỷ nguyên mới của 'Swap để kiếm tiền'. Giao thức tiên tiến của chúng tôi kết hợp một cách khéo léo các tokenomics đổi mới và chức năng chéo chuỗi nâng cao thành một gói mạnh mẽ. Bằng cách kết hợp mô hình khuyến khích dựa trên lý thuyết trò chơi độc đáo, khuyến khích tích cực sự tham gia, Xenify được chuẩn bị để khởi xướng một sự dịch chuyển địa chấn trong thế giới của việc hoán đổi chéo chuỗi. Sứ mệnh của chúng tôi rõ ràng: cách mạng hóa cảnh quan DeFi bằng cách cung cấp tốt nhất của cả hai thế giới: một trải nghiệm hoán đổi chéo chuỗi siêu hiệu quả và cơ hội đáng kể để kiếm tiền.
+Xenify đứng như là một bộ tổng hợp tổng hợp đa chuỗi, dẫn đầu một kỷ nguyên mới của 'Swap to Earn'. Giao thức đột phá của chúng tôi tích hợp không ngừng tokenomics sáng tạo và chức năng đa chuỗi tiên tiến vào một gói duy nhất, mạnh mẽ. Bằng cách kết hợp một mô hình khuyến khích độc đáo, dựa trên lý thuyết trò chơi mà tích cực thưởng cho sự tham gia, Xenify được thiết kế để kích thích một sự thay đổi địa chấn trong thế giới của trao đổi chéo chuỗi. Nhiệm vụ của chúng tôi rất rõ ràng: cách mạng hóa bối cảnh DeFi bằng cách cung cấp những điều tốt nhất của cả hai thế giới: một trải nghiệm trao đổi đa chuỗi cực hiệu quả và cơ hội đáng kể để kiếm tiền.
 
-Ở trung tâm của tầm nhìn đầy tham vọng của Xenify là một giao thức tổng hợp thanh khoản cắt đỉnh, đơn giản hóa các giao dịch hoán đổi token chéo chuỗi. Cho dù bạn muốn hoán đổi token trên Ethereum, BNB Chain, Polygon, Arbitrum hay bất kỳ trong số 52 chuỗi được hỗ trợ nào, Xenify đều bao quát. Với quyền truy cập vào 28 tổng hợp viên khác nhau, Xenify đảm bảo thanh khoản vượt trội và tỷ lệ tối ưu cho các giao dịch hoán đổi của bạn. Bằng cách tận dụng các API tiên tiến, Xenify thiết lập liên lạc trôi chảy với một loạt các tổng hợp viên DEX, nâng cao đáng kể trải nghiệm hoán đổi và đơn giản hóa nhiệm vụ tìm kiếm các tuyến đường hoán đổi tối ưu trên bức tranh thêu rộng lớn của chuỗi.  
+Ở cốt lõi của tầm nhìn táo bạo của Xenify là một giao thức tổng hợp thanh khoản tiên tiến giúp hợp lý hóa các giao dịch trao đổi token liên chuỗi. Cho dù bạn muốn trao đổi token trên Ethereum, BNB Chain, Polygon, Arbitrum, hoặc bất kỳ trong 52 chuỗi được hỗ trợ, Xenify có bạn bao gồm. Với quyền truy cập vào 28 tập hợp khác nhau, Xenify đảm bảo thanh khoản không thể so sánh được và tỷ lệ tối ưu cho các giao dịch trao đổi của bạn. Bằng cách tận dụng các API tiên tiến, Xenify kết nối liên lạc liền mạch với một loạt các bộ tổng hợp DEX, tăng cường đáng kể trải nghiệm trao đổi và hợp lý hóa việc tìm kiếm các tuyến trao đổi tối ưu trên phạm vi rộng lớn của chuỗi.
 
-Điều làm nên sự khác biệt của Xenify so với các nền tảng hoán đổi chéo chuỗi khác là cam kết của nó trong việc tạo ra môi trường có lợi cho tất cả người tham gia. Bằng cách đóng góp phí giao dịch trên các chuỗi EVM được hỗ trợ, bạn kiếm được token XNF, trong khi 100% phí giao dịch của bạn được phân phối dưới dạng phần thưởng cho những người stake XNF. Ngoài ra, Xenify phục vụ như một lớp đốt chiến lược 1 của XEN, cho phép người nắm giữ XEN dễ dàng chuyển đổi tài sản của họ thành XNF với tỷ lệ dự đoán được. Xuyên suốt quá trình đốt này, thuật toán sử dụng phí của chúng tôi đảm bảo rằng 100% phí đốt được chuyển hướng dưới dạng thưởng cho những người stake XNF, trong khi phí đúc giúp tăng trưởng thanh khoản XNF. Chiến lược có lợi cho cả hai bên này đảm bảo sự phát triển liên tục của thanh khoản XNF, bất kể hoạt động thị trường, đồng thời tăng cường phần thưởng cho những người tham gia chuyên tâm của Xenify.
+Điều phân biệt Xenify với các nền tảng trao đổi đa chuỗi khác là nó cam kết tạo ra một môi trường có lợi cho tất cả những người tham gia. Bằng cách đóng góp cho các khoản phí trao đổi trên các chuỗi EVM được hỗ trợ, bạn kiếm được mã thông báo XNF, trong khi 100% các khoản tiền trao đổi của bạn được phân phối như phần thưởng cho những người tham gia XN F. Hơn nữa, Xenify phục vụ như một nhà đốt lớp 1 chiến lược của XEN, cho phép chủ sở hữu XEN dễ dàng chuyển đổi cổ phần của họ thành XNF với tốc độ có thể dự đoán được. Trong suốt quá trình đốt cháy này, thuật toán sử dụng lệ phí độc đáo của chúng tôi đảm bảo rằng 100% lệ phí đốt được chỉ định làm phần thưởng cho các cổ đông XNF, trong khi lệ phí tiền xu hỗ trợ tăng trưởng thanh khoản của XnF. Chiến lược win-win này đảm bảo sự gia tăng liên tục thanh khoản của XNF, bất kể hoạt động thị trường, đồng thời tăng cường phần thưởng cho những người tham gia chuyên dụng của Xenify.
 
-Ở trái tim của tư tưởng Xenify là sự cam kết vững chắc về sự công bằng và minh bạch, được thể hiện bởi mô hình phân phối token mẫu mực của chúng tôi. Với tổng cung tối đa chỉ 22.600.000 token XNF, sẽ không có phân bổ cho nhóm, người sáng lập hoặc nhà đầu tư. Trên thực tế, cách duy nhất để có được token XNF là thông qua sự tham gia tích cực vào hệ sinh thái. Cách tiếp cận này đảm bảo sự phân phối XNF công bằng thực sự, thưởng cho người dùng vì những đóng
+Ở trung tâm của đạo đức của Xenify là một cam kết vững chắc về sự công bằng và minh bạch, được thể hiện bởi mô hình phân phối token mẫu mực của chúng tôi. Với tổng nguồn cung tối đa chỉ là 22.600.000 token XNF, sẽ không có phân bổ cho nhóm, người sáng lập hay nhà đầu tư. Trên thực tế, cách duy nhất để có được token XNF là thông qua sự tham gia tích cực vào hệ sinh thái. Cách tiếp cận này đảm bảo sự phân phối thực sự công bằng của các mã thông báo XNF, thưởng cho người dùng cho những đóng góp của họ và thúc đẩy một giao thức dựa trên cộng đồng.
+
+Khi chúng tôi kết hợp tổng hợp thanh khoản tiên tiến và các tokenomics đặc biệt, Xenify sẵn sàng định nghĩa lại phong cảnh trao đổi liên chuỗi, tất cả trong khi nuôi dưỡng một hệ sinh thái thịnh vượng mà đặt tầm quan trọng tối đa vào sự hài lòng của người dùng và tăng trưởng bền vững. Tham gia cùng chúng tôi khi chúng tôi nhảy vào tương lai, và trải nghiệm thế giới của Xenify - một thế giới nơi mà sự đổi mới gặp phần thưởng, và mở rộng sức mạnh cộng đồng!
+
+<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Nhiệm vụ của chúng ta  
@@ -246,10 +250,13 @@ Cách tiếp cận hướng tới tương lai này bắt nguồn từ cam kết 
 
 Và đây là phần tốt nhất: Xenify đã thực hiện tỷ giá cố định cho vXEN, trong đó một vXEN tương đương với 1,00 USD, và một lô tương đương với 5 vXEN. Điều này đơn giản hóa toàn bộ quá trình đốt và loại bỏ nhu cầu tính toán liên tục. Hơn nữa, hàm đốt của chúng tôi tận dụng Chainlink để đảm bảo tỷ giá chuyển đổi cho tất cả các biến thể token XEN sẽ dựa trên giá trị thị trường hiện tại của chúng, đảm bảo bạn luôn nhận được giá trị đầy đủ cho các token XEN gốc của mình.
 
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+<br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 ## ◽️ Tổng quan về USDy
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 USDy là một token thưởng khuyến khích sự tham gia vào hệ sinh thái YSL.IO với ổn định và bền vững là trọng tâm. Được phát triển với các tokenomics tiên tiến, giao thức YSL.IO có một loạt các tính năng sáng tạo giúp USDy trở thành một token thưởng nổi bật trong cảnh quan DeFi.
 
@@ -281,11 +288,11 @@ Một khi bạn sở hữu vUSDy, bạn có thể đốt nó để tham gia vào
 
 <br>  
 
-| Token gốc | Tỷ lệ chuyển đổi |
-|-|-|  
-| USDy | 1 USDy = 1 vUSDy |
-| bYSL | 1 bYSL = 5 vUSDy |
-| xYSL | 1 xYSL = 120 vUSDy |
+| Token gốc | Tỷ lệ chuyển đổi   |
+|-----------|--------------------|  
+| USDy      | 1 USDy = 1 vUSDy   |
+| bYSL      | 1 bYSL = 5 vUSDy   |
+| xYSL      | 1 xYSL = 120 vUSDy |
   
 <br>
 
@@ -295,13 +302,15 @@ Một khi bạn sở hữu vUSDy, bạn có thể đốt nó để tham gia vào
 
 <br>
   
-Về cốt lõi, XNF đóng vai trò là một token thưởng kích thích sự tham gia của người dùng trong Giao thức Xenify. Nền tảng tokenomics độc đáo của nó mở đường cho một phương pháp yêu cầu và khóa độc đáo, tăng cường sự tham gia của người dùng và trao quyền cho người dùng quản lý chiến lược khóa của họ. Người dùng có quyền yêu cầu XNF của họ và xác định thời gian khóa, có thể kéo dài từ tối thiểu 2 tuần đến tối đa 4 năm, cung cấp một tương tác cá nhân với giao thức.
-  
-Đây là nơi veXNF xuất hiện. veXNF là một token không thể hoán đổi ERC-721 (NFT) mà người dùng nhận được khi khóa XNF của họ. Số lượng veXNF được đúc trực tiếp tỷ lệ với số lượng XNF bị khóa và thời gian khóa đã chọn. veXNF không chỉ phản ánh vị trí stake của người dùng trong giao thức mà còn đóng vai trò là chỉ số về 'sức mạnh kiếm tiền' của người dùng, quyết định phần của họ trong việc phân phối phần thưởng chuỗi gốc.
-  
-Tuy nhiên, 'sức mạnh kiếm tiền' này không cố định. Trong suốt thời gian khóa, thậm chí nếu nó kéo dài lên tới tối đa 4 năm, sức mạnh của veXNF trải qua một quá trình suy giảm dần. Sự suy giảm này biểu thị sự giảm tiềm năng thu nhập theo thời gian, nhấn mạnh sự cần thiết phải tương tác chủ động và thường xuyên với giao thức. Để nâng cao sức mạnh veXNF của họ và duy trì khả năng kiếm tiền, người dùng phải thường xuyên yêu cầu và tái chế phần thưởng của họ, và để giữ lại sức mạnh này, họ phải kéo dài thời gian khóa của mình.
-  
-Đối với những người dùng mong muốn tăng tiềm năng kiếm tiền từ các khóa trước đó, giao thức đưa ra cơ hội kéo dài thời gian khóa. Hành động này không chỉ duy trì hoặc tăng số lượng veXNF mà còn đặt lại lịch trình suy giảm, do đó thúc đẩy sự tham gia liên tục trong giao thức.
+Ở trung tâm của Xenify là XNF, một token thưởng năng động được thiết kế để khuyến khích sự tham gia tích cực từ người dùng. Tokenomics đặc biệt của nó tạo nên nền tảng cho một cách tiếp cận độc đáo để yêu cầu và khóa, thúc đẩy sự tham gia của người dùng và cung cấp cho người dùng quyền kiểm soát các chiến lược kiếm tiền của họ. Điều này có nghĩa là bạn có quyền tự do yêu cầu phần thưởng XNF của mình và quyết định một thời gian khóa phù hợp với sở thích của bạn, kéo dài từ 2 tuần ngắn đến tối đa là 4 năm. Mức độ tùy chỉnh này cung cấp một sự tương tác thực sự cá nhân với giao thức.
+
+Khi bạn khóa các token XNF, một token ERC-721 đặc biệt (NFT) được tạo ra để trao đổi - được gọi là veXNF. Ngoài việc chỉ phản ánh cổ phần của bạn trong giao thức, veXNF cũng đóng vai trò là một chỉ số về'sức mạnh kiếm tiền' của bạn, ảnh hưởng đến phần phân phối phần thưởng chuỗi bản địa của bạn.
+
+Công suất của veXNF của bạn phù hợp với lượng XNF bạn đã khóa và thời gian của thời gian khóa đã chọn. Điều quan trọng cần lưu ý là "sức mạnh kiếm tiền" này không phải là tĩnh. Theo thời gian, ngay cả khi bạn chọn thời gian khóa tối đa 4 năm, sức mạnh của công suất veXNF của bạn dần dần giảm đi. Sự suy giảm này nhấn mạnh tầm quan trọng của việc tham gia thường xuyên với giao thức để duy trì và thậm chí nâng cao tiềm năng thu nhập của bạn. Để tăng sức mạnh veXNF của bạn và đảm bảo khả năng kiếm tiền ổn định, nên không chỉ yêu cầu phần thưởng và thêm vào số dư XNF bị khóa, mà còn kéo dài thời gian khóa của bạn khi cần thiết.
+Đối với những người dùng muốn duy trì tiềm năng kiếm tiền của họ theo thời gian, giao thức cung cấp một cơ hội để kéo dài thời gian khóa. Bằng cách này, bạn không chỉ tăng công suất veXNF của mình mà còn đặt lại lịch trình phân hủy của vị trí của bạn, thúc đẩy sự tham gia liên tục trong giao thức.
+
+Ngoài việc kéo dài thời gian khóa, người dùng cũng có thể tận dụng tùy chọn hợp nhất hoặc chia vị trí veXNF của họ. Khi hợp nhất nhiều NFT veXNF, giao thức hợp nhất số dư bị khóa và phát hành một NFT mới với thời gian khóa dài nhất trong số các token được hợp nhất. Hoặc, khi chọn chia vị trí veXNF của bạn, NFT cũ sẽ được đốt cháy, và các NFT mới được tạo ra dựa trên tỷ lệ phần trăm bạn đã chọn.
+Về cơ bản, XNF và veXNF làm việc cùng nhau để không chỉ thưởng cho sự tham gia của bạn mà còn trao quyền cho bạn để điều chỉnh việc tham gia vào Giao thức Xenify theo sở thích và mục tiêu độc đáo của bạn.
 
 <br>
  
@@ -451,10 +460,10 @@ Với tổng nguồn cung được giới hạn ở 22,6 triệu token XNF, đư
 
 - **21.000.000 XNF dành cho các cuộc đấu giá hàng ngày:** Những người dùng tham gia vào các hoạt động khác nhau thúc đẩy sự phát triển liên tục của giao thức sẽ có cơ hội nhận được một phần của các token XNF dành riêng cho các cuộc đấu giá hàng ngày.
 
-  - 10.500.000 XNF (50%) được phân phối cho những người tham gia đấu giá đốt. Nếu quá trình đốt chưa được bắt đầu trong một chu kỳ, phân bổ XNF hàng ngày cho những người tham gia đấu giá đốt sẽ được phân phối giữa những người tham gia hoán đổi cho chu kỳ đó. Nếu không có hoán đổi hoặc bỏng xảy ra trong một chu kỳ, phân bổ XNF sẽ không được đúc cũng không được phân phối. Kết quả là, cơ chế dựa trên sự khan hiếm này làm giảm tổng nguồn cung XNF, có khả năng làm tăng giá trị của nó.
+  - 10,500,000 XNF (50%) được phân phối cho những người tham gia đấu giá đốt cháy. Nếu quá trình đốt đã không được bắt đầu trong một chu kỳ, phân bổ XNF hàng ngày cho những người tham gia đấu giá đốt sẽ được phân phối giữa những người dự trao đổi cho chu kỳ đó.
 
-  - 10.500.000 XNF (50%) được phân phối cho những người dùng tham gia hoán đổi trên các chuỗi EVM được hỗ trợ. Trong trường hợp không có hoán đổi trong một chu kỳ, phân bổ XNF cho những người tham gia hoán đổi sẽ được phân phối để đốt những người tham gia đấu giá cho chu kỳ đó. Nếu không có hoán đổi hoặc bỏng xảy ra trong một chu kỳ, phân bổ XNF này sẽ không được đúc cũng như phân phối. Hành động này cũng góp phần làm giảm tổng nguồn cung XNF, do đó tăng cường sự khan hiếm và giá trị tiềm năng của nó.
-  
+  - 10,500,000 XNF (50%) được phân phối cho những người dùng tham gia trao đổi trên các chuỗi EVM được hỗ trợ. Trong trường hợp không có trao đổi trong một chu kỳ, khoản phân bổ XNF cho những người tham gia trao đổi sẽ được phân bổ cho người dự đấu giá tiêu thụ cho chu kỳ đó.
+ 
 - **100.000 XNF được chỉ định để tạo thanh khoản XNF:** Để tạo thuận lợi cho điều này, chúng tôi đã dành 100.000 XNF cho giao thức Trình quản lý phí Mint. Mỗi khi người dùng tham gia vào việc đốt vXEN hoặc vUSDy hàng ngày, họ sẽ góp phần vào sự gia tăng thanh khoản của XNF. Sáng kiến này củng cố sức khoẻ tổng thể của giao thức và thúc đẩy một nhóm thanh khoản mạnh mẽ cho cộng đồng của chúng tôi.
 
 - **1.500.000 XNF được dành riêng như một phần thưởng độc quyền dành cho những người tham gia hoán đổi:** Để khuyến khích sự tham gia, mỗi chuỗi sẽ có một phần thưởng độc quyền gồm 1.500.000 XNF dành cho những người thực hiện các hoán đổi trước khi triển khai XNF. Phần thưởng sẽ diễn ra vào ngày đầu tiên ra mắt, và sẽ được phân phối dưới dạng các token bị khóa, mở khóa dần dần trong 730 ngày.
@@ -1120,8 +1129,6 @@ Mô hình khuyến khích này đảm bảo người dùng Xenify luôn được
 
 <br>
 
-## ◽️ An ninh là ưu tiên hàng đầu
-
 Tại Xenify, an ninh là điều vô cùng quan trọng để đảm bảo sự an toàn và độ tin cậy tối đa của giao thức của chúng tôi. Để củng cố an ninh giao thức của chúng tôi, chúng tôi đang lên kế hoạch kiểm toán các hợp đồng bởi PeckShield, một công ty bảo mật được đánh giá cao trong ngành.
 
 Nền tảng của chúng tôi được thiết kế cẩn thận với sự phi tập trung hóa và tự chủ là những nguyên tắc hướng dẫn. Các hợp đồng thông minh của Xenify không có khóa quản trị, có nghĩa là chúng không thể được nâng cấp hoặc điều hành bởi một cơ quan tập trung. Để củng cố bản chất thực sự phi tập trung hóa và tự chủ của giao thức, tiềm năng kiếm tiền sẽ được phân bổ công bằng giữa các thành viên dựa trên số lượng veXNF và sức mạnh liên quan của họ. Khi Xenify phát triển, chúng tôi đặt mục tiêu ưu tiên lợi ích của người dùng, nuôi dưỡng tính minh bạch và tin tưởng trong suốt giao thức.  
@@ -1203,9 +1210,7 @@ Tóm lại, Xenify đại diện cho một sự thay đổi cục diện trong t
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
 # ◽️ Câu hỏi Thường gặp
-
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)  
 
 <br>
@@ -1250,14 +1255,13 @@ Chúng tôi hiểu rằng bạn có thể có câu hỏi về Xenify, các tính
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Nếu tôi staking ngay bây giờ thì khi nào tôi sẽ nhận được phần thưởng?
-
 - Khi bạn stake mã thông báo XNF, bạn sẽ nhận được phần thưởng vào cuối chu kỳ mà bạn thực hiện việc stake. Trong suốt chu kỳ, các phần thưởng này tích lũy trong nhóm phần thưởng, và giao thức phân phối toàn bộ nhóm phần thưởng các mã thông báo chuỗi gốc cho những người nắm giữ veXNF vào cuối chu kỳ dựa trên số dư veXNF và sức mạnh liên quan của họ, đảm bảo phân phối công bằng và minh bạch.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Có các cách khác nhau để tham gia với Xenify không?
-
 - Vâng, có một số cách để tham gia với Xenify, bao gồm:
+
   - Sử dụng bộ tổng hợp Xenify để thực hiện các giao dịch hoán đổi một cú nhấp chuột liền mạch và kiếm XNF trong quá trình đó.
   - Tham gia đốt trực tiếp vXEN hoặc vUSDy để có được XNF.
   - Stake mã thông báo XNF để kiếm mã thông báo chuỗi gốc như ETH, BNB và MATIC.
@@ -1273,6 +1277,12 @@ Chúng tôi hiểu rằng bạn có thể có câu hỏi về Xenify, các tính
 - Nhưng điều gì sẽ xảy ra nếu một chu kỳ trôi qua khi chỉ thực hiện hoán đổi và không xảy ra bỏng? Vâng, trong kịch bản này, XNF được chỉ định hàng ngày để phân phối sẽ được phân bổ giữa những người tham gia hoán đổi. Ví dụ: nếu phân bổ hàng ngày cho một chu kỳ được đặt ở mức 20.000 XNF và các hoán đổi được thực hiện mà không có bất kỳ sự bỏng nào xảy ra trong chu kỳ đó, thì việc phân bổ đầy đủ 20.000 XNF sẽ được đúc và phân phối giữa những người tham gia hoán đổi.
 
 - Tương tự, trong một chu kỳ chỉ thực hiện các lần đốt mà không có giao dịch hoán đổi nào diễn ra, việc phân bổ đầy đủ XNF dự kiến phân phối sẽ được phân bổ cho những người tham gia đấu giá đốt. Ví dụ: nếu phân bổ hàng ngày cho một chu kỳ được đặt ở mức 20.000 XNF và các lần đốt được thực hiện mà không có bất kỳ giao dịch hoán đổi nào xảy ra trong chu kỳ đó, thì việc phân bổ đầy đủ 20.000 XNF sẽ được đúc và phân phối giữa những người tham gia đấu giá đốt.
+
+![Gray V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ️ Chuyện gì sẽ xảy ra với phần thưởng nếu không có chủ sở hữu veXNF?
+
+- Nếu không có chủ sở hữu veXNF vào cuối chu kỳ, phần thưởng chuỗi bản địa được tạo ra từ phí trao đổi và phí đốt sẽ được sử dụng để tạo ra thanh khoản XNF thuộc sở hữu giao thức. Chức năng này sẽ chỉ được kích hoạt vào cuối chu kỳ khi không có người giữ veXNF và tất cả các khóa đã hết hạn.
 
 <br>
 
