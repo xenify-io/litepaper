@@ -302,13 +302,15 @@ Une fois que vous possédez vUSDy, vous pouvez le brûler pour participer à la 
 
 <br>
 
-À la base, le XNF sert de jeton de récompense qui stimule l'engagement de l'utilisateur au sein du protocole Xenify. Son fondement tokénomique unique ouvre la voie à une méthode distincte de réclamation et de verrouillage, qui renforce l'engagement des utilisateurs et leur permet de gérer leurs stratégies de verrouillage. Les utilisateurs ont la liberté de réclamer leur XNF et de déterminer la période de verrouillage, qui peut s'étendre d'un minimum de 2 semaines à un maximum de 4 ans, offrant ainsi une interaction personnalisée avec le protocole.
+Au cœur de Xenify se trouve XNF, un jeton de récompense dynamique conçu pour encourager la participation active des utilisateurs. Sa tokenomique distinctive constitue la base d'une approche unique de la réclamation et du verrouillage, favorisant un plus grand engagement des utilisateurs et leur donnant le contrôle de leurs stratégies de gain. Cela signifie que vous avez la liberté de réclamer vos récompenses XNF et de décider d'une période de blocage adaptée à vos préférences, allant d'une courte période de 2 semaines à un maximum de 4 ans. Ce niveau de personnalisation offre une interaction véritablement personnalisée avec le protocole.
 
-C'est là que le veXNF intervient. Le veXNF est un jeton non fongible (NFT) ERC-721 que les utilisateurs reçoivent lorsqu'ils verrouillent leur XNF. La quantité de veXNF frappée est directement proportionnelle à la quantité de XNF verrouillé et à la période de verrouillage choisie. Le veXNF reflète non seulement la participation d'un utilisateur au protocole, mais sert également d'indicateur de la " capacité de gain " de l'utilisateur, qui dicte sa part dans la distribution des récompenses de la chaîne native.
+Lorsque vous bloquez vos jetons XNF, un jeton spécial ERC-721 non fongible (NFT) est frappé en échange - connu sous le nom de veXNF. En plus de refléter votre participation au protocole, le veXNF agit également comme un indicateur de votre "capacité de gain", en influençant votre part de la distribution des récompenses de la chaîne native.
 
-Toutefois, cette "capacité de gain" n'est pas fixe. Au cours de la période de blocage, même si elle s'étend jusqu'à un maximum de 4 ans, le pouvoir de veXNF subit une diminution progressive. Cette décroissance signifie une réduction des gains potentiels au fil du temps, ce qui souligne la nécessité pour les utilisateurs d'interagir activement et régulièrement avec le protocole. Pour augmenter leur puissance de veXNF et maintenir leur capacité de gain, les utilisateurs doivent fréquemment réclamer et recycler leurs récompenses, et pour conserver cette puissance, ils sont tenus de prolonger la durée de leur verrou.
+La puissance de votre veXNF correspond à la quantité de XNF que vous avez bloquée et à la durée de la période de blocage que vous avez choisie. Il est important de noter que cette "capacité de gain" n'est pas statique. Au fil du temps, même si vous optez pour la période d'immobilisation maximale de 4 ans, la puissance de votre veXNF diminue progressivement. Cette diminution souligne l'importance de s'engager régulièrement dans le protocole afin de maintenir et même d'améliorer votre potentiel de gain. Pour augmenter votre pouvoir de veXNF et garantir une capacité de gain constante, il est conseillé non seulement de réclamer des récompenses et d'augmenter votre solde de XNF bloqué, mais aussi de prolonger la durée de votre blocage si nécessaire.
+Pour les utilisateurs qui souhaitent maintenir leur potentiel de gain au fil du temps, le protocole offre la possibilité de prolonger les périodes de blocage. Ce faisant, vous augmentez non seulement votre puissance en veXNF, mais vous réinitialisez également le calendrier de désintégration de votre position, ce qui favorise une implication continue dans le protocole.
 
-Pour les utilisateurs qui aspirent à augmenter leur potentiel de gain à partir de blocages antérieurs, le protocole offre la possibilité de prolonger la période de blocage. Cette action permet non seulement de maintenir ou d'augmenter la quantité de veXNF, mais aussi de réinitialiser le calendrier de désintégration, ce qui favorise une participation soutenue au protocole.
+Au-delà de l'extension des périodes de blocage, les utilisateurs peuvent également profiter de l'option de fusion ou de division de leurs positions en veXNF. Lors de la fusion de plusieurs NFT veXNF, le protocole consolide les soldes bloqués et émet un nouveau NFT veXNF avec la période de blocage la plus longue parmi les jetons fusionnés. Par ailleurs, si vous choisissez de diviser votre position en veXNF, l'ancien NFT est brûlé et de nouveaux NFT veXNF sont frappés sur la base des pourcentages spécifiés que vous avez choisis.
+En substance, XNF et veXNF travaillent main dans la main pour non seulement récompenser votre engagement, mais aussi vous permettre d'adapter votre participation au protocole Xenify à vos préférences et objectifs uniques.
 
 <br>
 
@@ -458,9 +460,9 @@ Avec une offre totale plafonnée à 22,6 millions de jetons XNF, stratégiquemen
 
 - **21 000 000 XNF affectés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités visant à soutenir le développement continu du protocole auront la possibilité de gagner une part des jetons XNF affectés aux enchères quotidiennes.
 
-  - 10 500 000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Si le processus de combustion n'a pas été lancé au cours d'un cycle, l'allocation quotidienne de XNF pour les participants aux enchères de combustion sera répartie entre les participants aux échanges pour ce cycle. Si aucun échange ou combustion n'a lieu au cours d'un cycle, l'allocation de XNF ne sera ni frappée ni distribuée. Par conséquent, ce mécanisme axé sur la rareté diminue l'offre totale de XNF, ce qui peut augmenter sa valeur.
-
-  - 10 500 000 XNF (50 %) sont distribués aux utilisateurs qui procèdent à des échanges sur les chaînes EVM prises en charge. En l'absence d'échanges au cours d'un cycle, l'allocation de XNF pour les participants aux échanges sera distribuée aux participants aux enchères de brûlures pour ce cycle. Si aucun échange ou combustion n'a lieu pendant un cycle, cette allocation de XNF ne sera ni frappée ni distribuée. Cette action contribue également à réduire l'offre totale de XNF, augmentant ainsi sa rareté et sa valeur potentielle.
+  - 10 500 000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Si le processus de combustion n'a pas été lancé au cours d'un cycle, l'allocation quotidienne de XNF pour les participants aux enchères de combustion sera répartie entre les participants aux swaps pour ce cycle.
+  
+  - 10 500 000 XNF (50 %) sont distribués aux utilisateurs qui effectuent des échanges sur les chaînes EVM prises en charge. En l'absence d'échanges au cours d'un cycle, l'allocation de XNF pour les participants aux échanges sera distribuée aux participants aux enchères par combustion pour ce cycle.
 
 - **100 000 XNF assignés à la création de liquidité XNF:** Pour faciliter cela, nous avons mis de côté 100 000 XNF pour le Mint Fee Manager du protocole. Chaque fois qu'un utilisateur participe à la combustion quotidienne de vXEN ou de vUSDy, il contribue à la prolifération de la liquidité XNF. Cette initiative renforce la santé globale du protocole et favorise un pool de liquidités robuste pour notre communauté.
 
@@ -712,6 +714,8 @@ Le tableau ci-dessous illustre l'évolution de la valeur du coefficient au cours
 | 24   | 0                         |
 
 <br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Différents scénarios de frais de combustion
 
@@ -990,8 +994,9 @@ Pendant la phase de pré-déploiement, alors que l'événement de largage est en
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Amplification des brûlures
-
 ![Ligne de séparation - Remplie](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 Voici l'amplification de la combustion de Xenify, une opportunité exclusivement conçue pour les propriétaires de NFT de classe 1 APEX XENFT (Xunicorn), de classe 2 APEX XENFT (Exotic) ou de Phoenix Ape. En possédant ces NFT rares, vous débloquerez un effet de combustion quotidien amplifié, qui augmentera votre nombre de lots de 100 lors de la combustion de vXEN ou de vUSDy. Si vous possédez ou louez au moins quatre de ces NFT recherchés, préparez-vous à une amplification encore plus importante, car votre portefeuille recevra un généreux bonus quotidien de 1000 lots.
 
@@ -1077,6 +1082,7 @@ Regardons de plus près comment fonctionne la combustion amplifiée dans différ
   - De plus, vous pouvez choisir de transférer l'utilité de vos 4 NFT vers une autre chaîne sur laquelle Xenify a été lancé. Ce faisant, vous pouvez utiliser 1 000 lots de bonus quotidiens supplémentaires ce jour-là, vous donnant effectivement 2 000 lots de bonus quotidiens. Par exemple, si vous avez épuisé votre bonus quotidien sur la chaîne BNB, il vous suffit de transférer l'utilité de vos NFT vers Ethereum et de recevoir 1 000 lots de bonus quotidiens sur Ethereum. Vous pouvez répéter ce processus pour chaque chaîne où Xenify a été déployé.
 
 ![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Récompenses en USDC réclamables
 
 Lorsqu'un NFT Phoenix Ape est loué via le marché Xenify, une partie des revenus locatifs de l'utilisateur est collectée sous forme de taxe. Combinées à une part des taxes sur les redevances d'OpenSea, ces gains sont ensuite distribués à tous les détenteurs de NFT Phoenix Ape sous forme de récompenses en USDC réclamables sur BNB Chain à la fin de chaque époque de 8 heures. 
@@ -1271,6 +1277,12 @@ Nous comprenons que vous puissiez avoir des questions sur Xenify, ses fonctionna
 - Mais que se passe-t-il si, au cours d'un cycle, seuls des échanges ont lieu et qu'aucune combustion n'a lieu ? Dans ce cas, les XNF quotidiens désignés pour la distribution seront répartis entre les participants à l'échange. Par exemple, si l'allocation quotidienne pour un cycle est fixée à 20 000 XNF et que des échanges sont effectués sans qu'aucun brûlage ne se produise au cours de ce cycle, l'allocation totale de 20 000 XNF sera frappée et répartie entre les participants à l'échange.
 
 - De même, dans un cycle où seuls des brûlages sont effectués sans échanges, la totalité de l'allocation de XNF prévue pour la distribution sera attribuée aux participants à la vente aux enchères de brûlages. Par exemple, si l'allocation journalière pour un cycle est fixée à 20 000 XNF et que des brûlages sont effectués sans qu'aucun échange n'ait lieu au cours de ce cycle, l'allocation totale de 20 000 XNF sera frappée et distribuée parmi les participants à la vente aux enchères de brûlages.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️What advient-il des récompenses s'il n'y a pas de détenteurs de veXNF ?
+
+- S'il n'y a pas de détenteurs de veXNF à la fin du cycle, les récompenses de la chaîne native générées par les frais d'échange et les frais de combustion seront utilisés pour créer de la liquidité XNF appartenant au protocole. Cette fonction ne sera déclenchée qu'à la fin d'un cycle, lorsqu'il n'y a pas de détenteurs de veXNF et que tous les verrous ont expiré.
 
 <br>
 
