@@ -1239,7 +1239,7 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Si hago un stake ahora, ¿cuándo puedo anularla?
+## ◽️ Si hago un stake ahora, ¿cuándo puedo anularlo?
 
   - Cuando decida stake su XNF, tendrá la oportunidad de seleccionar un ciclo de apuesta que se ajuste a sus preferencias, desde un mínimo de 2 semanas hasta un máximo de 4 años. Es importante tener en cuenta que una vez que comience el ciclo de apuesta, sus XNF tokens se bloquearán y no podrá retirarlas hasta que se complete el ciclo. Una vez que el ciclo de estaca elegido llegue a su fin, tendrá la libertad de desestablecer sus XNF tokens, recuperando la plena propiedad y el control sobre ellas. Al participar en el staking, contribuyes a la salud general de nuestro ecosistema y, a cambio, tienes la oportunidad de ganar recompensas de la cadena nativa a diario.
 
@@ -1276,6 +1276,10 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 - Pero, ¿y si un ciclo pasa donde sólo se realizan swaps y no se producen quemas o burns? Bueno, en este escenario, el XNF diario designado para la distribución se asignará a aquellos que participaron en los swaps. Por ejemplo, si la asignación diaria para un ciclo se establece en 20.000 XNF, y los swaps se realizan sin que se produzcan quemas o burns durante ese ciclo, la asignación completa de 20.000 XNF se minará y distribuirá entre los participantes de los swaps.
   
 - Del mismo modo, en un ciclo en el que sólo se ejecuten quemas sin swaps, la asignación completa de XNF programada para su distribución se asignará a los participantes de la subasta de burn. Por ejemplo, si la asignación diaria para un ciclo se establece en 20.000 XNF, y las quemas se llevan a cabo sin que ocurra ningún swap durante ese ciclo, entonces la asignación completa de 20.000 XNF se minará y distribuirá entre los participantes de la subasta de burns.
+
+## ◽️ ¿Qué ocurre con las recompensas si de momento no hay ningún holder de veXNF?
+
+En el caso de que no hayan holders de veXNF al final del ciclo diario, las recompensas generadas a partir de los swap y burn fees se utilizarán para crear liquidez XNF propiedad del protocolo. Esta función sólo se activará en el caso de que al final de un ciclo no existan holders de veXNF y todos los bloqueos hayan expirado.
 
 <br>
 
