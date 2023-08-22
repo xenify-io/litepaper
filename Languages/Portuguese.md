@@ -302,13 +302,15 @@ Depois de possuir vUSDy, você pode queimá-lo para participar da distribuição
 
 <br>
 
-No seu núcleo, o XNF serve como um token de recompensa que estimula o envolvimento do utilizador dentro do Protocolo Xenify. A sua base tokenómica única abre caminho para um método distinto de reivindicação e bloqueio, que aumenta o envolvimento do utilizador e permite aos utilizadores gerir as suas estratégias de bloqueio. Os utilizadores têm a liberdade de reivindicar o seu XNF e determinar o período de bloqueio, que pode ir de um mínimo de 2 semanas a um máximo de 4 anos, proporcionando uma interação personalizada com o protocolo.
+No coração da Xenify está o XNF, um token de recompensa dinâmico concebido para incentivar a participação ativa dos utilizadores. A sua tokenomics distintiva forma a base para uma abordagem única de reivindicação e bloqueio, promovendo um maior envolvimento do utilizador e fornecendo aos utilizadores o controlo sobre as suas estratégias de ganho. Isto significa que o utilizador tem a liberdade de reclamar as suas recompensas XNF e decidir sobre um período de bloqueio adaptado às suas preferências, que pode ir de um curto período de 2 semanas a um máximo de 4 anos. Este nível de personalização oferece uma interação verdadeiramente personalizada com o protocolo.
 
-É aqui que entra o veXNF. O veXNF é um token não fungível (NFT) ERC-721 que os utilizadores recebem quando bloqueiam o seu XNF. A quantidade de veXNF cunhada é diretamente proporcional à quantidade de XNF bloqueado e ao período de bloqueio escolhido. O veXNF não só reflecte a participação de um utilizador no protocolo, como também serve de indicador do "poder de ganho" do utilizador, que dita a sua participação na distribuição de recompensas da cadeia nativa.
+Quando bloqueia os seus tokens XNF, um token especial ERC-721 não fungível (NFT) é cunhado em troca - conhecido como veXNF. Para além de refletir meramente a sua participação no protocolo, o veXNF também actua como um indicador do seu "poder de ganho", influenciando a sua parte da distribuição de recompensas da cadeia nativa.
 
-No entanto, este "poder de ganho" não é fixo. Ao longo do período de bloqueio, mesmo que se prolongue até ao máximo de 4 anos, o poder do veXNF sofre uma diminuição gradual. Este declínio significa uma redução dos ganhos potenciais ao longo do tempo, enfatizando a necessidade de os utilizadores interagirem ativa e regularmente com o protocolo. Para aumentar o seu poder veXNF e manter a sua capacidade de ganho, os utilizadores têm de reclamar e reciclar frequentemente as suas recompensas e, para manter este poder, têm de prolongar a duração do seu bloqueio.
+O poder do seu veXNF está alinhado com a quantidade de XNF que bloqueou e a duração do período de bloqueio escolhido. É importante notar que este "poder de ganho" não é estático. Com o passar do tempo, mesmo que opte pelo período máximo de 4 anos de fidelização, a força do seu poder veXNF diminui gradualmente. Este declínio sublinha a importância de se envolver regularmente com o protocolo para manter e até aumentar o seu potencial de ganho. Para aumentar o seu poder de veXNF e garantir uma capacidade consistente de ganhar, é aconselhável não só reclamar recompensas e aumentar o seu saldo de XNF bloqueado, mas também prolongar a duração do seu bloqueio conforme necessário.
+Para os utilizadores que pretendem manter o seu potencial de ganhos ao longo do tempo, o protocolo oferece uma oportunidade de prolongar os períodos de bloqueio. Ao fazê-lo, não só aumenta o seu poder de veXNF, como também reinicia o calendário de decaimento da sua posição, promovendo o envolvimento contínuo no protocolo.
 
-Para os utilizadores que pretendem aumentar o seu potencial de ganhos com bloqueios anteriores, o protocolo apresenta uma oportunidade de prolongar o período de bloqueio. Esta ação não só mantém ou aumenta a quantidade de veXNF como também reinicia o calendário de decaimento, promovendo assim uma participação sustentada no protocolo.
+Para além de prolongar os períodos de bloqueio, os utilizadores podem também tirar partido da opção de Fundir ou Dividir as suas posições veXNF. Ao mesclar vários NFTs veXNF, o protocolo consolida os saldos bloqueados e emite um novo NFT veXNF com o período de bloqueio mais longo entre os tokens mesclados. Alternativamente, ao optar por dividir sua posição veXNF, o NFT antigo é queimado e novos NFTs veXNF são cunhados com base nas porcentagens especificadas que você escolheu.
+Essencialmente, o XNF e o veXNF trabalham lado a lado para não só recompensar o seu envolvimento, mas também para o capacitar a adaptar o seu envolvimento no Protocolo Xenify às suas preferências e objectivos únicos.
 
 <br>
 
@@ -458,9 +460,9 @@ Com uma oferta total limitada a 22,6 milhões de tokens XNF, estrategicamente di
 
 - **21.000.000 XNF atribuídos para os leilões diários:** Os utilizadores que participarem em várias actividades que reforcem o desenvolvimento contínuo do protocolo terão a oportunidade de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
 
-  - 10.500.000 XNF (50%) são distribuídos pelos participantes no leilão de queima. Se o processo de queima não tiver sido iniciado durante um ciclo, a alocação diária de XNF para os participantes do leilão de queima será distribuída entre os participantes de swap para esse ciclo. Se não ocorrerem swaps ou burns durante um ciclo, a atribuição de XNF não será cunhada nem distribuída. Como resultado, este mecanismo orientado para a escassez diminui a oferta total de XNF, aumentando potencialmente o seu valor.
-
-  - 10.500.000 XNF (50%) são distribuídos aos utilizadores que participam em trocas nas cadeias EVM suportadas. Na ausência de swaps durante um ciclo, a atribuição de XNF para os participantes em swaps será distribuída aos participantes em leilões de queima para esse ciclo. Se não ocorrerem swaps ou burns durante um ciclo, esta atribuição de XNF não será cunhada nem distribuída. Esta ação também contribui para reduzir a oferta total de XNF, aumentando assim a sua escassez e valor potencial.
+  - 10.500.000 XNF (50%) são distribuídos aos participantes do leilão de queima. Se o processo de queima não tiver sido iniciado durante um ciclo, a atribuição diária de XNF para os participantes do leilão de queima será distribuída entre os participantes de troca para esse ciclo.
+  
+  - 10.500.000 XNF (50%) são distribuídos aos utilizadores que participam em swaps em cadeias EVM suportadas. Na ausência de swaps durante um ciclo, a afetação de XNF para os participantes em swaps será distribuída pelos participantes em leilões de queima para esse ciclo.
 
 - **100.000 XNF atribuídos para a criação de liquidez XNF:** Para facilitar este processo, reservámos 100.000 XNF para o Mint Fee Manager do protocolo. Cada vez que um utilizador participa na queima diária de vXEN ou vUSDy, estará a contribuir para a proliferação de liquidez XNF. Esta iniciativa reforça a saúde geral do protocolo e promove um conjunto robusto de liquidez para a nossa comunidade.
 
@@ -712,6 +714,8 @@ A tabela abaixo ilustra como o valor do coeficiente muda durante um ciclo de 24 
 | 24   | 0                         | 
 
 <br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Diferentes cenários de taxas de combustão
 
@@ -1273,6 +1277,12 @@ Sabemos que pode ter dúvidas sobre a Xenify, as suas funcionalidades e o seu po
 - Mas e se passar um ciclo em que apenas se efectuam trocas e não ocorrem queimaduras? Bem, neste cenário, o XNF diário designado para distribuição será repartido entre os participantes do swap. Por exemplo, se a atribuição diária para um ciclo for fixada em 20 000 XNF e forem efectuadas trocas sem que ocorram quaisquer queimaduras durante esse ciclo, então a atribuição total de 20 000 XNF será cunhada e distribuída entre os participantes na troca.
 
 - Da mesma forma, num ciclo em que apenas queimaduras são executadas sem que ocorram swaps, a alocação total de XNF programada para distribuição será atribuída aos participantes do leilão de queimadas. Por exemplo, se a atribuição diária para um ciclo for fixada em 20 000 XNF, e forem efectuadas queimadas sem que ocorram quaisquer swaps durante esse ciclo, então a atribuição total de 20 000 XNF será cunhada e distribuída entre os participantes do leilão de queimadas.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️What acontece às recompensas se não houver detentores de veXNF?
+
+- Se não existirem detentores de veXNF no final do ciclo, as recompensas da cadeia nativa geradas a partir das taxas de troca e das taxas de queima serão utilizadas para criar liquidez XNF detida pelo protocolo. Esta função só será accionada no final de um ciclo quando não existirem detentores de veXNF e todos os bloqueios tiverem expirado.
 
 <br>
 
