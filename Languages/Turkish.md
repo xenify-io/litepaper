@@ -302,13 +302,15 @@ vUSDy'ye sahip olduğunuzda, Xenify'ın günlük XNF token dağıtımına katıl
 
 <br>
 
-Özünde XNF, Xenify Protokolü içinde kullanıcı katılımını teşvik eden bir ödül jetonu olarak hizmet vermektedir. Eşsiz tokenomik temeli, kullanıcı katılımını artıran ve kullanıcıların kilitleme stratejilerini yönetmelerini sağlayan kendine özgü bir talep ve kilitleme yönteminin yolunu açmaktadır. Kullanıcılar XNF'lerini talep etme ve en az 2 haftadan en fazla 4 yıla kadar uzanabilen kilit süresini belirleme özgürlüğüne sahiptir ve bu da protokolle kişiselleştirilmiş bir etkileşim sağlar.
+Xenify'ın kalbinde, kullanıcıların aktif katılımını teşvik etmek için tasarlanmış dinamik bir ödül jetonu olan XNF yatmaktadır. Kendine özgü tokenomiği, talep etme ve kilitlemeye yönelik benzersiz bir yaklaşımın temelini oluşturarak daha fazla kullanıcı katılımını teşvik eder ve kullanıcılara kazanç stratejileri üzerinde kontrol sağlar. Bu, XNF ödüllerinizi talep etme ve tercihlerinize göre 2 haftadan maksimum 4 yıla kadar uzanan bir kilitleme süresine karar verme özgürlüğüne sahip olduğunuz anlamına gelir. Bu kişiselleştirme düzeyi, protokol ile gerçekten kişiselleştirilmiş bir etkileşim sunar.
 
-İşte bu noktada veXNF devreye girer. veXNF, kullanıcıların XNF'lerini kilitlediklerinde aldıkları bir ERC-721 değiştirilemez token'dır (NFT). Çıkarılan veXNF miktarı, kilitlenen XNF miktarı ve seçilen kilit süresi ile doğru orantılıdır. veXNF yalnızca bir kullanıcının protokoldeki hissesini yansıtmakla kalmaz, aynı zamanda kullanıcının yerel zincir ödül dağıtımındaki payını belirleyen 'kazanma gücünün' bir göstergesi olarak da hizmet eder.
+XNF tokenlarınızı kilitlediğinizde, karşılığında veXNF olarak bilinen özel bir ERC-721 değiştirilemez token (NFT) basılır. Protokoldeki payınızı yansıtmanın ötesinde veXNF, yerel zincir ödül dağıtımındaki payınızı etkileyerek 'kazanma gücünüzün' bir göstergesi olarak da işlev görür.
 
-Ancak bu 'kazanma gücü' sabit değildir. Kilit süresi boyunca, maksimum 4 yıla kadar uzasa bile, veXNF'nin gücü kademeli bir düşüşe uğrar. Bu düşüş, zaman içinde potansiyel kazançlarda bir azalma anlamına gelir ve kullanıcıların protokolle aktif ve düzenli olarak etkileşime girmesi gerekliliğini vurgular. Kullanıcılar veXNF güçlerini artırmak ve kazanç kapasitelerini sürdürmek için ödüllerini sık sık talep etmeli ve geri dönüştürmeli ve bu gücü korumak için kilit sürelerini uzatmaları gerekmektedir.
+veXNF'nizin gücü, kilitlediğiniz XNF miktarı ve seçtiğiniz kilitleme süresinin süresi ile uyumludur. Bu 'kazanma gücünün' statik olmadığını unutmamak önemlidir. Zaman içinde, maksimum 4 yıllık kilitleme süresini tercih etseniz bile, veXNF gücünüz kademeli olarak azalır. Bu düşüş, kazanç potansiyelinizi korumak ve hatta artırmak için protokolle düzenli olarak etkileşim kurmanın önemini vurgulamaktadır. veXNF gücünüzü artırmak ve tutarlı bir kazanma kapasitesi sağlamak için, yalnızca ödülleri talep etmeniz ve kilitli XNF bakiyenize katkıda bulunmanız değil, aynı zamanda kilit sürenizi gerektiği gibi uzatmanız da tavsiye edilir.
+Zaman içinde kazanç potansiyellerini sürdürmeyi amaçlayan kullanıcılar için protokol, kilit sürelerini uzatma fırsatı sunuyor. Bunu yaparak sadece veXNF gücünüzü artırmakla kalmaz, aynı zamanda pozisyonunuzun bozunma programını da sıfırlayarak protokole sürekli katılımı teşvik edersiniz.
 
-Daha önceki kilitlemelerden elde ettikleri kazanç potansiyelini artırmak isteyen kullanıcılar için protokol, kilitleme süresini uzatma fırsatı sunar. Bu eylem sadece veXNF miktarını korumak veya artırmakla kalmaz, aynı zamanda bozunma programını sıfırlar ve böylece protokole sürekli katılımı teşvik eder.
+Kilit sürelerini uzatmanın ötesinde, kullanıcılar veXNF pozisyonlarını Birleştirme veya Bölme seçeneğinden de yararlanabilirler. Birden fazla veXNF NFT birleştirilirken, protokol kilitli bakiyeleri birleştirir ve birleştirilen tokenlar arasında en uzun kilit süresine sahip yeni bir veXNF NFT yayınlar. Alternatif olarak, veXNF pozisyonunuzu bölmeyi tercih ettiğinizde, eski NFT yakılır ve seçtiğiniz belirli yüzdelere göre yeni veXNF NFT'ler basılır.
+Özünde, XNF ve veXNF yalnızca katılımınızı ödüllendirmek için değil, aynı zamanda Xenify Protokolüne katılımınızı benzersiz tercihlerinize ve hedeflerinize göre uyarlamanızı sağlamak için el ele çalışır.
 
 <br>
 
@@ -458,9 +460,9 @@ Toplam arzı 22,6 milyon XNF token ile sınırlı olan ve stratejik olarak üç 
 
 - **Günlük açık artırmalar için tahsis edilen 21.000.000 XNF:** Protokolün devam eden gelişimini destekleyen çeşitli etkinliklere katılan kullanıcılar, günlük açık artırmalara tahsis edilen XNF tokenlerinden pay kazanma şansına sahip olacak.
 
-  - 10.500.000 XNF (%50) yakma ihalesi katılımcılarına dağıtılır. Bir döngü sırasında yakma işlemi başlatılmamışsa, yakma ihalesi katılımcıları için günlük XNF tahsisi o döngü için takas katılımcıları arasında dağıtılacaktır. Bir döngü sırasında hiçbir takas veya yakma işlemi gerçekleşmezse, XNF tahsisi ne basılır ne de dağıtılır. Sonuç olarak, bu kıtlık odaklı mekanizma toplam XNF arzını azaltarak potansiyel olarak değerini artırır.
-
-  - 10.500.000 XNF (%50) desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bir döngü sırasında takas olmaması durumunda, takas katılımcıları için XNF tahsisi, o döngü için yakma ihalesi katılımcılarına dağıtılacaktır. Bir döngü sırasında takas veya yakma gerçekleşmezse, bu XNF tahsisi ne basılacak ne de dağıtılacaktır. Bu eylem aynı zamanda toplam XNF arzının azaltılmasına katkıda bulunarak XNF'in kıtlığını ve potansiyel değerini artırır.
+  - 10.500.000 XNF (%50) yakma ihalesi katılımcılarına dağıtılır. Bir döngü sırasında yakma işlemi başlatılmamışsa, yakma ihalesi katılımcıları için günlük XNF tahsisi o döngü için takas katılımcıları arasında dağıtılacaktır.
+  
+  - 10.500.000 XNF (%50) desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bir döngü sırasında takas yapılmaması durumunda, takas katılımcıları için XNF tahsisi o döngü için yakma ihalesi katılımcılarına dağıtılacaktır.
 
 - **XNF likiditesi yaratılması için 100.000 XNF tahsis edildi:** Bunu kolaylaştırmak için protokolün Darphane Ücreti Yöneticisi için 100.000 XNF ayırdık. Bir kullanıcı günlük vXEN veya vUSDy yakımına her katıldığında, XNF likiditesinin çoğalmasına katkıda bulunacaktır. Bu girişim, protokolün genel sağlığını desteklemekte ve topluluğumuz için sağlam bir likidite havuzunu teşvik etmektedir.
 
@@ -712,6 +714,8 @@ Aşağıdaki tablo, 24 saatlik bir döngü sırasında katsayı değerinin nası
 | 24   | 0                         |   
 
 <br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Farklı Yakma Ücreti Senaryoları
 
@@ -1027,7 +1031,6 @@ Phoenix Ape NFT'nizin, Sınıf 1 APEX XENFT (Xunicorn) veya Sınıf 2 APEX XENFT
 İşte nasıl çalıştığı: NFT sahipleri Xenify üzerinde vXEN veya vUSDy yakmaya karar verdiğinde, günlük yakma bonusu ile toplam miktarlarını (NB) iki katına çıkarırlar. Bonus her NFT kimliği için günlük 100 toplu ile sınırlıdır. Bir kullanıcı, belirli bir NFT'ye ayrılan günlük 100 bonus toplamını kullandığında, o belirli NFT o gün için artık arttırılmış yakma sunmayacaktır. 
 
 Daha fazla güce ihtiyacınız mı var? Harika haberimiz var! Bu çok aranan NFT'lerden en az 4 tanesine sahip olarak veya kiralayarak, arttırmadan daha da yararlanacaksınız, cüzdanınız günlük 1000 toplu bonus alacak. Bu, dört NFT kimliğinizin her biri için ayrılan varsayılan 100'lük günlük bonus toplamlarının yerine geçer. Kısacası, 4 NFT'niz varsa, toplam günlük bonusunuz 1400 toplu yerine 1000 toplu ile sınırlı olacaktır.
-
 Unutmayın, ne kadar çok toplu yakarsanız, yakma ücretlerinden o kadar çok indirim elde edersiniz. 4 NFT'ye sahip olarak, bir döngünün ilk saatinde sadece 9.000 toplu yakarak yakma ücretlerinde %75'e varan maksimum indirim elde edebilirsiniz, olağan 10.000 yerine. Ayrıca, Phoenix Ape NFT'lerinin sınırlı bir arza sahip olmasıyla, bu ek gücü yakalayabilecek maksimum 130 cüzdan adresi olabilir. 
 
 Ve en iyisi şu: Bir NFT'niz olsun dört Phoenix Ape NFT'niz olsun, günlük toplu bonusunuz Xenify'nin piyasaya sürdüğü her zincire sorunsuz bir şekilde köprülenebilir. Diyelim ki Xenify, Polygon'a genişledi ve 4 Phoenix Ape NFT'nize sahipsiniz. BNB Zinciri'ndeki günlük 1000'lik toplu bonusunuzu tükettikten sonra, NFT'lerinizin faydasını Polygon'a kolayca köprüleyebilir ve orada 1000'lik toplu bonuslardan yararlanabilirsiniz. Günlük çarpanınızın her gün sıfırlandığı göz önünde bulundurulursa, Xenify'nin piyasaya sürdüğü tüm zincirlerde bu güçlendirilmiş yakma etkisinden faydalanma fırsatınız olacak!
@@ -1274,6 +1277,12 @@ Xenify, özellikleri ve potansiyeli hakkında sorularınız olabileceğini biliy
 - Peki ya sadece takasların yapıldığı ve hiç yakma işleminin gerçekleşmediği bir döngü geçerse? Bu senaryoda, dağıtım için belirlenen günlük XNF, takas katılımcıları arasında paylaştırılacaktır. Örneğin, bir döngü için günlük tahsisat 20.000 XNF olarak belirlenmişse ve bu döngü sırasında herhangi bir yanma meydana gelmeden takaslar gerçekleştirilirse, 20.000 XNF'lik tam tahsisat basılacak ve takas katılımcıları arasında dağıtılacaktır.
 
 - Benzer şekilde, takas yapılmadan sadece yakma işlemlerinin gerçekleştirildiği bir döngüde, dağıtım için planlanan XNF tahsisinin tamamı yakma ihalesi katılımcılarına tahsis edilecektir. Örneğin, bir döngü için günlük tahsisat 20.000 XNF olarak belirlenmişse ve bu döngü sırasında herhangi bir takas gerçekleşmeden yakma işlemi gerçekleştirilmişse, 20.000 XNF'lik tam tahsisat basılacak ve yakma ihalesi katılımcıları arasında dağıtılacaktır.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️What veXNF sahibi yoksa ödüllere ne olur?
+
+- Döngünün sonunda veXNF sahibi yoksa, takas ücretlerinden ve yakma ücretlerinden elde edilen yerel zincir ödülleri, protokole ait XNF likiditesi yaratmak için kullanılacaktır. Bu işlev yalnızca bir döngünün sonunda veXNF sahibi olmadığında ve tüm kilitlerin süresi dolduğunda tetiklenecektir.
 
 <br>
 
