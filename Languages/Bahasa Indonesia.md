@@ -33,7 +33,7 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 - [Ikhtisar Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ikhtisar-xenify)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xenify-tokenomics)
 - [Arsitektur Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-arsitektur-xenify)
-- [XNF Airdrops](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xnf-airdrops)
+- [XNF Airdrop](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-xnf-airdrops)
 - [Amplify Burns](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-burn-amplifikasi)
 - [Pengalaman Pengguna](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pengalaman-pengguna)
 - [Keamanan](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-keamanan)
@@ -789,7 +789,7 @@ Biaya mint vUSDy hanya berlaku jika Anda mengonversi USDy, xYSL, atau bYSL ke vU
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Distribusi Siklus
+## ◽️ Siklus Distribusi XNF
 
 Xenify menggunakan pendekatan yang seimbang dalam distribusi harian token XNF, dengan fokus pada dua komponen utama di semua rantai yang digunakannya: biaya pembakaran dan biaya swap. Komponen-komponen ini menerima bagian yang sama dari mint harian, dengan 50% dialokasikan untuk pengguna yang berpartisipasi dalam pembakaran token vXEN atau vUSDy, dan 50% sisanya didistribusikan di antara mereka yang melakukan swap.
 
@@ -955,7 +955,7 @@ Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nil
 </p>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ XNF Airdrops
+# ◽️ XNF Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
