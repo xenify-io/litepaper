@@ -451,15 +451,15 @@ XNF es el alma del protocolo Xenify, y cuenta con un suministro total limitado d
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Distribución de suministros
+## ◽️ Distribución del supply
 
 Con una oferta total limitada a 22,6 millones de tokens XNF, divididos estratégicamente en tres segmentos principales, Xenify se ha diseñado deliberadamente para recompensar a los participantes activos y promover al mismo tiempo un ecosistema equilibrado:
 
 - **21.000.000 XNF asignados para las subastas diarias:** Los usuarios que participen en diversas actividades que impulsen el desarrollo continuo del protocolo tendrán la oportunidad de ganar una parte de los tokens XNF dedicados a las subastas diarias.
 
-  - 10.500.000 XNF (50%) se distribuirá para quemar para aquellos participantes de la subasta. Si el proceso de quema no se ha iniciado durante un ciclo, la asignación diaria XNF para los participantes de la subasta de burn se distribuirá entre los participantes del swap para ese ciclo. Si no se producen swaps o quemas durante un ciclo, la asignación XNF no se minará ni distribuirá. Como resultado, este mecanismo impulsado por la escasez disminuye el suministro total de XNF, lo que podría aumentar su valor.
+  - 10.500.000 XNF (50%) se distribuirá para quemar para aquellos participantes de la subasta. Si el proceso de quema no se ha iniciado durante un ciclo, la asignación diaria XNF para los participantes de la subasta de burn se distribuirá entre los participantes del swap para ese ciclo. 
 
-  - 10.500.000 XNF (50%) se distribuye a los usuarios que realizan swaps en cadenas de EVM compatibles. En ausencia de swaps durante un ciclo, la asignación XNF para participantes de swap se distribuirá para los participantes de la subasta de burn para ese ciclo. Si no se producen swaps o quemas durante un ciclo, la asignación XNF no se minará ni distribuirá. Esta acción también contribuye a reducir la oferta total de XNF, aumentando así su escasez y su valor potencial.
+  - 10.500.000 XNF (50%) se distribuye a los usuarios que realizan swaps en cadenas de EVM compatibles. En ausencia de swaps durante un ciclo, la asignación XNF para participantes de swap se distribuirá para los participantes de la subasta de burn para ese ciclo. 
 
 - **100.000 XNF asignados para la creación de liquidez de XNF:** Para facilitar esto, hemos reservado 100.000 XNF para el Mint Fee Manager del protocolo. Cada vez que un usuario participe en la quema diaria de vXEN o vA, contribuirá a la proliferación de la liquidez de XNF. Esta iniciativa refuerza la salud general del protocolo y fomenta un sólido fondo de liquidez para nuestra comunidad.
 
