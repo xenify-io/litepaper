@@ -442,6 +442,8 @@ Xenifiy adalah protokol inovatif yang mengedepankan keadilan, keberlanjutan, dan
 
 XNF adalah sumber kehidupan protokol Xenify, dan memiliki total pasokan terbatas sebesar 22,6 juta token. Proses distribusi untuk XNF dirancang dengan mempertimbangkan transparansi dan kesetaraan, memastikan lapangan bermain yang setara untuk semua. Tanpa pra-tambang, alokasi investor, alokasi pendiri, atau alokasi tim, protokol Xenify mendorong lingkungan yang adil dan inklusif. Pengguna memiliki kesempatan untuk mendapatkan ekuitas XNF dengan terlibat dalam berbagai aktivitas, seperti membakar token vXEN atau vUSDy dan menukar token di seluruh chain yang didukung. Model pasokan token yang unik ini tidak hanya mendorong partisipasi aktif, tetapi juga menumbuhkan ekosistem yang berkembang dan berfokus pada komunitas sehingga semua orang dapat menjadi bagian darinya.
 
+<br>
+
 <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9efbd49d-e8dd-4956-b4ea-7c10c23c5674" class="source-light">
@@ -712,6 +714,8 @@ Tabel di bawah ini mengilustrasikan bagaimana nilai koefisien berubah selama sik
 | 24 | 0 |
 
 <br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Skenario Biaya Pembakaran yang Berbeda
 
