@@ -1478,3 +1478,5 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 - <https://medium.com/xenify>
 - <https://twitter.com/xenify_io>
 - <https://www.youtube.com/@xenify-io>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
