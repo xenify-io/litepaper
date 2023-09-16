@@ -952,8 +952,8 @@ Grâce à cette structure de récompense unique, Xenify est en mesure de renforc
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3f59ac54-47bf-4d29-848b-bb0b909f9160" class="source-light">
-    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d9f00b77-7e6d-4fd6-ad81-e980bbf46290" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c094e2a9-b4dd-46d9-bbd1-75db91d42f85" class="source-light">
+    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/69aa5a27-4b04-4069-a5a8-7b0a63b28fa9" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
