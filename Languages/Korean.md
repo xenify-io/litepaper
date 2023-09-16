@@ -952,8 +952,8 @@ veXNF 보유자로서 재활용 기능을 활용하면 플랫폼의 25% 청구 �
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/523aab9b-ec2a-4d12-bdb2-d983d14fe763" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6825811e-8ce4-4f0a-9058-20480d9e81f4" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/dbf73e36-d170-42f2-949c-90efa5be262e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2820d651-8ccf-441c-9d0a-3799f411fa75" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
