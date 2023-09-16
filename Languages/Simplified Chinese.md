@@ -952,8 +952,8 @@ Xenify让用户可以在方便的时候轻松领取和提取他们累积的原�
 
 r="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/92a5bcb5-6ccb-4070-af4f-681af3404916" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2c4924db-1f96-415d-804f-593687e96c19" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/28000457-230f-4c9d-91f7-a1cd8149fe16" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/01cce180-f1f5-4b3b-9b9b-fcca2dc1de40" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
