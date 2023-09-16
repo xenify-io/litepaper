@@ -552,7 +552,7 @@ The value per batch for a chain is established when Xenify is deployed, and will
 <br>
 
 $$
-VP = 10 * (10^(2 - ND))  
+VP = (10^(2 - ND)) 
 $$
 
 **Where:**
