@@ -952,8 +952,8 @@ Com esta estrutura de recompensa única, a Xenify é capaz de reforçar a procur
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/83786a1c-4a68-4a2b-9c35-359d177ce5b2" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3acddeee-8c92-4c58-a999-17e34cf27991" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/08a28c80-647f-46c0-9ced-14f31efc64ad" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f9ac1f64-a84a-4dc2-b761-1a611eae69f0" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
