@@ -28,7 +28,6 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- [USDy Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-usdy-overview)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
@@ -52,13 +51,13 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-Welcome to Xenify! We are the Nexus of Innovation, Reward, Effortless Cross-Chain Swapping, and Community-Driven Expansion. 
+Welcome to Xenify! We are the Nexus of Innovation, Reward, Effortless Cross-Chain Swapping, and Community-Driven Expansion.
 
 Xenify stands as a cross-chain meta-aggregator of aggregators, pioneering a new era of 'Swap to Earn'. Our groundbreaking protocol seamlessly integrates inventive tokenomics and advanced cross-chain functionality into a single, powerful package. By incorporating a unique, game theory-based incentive model that actively rewards engagement, Xenify is primed to instigate a seismic shift in the world of cross-chain swapping. Our mission is clear: revolutionise the DeFi landscape by offering the best of both worlds: an ultra-efficient cross-chain swap experience and substantial opportunities for earning.
 
 At the core of Xenify's bold vision is a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Ethereum, BNB Chain, Polygon, Arbitrum, or any of the 52 supported chains, Xenify has you covered. With access to 28 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
-What sets Xenify apart from other cross-chain swapping platforms is its commitment to creating a mutually beneficial environment for all participants. By contributing to swap fees across supported EVM chains, you earn XNF tokens, while 100% of your swap fees are distributed as rewards to XNF stakers. Moreover, Xenify serves as a strategic layer 1 burner of XEN, enabling XEN holders to effortlessly convert their holdings into XNF at a predictable rate. Throughout this burn process, our unique fee-utilization algorithm guarantees that 100% of burn fees are directed as rewards to XNF stakers, while the mint fee bolsters the growth of XNF liquidity. This win-win strategy ensures constant proliferation of XNF liquidity, regardless of market activity, while enhancing rewards for dedicated participants of Xenify.
+What sets Xenify apart from other cross-chain swapping platforms is its commitment to creating a mutually beneficial environment for all participants. By contributing to swap fees across supported EVM chains, you earn XNF tokens, while your swap fees are redistributed as rewards to XNF stakers and employed to fuel the growth of Xenify. Moreover, Xenify serves as a strategic layer 1 burner of XEN, enabling XEN holders to effortlessly convert their holdings into XNF at a predictable rate. Throughout this burn process, our unique fee-utilisation algorithm guarantees that 50% of burn fees are directed as rewards to XNF stakers, while the remaining 50% is utilised to bolster XNF liquidity. This win-win strategy ensures constant proliferation of XNF liquidity, regardless of market activity, while enhancing rewards for dedicated participants of Xenify.
 
 At the heart of Xenify's ethos is a steadfast commitment to fairness and transparency, embodied by our exemplary token distribution model. With a maximum total supply of only 22,600,000 XNF tokens, there will be no allocation for the team, founders, or investors. In fact, the only way to acquire XNF tokens is through active participation in the ecosystem. This approach ensures a truly equitable distribution of XNF tokens, rewarding users for their contributions and fostering a community-driven protocol.
 
@@ -152,35 +151,35 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ♦️ Staking
 
-- Xenify introduces a dynamic staking rewards system that offers significant advantages to XNF stakers. By staking XNF tokens, users become eligible to receive an impressive 100% of burn fees and swap fees generated on supported chains, every single day.
+- Xenify introduces a dynamic rewards system that offers significant advantages to XNF holders. By locking XNF tokens, users become eligible to receive an impressive 50% of burn fees and swap fees generated on supported chains, every single day.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Recycling
 
-  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you can bypass the 25% claim fee and simultaneously boost your XNF holdings as 100% of your rewards contribute to the daily vXEN burn. This streamlined burn process is further optimised by the protocol, which mints vXEN equivalent to your rewards value while deducting the burn fee from your reward balance. This mechanism essentially allows you to participate in the daily burn auction without the need for additional native chain rewards to cover mandatory protocol and burn fees associated with the default burn process. At the end of the cycle, you will receive XNF based on the batches contributed to the burn process from your recycled rewards.
+  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but you also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
 
-  - Moreover, leveraging the recycle function grants you exclusive access to the daily distribution of native tokens generated from the 25% claim fee. Your share of the native chain tokens is proportional to the rewards you recycle during a cycle. For instance, if $100,000 worth of native chain rewards were claimed during a cycle and you are the sole XNF staker recycling rewards, you would receive the entire $25,000 worth of native chain tokens generated from the claim fee when the cycle concludes.
+  - Recycling also provides a gateway to exclusive daily distributions. You'll gain access to additional rewards, including veXNF and XEN tokens drawn from protocol-owned liquidity. Plus, you'll receive native tokens generated from the 25% claim fee when you opt to recycle during the first hour of a cycle. It's an array of rewards that keeps on giving.
 
-  - When users recycle rewards, their native tokens are strategically utilised to strengthen the ecosystem. 50% of the tokens are used to generate XNF liquidity, 25% is utilised to create liquidity for the XEN token variant of the chain, and the remaining 25% of native tokens are sent to the team as USDC to cover ongoing operational expenses, including platform development, marketing campaigns, and community engagement activities. This mutually beneficial arrangement rewards recyclers for their dedication and active participation in the growth of Xenify, creating a win-win situation for both the earning potential of recyclers and the advancement of the platform.
+  - But here’s the best part, when you recycle, your rewards go a long way in fortifying our ecosystem. Your contribution will not only boost rewards for XNF stakers, but also stimulates the proliferation of XNF and XEN protocol-owned liquidity, and supports our team's operational efforts. It's a strategic move that strengthens Xenify from the inside out.
+
+  - In a nutshell, recycling doesn’t only enhance your XNF position through fee-free burning. It also unlocks exclusive access to rewards and actively contributes to the growth of Xenify. This forges a win-win situation where your contributions are rewarded, and the protocol advances, creating a thriving ecosystem for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Token Burning
 
-- Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn auction. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process.
-  
-- Consequently, users can engage in the daily burn auction, regardless of the XEN token variant or YSL.IO native token they hold. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
+- Xenify empowers users to effortlessly burn their XEN or YSL tokens directly from their wallets to participate in the daily burn auction. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Cross-Chain Swapping
 
-- Xenify enables users to execute seamless cross-chain swaps, making it easier than ever to exchange tokens across 52 different chains. Our streamlined process offers a new level of simplicity in cross-chain token swaps and provides access to 28 aggregators, guaranteeing the most competitive rates available, while delivering an efficient and rewarding experience like never before. 
+- Xenify is the ultimate solution for cross-chain swapping, allowing you to exchange tokens across 52 different chains with ease and efficiency. Our streamlined approach offers a new level of simplicity and provides access to 28 aggregators, ensuring you always have access to the best liquidity and rates for your swaps.
 
-- But here’s the best part: One of the unique advantages of using Xenify is that every time users pay the 0.5% swap fee on chains where XNF is deployed, they are rewarded with XNF tokens through a daily swap auction. This means that users can enjoy an effortless swapping experience while also accumulating XNF tokens.
+- But here’s the best part: One of the unique benefits of using Xenify is that you earn veXNF every time you pay the 0.5% swap fee on chains where XNF is deployed. This means that you not only enjoy seamless token swaps but also accumulate XNF, the native token of Xenify.
 
-- And the rewards don't stop there, as users can take advantage of the opportunity to earn additional daily rewards such as BNB, ETH, and MATIC by simply staking their XNF tokens. Xenify truly revolutionises the cross-chain swapping process; offering users simplicity, competitive rates, and a rewarding experience.
+- And the rewards keep coming! Holding veXNF entitles you to additional daily rewards such as BNB, ETH, and MATIC, based on the burn fees and swap fees generated during each cycle. Xenify is not just simplifying the swap process; it’s transforming it. We not only offer you the ultimate efficiency and market-leading rates, but a truly rewarding swap experience.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -238,63 +237,6 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Unifying the Chains (vXEN)
-
-Introducing vXEN, a groundbreaking solution created by Xenify to simplify the process of burning XEN tokens across different chains, enabling us to unify XEN communities across chains and support the token's deflationary nature. This innovative approach has been made possible by integrating Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
-
-Think of vXEN as the virtual counterpart of XEN tokens, specifically designed to streamline the burn process and acquire XNF tokens. Furthermore, vXEN opens up the opportunity for holders to participate in Xenify's burn auction on other chains by effortlessly migrating vXEN tokens. 
-
-To acquire vXEN, you’ll need to have the specific native XEN token variant for the chain, like bXEN on BNB Chain. Once you have vXEN tokens, you can choose to join the daily burn auction on that specific chain or seamlessly migrate them to any chain where XNF has been deployed to take part in Xenify's daily distribution of XNF tokens on those chains. For example, if XNF is deployed on Ethereum following its launch on the BNB Chain, you can migrate the vXEN tokens you acquire from BNB Chain (by burning bXEN) to participate in Xenify’s burn auction on Ethereum.
-
-This forward-thinking approach stems from Xenify's strong commitment to fostering interoperability within the XEN ecosystem and making Xenify accessible to XEN communities across multiple chains. As a result, vXEN empowers you to interact seamlessly with any EVM chain that supports the XEN ecosystem, and positions Xenify as a strategic layer 1 burner of XEN. This ensures that every user who burns any variant of XEN tokens on Xenify will be rightfully included in the burn record for the X1 distribution, which is the native token of the new XEN Layer 1 (X1 Chain).
-
-And here's the best part: Xenify has implemented a fixed rate for vXEN, where one vXEN is equivalent to $1.00, and one batch is equivalent to 5 vXEN. This simplifies the entire burn process and eliminates the need for continual calculations. Moreover, our burn function leverages Chainlink to ensure the conversion rate for all XEN token variants will be based on their current market value, which guarantees you always receive the full value for your native XEN tokens.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ USDy Overview 
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-USDy is a reward token that incentivises participation in the YSL.IO ecosystem with stability and sustainability at its core. Developed with cutting-edge tokenomics, the YSL.IO protocol boasts a host of innovative features that make USDy a standout reward token in the DeFi landscape.
-
-One of the key highlights of USDy is its Price Stability Model (PSM), which ensures a continuous increase in liquidity, even in the face of sell pressure. The protocol achieves this through a combination of autonomous Treasury-Owned Liquidity creation and an ingenious Buyback and Burn feature (UBB), which actively works to stabilise the price of USDy.
-
-Here's how it works: the UBB is activated every 4-epochs if the USDy pool price falls below $0.95. During this time, a portion of the tax from every trade of YSL, xYSL, bYSL, and USDy will be used to purchase and/or burn USDy. Additionally, 15% of every HydraVault deposit will also be used to purchase and burn USDy.
-
-What's more, the protocol generates Treasury-Owned Liquidity for USDy at every point of user interaction, ensuring that as more users join the YSL.IO ecosystem, USDy's liquidity grows autonomously. And to further reduce the supply of USDy and increase its price, the Incentive Buyback mechanism (UIB) kicks in every time someone purchases the YSL token. This mechanism incorporates a 25% incentive to purchase YSL while actively reducing the supply of USDy.
-
-Here's how it works: all of the USDC sent will be used to purchase and burn USDy equivalent to 175%, and as a bonus, users receive a complimentary 25% USDy for each purchase. The result is a reduction in USDy supply and an increase in its price, benefiting USDy holders.
-
-In conclusion, USDy has been carefully crafted by YSL.IO with a focus on price stability, and liquidity growth. With innovative features like UBB and UIB, USDy liquidity will continue to grow autonomously while its price remains stable, creating a sustainable, less volatile, and more robust ecosystem.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Unifying the YSL.IO Ecosystem (vUSDy)
-
-Introducing vUSDy, another groundbreaking solution by Xenify that enables seamless burning of YSL.IO native tokens, thereby unifying the YSL.IO ecosystem and supporting the protocol's cutting-edge Price Stability Model for its native tokens.
-
-This innovative approach to token burning has been made possible through the integration of both Axelar and LayerZero, decentralised protocols that break down barriers between cross-chain communication with their comprehensive protocol suites.
-
-Similar to vXEN, users are not obligated to possess the native XEN token on the Ethereum network in order to participate in Xenify's burn process and acquire XNF. Instead, Xenify empowers users within the YSL.IO ecosystem to effortlessly burn their YSL.IO native tokens directly from their wallets and acquire XNF.
-
-This solution truly reflects Xenify's dedication to interoperability, by expanding the protocol's scope and unlocking endless possibilities through the strategic unification of the XEN and YSL.IO ecosystems, fostering a shared vision that brings both communities together.
-
-vUSDy can be regarded as the virtual counterpart of YSL.IO's reward token, known as USDy. The sole purpose of vUSDy is to facilitate the conversion of YSL.IO native token variants into XNF tokens. It's important to note that acquiring vUSDy requires USDy tokens or a YSL.IO token variant supported by Xenify, such as bYSL or xYSL.
-
-Once you possess vUSDy, you can burn it to participate in Xenify's daily distribution of XNF tokens. With each YSL.IO token variant having a fixed conversion rate, it eliminates the guesswork from determining how much XEN you're required to burn as a batch. In other words, users can always have confidence in the amount of vUSDy they will obtain when burning their YSL.IO native tokens. Please bear in mind that although the conversion rate for vUSDy remains fixed, it will vary depending on the specific YSL.IO native token you choose to exchange, as outlined in the table below:
-
-<br>
-
-| Native Token        | Conversion Rate      |
-|---------------------|----------------------|
-| USDy                | 1 USDy = 1 vUSDy     |
-| bYSL                | 1 bYSL = 5 vUSDy     |
-| xYSL                | 1 xYSL = 120 vUSDy   |
-
-<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ XNF & veXNF Overview
@@ -302,15 +244,13 @@ Once you possess vUSDy, you can burn it to participate in Xenify's daily distrib
 
 <br>
 
-At the heart of Xenify lies XNF, a dynamic reward token designed to encourage active participation from users. Its distinctive tokenomics forms the foundation for a unique approach to claiming and locking, fostering greater user engagement and providing users with control over their earning strategies. This means you have the freedom to claim your XNF rewards and decide on a lock period tailored to your preferences, spanning anywhere from a short 2 weeks to a maximum of 4 years. This level of customisation offers a truly personalised interaction with the protocol.
+At the heart of Xenify lies XNF, a dynamic reward token designed to encourage active participation from users. Its distinctive tokenomics forms the foundation for a unique approach to claiming and locking, fostering greater user engagement and providing users with control over their earning strategies. This means you have the freedom to claim your XNF rewards and decide on a lock period tailored to your preferences, spanning anywhere from a short 1 week to a maximum of 1 year. This level of customisation offers a truly personalised interaction with the protocol.
 
 When you lock your XNF tokens, a special ERC-721 non-fungible token (NFT) is minted in exchange - known as veXNF. Beyond merely reflecting your stake within the protocol, veXNF also acts as an indicator of your 'earning power', influencing your portion of the native chain rewards distribution.
 
-The power of your veXNF aligns with the amount of XNF you've locked and the duration of your chosen lock-in period. It's important to note that this 'earning power' isn't static. Over time, even if you opt for the maximum 4-year lock-in period, the strength of your veXNF power gradually diminishes. This decline underscores the importance of regularly engaging with the protocol to maintain and even enhance your earning potential. To boost your veXNF power and ensure a consistent capacity to earn, it's advised to not only claim rewards and add to your locked XNF balance, but also extend your lock duration as needed.
-For users aiming to sustain their earning potential over time, the protocol offers an opportunity to extend lock periods. By doing so, you not only increase your veXNF power but also reset the decay schedule of your position, fostering continued involvement in the protocol.
+The power of your veXNF aligns with the amount of XNF you've locked and the duration of your chosen lock-in period. It's important to note that this 'earning power' isn't static. Over time, even if you opt for the maximum 1 year lock-in period, the strength of your veXNF power gradually diminishes. This decline underscores the importance of regularly engaging with the protocol to maintain and even enhance your earning potential. To boost your veXNF power and ensure a consistent capacity to earn, it's advised to not only claim rewards but also add to your locked XNF balance, and extend your lock duration as needed. For users aiming to sustain their earning potential over time, the protocol offers an opportunity to extend lock periods. By doing so, you not only increase your veXNF power but also reset the decay schedule of your position, fostering continued involvement in the protocol.
 
-Beyond extending lock periods, users can also take advantage of the option to Merge or Split their veXNF positions. When merging multiple veXNF NFTs, the protocol consolidates locked balances and issues a fresh veXNF NFT with the longest lock period among the merged tokens. Alternatively, when opting to split your veXNF position, the old NFT is burned, and new veXNF NFTs are minted based on the specified percentages you've chosen.
-In essence, XNF and veXNF work hand in hand to not only reward your engagement but also empower you to tailor your involvement in the Xenify Protocol to your unique preferences and goals.
+Beyond extending lock periods, users can also take advantage of the option to merge or split their veXNF positions. When merging multiple veXNF NFTs, the protocol consolidates locked balances and issues a fresh veXNF NFT with the longest lock period among the merged tokens. Alternatively, when opting to split your veXNF position, the old NFT is burned, and new veXNF NFTs are minted based on the specified percentages you've chosen. In essence, XNF and veXNF work hand in hand to not only reward your engagement but also empower you to tailor your involvement in the Xenify Protocol to your unique preferences and goals.
 
 <br>
 
@@ -322,15 +262,18 @@ In essence, XNF and veXNF work hand in hand to not only reward your engagement b
 
 Introducing Xenify, the ultimate cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify offers unmatched capabilities. Powered by an advanced liquidity aggregation protocol, Xenify connects to 28 different aggregators, delivering exceptional liquidity and unbeatable rates across 52 leading chains. Whether you want to swap tokens between Ethereum, BNB Chain, Polygon, or many others, Xenify makes it effortless and rewarding!
 
-Imagine this scenario: you want to trade Token-A on Ethereum for Token-B on BNB Chain. With Xenify, all it takes is a single click and a single transaction on Ethereum. No more hassle of navigating different chains or searching for the best rates – Xenify takes care of everything, providing you with the most favourable rates available. But there's more to Xenify than just cross-chain swaps; It's a meticulously designed ecosystem with unique tokenomics, incorporating a groundbreaking incentive model that benefits all participants. 
+Imagine this scenario: you want to trade Token-A on Ethereum for Token-B on BNB Chain. With Xenify, all it takes is a single click and a single transaction on Ethereum. No more hassle of navigating different chains or searching for the best rates – Xenify takes care of everything, providing you with the most favourable rates available.
 
-Xenify's built-in swap fee mechanism creates a reciprocal environment that rewards platform users with XNF as part of the daily reward cycle, and XNF stakers with 100% of swap fees generated across supported chains. On chains where XNF has yet to be deployed, the swap fee is utilised by the team to promote and enhance the Xenify platform and its associated tokens, ensuring widespread awareness and adoption.
+But there's more to Xenify than just token swaps; It's a meticulously designed ecosystem with unique tokenomics, incorporating a groundbreaking incentive model that benefits all participants. 
 
-Here's how it works: When you pay the 0.5% swap fee to execute a swap on supported EVM chains where XNF has been deployed, you not only facilitate your transaction but also secure a position in the daily XNF reward cycle for that chain. At the end of each day, 100% of the swap fee is distributed as native chain rewards to staked XNF holders on that specific chain. This means you not only earn XNF tokens based on your swap fee contribution but also reward XNF stakers with native chain tokens. It's a win-win situation for everyone involved.
+Xenify's built-in swap fee mechanism creates a reciprocal environment that rewards platform users with XNF, and XNF stakers with swap fees generated across supported chains. On chains where XNF has yet to be deployed, the swap fee is utilised by the team to promote and enhance the Xenify platform and its associated tokens, ensuring widespread awareness and adoption.
 
-What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn XEN and USDy tokens to mint XNF. The XEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 100% of the burn fees go back to XNF stakers. This approach not only encourages long-term user engagement but also enhances rewards for those deeply involved with the protocol.
+Here's how it works: When you opt to pay the 0.5% swap fee to execute a swap on supported EVM chains where XNF has been deployed, you not only facilitate your transaction but also secure a position in the daily XNF distribution for that chain. At the end of each day, 50% of your swap fee is utilised for the Partner Fee Sharing Programme, and the remaining 50% distributed as native chain rewards to veXNF holders on that specific chain. This means you not only earn XNF tokens based on your swap fee contribution but also reward XNF stakers with native chain tokens, while simultaneously supporting the expansion of Xenify. It's a win-win situation for everyone involved.
 
-Xenify's innovative approach to staking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing cross-chain token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping tokens across 52 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless cross-chain token swapping and significant earning potential.
+What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn XEN and YSL tokens to mint XNF. The XEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 50% of the burn fees go back to XNF stakers, while 50% is utilised to create XNF protocol-owned liquidity. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
+
+Xenify's innovative approach to staking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 52 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
+
 
 <br>
 
@@ -434,13 +377,13 @@ Xenify's innovative approach to staking and rewards, combined with its unique to
 
 <br>
 
-Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 22.6 million. By engaging in a multitude of protocol activities such as burning, staking and swapping tokens, users are rewarded, fostering a dynamic ecosystem where benefits accrue based on contributions and involvement. With this thoughtful design, Xenify guarantees a level playing field for all users, creating an environment where everyone can reap the rewards and laying the foundation for an equitable, community-driven platform.
+Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 22.6 million. By participating in various protocol activities such as burning, locking, recycling, and swapping, users are rewarded, fostering a dynamic ecosystem where benefits are accrued on contributions and involvement. With this thoughtful design, Xenify ensures a level playing field for all users, building an environment where everyone can enjoy the rewards and establishing a foundation for an equitable, community-driven platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Token Supply
 
-XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 22.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning vXEN or vUSDy tokens and swapping tokens across supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
+XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 22.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning XEN or YSL tokens and swapping tokens from supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
 <br>
 
@@ -458,13 +401,13 @@ XNF is the lifeblood of the Xenify protocol, and features a limited total supply
 
 With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem:
 
-- **21,000,000 XNF assigned for the daily auctions:** Users that participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions.
+- **21,000,000 XNF assigned for the daily auctions:** Users who participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions. In each cycle, should there be no XEN or YSL burners, the XNF allocation initially designated for the burn auction will be distributed among swap participants, and vice versa.
 
-  - 10,500,000 XNF (50%) is distributed to burn auction participants. If the burn process has not been initiated during a cycle, the daily XNF allocation for burn auction participants will be distributed among swap participants for that cycle. 
+  - 10,500,000 XNF (50%) is distributed to burn auction participants. This allocation will be distributed equally, with 50% set aside for XEN burners and the remaining 50% for YSL burners. In the event that there are no YSL burners during a cycle, the entire daily XNF allocation designated for the burn auction will be distributed among XEN burners, and vice versa.
 
-  - 10,500,000 XNF (50%) is distributed to users who engage in swaps on supported EVM chains. In the absence of swaps during a cycle, the XNF allocation for swap participants will be distributed to burn auction participants for that cycle. 
+  - 10,500,000 XNF (50%) is distributed to users who engage in swaps on supported EVM chains. These XNF tokens will be distributed among swap participants in the form of veXNF, with an associated lock period of 1 year.
 
-- **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 100,000 XNF for the protocol’s Mint Fee Manager. Each time a user participates in the daily burn of vXEN or vUSDy they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
+- **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 100,000 XNF for the protocol’s Burn Auction. Each time a user participates in the daily burn of XEN or YSL they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
 
 - **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
@@ -528,55 +471,57 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ## ◽️ XNF Minting Process and Incentives
 
-  - The XNF minting process within Xenify has been meticulously structured to reward users who actively engage with and contribute to the protocol's growth. This initiative ensures an equitable distribution of XNF tokens and fosters a genuinely decentralised and community-driven protocol.
+- The XNF minting process within Xenify has been meticulously structured to reward users who actively engage with and contribute to the protocol's growth. This initiative ensures an equitable distribution of XNF tokens and fosters a genuinely decentralised and community-driven protocol.
 
-  - Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
+- Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
-  - Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly: 50% is distributed to users who burn vXEN or vUSDy tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
+- Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split evenly: 50% is distributed to users who burn XEN or YSL tokens, with the remaining 50% reserved for contributors to the platform's swap fee. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
 
-  - Users are further incentivised through the platform's staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees.
+- Users are further incentivised through the platform's staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees.
 
-  - The unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who stake and lock their XNF tokens. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
+- Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native chain rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Burn to earn XNF 
 
-  - Xenify empowers users to effortlessly burn their XEN tokens or YSL.IO native tokens directly from their wallets to participate in the daily burn cycle. This unique burn mechanism integrates two bespoke tokens known as vXEN and vUSDy, the virtual counterparts of XEN tokens and YSL.IO native tokens, respectively. These tokens have a specific purpose - to facilitate the minting of XNF tokens through the burn process. Consequently, users can engage in the daily burn cycle, regardless of the variant of XEN token or YSL.IO variant they possess. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
+- Xenify empowers users to effortlessly burn their XEN or YSL tokens directly from their wallets to participate in the daily burn cycle. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
-  - To acquire vXEN, you'll need to burn the XEN token variant that the chain supports, such as bXEN on the BNB Chain. This burn function positions the protocol as a key player in the strategic layer 1 burning of XEN tokens. This means, every time you burn your XEN native token variant, your address will be added to the X1 burn record, and in return, you'll acquire vXEN. Please keep in mind that executing this burn will incur a vXEN Mint Fee. During the burn process, the XEN token variant you provided will be burned (permanently removed from circulation) and the vXEN Mint Fee utilised to by the Mint Fee Manager to create protocol-owned liquidity for XNF and XEN. The amount of vXEN batches obtained from this burn process will vary based on the current market value of the specific XEN token variant you choose to burn.
+- To acquire XNF with XEN, you'll need to burn the XEN token variant supported by the chain you're on, such as bXEN on the BNB Chain. This burn function positions our protocol as a key player in the strategic layer 1 burning of XEN tokens. Each time you burn your native XEN token variant, your address will be logged in the X1 burn record, and in return, you'll receive XNF. It's essential to note that this burn incurs a Burn Fee. 
 
-  - Once you possess vXEN, you can participate in Xenify's daily distribution of XNF tokens on any chain that XNF has been deployed by participating in the specific chains burn auction. Please keep in mind that executing the vXEN burn process you will incur a Burn Fee.  During this process, the vXEN will be permanently removed from circulation, with the fee being set aside as rewards for XNF stakers.
+- Please be aware that the quantity of XEN required to obtain one batch will be fixed and vary depending on the chain you choose to burn. For instance, to participate in Xenify's burn auction on the BNB Chain, a minimum holding of 1,000,000,000 bXEN is required (as one batch on the BNB Chain equals 1,000,000,000 bXEN).
 
-  - Likewise, holders of YSL.IO native tokens (bYSL, xYSL, or USDy) can actively engage in the daily burn auction by acquiring vUSDy. Similar to the XEN burning process, executing the burn of your YSL.IO native tokens will require a vUSDy Mint Fee. During this process, the YSL.IO token variant you provided will be permanently removed from circulation and the vUSDy Mint Fee utilised to by the Mint Fee Manager to create XNF protocol-owned liquidity and USDy treasury-owned liquidity for YSL.IO.
+- Similarly, holders of YSL tokens can actively participate in our daily burn auction. Just like the XEN burning process, executing the burn of your YSL tokens will necessitate a Burn Fee. During this process, the YSL tokens you provide are permanently removed from circulation, and the Burn Fee is employed to create XNF protocol-owned liquidity and reward veXNF holders. In line with XEN, please note that the conversion rate for YSL during the burn process will be fixed, with 0.1 YSL equivalent to one batch.
 
-  - Once you have acquired vUSDy, you can participate in Xenify's daily distribution of XNF tokens on any chain that XNF has been deployed by participating in the specific chains burn auction. Similar to the vXEN burn process, executing the vUSDy burn incurs a Burn Fee. This process permanently removes vUSDy tokens from circulation, with the collected fee serving as rewards for XNF stakers. It's important to note that the conversion rate for vUSDy remains fixed, but it depends on the specific YSL.IO native token you choose to exchange.
+- Whether you opt to burn XEN or YSL, the value of the batches (VB) being burned will be contingent on the specific chain you select for the burn. For example, the batch value on the BNB Chain will be fixed at 0.1 BNB, while on Ethereum, it will be 0.01 ETH. This value will be utilised by the protocol to determine the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
+
+- During the burn process, the XEN or YSL tokens you provide are burned (permanently removed from circulation), and 50% of your Burn Fee is utilised to reward veXNF holders and 50% to create protocol-owned liquidity for XNF. If the 100,000 Preminted XNF is available, 50% of your burn fee will be paired with preminted XNF for liquidity pairing. However, if the preminted XNF allocation has been depleted, the protocol will use 25% of your Burn Fee to purchase XNF tokens and the remaining 25% for the liquidity pairing with the LP tokens being held by the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Swap to earn XNF 
 
-  - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing stakers the exciting opportunity to earn native chain tokens daily.
+- Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing users the exciting opportunity to earn native chain tokens daily.
 
-  - Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with XNF tokens through the daily swap auction. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
+- Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
-  - But, the rewards don't stop there. By staking these XNF tokens, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native chain rewards stem from multiple sources, including swap fees and burn fees. As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
+- But, the rewards don't stop there. By holding veXNF, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native chain rewards stem from the protocol’s swap fees and burn fees.  As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
 
-  - By participating in token swaps with Xenify, users play a pivotal role in driving the platform's growth. The swap fees generated on chains where XNF has been deployed are distributed among the XNF stakers on that specific chain. For chains where XNF is yet to be deployed, the swap fees are utilised by the team to support promotional efforts and advance the development of Xenify and its affiliated tokens. This fosters greater awareness and wider adoption of the platform, benefiting the entire community.
+- By participating in token swaps with Xenify, users play a pivotal role in driving the platform's growth. The swap fees generated on chains where XNF has been deployed are distributed among the XNF stakers on that specific chain and utilised for Xenify’s Partner Fee Sharing Programme. For chains where XNF is yet to be deployed, the swap fees are utilised by the team to support promotional efforts and advance the development of Xenify and its affiliated tokens. This fosters greater awareness and wider adoption of the platform, benefiting the entire community.
 
-  - Moreover, by engaging in swaps on any of the 52 supported chains, users become eligible for an exclusive airdrop of 1,500,000 XNF. Each airdrop event takes place on a chain where XNF is scheduled to be deployed and lasts for 60 days before the launch. All swaps conducted during this period guarantee users a share of the upcoming XNF airdrop. In other words, even though you don’t benefit from a daily XNF allocation when you execute swaps on chains where XNF hasn’t been deployed, you still have the opportunity to be included in an exclusive XNF airdrop.
+- Moreover, by engaging in swaps on any of the 52 supported chains, users become eligible for an exclusive airdrop of 1,500,000 XNF. Each airdrop event takes place on a chain where XNF is scheduled to be deployed and lasts for 60 days before the launch. All swaps conducted during this period guarantee users a share of the upcoming XNF airdrop. In other words, even though you don’t benefit from a daily XNF allocation when you execute swaps on chains where XNF hasn’t been deployed, you still have the opportunity to be included in an exclusive XNF airdrop.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ Stake XNF to earn native tokens 
 
-  - Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their staked XNF. These rewards are distributed in the form of native chain tokens—a highly liquid asset—signalling a potentially lucrative return for users who stake XNF.
+- Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their staked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who stake XNF.
 
-  - XNF stakers play an essential role in Xenify's long-term growth, and in return reap the benefits. For chains where XNF has been deployed, stakers enjoy native tokens generated from swap fees across all supported EVM chains at the end of each cycle. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. Consequently, XNF stakers benefit from increased rewards! This equitable model establishes a positive feedback loop, guaranteeing all participants benefit from the ecosystem’s growth proportional to their engagement.
+- XNF stakers play an essential role in Xenify's long-term growth, and in return reap the benefits. For chains where XNF has been deployed, stakers enjoy native tokens generated from swap fees across all supported EVM chains at the end of each cycle. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. Consequently, XNF stakers benefit from increased rewards! This equitable model establishes a virtuous cycle, guaranteeing every participant benefits in direct proportion to their engagement.
 
-  - In addition to swap fees, XNF stakers on chains where XNF has been deployed, will also earn native tokens at the end of each cycle generated from the burn fee. With XNF adopting the halving model and 50% of the daily mint reserved for those burning vXEN and vUSDy, participating in the daily burn auction is one of the few means to securing a sizable XNF position. As more users burn vXEN and vUSDy to acquire XNF, not only do XNF stakers profit from increased rewards through the burn fee, but XNF liquidity proliferates via the mint fee. This innovative burn cycle implementation creates another positive feedback loop, ensuring the entire ecosystem benefits from user engagement.
+- In addition to swap fees, XNF stakers on chains where XNF has been deployed, will also earn native tokens at the end of each cycle generated from the burn fee. With XNF adopting the halving model and 50% of the daily mint reserved for those burning XEN or YSL, participating in the daily burn auction is one of the few means to securing a sizable XNF position. As more users burn XEN and YSL to acquire XNF, not only do XNF stakers profit from increased rewards through the burn fee, but the ecosystem benefits through an increased proliferation of XNF liquidity. This innovative burn cycle implementation creates another positive feedback loop, ensuring the entire ecosystem thrives through active user participation.
 
-  - Xenify's innovative staking model enables users to stake their XNF tokens for an opportunity to receive a steady stream of exceptional rewards in the form of Native Chain Rewards. This distinctive rewards distribution model not only strengthens demand and value for XNF, but also serves as an added incentive for holders to stake their daily XNF distributions. This strategy has been integrated to encourage long-term engagement with the protocol, while cultivating an ever-expanding user base.
+- Xenify's innovative staking model enables users to stake their XNF tokens for an opportunity to receive a steady stream of exceptional rewards in the form of Native Chain Rewards. This distinctive rewards distribution model not only strengthens demand and value for XNF, but also serves as an added incentive for holders to stake their daily XNF distributions. This strategy has been integrated to encourage long-term engagement with the protocol, while cultivating an ever-expanding user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -584,29 +529,42 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native chain rewards to XNF stakers, and ensure the continuous development of the protocol.
 
-Here's how it works: When a user initiates a token swap on Xenify, they pay a 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivize user engagement. On chains where XNF has been successfully deployed, 100% of the swap fee will be  distributed among XNF stakers as daily rewards in the form of native chain tokens. As for other chains where XNF is yet to be deployed or during airdrop events, the swap fee will be allocated to the team to bolster Xenify's ongoing development, marketing, and outreach efforts.
+Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 50% of the swap fee will be distributed as rewards among XNF stakers in the form of native chain tokens. The remaining 50% is strategically utilised to ensure the expansion through our Partner Fee Sharing Programme. This initiative will involve half of the fees being allocated to our team to bolster Xenify's ongoing development, marketing, and outreach efforts, and the remaining 50% being sent to partner projects that sign up to Xenify’s Fee Sharing Programme.
 
-But here's the exciting part, by paying the nominal 0.5% swap fee on chains where XNF is deployed, you not only expedite your transaction but also secure an allocation of XNF from the protocol's daily mint cycle. These XNF tokens can be staked to unlock even greater gains from the native tokens distributed at the end of each daily cycle. As a result, platform users benefit from Xenify's efficiency and competitive rates, while earning rewards and actively shaping the evolution of Xenify's dynamic ecosystem.
+By paying the nominal 0.5% swap fee on chains where XNF is deployed, you not only expedite your transaction but also secure an allocation of XNF from the protocol's daily mint cycle. These XNF tokens are locked for 1 year and distributed among swap participants as veXNF. This unique ERC-721 non-fungible token (NFT) will represent your XNF holdings, which can be withdrawn at the end of the lockup period. 
+
+But here's the exciting part, by holding veXNF you unlock additional gains in the form of native chain rewards based on your earning power. These rewards are distributed at the close of each daily cycle. In essence, by simply executing a swap on Xenify, you have the incredible opportunity to rake in native chain tokens such as BNB and ETH on a daily basis!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Costs of Burning on Xenify
 
-The Xenify protocol enables users to burn vXEN or vUSDy tokens to secure XNF from the daily XNF reward cycle. Think of vXEN and vUSDy as virtual counterparts of XEN and USDy, respectively. These tokens have been specifically created for seamless conversion into XNF.
+The Xenify protocol enables users to burn XEN or YSL tokens to secure XNF from the daily XNF reward cycle. By participating in the burn process to acquire XNF, users will encounter certain costs such as transaction gas fees and the mandatory burn fee. However, the burn fee calculation has been carefully designed to not only ensure a transparent and consistent method for token burning but also reward users with an attractive discount of up to 75%.
 
-By participating in the burn process to acquire XNF, users will encounter certain costs such as transaction gas fees and the mandatory mint fee and burn fee. However, the mint fee and burn fee calculations have been carefully designed to not only ensure a transparent and consistent method for token burning but also reward users with attractive discounts on their burn fees of up to 75%.
+The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates an attractive incentive for users to undertake larger burn operations at earlier points in a cycle.
 
-The burn fee calculation is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates an attractive incentive for users to undertake larger burn operations at earlier points in a cycle. 
+By implementing this formula, we ensure that users receive discounts in proportion to the volume of a specific token (XEN or YSL) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are redeployed as rewards to XNF stakers and utilised to bolster XNF liquidity. This approach not only encourages efficiency but also rewards our valuable contributors, while establishing a mutually beneficial ecosystem that ensures the continual proliferation of liquidity. Plus, with the maximum discount of 75% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for those who burn but also generates enhanced rewards for XNF stakers.
 
-By implementing this calculation, we ensure that users receive discounts in proportion to the volume of a specific token (vXEN or vUSDy) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are directed toward XNF stakers, and the mint fee will be redeployed to bolster liquidity. This approach not only encourages efficiency but also rewards our valuable contributors, establishing a mutually beneficial ecosystem. Plus, with the maximum discount of 75% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for those who burn but also generates enhanced rewards for XNF stakers. 
+But what exactly is a batch? A batch represents a fixed number of tokens, either XEN or YSL, required to participate in the burn process. A single batch for XEN is set at a fixed amount and will vary depending on the XEN variant being burned. For instance, a single batch of bXEN on the BNB Chain has been set at 1,000,000,000 bXEN. Similarly, a single batch for YSL is set at a fixed amount of 0.1 YSL. 
 
-But what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or vUSDy, required to participate in the burn process. A single batch for vXEN is set at a fixed amount of 5 vXEN, with the value per vXEN token being fixed at $1.00. Similarly, a single batch for vUSDy is set at a fixed amount of 5 vUSDy, with the value per vUSDy token being fixed at $1.00. The amount of XEN token variant needed to acquire a batch of vXEN will be dynamic, adapting to the ever-changing market price of each XEN token variant. However, the amount of YSL.IO token variant needed to acquire a batch of vUSDy will be fixed, varying based on the specific YSL.IO token being burned.
+The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
 
-To obtain vXEN, you simply need to hold a supported XEN token variant and a sufficient amount of native chain tokens to cover the mandatory vXEN Mint Fee. 100% of the XEN token variant you provide will be burned, ensuring your wallet address is included in the burn record for the distribution of X1 - the native token of the new XEN Layer 1 (X1 Chain). 
+<br>
 
-Just bear in mind that the value of vXEN is fixed at $1.00, with 1 vXEN equal to $1.00 XEN (and XEN token variant) based on its current market value. This means that the required amount for each burn is tailored to the current market value of the specific XEN token variant you're burning, ensuring a fair exchange for all users. For instance, if the current price of bXEN is $0.01, and you hold 10,000 bXEN, the protocol will determine your 10,000 bXEN as equivalent to $100 vXEN (100 vXEN tokens). 
+$$
+VP = 10 ^ (2 - ND)
+$$
 
-Similarly, if you want to acquire vUSDy, you'll need to have YSL.IO native tokens such as bYSL, xYSL, or USDy and a sufficient amount of native chain tokens to cover the mandatory vUSDy Mint Fee. Keep in mind that when you burn for vUSDy, the protocol will use predetermined rates to convert bYSL, xYSL, and USDy.
+**Where:**
+
+- $VP$ (Value Per Batch) - The value per batch that is set for the chain.
+- $ND$ (Number of Digits) - The count of digits preceding the decimal point in the price of the native gas token.
+
+Here’s how it works: The value per batch is calculated as 10 raised to the power of (2 - ND), where ND is the number of digits before the decimal place in the native token's price. This formula creates a batch value that remains consistent relative to the native token's price. When the native token value is high, the value per batch set at deployment will be proportionally lower to ensure an appropriate burn fee for the chain. 
+
+This mechanism helps ensure that the burn fee remains consistent across different chains where Xenify deploys, particularly for chains with higher-priced native tokens. For instance, the value of one batch on BNB Chain will be set at 0.1 BNB at deployment, since BNB has 3 digits before the decimal point at its current market value. However, when Xenify deploys on Ethereum, the value of one batch will be set at 0.01 ETH, since ETH has 4 digits before the decimal point at its current value above $1,000. 
+
+By aligning batch values to native token prices and providing volume discounts, our burn fee formula enables transparency while encouraging burning. Moreover, 100% of the tokens you provide will be burned - this ensures your wallet address is included in the burn record for the distribution of X1 - the native token of the new XEN Layer 1 (X1 Chain).
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -614,9 +572,9 @@ Similarly, if you want to acquire vUSDy, you'll need to have YSL.IO native token
 
 Xenify introduces an innovative approach to burn fee discounts that aims to promote fairness and prevent manipulation. By implementing a carefully designed burn fee calculation, the protocol effectively curbs unfair practices where users strategically time transactions to maximise their rewards or incentives.
 
-The Burn Fee (BF) calculation includes time-weighted factors called Burn Fee Coefficient (FC) and Batch Coefficient (BC), which help determine the fee needed to execute the burn function based on the value of batches being burned. The burn fee discount that you obtain will be dependent on the Burn Fee Coefficient (FC) and the Batch Coefficient (BC) that is applicable at the time of burning. Both coefficients are time-weighted, decreasing throughout the daily cycle. This means the effective discount that you obtain will vary depending on when you decide to burn during a cycle. 
+The Burn Fee (BF) calculation includes time-weighted factors known as the Time Coefficient (FC) and the Batch Coefficient (BC), which help determine the fee needed to execute the burn function based on the value of batches being burned. The burn fee discount that you obtain will be dependent on the Time Coefficient (FC) and the Batch Coefficient (BC) that is applicable when you are burning during a cycle. Both coefficients are time-weighted, decreasing throughout the daily cycle. This means the effective discount that you obtain will vary depending on when you decide to burn during a cycle.
 
-To initiate the burn function on Xenify, users must have a sufficient wallet balance of native chain tokens that meets or exceeds the amount required for the Mint Fee and Burn Fee. The mint fee that a user is required to send will be dependent on the underlying market value of the tokens being burned by the user, and the protocol will calculate the Burn Fee (BF) using the formula below:
+To initiate the burn function on Xenify, users must have a sufficient wallet balance of native chain tokens that meets or exceeds the amount required for the Burn Fee. The protocol will calculate the Burn Fee (BF) using the formula below:
 
 <br>
 
@@ -627,29 +585,29 @@ $$
 **Where:**
 
 - $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
-- $FC$ (Burn Fee Coefficient) - A time-weighted coefficient used to factor in a discount on the burn fee.
-- $VB$ (Value of Batches) - The dollar value of batches being burned by the user, influencing the burn fee as the value of batches increases.
+- $FC$ (Time Coefficient) - A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.
+- $VB$ (Value of Batches) - The value of batches being burned by the user. The value per batch will be fixed and vary depending on the chain. 
 - $BC$ (Batch Coefficient) - A time-weighted coefficient used to factor in the discount based on the batches being burned.
 - $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
 
 <br>
 
-It's worth noting that the burn fee discount you receive will depend on the current values of the Burn Fee Coefficient (FC) and the Batch Coefficient (BC) at the time of burning. As these coefficients decrease throughout the daily cycle, the effective discount you obtain will vary depending on when you decide to burn during a cycle. This dynamic approach ensures that users have an opportunity to benefit from different discount levels based on their timing.
+It's worth noting that the burn fee discount you receive will depend on the current values of the Time Coefficient (FC) and the Batch Coefficient (BC) at the time of burning. As these coefficients decrease throughout the daily cycle, the effective discount you obtain will vary depending on when you decide to burn during a cycle. This dynamic approach ensures that users have an opportunity to benefit from different discount levels based on their timing.
 
 Xenify's approach to burn fee discounts not only promotes fairness but also provides users with the potential to optimise their savings. By considering the time-weighted coefficients and strategically choosing when to execute burns, users can maximise their discounts and overall value. This innovative approach brings transparency, fairness, and increased benefits to all participants of the Xenify ecosystem.
 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Burn Fee Coefficient (FC)
+## ◽️ Time Coefficient (FC)
 
-The Burn Fee (BF) needed to execute the burn function will increase as the total value of batches being burned increases, however by executing burns earlier in the cycle users have the opportunity to benefit from a lower burn fee thanks to the Burn Fee Coefficient (FC). 
+The Burn Fee (BF) needed to execute the burn function will increase as the total value of batches being burned increases, however by executing burns earlier in the cycle users have the opportunity to benefit from a lower burn fee thanks to the Time Coefficient (FC). 
 
-As illustrated in the table below, the Burn Fee Coefficient starts at 50% when a cycle begins and increases by approximately 2.174% every hour until it reaches 100% in the final hour of the daily cycle. This means that users will need to contribute more to execute the burn function as the day goes on. However, it also provides an opportunity for users who burn earlier in the cycle to get a discount of up to 75% during the first hour of each cycle. 
+As illustrated in the table below, the Time Coefficient starts at 50% when a cycle begins and increases by approximately 2.174% every hour until it reaches 100% in the final hour of the daily cycle. This means that users will need to contribute more to execute the burn function as the day goes on. However, it also provides an opportunity for users who burn earlier in the cycle to get a discount of up to 75% during the first hour of each cycle. 
 
 <br>
 
-| Hour | Burn Fee Coefficient (FC) |
+| Hour | Time Coefficient (FC) |
 |------|---------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -725,12 +683,12 @@ Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in 
 
 ## ♦️ Scenario 1: User burns during Hour-1 of a cycle
 
-  - Let’s say you decide to burn 10,000 batches valued at $5,000 during the first hour of the daily cycle. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Burn Fee Coefficient (FC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as $1,250.
+  - Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle on BNB Chain, where the value per batch is set at 0.1 BNB. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Time Coefficient (FC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as 250 BNB.
 
 <br>
 
 $$
-BF = (0.5 \times 5,000) \times (1 - (10,000 \times 0.00005)) = $1,250
+BF = (0.5 \times 1,000) \times (1 - (10,000 \times 0.00005)) = 250 BNB
 $$
 
 <br>
@@ -739,57 +697,17 @@ $$
 
 ## ♦️ Scenario 2: User burns during Hour-24 of a cycle
 
-  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Burn Fee Coefficient (FC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as $5,000.
+  - Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle on BNB Chain, where the value per batch is set at 0.1 BNB. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Time Coefficient (FC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as 1,000 BNB.
 
 <br>
 
 $$
-BF = (1 \times 5,000) \times (1 - (10,000 \times 0)) = $5,000
+BF = (1 \times 1,000) \times (1 - (10,000 \times 0)) = 1,000 BNB
 $$
 
 <br>
 
 Comparing these scenarios highlights the benefits of burning batches in the first hour versus the final hour. The maximum savings of 75% are only possible if you burn 10,000 batches during the first hour of the daily cycle. This time-weighted burn fee mechanism mitigates unfair practices and enhances fairness, rewarding users who execute larger burns earlier in the cycle with greater discounts.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Mint Fee Manager
-
-Xenify's daily burn auction is the perfect opportunity to get your hands on XNF tokens, and all you need is to have vXEN or vUSDy. The process of acquiring these tokens is straightforward - just burn a XEN token variant or YSL.IO native token, respectively. It's a seamless process that grants users access to the daily burn auction and the opportunity to secure XNF. Keep in mind that during the burning process, there is a mandatory Mint Fee based on the current market value of the tokens being burned. 
-
-By providing the Mint Fee, users contribute to the creation of protocol-owned liquidity. This liquidity also paves the way for the distribution of additional rewards in the form of XNF and native XEN tokens to recyclers at the end of each cycle. Consequently, the Mint Fee Manager not only strengthens protocol-owned liquidity but also indirectly generates more rewards for recyclers. This innovative design ensures the sustainability and long-term growth of the Xenify ecosystem. Furthermore, the absence of admin keys in the contract safeguarding the protocol-owned liquidity eliminates any possibility of manipulation.
-
-To kickstart the generation of this protocol-owned liquidity, the Mint Fee Manager receives an allocation of 100,000 preminted XNF tokens when XNF is deployed. These tokens serve the purpose of creating XNF liquidity through the Mint Fee. The team does not have access to these preminted tokens, and can only execute the burning of these tokens if necessary.
-
-Here’s how it works: When a user sends the Mint Fee, the Mint Fee Manager will pair 50% of the native chain tokens with the preminted XNF tokens, to add as XNF liquidity at full range, with all LP tokens being held by the protocol. This process will continue until the preminted XNF allocation is depleted. After that, the manager initiates its default process, which involves using 25% of the native tokens to purchase XNF, pair the acquired XNF with 25% of the native tokens, to add as liquidity at full range, with all LP tokens being held by the protocol.
-
-The remaining 50% of the Mint Fee is designated to create either XEN liquidity or USDy liquidity, depending on whether the user sent the Mint Fee to acquire vXEN or vUSDy, respectively. When the protocol creates USDy liquidity through the vUSDy Mint Fee, the USDy LP tokens are sent to the YSL.IO Treasury. On the other hand, when it generates XEN liquidity via the vXEN Mint Fee, the XEN LP tokens are held by the protocol.
-
-At the end of each cycle, the protocol withdraws 1% of the total XNF LP tokens and 1% of the XEN LP tokens held. The native chain tokens acquired from the withdrawn LP tokens are utilised to purchase XNF and XEN, respectively, with the purchased tokens combined with the withdrawn XNF and XEN tokens, respectively. These purchased tokens are combined with the previously withdrawn XNF and XEN tokens and are subsequently distributed among veXNF holders who have participated in recycling rewards during the previous cycle. The XEN tokens purchased during this process represent the native token for the specific chain, such as bXEN on the BNB Chain. Similarly, the purchased XNF tokens represent the native token for the chain, like bXNF on the BNB Chain.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ vXEN Mint Fee
-
-The vXEN mint fee is applicable only when you burn a XEN token variant to obtain vXEN. The mint fee is determined by the current market value of the tokens you burn. The native tokens generated from the vXEN mint fee will be allocated as follows:
-
-- **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 100,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being held by the protocol. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being held by the protocol.
-
-- **50% will be used to create XEN token liquidity:** The protocol utilises 50% of the native chain tokens to create liquidity for the native XEN token variant for the most liquid XEN pool on that chain (for example, on the BNB Chain it will create liquidity for bXEN-BNB liquidity), by using 25% of the tokens to purchase the native XEN token (e.g. bXEN) and the remaining 25% of the tokens for the liquidity pairing with the LP tokens being held by the protocol.
-
-- For example, let's say you have 10,000 bXEN and you want to convert it to vXEN. If bXEN is currently valued at $0.01 and you hold 10,000 bXEN, your bXEN is worth $100. Therefore, you would need to provide $100 in BNB for the mint fee. After you initiate the mint process, the protocol will generate vXEN based on the total value of your bXEN and the mint fee. In this example, you'll receive $200 vXEN in return, considering your $100 bXEN and the $100 BNB mint fee. The $100 worth of bXEN you sent during the process will be permanently removed from circulation, and the $100 BNB contribution for the mint fee will go to the vXEN Mint Fee Manager.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ vUSDy Mint Fee
-
-The vUSDy mint fee is only applicable when you convert USDy, xYSL, or bYSL to vUSDy through the burn process. The native tokens generated from the vUSDy mint fee will be allocated as follows:
-
-- **50% will be used to create XNF liquidity:** The protocol uses 50% of the native tokens to create XNF liquidity for the chain. If the 100,000 Preminted XNF is available, the full amount of the native tokens will be paired with preminted XNF for liquidity pairing, with the LP tokens being held by the protocol. However, if the preminted XNF allocation has been depleted, the protocol will use half of the 50% native tokens to purchase XNF tokens and the remaining 25% of the native tokens for liquidity pairing, with the LP tokens being held by the protocol.
-
-- **50% will be used to create USDy treasury-owned liquidity:** The protocol utilises 50% of the native tokens to create USDy-USDC treasury-owned liquidity, by minting the USDy side of the liquidity pairing and purchasing USDC with the 50% of the tokens, with the LP tokens being sent to the YSL.IO Treasury.
-
-- For example, let's say you have 100 USDy tokens and you want to convert them into vUSDy. To cover the mint fee, you need to hold native chain tokens. The mint fee will be determined as $100 BNB, based on the fixed conversion rate of $1.00 per USDy. After you initiate the mint process, the protocol will generate vUSDy based on the total value of your USDy and the mint fee. In this example, you'll receive $200 vUSDy in return, considering your 100 USDy and the $100 BNB mint fee. The 100 USDy you sent during the process will be permanently removed from circulation, and the $100 BNB mint fee will be sent to the vUSDy Mint Fee Manager.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -803,47 +721,47 @@ For example, if the daily XNF mint is 20,000 XNF tokens, Xenify will distribute 
 
 To ascertain each user's share of the daily mint allocated to burn and swap contributions, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made by a user during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
 
-The protocol calculates the burn contribution (BC) of a specific user in a cycle, based on the total XNF tokens distributed (TCD), the total number of batches burned by all users (TNB), and the number of batches burned by the specific user (UNB). Here's the formula explained in detail:
+The protocol calculates your share of the daily XNF allocated to burn fee contributions (BC), by taking into account the total XNF tokens distributed (TD), the total number of batches burned by all users during the cycle (TB), and the number of batches you burned during the cycle (UB). Here's the formula explained in detail:
 
 <br>
 
 $$
-BC = (TCD \div 2) \times (UBB \div TBB)
-$$
-
-<br>
-
-**Where:**
-
-- *BC* - represents the burn contribution of the user.
-- *TCD* - is the total amount of XNF tokens distributed in a cycle.
-- *UBB* - is the number of batches a specific user has burned in a cycle.
-- *TBB* - is the total number of batches burned in a cycle by all users.
-
-<br>
-
-Here’s how it works: The protocol calculates the burn contribution by first dividing the total tokens distributed during a cycle (TCD) by 2, as 50% of the XNF daily mint is allocated to participants that burn vXEN or vUSDy. It then calculates the proportion of batches burned by the specific user (UNB) to the total batches burned by all users (TNB). This results in a value per batch burned. Finally, the protocol multiplies these two values to determine the user's individual burn contribution within that cycle (BC).
-
-The calculation of the swap contribution follows a similar logic, whereby the protocol calculates the swap contribution (SC) of a specific user in a cycle, based on the total XNF tokens distributed (TCD), the total swap fees paid by all users (TSF), and the swap fees paid by the specific user (USF). Here's the formula explained in detail:
-
-<br>
-
-$$
-SC = (TCD \div 2) \times (USF \div TSF)
+BA = (TD \div 2) \times (UB \div TB)
 $$
 
 <br>
 
 **Where:**
 
-- *SC* - represents the swap contribution of the user.
-- *TCD* - is the total amount of XNF tokens distributed in a cycle.
-- *USF* - is the swap fees paid by a specific user in a cycle.
-- *TSF* - is the total swap fees paid in a cycle by all users.
+- $BA$ (Burn Allocation) - The amount of XNF a specific user obtains based on the batches burned during a cycle.
+- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $UB$ (Batches Burned by User) - The number of batches burned during a cycle by the specific user whose burn contribution is being calculated.
+- $TB$ (Total Batches Burned) - The combined number of batches burned by all users during a cycle.
 
 <br>
 
-Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TCD) by 2, as 50% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TSF) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
+Here’s how it works: The protocol calculates the user’s burn allocation by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 2, as 50% of the XNF daily mint is allocated to participants that burn XEN or YSL. It then calculates the proportion of batches burned by the specific user (UB) to the total batches burned by all users (TB). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual burn allocation for that cycle (BA).
+
+The calculation of the swap contribution follows a similar logic, whereby the protocol calculates your swap allocation (SA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total swap fees paid by all users during the cycle (TS), and the swap fees paid by you during the cycle (US). Here's the formula explained in detail:
+
+<br>
+
+$$
+SA = (TD \div 2) \times (US \div TS)
+$$
+
+<br>
+
+**Where:**
+
+- $SA$ (Swap Allocation) - The XNF allocation for a specific user based on their swap fee contributions during a cycle.
+- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $US$ (User Swap Fees) - The swap fees paid by a specific user in a cycle.
+- $TS$ (Total Swap Fees) - The total swap fees paid in a cycle by all users.
+
+<br>
+
+Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TD) by 2, as 50% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (US) to the total swap fees (TS) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -861,76 +779,158 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ## ◽️ Staking XNF Tokens
 
-Each cycle, Xenify's protocol distributes newly minted XNF tokens to its users. The distribution takes place at the end of each day and adheres to a particular allocation structure. Specifically, 50% of the daily minted XNF is allotted to users who engage in the burning of vXEN and vUSDy tokens, and the remaining 50% is distributed to users who participate in swaps across all supported EVM chains.
+Each cycle, Xenify's protocol distributes newly minted XNF tokens to its users. The distribution takes place at the end of each day and adheres to a particular allocation structure. Specifically, 50% of the daily minted XNF is allotted to users who engage in the burning of XEN and YSL tokens, and the remaining 50% is distributed as veXNF to users who participate in swaps across all supported EVM chains.
 
 Staked XNF tokens play an essential role in the accumulation of native chain rewards for users, with each user's share being determined by their veXNF position and the associated earning power. The staked tokens start to accumulate native chain rewards within the same cycle they are staked. These rewards are gathered into a reward pool during each cycle and then distributed among XNF stakers by the protocol at the end of the daily cycle.
 
-Users aiming to earn a share of native chain rewards on Xenify need to either manually stake their XNF tokens or actively claim their daily XNF allocation. In doing so, they lock their XNF for a chosen staking period, which can be as short as two weeks or as long as four years. Once the desired lock period is set, the user's XNF is staked and locked as per the selected period. Subsequently, the protocol mints veXNF tokens for the user, reflecting the amount of XNF staked and the chosen lock period. Throughout the lock period, users cannot unstake their XNF but continue to accumulate native chain rewards. The distribution of these rewards is determined by the earning power of their veXNF.
+Users that earn XNF through their swap fee contributions will not be required to stake their XNF, as the protocol automatically stakes their XNF allocation for the maximum lock-in period of 1 year and enables the user to earn native chain rewards over a 60-day decay schedule. 
+
+On the other hand, users who earn XNF through burn fee contributions and recycling will need to manually stake their XNF tokens if they are aiming to earn a share of native chain rewards. In doing so, they lock their XNF for a chosen staking period, which can be as short as one week or as long as one year. Once the desired lock period has been set, the user's XNF is staked and locked as per the selected period. Subsequently, the protocol mints a veXNF NFT for the user, reflecting the amount of XNF staked and the chosen lock period. Throughout the lock period, users cannot unstake their XNF but continue to accumulate native chain rewards based on the earning power of their veXNF.
+
+A user's earning power will decrease linearly over a decay schedule. This decay schedule will be dependent on the user's chosen lock period, and will be set to a maximum of 60 days for a 1 year lock period. This enables the protocol to scale the decay schedule linearly between a minimum of 1.15 days (for a 7-day lock) and a maximum of 60 days (for a 365-day lock) based on the lock duration that the user chose. The longer the lock, the longer the decay schedule, ranging from 1.16 to 60 days. The decay schedule for a users veXNF earning power will be determined by the protocol using the formula below:
+
+<br>
+
+$$
+DS = (LD \div ML) \times MD
+$$
+
+<br>
+
+**Where:**
+
+- $DS$ (Decay Schedule) - The decay schedule for the veXNF earning power.
+- $MD$ (Maximum Decay Schedule) - The maximum decay schedule of 60 days.
+- $LD$ (Lock Duration) - The user’s chosen lock duration in days.
+- $ML$ (Maximum Lock) - The maximum lock duration of 365 days.
+
+The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
+
+Your earning potential directly correlates to the amount of XNF you stake and your chosen lock duration. At the start of your lock period, your veXNF is minted with 100% earning power. Over time, as your lock continues, the strength of this earning power diminishes based on the custom decay formula below:
+
+<br>
+
+$$
+CP = IP \times ((1 - TE \div LD) \times (LD \div ML))
+$$
+
+<br>
+
+**Where:**
+
+- $CP$ (Current veXNF Power) - The users' current earning power in percentage terms.
+- $IP$ (Initial veXNF Power) - An initial earning power of 100% is set by the protocol at the start of the lock period.
+- $TE$ (Time Elapsed) - The time that has elapsed since the lock period commenced.
+- $LD$ (Lock Duration) - The lock duration chosen by the user (days).
+- $ML$ (Maximum Lock) - The maximum lock duration of 365 days.
+
+<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Different Earning Power Scenarios
+
+Let's take a closer look at how the Earning Power Decay operates in different scenarios:
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 1: User locks XNF for 1 year (maximum lock period)
+
+- Let’s say you decide to lock your XNF for the maximum term of 1 year. After 1 day your Earning power would have decayed from 100% to 99.7%.
+
+<br>
+
+$$
+CP = 100% \times ((1 - 1 \div 365) \times (365 \div 365)) = 99.7%
+$$
+
+<br>
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ♦️ Scenario 2: User locks XNF for 1 week (minimum lock period)
+
+- Let’s say you decide to lock your XNF for the minimum term of 1 week. After 1 day your Earning power would have decayed from 100% to 16.3%.
+
+<br>
+
+$$
+CP = 100% \times ((1 - 1 \div 7) \times (7 \div 365)) = 16.3%
+$$
+
+<br>
+
+Comparing these scenarios highlights the benefits of locking for longer periods. After just 1 day of a 1-year lock, your earning power would barely decay by 0.3% to 99.7%. On the other hand, if you lock your XNF tokens for one week, your earning power decays much faster. After just one day, your earning power would drop by 83.7% to 16.3%. This demonstrates how locking for longer periods preserves your earning power for longer. 
+
+This model rewards long-term participants and aligns incentives towards supporting the protocol. To maintain or increase your earning power, you can always add more XNF tokens to your stake or extend your lock duration as needed.
+
+Keep in mind, the amount of rewards you receive at the end of each cycle depends on your share of the total earning power of all veXNF holders. The more XNF you have staked and the higher your earning power, the more rewards you earn.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Unstaking XNF Tokens
 
-After completing their chosen staking cycle, users have the option to unstake their XNF tokens. It's important to note that users are unable to unstake their XNF during their specified lock period. However, users will accumulate native chain rewards throughout the lock period. These rewards are directly connected to their veXNF position, with the power of a user's veXNF during the staking cycle determining their share of each reward distribution. 
+At Xenify, we empower our users with flexibility when managing their veXNF position with the ability to extend, merge and even split positions. After completing your chosen lock period, you will have the option to unstake your XNF tokens. Importantly, unstaking is only possible after your lock period ends - your XNF remains locked for the duration you selected.
 
-Once the chosen lock period is over, the earning power of a user's veXNF position will completely decay. This means that they will no longer earn native chain rewards on their position. At this point, users have two choices: they can either extend their stake cycle for a maximum duration of 4 years to preserve the earning power of their veXNF, or they can decide to unstake their XNF tokens and regain full ownership.
+Throughout your staking cycle, you accumulate native chain rewards based on the amount of XNF locked and your veXNF earning power. This earning power decays linearly over a decay schedule until it reaches zero at the end. At this point, you stop earning rewards on your staked position as your veXNF earning power is depleted.
 
-The decision of whether to extend the stake cycle or unstake the tokens is entirely up to the user. Xenify provides flexibility for each user to assess their preferences and make an informed decision about the best course of action for their circumstances.
+You now have two options: Either extend your lock period (from 1 week up to 1 year) to reinstate your veXNF earning power and continue receiving rewards. Or, wait for your current lock to expire, then unstake to regain your XNF tokens. The decision depends on your circumstances and preferences. 
+
+If you extend your stake, your veXNF is reactivated at 100% strength, starting a new decay schedule. This allows you to continue benefiting from rewards linked to your XNF stake. However, your XNF remains locked. Alternatively, waiting for your lock expiry, enables you to unstake and/or sell your tokens. However, you will not be earning rewards in the interim.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Claiming Native Chain Rewards
 
-Xenify empowers users to effortlessly claim and withdraw their accumulated native chain rewards at their convenience. However, be aware that a 25% Claim Fee will be applied when claiming your native chain rewards. 
+At Xenify, you can conveniently withdraw your accumulated native chain rewards at any time. However, be aware that directly claiming rewards incurs a 25% claim fee. To avoid this fee, simply click "Recycle" instead of "Claim". Recycling leverages your accrued rewards to acquire XNF through the daily burn auction, while bypassing the mandatory burn fee.
 
-To sidestep the 25% Claim Fee, simply click the "Recycle" button. This enables you to use your accumulated native chain tokens to acquire XNF by participating in the daily burn of vUSDy, avoiding the Claim Fee entirely. Throughout each cycle, the native tokens collected from this fee are stored in a temporary pool. At the end of the cycle, these tokens are exclusively distributed among veXNF holders who have employed the Recycle function during the cycle.
+When you opt to claim your rewards, the native tokens gathered from the claim fee are stored in a temporary pool. At the end of the cycle, these tokens are distributed exclusively to veXNF holders who recycled their rewards within the first hour of the cycle.
 
-This unique distribution occurs during the protocol's daily distribution of native chain rewards, with each eligible participant receiving a share based on their position. For instance, if a user recycles their rewards during a cycle, they will be included in the distribution of proceeds generated from the Claim Fee at the end of that cycle.
+This exclusive distribution will occur alongside the protocol's daily native rewards distribution at the end of each cycle, with eligible recyclers receiving a share based on their veXNF position. In short, recycling in hour 1 means you'll get a portion of that cycle's claim fee proceeds.
+
+This recycling mechanic provides a multitude of benefits for the ecosystem and recyclers. Not only does it provide users the ability to participate in the daily burn auction without providing the mandatory burn fee, but it actively drives buy pressure for XNF and XEN, with a portion of all recycled rewards being utilised to generate protocol-owned liquidity. But that’s not all, as a dedicated recycler, you also unlock the ability to earn additional XEN and XNF rewards in each cycle, stemming from protocol-owned liquidity. This strategic approach empowers users to maximise their earning potential in a way that aligns with protocol growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Recycling Native Chain Rewards
 
-Discover the smart way to maximise your rewards with Xenify's recycling feature! By choosing to recycle your native chain rewards, you'll not only bypass the 25% claim fee but also boost your XNF position, as your entire rewards balance is used to join the daily vXEN burn.
+Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction.
 
-What sets this process apart is the protocol's capability to mint vXEN tokens equivalent to the value of your rewards and directly deduct the burn fee from your reward balance. This means you can burn vXEN without the need for additional native chain rewards to cover the obligatory mint fee or burn fee, which is typically required in the default burn process.
+What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables fee-free participation, unlike the normal burn process which requires additional native tokens to cover the mandatory burn fee.
 
-By utilising the recycle function as a veXNF holder, you gain access to an exclusive daily distribution of native tokens generated from the platform's 25% claim fee. This fee is collected whenever a user claims their native chain rewards. At the end of each cycle, the accumulated native tokens are exclusively distributed to veXNF holders who have recycled during the cycle. Your allocation of native chain tokens from the claim fee is based on your veXNF power and the veXNF power of all recyclers combined.
+As a veXNF holder who recycles, you gain access to an exclusive daily distribution of veXNF and XEN that’s drawn from protocol-owned liquidity. Whereby, 1% of the XNF and XEN LP tokens held by the protocol will be withdrawn at each cycle's end. The native tokens that are obtained from the withdrawal will be used to purchase XNF and XEN, and combined with the withdrawn XNF and XEN tokens. Your share of the distribution depends on the dollar amount of rewards you've recycled. In essence, by recycling more native chain rewards during a cycle, you can increase your share of the XNF and XEN rewards acquired from the protocol-owned liquidity. Recyclers will be able to freely claim their allocation of XEN rewards at the end of each cycle, however the XNF rewards will be subject to a 1 year lock and distributed as veXNF.
 
-But wait, there's more! As a token of gratitude for their active participation in the protocol, veXNF holders who recycle rewards throughout a cycle also become eligible for an exclusive distribution of XNF and XEN at the end of each cycle. The protocol will acquire XNF and XEN from protocol-owned liquidity, withdrawing 1% of the total XNF LP tokens and 1% of the XEN LP tokens held at the cycle's end. The native chain tokens obtained from the withdrawn LP tokens are then used to purchase XNF and XEN, respectively. These purchased tokens, combined with the withdrawn XNF and XEN tokens, are subsequently distributed among veXNF holders who have participated in recycling rewards during the previous cycle. 
+But wait, there's more! As a token of gratitude for their active participation in the protocol, veXNF holders who recycle rewards during the first hour of the cycle also become eligible for an exclusive distribution of native tokens from the 25% claim fee charged on direct claims. At the end of each cycle, accumulated claim fee proceeds will be distributed to eligible recyclers proportional to their XNF holdings and its associated veXNF power.
 
-Your share of the withdrawn XEN and XNF depends on the dollar amount of rewards you've recycled, considering the total dollar amount of recycled rewards during the cycle. In essence, by recycling more native chain rewards during a cycle, you can increase your share of the XNF and XEN rewards acquired from the protocol-owned liquidity.
+To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. 
 
-To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch of vXEN for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn function fees. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
+By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual fees associated with the burn function. Most importantly, as a dedicated recycler, you will benefit from native chain tokens generated from the 25% claim fee and qualify for an exclusive distribution of XNF and XEN at the end of each cycle. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Recycle Process Overview
+## ♦️ Recycling Rewards Example
 
-  - You decide to recycle your native chain rewards.
-  - The protocol employs Chainlink's price oracle to ascertain the dollar value of your native chain reward balance.
-  - Based on the dollar value of your contribution, the protocol mints an appropriate number of vXEN batches. The number of batches is determined by rounding down to the nearest batch count.
-  - All the minted vXEN batches are immediately burned to participate in the daily burn auction, and the protocol collects a burn fee from your recycled native chain rewards.
-  - After the burn process, your remaining native chain rewards are sent to the Recycling Contract.
-  - The Recycling Contract splits the native tokens three ways: 50% for creating XNF protocol-owned liquidity, 25% for creating XEN protocol-owned liquidity, and 25% allocated to the team as USDC to support Xenify's ongoing development, marketing, and outreach initiatives.
-  - The XNF LP tokens and XEN LP tokens acquired from the recycling process are held by the protocol.
-  - At the end of the daily burn auction, you receive XNF tokens based on the vXEN batches burned from your recycled contribution.
-  - Next, you will receive your share of daily native chain rewards based on your veXNF balance and its associated power.
-  - Finally, as a recycler, you will also receive a portion of any native chain tokens collected from the claim fee during the cycle, as well as a share of the XNF and XEN acquired from protocol-owned liquidity.
+Let's walk through an example to illustrate how the recycling feature works.
 
-By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual fees associated with the daily burn auction. Most importantly, as a dedicated recycler, you will earn native chain tokens generated from the 25% claim fee and qualify for an exclusive distribution of XNF and XEN at the end of each cycle. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
+- Imagine you are a veXNF holder on BNB Chain. You decide to recycle your native BNB rewards of 1.0 BNB in the first hour of the cycle.
+- First, the protocol calculates your burn contribution. Since the batch value is 0.1 BNB on BNB Chain, your 1.0 BNB rewards equate to 10 batches.
+- Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 BNB.
+    - BF = (0.5 x 1) x (1 - (10 x 0.00005)) = 0.49975 BNB. 50% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, and the remaining 50% will be utilised to create XNF protocol-owned liquidity.
+- Then, your remaining 0.50025 BNB rewards split: 50% (0.250125 BNB) is utilised to create XNF protocol-owned liquidity, 25% (0.1250625 BNB) to create XEN protocol-owned liquidity, and 25% (0.1250625 BNB) sent as USDC to the Xenify team.
+- At the end of the cycle, you receive XNF for your 10-batch burn contribution. And, as a recycler, you’ll also be included in an exclusive distribution of veXNF and XEN acquired from protocol-owned liquidity.
+- But that’s not all, as you recycled rewards during the first hour of the cycle you will also receive a share of the BNB collected from the 25% claim fee!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Native Token Reward Distribution
 
-During each cycle, the protocol's reward pool gradually accumulates native tokens generated from burn fees and swap fees. This pool grows with every transaction, whether it's a swap or a burn. The total sum of the reward pool is then distributed among XNF stakers based on their veXNF holdings and associated power.
+During each cycle, the protocol's reward pool gradually accumulates native tokens generated from burn fees and swap fees. This pool grows with every transaction, whether it's a swap or a burn. The total sum of the reward pool is then distributed among veXNF holders based on their XNF holdings and its associated earning power.
 
-In addition to the distribution of native tokens from swap fees and burn fees, there are exclusive distributions of native tokens for veXNF holders who have recycled their rewards during the cycle. These additional distributions include native tokens generated from Xenify's 25% claim fee for native chain rewards.
+If there are no veXNF holders at the end of the cycle, the native chain rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
-It's important to note that claiming XNF on Xenify doesn't incur a claim fee. However, if veXNF holders choose to claim their native chain rewards, there will be a 25% claim fee. The native chain tokens acquired from this claim fee during a cycle are set aside and distributed among veXNF holders who have recycled in the previous cycle.
+On top of rewards generated from burn fees and swap fees, the protocol will also perform an exclusive distribution of native tokens derived from the 25% claim fee that’s charged when veXNF holders claim their native chain rewards. This exclusive distribution will be reserved for veXNF holders who recycle their rewards in the first hour of a cycle. 
 
-With this unique reward structure, Xenify is able to strengthen the demand and value for XNF, while providing a compelling incentive for holders to actively participate in the protocol. This encourages engagement and cultivates a growing user base, helping to fortify the protocol's long-term growth.
+By aligning incentives and putting unused rewards to work, Xenify creates a thriving, sustainable ecosystem that encourages engagement and cultivates a growing user base, helping to fortify the protocol's long-term growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -998,11 +998,7 @@ During the pre-deployment phase, while the airdrop event is ongoing, the 0.5% sw
 
 <br>
 
-Introducing Xenify's burn amplification, an opportunity exclusively tailored for Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic), or Phoenix Ape NFT owners. Through ownership of these rare NFTs, you'll unlock a daily amplified burn effect, boosting your batch count by a staggering 100 when burning vXEN or vUSDy. If you own or rent, at least, four of these sought-after NFTs, prepare yourself for an even bigger amplification, as your wallet will receive a generous daily bonus of 1000 batches.
-
-Furthermore, holders of the Phoenix Ape NFT will enjoy a range of extra perks. This includes the opportunity to earn USDC rewards every 8 hours and bypass the Sigma Exit Rate on the YSL.IO protocol. These additional benefits enhance user engagement while making significant contributions to the growth of both the Xenify and YSL.IO ecosystems.
-
-Every wallet that holds a Phoenix Ape NFT is subject to a Weekly Outbound Quota (WOQ) that permits a single outbound transaction involving a Phoenix Ape NFT every 7 days. Outbound transactions include transferring a Phoenix Ape NFT to another wallet or selling the NFT. Please note that while the WOQ restriction is in effect, wallet holders are still permitted to bridge the utility of their Phoenix Ape NFT(s) to another chain. In short, bridging the utility of an NFT to a different chain neither triggers the WOQ nor impacts the user's ability to bridge their Phoenix Ape NFT(s) utility.
+Introducing Xenify's burn amplification, an opportunity exclusively tailored for Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic), or Phoenix Ape NFT owners. Through ownership of these rare NFTs, you'll unlock a daily amplified burn effect, boosting your batch count by a staggering 100 when burning XEN or YSL. If you own or rent at least four of these sought-after NFTs, prepare yourself for an even bigger amplification, as your wallet will receive a generous daily bonus of 1000 batches.
 
 And here's the best part: Your daily batch bonus, whether you possess one NFT or four Phoenix Ape NFTs, can seamlessly be bridged to any chain that Xenify launches. With your burn bonus resetting each day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
 
@@ -1085,7 +1081,7 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ## ◽️ Claimable USDC Rewards
 
-When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes from OpenSea, these earnings are then distributed among all Phoenix Ape NFT holders as claimable USDC rewards on the BNB Chain at the end of each 8-hour epoch.
+When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain at the end of each 8-hour epoch. These USDC rewards will be available for holders to claim at the end of each 8-hour epoch.
 
 And here's the best part: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
 
@@ -1093,17 +1089,9 @@ And here's the best part: even if a user decides to bridge their Phoenix NFT fro
 
 ## ◽️ Unique Rental Mechanism
   
-The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to rent their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of LP tokens utilised by the YSL.IO protocol for the USDy Incentive Buyback (UIB) mechanism. This groundbreaking model not only ensures the stability of the USDy token but also plays a pivotal role in fostering the overall health of the YSL.IO ecosystem.
+The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of YSL protocol-owned liquidity. 
 
-Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users renting their Phoenix NFT on the Xenify marketplace. This tax will be combined with a portion of OpenSea’s royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Bypassing the Sigma Exit Rate
-    
-The YSL.IO protocol has been purpose-built to provide stability and resilience for all participants. The protocol showcases an innovative Price Stability Model (PSM) that not only aims to stabilise the price of native tokens (YSL, xYSL, bYSL, and USDy), but also guarantees users experience high exit liquidity and preserves the long-term growth of treasury-owned liquidity.
-
-A crucial component of the PSM is the Sigma Exit Rate, which restricts token sales from a wallet by considering the user's acquisition or last sale of the token. However, privileged Phoenix Ape NFT holders can enjoy the freedom to sell up to 100% of their xYSL, bYSL, or USDy tokens without being subjected to the Sigma Exit Rate. This exclusive feature grants users ultimate flexibility and control over their YSL.IO native token holdings.
+Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT. This tax will be combined with a portion of the royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT.
 
 <br>
 
@@ -1117,7 +1105,7 @@ Xenify places utmost importance on providing an exceptional user experience, wit
 
 Setting itself apart from traditional decentralised exchanges, Xenify eliminates the need for users to provide liquidity. Instead, it operates as a cross-chain aggregator, leveraging APIs to obtain the most favourable exchange rates and minimal fees from multiple decentralised exchanges. This approach simplifies the user experience and facilitates seamless single-click transactions across different blockchain networks.
 
-Users can actively engage with Xenify through a range of functions, including token swaps, burning vXEN or vUSDy, staking or unstaking XNF, and claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
+Users can actively engage with Xenify through a range of functions, including token swaps, burning XEN or YSL, staking or unstaking XNF, and recycling or claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
 
 This incentive model ensures that Xenify users are consistently recognised for their participation and encourages continued usage of the platform. Additionally, users can conveniently monitor their staked XNF and accrued rewards, allowing them to easily claim or unstake their XNF tokens with just a few clicks. By adopting this user-centric approach, Xenify remains accessible to both novice and experienced users alike.
 
@@ -1129,7 +1117,7 @@ This incentive model ensures that Xenify users are consistently recognised for t
 
 <br>
 
-At Xenify, security is paramount to ensuring the utmost safety and reliability of our protocol. To fortify our protocol's security, we are planning an audit of the contracts by PeckShield, a highly-regarded security company in the industry.
+At Xenify, security is paramount to ensuring the utmost safety and reliability of our protocol. To fortify our protocol's security, we have conducted an audit of the contracts by PeckShield, a highly-regarded security company in the industry.
 
 Our platform is thoughtfully designed with decentralisation and autonomy as guiding principles. Xenify's smart contracts are devoid of admin keys, meaning they cannot be upgraded or governed by a centralised authority. To reinforce our protocol's truly decentralised and autonomous nature, earning potential will be equitably distributed among participants based on their veXNF holdings and its associated power. As Xenify evolves, we aim to prioritise our users' interests, nurturing transparency and trust throughout the protocol.
 
@@ -1181,7 +1169,7 @@ Xenify's mission is to forge a transparent, equitable, and user-centric DeFi pla
 
 ## ◽️ Users Mint Their Equity
 
-- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or vUSDy tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
+- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning XEN or YSL tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1220,32 +1208,32 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Does XNF have an initial supply?
-  - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol rewards users on a daily basis for their active participation in the ecosystem. This is achieved through various contributions, such as burn fee contributions made by directly burning vXEN or vUSDy tokens, as well as swap fees generated through the Xenify aggregator. Notably, all burn fees and swap fees collected on supported EVM chains are directed towards XNF stakers on a daily basis, providing significant long-term earning potential.
+  - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol rewards users on a daily basis for their active participation in the ecosystem. This is achieved through various contributions, such as burn fee contributions made by directly burning XEN or YSL tokens, as well as swap fees generated through the Xenify aggregator. Notably, 50% of the burn fees and swap fees collected on supported EVM chains are directed towards XNF stakers on a daily basis, providing significant long-term earning potential.
 
-  - By implementing this equitable distribution system, Xenify aims to create a level playing field for all users, preventing any concentration of tokens in the hands of a few early adopters. Instead, the protocol emphasizes the importance of ongoing user involvement and contributions, as they directly translate into tangible rewards. This innovative approach distinguishes Xenify as a platform that values its community and actively encourages their participation in shaping the ecosystem.
+  - By implementing this equitable distribution system, Xenify aims to create a level playing field for all users, preventing any concentration of tokens in the hands of a few early adopters. Instead, the protocol emphasises the importance of ongoing user involvement and contributions, as they directly translate into tangible rewards. This innovative approach distinguishes Xenify as a platform that values its community and actively encourages their participation in shaping the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What does the recycle button do?
-  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native chain rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory mint fee and burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional fees. 
+  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native chain rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional fees.
 
-  - Moreover, by choosing to recycle your rewards, you actively contribute to the growth and sustainability of the Xenify ecosystem. The protocol utilises 50% of your accrued native chain rewards to create XNF liquidity, enabling a more robust and efficient market for the token. Additionally, 25% of the rewards are used to create XEN liquidity, further enhancing the ecosystem's overall liquidity. Lastly, the remaining 25% is sent as USDC to the team, supporting ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities. 
+  - Moreover, by choosing to recycle your rewards, you actively contribute to the growth and sustainability of the Xenify ecosystem. After a Burn Fee has been deducted from the recycled rewards, the protocol utilises 50% of your remaining rewards to create XNF liquidity, enabling a more robust and efficient market for the token. Additionally, 25% of the remaining rewards are used to create XEN liquidity, further enhancing the ecosystem's overall liquidity. Lastly, the remaining 25% is sent as USDC to the team, supporting ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
 
-  - By recycling your rewards, you not only enhance your own benefits but also play a vital role in the continued success of the Xenify platform. As a result, recyclers will receive an additional exclusive distribution of native chain tokens generated from the platform's claim fees. This means that by actively participating in the recycling process, you have the opportunity to secure even more native chain tokens, boosting your overall holdings.
+  - By recycling your rewards, you not only enhance your own benefits but also play a vital role in the continued success of the Xenify platform. As a result, recyclers will receive an additional exclusive distribution of native chain tokens generated from the platform's claim fees, as well as XEN and XNF stemming from protocol-owned liquidity. This means that by actively participating in the recycling process, you have the opportunity to secure additional rewards, boosting your overall holdings.
 
   - In conclusion, the recycle button feature not only offers convenience but also presents numerous advantages for veXNF holders. By saving on fees, contributing to ecosystem growth, and accessing exclusive distributions, recyclers can maximise their benefits while supporting the ongoing success of the Xenify platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Why will XNF appreciate in value?
-  - The value of XNF holds the potential to appreciate significantly due to Xenify’s innovative tokenomics, thriving ecosystem, and the increasing demand for native chain rewards. With Xenify's cutting-edge cross-chain aggregator, users can enjoy seamless token swapping and engage in various rewarding activities, which drives protocol adoption and ultimately the value of XNF.
+  -The value of XNF holds the potential to appreciate significantly due to Xenify’s innovative tokenomics, thriving ecosystem, and the increasing demand for native chain rewards. With Xenify's cutting-edge cross-chain aggregator, users can enjoy seamless token swapping and engage in various rewarding activities, which drives protocol adoption and ultimately the value of XNF.
 
   - Additionally, the scarcity of XNF tokens, brought about by halving events, is likely to boost the token's value as more users choose Xenify as their preferred platform for swapping tokens. This will lead to more native chain rewards for XNF stakers, resulting in a growing demand for XNF tokens. Consequently, the token value is poised to rise due to demand, cementing Xenify's position as a promising project within the XEN ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I make a stake now when can I unstake?
-  - When you choose to stake your XNF, you'll have the opportunity to select a staking cycle that suits your preferences, ranging from a minimum of 2 weeks to a maximum of 4 years. It's important to note that once you begin the staking cycle, your XNF tokens will be locked, and you won't be able to unstake them until the cycle is completed. Once your chosen staking cycle comes to an end, you'll have the freedom to unstake your XNF tokens, reclaiming full ownership and control over them. By participating in staking, you contribute to the overall health of our ecosystem, and in return, you have the opportunity to earn native chain rewards on a daily basis!
+  - When you choose to stake your XNF, you'll have the opportunity to select a staking cycle that suits your preferences, ranging from a minimum of 1 week to a maximum of 1 year. It's important to note that once you begin the staking cycle, your XNF tokens will be locked, and you won't be able to unstake them until the cycle is completed. Once your chosen staking cycle comes to an end, you'll have the freedom to unstake your XNF tokens, reclaiming full ownership and control over them. By participating in staking, you contribute to the overall health of our ecosystem, and in return, you have the opportunity to earn native chain rewards on a daily basis!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1255,7 +1243,11 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I make a stake now when will I receive rewards?
-  - When you stake XNF tokens, you will receive rewards at the end of the cycle in which you make the stake. Throughout the cycle, these rewards accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their veXNF balance and associated power, ensuring a fair and transparent distribution.
+  - When you stake your XNF, you receive a special ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your stake in the protocol and, more importantly, indicates your earning power - influencing your share of native chain rewards.
+
+  - The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
+
+  - Throughout each cycle, rewards generated from the burn fees and swap fees accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their XNF stake and it’s associated earning power, ensuring a fair and transparent distribution.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1263,25 +1255,23 @@ We understand that you may have questions about Xenify, its features, and its po
 - Yes, there are several ways to participate with Xenify, including:
 
   - Utilise the Xenify aggregator to perform seamless single-click swaps and earn XNF in the process.
-  - Engage in direct burns of vXEN or vUSDy to acquire XNF.
-  - Stake XNF tokens to earn native chain tokens such as ETH, BNB and MATIC.
+  - Engage in direct burns of XEN or YSL to acquire XNF.
+  - Stake XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
   - Purchase a Phoenix Ape NFT to unlock daily amplified burns and more.
   - Contribute to the protocol's growth through community initiatives.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens if there are no token swaps or burns during a daily cycle?
+  - In the unlikely event that a cycle passes without any swaps on Xenify and no users burning either XEN or YSL, the daily XNF cycle distribution will not occur. The XNF tokens that were due to be distributed during this cycle won't be minted. Consequently, the overall supply of XNF will be reduced by the number intended for distribution in that cycle. For instance, if the daily allocation for a cycle was set at 20,000 XNF, and no swaps or burns take place during that cycle, then these 20,000 XNF will neither be minted nor distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the end of the cycle.
 
-- In the unlikely event that a cycle passes without any swaps on Xenify and no users burning either vXEN or vUSDy, the daily XNF cycle distribution will not occur. The XNF tokens that were due to be distributed during this cycle won't be minted. Consequently, the overall supply of XNF will reduce by the number intended for distribution in that cycle. For instance, if the daily allocation for a cycle was set at 20,000 XNF, and no swaps or burns take place during that cycle, then these 20,000 XNF will neither be minted nor distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the end of the cycle.
+  - But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
 
-- But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
-
-- Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
+  - Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️What happens to the rewards if there are no veXNF holders?
-
 - If there are no veXNF holders at the end of the cycle, the native chain rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
 <br>
@@ -1304,7 +1294,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ XNF 
 
-  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning vXEN or vUSDy tokens and swapping tokens on supported chains.
+  - XNF is the native equity token of Xenify, a state-of-the-art cross-chain aggregator protocol in the decentralised finance (DeFi) space. Users can earn XNF tokens by actively participating in the platform's activities, such as burning XEN or YSL tokens and swapping tokens on supported chains.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1340,7 +1330,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ Direct Burns 
 
-  - When a token is burned it's usually sent to an inactive address and removed from circulation, effectively reducing the total supply by the amount burned. On Xenify, Direct Burns happen when users purposefully burn tokens (vXEN or vUSDy) to promote the growth of the protocol.  As a reward for their commitment to the protocol, users receive XNF tokens in exchange for their burned vXEN or vUSDy tokens.
+  - When a token is burned it's usually sent to an inactive address and removed from circulation, effectively reducing the total supply by the amount burned. On Xenify, Direct Burns happen when users purposefully burn tokens (XEN or YSL) to promote the growth of the protocol.  As a reward for their commitment to the protocol, users receive XNF tokens in exchange for their burned XEN or YSL tokens.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1451,12 +1441,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
  - [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️USDy
-
- - [BNB Chain](https://bscscan.com/token/0x0047A0DEaDAfb7ee6B1A0d219E70Fb6767057D93)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
