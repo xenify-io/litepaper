@@ -246,7 +246,7 @@ Overall, XEN represents an innovative approach to mining that emphasises decentr
 
 At the heart of Xenify lies XNF, a dynamic reward token designed to encourage active participation from users. Its distinctive tokenomics forms the foundation for a unique approach to claiming and locking, fostering greater user engagement and providing users with control over their earning strategies. This means you have the freedom to claim your XNF rewards and decide on a lock period tailored to your preferences, spanning anywhere from a short 1 week to a maximum of 1 year. This level of customisation offers a truly personalised interaction with the protocol.
 
-When you lock your XNF tokens, a special ERC-721 non-fungible token (NFT) is minted in exchange - known as veXNF. Beyond merely reflecting your stake within the protocol, veXNF also acts as an indicator of your 'earning power', influencing your portion of the native chain rewards distribution.
+When you lock your XNF tokens, a unique ERC-721 non-fungible token (NFT) is minted in exchange - known as veXNF. Beyond merely reflecting your stake within the protocol, veXNF also acts as an indicator of your 'earning power', influencing your portion of the native chain rewards distribution.
 
 The power of your veXNF aligns with the amount of XNF you've locked and the duration of your chosen lock-in period. It's important to note that this 'earning power' isn't static. Over time, even if you opt for the maximum 1 year lock-in period, the strength of your veXNF power gradually diminishes. This decline underscores the importance of regularly engaging with the protocol to maintain and even enhance your earning potential. To boost your veXNF power and ensure a consistent capacity to earn, it's advised to not only claim rewards but also add to your locked XNF balance, and extend your lock duration as needed. For users aiming to sustain their earning potential over time, the protocol offers an opportunity to extend lock periods. By doing so, you not only increase your veXNF power but also reset the decay schedule of your position, fostering continued involvement in the protocol.
 
@@ -527,13 +527,17 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ## ◽️ Costs of Swapping on Xenify
 
-Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native chain rewards to veXNF holders, and ensure the continuous development of the protocol.
+Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native chain rewards to XNF stakers, and ensure the continuous development of the protocol.
 
-Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 50% of the swap fee will be distributed as rewards among veXNF holders in the form of native chain tokens. The remaining 50% is strategically utilised to ensure the expansion through our Partner Fee Sharing Programme. This initiative will involve half of the fees being allocated to our team to bolster Xenify's ongoing development, marketing, and outreach efforts, and the remaining 50% being sent to partner projects that sign up to Xenify’s Fee Sharing Programme.
+Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 50% of the swap fee will be utilised for the proliferation of XNF liquidity, and the remaining 50% will be distributed as rewards among veXNF holders in the form of native chain tokens. 
 
 By paying the nominal 0.5% swap fee on chains where XNF is deployed, you not only expedite your transaction but also secure an allocation of XNF from the protocol's daily mint cycle. These XNF tokens are locked for 1 year and distributed among swap participants as veXNF. This unique ERC-721 non-fungible token (NFT) will represent your XNF holdings, which can be withdrawn at the end of the lockup period. 
 
-But here's the exciting part, by holding veXNF you unlock additional gains in the form of native chain rewards based on your earning power. These rewards are distributed at the close of each daily cycle. In essence, by simply executing a swap on Xenify, you have the incredible opportunity to rake in native chain tokens such as BNB and ETH on a daily basis!
+And here's the exciting part, by holding veXNF you unlock additional gains in the form of native chain rewards based on your earning power. These rewards are distributed at the close of each daily cycle. In essence, by simply executing a swap on Xenify, you have the incredible opportunity to rake in native chain tokens such as BNB and ETH on a daily basis!
+
+But that’s not all! The swap fee has also been designed to support the expansion of Xenify through our innovative Fee Sharing Programme. This initiative provides an exciting opportunity for partner projects to earn a share of the swap fees generated on their native tokens. This way, we can encourage more projects to join our ecosystem and empower their users to reap the benefits of Xenify. With 25% of the swap fee shared equally between the partner project and Xenify, we establish a mutually advantageous relationship that supports the partner project and bolsters Xenify's ongoing development, marketing, and outreach efforts.
+
+In short, the Xenify Fee Sharing Programme strategically leverages the swap fee to align incentives between swap participants, veXNF holders, partners, and the protocol itself - facilitating sustainable growth for all.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1243,7 +1247,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I make a stake now when will I receive rewards?
-  - When you stake your XNF, you receive a special ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your stake in the protocol and, more importantly, indicates your earning power - influencing your share of native chain rewards.
+  - When you stake your XNF, you receive a unique ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your stake in the protocol and, more importantly, indicates your earning power - influencing your share of native chain rewards.
 
   - The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
 
