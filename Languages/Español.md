@@ -847,8 +847,8 @@ Funciona de la siguiente manera: El protocolo calcula la contribución de swap d
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/22e96003-a694-481c-8a54-59e4dcaffe3b" class="fuente-luz">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6e893b8a-e4a2-4d16-a2f8-3bd35da2d801" class="fuente-oscuro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a94f247e-4bbc-4b60-869b-3e3d16363e12" class="fuente-luz">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/78d3b4b0-c4cd-43c6-bf6d-4d29b2c162f1" class="fuente-oscuro">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -946,8 +946,8 @@ Con esta estructura de recompensa única, Xenify es capaz de fortalecer la deman
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b6bbcf73-7989-4f4c-984c-2011be7f906d" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/0b821a08-2860-4933-9bcb-104b02565279" class="fuente-oscuro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/67002366-a05f-42b1-bd3a-7be503211123" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6da422f6-87e5-4376-8b65-902d3f60ed71" class="fuente-oscuro">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
