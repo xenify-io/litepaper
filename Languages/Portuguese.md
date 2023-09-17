@@ -851,8 +851,8 @@ Eis como funciona: O protocolo calcula a contribuição de swap do utilizador (S
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/03c03e3a-d236-4db1-8489-d78220fb24bc" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/61329b00-1139-4bbb-9572-770f37e79268" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/06c5a2bc-1e22-403a-9d40-207ca9c55ab2" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/0442065d-0b74-411d-982d-f052d07f7b90" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -952,8 +952,8 @@ Com esta estrutura de recompensa única, a Xenify é capaz de reforçar a procur
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/08a28c80-647f-46c0-9ced-14f31efc64ad" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f9ac1f64-a84a-4dc2-b761-1a611eae69f0" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d22407c9-13db-46b2-9d9a-9b958cc57e1c" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1c5f0bdd-0145-4f9d-8432-c113fb5d251b" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
