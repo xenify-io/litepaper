@@ -952,8 +952,8 @@ Bu benzersiz ödül yapısı ile Xenify, XNF'ye olan talebi ve değeri güçlend
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a95d76ea-d36b-493e-a322-5d03ee7e4481" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/80984cc2-561c-4c70-a26e-16ff135238e8" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9d4b2898-d06d-4905-8e8e-71876395facf" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/9acdd5c3-ff48-43d2-9b85-cb301702d1a6" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
