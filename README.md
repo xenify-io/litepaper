@@ -261,7 +261,6 @@ What's more, Xenify incorporates an ingenious burn mechanism that enables users 
 
 Xenify's innovative approach to staking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 52 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
 
-
 <br>
 
 ## ◽️ Supported Aggregators
@@ -422,7 +421,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ◽️ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Arbitrum and Avalanche to the new kids on the blockchain like PulseChain, there's no shortage of options. The full list includes:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Optimism and Avalanche to the new kids on the blockchain like PulseChain, there's no shortage of options. The full list of chains include:
 
 - Base
 - Fantom
@@ -533,6 +532,8 @@ $$
 VP = 10 ^ {2 - ND}
 $$
 
+<br>
+
 **Where:**
 
 - $VP$ (Value Per Batch) - The value per batch that is set for the chain.
@@ -559,6 +560,8 @@ To initiate the burn function on Xenify, users must have a sufficient wallet bal
 $$
 BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
+
+<br>
 
 **Where:**
 
@@ -997,7 +1000,7 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚡️ Scenario 1: If you hold 4 or more Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
+## ⚡️ Scenario 1: If you hold 4 or more Phoenix Ape NFTs, APEX XENFTs Class 1 or 2
 
 If you hold 4 NFTs burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. For instance, if you have 4 NFTs and a daily bonus of 1,000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
 
@@ -1007,7 +1010,7 @@ Additionally, you can choose to bridge the utility of your 4 NFTs to another cha
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚡️ Scenario 2: If you hold between 1 and 3 Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
+## ⚡️ Scenario 2: If you hold between 1 and 3 Phoenix Ape NFTs, APEX XENFTs Class 1 or 2
 
 Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. For instance, imagine you have a daily bonus of 100 batches on your NFT and opt to burn 10 batches. The protocol will effectively double your batch count to 20 batches, by utilising 10 of your daily bonus batches. Consequently, 10 batches from your NFT ID's daily bonus will be deducted, leaving 90 bonus batches for that NFT on that day.
 
