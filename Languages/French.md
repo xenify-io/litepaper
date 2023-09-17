@@ -851,8 +851,8 @@ Voici comment cela fonctionne : Le protocole calcule la contribution d'échange 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/edcc8649-bb4a-4916-b199-69b8599aff61" class="source-light">
-    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/cf8d1cc9-8175-4ae3-96a1-4fc2689b2de7" class="source-dark">
+    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/045ce3ad-bb28-454a-86a2-1967f67a1741" class="source-light">
+    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/afd93e6c-f117-4fa5-a8d6-7bb5a0e8cac4" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100% ;">
   </picture>
 </p>
@@ -952,8 +952,8 @@ Grâce à cette structure de récompense unique, Xenify est en mesure de renforc
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/69aa5a27-4b04-4069-a5a8-7b0a63b28fa9" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c094e2a9-b4dd-46d9-bbd1-75db91d42f85" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/16601498-2e28-4404-bfbf-1316b3ddb7f5" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fd93f65b-d5e8-4a09-a13b-eeb6f77eafdc" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
