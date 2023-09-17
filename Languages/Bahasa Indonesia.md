@@ -851,8 +851,8 @@ Begini cara kerjanya: Protokol menghitung kontribusi swap (SC) pengguna dengan t
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f4423728-ea92-49d1-9301-76097a479e11" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f34e9d40-6328-4ac8-bf90-1768e46a713b" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b77a332d-e42b-4a1c-b6a4-52a6e338d2d8" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ea13086c-1ac6-4ee3-82cc-58b9c515097b" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility: visible;max-width: 100%;">
   <picture>
 </p>
@@ -952,8 +952,8 @@ Dengan struktur hadiah yang unik ini, Xenify dapat memperkuat permintaan dan nil
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/773ba250-a50a-4f4c-ac94-96a18d39075d" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2751e444-27ed-46fe-a45b-d3134f40bf5e" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c9da860a-629d-46d0-b46f-7206f548ac8b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/aca2831d-ccbb-49d0-bd01-85d202fc716f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
