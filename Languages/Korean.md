@@ -851,8 +851,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a72d8362-eeee-42e9-85a6-b1868479932d" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a76761d0-2c4f-41e5-b939-59c82e6ef1da" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d081a212-6cea-403f-987b-6e295f42f73c" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b0bd0a15-92f4-4e90-9956-1bfb678128fa" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="가시성:표시;최대 너비:100%;">
   </picture>
 </p>
@@ -952,8 +952,8 @@ veXNF 보유자로서 재활용 기능을 활용하면 플랫폼의 25% 청구 �
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/dbf73e36-d170-42f2-949c-90efa5be262e" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2820d651-8ccf-441c-9d0a-3799f411fa75" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b05bb73c-be8a-407b-a83d-6b2a503f806b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/885aa49b-e58a-4b35-b16b-69dfa0b79a52" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
