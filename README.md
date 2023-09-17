@@ -91,31 +91,31 @@ At Xenify, we're not content with the status quo! Our unyielding ambition has le
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fairness 
+## ⭐️ Fairness 
   
   - We believe in creating a fair and level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favouritism towards founders, team members, or investors.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Simplicity
+## ⭐️ Simplicity
 
   - We aim to deliver a simple and effortlessly intuitive experience for everyone. Xenify's user-friendly interface welcomes both seasoned veterans and newcomers alike, enabling them to easily navigate and engage with the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Transparency
+## ⭐️ Transparency
 
   - We strive to build a strong foundation of trust and accountability within the community. Xenify upholds open-source solidity code and maintains clear communication channels to foster a collaborative and honest environment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Interoperability
+## ⭐️ Interoperability
 
   - We embrace diversity and innovation as the drivers of the DeFi ecosystem. Bridging the gap between various chains, Xenify leverages cross-chain capabilities to enable seamless interactions and expand the scope of the protocol, unlocking endless possibilities.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ User Empowerment
+## ⭐️ User Empowerment
 
   - We empower our users to take control of their equity, governance, and growth. Xenify enables users to mint their own tokens, have a voice in the protocol's direction, and share in its success. Our users are not just a passenger on this journey - they are an essential part of it, and have the power to steer their own course.
 
@@ -131,19 +131,19 @@ Built on a foundation of fairness, simplicity, transparency, user empowerment, a
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Xenify Principles
+## ⭐️ Xenify Principles
 
 Xenify sets itself apart in the DeFi space with its unwavering commitment to fairness, simplicity, transparency, user empowerment, and interoperability. These guiding principles form the bedrock of Xenify's development and growth, driving us to revolutionise the DeFi experience and create a more inclusive, accessible, and interconnected ecosystem. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Advanced Cross-chain Aggregator Capabilities
+## ⭐️ Advanced Cross-chain Aggregator Capabilities
 
 With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 28 aggregators across 52 chains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Emphasis on Equity and Long-term Investment
+## ⭐️ Emphasis on Equity and Long-term Investment
 
 Xenify places great emphasis on equity and long-term investments. We believe in empowering our users to reap the rewards of our protocol's growth and token value appreciation. By holding a stake in Xenify, users have the opportunity to become a part of our success and stand to potentially generate passive income through staking XNF. To accomplish this, we've developed a range of robust features designed to maximise your benefits as a Xenify user:
 
@@ -367,7 +367,7 @@ Xenifiy is a groundbreaking protocol that champions fairness, sustainability, an
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Token Supply
+## ⭐️ Token Supply
 
 XNF is the lifeblood of the Xenify protocol, and features a limited total supply of 22.6 million tokens. The distribution process for XNF is designed with transparency and equity in mind, ensuring a level playing field for all. With no pre-mines, investor allocations, founder allocations, or team allocations, the Xenify protocol fosters an environment of fairness and inclusivity. Users have the opportunity to earn XNF equity by engaging in various activities, such as burning XEN or YSL tokens and swapping tokens from supported chains. This unique token supply model not only promotes active participation but also cultivates a thriving, community-focused ecosystem that everyone can be a part of.
 
@@ -383,7 +383,7 @@ XNF is the lifeblood of the Xenify protocol, and features a limited total supply
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Supply Distribution
+## ⭐️ Supply Distribution
 
 With a total supply capped at 22.6 million XNF tokens, strategically divided into three core segments, Xenify has been purposefully designed to reward active participants while promoting a balanced ecosystem:
 
@@ -450,7 +450,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Minting Process and Incentives
+## ⭐️ XNF Minting Process and Incentives
 
 The XNF minting process within Xenify has been meticulously structured to reward users who actively engage with and contribute to the protocol's growth. This initiative ensures an equitable distribution of XNF tokens and fosters a genuinely decentralised and community-driven protocol. Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
@@ -498,7 +498,7 @@ Xenify's innovative staking model enables users to lock their XNF tokens for an 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costs of Swapping on Xenify
+## ⭐️ Costs of Swapping on Xenify
 
 Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native rewards to veXNF holders, and ensure the continuous development of the protocol.
 
@@ -514,7 +514,7 @@ In short, the Xenify Fee Sharing Programme strategically leverages the swap fee 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Costs of Burning on Xenify
+## ⭐️ Costs of Burning on Xenify
 
 The Xenify protocol enables users to burn XEN or YSL tokens to secure XNF from the daily XNF reward cycle. By participating in the burn process to acquire XNF, users will encounter certain costs such as transaction gas fees and the mandatory burn fee. However, the burn fee calculation has been carefully designed to not only ensure a transparent and consistent method for token burning but also reward users with an attractive discount of up to 75%.
 
@@ -547,7 +547,7 @@ By aligning batch values to native token prices and providing volume discounts, 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Time-Weighted Burn Fee Discount
+## ⭐️ Time-Weighted Burn Fee Discount
 
 Xenify introduces an innovative approach to burn fee discounts that aims to promote fairness and prevent manipulation. By implementing a carefully designed burn fee calculation, the protocol effectively curbs unfair practices where users strategically time transactions to maximise their rewards or incentives.
 
@@ -579,7 +579,7 @@ Xenify's approach to burn fee discounts not only promotes fairness but also prov
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Time Coefficient (FC)
+## ⭐️ Time Coefficient (FC)
 
 The Burn Fee (BF) needed to execute the burn function will increase as the total value of batches being burned increases, however by executing burns earlier in the cycle users have the opportunity to benefit from a lower burn fee thanks to the Time Coefficient (FC). 
 
@@ -616,7 +616,7 @@ As illustrated in the table below, the Time Coefficient starts at 50% when a cyc
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Batch Coefficient (BC)
+## ⭐️ Batch Coefficient (BC)
 
 The Batch Coefficient (BC) factors in a discount on the burn fee based on the number of batches you burn. The more batches you burn, the greater the batch discount, represented by the term (1 - (NB x BC)). The value of the Batch Coefficient (BC) varies depending on when a user decides to burn during a cycle. 
 
@@ -655,7 +655,7 @@ The table below illustrates how the value of the coefficient changes during a 24
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Different Burn Fee Scenarios
+## ⭐️ Different Burn Fee Scenarios
 
 Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in different scenarios:
 
@@ -691,7 +691,7 @@ Comparing these scenarios highlights the benefits of burning batches in the firs
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Cycle Distribution
+## ⭐️ XNF Cycle Distribution
 
 Xenify employs a balanced approach in the daily distribution of XNF tokens, with a focus on two central components across all the chains it's deployed on: burn fees and swap fees. These components receive an equal share of the daily mint, with 50% allocated to users who participate in burning XEN or YSL tokens, and the remaining 50% distributed among those who engage in swaps.
 
@@ -755,7 +755,7 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Locking XNF Tokens
+## ⭐️ Locking XNF Tokens
 
 Each cycle, Xenify's protocol distributes newly minted XNF tokens to its users. The distribution takes place at the end of each day and adheres to a particular allocation structure. Specifically, 50% of the daily minted XNF is allotted to users who engage in the burning of XEN and YSL tokens, and the remaining 50% is distributed as veXNF to users who participate in swaps across all supported EVM chains.
 
@@ -780,6 +780,8 @@ $$
 - $LD$ (Lock Duration) - The user’s chosen lock duration in days.
 - $ML$ (Maximum Lock) - The maximum lock duration of 365 days.
 
+<br>
+
 The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer. Your earning potential directly correlates to the amount of XNF you lock and your chosen lock duration. At the start of your lock period, your veXNF is minted with 100% earning power. Over time, as your lock continues, the strength of this earning power diminishes based on the custom decay formula below:
 
 <br>
@@ -802,7 +804,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Different Earning Power Scenarios
+## ⭐️ Different Earning Power Scenarios
 
 Let's take a closer look at how the Earning Power Decay operates in different scenarios:
 
@@ -838,7 +840,7 @@ This model rewards long-term participants and aligns incentives toward supportin
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Unlocking XNF Tokens
+## ⭐️ Unlocking XNF Tokens
 
 At Xenify, we empower our users with flexibility when managing their veXNF position with the ability to extend, merge and even split positions. After completing your chosen lock period, you will have the option to unlock your XNF tokens. Importantly, unstaking is only possible after your lock period ends - your XNF remains locked for the duration you selected. Throughout your staking cycle, you accumulate native rewards based on the amount of XNF locked and your veXNF earning power. This earning power decays linearly over a decay schedule until it reaches zero at the end. At this point, you stop earning rewards on your locked position as your veXNF earning power is depleted.
 
@@ -846,7 +848,7 @@ You now have two options: Either extend your lock period (from 1 week up to 1 ye
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Claiming Native Rewards
+## ⭐️ Claiming Native Rewards
 
 At Xenify, you can conveniently withdraw your accumulated native rewards at any time. However, be aware that directly claiming rewards incurs a 25% claim fee. To avoid this fee, simply click "Recycle" instead of "Claim". Recycling leverages your accrued rewards to acquire XNF through the daily burn auction, while bypassing the mandatory burn fee.
 
@@ -856,7 +858,7 @@ This recycling mechanic provides a multitude of benefits for the ecosystem and r
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Recycling Native Rewards
+## ⭐️ Recycling Native Rewards
 
 Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction. What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables fee-free participation, unlike the normal burn process which requires additional native tokens to cover the mandatory burn fee.
 
@@ -884,7 +886,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Native Token Reward Distribution
+## ⭐️ Native Token Reward Distribution
 
 During each cycle, the protocol's reward pool gradually accumulates native tokens generated from burn fees and swap fees. This pool grows with every transaction, whether it's a swap or a burn. The total sum of the reward pool is then distributed among veXNF holders based on their XNF holdings and its associated earning power. If there are no veXNF holders at the end of the cycle, the native rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
@@ -960,13 +962,13 @@ Furthermore, as soon as a higher bid is placed during the auction, the previous 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Limited Collectible
+## ⭐️ Limited Collectible
 
 The Phoenix Apes is an NFT collectible that has been designed to unite the Xenify and YSL.IO communities. The exclusive NFT collection developed by YSL.IO, boasts a scarce supply of just 520. These sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess unique rarities, but they also bestow exceptional benefits upon their holders within the Xenify and YSL.IO ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Daily Amplified Burn Effect
+## ⭐️ Daily Amplified Burn Effect
 
 Prepare to unleash the power of your Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), or Class 2 APEX XENFT (Exotic) on Xenify! As a proud owner of these remarkable NFTs, you gain access to an exclusive amplified burn effect that takes your burn contribution to new heights. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging the communities of these exceptional NFTs, this amplified burn effect fosters unity and fuels the growth of each ecosystem, creating a win-win situation for all involved. Here's how it works: When NFT holders decide to burn XEN or YSL on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their NFT, that specific NFT will no longer offer an amplified burn for that day.
 
@@ -994,7 +996,7 @@ $$
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Example: Amplified Burn Effect
+## ⭐️ Example: Amplified Burn Effect
 
 Let's take a closer look at how the amplified burn works in different scenarios:
 
@@ -1020,7 +1022,7 @@ Additionally, you have the option to bridge your NFT's utility to another chain 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Claimable USDC Rewards
+## ⭐️ Claimable USDC Rewards
 
 When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain at the end of each 8-hour epoch. These USDC rewards will be available for holders to claim at the end of each 8-hour epoch.
 
@@ -1028,7 +1030,7 @@ And here's the best part: even if a user decides to bridge their Phoenix NFT fro
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Unique Rental Mechanism
+## ⭐️ Unique Rental Mechanism
   
 The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of YSL protocol-owned liquidity. 
 
@@ -1064,55 +1066,55 @@ As Xenify evolves, we aim to prioritise our users' interests, nurturing transpar
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Fair Launch
+## ⭐️ Fair Launch
   
 - Xenify's launch is designed to be impartial, with no pre-mining or pre-allocation of XNF tokens. This guarantees an even playing field for all participants, cultivating an environment of fairness and equal opportunity.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Back Doors
+## ⭐️ No Back Doors
 
 - Xenify's smart contracts and platform architecture will be meticulously developed without concealed functionalities or back doors, ensuring the utmost security and trustworthiness of our protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Team Allocation
+## ⭐️ No Team Allocation
 
 - Founders and team members will not receive any token allocation, underscoring the project's dedication to a community-driven approach and eliminating potential conflicts of interest. Instead, Xenify's team will participate alongside the community, fostering a fair and level playing field for all involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Starts at Zero Supply
+## ⭐️ Starts at Zero Supply
 
 - XNF will begin with a zero token supply, with tokens minted exclusively through user participation in the ecosystem. This approach guarantees that there is no possibility for a stealth launch, which often favours a select few. Instead, all participants will have equal opportunities to engage with and benefit from the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Proof of Participation
+## ⭐️ Proof of Participation
 
 - Users will earn rewards proportional to their active engagement and contributions within the ecosystem, fostering a merit-based reward system that promotes fairness and inclusivity for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Investor Allocation
+## ⭐️ No Investor Allocation
 
 - There will be no token allocation for privileged investors or venture capitalists, ensuring a genuinely equitable distribution of tokens among users actively engaged in the ecosystem. This strategy eliminates preferential treatment and fosters a more inclusive and fair environment for everyone involved.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ No Initial Coin Offering
+## ⭐️ No Initial Coin Offering
 
 - Xenify will forego an Initial Coin Offering (ICO), reinforcing our unwavering commitment to a fair and transparent launch that ensures equal opportunities for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Users Mint Their Equity
+## ⭐️ Users Mint Their Equity
 
 - XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning XEN or YSL tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Immutable Contracts (No Admin Keys)
+## ⭐️ Immutable Contracts (No Admin Keys)
 
   - Xenify's smart contracts will be carefully crafted without admin keys or centralised control, safeguarding the protocol's immutability and preserving its decentralised nature. What does this mean? Once our tokenomics and protocol architecture are deployed, they're set in stone – no upgrades or alterations can be made. This commitment to immutability delivers a stable, transparent, and secure environment for our community, ensuring that no single entity can make arbitrary decisions to manipulate the protocol.
 
