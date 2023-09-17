@@ -892,18 +892,6 @@ During each cycle, the protocol's reward pool gradually accumulates native token
 
 On top of rewards generated from burn fees and swap fees, the protocol will also perform an exclusive distribution of native tokens derived from the 25% claim fee that’s charged when veXNF holders claim their native rewards. This exclusive distribution will be reserved for veXNF holders who recycle their rewards in the first hour of a cycle. By aligning incentives and putting unused rewards to work, Xenify creates a thriving, sustainable ecosystem that encourages engagement and cultivates a growing user base, helping to fortify the protocol's long-term growth.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ Visual Explainer
-
-<p align="center" dir="auto">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/4c870737-489f-45e4-afd5-7c5bb2b8f933" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" class="source-dark">
-    <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/f93e2a74-37c6-4de9-a935-278b6250a060" style="visibility:visible;max-width:100%;">
-    </picture>
-</p>
-
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Xenify Architecture 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
