@@ -1302,8 +1302,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Acknowledgements
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ♦️ YSL.IO (Apr 21, 2023) - Cross-chain NFTs
 
@@ -1358,9 +1357,8 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 # ◽️ Contract Addresses
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-<br>
 
-## ◽️XEN
+## ♦️ XEN
  - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
@@ -1373,7 +1371,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️Phoenix Ape NFTs
+## ♦️ Phoenix Ape NFTs
 
 - [Opensea](https://opensea.io/collection/phoenix-ape-nft)
 - [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
