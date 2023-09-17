@@ -499,7 +499,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Swap to earn XNF 
+## ♦️ Swap to Earn XNF 
 
 - Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing users the exciting opportunity to earn native chain tokens daily.
 
@@ -513,7 +513,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Lock XNF to earn native tokens 
+## ♦️ Lock XNF to Earn Native Chain Rewards
 
 - Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their locked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who lock XNF.
 
