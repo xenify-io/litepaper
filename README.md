@@ -149,13 +149,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Locking XNF Tokens
+## ✨ Locking XNF Tokens
 
 - Xenify introduces a dynamic rewards system that offers significant advantages to XNF holders. By locking XNF tokens, users become eligible to receive an impressive 50% of burn fees and swap fees generated on supported chains, every single day.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Recycling Native Rewards
+## ✨ Recycling Native Rewards
 
   - Recycling your native rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but you also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
 
@@ -167,13 +167,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Token Burning
+## ✨ Token Burning
 
 - Xenify empowers users to effortlessly burn their XEN or YSL tokens directly from their wallets to participate in the daily burn auction. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Cross-Chain Swapping
+## ✨ Cross-Chain Swapping
 
 - Xenify is the ultimate solution for cross-chain swapping, allowing you to exchange tokens across 52 different chains with ease and efficiency. Our streamlined approach offers a new level of simplicity and provides access to 28 aggregators, ensuring you always have access to the best liquidity and rates for your swaps.
 
@@ -183,7 +183,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Fair Equity Distribution
+## ✨ Fair Equity Distribution
 
 - Xenify is dedicated to promoting fairness and transparency in the distribution of equity among its users. Our unique tokenomics and staking model are designed to reward active participants and long-term holders, creating a strong incentive for users to contribute to the growth of our ecosystem. As our community continues to grow, the equitable distribution of rewards and XNF tokens ensures that everyone benefits, promoting a vibrant and engaged community. Xenify's commitment to fairness and equity fosters trust within the ecosystem, promoting a sustainable and inclusive environment for all participants.
 
@@ -193,18 +193,18 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 # ◽️ Our Founders
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-## ◽️ Simran Dhillon
+## ♦️ Simran Dhillon
 - [Twitter](https://twitter.com/simran_ysl)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
 - [Telegram](https://t.me/SD_YSL)
 - [Past Experience](https://blog.horizen.io/zen-foundation-and-team-updates)
 
-## ◽️ Hardev Dhillon
+## ♦️ Hardev Dhillon
 - [Twitter](https://twitter.com/hardev_ysl)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
 - [Telegram](https://t.me/hardev_ysl)
 
-## ◽️ Dayana Plaz
+## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
 - [LinkedIn](https://www.linkedin.com/in/dayana-m-plaz-328396b5)
 - [Telegram](https://t.me/Dayplaz)
@@ -223,16 +223,11 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 XEN is a project that was launched on the principles of self-custody, trustless consensus, and decentralisation. It is a joint effort of several blockchain enthusiasts who aim to create a fairer, more transparent mining ecosystem. One of the main goals of XEN is to democratise mining by providing a decentralised platform that allows anyone to participate in the mining process. This is achieved by utilising a Proof-of-Work (PoW) consensus algorithm that is resistant to ASIC mining, thus ensuring that the network remains accessible to individual miners.
 
-In addition to its mining capabilities, XEN also features a native cryptocurrency, XEN token, which is used to incentivise miners and maintain the security of the network. XEN tokens are also used to pay for transaction fees and other network services. XEN operates on a Proof of Participation (PoP) system, which allows participants to mint their coins. The XEN smart contract employs a fair distribution system based on reward time locks and the total number of participants. XEN's value is linked to its difficulty to be minted, similar to Bitcoin. As more participants join and mint XEN, the total amount of generated XEN drops, making it more scarce and valuable.
+In addition to its mining capabilities, XEN also features a native cryptocurrency, XEN token, which is used to incentivise miners and maintain the security of the network. XEN tokens are also used to pay for transaction fees and other network services. XEN operates on a Proof of Participation (PoP) system, which allows participants to mint their coins. The XEN smart contract employs a fair distribution system based on reward time locks and the total number of participants. XEN's value is linked to its difficulty to be minted, similar to Bitcoin. As more participants join and mint XEN, the total amount of generated XEN drops, making it more scarce and valuable. One of the key features of XEN is its simplicity, as it is based on the ERC20 token standard with minimal code, no pre-minting, hidden doors, admin keys, or origin wallets. Furthermore, XEN has a supply of zero and can only be minted by the participating community. This makes it inflationary at the beginning and disinflationary as adoption increases. XEN is immutable and has no backing by investors or intrinsic value.
 
-One of the key features of XEN is its simplicity, as it is based on the ERC20 token standard with minimal code, no pre-minting, hidden doors, admin keys, or origin wallets. Furthermore, XEN has a supply of zero and can only be minted by the participating community. This makes it inflationary at the beginning and disinflationary as adoption increases. XEN is immutable and has no backing by investors or intrinsic value.
+To mint XEN, participants can connect their Ethereum-compatible wallets to the XEN smart contract and specify the number of days they are willing to wait to receive XEN. The smart contract generates a XEN rank (cRANK) based on how many people interacted with the contract before the participant. Participants can also stake XEN for 1 to 1,000 days, with APY rewards starting at 20% on XEN Genesis and decreasing by 1 percentage point every 90 days until it reaches 2%, where it will remain indefinitely. Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
 
-To mint XEN, participants can connect their Ethereum-compatible wallets to the XEN smart contract and specify the number of days they are willing to wait to receive XEN. The smart contract generates a XEN rank (cRANK) based on how many people interacted with the contract before the participant. Participants can also stake XEN for 1 to 1,000 days, with APY rewards starting at 20% on XEN Genesis and decreasing by 1 percentage point every 90 days until it reaches 2%, where it will remain indefinitely.
-
-Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
+<br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ XNF & veXNF Overview
@@ -444,7 +439,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 | Chain Name         | DEX Name                                              | Liquidity Pairing   |
 | ------------------ | ----------------------------------------------------- | ------------------- |
-| Base               | [Uniswap V3](https://app.uniswap.org)                 | cBXNF-ETH           |
+| Base               | [Uniswap V3](https://app.uniswap.org)                 | cbXNF-ETH           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
@@ -466,7 +461,7 @@ Users are further incentivised through the platform's staking mechanism, which a
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Burn to Earn XNF 
+## ✨ Burn to Earn XNF 
 
 Xenify empowers users to effortlessly burn their XEN or YSL tokens directly from their wallets to participate in the daily burn cycle. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
@@ -480,7 +475,7 @@ During the burn process, the XEN or YSL tokens you provide are burned (permanent
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Swap to Earn XNF 
+## ✨ Swap to Earn XNF 
 
 Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing users the exciting opportunity to earn native chain tokens daily. Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
@@ -492,7 +487,7 @@ Moreover, by engaging in swaps on any of the 52 supported chains, users become e
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Lock XNF to Earn Native Rewards
+## ✨ Lock XNF to Earn Native Rewards
 
 Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their locked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who lock XNF.
 
@@ -579,7 +574,6 @@ It's worth noting that the burn fee discount you receive will depend on the curr
 
 Xenify's approach to burn fee discounts not only promotes fairness but also provides users with the potential to optimise their savings. By considering the time-weighted coefficients and strategically choosing when to execute burns, users can maximise their discounts and overall value. This innovative approach brings transparency, fairness, and increased benefits to all participants of the Xenify ecosystem.
 
-
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Time Coefficient (FC)
@@ -590,7 +584,7 @@ As illustrated in the table below, the Time Coefficient starts at 50% when a cyc
 
 <br>
 
-| Hour | Time Coefficient (FC) |
+| Hour | Time Coefficient (FC)     |
 |------|---------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -702,9 +696,7 @@ For instance, if the daily minted amount of XNF tokens is 20,000, the distributi
 
 For example, if the daily XNF mint is 20,000 XNF tokens, Xenify will distribute the allocation two ways: 10,000 XNF is given to those contributing to burn fees, and 10,000 XNF to those contributing to swap fees. This same allocation structure is applied across all other chains where Xenify is deployed. Consequently, regardless of the chain, users contributing to the burning of tokens or engaging in swaps will have an opportunity to earn a portion of the newly minted XNF tokens each day.
 
-To ascertain each user's share of the daily mint allocated to burn and swap contributions, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made by a user during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees.
-
-The protocol calculates your share of the daily XNF allocated to burn fee contributions (BC), by taking into account the total XNF tokens distributed (TD), the total number of batches burned by all users during the cycle (TB), and the number of batches you burned during the cycle (UB). Here's the formula explained in detail:
+To ascertain each user's share of the daily mint allocated to burn and swap contributions, the protocol will perform a series of calculations. These calculations will be based on the swap and burn contributions made by a user during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of swap fees. The protocol calculates your share of the daily XNF allocated to burn fee contributions (BC), by taking into account the total XNF tokens distributed (TD), the total number of batches burned by all users during the cycle (TB), and the number of batches you burned during the cycle (UB). Here's the formula explained in detail:
 
 <br>
 
@@ -813,21 +805,7 @@ Let's take a closer look at how the Earning Power Decay operates in different sc
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚡️ Scenario 1: User locks XNF for 1 year 
-
-Let’s say you decide to lock your XNF for the maximum term of 1 year. After 1 day your Earning power would have decayed from 100% to 99.7%.
-
-<br>
-
-$$
-CP = 100 \times ((1 - 1 \div 365) \times (365 \div 365)) = 99.7
-$$
-
-<br>
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⚡️ Scenario 2: User locks XNF for 1 week
+## ⚡️ Scenario 1: User locks XNF for 1 week
 
 Let’s say you decide to lock your XNF for the minimum term of 1 week. After 1 day your Earning power would have decayed from 100% to 16.3%.
 
@@ -835,6 +813,18 @@ Let’s say you decide to lock your XNF for the minimum term of 1 week. After 1 
 
 $$
 CP = 100 \times ((1 - 1 \div 7) \times (7 \div 365)) = 16.3
+$$
+
+<br>
+
+## ⚡️ Scenario 2: User locks XNF for 1 year 
+
+Let’s say you decide to lock your XNF for the maximum term of 1 year. After 1 day your Earning power would have decayed from 100% to 99.7%.
+
+<br>
+
+$$
+CP = 100 \times ((1 - 1 \div 365) \times (365 \div 365)) = 99.7
 $$
 
 <br>
@@ -875,16 +865,14 @@ By recycling your native rewards, you'll not only strengthen your XNF position b
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Recycling Rewards Example
+## ⚡️ Recycling Rewards Example
 
-Let's walk through an example to illustrate how the recycling feature works.
-
-- Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 BNB during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.1 BNB on BNB Chain, your 1.0 BNB rewards equate to 10 batches. Your 10 batches will be allocated to either the XEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 BNB.
+Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 BNB during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.1 BNB on BNB Chain, your 1.0 BNB rewards equate to 10 batches. Your 10 batches will be allocated to either the XEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 BNB.
 
 <br>
 
 $$
-BF = (0.5 \times 1) \times (1 - (10 \times 0.00005)) = 0.49975 \spave BNB
+BF = (0.5 \times 1) \times (1 - (10 \times 0.00005)) = 0.49975 \space BNB
 $$
 
 <br>
@@ -933,9 +921,7 @@ On top of rewards generated from burn fees and swap fees, the protocol will also
 
 Introducing Xenify's exclusive XNF Airdrop, an initiative aimed at driving user engagement on the platform across multiple EVM chains. To build anticipation for an upcoming launch of XNF on a new chain, a 60-day airdrop event will precede its deployment. As platform users swap tokens, they will be rewarded with a generous allocation of 1,500,000 XNF tokens during this event, providing a fantastic opportunity to benefit from Xenify's growth.
 
-These 1,500,000 XNF tokens will be initially distributed as locked tokens on the launch day, gradually unlocking over a period of 730 days. For instance, if you receive 100 locked XNF tokens from the airdrop, you can expect approximately 0.13699 XNF tokens to be unlocked in your wallet each day. Since these tokens will be divided among swap participants based on their daily swap contributions leading up to the launch, the more you swap during the event, the greater your share of the XNF Airdrop will be!
-
-Now, we understand your eagerness to earn from those XNF tokens and witness your portfolio flourish. However, there's a small catch – Airdropped XNF tokens cannot be staked until they unlock in your wallet. So, if you're aiming to earn a share of the platform's native rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native rewards from the initial distribution!
+These 1,500,000 XNF tokens will be initially distributed as locked tokens on the launch day, gradually unlocking over a period of 730 days. For instance, if you receive 100 locked XNF tokens from the airdrop, you can expect approximately 0.13699 XNF tokens to be unlocked in your wallet each day. Since these tokens will be divided among swap participants based on their daily swap contributions leading up to the launch, the more you swap during the event, the greater your share of the XNF Airdrop will be! Now, we understand your eagerness to earn from those XNF tokens and witness your portfolio flourish. However, there's a small catch – Airdropped XNF tokens cannot be staked until they unlock in your wallet. So, if you're aiming to earn a share of the platform's native rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native rewards from the initial distribution!
 
 To ensure fairness and discourage last-minute sniping, a consistent daily allocation of the airdrop will be implemented throughout the event. This guarantees that participants receive a share of the airdrop that reflects their level of engagement. For example, during the 60-day Genesis Airdrop on the BNB Chain, 25,000 XNF tokens will be allocated each day. Your share from the Genesis airdrop will be based on your daily contributions through the swap fee. Imagine being the sole user who swaps on a particular day during the 60-day event – you'll claim an impressive 25,000 XNF from the airdrop! Furthermore, to maintain engagement, contributions made during an event will not carry over to subsequent airdrops. This policy ensures that users who contribute only once are not consistently included in future airdrops, promoting active participation.
 
@@ -967,9 +953,7 @@ To make the Phoenix Apes accessible to a wide range of participants, it will be 
 
 Each weekly auction lasts a minimum of 168 hours, and features a time buffer extension of 5 minutes. This means that if a bid is placed within the last 5 minutes of the auction, an additional 5 minutes will be added to the duration, with the auction only ending when no bids are placed within the last 5 minutes of the scheduled end time. This ensures that no auction will start until the current one concludes, giving everyone a fair chance to participate. For instance, let’s say the auction is set to end at 12:00 pm, and a bid is placed at 11:59 am. The end time will be extended to 12:05 pm, and this process continues until there are no bids within the last five minutes, providing every bidder with a fair opportunity. 
 
-Furthermore, as soon as a higher bid is placed during the auction, the previous highest bidder receives a full refund of their BNB. This guarantees fairness throughout the process, as they can use their refunded BNB to place another bid if they choose to do so. Moreover, 100% of the BNB acquired from the winning bidder will be distributed as rewards to veXNF holders on BNB Chain, further benefiting the Xenify ecosystem.
-
-Once you win the auction, you can claim your Phoenix Ape NFT, which mints your unique NFT. It's important to note that only the wallet address associated with the winning bid can claim the Phoenix Ape NFT, ensuring utmost security for all participants. And here's another important detail: if you're the lucky auction winner, you'll need to claim your Phoenix Ape NFT before participating in subsequent auctions. This mechanism prevents any single participant from accumulating unminted NFTs. Let's explore some of the standout features that set Phoenix Ape NFTs apart from conventional NFTs:
+Furthermore, as soon as a higher bid is placed during the auction, the previous highest bidder receives a full refund of their BNB. This guarantees fairness throughout the process, as they can use their refunded BNB to place another bid if they choose to do so. Moreover, 100% of the BNB acquired from the winning bidder will be distributed as rewards to veXNF holders on BNB Chain, further benefiting the Xenify ecosystem. Once you win the auction, you can claim your Phoenix Ape NFT, which mints your unique NFT. It's important to note that only the wallet address associated with the winning bid can claim the Phoenix Ape NFT, ensuring utmost security for all participants. And here's another important detail: if you're the lucky auction winner, you'll need to claim your Phoenix Ape NFT before participating in subsequent auctions. This mechanism prevents any single participant from accumulating unminted NFTs. Let's explore some of the standout features that set Phoenix Ape NFTs apart from conventional NFTs:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -983,10 +967,9 @@ The Phoenix Apes is an NFT collectible that has been designed to unite the Xenif
 
 Prepare to unleash the power of your Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), or Class 2 APEX XENFT (Exotic) on Xenify! As a proud owner of these remarkable NFTs, you gain access to an exclusive amplified burn effect that takes your burn contribution to new heights. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging the communities of these exceptional NFTs, this amplified burn effect fosters unity and fuels the growth of each ecosystem, creating a win-win situation for all involved. Here's how it works: When NFT holders decide to burn XEN or YSL on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their NFT, that specific NFT will no longer offer an amplified burn for that day.
 
-Looking for extra firepower? We've got fantastic news! By owning or renting at least 4 of these highly sought-after NFTs, you'll benefit from even greater amplification, with your wallet receiving a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your four NFT IDs. In short, if you hold 4 NFTs, your total daily bonus will be capped at 1,000 batches, not 1,400 batches.
-Remember, the more batches you burn, the more you save on burn fees. By holding 4 NFTs, you can achieve maximum savings of 75% off your burn fees by burning just 9,000 batches during the first hour of a cycle instead of the usual 10,000. Plus, with Phoenix Ape NFTs having a limited supply of 520, there can only be a maximum of 130 wallet addresses that can seize this extra firepower.
+Looking for extra firepower? We've got fantastic news! By owning or renting at least 4 of these highly sought-after NFTs, you'll benefit from even greater amplification, with your wallet receiving a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your four NFT IDs. In short, if you hold 4 NFTs, your total daily bonus will be capped at 1,000 batches, not 1,400 batches. Remember, the more batches you burn, the more you save on burn fees. By holding 4 NFTs, you can achieve maximum savings of 75% off your burn fees by burning just 9,000 batches during the first hour of a cycle instead of the usual 10,000. Plus, with Phoenix Ape NFTs having a limited supply of 520, there can only be a maximum of 130 wallet addresses that can seize this extra firepower.
 
-And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
+And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1,000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1,000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis! 
 
 In summary, Phoenix Ape NFT holders gain a twofold advantage. They enjoy an increased portion of the daily XNF distribution and unlock substantial discounts on the burn fee by burning a greater number of batches. However, keep in mind that the maximum limit for batches per burn transaction (NB) is set at 10,000, and the upper limit for bonus batches per burn transaction remains capped at 1,000. The burn fee discount you obtain is represented by the term (1 - (NB x BC)) in the protocols burn fee formula:
 
@@ -1014,23 +997,23 @@ Let's take a closer look at how the amplified burn works in different scenarios:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚡️ Scenario 1: If you hold between 1 and 3 Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
-
-Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. For instance, imagine you have a daily bonus of 100 batches on your NFT and opt to burn 10 batches. The protocol will effectively double your batch count to 20 batches, by utilising 10 of your daily bonus batches. Consequently, 10 batches from your NFT ID's daily bonus will be deducted, leaving 90 bonus batches for that NFT on that day.
-
-However, if you decide to burn an amount exceeding your bonus balance, the protocol will consume the entire balance of your NFT. For example, if your current daily bonus balance is 90 batches and you choose to burn 5,000 batches, the burn process will count it as 5,090 batches, using up the entire 90 batches from your NFT's bonus balance. As a result, 90 bonus batches allocated to the NFT ID will be removed, leaving zero bonus batches for that NFT on that day. Fear not, your bonus batch count will reset to 100 the following day.
-
-Additionally, you have the option to bridge your NFT's utility to another chain where Xenify has launched. By doing so, you can access an extra 100 daily bonus batches on that day, effectively granting you 200 daily bonus batches for your NFT. For example, if you've exhausted your daily bonus on the BNB Chain, simply bridge your NFT's utility to Ethereum and receive 1,000 daily bonus batches on Ethereum. This process can be repeated for each chain where Xenify has been deployed.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⚡️ Scenario 2: If you hold 4 or more Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
+## ⚡️ Scenario 1: If you hold 4 or more Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
 
 If you hold 4 NFTs burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1,000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1,000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. For instance, if you have 4 NFTs and a daily bonus of 1,000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
 
 On the other hand, if you decide to burn a batch amount greater than your current daily bonus, the protocol will utilise your entire bonus balance. Let's say you have 4 NFTs and a daily bonus of 1,000 batches. If you choose to burn the equivalent of 6,000 batches, it will be counted as 7,000 batches during the burn process. The protocol will use your entire daily batch bonus of 1,000 for this. As a result, you won't have any bonus batches remaining to use for that particular day on that chain. But don't worry, once the next day begins, your bonus batch count will reset back to 1,000.
 
 Additionally, you can choose to bridge the utility of your 4 NFTs to another chain that Xenify has launched. By doing this, you can use an additional 1,000 daily bonus batches on that day, effectively giving you 2,000 daily bonus batches. For example, if you've used up your daily bonus on the BNB Chain, you can simply bridge your NFTs' utility to Ethereum and receive 1,000 daily bonus batches on Ethereum. You can repeat this process for each chain where Xenify has been deployed.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⚡️ Scenario 2: If you hold between 1 and 3 Phoenix Ape NFTs, APEX XENFTs Class 1 or 2:
+
+Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. For instance, imagine you have a daily bonus of 100 batches on your NFT and opt to burn 10 batches. The protocol will effectively double your batch count to 20 batches, by utilising 10 of your daily bonus batches. Consequently, 10 batches from your NFT ID's daily bonus will be deducted, leaving 90 bonus batches for that NFT on that day.
+
+However, if you decide to burn an amount exceeding your bonus balance, the protocol will consume the entire balance of your NFT. For example, if your current daily bonus balance is 90 batches and you choose to burn 5,000 batches, the burn process will count it as 5,090 batches, using up the entire 90 batches from your NFT's bonus balance. As a result, 90 bonus batches allocated to the NFT ID will be removed, leaving zero bonus batches for that NFT on that day. Fear not, your bonus batch count will reset to 100 the following day.
+
+Additionally, you have the option to bridge your NFT's utility to another chain where Xenify has launched. By doing so, you can access an extra 100 daily bonus batches on that day, effectively granting you 200 daily bonus batches for your NFT. For example, if you've exhausted your daily bonus on the BNB Chain, simply bridge your NFT's utility to Ethereum and receive 1,000 daily bonus batches on Ethereum. This process can be repeated for each chain where Xenify has been deployed.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1072,9 +1055,9 @@ This incentive model ensures that Xenify users are consistently recognised for t
 
 At Xenify, security is paramount to ensuring the utmost safety and reliability of our protocol. To fortify our protocol's security, we have conducted an audit of the contracts by PeckShield, a highly-regarded security company in the industry. 
 
-Our platform is thoughtfully designed with decentralisation and autonomy as guiding principles. Xenify's smart contracts are devoid of admin keys, meaning they cannot be upgraded or governed by a centralised authority. To reinforce our protocol's truly decentralised and autonomous nature, earning potential will be equitably distributed among participants based on their veXNF holdings and its associated power. As Xenify evolves, we aim to prioritise our users' interests, nurturing transparency and trust throughout the protocol.
+Our platform is thoughtfully designed with decentralisation and autonomy as guiding principles. Xenify's smart contracts are devoid of admin keys, meaning they cannot be upgraded or governed by a centralised authority. To reinforce our protocol's truly decentralised and autonomous nature, earning potential will be equitably distributed among participants based on their veXNF holdings and its associated power. 
 
-Xenify's mission is to forge a transparent, equitable, and user-centric DeFi platform by upholding the First Principles of Crypto in all our endeavours. By committing to these core values, we aspire to establish a protocol that champions trust, fairness, and community-driven growth in the DeFi space.
+As Xenify evolves, we aim to prioritise our users' interests, nurturing transparency and trust throughout the protocol. Xenify's mission is to forge a transparent, equitable, and user-centric DeFi platform by upholding the First Principles of Crypto in all our endeavours. By committing to these core values, we aspire to establish a protocol that champions trust, fairness, and community-driven growth in the DeFi space.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
