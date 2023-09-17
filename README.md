@@ -149,13 +149,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Staking
+## ♦️ Locking XNF Tokens
 
 - Xenify introduces a dynamic rewards system that offers significant advantages to XNF holders. By locking XNF tokens, users become eligible to receive an impressive 50% of burn fees and swap fees generated on supported chains, every single day.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Recycling
+## ♦️ Recycling Native Chain Rewards
 
   - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but you also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
 
