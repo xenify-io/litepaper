@@ -918,6 +918,7 @@ Let's walk through an example to illustrate how the recycling feature works.
 
 - Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 BNB during the first hour of the cycle.
 - First, the protocol calculates your burn contribution. Since the batch value is 0.1 BNB on BNB Chain, your 1.0 BNB rewards equate to 10 batches.
+    - Your 10 batches will be allocated to either the XEN burn or the YSL burn, depending on which burn has the lowest contribution.
 - Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 BNB.
     - BF = (0.5 x 1) x (1 - (10 x 0.00005)) = 0.49975 BNB. 50% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, and the remaining 50% will be utilised to create XNF protocol-owned liquidity.
 - Then, your remaining 0.50025 BNB rewards split: 50% (0.250125 BNB) is utilised to create XNF protocol-owned liquidity, 25% (0.1250625 BNB) to create XEN protocol-owned liquidity, and 25% (0.1250625 BNB) sent as USDC to the Xenify team.
