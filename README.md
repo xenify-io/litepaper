@@ -513,21 +513,21 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ Stake XNF to earn native tokens 
+## ♦️ Lock XNF to earn native tokens 
 
-- Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their staked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who stake XNF.
+- Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their locked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who lock XNF.
 
-- veXNF holders play an essential role in Xenify's long-term growth, and in return reap the benefits. For chains where XNF has been deployed, stakers enjoy native tokens generated from swap fees across all supported EVM chains at the end of each cycle. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. Consequently, veXNF holders benefit from increased rewards! This equitable model establishes a virtuous cycle, guaranteeing every participant benefits in direct proportion to their engagement.
+- veXNF holders play an essential role in Xenify's long-term growth, and in return reap the benefits. For chains where XNF has been deployed, veXNF holders enjoy native tokens generated from swap fees across all supported EVM chains at the end of each cycle. As Xenify continues to broaden its reach, an increasing amount of swap volume is guaranteed, with users eager to benefit from a seamless swapping experience while earning XNF on every swap they make. Consequently, veXNF holders benefit from increased rewards! This equitable model establishes a virtuous cycle, guaranteeing every participant benefits in direct proportion to their engagement.
 
-- In addition to swap fees, veXNF holders on chains where XNF has been deployed, will also earn native tokens at the end of each cycle generated from the burn fee. With XNF adopting the halving model and 50% of the daily mint reserved for those burning XEN or YSL, participating in the daily burn auction is one of the few means to securing a sizable XNF position. As more users burn XEN and YSL to acquire XNF, not only do veXNF holders profit from increased rewards through the burn fee, but the ecosystem benefits through an increased proliferation of XNF liquidity. This innovative burn cycle implementation creates another positive feedback loop, ensuring the entire ecosystem thrives through active user participation.
+- In addition to swap fees, veXNF holders on chains where XNF has been deployed, will also earn native tokens at the end of each cycle generated from the burn fee. With XNF adopting the halving model and 50% of the daily mint reserved for those burning XEN or YSL, participating in the daily burn auction is one of the few means to securing a sizable XNF position. As more users burn XEN and YSL to acquire XNF, not only do veXNF holders profit from increased rewards through the burn fee, but the ecosystem benefits through increased proliferation of XNF liquidity. This innovative burn cycle implementation creates another positive feedback loop, ensuring the entire ecosystem thrives through active user participation.
 
-- Xenify's innovative staking model enables users to stake their XNF tokens for an opportunity to receive a steady stream of exceptional rewards in the form of Native Chain Rewards. This distinctive rewards distribution model not only strengthens demand and value for XNF, but also serves as an added incentive for holders to stake their daily XNF distributions. This strategy has been integrated to encourage long-term engagement with the protocol, while cultivating an ever-expanding user base.
+- Xenify's innovative staking model enables users to lock their XNF tokens for an opportunity to receive a steady stream of exceptional rewards in the form of Native Chain Rewards. This distinctive rewards distribution model not only strengthens demand and value for XNF, but also serves as an added incentive for holders to lock their daily XNF distributions. This strategy has been integrated to encourage long-term engagement with the protocol, while cultivating an ever-expanding user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Costs of Swapping on Xenify
 
-Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native chain rewards to XNF stakers, and ensure the continuous development of the protocol.
+Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native chain rewards to veXNF holders, and ensure the continuous development of the protocol.
 
 Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 50% of the swap fee will be utilised for the proliferation of XNF liquidity, and the remaining 50% will be distributed as rewards among veXNF holders in the form of native chain tokens. 
 
@@ -781,15 +781,15 @@ Here’s how it works: The protocol calculates the user's swap contribution (SC)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Staking XNF Tokens
+## ◽️ Locking XNF Tokens
 
 Each cycle, Xenify's protocol distributes newly minted XNF tokens to its users. The distribution takes place at the end of each day and adheres to a particular allocation structure. Specifically, 50% of the daily minted XNF is allotted to users who engage in the burning of XEN and YSL tokens, and the remaining 50% is distributed as veXNF to users who participate in swaps across all supported EVM chains.
 
-Staked XNF tokens play an essential role in the accumulation of native chain rewards for users, with each user's share being determined by their veXNF position and the associated earning power. The staked tokens start to accumulate native chain rewards within the same cycle they are staked. These rewards are gathered into a reward pool during each cycle and then distributed among veXNF holders by the protocol at the end of the daily cycle.
+Locked XNF tokens play an essential role in the accumulation of native chain rewards for users, with each user's share being determined by their veXNF position and the associated earning power. Your XNF tokens start to accumulate native chain rewards within the same cycle they are locked. These rewards are gathered into a reward pool during each cycle and then distributed among veXNF holders by the protocol at the end of the daily cycle.
 
-Users that earn XNF through their swap fee contributions will not be required to stake their XNF, as the protocol automatically stakes their XNF allocation for the maximum lock-in period of 1 year and enables the user to earn native chain rewards over a 60-day decay schedule. 
+Users that earn XNF through their swap fee contributions will not be required to lock their XNF, as the protocol automatically locks their XNF allocation for the maximum lock-in period of 1 year and enables the user to earn native chain rewards over a 60-day decay schedule. 
 
-On the other hand, users who earn XNF through burn fee contributions and recycling will need to manually stake their XNF tokens if they are aiming to earn a share of native chain rewards. In doing so, they lock their XNF for a chosen staking period, which can be as short as one week or as long as one year. Once the desired lock period has been set, the user's XNF is staked and locked as per the selected period. Subsequently, the protocol mints a veXNF NFT for the user, reflecting the amount of XNF staked and the chosen lock period. Throughout the lock period, users cannot unstake their XNF but continue to accumulate native chain rewards based on the earning power of their veXNF.
+On the other hand, users who earn XNF through burn fee contributions and recycling will need to manually lock their XNF tokens if they are aiming to earn a share of native chain rewards. In doing so, they lock their XNF for a chosen staking period, which can be as short as one week or as long as one year. Once the desired lock period has been set, the user's XNF is locked as per the selected period. Subsequently, the protocol mints a veXNF NFT for the user, reflecting the amount of XNF locked and the chosen lock period. Throughout the lock period, users cannot unlock their XNF but continue to accumulate native chain rewards based on the earning power of their veXNF.
 
 A user's earning power will decrease linearly over a decay schedule. This decay schedule will be dependent on the user's chosen lock period, and will be set to a maximum of 60 days for a 1 year lock period. This enables the protocol to scale the decay schedule linearly between a minimum of 1.15 days (for a 7-day lock) and a maximum of 60 days (for a 365-day lock) based on the lock duration that the user chose. The longer the lock, the longer the decay schedule, ranging from 1.16 to 60 days. The decay schedule for a users veXNF earning power will be determined by the protocol using the formula below:
 
@@ -810,7 +810,7 @@ $$
 
 The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
 
-Your earning potential directly correlates to the amount of XNF you stake and your chosen lock duration. At the start of your lock period, your veXNF is minted with 100% earning power. Over time, as your lock continues, the strength of this earning power diminishes based on the custom decay formula below:
+Your earning potential directly correlates to the amount of XNF you lock and your chosen lock duration. At the start of your lock period, your veXNF is minted with 100% earning power. Over time, as your lock continues, the strength of this earning power diminishes based on the custom decay formula below:
 
 <br>
 
@@ -866,21 +866,21 @@ $$
 
 Comparing these scenarios highlights the benefits of locking for longer periods. After just 1 day of a 1-year lock, your earning power would barely decay by 0.3% to 99.7%. On the other hand, if you lock your XNF tokens for one week, your earning power decays much faster. After just one day, your earning power would drop by 83.7% to 16.3%. This demonstrates how locking for longer periods preserves your earning power for longer. 
 
-This model rewards long-term participants and aligns incentives toward supporting the protocol. To maintain or increase your earning power, you can always add more XNF tokens to your stake or extend your lock duration as needed.
+This model rewards long-term participants and aligns incentives toward supporting the protocol. To maintain or increase your earning power, you can always add more XNF tokens to your veXNF position or extend your lock duration as needed.
 
-Keep in mind, that the amount of rewards you receive at the end of each cycle depends on your share of the total earning power of all veXNF holders. The more XNF you have staked and the higher your earning power, the more rewards you earn.
+Keep in mind, that the amount of rewards you receive at the end of each cycle depends on your share of the total earning power of all veXNF holders. The more XNF you have locked and the higher your earning power, the more rewards you earn.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Unstaking XNF Tokens
+## ◽️ Unlocking XNF Tokens
 
-At Xenify, we empower our users with flexibility when managing their veXNF position with the ability to extend, merge and even split positions. After completing your chosen lock period, you will have the option to unstake your XNF tokens. Importantly, unstaking is only possible after your lock period ends - your XNF remains locked for the duration you selected.
+At Xenify, we empower our users with flexibility when managing their veXNF position with the ability to extend, merge and even split positions. After completing your chosen lock period, you will have the option to unlock your XNF tokens. Importantly, unstaking is only possible after your lock period ends - your XNF remains locked for the duration you selected.
 
-Throughout your staking cycle, you accumulate native chain rewards based on the amount of XNF locked and your veXNF earning power. This earning power decays linearly over a decay schedule until it reaches zero at the end. At this point, you stop earning rewards on your staked position as your veXNF earning power is depleted.
+Throughout your staking cycle, you accumulate native chain rewards based on the amount of XNF locked and your veXNF earning power. This earning power decays linearly over a decay schedule until it reaches zero at the end. At this point, you stop earning rewards on your locked position as your veXNF earning power is depleted.
 
-You now have two options: Either extend your lock period (from 1 week up to 1 year) to reinstate your veXNF earning power and continue receiving rewards. Or, wait for your current lock to expire, then unstake to regain your XNF tokens. The decision depends on your circumstances and preferences. 
+You now have two options: Either extend your lock period (from 1 week up to 1 year) to reinstate your veXNF earning power and continue receiving rewards. Or, wait for your current lock to expire, then unlock to regain your XNF tokens. The decision depends on your circumstances and preferences. 
 
-If you extend your stake, your veXNF is reactivated at 100% strength, starting a new decay schedule. This allows you to continue benefiting from rewards linked to your XNF stake. However, your XNF remains locked. Alternatively, waiting for your lock expiry, enables you to unstake and/or sell your tokens. However, you will not be earning rewards in the interim.
+If you extend your lock, your veXNF is reactivated at 100% strength, starting a new decay schedule. This allows you to continue benefiting from rewards linked to your locked XNF. Alternatively, waiting for your lock expiry, enables you to unlock and/or sell your tokens. However, you will not be earning rewards in the interim.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -975,7 +975,7 @@ These 1,500,000 XNF tokens will be initially distributed as locked tokens on the
 
 Since these tokens will be divided among swap participants based on their daily swap contributions leading up to the launch, the more you swap during the event, the greater your share of the XNF Airdrop will be!
 
-Now, we understand your eagerness to stake those XNF tokens and witness your portfolio flourish. However, there's a small catch – locked XNF tokens cannot be staked. So, if you're aiming to earn a share of the platform's native chain rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native chain rewards from the initial distribution!
+Now, we understand your eagerness to earn from those XNF tokens and witness your portfolio flourish. However, there's a small catch – Airdropped XNF tokens cannot be staked until they unlock in your wallet. So, if you're aiming to earn a share of the platform's native chain rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native chain rewards from the initial distribution!
 
 To ensure fairness and discourage last-minute sniping, a consistent daily allocation of the airdrop will be implemented throughout the event. This guarantees that participants receive a share of the airdrop that reflects their level of engagement. For example, during the 60-day Genesis Airdrop on the BNB Chain, 25,000 XNF tokens will be allocated each day. Your share from the Genesis airdrop will be based on your daily contributions through the swap fee. Imagine being the sole user who swaps on a particular day during the 60-day event – you'll claim an impressive 25,000 XNF from the airdrop!
 
@@ -1112,7 +1112,7 @@ Setting itself apart from traditional decentralised exchanges, Xenify eliminates
 
 Users can actively engage with Xenify through a range of functions, including token swaps, burning XEN or YSL, staking or unstaking XNF, and recycling or claiming rewards. The platform not only delivers a smooth experience for users but also actively rewards them for using the protocol through the daily reward cycle distribution. 
 
-This incentive model ensures that Xenify users are consistently recognised for their participation and encourages continued usage of the platform. Additionally, users can conveniently monitor their staked XNF and accrued rewards, allowing them to easily claim or unstake their XNF tokens with just a few clicks. By adopting this user-centric approach, Xenify remains accessible to both novice and experienced users alike.
+This incentive model ensures that Xenify users are consistently recognised for their participation and encourages continued usage of the platform. Additionally, users can conveniently monitor their XNF position and accrued rewards, allowing them to easily claim or unlock their XNF tokens with just a few clicks. By adopting this user-centric approach, Xenify remains accessible to both novice and experienced users alike.
 
 <br>
 
@@ -1237,8 +1237,8 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ If I make a stake now when can I unstake?
-  - When you choose to stake your XNF, you'll have the opportunity to select a staking cycle that suits your preferences, ranging from a minimum of 1 week to a maximum of 1 year. It's important to note that once you begin the staking cycle, your XNF tokens will be locked, and you won't be able to unstake them until the cycle is completed. Once your chosen staking cycle comes to an end, you'll have the freedom to unstake your XNF tokens, reclaiming full ownership and control over them. By participating in staking, you contribute to the overall health of our ecosystem, and in return, you have the opportunity to earn native chain rewards on a daily basis!
+## ◽️ If I lock XNF now when can I unlock them?
+  - When you choose to lock your XNF, you'll have the opportunity to select a staking cycle that suits your preferences, ranging from a minimum of 1 week to a maximum of 1 year. It's important to note that once you begin the staking cycle, your XNF tokens will be locked, and you won't be able to unlock them until the cycle is completed. Once your chosen staking cycle comes to an end, you'll have the freedom to unlock your XNF tokens, reclaiming full ownership and control over them. By participating in staking, you contribute to the overall health of our ecosystem, and in return, you have the opportunity to earn native chain rewards on a daily basis!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1247,12 +1247,12 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ If I make a stake now when will I receive rewards?
-  - When you stake your XNF, you receive a unique ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your stake in the protocol and, more importantly, indicates your earning power - influencing your share of native chain rewards.
+## ◽️ If I lock XNF now when will I receive rewards?
+  - When you lock your XNF, you receive a unique ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your locked XNF in the protocol and, more importantly, indicates your earning power - influencing your share of native chain rewards.
 
   - The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
 
-  - Throughout each cycle, rewards generated from the burn fees and swap fees accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their XNF stake and it’s associated earning power, ensuring a fair and transparent distribution.
+  - Throughout each cycle, rewards generated from the burn fees and swap fees accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their locked XNF tokens and it’s associated earning power, ensuring a fair and transparent distribution.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1261,7 +1261,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
   - Utilise the Xenify aggregator to perform seamless single-click swaps and earn XNF in the process.
   - Engage in direct burns of XEN or YSL to acquire XNF.
-  - Stake XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
+  - Lock XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
   - Purchase a Phoenix Ape NFT to unlock daily amplified burns and more.
   - Contribute to the protocol's growth through community initiatives.
 
@@ -1305,7 +1305,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ veXNF 
 
-  - veXNF is a vested token, embodied as a non-fungible token (NFT) under the ERC-721 standard, representing a user's staked position in XNF. A user's share of the native chain rewards isn't solely dictated by the quantity of veXNF they possess. It's also influenced by their 'power' or standing within the protocol. This standing is determined by a combination of their veXNF holdings and the length of their lock-in period.
+  - veXNF is a vested token, embodied as a non-fungible token (NFT) under the ERC-721 standard, representing a user's locked position in XNF. A user's share of the native chain rewards isn't solely dictated by the quantity of veXNF they possess. It's also influenced by their 'power' or standing within the protocol. This standing is determined by a combination of their veXNF holdings and the length of their lock-in period.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
