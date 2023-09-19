@@ -782,61 +782,6 @@ $$
 
 <br>
 
-The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer. Your earning potential directly correlates to the amount of XNF you lock and your chosen lock duration. At the start of your lock period, your veXNF is minted with 100% earning power. Over time, as your lock continues, the strength of this earning power diminishes based on the custom decay formula below:
-
-<br>
-
-$$
-CP = IP \times ((1 - TE \div LD) \times (LD \div ML))
-$$
-
-<br>
-
-**Where:**
-
-- $CP$ (Current veXNF Power) - The users' current earning power in percentage terms.
-- $IP$ (Initial veXNF Power) - An initial earning power of 100% is set by the protocol at the start of the lock period.
-- $TE$ (Time Elapsed) - The time that has elapsed since the lock period commenced.
-- $LD$ (Lock Duration) - The lock duration chosen by the user (days).
-- $ML$ (Maximum Lock) - The maximum lock duration of 365 days.
-
-<br>
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Different Earning Power Scenarios
-
-Let's take a closer look at how the Earning Power Decay operates in different scenarios:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⚡️ Scenario 1: User locks XNF for 1 week
-
-Let’s say you decide to lock your XNF for the minimum term of 1 week. After 1 day your Earning power would have decayed from 100% to 1.6%.
-
-<br>
-
-$$
-CP = 100 \times ((1 - 1 \div 7) \times (7 \div 365)) = 1.6
-$$
-
-<br>
-
-## ⚡️ Scenario 2: User locks XNF for 1 year 
-
-Let’s say you decide to lock your XNF for the maximum term of 1 year. After 1 day your Earning power would have decayed from 100% to 99.7%.
-
-<br>
-
-$$
-CP = 100 \times ((1 - 1 \div 365) \times (365 \div 365)) = 99.7
-$$
-
-<br>
-
-Comparing these scenarios highlights the benefits of locking for longer periods. After just 1 day of a 1-year lock, your earning power would barely decay by 0.3% to 99.7%. On the other hand, if you lock your XNF tokens for one week, your earning power decays much faster. After just one day, your earning power would drop by 98.4% to 1.6%. This demonstrates how locking for longer periods preserves your earning power for longer. 
-
-This model rewards long-term participants and aligns incentives toward supporting the protocol. To maintain or increase your earning power, you can always add more XNF tokens to your veXNF position or extend your lock duration as needed. Keep in mind, that the amount of rewards you receive at the end of each cycle depends on your share of the total earning power of all veXNF holders. The more XNF you have locked and the higher your earning power, the more rewards you earn.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
