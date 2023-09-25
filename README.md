@@ -824,7 +824,7 @@ The longer you lock your XNF, the greater your veXNF earning power. However, it'
 <br>
 
 $$
-CP = IP \times ((1 - TE \div DS)
+CP = IP \times (1 - (TE \div DS))
 $$
 
 <br>
@@ -853,7 +853,7 @@ Let’s say you decide to lock your XNF for the minimum term of 1 week. After 1 
 <br>
 
 $$
-CP = 100 \times (1 - 1 \div 1.15) = 13.04%
+CP = 100 \times (1 - (1 \div 1.15)) = 13.04%
 $$
 
 <br>
@@ -865,7 +865,7 @@ Let’s say you decide to lock your XNF for the maximum term of 1 year. After 1 
 <br>
 
 $$
-CP = 100 \times ((1 - 1 \div 60) = 98.3%
+CP = 100 \times (1 - (1 \div 60)) = 98.3%
 $$
 
 <br>
