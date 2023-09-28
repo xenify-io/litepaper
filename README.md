@@ -33,7 +33,6 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
 - [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
-- [Amplify Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-amplify-burns)
 - [User Experience](https://github.com/xenify-io/litepaper#%EF%B8%8F-user-experience)
 - [Security](https://github.com/xenify-io/litepaper#%EF%B8%8F-security)
 - [Conclusion](https://github.com/xenify-io/litepaper#%EF%B8%8F-conclusion)
@@ -415,9 +414,9 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ◽️ Confirmed Deployment
 
-- Genesis Deployment > BNB Chain
+- Genesis Deployment > Arbitrum
 - Second Deployment > Ethereum
-- Third Deployment > Polygon
+- Third Deployment > BNB Chain
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -427,7 +426,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 - Base
 - Fantom
-- Arbitrum
+- Polygon
 - Optimism
 - Avalanche
 - PulseChain
@@ -443,8 +442,8 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 | Base               | [Uniswap V3](https://app.uniswap.org)                 | cbXNF-ETH           |
 | Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
-| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | aXNF-ETH            |
-| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
+| Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
 | BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
@@ -972,98 +971,6 @@ During the pre-deployment phase, while the airdrop event is ongoing, the 0.5% sw
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Amplify Burns
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-Introducing Xenify's burn amplification, an opportunity exclusively tailored for Class 1 APEX XENFT (Xunicorn), Class 2 APEX XENFT (Exotic), or Phoenix Ape NFT owners. Through ownership of these rare NFTs, you'll unlock a daily amplified burn effect, boosting your batch count by a staggering 100 when burning XEN or YSL. If you own or rent at least four of these sought-after NFTs, prepare yourself for an even bigger amplification, as your wallet will receive a generous daily bonus of 1000 batches. And here's the best part: Your daily batch bonus, whether you possess one NFT or four Phoenix Ape NFTs, can seamlessly be bridged to any chain that Xenify launches. With your burn bonus resetting each day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis!
-
-To make the Phoenix Apes accessible to a wide range of participants, it will be made available exclusively through a weekly auction. This ensures fairness and engagement, giving everyone ample time to secure their prized Phoenix Ape NFT. The auction starts with a minimum starting bid of just $10 BNB. This means, if no bids have been placed yet, you can kick off the auction with a minimum bid of $10 BNB. If there are existing bids, your bid must be equivalent to 105% of the current highest bid. For instance, if the highest bid is 0.5 BNB, you can jump into the auction and outbid the current highest bidder with 0.525 BNB.
-
-Each weekly auction lasts a minimum of 168 hours, and features a time buffer extension of 5 minutes. This means that if a bid is placed within the last 5 minutes of the auction, an additional 5 minutes will be added to the duration, with the auction only ending when no bids are placed within the last 5 minutes of the scheduled end time. This ensures that no auction will start until the current one concludes, giving everyone a fair chance to participate. For instance, let’s say the auction is set to end at 12:00 pm, and a bid is placed at 11:59 am. The end time will be extended to 12:05 pm, and this process continues until there are no bids within the last five minutes, providing every bidder with a fair opportunity. 
-
-Furthermore, as soon as a higher bid is placed during the auction, the previous highest bidder receives a full refund of their BNB. This guarantees fairness throughout the process, as they can use their refunded BNB to place another bid if they choose to do so. Moreover, 100% of the BNB acquired from the winning bidder will be distributed as rewards to veXNF holders on BNB Chain, further benefiting the Xenify ecosystem. Once you win the auction, you can claim your Phoenix Ape NFT, which mints your unique NFT. It's important to note that only the wallet address associated with the winning bid can claim the Phoenix Ape NFT, ensuring utmost security for all participants. And here's another important detail: if you're the lucky auction winner, you'll need to claim your Phoenix Ape NFT before participating in subsequent auctions. This mechanism prevents any single participant from accumulating unminted NFTs. Let's explore some of the standout features that set Phoenix Ape NFTs apart from conventional NFTs:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Limited Collectible
-
-The Phoenix Apes is an NFT collectible that has been designed to unite the Xenify and YSL.IO communities. The exclusive NFT collection developed by YSL.IO, boasts a scarce supply of just 520. These sought-after NFTs have been ingeniously designed with utility at their core. Not only do they possess unique rarities, but they also bestow exceptional benefits upon their holders within the Xenify and YSL.IO ecosystem.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Daily Amplified Burn Effect
-
-Prepare to unleash the power of your Phoenix Ape NFT, Class 1 APEX XENFT (Xunicorn), or Class 2 APEX XENFT (Exotic) on Xenify! As a proud owner of these remarkable NFTs, you gain access to an exclusive amplified burn effect that takes your burn contribution to new heights. This unique advantage empowers NFT holders to secure a larger share of the daily distribution of XNF, while also benefiting from significant discounts on their burn fees. By bridging the communities of these exceptional NFTs, this amplified burn effect fosters unity and fuels the growth of each ecosystem, creating a win-win situation for all involved. Here's how it works: When NFT holders decide to burn XEN or YSL on Xenify, they unlock a daily burn bonus that doubles their batch count (NB). The bonus is capped at 100 daily batches per NFT ID. Once a user uses up all 100 daily bonus batches allocated to their NFT, that specific NFT will no longer offer an amplified burn for that day.
-
-Looking for extra firepower? We've got fantastic news! By owning or renting at least 4 of these highly sought-after NFTs, you'll benefit from even greater amplification, with your wallet receiving a daily bonus of 1000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your four NFT IDs. In short, if you hold 4 NFTs, your total daily bonus will be capped at 1000 batches, not 1,400 batches. Remember, the more batches you burn, the more you save on burn fees. By holding 4 NFTs, you can achieve maximum savings of 75% off your burn fees by burning just 9,000 batches during the first hour of a cycle instead of the usual 10,000. Plus, with Phoenix Ape NFTs having a limited supply of 520, there can only be a maximum of 130 wallet addresses that can seize this extra firepower.
-
-And here's the best part: Your daily batch bonus, whether you have one NFT or four NFTs, can be seamlessly bridged to any chain that Xenify launches. Let's say Xenify expands to Polygon and you hold 4 Phoenix Ape NFTs. Once you've exhausted your daily 1000 batch bonus on the BNB Chain, you can easily bridge the utility of your NFTs to Polygon and enjoy 1000 bonus batches there. With your multiplier resetting every day, you'll have the opportunity to reap the benefits of this amplified burn effect across all chains Xenify launches on a daily basis! 
-
-In summary, Phoenix Ape NFT holders gain a twofold advantage. They enjoy an increased portion of the daily XNF distribution and unlock substantial discounts on the burn fee by burning a greater number of batches. However, keep in mind that the maximum limit for batches per burn transaction (NB) is set at 10,000, and the upper limit for bonus batches per burn transaction remains capped at 1000. The burn fee discount you obtain is represented by the term (1 - (NB x BC)) in the protocols burn fee formula:
-
-<br>
-
-$$
-BF = (FC \times VB) \times (1 - (NB \times BC))
-$$
-
-<br>
-
-**Where:**
-
-- $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
-- $FC$ (Burn Fee Coefficient) - A time-weighted coefficient used to factor in a discount on the burn fee.
-- $VB$ (Value of Batches) - The dollar value of batches being burned by the user, influencing the burn fee as the value of batches increases.
-- $BC$ (Batch Coefficient) - A time-weighted coefficient used to factor in the discount based on the batches being burned.
-- $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Example: Amplified Burn Effect
-
-Let's take a closer look at how the amplified burn works in different scenarios:
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⚡️ Scenario 1: If you hold 4 or more Phoenix Ape NFTs, APEX XENFTs Class 1 or 2
-
-If you hold 4 NFTs burning batches becomes even more rewarding. Your wallet will receive a daily bonus of 1000 batches. This effectively replaces the default 100 daily bonus batches reserved for each of your NFT IDs. In short, if you hold 4 or more NFTs in your wallet, your total daily bonus will be capped at 1000 batches for that wallet. When you choose to burn a batch amount that is less than your current daily bonus, the protocol will double your batch count by using an equivalent amount. For instance, if you have 4 NFTs and a daily bonus of 1000 batches, burning 1 batch will be counted as 2 batches during the burn process. This means that 1 batch will be deducted from your daily NFTs bonus, leaving you with 999 bonus batches for the day on that chain.
-
-On the other hand, if you decide to burn a batch amount greater than your current daily bonus, the protocol will utilise your entire bonus balance. Let's say you have 4 NFTs and a daily bonus of 1000 batches. If you choose to burn the equivalent of 6,000 batches, it will be counted as 7,000 batches during the burn process. The protocol will use your entire daily batch bonus of 1000 for this. As a result, you won't have any bonus batches remaining to use for that particular day on that chain. But don't worry, once the next day begins, your bonus batch count will reset back to 1000.
-
-Additionally, you can choose to bridge the utility of your 4 NFTs to another chain that Xenify has launched. By doing this, you can use an additional 1000 daily bonus batches on that day, effectively giving you 2,000 daily bonus batches. For example, if you've used up your daily bonus on the BNB Chain, you can simply bridge your NFTs' utility to Ethereum and receive 1000 daily bonus batches on Ethereum. You can repeat this process for each chain where Xenify has been deployed.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⚡️ Scenario 2: If you hold between 1 and 3 Phoenix Ape NFTs, APEX XENFTs Class 1 or 2
-
-Each NFT is granted a daily bonus multiplier limited to 100 batches. When burning a specific number of batches, the protocol first verifies if any of your NFTs possess a bonus balance. If so, the protocol uses your bonus balance to increase your batch count. For instance, imagine you have a daily bonus of 100 batches on your NFT and opt to burn 10 batches. The protocol will effectively double your batch count to 20 batches, by utilising 10 of your daily bonus batches. Consequently, 10 batches from your NFT ID's daily bonus will be deducted, leaving 90 bonus batches for that NFT on that day.
-
-However, if you decide to burn an amount exceeding your bonus balance, the protocol will consume the entire balance of your NFT. For example, if your current daily bonus balance is 90 batches and you choose to burn 5,000 batches, the burn process will count it as 5,090 batches, using up the entire 90 batches from your NFT's bonus balance. As a result, 90 bonus batches allocated to the NFT ID will be removed, leaving zero bonus batches for that NFT on that day. Fear not, your bonus batch count will reset to 100 the following day.
-
-Additionally, you have the option to bridge your NFT's utility to another chain where Xenify has launched. By doing so, you can access an extra 100 daily bonus batches on that day, effectively granting you 200 daily bonus batches for your NFT. For example, if you've exhausted your daily bonus on the BNB Chain, simply bridge your NFT's utility to Ethereum and receive 1000 daily bonus batches on Ethereum. This process can be repeated for each chain where Xenify has been deployed.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Claimable USDC Rewards
-
-When a Phoenix Ape NFT is rented through the Xenify marketplace, a portion of the user's rental income is collected as tax. Combined with a share of royalty taxes, these earnings are then distributed among all Phoenix Ape NFT holders as USDC rewards on the BNB Chain at the end of each 8-hour epoch. These USDC rewards will be available for holders to claim at the end of each 8-hour epoch.
-
-And here's the best part: even if a user decides to bridge their Phoenix NFT from the BNB chain to amplify burns with Xenify on another chain, they'll still be eligible for the USDC distribution. In simpler terms, the claimable USDC rewards on the BNB Chain will be reserved for all addresses that hold the Phoenix Ape NFT, regardless of whether they bridge utility to another chain.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ⭐️ Unique Rental Mechanism
-  
-The Phoenix Ape NFT features a one-of-a-kind rental mechanism that empowers BNB Chain holders to lease their NFT at a predetermined USDC price for a specific duration. By opting to rent out their Phoenix Ape NFT, users actively contribute to the generation of YSL protocol-owned liquidity. 
-
-Moreover, Phoenix Ape NFT holders on the BNB Chain who choose not to rent out their NFT still reap the benefits of this exceptional rental mechanism. They will receive a share of the rental tax generated from users leasing their Phoenix NFT. This tax will be combined with a portion of the royalty tax and distributed to all BNB Chain Phoenix Ape NFT holders as claimable USDC every 8 hours, further rewarding users for their active participation in holding this exclusive NFT.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ User Experience
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -1341,21 +1248,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ♦️ YSL.IO (Apr 21, 2023) - Cross-chain NFTs
-
-**Links:**
-
-- [Website](https://ysl.io/)
-- [Whitepaper](https://docs.ysl.io)
-- [Twitter Profile](https://twitter.com/ysl_io)
-- [Telegram Channel](https://t.me/ysl_io)
-
-**Influential Concepts:**
-
-- [Phoenix Ape NFT](https://docs.ysl.io/protocol-features/Phoenix-NFT)
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## ♦️ XEN Crypto (Oct 8, 2022) - Cross-chain Protocol
 
 **Links:**
@@ -1394,7 +1286,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 # ◽️ Contract Addresses
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-
 ## ♦️ XEN
  - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
@@ -1405,13 +1296,6 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
  - [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [OKX Chain](https://www.oklink.com/oktc/address/0x1cC4D981e897A3D2E7785093A648c0a75fAd0453)
  - [Moonbeam](https://moonbeam.moonscan.io/token/0xb564A5767A00Ee9075cAC561c427643286F8F4E1)
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ♦️ Phoenix Ape NFTs
-
-- [Opensea](https://opensea.io/collection/phoenix-ape-nft)
-- [BNB Chain](https://bscscan.com/token/0x4facd86ec1768e657a44a632f2000a8e0c2d542b)
 
 <br>
 
