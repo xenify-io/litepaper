@@ -1130,7 +1130,6 @@ We understand that you may have questions about Xenify, its features, and its po
   - Utilise the Xenify aggregator to perform seamless single-click swaps and earn XNF in the process.
   - Engage in direct burns of XEN or YSL to acquire XNF.
   - Lock XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
-  - Purchase a Phoenix Ape NFT to unlock daily amplified burns and more.
   - Contribute to the protocol's growth through community initiatives.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
