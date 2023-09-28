@@ -952,8 +952,8 @@ Với cấu trúc phần thưởng độc đáo này, Xenify có thể củng c�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/49e1035d-6bc7-4848-8b3c-9f0a4adcce45" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/aa8d320d-8aef-4177-b920-80156351bd26" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4f850b09-bada-47b1-8758-68c3ede4dfe9" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e24c1a36-7eee-4dbc-81fd-66a66cc3185e" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
