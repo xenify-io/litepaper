@@ -1,4 +1,4 @@
-<p align="center" dir="auto">
+![Flow Chart Dark](https://github.com/xenify-io/litepaper/assets/66044824/fbe10884-7db8-44ed-aff9-bcd429c58318)<p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b944b69c-7e73-4e29-aa61-7b85593c5aab" class="source-light">
     <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" class="source-dark">
@@ -952,8 +952,8 @@ Grâce à cette structure de récompense unique, Xenify est en mesure de renforc
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/16601498-2e28-4404-bfbf-1316b3ddb7f5" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fd93f65b-d5e8-4a09-a13b-eeb6f77eafdc" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/90571860-af49-4a10-99fc-16d06f9c3417" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/5f86fa5f-d467-4fc0-ab98-3a015818af82" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
