@@ -952,8 +952,8 @@ XenifyでXNFを請求する場合、請求手数料は発生しません。し�
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/24fc55bd-b1a0-405f-853f-ecedad7c64b8" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2670d55a-f65a-4dff-8408-ededbd4e0cdb" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/6f0bd888-dd93-43dd-8ee6-4a68b715e99f" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4a21b9e9-bb0f-4827-8d43-6daff904b18d" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
