@@ -516,7 +516,7 @@ To acquire XNF with XEN, you'll need to burn the XEN token variant supported by 
 
 Similarly, holders of YSL tokens can actively participate in our daily burn auction. Just like the XEN burning process, executing the burn of your YSL tokens will necessitate a Burn Fee. During this process, the YSL tokens you provide are permanently removed from circulation, and the Burn Fee is employed to create XNF protocol-owned liquidity and reward veXNF holders. In line with XEN, please note that the conversion rate for YSL during the burn process will be fixed, with 0.1 YSL equivalent to one batch.
 
-Whether you opt to burn vXEN or YSL, the value of the batches (VB) being burned will be contingent on the specific chain you select for the burn. For example, the batch value on the BNB Chain will be fixed at 0.1 BNB, while on Ethereum, it will be 0.01 ETH. This value will be utilised by the protocol to determine the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
+Whether you opt to burn vXEN or YSL, the value of the batches (VB) being burned will be contingent on the specific chain you select for the burn. For example, the batch value on the Arbitrum will be fixed at 0.01 ETH, while on BNB Chain, it will be 0.1 BNB. This value will be utilised by the protocol to determine the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
 During the burn process, the vXEN or YSL tokens you provide are burned (permanently removed from circulation), with 40% of your Burn Fee utilised to create protocol-owned liquidity for XNF, 40% distributed as Native Rewards among veXNF holders, 10% utilised to perform an automated daily XNF buyback, and the remaining 10% sent to the Xenify team. If the 100,000 Preminted XNF is available, 50% of your burn fee will be paired with preminted XNF for liquidity pairing. However, if the preminted XNF allocation has been depleted, the protocol will use 25% of your Burn Fee to purchase XNF tokens and the remaining 25% for the liquidity pairing with the LP tokens being held by the protocol.
 
@@ -589,7 +589,7 @@ $$
 
 Here’s how it works: The value per batch is calculated as 10 raised to the power of (2 - ND), where ND is the number of digits before the decimal place in the native token's price. This formula creates a batch value that remains consistent relative to the native token's price. When the native token value is high, the value per batch set at deployment will be proportionally lower to ensure an appropriate burn fee for the chain. 
 
-This mechanism helps ensure that the burn fee remains consistent across different chains where Xenify deploys, particularly for chains with higher-priced native tokens. For instance, the value of one batch on BNB Chain will be set at 0.1 BNB at deployment, since BNB has 3 digits before the decimal point at its current market value. However, when Xenify deploys on Ethereum, the value of one batch will be set at 0.01 ETH, since ETH has 4 digits before the decimal point at its current value above $1000. 
+This mechanism helps ensure that the burn fee remains consistent across different chains where Xenify deploys, particularly for chains with higher-priced native tokens. For instance, the value of one batch on Arbitrum will be set at 0.01 ETH at deployment, since ETH has 4 digits before the decimal point at its current market value. However, when Xenify deploys on BNB Chain, the value of one batch will be set at 0.1 BNB, since BNB has 3 digits before the decimal point at its current value above $100. 
 
 By aligning batch values to native token prices and providing volume discounts, our burn fee formula enables transparency while encouraging burning. Moreover, 100% of the tokens you provide will be burned - this ensures your wallet address is included in the burn record for the distribution of X1 - the native token of the new XEN Layer 1 (X1 Chain).
 
@@ -711,12 +711,12 @@ Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in 
 
 ## ⚡️ Scenario 1: User burns during Hour-1 of a cycle
 
-Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle on BNB Chain, where the value per batch is set at 0.1 BNB. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Time Coefficient (FC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as 250 BNB.
+Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Time Coefficient (FC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as 25 ETH.
 
 <br>
 
 $$
-BF = (0.5 \times 1000) \times (1 - (10,000 \times 0.00005)) = 250 \space BNB
+BF = (0.5 \times 1000) \times (1 - (10,000 \times 0.00005)) = 25 \space ETH
 $$
 
 <br>
@@ -725,12 +725,12 @@ $$
 
 ## ⚡️ Scenario 2: User burns during Hour-24 of a cycle
 
-Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle on BNB Chain, where the value per batch is set at 0.1 BNB. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Time Coefficient (FC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as 1000 BNB.
+Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Time Coefficient (FC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as 100 ETH.
 
 <br>
 
 $$
-BF = (1 \times 1000) \times (1 - (10,000 \times 0)) = 1000 \space BNB
+BF = (1 \times 1000) \times (1 - (10,000 \times 0)) = 100 \space ETH
 $$
 
 <br>
@@ -957,7 +957,7 @@ By recycling your native chain rewards, you'll not only strengthen your XNF posi
 
 ## ⚡️ Recycling Rewards Example
 
-Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 BNB during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.1 BNB on BNB Chain, your 1.0 BNB rewards equate to 10 batches. Your 10 batches will be allocated to either the XEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 BNB.
+Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 ETH during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.01 ETH on Arbitrum, your 1.0 ETH rewards equate to 10 batches. Your 100 batches will be allocated to either the vXEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 ETH.
 
 <br>
 
