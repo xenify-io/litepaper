@@ -262,16 +262,22 @@ If you're on the hunt for a dynamic token ecosystem that continually evolves and
 
 Here's a concise breakdown of our deployment chains and their unique identifiers:
 
-- Arbitrum - YSL
-- Ethereum - eYSL
-- BNB Chain - bYSL
-- Polygon - mYSL
-- Avalanche - aYSL
-- Optimism - opYSL
-- Fantom - fmYSL
-- zkSync - zkYSL
-- Linea - laYSL
-- Base - cbYSL
+<br>
+
+| Num | Identifiers       | Chains                |
+|-----|-------------------|-----------------------|
+| 1   | YSL               | Arbitrum              |
+| 2   | eYSL              | Ethereum              |
+| 3   | bYSL              | BNB Chain             |
+| 4   | mYSL              | Polygon               |
+| 5   | opYSL             | Optimism              |
+| 6   | cbYSL             | Moonbeam              |
+| 7   | zkYSL             | zkSync Era            |
+| 8   | okYSL             | OKT (OKX)             |
+| 9   | aYSL              | Avalanche             |
+| 10  | fmYSL             | Fantom                |
+| 11  | zkYSL             | Linea                 |
+| 12  | laYSL             | Base                  |
 
 <br>
 
