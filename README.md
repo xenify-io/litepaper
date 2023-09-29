@@ -28,6 +28,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
+- [Unifying the Chains (vXEN)](https://github.com/xenify-io/litepaper#%EF%B8%8F-unifying-the-chains-vxen)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
@@ -225,6 +226,22 @@ XEN is a project that was launched on the principles of self-custody, trustless 
 In addition to its mining capabilities, XEN also features a native cryptocurrency, XEN token, which is used to incentivise miners and maintain the security of the network. XEN tokens are also used to pay for transaction fees and other network services. XEN operates on a Proof of Participation (PoP) system, which allows participants to mint their coins. The XEN smart contract employs a fair distribution system based on reward time locks and the total number of participants. XEN's value is linked to its difficulty to be minted, similar to Bitcoin. As more participants join and mint XEN, the total amount of generated XEN drops, making it more scarce and valuable. One of the key features of XEN is its simplicity, as it is based on the ERC20 token standard with minimal code, no pre-minting, hidden doors, admin keys, or origin wallets. Furthermore, XEN has a supply of zero and can only be minted by the participating community. This makes it inflationary at the beginning and disinflationary as adoption increases. XEN is immutable and has no backing by investors or intrinsic value.
 
 To mint XEN, participants can connect their Ethereum-compatible wallets to the XEN smart contract and specify the number of days they are willing to wait to receive XEN. The smart contract generates a XEN rank (cRANK) based on how many people interacted with the contract before the participant. Participants can also stake XEN for 1 to 1000 days, with APY rewards starting at 20% on XEN Genesis and decreasing by 1 percentage point every 90 days until it reaches 2%, where it will remain indefinitely. Overall, XEN represents an innovative approach to mining that emphasises decentralisation, accessibility, and sustainability. XEN's combination of features, simplicity and fairness make it a unique and promising project in the crypto space.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Unifying the Chains (vXEN)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+  
+Introducing vXEN, a revolutionary solution developed by Xenify to simplify the process of burning XEN tokens on Ethereum. This innovation aims to unify XEN communities across various chains and bolster the token's deflationary nature. The integration of LayerZero, with Axelar and Wormhole as backup solutions, has made this possible. These decentralized protocols are designed to bridge the gaps in cross-chain communication, offering a comprehensive suite of tools for the purpose.
+
+vXEN serves as the virtual counterpart of XEN tokens, crafted to optimize the burn process and facilitate the acquisition of XNF tokens. Moreover, vXEN provides an avenue for holders to engage in Xenify's burn auction across different chains, making the migration of vXEN tokens a breeze. To obtain vXEN, you must possess the native Ethereum XEN token. Once you have vXEN tokens in hand, you can either participate in the daily burn auction on that specific chain or effortlessly transfer them to any chain where XNF is operational. For instance, if XNF is introduced on Arbitrum after its debut on the Ethereum, you can shift the vXEN tokens you obtained from Ethereum (through burning XEN) to engage in Xenify’s burn auction on Arbitrum.
+
+When a user transfers XEN to Arbitrum, the “Burn” function of the XEN token contract on Ethereum is triggered. This results in the burning of the XEN tokens linked to the user’s Ethereum address, and the action is documented in a burn record associated with the user’s address. Subsequent to the burn process on Ethereum, an equivalent amount of vXEN tokens are produced on Arbitrum. Furthermore, XEN can be incinerated on Ethereum to directly generate an equivalent volume of vXEN tokens on Ethereum itself. This adaptability ensures the token’s presence across multiple chains, granting the ability for vXEN to be burned on one chain and equivalently minted on another, and vice versa.
+
+For a smooth and foolproof bridging mechanism, our primary selection is LayerZero OFT. Axelar stands as our secondary choice, and Wormhole can be tapped as a potential alternative if the situation demands. Xenify's progressive approach is a testament to its dedication to promoting interoperability within the XEN ecosystem and ensuring Xenify's reach to XEN communities on diverse chains. As a result, vXEN equips you to effortlessly engage with any EVM chain that endorses the XEN ecosystem, positioning Xenify as a pivotal layer 1 burner of XEN. This guarantees that every user who incinerates any variant of XEN tokens on Xenify will be duly incorporated in the burn record for the X1 distribution, the native token of the new XEN Layer 1 (X1 Chain). To top it off, Xenify has set a fixed rate for vXEN, where one vXEN corresponds to one XEN, and one batch is synonymous with 10,000,000 vXEN, making the entire burn process straightforward and doing away with the need for constant calculations.
 
 <br>
 
