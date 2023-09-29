@@ -29,6 +29,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
 - [Unifying the Chains (vXEN)](https://github.com/xenify-io/litepaper#%EF%B8%8F-unifying-the-chains-vxen)
+- [YSL Overview - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl-overview--hyper--deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
@@ -242,6 +243,35 @@ vXEN serves as the virtual counterpart of XEN tokens, crafted to optimize the bu
 When a user transfers XEN to Arbitrum, the “Burn” function of the XEN token contract on Ethereum is triggered. This results in the burning of the XEN tokens linked to the user’s Ethereum address, and the action is documented in a burn record associated with the user’s address. Subsequent to the burn process on Ethereum, an equivalent amount of vXEN tokens are produced on Arbitrum. Furthermore, XEN can be incinerated on Ethereum to directly generate an equivalent volume of vXEN tokens on Ethereum itself. This adaptability ensures the token’s presence across multiple chains, granting the ability for vXEN to be burned on one chain and equivalently minted on another, and vice versa.
 
 For a smooth and foolproof bridging mechanism, our primary selection is LayerZero OFT. Axelar stands as our secondary choice, and Wormhole can be tapped as a potential alternative if the situation demands. Xenify's progressive approach is a testament to its dedication to promoting interoperability within the XEN ecosystem and ensuring Xenify's reach to XEN communities on diverse chains. As a result, vXEN equips you to effortlessly engage with any EVM chain that endorses the XEN ecosystem, positioning Xenify as a pivotal layer 1 burner of XEN. This guarantees that every user who incinerates any variant of XEN tokens on Xenify will be duly incorporated in the burn record for the X1 distribution, the native token of the new XEN Layer 1 (X1 Chain). To top it off, Xenify has set a fixed rate for vXEN, where one vXEN corresponds to one XEN, and one batch is synonymous with 10,000,000 vXEN, making the entire burn process straightforward and doing away with the need for constant calculations.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ YSL Overview - Hyper-Deflationary
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Introducing YSL - Dive into the world of a hyper-deflationary token meticulously crafted to redefine the heights of success. While many tokens in the market lean on traditional deflationary models, YSL breaks the mold. Instead of solely depending on market forces for supply reduction, YSL integrates a distinctive mechanism: the burn auctions. With every batch burned during the auction, a segment of YSL tokens vanishes from circulation forever, inherently reducing the total supply and potentially amplifying the token's value.
+
+The YSL token contract stands as a beacon of trust and security, being immutable in nature. Its non-upgradable feature ensures transparency, eliminating any room for unforeseen changes. In our quest for seamless interoperability, we've deployed the YSL token bridge, choosing LayerZero OTF as our primary mechanism, while Axelar and Wormhole stand by as robust backups. The YSL token contract is crafted without constraints, granting holders the liberty to bridge and create liquidity across any chain that aligns with our bridging solutions, and on any DEX of their choice.
+
+A special announcement for our Arbitrum community: We're rolling out an airdrop of the new YSL token, orchestrated by our dedicated team. As YSL expands its horizons to other chains, it will don a unique identifier reflecting its deployment chain. For instance, its Ethereum avatar will be labeled eYSL. Token holders can stake their claim within a 90-day window based on the 'Arbitrum' snapshot. Our deployment odyssey will set sail with Arbitrum, Ethereum, BNB Chain, and Polygon, with subsequent stops at Avalanche, Optimism, Fantom, zkSync, Linea, and Base.
+
+If you're on the hunt for a dynamic token ecosystem that continually evolves and boasts a one-of-a-kind deflationary model, YSL beckons you to the future! For a deeper dive, check out the snapshot link:  [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023).
+
+Here's a concise breakdown of our deployment chains and their unique identifiers:
+
+- Arbitrum - YSL
+- Ethereum - eYSL
+- BNB Chain - bYSL
+- Polygon - mYSL
+- Avalanche - aYSL
+- Optimism - opYSL
+- Fantom - fmYSL
+- zkSync - zkYSL
+- Linea - laYSL
+- Base - cbYSL
 
 <br>
 
@@ -1180,6 +1210,12 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 ## ◽️ XEN
   
   - XEN is the inspirational foundation for Xenify, incorporating its innovative Proof of Participation concept and First Principles methodology to build a groundbreaking decentralised protocol.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ YSL 
+
+YSL is a hyper-deflationary token meticulously crafted to redefine the heights of success in the decentralized market. Integrated with the unique burn auction mechanism, YSL ensures a reduced total supply with every batch burned, potentially boosting its value. As a testament to its innovation, YSL offers a dynamic token ecosystem that continually evolves, making it a standout in the deflationary token landscape.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
