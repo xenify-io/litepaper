@@ -463,7 +463,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
-| BNB Chain          | [ApeSwap](https://apeswap.finance)                    | bXNF-BNB            |
+| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
 | PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
