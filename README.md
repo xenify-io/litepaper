@@ -29,7 +29,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
 - [Unifying the Chains (vXEN)](https://github.com/xenify-io/litepaper#%EF%B8%8F-unifying-the-chains-vxen)
-- [YSL Overview - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl-overview--hyper--deflationary)
+- [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl-overview--hyper--deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
@@ -247,7 +247,7 @@ For a smooth and foolproof bridging mechanism, our primary selection is LayerZer
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ YSL Overview - Hyper-Deflationary
+# ◽️ YSL - Hyper-Deflationary
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
