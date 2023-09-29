@@ -1189,6 +1189,12 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ vXEN
+
+- vXEN is the virtual counterpart of the XEN token, designed to streamline the token burning process and facilitate cross-chain interactions within the Xenify ecosystem. It empowers holders to participate in Xenify's burn auctions across various chains and ensures seamless migration of tokens, reinforcing Xenify's commitment to interoperability and cross-chain functionality.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ veXNF 
 
   - veXNF is a vested token, embodied as a non-fungible token (NFT) under the ERC-721 standard, representing a user's locked position in XNF. A user's share of the native rewards isn't solely dictated by the quantity of veXNF they possess. It's also influenced by their 'power' or standing within the protocol. This standing is determined by a combination of their veXNF holdings and the length of their lock-in period.
