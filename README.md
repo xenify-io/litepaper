@@ -1215,7 +1215,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ YSL 
 
-YSL is a hyper-deflationary token meticulously crafted to redefine the heights of success in the decentralized market. Integrated with the unique burn auction mechanism, YSL ensures a reduced total supply with every batch burned, potentially boosting its value. As a testament to its innovation, YSL offers a dynamic token ecosystem that continually evolves, making it a standout in the deflationary token landscape.
+- YSL is a hyper-deflationary token meticulously crafted to redefine the heights of success in the decentralized market. Integrated with the unique burn auction mechanism, YSL ensures a reduced total supply with every batch burned, potentially boosting its value. As a testament to its innovation, YSL offers a dynamic token ecosystem that continually evolves, making it a standout in the deflationary token landscape.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
