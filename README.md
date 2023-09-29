@@ -28,8 +28,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- [Unifying the Chains (vXEN)](https://github.com/xenify-io/litepaper#%EF%B8%8F-unifying-the-chains-vxen)
-- [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl--hyper--deflationary)
+- [vXEN - Unifying the Chains](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-chains)
+- [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F--ysl---hyper-deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
@@ -231,7 +231,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ Unifying the Chains (vXEN)
+# ◽️ vXEN - Unifying the Chains
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
