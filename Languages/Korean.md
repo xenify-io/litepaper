@@ -288,7 +288,7 @@ vUSDy를 소유하고 나면 이를 소각하여 Xenify의 일일 XNF 토큰 분
 
 <br>
 
-| 네이티브 토큰           | 전환율                |
+| 네이티브 토큰        |    전환율             |
 |---------------------|----------------------|
 | USDy                | 1 USDy = 1 vUSDy     |
 | bYSL                | 1 bYSL = 5 vUSDy     |
@@ -952,8 +952,8 @@ veXNF 보유자로서 재활용 기능을 활용하면 플랫폼의 25% 청구 �
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4725efb6-7456-471e-9abb-279c84fb14de" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ac71adcd-e13b-49af-bfcf-fe71ee93de60" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2f0dd2e8-a860-4763-8e98-4af4333091ec" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2f01a778-7482-401e-91a3-d637c25dfe36" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
