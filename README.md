@@ -467,31 +467,31 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ⭐️ Deployment Schedule 
 
-### Arbitrum (XNF)
+### 1️⃣ Arbitrum (XNF)
 
 - Arbitrum is our genesis deployment chain.
 
-### Ethereum (eXNF)
+### 2️⃣ Ethereum (eXNF)
 
 - Ethereum deployment is scheduled for 3 months following the Arbitrum deployment.
 
-### BNB Chain (bXNF)
+### 3️⃣ BNB Chain (bXNF)
 
 - BNB Chain deployment is slated for 3 months after the Ethereum deployment.
 
-### Polygon (mXNF)
+### 4️⃣ Polygon (mXNF)
 
 - Polygon is set to be deployed 3 months subsequent to the BNB Chain deployment.
 
-### Base (cbXNF)
+### 5️⃣ Base (cbXNF)
 
 - Base deployment is planned for 3 months post the Polygon deployment.
 
-### Optimism (opXNF)
+### 6️⃣ Optimism (opXNF)
 
 - Optimism will be rolled out 3 months following the Base deployment.
 
-### Avalanche (aXNF)
+### 7️⃣ Avalanche (aXNF)
 
 - Avalanche is scheduled for deployment 3 months after the Optimism deployment.
 
