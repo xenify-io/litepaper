@@ -851,8 +851,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b70c7a8e-fe63-41b3-9256-49adbb5f4070" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ff0f62ac-ca43-4d26-a62b-0e0ae329ed5f" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/2fd0672e-9dad-4ffd-b90c-67ed732f1bfb" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/12aa0939-b5a7-4e9e-9f1c-e4edb2e852ed" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">のようになります。
   </picture>
 </p>
