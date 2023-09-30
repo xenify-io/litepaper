@@ -473,27 +473,27 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ### Ethereum (eXNF)
 
-- Ethereum deployment is scheduled for 3 months following the Arbitrum.
+- Ethereum deployment is scheduled for 3 months following the Arbitrum deployment.
 
 ### BNB Chain (bXNF)
 
-- BNB Chain deployment is slated for 3 months after the Ethereum
+- BNB Chain deployment is slated for 3 months after the Ethereum deployment.
 
 ### Polygon (mXNF)
 
-- Polygon is set to be deployed 3 months subsequent to the BNB Chain.
+- Polygon is set to be deployed 3 months subsequent to the BNB Chain deployment.
 
 ### Base (cbXNF)
 
-- Base deployment is planned for 3 months post the Polygon.
+- Base deployment is planned for 3 months post the Polygon deployment.
 
 ### Optimism (opXNF)
 
-- Optimism will be rolled out 3 months following the Base.
+- Optimism will be rolled out 3 months following the Base deployment.
 
 ### Avalanche (aXNF)
 
-- Avalanche is scheduled for deployment 3 months after the Optimism.
+- Avalanche is scheduled for deployment 3 months after the Optimism deployment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
