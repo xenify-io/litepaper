@@ -465,7 +465,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⭐️ Deployment Schedule 
+## ⚙️ Deployment Schedule 
 
 ### 1️⃣ Arbitrum (XNF)
 
@@ -497,13 +497,13 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Accelerated Deployment
+## ⚙️ Accelerated Deployment
 
 We have the capability to expedite the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on the state of the crypto market, this could be accelerated to a timeline of 1 month or even just 1 week.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Potential Expansion Chains
+## ⚙️ Potential Expansion Chains
 
 Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Fantom and zkSync ERA to the new kids on the blockchain like Linea and PulseChain, there's no shortage of options. The full list of chains include:
 
@@ -514,7 +514,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ XNF Liquidity Pools When Deployed
+## ⚙️ XNF Liquidity Pools When Deployed
 
 <br>
 
