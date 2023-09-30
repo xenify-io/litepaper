@@ -465,42 +465,66 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Confirmed Deployment
+## ⭐️ Deployment Schedule 
 
-- Genesis Deployment > Arbitrum
-- Second Deployment > Ethereum
-- Third Deployment > BNB Chain
+### Arbitrum (XNF)
+
+- Arbitrum is our genesis deployment chain.
+
+### Ethereum (eXNF)
+
+- Ethereum deployment is scheduled for 3 months following the Arbitrum.
+
+### BNB Chain (bXNF)
+
+- BNB Chain deployment is slated for 3 months after the Ethereum
+
+### Polygon (mXNF)
+
+- Polygon is set to be deployed 3 months subsequent to the BNB Chain.
+
+### Base (cbXNF)
+
+- Base deployment is planned for 3 months post the Polygon.
+
+### Optimism (opXNF)
+
+- Optimism will be rolled out 3 months following the Base.
+
+### Avalanche (aXNF)
+
+- Avalanche is scheduled for deployment 3 months after the Optimism.
+
+## ✨ Accelerated Deployment
+
+We have the capability to expedite the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on the state of the crypto market, this could be accelerated to a timeline of 1 month or even just 1 week.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Potential Expansion Chains
+## ✨ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Optimism and Avalanche to the new kids on the blockchain like PulseChain, there's no shortage of options. The full list of chains include:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Fantom and zkSync ERA to the new kids on the blockchain like Linea and PulseChain, there's no shortage of options. The full list of chains include:
 
-- Base
+- Linea
 - Fantom
-- Polygon
-- Optimism
-- Avalanche
+- zkSync Era
 - PulseChain
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ XNF Liquidity Pools When Deployed
+## ✨ XNF Liquidity Pools When Deployed
 
 <br>
 
 | Chain Name         | DEX Name                                              | Liquidity Pairing   |
 | ------------------ | ----------------------------------------------------- | ------------------- |
 | Base               | [Uniswap V3](https://app.uniswap.org)                 | cbXNF-ETH           |
-| Fantom             | [SpookySwap](https://spooky.fi)                       | fmXNF-FTM           |
 | Polygon            | [Uniswap V3](https://app.uniswap.org)                 | mXNF-MATIC          |
 | Arbitrum           | [Uniswap V3](https://app.uniswap.org)                 | XNF-ETH             |
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
-| Avalanche          | [Trader Joe](https://traderjoexyz.com)                | avXNF-AVAX          |
+| Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
 | BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
-| PulseChain         | [PulseX](https://pulsex.com)                          | pXNF-PLS            |
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
