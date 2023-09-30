@@ -963,17 +963,17 @@ By recycling your native chain rewards, you'll not only strengthen your XNF posi
 
 ## ⚡️ Recycling Rewards Example
 
-Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on BNB Chain, and you decide to recycle your native chain reward balance of 1.0 ETH during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.01 ETH on Arbitrum, your 1.0 ETH rewards equate to 10 batches. Your 100 batches will be allocated to either the vXEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.49975 ETH.
+Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on Arbitrum, and you decide to recycle your native chain reward balance of 1.0 ETH during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.01 ETH on Arbitrum, your 1.0 ETH rewards equate to 100 batches. Your 100 batches will be allocated to either the vXEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.4975 ETH.
 
 <br>
 
 $$
-BF = (0.5 \times 1) \times (1 - (10 \times 0.00005)) = 0.49975 \space BNB
+BF = (0.5 \times 1) \times (1 - (100 \times 0.00005)) = 0.4975 \space ETH
 $$
 
 <br>
 
-40% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, 10% will be sent to the team, and the remaining 50% will be utilised to create XNF protocol-owned liquidity. Then, the remaining 0.50025 BNB from your rewards is split: 90% (0.450225 BNB) is utilised to create XNF protocol-owned liquidity, and 10% (0.050025 BNB) is sent to the Xenify team. At the end of the cycle, you receive XNF for your 10-batch burn contribution. And, as a recycler, you’ll also be included in an exclusive distribution of veXNF acquired from the protocol's daily buyback mechanism. But that’s not all, as you recycled rewards during the first hour of the cycle you will also receive a share of the BNB collected from the 25% claim fee!
+40% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, 10% will be sent to the team, and the remaining 50% will be utilised to create XNF protocol-owned liquidity. Then, the remaining 0.5025 BNB from your rewards is split: 90% (0.45225 ETH) is utilised to create XNF protocol-owned liquidity, and 10% (0.05025 ETH) is sent to the Xenify team. At the end of the cycle, you receive XNF for your 100-batch burn contribution. And, as a recycler, you’ll also be included in an exclusive distribution of veXNF acquired from the protocol's daily buyback mechanism. But that’s not all, as you recycled rewards during the first hour of the cycle you will also receive a share of the ETH collected from the 25% claim fee!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
