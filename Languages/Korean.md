@@ -851,8 +851,8 @@ $$
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d081a212-6cea-403f-987b-6e295f42f73c" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b0bd0a15-92f4-4e90-9956-1bfb678128fa" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c0228355-2271-4b5b-8bf1-bfc930dc215c" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4eb88ebe-0f5c-4f50-b99e-76d90ef1ad7a" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="가시성:표시;최대 너비:100%;">
   </picture>
 </p>
