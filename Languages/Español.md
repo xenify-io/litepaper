@@ -847,8 +847,8 @@ Funciona de la siguiente manera: El protocolo calcula la contribución de swap d
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a94f247e-4bbc-4b60-869b-3e3d16363e12" class="fuente-luz">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/78d3b4b0-c4cd-43c6-bf6d-4d29b2c162f1" class="fuente-oscuro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a0eee826-f45a-45c6-911d-2b75a1e62011" class="fuente-luz">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1b265042-63ab-41d1-b50a-e8db30180981" class="fuente-oscuro">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
