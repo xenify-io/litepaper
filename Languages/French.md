@@ -851,8 +851,8 @@ Voici comment cela fonctionne : Le protocole calcule la contribution d'échange 
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/045ce3ad-bb28-454a-86a2-1967f67a1741" class="source-light">
-    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/afd93e6c-f117-4fa5-a8d6-7bb5a0e8cac4" class="source-dark">
+    <source media="(prefers-color-scheme : light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/20381684-48f8-4478-8311-587fc72338c1" class="source-light">
+    <source media="(prefers-color-scheme : dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/276332eb-6772-4d63-8b84-dc15ebb5edbb" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility:visible;max-width:100% ;">
   </picture>
 </p>
