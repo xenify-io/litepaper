@@ -495,6 +495,8 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 - Avalanche is scheduled for deployment 3 months after the Optimism.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ✨ Accelerated Deployment
 
 We have the capability to expedite the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on the state of the crypto market, this could be accelerated to a timeline of 1 month or even just 1 week.
