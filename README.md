@@ -473,7 +473,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 <br>
 
-Xenify's commitment to expanding its reach and enhancing its ecosystem is evident in its strategic deployment across various EVM chains. As the DeFi space continues to evolve, Xenify recognizes the importance of interoperability and the need to cater to diverse user bases across different chains. The following schedule provides a roadmap of Xenify's planned deployments, ensuring users are well-informed of the protocol's growth trajectory.
+Xenify's commitment to expanding its reach and enhancing its ecosystem is evident in its strategic deployment across various EVM chains. As the DeFi space continues to evolve, Xenify recognizes the importance of interoperability and the need to cater to diverse user bases across different chains. The following schedule provides a roadmap of Xenify's planned deployments, ensuring users are well-informed of the protocol's growth trajectory:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
