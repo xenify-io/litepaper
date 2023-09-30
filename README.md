@@ -172,7 +172,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Token Burning
 
-- Xenify empowers users to effortlessly burn their vXEN or YSL tokens directly from their wallets to participate in the daily burn auction. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unites the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
+- Xenify empowers users to effortlessly burn their vXEN or YSL tokens directly from their wallets to participate in the daily burn auction. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unites the YSL community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
