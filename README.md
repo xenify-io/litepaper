@@ -499,7 +499,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 ## ⚙️ Accelerated Deployment
 
-We have the capability to expedite the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on the state of the crypto market, this could be accelerated to a timeline of 1 month or even just 1 week.
+We have the capability to accelerate the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Our rationale behind this phased rollout is to concentrate liquidity and economic energy on one chain at a time, rather than pursuing an aggressive roll-out across multiple chains simultaneously. Such an aggressive strategy tends to be effective only in a bull market. Depending on market conditions, we can further accelerate the roll-out to a timeline of 1 month or even just 1 week.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
