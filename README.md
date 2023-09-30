@@ -1221,7 +1221,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ YSL 
 
-- YSL is a hyper-deflationary token meticulously crafted to redefine the heights of success in the decentralized market. Integrated with the unique burn auction mechanism, YSL ensures a reduced total supply with every batch burned, potentially boosting its value. As a testament to its innovation, YSL offers a dynamic token ecosystem that continually evolves, making it a standout in the deflationary token landscape.
+- YSL has been engineered to be a hyper-deflationary token, blending quantifiable scarcity and utility through Xenify’s daily burn auctions. With a fixed total supply and built-in burn mechanism, YSL has the potential to appreciate in value over time as the circulating supply decreases. YSL achieves this through its integration with Xenify’s daily burn auction, which allocates 25% of the newly minted XNF to users who opt to burn their YSL tokens. This consistent daily source of demand for burning YSL tokens generates perpetual deflationary pressure, unlike other deflationary tokens reliant solely on trading activity. In short, YSL’s deflationary tokenomics provides an intriguing opportunity - with codified scarcity, utility, and predictable drivers of value growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1233,7 +1233,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ vXEN
 
-- vXEN is the virtual counterpart of the XEN token, designed to streamline the token burning process and facilitate cross-chain interactions within the Xenify ecosystem. It empowers holders to participate in Xenify's burn auctions across various chains and ensures seamless migration of tokens, reinforcing Xenify's commitment to interoperability and cross-chain functionality.
+- vXEN is the virtual counterpart of the XEN token, designed to streamline the token-burning process and facilitate cross-chain interactions within the Xenify ecosystem. It empowers holders to participate in Xenify's burn auctions across various chains and ensures seamless migration of tokens, reinforcing Xenify's commitment to interoperability and cross-chain functionality.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
