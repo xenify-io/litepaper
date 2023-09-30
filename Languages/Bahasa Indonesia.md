@@ -851,8 +851,8 @@ Begini cara kerjanya: Protokol menghitung kontribusi swap (SC) pengguna dengan t
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b77a332d-e42b-4a1c-b6a4-52a6e338d2d8" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ea13086c-1ac6-4ee3-82cc-58b9c515097b" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7c6ad269-d19d-4cdc-bfab-7b48fd176db3" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/368b25d1-a738-4f48-b652-d7bda7c7860d" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996021/8acc76bb-15ae-4bfb-8546-54c4dcb4a46c" style="visibility: visible;max-width: 100%;">
   <picture>
 </p>
