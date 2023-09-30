@@ -441,7 +441,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **21,000,000 XNF assigned for the daily auctions:** Users who participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions.
 
-  - 10,500,000 XNF (50%) is distributed to burn auction participants. This allocation will be distributed equally, with 50% set aside for XEN burners and the remaining 50% for YSL burners. In the event that there are no YSL burners during a cycle, the entire daily XNF allocation designated for the burn auction will be distributed among XEN burners, and vice versa.
+  - 10,500,000 XNF (50%) is distributed to burn auction participants. This allocation will be distributed equally, with 50% set aside for vXEN burners and the remaining 50% for YSL burners. In the event that there are no YSL burners during a cycle, the entire daily XNF allocation designated for the burn auction will be distributed among vXEN burners, and vice versa.
     
   - 5,250,000 XNF (25%) is distributed to users that contribute native tokens to participate in the daily auction. These XNF tokens will be distributed among participants in the form of veXNF, with an associated lock period of 1 year.
 
