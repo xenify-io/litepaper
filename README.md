@@ -546,13 +546,13 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 
 The XNF minting process within Xenify has been meticulously structured to reward users who actively engage with and contribute to the protocol's growth. This initiative ensures an equitable distribution of XNF tokens and fosters a genuinely decentralised and community-driven protocol. Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
-Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split four ways: 25% is distributed to users who burn XEN, 25% is distributed to users who burn YSL, 25% is distributed to native token contributors, and the remaining 25% is distributed among the platform's swap fee contributors. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
+Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split four ways: 25% is distributed to users who burn vXEN, 25% is distributed to users who burn YSL, 25% is distributed to native token contributors, and the remaining 25% is distributed among the platform's swap fee contributors. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
 
-Users are further incentivised through the platform's staking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on the Ethereum chain. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees. Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
+Users are further incentivised through the protocol's locking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on Arbitrum. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees. Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Burn to Earn XNF 
+## ⭐️ Burn to Earn XNF 
 
 Xenify empowers users to effortlessly burn their vXEN or YSL tokens directly from their wallets to participate in the daily burn cycle. This burn mechanism goes beyond simply reducing the circulating supply of XEN tokens and YSL.IO native tokens; it embodies a strategic approach that brings together the YSL.IO community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
 
@@ -566,7 +566,7 @@ During the burn process, the vXEN or YSL tokens you provide are burned (permanen
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Swap to Earn XNF 
+## ⭐️ Swap to Earn XNF 
 
 Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing users the exciting opportunity to earn native chain tokens daily. Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
@@ -578,7 +578,7 @@ Moreover, by engaging in swaps on any of the 52 supported chains, users become e
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Lock XNF to Earn Native Rewards
+## ⭐️ Lock XNF to Earn Native Rewards
 
 Distinguishing itself from generic aggregators, Xenify takes pride in its avant-garde incentive model that empowers platform users to execute seamless swaps and embark on a rewarding journey by earning rewards every cycle based on their locked XNF. These rewards are distributed in the form of native chain tokens — a highly liquid asset — signaling a potentially lucrative return for users who lock XNF.
 
