@@ -610,15 +610,13 @@ In short, the Xenify Fee Sharing Programme strategically leverages the swap fee 
 
 ## ⭐️ Costs of Burning on Xenify
 
-The Xenify protocol enables users to burn vXEN or YSL tokens to secure XNF from the daily XNF reward cycle. By participating in the burn process to acquire XNF, users will encounter certain costs such as transaction gas fees and the mandatory burn fee. However, the burn fee calculation has been carefully designed to not only ensure a transparent and consistent method for token burning but also reward users with an attractive discount of up to 75%.
+The Xenify protocol enables users to burn vXEN or YSL tokens to secure XNF from the daily XNF reward cycle. By participating in the daily burn auction to acquire XNF, users will encounter certain costs such as transaction gas fees and the mandatory burn fee. However, the burn fee calculation has been carefully designed to not only ensure a transparent and consistent method for token burning but also reward users with an attractive discount of up to 75%.
 
-The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates an attractive incentive for users to undertake larger burn operations at earlier points in a cycle.
+The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates a compelling incentive for users to engage in larger burn operations early in the cycle.
 
-By implementing this formula, we ensure that users receive discounts in proportion to the volume of a specific token (vXEN or YSL) they burn. Furthermore, we are proud to emphasise that 100% of the burn fees collected are redeployed as rewards to veXNF holders, utilised to bolster XNF liquidity and support the ongoing development of Xenify. This approach not only encourages efficiency but also rewards our valuable contributors, while establishing a mutually beneficial ecosystem that ensures the continual proliferation of liquidity. Plus, with the maximum discount of 75% for 10,000 batches, the more users burn, the more they save! This exciting prospect not only offers substantial benefits for those who burn but also generates enhanced rewards for veXNF holders.
+Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.1 YSL. 
 
-But what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. A single batch for vXEN is set at a fixed amount and will vary depending on the vXEN variant being burned. For instance, a single batch of bXEN on the BNB Chain has been set at 1,000,000,000 bXEN. Similarly, a single batch for YSL is set at a fixed amount of 0.1 YSL. 
-
-The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
+By implementing this factor into the burn formula, we ensure that users receive discounts in proportion to the volume of batches they burn. The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
 
 <br>
 
@@ -637,7 +635,9 @@ Here’s how it works: The value per batch is calculated as 10 raised to the pow
 
 This mechanism helps ensure that the burn fee remains consistent across different chains where Xenify deploys, particularly for chains with higher-priced native tokens. For instance, the value of one batch on Arbitrum will be set at 0.01 ETH at deployment, since ETH has 4 digits before the decimal point at its current market value. However, when Xenify deploys on BNB Chain, the value of one batch will be set at 0.1 BNB, since BNB has 3 digits before the decimal point at its current value above $100. 
 
-By aligning batch values to native token prices and providing volume discounts, our burn fee formula enables transparency while encouraging burning. Moreover, 100% of the tokens you provide will be burned - this ensures your wallet address is included in the burn record for the distribution of X1 - the native token of the new XEN Layer 1 (X1 Chain).
+By aligning batch values to native token prices and providing volume discounts, our burn fee formula enables transparency while encouraging burning. Furthermore, we are proud to emphasise that 100% of the burn fees are redeployed to bolster XNF liquidity, support the ongoing development of Xenify, and reward veXNF holders. This approach not only promotes efficiency but also recognises the invaluable contributions of our community members, while establishing a mutually beneficial ecosystem that fosters the continuous proliferation of liquidity.
+
+Plus, with the maximum discount of 75% for 10,000 batches, the more users burn, the more they save! This opportunity not only provides substantial benefits for those who engage in burning but also generates enhanced rewards for veXNF holders. It's a win-win scenario that encourages active involvement in the Xenify ecosystem while ensuring value capture for all participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
