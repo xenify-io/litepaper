@@ -473,7 +473,7 @@ Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving
 
 <br>
 
-Xenify's commitment to expanding its reach and enhancing its ecosystem is evident in its strategic deployment across various EVM chains. As the DeFi space continues to evolve, Xenify recognizes the importance of interoperability and the need to cater to diverse user bases across different chains. The following schedule provides a roadmap of Xenify's planned deployments, ensuring users are well-informed of the protocol's growth trajectory:
+In the ever-evolving DeFi landscape, bridging the gap between different chains is vital to serve a wide array of users effectively.  In light of this, Xenify has meticulously scheduled deployments across various EVM chains to optimise accessibility and engagement as our ecosystem expands. This strategically phased, multi-chain approach underscores Xenify's unwavering commitment to interoperability, paving the way for an inclusive ecosystem that caters to a diverse range of chains and users. To ensure complete transparency and to provide our community with a clear understanding of our protocol's growth trajectory, we're pleased to present our detailed deployment schedule below:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -509,13 +509,13 @@ Xenify's commitment to expanding its reach and enhancing its ecosystem is eviden
 
 ## ⚙️ Accelerated Deployment
 
-We have the capability to accelerate the deployment to BNB Chain, Polygon, Base, Optimism, and Avalanche. Our rationale behind this phased rollout is to concentrate liquidity and economic energy on one chain at a time, rather than pursuing an aggressive roll-out across multiple chains simultaneously. Such an aggressive strategy tends to be effective only in a bull market. Depending on market conditions, we can further accelerate the roll-out to a timeline of 1 month or even just 1 week.
+Our current 3-month timeline between deployments aims to concentrate liquidity and economic energy activity on one chain before expanding. This focused approach aims to build sustainable growth versus aggressive multi-chain rollouts better suited to bullish market conditions. However, it's essential to emphasise our flexibility to expedite our deployment on the BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on market conditions, we retain the capability to accelerate our deployment timelines to as short as 1 month or even just 1 week. This adaptability empowers us to respond strategically to market conditions while ensuring a controlled and well-considered expansion that maximises benefits for our entire community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ Potential Expansion Chains
 
-Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Fantom and zkSync ERA to the new kids on the blockchain like Linea and PulseChain, there's no shortage of options. The full list of chains include:
+Xenify is getting ready to go big, sizing up a bunch of blockchains for its next big move. The list of chains we're checking out right now is quite a mixed bag, from heavyweights like Fantom and zkSync ERA to the new kids on the blockchain like Linea and PulseChain, there's no shortage of options. The full list of potential chains include:
 
 - Linea
 - Fantom
