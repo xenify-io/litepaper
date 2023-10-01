@@ -789,13 +789,13 @@ Comparing these scenarios highlights the benefits of burning batches in the firs
 
 ## ⭐️ XNF Cycle Distribution
 
-Xenify employs a balanced approach in the daily distribution of XNF tokens, with a focus on four central components across all the chains it's deployed on. These components receive an equal share of the daily mint, with 25% allocated to users who participate in burning XEN tokens, 25% allocated to users who burn YSL tokens, 25% allocated to native token contributors, and the remaining 25% distributed among those who engage in swaps.
+Xenify employs a balanced approach in the daily distribution of XNF tokens, with a focus on four central components across all the chains it's deployed on. These components receive an equal share of the daily mint, with 25% allocated to users who participate in burning vXEN tokens, 25% allocated to users who burn YSL tokens, 25% allocated to native token contributors, and the remaining 25% distributed among those who engage in swaps.
 
 For instance, if the daily minted amount of XNF tokens is 20,000, the distribution is split evenly, with each component receiving 5,000 XNF tokens. This uniform allocation structure extends to all chains where Xenify is present. Thus, irrespective of the chain they're using, participants involved in either burning tokens, contributing natives, or executing swaps have the opportunity to earn a portion of the daily minted XNF tokens.
 
 To ascertain each user's share of the daily mint, the protocol will perform a series of calculations. These calculations will be based on the contributions made by a user to each component during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of native tokens and swap fees. Keep in mind, the XNF earned through native contributions and the swap fee will be distributed as veXNF.
 
-The protocol calculates your share of the daily XNF allocated to the XEN burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of XEN batches burned during the cycle (TX), and the number of XEN batches you burned during the cycle (UX). Here's the formula for the XEN burn allocation (XB) explained in detail:
+The protocol calculates your share of the daily XNF allocated to the vXEN burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of vXEN batches burned during the cycle (TX), and the number of vXEN batches you burned during the cycle (UX). Here's the formula for the vXEN burn allocation (XB) explained in detail:
 
 <br>
 
@@ -807,14 +807,14 @@ $$
 
 **Where:**
 
-- $XB$ (XEN Burn Allocation) - The amount of XNF a specific user obtains based on the XEN batches burned during a cycle.
+- $XB$ (vXEN Burn Allocation) - The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.
 - $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
-- $UX$ (XEN Batches Burned by User) - The number of XEN batches burned during a cycle by the specific user whose burn contribution is being calculated.
-- $TX$ (Total XEN Batches Burned) - The combined number of XEN batches burned by all users during a cycle.
+- $UX$ (vXEN Batches Burned by User) - The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.
+- $TX$ (Total vXEN Batches Burned) - The combined number of vXEN batches burned by all users during a cycle.
 
 <br>
 
-Here’s how it works: The protocol calculates the user’s XEN burn allocation (XB) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn XEN. It then calculates the proportion of XEN batches burned by the specific user (UX) to the total XEN batches burned by all users (TX). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual XEN burn allocation for that cycle (XB). The calculation for the YSL burn allocation (YB) follows the same logic, as outlined in the formula below:
+Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XB) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (UX) to the total vXEN batches burned by all users (TX). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XB). The calculation for the YSL burn allocation (YB) follows the same logic, as outlined in the formula below:
 
 <br>
 
