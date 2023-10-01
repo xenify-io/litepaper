@@ -509,7 +509,7 @@ In the ever-evolving DeFi landscape, bridging the gap between different chains i
 
 ## ⚙️ Accelerated Deployment
 
-Our current 3-month timeline between deployments aims to concentrate liquidity and economic energy activity on one chain before expanding. This focused approach aims to build sustainable growth versus aggressive multi-chain rollouts better suited to bullish market conditions. However, it's essential to emphasise our flexibility to expedite our deployment on the BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on market conditions, we retain the capability to accelerate our deployment timelines to as short as 1 month or even just 1 week. This adaptability empowers us to respond strategically to market conditions while ensuring a controlled and well-considered expansion that maximises benefits for our entire community.
+Our current 3-month timeline between deployments aims to concentrate liquidity and economic energy/activity on one chain before expanding. This focused approach aims to build sustainable growth versus aggressive multi-chain rollouts better suited to bullish market conditions. However, it's essential to emphasise our flexibility to expedite our deployment on the BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on market conditions, we retain the capability to accelerate our deployment timelines to as short as 1 month or even just 1 week. This adaptability empowers us to respond strategically to market conditions while ensuring a controlled and well-considered expansion that maximises benefits for our entire community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
