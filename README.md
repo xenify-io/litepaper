@@ -449,7 +449,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
   - 5,250,000 XNF (25%) is distributed to users who engage in swaps on supported EVM chains. These XNF tokens will be distributed among swap participants in the form of veXNF, with an associated lock period of 1 year.
 
-- **100,000 XNF assigned for XNF liquidity creation:** To facilitate this, we have set aside 100,000 XNF for the protocol’s Burn Auction. Each time a user participates in the daily burn of vXEN or YSL they will be contributing to the proliferation of XNF liquidity. This initiative bolsters the overall health of the protocol and fosters a robust liquidity pool for our community.
+- **100,000 XNF assigned to establish XNF V3 liquidity pool:** To empower a robust ecosystem, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. This initiative will allow our community to seamlessly trade XNF right from the start. To facilitate this, a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) will be utilised to establish an XNF V3 liquidity pool at the end of the cycle.
 
 - **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
