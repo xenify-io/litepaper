@@ -838,7 +838,7 @@ $$
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>UX - vXEN Batches Burned by User</strong></td>
+        <td><strong>UX - vXEN Batches Burned</strong></td>
         <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
@@ -869,7 +869,7 @@ $$
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>UY - YSL Batches Burned by User</strong></td>
+        <td><strong>UY - YSL Batches Burned</strong></td>
         <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
