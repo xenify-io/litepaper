@@ -812,6 +812,8 @@ $$
 
 **Where:**
 
+<br>
+
 <table>
     <tr>
         <td style="font-weight: normal;">$XB$</td>
@@ -825,12 +827,12 @@ $$
     </tr>
     <tr>
         <td>$UX$</td>
-        <td><b>(vXEN Batches Burned by User)</b></td>
+        <td>(vXEN Batches Burned by User)</td>
         <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
         <td>$TX$</td>
-        <td><b>(Total vXEN Batches Burned)</b></td>
+        <td>(Total vXEN Batches Burned)</td>
         <td>The combined number of vXEN batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -849,6 +851,8 @@ $$
 
 **Where:**
 
+<br>
+
 <table>
     <tr>
         <td style="font-weight: normal;">$YB$</td>
@@ -862,12 +866,12 @@ $$
     </tr>
     <tr>
         <td>$UY$</td>
-        <td><b>(YSL Batches Burned by User)</b></td>
+        <td>(YSL Batches Burned by User)</td>
         <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
         <td>$TY$</td>
-        <td><b>(Total YSL Batches Burned)</b></td>
+        <td>(Total YSL Batches Burned)</td>
         <td>The combined number of YSL batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -886,6 +890,8 @@ $$
 
 **Where:**
 
+<br>
+
 <table>
     <tr>
         <td style="font-weight: normal;">$SA$</td>
@@ -899,12 +905,12 @@ $$
     </tr>
     <tr>
         <td>$US$</td>
-        <td><b>(User Swap Fees)</b></td>
+        <td>(User Swap Fees)</td>
         <td>The swap fees paid by a specific user in a cycle.</td>
     </tr>
     <tr>
         <td>$TS$</td>
-        <td><b>(Total Swap Fees)</b></td>
+        <td>(Total Swap Fees)</td>
         <td>The total swap fees paid in a cycle by all users.</td>
     </tr>
 </table>
