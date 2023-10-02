@@ -849,7 +849,7 @@ $$
 
 <br>
 
-Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XB) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic, as outlined in the formula below:
+Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XBA) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic, as outlined in the formula below:
 
 <br>
 
@@ -861,7 +861,7 @@ $$
 
 <table>
     <tr>
-        <td><strong>YB</strong><br>(Burn Allocation)</td>
+        <td><strong>YBA</strong><br>(Burn Allocation)</td>
         <td>The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
     </tr>
     <tr>
