@@ -657,14 +657,14 @@ Plus, with the maximum discount of 75% for 10,000 batches, the more users burn, 
 
 Xenify introduces an innovative approach to burn fee discounts that aims to promote fairness and prevent manipulation. By implementing a carefully designed burn fee calculation, the protocol effectively curbs unfair practices where users strategically time transactions to maximise their rewards or incentives.
 
-The Burn Fee (BF) calculation includes time-weighted factors known as the Time Coefficient (FC) and the Batch Coefficient (BC), which help determine the fee needed to execute the burn function based on the value of batches being burned. The burn fee discount that you obtain will be dependent on the Time Coefficient (FC) and the Batch Coefficient (BC) that is applicable when you are burning during a cycle. Both coefficients are time-weighted, decreasing throughout the daily cycle. This means the effective discount that you obtain will vary depending on when you decide to burn during a cycle.
+The Burn Fee (BF) calculation includes time-weighted factors known as the Time Coefficient (TC) and the Batch Coefficient (BC), which help determine the fee needed to execute the burn function based on the value of batches being burned. The burn fee discount that you obtain will be dependent on the Time Coefficient (TC) and the Batch Coefficient (BC) that is applicable when you are burning during a cycle. Both coefficients are time-weighted, decreasing throughout the daily cycle. This means the effective discount that you obtain will vary depending on when you decide to burn during a cycle.
 
 To initiate the burn function on Xenify, users must have a sufficient wallet balance of native chain tokens that meets or exceeds the amount required for the Burn Fee. The protocol will calculate the Burn Fee (BF) using the formula below:
 
 <br>
 
 $$
-BF = (FC \times VB) \times (1 - (NB \times BC))
+BF = (TC \times VB) \times (1 - (NB \times BC))
 $$
 
 <br>
@@ -676,7 +676,7 @@ $$
         <td>The fee charged for the burn function, paid in the native token of the blockchain.</td>
     </tr>
     <tr>
-        <td><strong>$FC$</strong></td>
+        <td><strong>$TC$</strong></td>
         <td><strong>Time Coefficient</strong></td>
         <td>A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.</td>
     </tr>
@@ -699,21 +699,21 @@ $$
 
 <br>
 
-It's worth noting that the burn fee discount you receive will depend on the current values of the Time Coefficient (FC) and the Batch Coefficient (BC) at the time of burning. As these coefficients decrease throughout the daily cycle, the effective discount you obtain will vary depending on when you decide to burn during a cycle. This dynamic approach ensures that users have an opportunity to benefit from different discount levels based on their timing.
+It's worth noting that the burn fee discount you receive will depend on the current values of the Time Coefficient (TC) and the Batch Coefficient (BC) at the time of burning. As these coefficients decrease throughout the daily cycle, the effective discount you obtain will vary depending on when you decide to burn during a cycle. This dynamic approach ensures that users have an opportunity to benefit from different discount levels based on their timing.
 
 Xenify's approach to burn fee discounts not only promotes fairness but also provides users with the potential to optimise their savings. By considering the time-weighted coefficients and strategically choosing when to execute burns, users can maximise their discounts and overall value. This innovative approach brings transparency, fairness, and increased benefits to all participants of the Xenify ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⭐️ Time Coefficient (FC)
+## ⭐️ Time Coefficient (TC)
 
-The Burn Fee (BF) needed to execute the burn function will increase as the total value of batches being burned increases, however by executing burns earlier in the cycle users have the opportunity to benefit from a lower burn fee thanks to the Time Coefficient (FC). 
+The Burn Fee (BF) needed to execute the burn function will increase as the total value of batches being burned increases, however by executing burns earlier in the cycle users have the opportunity to benefit from a lower burn fee thanks to the Time Coefficient (TC). 
 
 As illustrated in the table below, the Time Coefficient starts at 50% when a cycle begins and increases by approximately 2.174% every hour until it reaches 100% in the final hour of the daily cycle. This means that users will need to contribute more to execute the burn function as the day goes on. However, it also provides an opportunity for users who burn earlier in the cycle to get a discount of up to 75% during the first hour of each cycle. 
 
 <br>
 
-| Hour | Time Coefficient (FC)     |
+| Hour | Time Coefficient (TC)     |
 |:-----|:--------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -789,7 +789,7 @@ Let's take a closer look at how the Time-Weighted Burn Fee Discount operates in 
 
 ## ⚡️ Scenario 1: User burns during Hour-1 of a cycle
 
-Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Time Coefficient (FC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as 25 ETH.
+Let’s say you decide to burn 10,000 batches during the first hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the first hour of a cycle is 0.00005 and the Time Coefficient (TC) during the first hour is 50%, the protocol will determine your Burn Fee (BF) as 25 ETH.
 
 <br>
 
@@ -803,7 +803,7 @@ $$
 
 ## ⚡️ Scenario 2: User burns during Hour-24 of a cycle
 
-Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Time Coefficient (FC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as 100 ETH.
+Now, let’s say you decide to burn 10,000 batches during the last hour of the daily cycle on Arbitrum, where the value per batch is set at 0.01 ETH. Taking into account that the Batch Coefficient (BC) during the last hour of a cycle is 0 and the Time Coefficient (TC) during the last hour is 100%, the protocol will determine your Burn Fee (BF) as 100 ETH.
 
 <br>
 
