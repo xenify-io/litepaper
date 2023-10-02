@@ -630,11 +630,11 @@ $$
                                                                                 
 <table>
     <tr>
-        <td><strong>Value Per Batch (VP)</strong></td>
+        <td><strong>VP - Value Per Batch</strong></td>
         <td>The value per batch that is set for the chain.</td>
     </tr>
     <tr>
-        <td><strong>Number of Digits (ND)</strong></td>
+        <td><strong>ND - Number of Digits</strong></td>
         <td>The count of digits preceding the decimal point in the price of the native gas token.</td>
     </tr>
 </table>
@@ -669,23 +669,23 @@ $$
 
 <table>
     <tr>
-        <td><strong>Burn Fee (BF)</strong></td>
+        <td><strong>BF - Burn Fee</strong></td>
         <td>The fee charged for the burn function, paid in the native token of the chain.</td>
     </tr>
     <tr>
-        <td><strong>Time Coefficient (TC)</strong></td>
+        <td><strong>TC - Time Coefficient</strong></td>
         <td>A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Value of Batches (VB)</strong></td>
+        <td><strong>VB - Value of Batches</strong></td>
         <td>The value of batches being burned by the user. The value per batch will be fixed and vary depending on the chain.</td>
     </tr>
     <tr>
-        <td><strong>Batch Coefficient (BC)</strong></td>
+        <td><strong>BC - Batch Coefficient</strong></td>
         <td>A time-weighted coefficient used to factor in the discount based on the batches being burned.</td>
     </tr>
     <tr>
-        <td><strong>Number of Batches (NB)</strong></td>
+        <td><strong>NB - Number of Batches</strong></td>
         <td>The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.</td>
     </tr>
 </table>
@@ -830,19 +830,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>vXEN Burn Allocation (XB)</strong></td>
+        <td><strong>XB - vXEN Burn Allocation</strong></td>
         <td>The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total XNF Distributed (TD)</strong></td>
+        <td><strong>TD - Total XNF Distributed</strong></td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>vXEN Batches Burned by User (UX)</strong></td>
+        <td><strong>UX - vXEN Batches Burned by User</strong></td>
         <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td><strong>Total vXEN Batches Burned (TX)</strong></td>
+        <td><strong>TX - Total vXEN Batches Burned</strong></td>
         <td>The combined number of vXEN batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -861,19 +861,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>YSL Burn Allocation (YB)</strong></td>
+        <td><strong>YB - YSL Burn Allocation</strong></td>
         <td>The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total XNF Distributed (TD)</strong></td>
+        <td><strong>TD - Total XNF Distributed</strong></td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>YSL Batches Burned by User (UY)</strong></td>
+        <td><strong>UY - YSL Batches Burned by User</strong></td>
         <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td><strong>Total YSL Batches Burned (TY)</strong></td>
+        <td><strong>TY - Total YSL Batches Burned</strong></td>
         <td>The combined number of YSL batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -892,19 +892,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>Swap Allocation (SA)</strong></td>
+        <td><strong>SA - Swap Allocation</strong></td>
         <td>The XNF allocation for a specific user based on their swap fee contributions during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total XNF Distributed (TD)</strong></td>
+        <td><strong>TD - Total XNF Distributed</strong></td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>User Swap Fees (US)</strong></td>
+        <td><strong>US - User Swap Fees</strong></td>
         <td>The swap fees paid by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total Swap Fees (TS)</strong></td>
+        <td><strong>TS - Total Swap Fees</strong></td>
         <td>The total swap fees paid in a cycle by all users.</td>
     </tr>
 </table>
@@ -925,19 +925,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>Native Allocation (NA)</strong></td>
+        <td><strong>NA - Native Allocation</strong></td>
         <td>The XNF allocation for a specific user based on their native token contributions during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total XNF Distributed (TD)</strong></td>
+        <td><strong>TD - Total XNF Distributed</strong></td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>User Native Contribution (UN)</strong></td>
+        <td><strong>UN - User Native Contribution</strong></td>
         <td>The number of batches contributed through native tokens by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td><strong>Total Native Contributions (TN)</strong></td>
+        <td><strong>TN - Total Native Contributions</strong></td>
         <td>The total number of batches contributed through native tokens in a cycle by all users.</td>
     </tr>
 </table>
@@ -976,19 +976,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>Decay Schedule (DS)</strong></td>
+        <td><strong>DS - Decay Schedule</strong></td>
         <td>The decay schedule for the veXNF earning power.</td>
     </tr>
     <tr>
-        <td><strong>Maximum Decay Schedule (MD)</strong></td>
+        <td><strong>MD - Maximum Decay Schedule</strong></td>
         <td>The maximum decay schedule of 60 days.</td>
     </tr>
     <tr>
-        <td><strong>Lock Duration (LD)</strong></td>
+        <td><strong>LD - Lock Duration</strong></td>
         <td>The user’s chosen lock duration in days.</td>
     </tr>
     <tr>
-        <td><strong>Maximum Lock (ML)</strong></td>
+        <td><strong>ML - Maximum Lock</strong></td>
         <td>The maximum lock duration of 365 days.</td>
     </tr>
 </table>
@@ -1007,19 +1007,19 @@ $$
 
 <table>
     <tr>
-        <td><strong>Current veXNF Power (CP)</strong></td>
+        <td><strong>CP - Current veXNF Power</strong></td>
         <td>The users' current veXNF earning power in percentage terms.</td>
     </tr>
     <tr>
-        <td><strong>Initial veXNF Power (IP)</strong></td>
+        <td><strong>IP - Initial veXNF Power</strong></td>
         <td>An initial veXNF earning power of 100% is set by the protocol at the start of the Decay Schedule.</td>
     </tr>
     <tr>
-        <td><strong>Time Elapsed (TE)</strong></td>
+        <td><strong>TE - Time Elapsed</strong></td>
         <td>The time that has elapsed since the Decay Schedule commenced (constrained to a maximum of 60 days).</td>
     </tr>
     <tr>
-        <td><strong>Decay Schedule (DS)</strong></td>
+        <td><strong>DS - Decay Schedule</strong></td>
         <td>The Decay Schedule that was set based on the lock duration chosen by the user (days). This will scale from 1.15 days (minimum lock of one week) to 60 days (maximum lock of 1 year).</td>
     </tr>
 </table>
