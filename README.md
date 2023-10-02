@@ -885,7 +885,7 @@ Similarly, the protocol calculates your swap allocation (SA) for a cycle, by tak
 <br>
 
 $$
-SA = (TD \div 4) \times (US \div TS)
+SA = (TD \div 4) \times (USF \div TSF)
 $$
 
 <br>
@@ -918,7 +918,7 @@ Utilising a similar logic, the protocol will calculate your share of the native 
 <br>
 
 $$
-NA = (TD \div 4) \times (UN \div TN)
+NA = (TD \div 4) \times (UNC \div TNC)
 $$
 
 <br>
