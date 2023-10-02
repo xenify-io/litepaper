@@ -980,7 +980,7 @@ $$
         <td>The decay schedule for the veXNF earning power.</td>
     </tr>
     <tr>
-        <td><strong>MD - Maximum Decay Schedule</strong></td>
+        <td><strong>MD - Maximum Decay</strong></td>
         <td>The maximum decay schedule of 60 days.</td>
     </tr>
     <tr>
