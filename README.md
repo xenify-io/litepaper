@@ -686,7 +686,7 @@ $$
     </tr>
     <tr>
         <td><strong>NB</strong><br>(Number of Batches)</td>
-        <td>The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.</td>
+        <td>The number of batches the user burns, influencing the discount in burn fees as the number of batches increases.</td>
     </tr>
 </table>
 
@@ -1020,7 +1020,7 @@ $$
     </tr>
     <tr>
         <td><strong>DS</strong><br>(Decay Schedule)</td>
-        <td>The Decay Schedule that was set based on the lock duration chosen by the user (days). This will scale from 1.15 days (minimum lock of one week) to 60 days (maximum lock of 1 year).</td>
+        <td>The Decay Schedule that was set based on the lock duration chosen by the user (days).</td>
     </tr>
 </table>
 
