@@ -630,8 +630,10 @@ $$
 
 **Where:**
 
-- $VP$ (Value Per Batch) - The value per batch that is set for the chain.
-- $ND$ (Number of Digits) - The count of digits preceding the decimal point in the price of the native gas token.
+- $VP$ **(Value Per Batch)** - The value per batch that is set for the chain.
+- $ND$ **(Number of Digits)** - The count of digits preceding the decimal point in the price of the native gas token.
+
+<br>
 
 Here’s how it works: The value per batch is calculated as 10 raised to the power of (2 - ND), where ND is the number of digits before the decimal place in the native token's price. This formula creates a batch value that remains consistent relative to the native token's price. When the native token value is high, the value per batch set at deployment will be proportionally lower to ensure an appropriate burn fee for the chain. 
 
@@ -661,11 +663,11 @@ $$
 
 **Where:**
 
-- $BF$ (Burn Fee) - The fee charged for the burn function, paid in the native token of the blockchain.
-- $FC$ (Time Coefficient) - A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.
-- $VB$ (Value of Batches) - The value of batches being burned by the user. The value per batch will be fixed and vary depending on the chain. 
-- $BC$ (Batch Coefficient) - A time-weighted coefficient used to factor in the discount based on the batches being burned.
-- $NB$ (Number of Batches) - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
+- $BF$ **(Burn Fee)** - The fee charged for the burn function, paid in the native token of the blockchain.
+- $FC$ **(Time Coefficient)** - A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.
+- $VB$ **(Value of Batches)** - The value of batches being burned by the user. The value per batch will be fixed and vary depending on the chain. 
+- $BC$ **(Batch Coefficient)** - A time-weighted coefficient used to factor in the discount based on the batches being burned.
+- $NB$ **(Number of Batches)** - The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.
 
 <br>
 
@@ -807,10 +809,10 @@ $$
 
 **Where:**
 
-- $XB$ (vXEN Burn Allocation) - The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.
-- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
-- $UX$ (vXEN Batches Burned by User) - The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.
-- $TX$ (Total vXEN Batches Burned) - The combined number of vXEN batches burned by all users during a cycle.
+- $XB$ **(vXEN Burn Allocation)** - The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.
+- $TD$ **(Total XNF Distributed)** - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $UX$ **(vXEN Batches Burned by User)** - The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.
+- $TX$ **(Total vXEN Batches Burned)** - The combined number of vXEN batches burned by all users during a cycle.
 
 <br>
 
@@ -826,10 +828,10 @@ $$
 
 **Where:**
 
-- $YB$ (YSL Burn Allocation) - The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.
-- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
-- $UY$ (YSL Batches Burned by User) - The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.
-- $TY$ (Total YSL Batches Burned) - The combined number of YSL batches burned by all users during a cycle.
+- $YB$ **(YSL Burn Allocation)** - The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.
+- $TD$ **(Total XNF Distributed)** - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $UY$ **(YSL Batches Burned by User)** - The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.
+- $TY$ **(Total YSL Batches Burned)** - The combined number of YSL batches burned by all users during a cycle.
 
 <br>
 
@@ -845,10 +847,10 @@ $$
 
 **Where:**
 
-- $SA$ (Swap Allocation) - The XNF allocation for a specific user based on their swap fee contributions during a cycle.
-- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
-- $US$ (User Swap Fees) - The swap fees paid by a specific user in a cycle.
-- $TS$ (Total Swap Fees) - The total swap fees paid in a cycle by all users.
+- $SA$ **(Swap Allocation)** - The XNF allocation for a specific user based on their swap fee contributions during a cycle.
+- $TD$ **(Total XNF Distributed)** - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $US$ **(User Swap Fees)** - The swap fees paid by a specific user in a cycle.
+- $TS$ **(Total Swap Fees)** - The total swap fees paid in a cycle by all users.
 
 <br>
 
@@ -866,10 +868,10 @@ $$
 
 **Where:**
 
-- $NA$ (Native Allocation) - The XNF allocation for a specific user based on their native token contributions during a cycle.
-- $TD$ (Total XNF Distributed) - The total number of XNF tokens that are distributed among users during a specific cycle.
-- $UN$ (User Native Contribution) - The number of batches contributed through native tokens by a specific user in a cycle.
-- $TN$ (Total Native Contributions) - The total number of batches contributed through native tokens in a cycle by all users.
+- $NA$ **(Native Allocation)** - The XNF allocation for a specific user based on their native token contributions during a cycle.
+- $TD$ **(Total XNF Distributed)** - The total number of XNF tokens that are distributed among users during a specific cycle.
+- $UN$ **(User Native Contribution)** - The number of batches contributed through native tokens by a specific user in a cycle.
+- $TN$ **(Total Native Contributions)** - The total number of batches contributed through native tokens in a cycle by all users.
 
 <br>
 
@@ -906,10 +908,10 @@ $$
 
 **Where:**
 
-- $DS$ (Decay Schedule) - The decay schedule for the veXNF earning power.
-- $MD$ (Maximum Decay Schedule) - The maximum decay schedule of 60 days.
-- $LD$ (Lock Duration) - The user’s chosen lock duration in days.
-- $ML$ (Maximum Lock) - The maximum lock duration of 365 days.
+- $DS$ **(Decay Schedule)** - The decay schedule for the veXNF earning power.
+- $MD$ **(Maximum Decay Schedule)** - The maximum decay schedule of 60 days.
+- $LD$ **(Lock Duration)** - The user’s chosen lock duration in days.
+- $ML$ **(Maximum Lock)** - The maximum lock duration of 365 days.
 
 <br>
 
@@ -925,10 +927,10 @@ $$
 
 **Where:**
 
-- $CP$ (Current veXNF Power) - The users' current earning power in percentage terms.
-- $IP$ (Initial veXNF Power) - An initial earning power of 100% is set by the protocol at the start of the Decay Schedule.
-- $TE$ (Time Elapsed) - The time that has elapsed since the Decay Schedule commenced (constrained to a maximum of 60 days).
-- $DS$ (Decay Schedule) - The Decay Schedule that was set based on the lock duration chosen by the user (days). This will scale from 1.15 days (minimum lock of one week) to 60 days (maximum lock of 1 year).
+- $CP$ **(Current veXNF Power)** - The users' current earning power in percentage terms.
+- $IP$ **(Initial veXNF Power)** - An initial earning power of 100% is set by the protocol at the start of the Decay Schedule.
+- $TE$ **(Time Elapsed)** - The time that has elapsed since the Decay Schedule commenced (constrained to a maximum of 60 days).
+- $DS$ **(Decay Schedule)** - The Decay Schedule that was set based on the lock duration chosen by the user (days). This will scale from 1.15 days (minimum lock of one week) to 60 days (maximum lock of 1 year).
 
 <br>
 
