@@ -634,13 +634,13 @@ $$
                                                                                 
 <table>
     <tr>
-        <td style="font-weight: normal;">$VP$</td>
-        <td style="font-weight: normal;">Value Per Batch</td>
-        <td style="font-weight: normal;">The value per batch that is set for the chain.</td>
+        <td style="font-weight: bold;">$VP$</td>
+        <td style="font-weight: bold;">Value Per Batch</td>
+        <td>The value per batch that is set for the chain.</td>
     </tr>
     <tr>
-        <td>$ND$</td>
-        <td>Number of Digits</td>
+        <td style="font-weight: bold;">$ND$</td>
+        <td style="font-weight: bold;">Number of Digits</td>
         <td>The count of digits preceding the decimal point in the price of the native gas token.</td>
     </tr>
 </table>
@@ -679,28 +679,28 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$BF$</td>
-        <td style="font-weight: normal;">Burn Fee</td>
-        <td style="font-weight: normal;">The fee charged for the burn function, paid in the native token of the blockchain.</td>
+        <td style="font-weight: bold;">$BF$</td>
+        <td style="font-weight: bold;">Burn Fee</td>
+        <td>The fee charged for the burn function, paid in the native token of the blockchain.</td>
     </tr>
     <tr>
-        <td>$FC$</td>
-        <td>Time Coefficient</td>
+        <td style="font-weight: bold;">$FC$</td>
+        <td style="font-weight: bold;">Time Coefficient</td>
         <td>A time-weighted coefficient used to factor in a discount based on when the burn is being executed during a cycle.</td>
     </tr>
     <tr>
-        <td>$VB$</td>
-        <td>Value of Batches</td>
+        <td style="font-weight: bold;">$VB$</td>
+        <td style="font-weight: bold;">Value of Batches</td>
         <td>The value of batches being burned by the user. The value per batch will be fixed and vary depending on the chain.</td>
     </tr>
     <tr>
-        <td>$BC$</td>
-        <td>Batch Coefficient</td>
+        <td style="font-weight: bold;">$BC$</td>
+        <td style="font-weight: bold;">Batch Coefficient</td>
         <td>A time-weighted coefficient used to factor in the discount based on the batches being burned.</td>
     </tr>
     <tr>
-        <td>$NB$</td>
-        <td>Number of Batches</td>
+        <td style="font-weight: bold;">$NB$</td>
+        <td style="font-weight: bold;">Number of Batches</td>
         <td>The number of batches the user burns, influencing the discount in burn fees as the number of batches increases. This will be capped at 10,000 batches.</td>
     </tr>
 </table>
@@ -849,23 +849,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$XB$</td>
-        <td style="font-weight: normal;">vXEN Burn Allocation</td>
-        <td style="font-weight: normal;">The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
+        <td style="font-weight: bold;">$XB$</td>
+        <td style="font-weight: bold;">vXEN Burn Allocation</td>
+        <td>The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td>$TD$</td>
-        <td>Total XNF Distributed</td>
+        <td style="font-weight: bold;">$TD$</td>
+        <td style="font-weight: bold;">Total XNF Distributed</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td>$UX$</td>
-        <td>vXEN Batches Burned by User</td>
+        <td style="font-weight: bold;">$UX$</td>
+        <td style="font-weight: bold;">vXEN Batches Burned by User</td>
         <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td>$TX$</td>
-        <td>Total vXEN Batches Burned</td>
+        <td style="font-weight: bold;">$TX$</td>
+        <td style="font-weight: bold;">Total vXEN Batches Burned</td>
         <td>The combined number of vXEN batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -888,23 +888,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$YB$</td>
-        <td style="font-weight: normal;">YSL Burn Allocation</td>
-        <td style="font-weight: normal;">The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
+        <td style="font-weight: bold;">$YB$</td>
+        <td style="font-weight: bold;">YSL Burn Allocation</td>
+        <td>The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td>$TD$</td>
-        <td>Total XNF Distributed</td>
+        <td style="font-weight: bold;">$TD$</td>
+        <td style="font-weight: bold;">Total XNF Distributed</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td>$UY$</td>
-        <td>YSL Batches Burned by User</td>
+        <td style="font-weight: bold;">$UY$</td>
+        <td style="font-weight: bold;">YSL Batches Burned by User</td>
         <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td>$TY$</td>
-        <td>Total YSL Batches Burned</td>
+        <td style="font-weight: bold;">$TY$</td>
+        <td style="font-weight: bold;">Total YSL Batches Burned</td>
         <td>The combined number of YSL batches burned by all users during a cycle.</td>
     </tr>
 </table>
@@ -927,23 +927,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$SA$</td>
-        <td style="font-weight: normal;">Swap Allocation</td>
-        <td style="font-weight: normal;">The XNF allocation for a specific user based on their swap fee contributions during a cycle.</td>
+        <td style="font-weight: bold;">$SA$</td>
+        <td style="font-weight: bold;">Swap Allocation</td>
+        <td>The XNF allocation for a specific user based on their swap fee contributions during a cycle.</td>
     </tr>
     <tr>
-        <td>$TD$</td>
-        <td>Total XNF Distributed</td>
+        <td style="font-weight: bold;">$TD$</td>
+        <td style="font-weight: bold;">Total XNF Distributed</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td>$US$</td>
-        <td>User Swap Fees</td>
+        <td style="font-weight: bold;">$US$</td>
+        <td style="font-weight: bold;">User Swap Fees</td>
         <td>The swap fees paid by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td>$TS$</td>
-        <td>Total Swap Fees</td>
+        <td style="font-weight: bold;">$TS$</td>
+        <td style="font-weight: bold;">Total Swap Fees</td>
         <td>The total swap fees paid in a cycle by all users.</td>
     </tr>
 </table>
@@ -968,23 +968,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$NA$</td>
-        <td style="font-weight: normal;">Native Allocation</td>
-        <td style="font-weight: normal;">The XNF allocation for a specific user based on their native token contributions during a cycle.</td>
+        <td style="font-weight: bold;">$NA$</td>
+        <td style="font-weight: bold;">Native Allocation</td>
+        <td>The XNF allocation for a specific user based on their native token contributions during a cycle.</td>
     </tr>
     <tr>
-        <td>$TD$</td>
-        <td>Total XNF Distributed</td>
+        <td style="font-weight: bold;">$TD$</td>
+        <td style="font-weight: bold;">Total XNF Distributed</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td>$UN$</td>
-        <td>User Native Contribution</td>
+        <td style="font-weight: bold;">$UN$</td>
+        <td style="font-weight: bold;">User Native Contribution</td>
         <td>The number of batches contributed through native tokens by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td>$TN$</td>
-        <td>Total Native Contributions</td>
+        <td style="font-weight: bold;">$TN$</td>
+        <td style="font-weight: bold;">Total Native Contributions</td>
         <td>The total number of batches contributed through native tokens in a cycle by all users.</td>
     </tr>
 </table>
@@ -1027,23 +1027,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$DS$</td>
-        <td style="font-weight: normal;">Decay Schedule</td>
-        <td style="font-weight: normal;">The decay schedule for the veXNF earning power.</td>
+        <td style="font-weight: bold;">$DS$</td>
+        <td style="font-weight: bold;">Decay Schedule</td>
+        <td>The decay schedule for the veXNF earning power.</td>
     </tr>
     <tr>
-        <td>$MD$</td>
-        <td>Maximum Decay Schedule</td>
+        <td style="font-weight: bold;">$MD$</td>
+        <td style="font-weight: bold;">Maximum Decay Schedule</td>
         <td>The maximum decay schedule of 60 days.</td>
     </tr>
     <tr>
-        <td>$LD$</td>
-        <td>Lock Duration</td>
+        <td style="font-weight: bold;">$LD$</td>
+        <td style="font-weight: bold;">Lock Duration</td>
         <td>The user’s chosen lock duration in days.</td>
     </tr>
     <tr>
-        <td>$ML$</td>
-        <td>Maximum Lock</td>
+        <td style="font-weight: bold;">$ML$</td>
+        <td style="font-weight: bold;">Maximum Lock</td>
         <td>The maximum lock duration of 365 days.</td>
     </tr>
 </table>
