@@ -818,69 +818,69 @@ For instance, if the daily minted amount of XNF tokens is 20,000, the distributi
 
 To ascertain each user's share of the daily mint, the protocol will perform a series of calculations. These calculations will be based on the contributions made by a user to each component during the cycle. The protocol will consolidate these contributions to accurately compute the total XNF distribution for each user. This methodical approach ensures an equitable distribution, crediting both the user's active engagement in token burns and their contribution in terms of native tokens and swap fees. Keep in mind, the XNF earned through native contributions and the swap fee will be distributed as veXNF.
 
-The protocol calculates your share of the daily XNF allocated to the vXEN burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of vXEN batches burned during the cycle (TX), and the number of vXEN batches you burned during the cycle (UX). Here's the formula for the vXEN burn allocation (XB) explained in detail:
+The protocol calculates your share of the daily XNF allocated to the vXEN burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of vXEN batches burned during the cycle (TB), and the number of vXEN batches you burned during the cycle (BB). Here's the formula for the vXEN burn allocation (XBA) explained in detail:
 
 <br>
 
 $$
-XB = (TD \div 4) \times (UX \div TX)
+XBA = (TD \div 4) \times (BB \div TB)
 $$
 
 <br>
 
 <table>
     <tr>
-        <td><strong>XB</strong><br>(vXEN Burn Allocation)</td>
+        <td><strong>XBA</strong><br>(Burn Allocation)</td>
         <td>The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TD</strong><br>(Total XNF Distributed)</td>
+        <td><strong>TD</strong><br>(Total Distributed)</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>UX</strong><br>(vXEN Batches Burned by User)</td>
+        <td><strong>BB</strong><br>(Batches Burned)</td>
         <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td><strong>TX</strong><br>(Total vXEN Batches Burned)</td>
+        <td><strong>TB</strong><br>(Total Batches)</td>
         <td>The combined number of vXEN batches burned by all users during a cycle.</td>
     </tr>
 </table>
 
 <br>
 
-Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XB) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (UX) to the total vXEN batches burned by all users (TX). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XB). The calculation for the YSL burn allocation (YB) follows the same logic, as outlined in the formula below:
+Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XB) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic, as outlined in the formula below:
 
 <br>
 
 $$
-YB = (TD \div 4) \times (UY \div TY)
+YBA = (TD \div 4) \times (BB \div TB)
 $$
 
 <br>
 
 <table>
     <tr>
-        <td><strong>YB</strong><br>(YSL Burn Allocation)</td>
+        <td><strong>YB</strong><br>(Burn Allocation)</td>
         <td>The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TD</strong><br>(Total XNF Distributed)</td>
+        <td><strong>TD</strong><br>(Total Distributed)</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>UY</strong><br>(YSL Batches Burned by User)</td>
+        <td><strong>BB</strong><br>(Batches Burned)</td>
         <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
-        <td><strong>TY</strong><br>(Total YSL Batches Burned)</td>
+        <td><strong>TB</strong><br>(Total Batches)</td>
         <td>The combined number of YSL batches burned by all users during a cycle.</td>
     </tr>
 </table>
 
 <br>
 
-Similarly, the protocol calculates your swap allocation (SA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total swap fees paid by all users during the cycle (TS), and the swap fees paid by you during the cycle (US). Here's the formula explained in detail:
+Similarly, the protocol calculates your swap allocation (SA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total swap fees paid by all users during the cycle (TSF), and the swap fees paid by you during the cycle (USF). Here's the formula explained in detail:
 
 <br>
 
@@ -896,24 +896,24 @@ $$
         <td>The XNF allocation for a specific user based on their swap fee contributions during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TD</strong><br>(Total XNF Distributed)</td>
+        <td><strong>TD</strong><br>(Total Distributed)</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>US</strong><br>(User Swap Fees)</td>
+        <td><strong>USF</strong><br>(User Swap Fees)</td>
         <td>The swap fees paid by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TS</strong><br>(Total Swap Fees)</td>
+        <td><strong>TSF</strong><br>(Total Swap Fees)</td>
         <td>The total swap fees paid in a cycle by all users.</td>
     </tr>
 </table>
  
 <br>
 
-Here’s how it works: The protocol calculates the user's swap contribution (SC) by first dividing the total XNF tokens distributed (TD) by 4, as 25% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (US) to the total swap fees (TS) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
+Here’s how it works: The protocol calculates the user's swap contribution (SA) by first dividing the total XNF tokens distributed (TD) by 4, as 25% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TS) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
 
-Utilising a similar logic, the protocol will calculate your share of the native allocation (NA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total batches contributed through native tokens by all users during the cycle (TN), and the number of batches contributed with native tokens by you during the cycle (UN). Here's the formula explained in detail:
+Utilising a similar logic, the protocol will calculate your share of the native allocation (NA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total batches contributed through native tokens by all users during the cycle (TNC), and the number of batches contributed with native tokens by you during the cycle (UNC). Here's the formula explained in detail:
 
 <br>
 
@@ -929,15 +929,15 @@ $$
         <td>The XNF allocation for a specific user based on their native token contributions during a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TD</strong><br>(Total XNF Distributed)</td>
+        <td><strong>TD</strong><br>(Total Distributed)</td>
         <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
     </tr>
     <tr>
-        <td><strong>UN</strong><br>(User Native Contribution)</td>
+        <td><strong>UNC</strong><br>(User Native Contribution)</td>
         <td>The number of batches contributed through native tokens by a specific user in a cycle.</td>
     </tr>
     <tr>
-        <td><strong>TN</strong><br>(Total Native Contributions)</td>
+        <td><strong>TNC</strong><br>(Total Native Contributions)</td>
         <td>The total number of batches contributed through native tokens in a cycle by all users.</td>
     </tr>
 </table>
@@ -1007,11 +1007,11 @@ $$
 
 <table>
     <tr>
-        <td><strong>CP</strong><br>(Current veXNF Power)</td>
+        <td><strong>CP</strong><br>(Current Power)</td>
         <td>The users' current veXNF earning power in percentage terms.</td>
     </tr>
     <tr>
-        <td><strong>IP</strong><br>(Initial veXNF Power)</td>
+        <td><strong>IP</strong><br>(Initial Power)</td>
         <td>An initial veXNF earning power of 100% is set by the protocol at the start of the Decay Schedule.</td>
     </tr>
     <tr>
