@@ -1066,23 +1066,23 @@ $$
 
 <table>
     <tr>
-        <td style="font-weight: normal;">$CP$</td>
-        <td style="font-weight: normal;">Current veXNF Power</td>
-        <td style="font-weight: normal;">The users' current earning power in percentage terms.</td>
+        <td style="font-weight: bold;">$CP$</td>
+        <td style="font-weight: bold;">Current veXNF Power</td>
+        <td>The users' current earning power in percentage terms.</td>
     </tr>
     <tr>
-        <td>$IP$</td>
-        <td>Initial veXNF Power</td>
+        <td style="font-weight: bold;">$IP$</td>
+        <td style="font-weight: bold;">Initial veXNF Power</td>
         <td>An initial earning power of 100% is set by the protocol at the start of the Decay Schedule.</td>
     </tr>
     <tr>
-        <td>$TE$</td>
-        <td>Time Elapsed</td>
+        <td style="font-weight: bold;">$TE$</td>
+        <td style="font-weight: bold;">Time Elapsed</td>
         <td>The time that has elapsed since the Decay Schedule commenced (constrained to a maximum of 60 days).</td>
     </tr>
     <tr>
-        <td>$DS$</td>
-        <td>Decay Schedule</td>
+        <td style="font-weight: bold;">$DS$</td>
+        <td style="font-weight: bold;">Decay Schedule</td>
         <td>The Decay Schedule that was set based on the lock duration chosen by the user (days). This will scale from 1.15 days (minimum lock of one week) to 60 days (maximum lock of 1 year).</td>
     </tr>
 </table>
