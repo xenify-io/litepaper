@@ -812,11 +812,28 @@ $$
 
 **Where:**
 
-| $XB$ **(vXEN Burn Allocation)**        | The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.                                                              |
-|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| $TD$ **(Total XNF Distributed)**       | The total number of XNF tokens that are distributed among users during a specific cycle.                                                                |
-| $UX$ **(vXEN Batches Burned by User)** | The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.                                      |
-| $TX$ **(Total vXEN Batches Burned)**   | The combined number of vXEN batches burned by all users during a cycle.                                                                                 |
+<table>
+    <tr>
+        <td style="font-weight: normal;">$XB$</td>
+        <td style="font-weight: normal;">(vXEN Burn Allocation)</td>
+        <td style="font-weight: normal;">The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
+    </tr>
+    <tr>
+        <td>$TD$</td>
+        <td>(Total XNF Distributed)</td>
+        <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
+    </tr>
+    <tr>
+        <td>$UX$</td>
+        <td><b>(vXEN Batches Burned by User)</b></td>
+        <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
+    </tr>
+    <tr>
+        <td>$TX$</td>
+        <td><b>(Total vXEN Batches Burned)</b></td>
+        <td>The combined number of vXEN batches burned by all users during a cycle.</td>
+    </tr>
+</table>
 
 <br>
 
@@ -832,11 +849,28 @@ $$
 
 **Where:**
 
-| $YB$ **(YSL Burn Allocation)**        | The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.                          |
-|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| $TD$ **(Total XNF Distributed)**      | The total number of XNF tokens that are distributed among users during a specific cycle.                           |
-| $UY$ **(YSL Batches Burned by User)** | The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.  |
-| $TY$ **(Total YSL Batches Burned)**   | The combined number of YSL batches burned by all users during a cycle.                                             |
+<table>
+    <tr>
+        <td style="font-weight: normal;">$YB$</td>
+        <td style="font-weight: normal;">(YSL Burn Allocation)</td>
+        <td style="font-weight: normal;">The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
+    </tr>
+    <tr>
+        <td>$TD$</td>
+        <td>(Total XNF Distributed)</td>
+        <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
+    </tr>
+    <tr>
+        <td>$UY$</td>
+        <td><b>(YSL Batches Burned by User)</b></td>
+        <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
+    </tr>
+    <tr>
+        <td>$TY$</td>
+        <td><b>(Total YSL Batches Burned)</b></td>
+        <td>The combined number of YSL batches burned by all users during a cycle.</td>
+    </tr>
+</table>
 
 <br>
 
@@ -852,11 +886,28 @@ $$
 
 **Where:**
 
-| $SA$ **(Swap Allocation)**             | The XNF allocation for a specific user based on their swap fee contributions during a cycle.                        |
-|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| $TD$ **(Total XNF Distributed)**       | The total number of XNF tokens that are distributed among users during a specific cycle.                            |
-| $US$ **(User Swap Fees)**              | The swap fees paid by a specific user in a cycle.                                                                   |
-| $TS$ **(Total Swap Fees)**             | The total swap fees paid in a cycle by all users.                                                                   |
+<table>
+    <tr>
+        <td style="font-weight: normal;">$SA$</td>
+        <td style="font-weight: normal;">(Swap Allocation)</td>
+        <td style="font-weight: normal;">The XNF allocation for a specific user based on their swap fee contributions during a cycle.</td>
+    </tr>
+    <tr>
+        <td>$TD$</td>
+        <td>(Total XNF Distributed)</td>
+        <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
+    </tr>
+    <tr>
+        <td>$US$</td>
+        <td><b>(User Swap Fees)</b></td>
+        <td>The swap fees paid by a specific user in a cycle.</td>
+    </tr>
+    <tr>
+        <td>$TS$</td>
+        <td><b>(Total Swap Fees)</b></td>
+        <td>The total swap fees paid in a cycle by all users.</td>
+    </tr>
+</table>
  
 <br>
 
