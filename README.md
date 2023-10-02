@@ -626,11 +626,7 @@ $$
 VP = 10 ^ {2 - ND}
 $$
 
-<br>
-
 **Where:**
-
-<br>
                                                                                 
 <table>
     <tr>
@@ -671,11 +667,7 @@ $$
 BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -841,11 +833,7 @@ $$
 XB = (TD \div 4) \times (UX \div TX)
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -880,11 +868,7 @@ $$
 YB = (TD \div 4) \times (UY \div TY)
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -919,11 +903,7 @@ $$
 SA = (TD \div 4) \times (US \div TS)
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -960,11 +940,7 @@ $$
 NA = (TD \div 4) \times (UN \div TN)
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -1019,11 +995,7 @@ $$
 DS = (LD \div ML) \times MD
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
@@ -1058,11 +1030,7 @@ $$
 CP = IP \times (1 - (TE \div DS))
 $$
 
-<br>
-
 **Where:**
-
-<br>
 
 <table>
     <tr>
