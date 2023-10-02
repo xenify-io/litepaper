@@ -95,7 +95,7 @@ At Xenify, we're not content with the status quo! Our unyielding ambition has le
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Fairness 
-  
+
   - We believe in creating a fair and level playing field where every user has an equal opportunity to thrive. Xenify promotes equitable token distribution and guarantees equal access to the protocol, leaving no room for favouritism towards founders, team members, or investors.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
