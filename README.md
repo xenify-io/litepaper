@@ -645,6 +645,19 @@ $$
     </tr>
 </table>
 
+<table>
+    <tr>
+        <td><strong>$VP$</strong></td>
+        <td><strong>Value Per Batch</strong></td>
+        <td>The value per batch that is set for the chain.</td>
+    </tr>
+    <tr>
+        <td><strong>$ND$</strong></td>
+        <td><strong>Number of Digits</strong></td>
+        <td>The count of digits preceding the decimal point in the price of the native gas token.</td>
+    </tr>
+</table>
+
 <br>
 
 Here’s how it works: The value per batch is calculated as 10 raised to the power of (2 - ND), where ND is the number of digits before the decimal place in the native token's price. This formula creates a batch value that remains consistent relative to the native token's price. When the native token value is high, the value per batch set at deployment will be proportionally lower to ensure an appropriate burn fee for the chain. 
