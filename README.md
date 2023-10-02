@@ -626,7 +626,7 @@ $$
 VP = 10 ^ {2 - ND}
 $$
 
-**Where:**
+<br>
                                                                                 
 <table>
     <tr>
@@ -667,7 +667,7 @@ $$
 BF = (FC \times VB) \times (1 - (NB \times BC))
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -833,7 +833,7 @@ $$
 XB = (TD \div 4) \times (UX \div TX)
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -868,7 +868,7 @@ $$
 YB = (TD \div 4) \times (UY \div TY)
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -903,7 +903,7 @@ $$
 SA = (TD \div 4) \times (US \div TS)
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -940,7 +940,7 @@ $$
 NA = (TD \div 4) \times (UN \div TN)
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -995,7 +995,7 @@ $$
 DS = (LD \div ML) \times MD
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
@@ -1005,7 +1005,7 @@ $$
     </tr>
     <tr>
         <td><strong>$MD$</strong></td>
-        <td><strong>Maximum Decay Schedule</strong></td>
+        <td><strong>Maximum Decay</strong></td>
         <td>The maximum decay schedule of 60 days.</td>
     </tr>
     <tr>
@@ -1030,7 +1030,7 @@ $$
 CP = IP \times (1 - (TE \div DS))
 $$
 
-**Where:**
+<br>
 
 <table>
     <tr>
