@@ -269,7 +269,7 @@ Here's a concise breakdown of our deployment chains and their unique identifiers
 <br>
 
 | Num | Identifiers       | Chains                |
-|-----|-------------------|-----------------------|
+|:----|:------------------|:----------------------|
 | 1   | YSL               | Arbitrum              |
 | 2   | eYSL              | Ethereum              |
 | 3   | bYSL              | BNB Chain             |
@@ -689,7 +689,7 @@ As illustrated in the table below, the Time Coefficient starts at 50% when a cyc
 <br>
 
 | Hour | Time Coefficient (FC)     |
-|------|---------------------------|
+|:-----|:--------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
 | 3    | 54.35%                    |
@@ -726,7 +726,7 @@ The table below illustrates how the value of the coefficient changes during a 24
 <br>
 
 | Hour | Batch Coefficient (BC)    |
-|------|---------------------------|
+|:-----|:--------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
 | 3    | 0.000045                  |
