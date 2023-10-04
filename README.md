@@ -1396,7 +1396,14 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ How is token allocation managed if there are no veXNF holders by the end of a cycle?
-- f a cycle ends without any veXNF holders, the protocol adjusts the token distribution. Specifically, 10% is allocated to the team, another 10% is set aside for buybacks, and the majority, 80%, is channeled into protocol-owned liquidity. This adjustment means that the tokens initially earmarked for veXNF holders, which represent 40%, are combined with the subsequent 40%. As a result, there's a consolidated 80% contribution to the protocol-owned liquidity by the end of that cycle.
+  - f a cycle ends without any veXNF holders, the protocol adjusts the token distribution. Specifically, 10% is allocated to the team, another 10% is set aside for buybacks, and the majority, 80%, is channeled into protocol-owned liquidity. This adjustment means that the tokens initially earmarked for veXNF holders, which represent 40%, are combined with the subsequent 40%. As a result, there's a consolidated 80% contribution to the protocol-owned liquidity by the end of that cycle.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ If I choose to lock my XNF with an initial lock period of 7 days and a decay schedule of 1.15 days, and then extend this lock daily, will the earning power of my veXNF remain at 100% throughout the entire cycle? Or will it experience decay?
+  - The earning power of your veXNF will not equate to that of a continuous 1-year lock. Specifically, if you were to lock the same amount of XNF as someone else, but they chose a 1-year lock while you opted for daily extensions, your earning power would be approximately 52 times less than theirs over the course of a year.
+
+  - To illustrate, let's consider locking 1000 XNF. For a one-year lock, you'd receive 1000 veXNF. In contrast, a six-month lock would grant you 500 veXNF. It's essential to understand that while the amount of veXNF you receive is based on the lock duration, the earning power of that veXNF is what decays over time.
 
 <br>
 
