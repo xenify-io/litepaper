@@ -1558,7 +1558,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
- - [Evmos](https://escan.live/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
+ - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
@@ -1577,10 +1577,10 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 <br>
 
-- <https://xenify.io>
-- <https://t.me/xenify_io>
-- <https://medium.com/xenify>
-- <https://twitter.com/xenify_io>
-- <https://www.youtube.com/@xenify-io>
+- [Xenify Website](https://xenify.io)
+- [Xenify Twitter](https://twitter.com/xenify_io)
+- [Xenify Youtube](https://www.youtube.com/@xenify-io)
+- [Xenify Medium](https://medium.com/xenify)
+- [Xenify Telegram](https://t.me/xenify_io)
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
