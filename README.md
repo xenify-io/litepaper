@@ -1381,7 +1381,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️What happens to the rewards if there are no veXNF holders?
+## ◽️ What happens to the rewards if there are no veXNF holders?
 - If there are no veXNF holders at the end of the cycle, the native rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
@@ -1400,7 +1400,7 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ f I opt to lock my XNF for an initial period of 7 days, with a decay schedule of 1.15 days, and then decide to extend this lock on a daily basis, how does the earning power of my veXNF compare to a continuous 1-year lock?
+## ◽️ If I opt to lock my XNF for an initial period of 7 days, with a decay schedule of 1.15 days, and then decide to extend this lock on a daily basis, how does the earning power of my veXNF compare to a continuous 1-year lock?
   - Your approach to locking XNF will result in a different earning power for your veXNF compared to a straightforward 1-year lock. If you and another user were to lock the same amount of XNF, but the other user chooses a 1-year lock while you go for the daily extensions, your veXNF's earning power would be significantly diminished—approximately 52 times less over a year.
 
   - For clarity, consider locking 1000 XNF. A direct one-year lock would yield 1000 veXNF. On the other hand, a six-month lock would provide 500 veXNF. The key takeaway is that the quantity of veXNF you obtain is directly tied to the lock duration. However, the actual earning power of the veXNF diminishes or decays over time, especially when not locked continuously for longer durations.
