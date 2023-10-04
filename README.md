@@ -35,6 +35,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
 - [Xenify Tokenomics](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-tokenomics)
 - [Deployment Schedule](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-deployment-schedule)
+- [XNF Liquidity (Uniswap V3 Integration)](https://github.com/xenify-io/litepaper/edit/main/README.md#%EF%B8%8F-xnf-liquidity-uniswap-v3-integration)
 - [XNF Minting Process and Incentives](https://github.com/xenify-io/litepaper/blob/main/README.md#%EF%B8%8F-xnf-minting-process-and-incentives)
 - [Xenify Architecture](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-architecture)
 - [XNF Airdrops](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf-airdrops)
@@ -570,6 +571,29 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
 | BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ XNF Liquidity (Uniswap V3 Integration)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+As our protocol integrates the Uniswap V3 pool, we're taking a monumental step forward. This integration represents our dedication to leveraging the latest advancements in decentralized finance and offering our users unparalleled trading opportunities.
+Following the completion of the first cycle, we are thrilled to introduce the XNF-ETH trading pair. This strategic decision not only enhances the liquidity options available to our users but also solidifies our position in the market.
+
+The initial price for this pair is steadfastly set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. If there's a notable increase in ETH acquisition during the subsequent cycles, the price is poised to rise beyond the $1.00 threshold. To maintain balance, any XNF exceeding this listing price will be systematically burnt. Conversely, if the ETH gathered during a cycle doesn't reach the anticipated $10k—a value embedded at deployment—the price will be adjusted to match 10k XNF. In such an event, the surplus 90k XNF will be burnt to guarantee stability.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⭐️ Subsequent Cycles and Protocol-Owned Liquidity
+
+Starting from the second cycle, our dedication to ensuring liquidity is unwavering. We will persistently infuse protocol-owned liquidity. The avenues for this liquidity are diverse, stemming from ETH acquired through burn fees, native fees, swap fees, and recycling activities. Within this liquidity framework, 50% of the ETH is allocated for XNF acquisition. The procured XNF is then coupled with the remaining ETH to create a robust, full-range liquidity pool. It's imperative to highlight that, regardless of the cycle, a consistent 1% trading fee is levied on all transactions within this protocol-owned liquidity pool.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⭐️ Daily Rewards and veXNF
+
+Our protocol distinguishes itself by offering daily rewards to recyclers. These rewards, presented as claimable veXNF, are sourced directly from the XNF buybacks conducted during each cycle. The reward quantum is determined based on the ETH contributions of individual recyclers for that specific cycle. It's vital to note that these rewards come with a stipulation—they are locked for a 1-year period, ensuring sustained commitment and stability.
 
 <br>
 
