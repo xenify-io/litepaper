@@ -28,7 +28,8 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Key Features](https://github.com/xenify-io/litepaper#%EF%B8%8F-key-features)
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
-- [vXEN - Unifying the Chains](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-chains)
+- [vXEN - Unifying the Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns)
+- [Bridging XEN - Unifying the Chains](https://github.com/xenify-io/litepaper#%EF%B8%8F-bridging-xen---unifying-the-chains)
 - [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl---hyper-deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
 - [Xenify Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xenify-overview)
@@ -233,7 +234,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - Unifying the Chains
+# ◽️ vXEN - Unifying the Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -247,6 +248,34 @@ Once you have your vXEN tokens, you have the flexibility to either participate i
 To enable a seamless cross-chain bridging of vXEN, Xenify has integrated LayerZero as the primary bridging protocol, with fallback support from Axelar and Wormhole if the situation demands. By leveraging multiple purpose-built decentralized solutions, Xenify ensures robust interoperability between chains.
 
 In short, vXEN unlocks frictionless multi-chain participation for users while documenting their XEN burns transparently on-chain, providing cross-chain accessibility that supports the growth of the Xenify ecosystem.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Bridging XEN - Unifying the Chains
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+The concept of bridging tokens between chains is not new, but the vXEN contract introduces a more user-friendly approach for XEN tokens. Instead of the traditional method of burning tokens, the vXEN contract retains the XEN on the originating chain. At the same time, an equivalent amount of wrapped XEN is minted on the target chain. This method ensures that the total supply of XEN remains constant, allowing users to move their assets across chains seamlessly. Once the wrapped tokens are on an alternate chain, users have the option to bridge them back to the original chain. 
+
+To facilitate this, the wrapped XEN on the alternate chain is burned. Recognizing this action, the vXEN contract on the original chain releases the equivalent retained XEN back to the user's account. For instance, when the vXEN contract is deployed on the BNB Chain, it's tailored specifically to bridge between vXEN (from Ethereum) and bXEN (on BNB Chain). The contract itself doesn't mint vXEN, as that responsibility is reserved for the Ethereum chain. 
+
+However, the overarching goal of the vXEN contract is to ensure that users from various XEN chains, such as bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes, but is not limited to, facilitating transactions between different XEN versions on various chains.
+
+<br>
+
+| Num | Identifiers       | Chains                |
+|:----|:------------------|:----------------------|
+| 1   | XEN               | Ethereum              |
+| 2   | bXEN              | BNB Chain             |
+| 3   | opXEN             | Optimism              |
+| 4   | mbXEN             | Moonbeam              |
+| 5   | okXEN             | OKT (OKX)             |
+| 6   | aXEN              | Avalanche             |
+| 7   | mXEN              | Polygon               |
+| 8   | fmXEN             | Fantom                |
+| 9   | cbXEN             | Base                  |
 
 <br>
 
