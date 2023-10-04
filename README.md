@@ -1329,6 +1329,13 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Why will XNF appreciate in value?
+  - The value of XNF holds the potential to appreciate significantly due to Xenify’s innovative tokenomics, thriving ecosystem, and the increasing demand for native rewards. With Xenify's cutting-edge cross-chain aggregator, users can enjoy seamless token swapping and engage in various rewarding activities, which drives protocol adoption and ultimately the value of XNF.
+
+  - Additionally, the scarcity of XNF tokens, brought about by halving events, is likely to boost the token's value as more users choose Xenify as their preferred platform for swapping tokens. This will lead to more native rewards for veXNF holders, resulting in a growing demand for XNF tokens. Consequently, the token value is poised to rise due to demand, cementing Xenify's position as a promising project within the XEN ecosystem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ What does the recycle button do?
   - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional fees.
 
@@ -1340,20 +1347,13 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Why will XNF appreciate in value?
-  - The value of XNF holds the potential to appreciate significantly due to Xenify’s innovative tokenomics, thriving ecosystem, and the increasing demand for native rewards. With Xenify's cutting-edge cross-chain aggregator, users can enjoy seamless token swapping and engage in various rewarding activities, which drives protocol adoption and ultimately the value of XNF.
-
-  - Additionally, the scarcity of XNF tokens, brought about by halving events, is likely to boost the token's value as more users choose Xenify as their preferred platform for swapping tokens. This will lead to more native rewards for veXNF holders, resulting in a growing demand for XNF tokens. Consequently, the token value is poised to rise due to demand, cementing Xenify's position as a promising project within the XEN ecosystem.
+## ◽️ How do I generate rewards with Xenify?
+  - Xenify offers users the opportunity to earn rewards like ETH, BNB, and MATIC on a daily basis by staking XNF tokens. These rewards are distributed among veXNF holders based on their veXNF balance and the power associated with their veXNF. This incentive model not only encourages active participation but also plays a vital role in fostering the long-term growth and sustainability of the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I lock XNF now when can I unlock them?
   - When you choose to lock your XNF, you'll have the opportunity to select a staking cycle that suits your preferences, ranging from a minimum of 1 week to a maximum of 1 year. It's important to note that once you begin the staking cycle, your XNF tokens will be locked, and you won't be able to unlock them until the cycle is completed. Once your chosen staking cycle comes to an end, you'll have the freedom to unlock your XNF tokens, reclaiming full ownership and control over them. By participating in staking, you contribute to the overall health of our ecosystem, and in return, you have the opportunity to earn native rewards on a daily basis!
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ How do I generate rewards with Xenify?
-  - Xenify offers users the opportunity to earn rewards like ETH, BNB, and MATIC on a daily basis by staking XNF tokens. These rewards are distributed among veXNF holders based on their veXNF balance and the power associated with their veXNF. This incentive model not only encourages active participation but also plays a vital role in fostering the long-term growth and sustainability of the protocol.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1373,6 +1373,16 @@ We understand that you may have questions about Xenify, its features, and its po
   - Engage in direct burns of vXEN or YSL to acquire XNF.
   - Lock XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
   - Contribute to the protocol's growth through community initiatives.
+ 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ What happens if no recyclers participate in a given cycle?
+- In scenarios where no recyclers participate in a specific cycle, the rewards, which are typically distributed as veXNF, are proportionally allocated based on each recycler's contribution from previous cycles. These rewards come with a 1-year lock. However, if a cycle experiences a complete absence of recyclers, the accumulated XNF for that cycle will be rolled over to the subsequent cycle, where it awaits distribution to future recyclers.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️What happens to the rewards if there are no veXNF holders?
+- If there are no veXNF holders at the end of the cycle, the native rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1385,8 +1395,8 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️What happens to the rewards if there are no veXNF holders?
-- If there are no veXNF holders at the end of the cycle, the native rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
+## ◽️ How is token allocation managed if there are no veXNF holders by the end of a cycle?
+- f a cycle ends without any veXNF holders, the protocol adjusts the token distribution. Specifically, 10% is allocated to the team, another 10% is set aside for buybacks, and the majority, 80%, is channeled into protocol-owned liquidity. This adjustment means that the tokens initially earmarked for veXNF holders, which represent 40%, are combined with the subsequent 40%. As a result, there's a consolidated 80% contribution to the protocol-owned liquidity by the end of that cycle.
 
 <br>
 
