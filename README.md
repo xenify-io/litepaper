@@ -1358,11 +1358,9 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I lock XNF now when will I receive rewards?
-  - When you lock your XNF, you receive a unique ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your locked XNF in the protocol and, more importantly, indicates your earning power - influencing your share of native rewards.
-
-  - The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period. This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer.
-
-  - Throughout each cycle, rewards generated from the burn fees and swap fees accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their locked XNF tokens and it’s associated earning power, ensuring a fair and transparent distribution.
+  - When you lock your XNF, you receive a unique ERC-721 non-fungible token (NFT) called veXNF in exchange. This veXNF token represents your locked XNF in the protocol and, more importantly, indicates your earning power - influencing your share of native rewards. The longer you lock your XNF, the greater your veXNF earning power. However, it's important to note this earning power decays over time, even if you opt for the maximum 1-year lock period.
+  
+  - This decay mechanic incentivises users to lock for longer terms to maintain higher earning strength for longer. Throughout each cycle, rewards generated from the burn fees and swap fees accumulate in a reward pool, and the protocol distributes the entire reward pool of native chain tokens among veXNF holders at the end of the cycle based on their locked XNF tokens and it’s associated earning power, ensuring a fair and transparent distribution.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
