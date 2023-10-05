@@ -1136,7 +1136,7 @@ This recycling mechanic provides a multitude of benefits for the ecosystem and r
 
 ## ⭐️ Recycling Native Rewards
 
-Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction. What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables fee-free participation, unlike the normal burn process which requires additional native tokens to cover the mandatory burn fee.
+Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction. What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables token-free participation, unlike the normal burn process which requires additional burn tokens to cover the mandatory burn fee.
 
 As a veXNF holder who recycles, you gain access to an exclusive daily distribution of veXNF that’s drawn from the protocol’s daily XNF buyback. Whereby, 100% of the XNF tokens acquired by the protocol buyback at each cycle's end will be locked and distributed as veXNF to recyclers. Your share of the distribution is determined by your XNF holdings and their associated veXNF power. Essentially, by recycling with greater veXNF power during a cycle, you can enhance your portion of the veXNF rewards obtained from the protocol's buyback.
 
@@ -1337,7 +1337,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What does the recycle button do?
-  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional fees.
+  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional burn tokens.
 
   - Moreover, by choosing to recycle your rewards, you actively contribute to the growth and sustainability of the Xenify ecosystem. After a Burn Fee has been deducted from the recycled rewards, the protocol utilises 90% of your remaining rewards to create XNF liquidity, enabling a more robust and efficient market for the token. Lastly, the remaining 10% is sent to the team, supporting ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
 
