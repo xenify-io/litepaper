@@ -449,7 +449,7 @@ Xenify's innovative approach to staking and rewards, combined with its unique to
 
 <br>
 
-Xenifiy is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 22.6 million. By participating in various protocol activities such as burning, locking, recycling, and swapping, users are rewarded, fostering a dynamic ecosystem where benefits are accrued on contributions and involvement. With this thoughtful design, Xenify ensures a level playing field for all users, building an environment where everyone can enjoy the rewards and establishing a foundation for an equitable, community-driven platform.
+Xenify is a groundbreaking protocol that champions fairness, sustainability, and user engagement. At the heart of its tokenomics structure lies XNF, the platform's native token. XNF serves as the primary incentive for users, with a limited supply of 22.6 million. By participating in various protocol activities such as burning, locking, recycling, and swapping, users are rewarded, fostering a dynamic ecosystem where benefits are accrued on contributions and involvement. With this thoughtful design, Xenify ensures a level playing field for all users, building an environment where everyone can enjoy the rewards and establishing a foundation for an equitable, community-driven platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
