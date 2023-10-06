@@ -273,11 +273,13 @@ At its core, vXEN facilitates seamless engagement across various chains, ensurin
 
 <br>
 
-The concept of bridging tokens between chains is not new, but the vXEN contract introduces a more user-friendly approach for XEN tokens. Instead of the traditional method of burning tokens, the vXEN contract retains the XEN on the originating chain. At the same time, an equivalent amount of wrapped XEN is minted on the target chain. This method ensures that the total supply of XEN remains constant, allowing users to move their assets across chains seamlessly. Once the wrapped tokens are on an alternate chain, users have the option to bridge them back to the original chain. 
+The concept of bridging tokens between chains is not new, but the wrapped XEN contract introduces a more user-friendly approach for XEN tokens. Instead of the traditional method of burning tokens, the wrapped XEN contract retains the XEN on the originating chain. At the same time, an equivalent amount of wrapped XEN is minted on the target chain. This method ensures that the total supply of XEN remains constant, allowing users to move their assets across chains seamlessly. Once the wrapped tokens are on an alternate chain, users have the option to bridge them back to the original chain.
 
-To facilitate this, the wrapped XEN on the alternate chain is burned. Recognizing this action, the vXEN contract on the original chain releases the equivalent retained XEN back to the user's account. For instance, when the XEN wrapped contract is deployed on the BNB Chain, it's tailored specifically to bridge between vXEN (from Ethereum) and bXEN (on BNB Chain). The contract itself doesn't mint vXEN, as that responsibility is reserved for the Ethereum chain. 
+To facilitate this, the wrapped XEN on the alternate chain is burnt. Recognising this action, the wrapped XEN contract on the original chain releases the equivalent retained XEN back to the user's address.
 
-However, the overarching goal of the vXEN contract is to ensure that users from various XEN chains, such as bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes, but is not limited to, facilitating transactions between different XEN versions on various chains.
+When the wrapped XEN contract is introduced on chains, such as the BNB Chain, its design is specifically crafted to facilitate a bridge. This bridge connects the chain where the XEN originates (often referred to as the 'originating chain') to the target EVM chain. On each target chain, XEN might have its unique version or representation. For instance, on the BNB Chain, this representation of XEN is termed as 'bXEN'. The wrapped XEN contract ensures that tokens can be seamlessly and accurately transferred between the originating chain and these various representations on target EVM chains, with each transaction being associated with the user's address.
+
+The overarching goal of the wrapped XEN contract is to ensure that users from various XEN chains, including but not limited to bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes facilitating transactions between different XEN versions on various chains, with the security and transparency of each user's address being maintained throughout the process.
 
 <br>
 
