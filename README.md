@@ -251,18 +251,18 @@ In essence, vXEN facilitates effortless multi-chain engagement for users, transp
 
 <br>
 
-| Num | Identifiers       | Chains                | Ratio   |
-|:----|:------------------|:----------------------|---------|
-| 1   | XEN               | Ethereum              | 1       |
-| 2   | bXEN              | BNB Chain             | 200     |
-| 3   | opXEN             | Optimism              | 1       |
-| 4   | mbXEN             | Moonbeam              | 567     |
-| 5   | okXEN             | OKT (OKX)             | 680     |
-| 6   | aXEN              | Avalanche             | 134     |
-| 7   | mXEN              | Polygon               | 334     |
-| 8   | fmXEN             | Fantom                | 667     |
-| 9   | cbXEN             | Base                  | 134     |
-| 10  | coXEN             | EVMOS                 | 3334    |
+| Num | Ratio | Identifiers | Chains                |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 |
 
 <br>
 
