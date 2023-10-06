@@ -239,15 +239,15 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 
 <br>
   
-Introducing vXEN, an innovative solution developed by Xenify to streamline participation in its multi-chain burn auctions by simply burning XEN tokens on the native chain. This initiative demonstrates Xenify's steadfast commitment to furthering interoperability across diverse chains, while also cementing its position as a pivotal layer-1 burner of XEN.
+Introducing vXEN, an innovative solution by Xenify designed to streamline participation in its multi-chain burn auctions by burning XEN tokens on the native chain. This initiative underscores Xenify's unwavering commitment to enhancing interoperability across a variety of chains, solidifying its role as a primary layer-1 burner of XEN.
 
-Here’s how it works: To obtain vXEN, users simply need to hold native XEN tokens. When a user burns their XEN to acquire vXEN, the “Burn” function of the XEN token contract on Ethereum will be triggered. This results in the XEN being burned and the user's address being documented in the burn record for the new XEN layer 1 token (X1). After this on-chain burn process concludes, an equivalent amount of vXEN is minted on the user's chosen chain.
+Here’s how it operates: To secure vXEN, users must possess native XEN tokens. When a user decides to burn their XEN in exchange for vXEN, the “Burn” function of the XEN token contract on Ethereum is activated. This action results in the XEN being burned, with the user's address recorded in the burn record for the new XEN layer 1 token (X1). Once this on-chain burn process is complete, an equivalent amount of vXEN, based on the specified ratio for the chain, is minted on the user's preferred chain.
 
-Once you have your vXEN tokens, you have the flexibility to either participate in the daily burn auction on that specific chain, or effortlessly transfer vXEN to any other chain where XNF is deployed. For example, when bXNF is deployed on BNB Chain, you can bridge your vXEN tokens or mint your vCEN tokens (acquired through the burning of native XEN on the chain) to engage in Xenify's burn auction on the BNB Chain. 
+With vXEN tokens at their disposal, users can choose to either join the daily burn auction on the designated chain or seamlessly transfer their vXEN to any other chain where XNF is active. Take the BNB Chain as an example: here, bXEN offers a burn ratio of 200:1 when converting bXEN to vXEN. Users have the flexibility to either bridge their existing vXEN tokens or create new vXEN tokens by burning the native XEN. This participation mechanism allows them to be actively involved in Xenify's burn auction on the BNB Chain.
 
-To enable a seamless cross-chain bridging of vXEN, Xenify has integrated LayerZero as the primary bridging protocol, with fallback support from Axelar and Wormhole if the situation demands. By leveraging multiple purpose-built decentralized solutions, Xenify ensures robust interoperability between chains.
+For smooth cross-chain bridging of vXEN, Xenify has incorporated LayerZero as the main bridging protocol. Additionally, in case of any contingencies, Axelar and Wormhole are available as backup bridging solutions. By utilising multiple specialized decentralized platforms, Xenify guarantees strong interoperability between chains.
 
-In short, vXEN unlocks frictionless multi-chain participation for users while documenting their XEN burns transparently on-chain, providing cross-chain accessibility that supports the growth of the Xenify ecosystem.
+In essence, vXEN facilitates effortless multi-chain engagement for users, transparently recording their XEN burns on-chain and offering cross-chain accessibility that bolsters the growth of the Xenify ecosystem. The different ratios for each chain ensure that users get the appropriate value for their burns.
 
 <br>
 
