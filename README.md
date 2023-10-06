@@ -284,14 +284,15 @@ However, the overarching goal of the vXEN contract is to ensure that users from 
 | Num | Identifiers       | Chains                |
 |:----|:------------------|:----------------------|
 | 1   | XEN               | Ethereum              |
-| 2   | bXEN              | BNB Chain             |
-| 3   | opXEN             | Optimism              |
-| 4   | mbXEN             | Moonbeam              |
-| 5   | okXEN             | OKT (OKX)             |
-| 6   | aXEN              | Avalanche             |
-| 7   | mXEN              | Polygon               |
+| 2   | opXEN             | Optimism              |
+| 3   | aXEN              | Avalanche             |
+| 4   | cbXEN             | Base                  |
+| 5   | bXEN              | BNB Chain             |
+| 6   | mXEN              | Polygon               |
+| 7   | mbXEN             | Moonbeam              |
 | 8   | fmXEN             | Fantom                |
-| 9   | cbXEN             | Base                  |
+| 9   | okXEN             | OKT (OKX)             |
+| 10  | coXEN             | EVMOS                 |
 
 <br>
 
