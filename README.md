@@ -281,18 +281,18 @@ However, the overarching goal of the vXEN contract is to ensure that users from 
 
 <br>
 
-| Num | Identifiers       | Chains                |
-|:----|:------------------|:----------------------|
-| 1   | XEN               | Ethereum              |
-| 2   | opXEN             | Optimism              |
-| 3   | aXEN              | Avalanche             |
-| 4   | cbXEN             | Base                  |
-| 5   | bXEN              | BNB Chain             |
-| 6   | mXEN              | Polygon               |
-| 7   | mbXEN             | Moonbeam              |
-| 8   | fmXEN             | Fantom                |
-| 9   | okXEN             | OKT (OKX)             |
-| 10  | coXEN             | EVMOS                 |
+| Num | Identifiers | Wrapped Identifiers    | Chains                |
+|:----|:------------|:-----------------------|:----------------------|
+| 1   | XEN         | wXEN                   | Ethereum              |
+| 2   | opXEN       | wopXEN                 | Optimism              |
+| 3   | aXEN        | waXEN                  | Avalanche             |
+| 4   | cbXEN       | wcbXEN                 | Base                  |
+| 5   | bXEN        | wbXEN                  | BNB Chain             |
+| 6   | mXEN        | wmXEN                  | Polygon               |
+| 7   | mbXEN       | wmbXEN                 | Moonbeam              |
+| 8   | fmXEN       | wfmXEN                 | Fantom                |
+| 9   | okXEN       | wokXEN                 | OKT (OKX)             |
+| 10  | coXEN       | wcoXEN                 | EVMOS                 |
 
 <br>
 
@@ -308,7 +308,7 @@ The YSL token contract stands as a beacon of trust and security, being immutable
 
 A special announcement for our Arbitrum community: We're rolling out an airdrop of the new YSL token, orchestrated by our dedicated team. As YSL expands its horizons to other chains, it will don a unique identifier reflecting its deployment chain. For instance, its Ethereum avatar will be labeled eYSL. Participants will need to claim their airdrop within a 90-day window based on the 'Arbitrum' snapshot. Our deployment odyssey will set sail with Arbitrum, Ethereum, BNB Chain, and Polygon, with subsequent stops at Avalanche, Optimism, Fantom, zkSync, Linea, and Base.
 
-If you're on the hunt for a dynamic token ecosystem that continually evolves and boasts a one-of-a-kind deflationary model, YSL beckons you to the future! For a deeper dive, check out the snapshot link:  [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023).
+If you're on the hunt for a dynamic token ecosystem that continually evolves and boasts a one-of-a-kind deflationary model, YSL beckons you to the future! For a deeper dive, check out the snapshot link: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023).
 
 Here's a concise breakdown of our deployment chains and their unique identifiers:
 
