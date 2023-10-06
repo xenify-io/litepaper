@@ -281,7 +281,7 @@ To facilitate this, the wrapped XEN on the alternate chain is burnt. Recognising
 
 The wrapped XEN contract ensures that tokens can be seamlessly and accurately transferred between the originating chain and these various representations on target EVM chains, with each transaction being associated with the user's address. The overarching goal of the wrapped XEN contract is to ensure that users from various XEN chains, including but not limited to bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes facilitating transactions between different XEN versions on various chains, with the security and transparency of each user's address being maintained throughout the process.
 
-Here's a concise breakdown of our deployment chains and wrapped identifiers:
+Here's a concise breakdown of our deployment chains and wrapped XEN identifiers:
 
 <br>
 
@@ -314,7 +314,7 @@ A special announcement for our Arbitrum community: We're rolling out an airdrop 
 
 If you're on the hunt for a dynamic token ecosystem that continually evolves and boasts a one-of-a-kind deflationary model, YSL beckons you to the future! For a deeper dive, check out the snapshot link: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023).
 
-Here's a concise breakdown of our deployment chains and their unique identifiers:
+Here's a concise breakdown of our deployment chains and their unique YSL identifiers:
 
 <br>
 
