@@ -247,7 +247,7 @@ With vXEN tokens at hand, users have the choice to either join the daily burn au
 
 For efficient cross-chain bridging of vXEN, Xenify has adopted LayerZero OFT as its primary bridging protocol. In unforeseen circumstances, Axelar and Wormhole stand ready as alternative bridging solutions. By harnessing a range of specialised decentralised protocols, Xenify ensures robust chain interoperability.
 
-In summary, vXEN paves the way for users to engage across multiple chains with ease, recording their XEN burns transparently on-chain. This approach not only provides cross-chain accessibility but also fosters the expansion of the Xenify ecosystem. The varied ratios for each chain guarantee users receive fair value for their burns.
+In essence, vXEN paves the way for users to engage across multiple chains with ease, recording their XEN burns transparently on-chain. This approach not only provides cross-chain accessibility but also fosters the expansion of the Xenify ecosystem. The varied ratios for each chain guarantee users receive fair value for their burns.
 
 <br>
 
