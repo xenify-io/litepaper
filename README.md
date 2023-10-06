@@ -250,6 +250,8 @@ For optimal cross-chain bridging of vXEN, Xenify has chosen LayerZero OFT as its
 
 At its core, vXEN facilitates seamless engagement across various chains, ensuring transparent on-chain documentation of XEN burns. This strategy not only enhances cross-chain access but also promotes the growth of the Xenify ecosystem. The distinct ratios set for each chain ensure that users always obtain equitable value for their burns.
 
+Here's a concise breakdown of our deployment chains for vXEN:
+
 <br>
 
 | Num | Ratio | Identifiers | Chains                |
@@ -278,6 +280,8 @@ The concept of bridging tokens between chains is not new, but the wrapped XEN co
 To facilitate this, the wrapped XEN on the alternate chain is burnt. Recognising this action, the wrapped XEN contract on the original chain releases the equivalent retained XEN back to the user's address. When the wrapped XEN contract is introduced on chains, such as the BNB Chain, its design is specifically crafted to facilitate a bridge. This bridge connects the chain where the XEN originates (often referred to as the 'originating chain') to the target EVM chain. On each target chain, XEN might have its unique version or representation. For instance, on the BNB Chain, this representation of XEN is termed as 'bXEN'. 
 
 The wrapped XEN contract ensures that tokens can be seamlessly and accurately transferred between the originating chain and these various representations on target EVM chains, with each transaction being associated with the user's address. The overarching goal of the wrapped XEN contract is to ensure that users from various XEN chains, including but not limited to bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes facilitating transactions between different XEN versions on various chains, with the security and transparency of each user's address being maintained throughout the process.
+
+Here's a concise breakdown of our deployment chains and their unique identifiers for the wrapped tokens:
 
 <br>
 
