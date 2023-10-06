@@ -281,7 +281,7 @@ To facilitate this, the wrapped XEN on the alternate chain is burnt. Recognising
 
 The wrapped XEN contract ensures that tokens can be seamlessly and accurately transferred between the originating chain and these various representations on target EVM chains, with each transaction being associated with the user's address. The overarching goal of the wrapped XEN contract is to ensure that users from various XEN chains, including but not limited to bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes facilitating transactions between different XEN versions on various chains, with the security and transparency of each user's address being maintained throughout the process.
 
-Here's a concise breakdown of our deployment chains and their unique identifiers for the wrapped tokens:
+Here's a concise breakdown of our deployment chains and wrapped identifiers:
 
 <br>
 
