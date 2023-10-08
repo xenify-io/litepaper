@@ -271,11 +271,13 @@ Here's a concise breakdown of our deployment chains for vXEN:
 
 <br>
 
-The concept of bridging tokens between chains is not new, but the wrapped XEN contract introduces a more user-friendly approach for XEN tokens. Instead of the traditional method of burning tokens, the wrapped XEN contract retains the XEN on the originating chain. At the same time, an equivalent amount of wrapped XEN is minted on the target chain. This method ensures that the total supply of XEN remains constant, allowing users to move their assets across chains seamlessly. Once the wrapped tokens are on an alternate chain, users have the option to bridge them back to the original chain. 
+Xenify powers next-level interoperability for the XEN ecosystem with its game-changing wrapped XEN contract, enabling frictionless movement of XEN tokens across a diverse range of EVM chains.
 
-To facilitate this, the wrapped XEN on the alternate chain is burnt. Recognising this action, the wrapped XEN contract on the original chain releases the equivalent retained XEN back to the user's address. When the wrapped XEN contract is introduced on chains, such as the BNB Chain, its design is specifically crafted to facilitate a bridge. This bridge connects the chain where the XEN originates (often referred to as the 'originating chain') to the target EVM chain. On each target chain, XEN might have its unique version or representation. For instance, on the BNB Chain, this representation of XEN is termed as 'bXEN'. 
+Unlike the traditional burn-to-bridge model, our wrapped XEN contract retains the tokens on the originating chain while minting the equivalent wrapped XEN on the target chain. This ensures the total XEN supply remains intact, with each transaction securely associated with the user's address to maintain transparency throughout the entire process. 
 
-The wrapped XEN contract ensures that tokens can be seamlessly and accurately transferred between the originating chain and these various representations on target EVM chains, with each transaction being associated with the user's address. The overarching goal of the wrapped XEN contract is to ensure that users from various XEN chains, including but not limited to bXEN or aXEN, can effortlessly bridge their tokens across all XEN EVM chains. This includes facilitating transactions between different XEN versions on various chains, with the security and transparency of each user's address being maintained throughout the process.
+Once wrapped XEN arrives on an alternate chain, users can easily bridge tokens back by burning the wrapped tokens. The contract recognises this, releasing the retained XEN on the originating chain back to the user's address. This interoperable design interconnects the XEN ecosystem, making it readily accessible for users across chains - showcasing Xenify’s commitment to usability and cross-chain interoperability.
+
+When wrapped XEN is introduced on new chains, it's specifically crafted to facilitate a bridge between the chain where the XEN originates (referred to as the 'originating chain') and the target chain. On each target EVM chain, wrapped XEN has a unique identifier. For instance, on the BNB Chain, the representation of wrapped XEN is termed as 'wbXEN'. 
 
 Here's a concise breakdown of our deployment chains and wrapped XEN identifiers:
 
