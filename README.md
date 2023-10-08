@@ -1391,7 +1391,11 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens if no recyclers participate in a given cycle?
-- In scenarios where no recyclers participate in a specific cycle, the rewards, which are typically distributed as veXNF, are proportionally allocated based on each recycler's contribution from previous cycles. These rewards come with a 1-year lock. However, if a cycle experiences a complete absence of recyclers, the accumulated XNF for that cycle will be rolled over to the subsequent cycle, where it awaits distribution to future recyclers.
+- In scenarios where no users participate in recycling native rewards in a specific cycle, the protocol has a mechanism to distribute the XNF buyback rewards (distributed as veXNF with a 1-year lock) proportionally to users based on their recycled contributions in previous cycles. 
+
+- However, in the unlikely scenario where no recyclers have participated in any previous cycles either, the XNF allocated for buyback rewards in the current cycle will not be distributed. Instead, it will roll over to the next cycle, where it will await distribution to future recyclers. 
+
+- This contingency mechanism ensures any undistributed XNF from the protocol buyback is preserved for fair future distribution. It also guarantees the buyback rewards, when finally distributed as veXNF, are allocated proportionally based on recyclers' contribution levels in prior cycles. In this way, the protocol maintains robustness and integrity even in edge cases.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
