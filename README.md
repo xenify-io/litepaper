@@ -1396,7 +1396,11 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens to the rewards if there are no veXNF holders?
-- If there are no veXNF holders at the end of the cycle, the native rewards generated from the swap fees and burn fees will be utilised to create protocol-owned XNF liquidity. This function will only be triggered at the end of a cycle when there are no veXNF holders and all locks are expired.
+- If at the end of a cycle there are no veXNF holders remaining because all locks have expired, the protocol has a mechanism to redirect the 40% allocation of native rewards originally designated for veXNF holders. In this scenario, the rewards will instead be consolidated into the creation of additional XNF protocol-owned liquidity for that specific cycle.
+
+- As a result, 80% of all native tokens generated from swap fees, native fees, and burn fees for the concluded cycle will be utilised to provide XNF liquidity, rather than the original 40% allocation. The remaining 10% of native rewards will still be allocated to the Xenify team as usual, and the final 10% will be set aside for the protocol's automated XNF buyback function.
+
+- This contingency mechanism will only be triggered at cycle end in the unlikely event there are no remaining veXNF holders with active locks. It serves to ensure ample protocol-owned XNF liquidity is still proliferated, while maintaining allocations for ongoing development and buyback initiatives.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1406,11 +1410,6 @@ We understand that you may have questions about Xenify, its features, and its po
   - But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
 
   - Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ How is token allocation managed if there are no veXNF holders by the end of a cycle?
-  - f a cycle ends without any veXNF holders, the protocol adjusts the token distribution. Specifically, 10% is allocated to the team, another 10% is set aside for buybacks, and the majority, 80%, is channeled into protocol-owned liquidity. This adjustment means that the tokens initially earmarked for veXNF holders, which represent 40%, are combined with the subsequent 40%. As a result, there's a consolidated 80% contribution to the protocol-owned liquidity by the end of that cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
