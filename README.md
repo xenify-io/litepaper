@@ -1409,18 +1409,22 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens if there are no token swaps or burns during a daily cycle?
-  - In the unlikely event that a cycle passes without any swaps on Xenify and no users burning either vXEN or YSL, the daily XNF cycle distribution will not occur. The XNF tokens that were due to be distributed during this cycle won't be minted. Consequently, the overall supply of XNF will be reduced by the number intended for distribution in that cycle. For instance, if the daily allocation for a cycle was set at 20,000 XNF, and no swaps or burns take place during that cycle, then these 20,000 XNF will neither be minted nor distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the end of the cycle.
+- In the unlikely event that a cycle passes without any swaps on Xenify and no users burning either vXEN or YSL, the daily XNF cycle distribution will not occur. The XNF tokens that were due to be distributed during this cycle won't be minted. Consequently, the overall supply of XNF will be reduced by the number intended for distribution in that cycle. For instance, if the daily allocation for a cycle was set at 20,000 XNF, and no swaps or burns take place during that cycle, then these 20,000 XNF will neither be minted nor distributed. Instead, the total supply of XNF will be reduced by 20,000 XNF at the end of the cycle.
 
-  - But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
+- But what if a cycle passes where only swaps are undertaken and no burns occur? Well, In this scenario, the designated daily XNF for distribution will be apportioned among the participants of the swap. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and swaps are performed without any burns occurring during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the swap participants.
 
-  - Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
+- Similarly, in a cycle where only burns are executed with no swaps taking place, the full allocation of XNF scheduled for distribution will be allotted to the participants of the burn auction. For instance, if the daily allocation for a cycle is set at 20,000 XNF, and burns are conducted without any swaps happening during that cycle, then the full allocation of 20,000 XNF will be minted and distributed amongst the participants of the burn auction.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ If I opt to lock my XNF for an initial period of 7 days, with a decay schedule of 1.15 days, and then decide to extend this lock on a daily basis, how does the earning power of my veXNF compare to a continuous 1-year lock?
-  - Your approach to locking XNF will result in a different earning power for your veXNF compared to a straightforward 1-year lock. If you and another user were to lock the same amount of XNF, but the other user chooses a 1-year lock while you go for the daily extensions, your veXNF's earning power would be significantly diminished—approximately 52 times less over a year.
+## ◽️ If I opt to lock my XNF, how does frequently extending a 7-day minimum lock compare to a continuous 1-year lock?
+- Opting to lock your XNF for the minimum 7 days, then repeatedly extending it daily, results in lower earning power for your veXNF compared to locking continuously for 1 year.
 
-  - For clarity, consider locking 1000 XNF. A direct one-year lock would yield 1000 veXNF. On the other hand, a six-month lock would provide 500 veXNF. The key takeaway is that the quantity of veXNF you obtain is directly tied to the lock duration. However, the actual earning power of the veXNF diminishes or decays over time, especially when not locked continuously for longer durations.
+- For example, if you and another user lock the same XNF amount, but you use 7-day minimum extensions and they do a 1-year lock, your veXNF would have significantly less earning power over the year - approximately 52 times less.
+
+- This is because the initial power of your veXNF depends on the lock duration. Locking 1000 XNF for 1 year yields 1000 veXNF with a decay schedule of 60 days. A 6-month lock yields 500 veXNF. More time locked continuously equals more initial veXNF power. Keep in mind, veXNF power decays over time, especially with minimum 7-day locks that have a rapid decay schedule of 1.15 days versus 60 days for a 1-year lock.
+
+- In summary, frequently extending short 7-day minimum locks provides substantially less earning power than longer continuous 1-year locks for the same XNF amount due to the difference in initial veXNF power and decay rates.
 
 <br>
 
