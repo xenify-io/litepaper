@@ -594,20 +594,21 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 # ◽️ XNF Liquidity (Uniswap V3 Integration)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-As our protocol integrates the Uniswap V3 pool, we're taking a monumental step forward. This integration represents our dedication to leveraging the latest advancements in decentralized finance and offering our users unparalleled trading opportunities.
-Following the completion of the first cycle, we are thrilled to introduce the XNF-ETH trading pair. This strategic decision not only enhances the liquidity options available to our users but also solidifies our position in the market.
+Xenify has taken a monumental step forward by integrating Uniswap V3 pools. This strategic decision not only showcases our commitment to leveraging the latest innovations in DeFi, but also enhances the liquidity options available to our users, while solidifying our market position. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Initial Cycle
 
-The initial price for this pair is steadfastly set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. If there's a notable increase in ETH acquisition during the subsequent cycles, the price is poised to rise beyond the $1.00 threshold. To maintain balance, any XNF exceeding this listing price will be systematically burnt. Conversely, if the ETH gathered during a cycle doesn't reach the anticipated $10k—a value embedded at deployment—the price will be adjusted to match 10k XNF. In such an event, the surplus 90k XNF will be burnt to guarantee stability.
+To empower a robust ecosystem that enables our community to trade XNF right from the start, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. After the initial cycle ends, our protocol will create the XNF-ETH trading pair using this allocation of XNF. To facilitate this process, the protocol will utilise a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) to establish an XNF-ETH V3 liquidity pool at the end of the cycle. 
+
+The initial price for the XNF-ETH pair is set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. However, if the ETH acquired from fees during the initial cycle increases significantly, the initial price will rise above $1.00 and any extra XNF will be automatically burnt. On the other hand, if the ETH acquired during the initial cycle does not reach the minimum value embedded at deployment of $10k, the initial price will be adjusted to match its pairing with 10k XNF, with the surplus 90k XNF being burnt.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Subsequent Cycles
 
-Starting from the second cycle, our dedication to ensuring liquidity is unwavering. We will persistently infuse protocol-owned liquidity. The avenues for this liquidity are diverse, stemming from ETH acquired through burn fees, native fees, swap fees, and recycling activities. Within this liquidity framework, 50% of the ETH is allocated for XNF acquisition. The procured XNF is then coupled with the remaining ETH to create a robust, full-range liquidity pool. It's imperative to highlight that, regardless of the cycle, a consistent 1% trading fee is levied on all transactions within this protocol-owned liquidity pool.
+Our protocol is designed to ensure the perpetual growth of XNF protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 50% of the ETH is used to market-buy XNF, and the acquired XNF is paired with the rest of the ETH and added as XNF-ETH liquidity at full range. It is important to note that, regardless of the cycle, a consistent 1% trading fee is applied to all transactions within this protocol-owned liquidity pool.
 
 <br>
 
