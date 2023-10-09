@@ -533,7 +533,7 @@ Dalam lanskap DeFi yang terus berkembang, menjembatani kesenjangan antara rantai
 
 - Penyebaran Ethereum dijadwalkan selama 3 bulan setelah penyebaran Arbitrum.
 
-### 3️⃣ Rantai BNB (bXNF)
+### 3️⃣ BNB Chain (bXNF)
 
 - Penyebaran BNB Chain dijadwalkan selama 3 bulan setelah penyebaran Ethereum.
 
@@ -545,11 +545,11 @@ Dalam lanskap DeFi yang terus berkembang, menjembatani kesenjangan antara rantai
 
 - Penyebaran pangkalan direncanakan selama 3 bulan setelah penyebaran Polygon.
 
-### 6️⃣ Optimisme (opXNF)
+### 6️⃣ Optimism (opXNF)
 
 - Optimisme akan diluncurkan 3 bulan setelah penyebaran Base.
 
-### 7️⃣ Longsoran salju (aXNF)
+### 7️⃣ Avalanche (aXNF)
 
 - Avalanche dijadwalkan untuk digunakan 3 bulan setelah penerapan Optimism.
 
@@ -567,10 +567,10 @@ Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain u
 
 - Linea
 - Fantom
-- Era zkSync
+- zkSync Era
 - OKT (OKX)
 - PulseChain
-- Sinar Bulan
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
