@@ -489,7 +489,7 @@ XNF est l'élément vital du protocole Xenify, et son offre totale est limitée 
 
 Avec une offre totale plafonnée à 22,6 millions de jetons XNF, stratégiquement divisée en trois segments principaux, Xenify a été délibérément conçu pour récompenser les participants actifs tout en promouvant un écosystème équilibré :
 
-- 21 000 000 XNF assignés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités qui soutiennent le développement continu du protocole auront la chance de gagner une part des jetons XNF dédiés aux enchères quotidiennes.
+- **21 000 000 XNF assignés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités qui soutiennent le développement continu du protocole auront la chance de gagner une part des jetons XNF dédiés aux enchères quotidiennes.
 
   - 10 500 000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Cette allocation sera répartie de manière égale, 50 % étant réservés aux brûleurs vXEN et les 50 % restants aux brûleurs YSL. S'il n'y a pas de brûleurs YSL au cours d'un cycle, la totalité de l'allocation quotidienne en XNF destinée à la vente aux enchères sera distribuée aux brûleurs vXEN, et vice versa.
     
@@ -497,9 +497,9 @@ Avec une offre totale plafonnée à 22,6 millions de jetons XNF, stratégiquemen
 
   - 5 250 000 XNF (25%) sont distribués aux utilisateurs qui s'engagent dans des swaps sur les chaînes EVM prises en charge. Ces jetons XNF seront distribués parmi les participants aux échanges sous la forme de veXNF, avec une période de blocage associée d'un an.
 
-- 100 000 XNF affectés à l'établissement d'un pool de liquidités XNF V3:** Pour favoriser un écosystème solide, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Cette initiative permettra à notre communauté d'échanger des XNF de manière transparente dès le début. Pour faciliter cela, la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) seront utilisés pour établir un pool de liquidité XNF V3 à la fin du cycle.
+- **100 000 XNF affectés à l'établissement d'un pool de liquidités XNF V3:** Pour favoriser un écosystème solide, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Cette initiative permettra à notre communauté d'échanger des XNF de manière transparente dès le début. Pour faciliter cela, la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) seront utilisés pour établir un pool de liquidité XNF V3 à la fin du cycle.
 
-- Pour encourager l'engagement, chaque chaîne aura un airdrop exclusif de 1 500 000 XNF pour les utilisateurs qui effectuent des swaps avant le déploiement de XNF. L'airdrop aura lieu le premier jour du lancement et sera distribué sous forme de jetons verrouillés, qui se déverrouilleront progressivement sur une période de 730 jours.
+- **1 500 000 XNF attribués comme parachutage exclusif pour les participants au swap :** Pour encourager l'engagement, chaque chaîne disposera d'un parachutage exclusif de 1 500 000 XNF pour les utilisateurs qui effectuent des swaps avant le déploiement de XNF. Le largage aura lieu le premier jour du lancement et sera distribué sous forme de jetons verrouillés, déverrouillés progressivement sur 730 jours.
 
 S'inspirant du Bitcoin, le modèle de distribution de Xenify adopte le principe du halving. Comme l'illustre le graphique ci-dessous, après la 7ème réduction de moitié, le taux d'allocation quotidienne de Xenify se stabilise, assurant une production constante de 156,25 jetons XNF par jour jusqu'à ce que l'offre maximale soit atteinte au cours du mois 2461. Cette stratégie innovante a été conçue de manière réfléchie pour assurer une distribution équitable de l'offre centrée sur la participation à long terme des utilisateurs, soulignant l'engagement inébranlable de Xenify à favoriser un écosystème équilibré et une communauté engagée.
 
