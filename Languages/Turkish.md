@@ -533,7 +533,7 @@ Sürekli gelişen DeFi ortamında, farklı zincirler arasındaki boşluğu doldu
 
 - Ethereum dağıtımının Arbitrum dağıtımını takiben 3 ay içinde yapılması planlanmaktadır.
 
-### 3️⃣ BNB Zinciri (bXNF)
+### 3️⃣ BNB Chain (bXNF)
 
 - BNB Chain dağıtımı, Ethereum dağıtımından 3 ay sonra planlanmaktadır.
 
@@ -545,7 +545,7 @@ Sürekli gelişen DeFi ortamında, farklı zincirler arasındaki boşluğu doldu
 
 - Üs konuşlandırması, Poligon konuşlandırmasından 3 ay sonra planlanmaktadır.
 
-### 6️⃣ İyimserlik (opXNF)
+### 6️⃣ Optimism (opXNF)
 
 - İyimserlik, Üssün konuşlandırılmasından 3 ay sonra yaygınlaştırılacaktır.
 
@@ -567,10 +567,10 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
 - Linea
 - Fantom
-- zkSync Dönemi
+- zkSync Era
 - OKT (OKX)
 - PulseChain
-- Ay Işını
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
