@@ -696,7 +696,7 @@ $$
 
 <br>
                                                                                 
-<tabel>
+<table>
     <tr>
         <td><strong>VP</strong><br>(Nilai Per Batch)</td>
         <td>Nilai per batch yang ditetapkan untuk rantai.</td>
@@ -735,7 +735,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>BF</strong><br>(Biaya Pembakaran)</td>
         <td>Biaya yang dibebankan untuk fungsi pembakaran, dibayarkan dalam token asli rantai.</td>
@@ -896,7 +896,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>XBA</strong><br>(Alokasi Pembakaran)</td>
         <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch vXEN yang dibakar selama satu siklus.</td>
@@ -913,7 +913,7 @@ $$
         <td><strong>TB</strong><br>(Total Batch)</td>
         <td>Jumlah gabungan batch vXEN yang dibakar oleh semua pengguna selama satu siklus.</td>
     </tr>
-</tabel>
+</table>
 
 <br>
 
@@ -927,7 +927,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>YBA</strong><br>(Alokasi Pembakaran)</td>
         <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch YSL yang dibakar selama satu siklus.</td>
@@ -944,7 +944,7 @@ $$
         <td><strong>TB</strong><br>(Total Batch)</td>
         <td>Jumlah gabungan batch YSL yang dibakar oleh semua pengguna selama satu siklus.</td>
     </tr>
-</tabel>
+</table>
 
 <br>
 
@@ -958,7 +958,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>SA</strong><br>(Alokasi Swap)</td>
         <td>Alokasi XNF untuk pengguna tertentu berdasarkan kontribusi biaya swap mereka selama satu siklus.</td>
@@ -975,7 +975,7 @@ $$
         <td><strong>TSF</strong><br>(Biaya Swap Total)</td>
         <td>Total biaya swap yang dibayarkan dalam satu siklus oleh semua pengguna.</td>
     </tr>
-</tabel>
+</table>
  
 <br>
 
@@ -991,7 +991,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>NA</strong><br>(Alokasi Asli)</td>
         <td>Alokasi XNF untuk pengguna tertentu berdasarkan kontribusi token asli mereka selama satu siklus.</td>
@@ -1042,7 +1042,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>DS</strong><br>(Jadwal Peluruhan)</td>
         <td>Jadwal peluruhan untuk daya penghasilan veXNF.</td>
@@ -1059,7 +1059,7 @@ $$
         <td><strong>ML</strong><br>(Kunci Maksimum)</td>
         <td>Durasi penguncian maksimum 365 hari.</td>
     </tr> <tr>
-</tabel>
+</table>
 
 <br>
 
@@ -1073,7 +1073,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>CP</strong><br>(Daya Saat Ini)</td>
         <td>Daya penghasilan veXNF pengguna saat ini dalam bentuk persentase.</td>
@@ -1090,7 +1090,7 @@ $$
         <td><strong>DS</strong><br>(Jadwal Peluruhan)</td>
         <td>Jadwal Peluruhan yang ditetapkan berdasarkan durasi penguncian yang dipilih oleh pengguna (hari).</td>
     </tr>
-</tabel>
+</table>
 
 <br>
 
