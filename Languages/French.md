@@ -705,7 +705,7 @@ $$
         <td><strong>ND</strong><br>(Nombre de chiffres)</td>
         <td>Le nombre de chiffres précédant la virgule dans le prix du jeton de gaz natif.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -756,7 +756,7 @@ $$
         <td><strong>NB</strong><br>(Nombre de lots)</td>
         <td>Le nombre de lots brûlés par l'utilisateur, influençant la réduction des frais de brûlage lorsque le nombre de lots augmente.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -774,7 +774,7 @@ Comme le montre le tableau ci-dessous, le coefficient de temps commence à 50 % 
 
 <br>
 
-| Heure| Coefficient de Temps (CT) |
+| Heure| Coefficient de Temps (TC) |
 |:-----|:--------------------------|
 | 1    | 50.00%                    |
 | 2    | 52.17%                    |
@@ -811,7 +811,7 @@ Le tableau ci-dessous illustre l'évolution de la valeur du coefficient au cours
 
 <br>
 
-| Heure| Coefficient de lot (CB)   |
+| Heure| Coefficient de lot (BC)   |
 |:-----|:--------------------------|
 | 1    | 0.00005                   |
 | 2    | 0.0000475                 |
@@ -913,7 +913,7 @@ $$
         <td><strong>TB</strong><br>(Total des lots)</td>
         <td>Le nombre combiné de lots vXEN brûlés par tous les utilisateurs au cours d'un cycle.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -944,7 +944,7 @@ $$
         <td><strong>TB</strong><br>(Total des lots)</td>
         <td>Le nombre combiné de lots YSL brûlés par tous les utilisateurs au cours d'un cycle.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -975,7 +975,7 @@ $$
         <td><strong>TSF</strong><br>(Total des frais d'échange)</td>
         <td>Le total des frais de swap payés au cours d'un cycle par tous les utilisateurs.</td>
     </tr>
-</tableau>
+</table>
  
 <br>
 
@@ -1008,7 +1008,7 @@ $$
         <td><strong>TNC</strong><br>(Total Native Contributions)</td>
         <td>Le nombre total de lots contribués par des jetons natifs dans un cycle par tous les utilisateurs.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -1059,7 +1059,7 @@ $$
         <td><strong>ML</strong><br>(Verrouillage maximum)</td>
         <td>La durée maximale de verrouillage de 365 jours.</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
@@ -1090,7 +1090,7 @@ $$
         <td><strong>DS</strong><br>(Calendrier de désintégration)</td>
         <td>Le calendrier de désintégration qui a été établi sur la base de la durée de fermeture choisie par l'utilisateur (jours).</td>
     </tr>
-</tableau>
+</table>
 
 <br>
 
