@@ -1584,7 +1584,7 @@ Xenify, межцепочечный агрегатор агрегаторов, б
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
- - [Оптимизм](https://optimistic.etherscan.io/address/0xeB585163DEbB1E637c6D617de3bEF99347cd75c8)
+ - [Optimism](https://optimistic.etherscan.io/address/0xeB585163DEbB1E637c6D617de3bEF99347cd75c8)
  - [Avalanche](https://snowtrace.io/token/0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389)
  - [X1 Devnet](https://explorer.x1-devnet.xen.network/address/0xD342D63466B520d8D331CaFF863900d402Aa5b00)
  - [BNB Chain](https://bscscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
