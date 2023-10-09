@@ -533,11 +533,11 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 - 以太坊部署计划在 Arbitrum 部署后 3 个月进行。
 
-###  3️⃣ BNB 链 (bXNF)
+###  3️⃣ BNB Chain (bXNF)
 
 - BNB Chain 计划在以太坊部署 3 个月后部署。
 
-### 4️⃣ 多边形 (mXNF)
+### 4️⃣ Polygon (mXNF)
 
 - Polygon 将在 BNB Chain 部署 3 个月后部署。
 
@@ -545,7 +545,7 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 - 基地部署计划在 Polygon 部署后 3 个月进行。
 
-###  6️⃣樂觀（OPXNF）
+###  6️⃣ Optimism（opXNF）
 
 - 乐观计划将在基地部署 3 个月后推出。
 
@@ -569,8 +569,8 @@ Xenify 正准备大干一场，为下一步的大动作筛选一批区块链。�
 - Fantom
 - zkSync Era
 - OKT (OKX)
-- 脉冲链
-- 月光
+- PulseChain
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
