@@ -533,11 +533,11 @@ En el panorama DeFi, en constante evolución, tender puentes entre las diferente
 
 - El despliegue de Ethereum está previsto para 3 meses después del despliegue de Arbitrum.
 
-### 3️⃣ Cadena BNB (bXNF)
+### 3️⃣ BNB Chain (bXNF)
 
 - El despliegue de la cadena BNB está previsto para 3 meses después del despliegue de Ethereum.
 
-### 4️⃣ Polígono (mXNF)
+### 4️⃣ Polygon (mXNF)
 
 - Polygon se desplegará tres meses después del despliegue de la cadena BNB.
 
@@ -545,11 +545,11 @@ En el panorama DeFi, en constante evolución, tender puentes entre las diferente
 
 - El despliegue de la base está previsto para 3 meses después del despliegue del polígono.
 
-### 6️⃣ Optimismo (opXNF)
+### 6️⃣ Optimism (opXNF)
 
 - Optimism se desplegará 3 meses después del despliegue de la Base.
 
-### 7️⃣ Avalancha (aXNF)
+### 7️⃣ Avalanche (aXNF)
 
 - El despliegue de Avalanche está previsto 3 meses después del despliegue de Optimism.
 
