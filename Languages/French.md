@@ -566,11 +566,11 @@ Notre délai actuel de trois mois entre les déploiements vise à concentrer les
 Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blockchains en vue de son prochain coup d'éclat. La liste des chaînes que nous examinons actuellement est assez hétérogène : des poids lourds comme Fantom et zkSync ERA aux nouveaux venus sur la blockchain comme Linea et PulseChain, ce ne sont pas les options qui manquent. La liste complète des chaînes potentielles comprend :
 
 - Linea
-- Fantôme
+- Fantom
 - zkSync Era
 - OKT (OKX)
 - PulseChain
-- Rayon de lune
+- Moonbeam
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
