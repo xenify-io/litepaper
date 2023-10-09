@@ -35,7 +35,7 @@
 - [Xenify 개요](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xenify-%EA%B0%9C%EC%9A%94)
 - [Xenify 토큰노믹스](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xenify-%ED%86%A0%ED%81%B0%EB%85%B8%EB%AF%B9%EC%8A%A4)
 - [배포 일정](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EB%B0%B0%ED%8F%AC-%EC%9D%BC%EC%A0%95)
-- [XNF 유동성 (Uniswap V3 통합)](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xnf-%EC%9C%A0%EB%8F%99%EC%84%B1-%EC%9C%A0%EB%8B%88%EC%8A%A4%EC%99%91-v3-%ED%86%B5%ED%95%A9)
+- [XNF 유동성 (Uniswap V3 통합)](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xnf-%EC%9C%A0%EB%8F%99%EC%84%B1-uniswap-v3-%ED%86%B5%ED%95%A9)
 - [XNF 발행 과정 및 인센티브](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xnf-%EB%B0%9C%ED%96%89-%EA%B3%BC%EC%A0%95-%EB%B0%8F-%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C)
 - [Xenify 아키텍처](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xenify-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 - [XNF 에어드롭](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xnf-%EC%97%90%EC%96%B4%EB%93%9C%EB%A1%AD)
