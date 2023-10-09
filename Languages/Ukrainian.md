@@ -22,31 +22,31 @@
 # ◽️ Зміст
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- [Вступ](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B2%D1%81%D1%82%D1%83%D0%BF) 
-- [Наша місія](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D0%B0-%D0%BC%D1%96%D1%81%D1%96%D1%8F)
-- [Наші принципи](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D1%96-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8)
-- [Ключові особливості](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%B2%D1%96-%D0%BE%D1%81%D0%BE%D0%B1%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96)
-- [Наші засновники](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D1%96-%D0%B7%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8)
-- [Огляд XEN](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xen)
-- [vXEN - об'єднуючи опіки](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-vxen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D1%83%D1%8E%D1%87%D0%B8-%D0%BE%D0%BF%D1%96%D0%BA%D0%B8)
-- [Поєднання XEN - об'єднання ланцюгів](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-xen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BB%D0%B0%D0%BD%D1%86%D1%8E%D0%B3%D1%96%D0%B2)
-- [YSL - Гіпердефляційний](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-ysl---%D0%B3%D1%96%D0%BF%D0%B5%D1%80%D0%B4%D0%B5%D1%84%D0%BB%D1%8F%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9)
-- [Огляд XNF та veXNF](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xnf-%D1%82%D0%B0-vexnf)
-- [Огляд Xenify](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xenify)
-- [Xenify Tokenomics](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-xenify-tokenomics)
-- [Розклад розгортання](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D1%80%D0%BE%D0%B7%D0%BA%D0%BB%D0%B0%D0%B4-%D1%80%D0%BE%D0%B7%D0%B3%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)
-- [Ліквідність XNF (інтеграція з Uniswap V3)](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BB%D1%96%D0%BA%D0%B2%D1%96%D0%B4%D0%BD%D1%96%D1%81%D1%82%D1%8C-xnf-%D1%96%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D1%96%D1%8F-uniswap-v3)
-- [Процес карбування XNF та стимули](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81-%D0%BA%D0%B0%D1%80%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-xnf-%D1%82%D0%B0-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8)
-- [Архітектура Xenify](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B0%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-xenify) 
-- [Повітряні десанти XNF](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D1%96-%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%B8-xnf)
-- [Користувацький досвід](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9-%D0%B4%D0%BE%D1%81%D0%B2%D1%96%D0%B4)
-- [Безпека](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0)
-- [Висновок](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA)
-- [Часті запитання](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)
-- [Глосарій](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B3%D0%BB%D0%BE%D1%81%D0%B0%D1%80%D1%96%D0%B9)
-- [Подяки](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D0%B4%D1%8F%D0%BA%D0%B8)
-- [Контрактні адреси](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D1%96-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B8)
-- [Корисні посилання](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F)
+- [Вступ](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B2%D1%81%D1%82%D1%83%D0%BF) 
+- [Наша місія](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D0%B0-%D0%BC%D1%96%D1%81%D1%96%D1%8F)
+- [Наші принципи](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D1%96-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B8)
+- [Ключові особливості](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BB%D1%8E%D1%87%D0%BE%D0%B2%D1%96-%D0%BE%D1%81%D0%BE%D0%B1%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96)
+- [Наші засновники](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BD%D0%B0%D1%88%D1%96-%D0%B7%D0%B0%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8)
+- [Огляд XEN](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xen)
+- [vXEN - об'єднуючи опіки](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-vxen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D1%83%D1%8E%D1%87%D0%B8-%D0%BE%D0%BF%D1%96%D0%BA%D0%B8)
+- [Поєднання XEN - об'єднання ланцюгів](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-xen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BB%D0%B0%D0%BD%D1%86%D1%8E%D0%B3%D1%96%D0%B2)
+- [YSL - Гіпердефляційний](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-ysl---%D0%B3%D1%96%D0%BF%D0%B5%D1%80%D0%B4%D0%B5%D1%84%D0%BB%D1%8F%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9)
+- [Огляд XNF та veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xnf-%D1%82%D0%B0-vexnf)
+- [Огляд Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-xenify)
+- [Xenify Tokenomics](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-xenify-tokenomics)
+- [Розклад розгортання](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D1%80%D0%BE%D0%B7%D0%BA%D0%BB%D0%B0%D0%B4-%D1%80%D0%BE%D0%B7%D0%B3%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)
+- [Ліквідність XNF (інтеграція з Uniswap V3)](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BB%D1%96%D0%BA%D0%B2%D1%96%D0%B4%D0%BD%D1%96%D1%81%D1%82%D1%8C-xnf-%D1%96%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D1%96%D1%8F-uniswap-v3)
+- [Процес карбування XNF та стимули](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81-%D0%BA%D0%B0%D1%80%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-xnf-%D1%82%D0%B0-%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D0%B8)
+- [Архітектура Xenify](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B0%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-xenify) 
+- [Повітряні десанти XNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D1%96-%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%B8-xnf)
+- [Користувацький досвід](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9-%D0%B4%D0%BE%D1%81%D0%B2%D1%96%D0%B4)
+- [Безпека](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D0%BA%D0%B0)
+- [Висновок](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA)
+- [Часті запитання](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)
+- [Глосарій](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%B3%D0%BB%D0%BE%D1%81%D0%B0%D1%80%D1%96%D0%B9)
+- [Подяки](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BF%D0%BE%D0%B4%D1%8F%D0%BA%D0%B8)
+- [Контрактні адреси](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D1%96-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B8)
+- [Корисні посилання](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F)
 
 <br>
 
@@ -628,7 +628,7 @@ Xenify зробила величезний крок вперед, інтегру
 
 ## ⭐️ Гори, щоб заробити XNF
 
-Xenify дозволяє користувачам без особливих зусиль записувати токени vXEN або YSL безпосередньо зі своїх гаманців для участі в щоденному циклі запису. Щоб придбати XNF за допомогою XEN, вам потрібно буде пройти процес спалювання вашого варіанту токенів XEN в обмін на vXEN. Зверніть увагу, що кількість vXEN, необхідна для однієї партії, фіксована і становить 10 000 000 vXEN, однак кількість XEN, необхідна для отримання однієї партії, буде варіюватися в залежності від [коефіцієнта спалювання](https://github.com/xenify-io/litepaper/edit/main/Languages/Ukrainian.md#%EF%B8%8F-vxen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D1%83%D1%8E%D1%87%D0%B8-%D0%BE%D0%BF%D1%96%D0%BA%D0%B8), який застосовується до кожного варіанту XEN. Наприклад, якщо ви хочете взяти участь в аукціоні Xenify на Arbitrum, вам потрібно спалити мінімум 10 000 000 XEN (з коефіцієнтом спалювання 1:1), а натомість ви отримаєте 1 партію vXEN (10 000 000 vXEN). Ця функція запису позиціонує наш протокол як ключового гравця в сфері запису токенів XEN першого рівня. Кожного разу, коли ви спалюєте свої токени XEN, ваша адреса буде занесена до запису запису X1, а натомість ви отримаєте vXEN.
+Xenify дозволяє користувачам без особливих зусиль записувати токени vXEN або YSL безпосередньо зі своїх гаманців для участі в щоденному циклі запису. Щоб придбати XNF за допомогою XEN, вам потрібно буде пройти процес спалювання вашого варіанту токенів XEN в обмін на vXEN. Зверніть увагу, що кількість vXEN, необхідна для однієї партії, фіксована і становить 10 000 000 vXEN, однак кількість XEN, необхідна для отримання однієї партії, буде варіюватися в залежності від [коефіцієнта спалювання](https://github.com/xenify-io/litepaper/blob/main/Languages/Ukrainian.md#%EF%B8%8F-vxen---%D0%BE%D0%B1%D1%94%D0%B4%D0%BD%D1%83%D1%8E%D1%87%D0%B8-%D0%BE%D0%BF%D1%96%D0%BA%D0%B8), який застосовується до кожного варіанту XEN. Наприклад, якщо ви хочете взяти участь в аукціоні Xenify на Arbitrum, вам потрібно спалити мінімум 10 000 000 XEN (з коефіцієнтом спалювання 1:1), а натомість ви отримаєте 1 партію vXEN (10 000 000 vXEN). Ця функція запису позиціонує наш протокол як ключового гравця в сфері запису токенів XEN першого рівня. Кожного разу, коли ви спалюєте свої токени XEN, ваша адреса буде занесена до запису запису X1, а натомість ви отримаєте vXEN.
 
 Важливо відзначити, що коли ви вирішите спалити свої vXEN для участі в щоденному аукціоні з розподілу XNF, застосовується плата за спалення. В кінці циклу ви отримаєте токени XNF відповідно до кількості спалених вами партій vXEN. Подібно до процесу спалювання vXEN, за спалювання токенів YSL також стягується плата за спалювання. Курс конвертації для придбання однієї партії в процесі спалювання YSL буде фіксованим - 0,1 YSL еквівалентний одній партії. В кінці циклу ви отримаєте токени XNF на основі кількості спалених вами партій YSL.
 
