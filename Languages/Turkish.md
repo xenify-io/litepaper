@@ -598,7 +598,7 @@ Xenify, Uniswap V3 havuzlarını entegre ederek ileriye doğru muazzam bir adım
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 İlk Döngü
+## 🌊 İlk Likidite Döngüsü
 
 Topluluğumuzun en başından itibaren XNF ticareti yapabilmesini sağlayan sağlam bir ekosistemi güçlendirmek için, lansman sırasında protokole ait likiditenin önyüklemesi için 100.000 XNF ayrılacaktır. İlk döngü sona erdikten sonra, protokolümüz bu XNF tahsisini kullanarak XNF-ETH ticaret çiftini oluşturacaktır. Bu süreci kolaylaştırmak için protokol, döngünün sonunda bir XNF-ETH V3 likidite havuzu oluşturmak için ilk gün katılımından elde edilen ücretlerin çoğunu (takas ücretleri, yerel ücretler ve yakma ücretleri dahil) kullanacaktır.
 
@@ -606,7 +606,7 @@ XNF-ETH çifti için başlangıç fiyatı 1,00$ olarak belirlenerek hem ETH hem 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Sonraki Döngüler
+## 🌊 Sonraki Likidite Döngüleri
 
 Protokolümüz, sonraki her döngüde XNF protokolüne ait likiditenin sürekli büyümesini sağlamak üzere tasarlanmıştır. İkinci döngüden itibaren, yakma ücretleri, yerel ücretler, takas ücretleri ve geri dönüşüm faaliyetleri yoluyla günlük olarak elde edilen ETH, XNF likiditesinin çoğalmasını desteklemek için kullanılacaktır. Bu çerçevede, ETH'nin %50'si XNF'yi piyasaya sürmek için kullanılır ve elde edilen XNF, ETH'nin geri kalanıyla eşleştirilir ve tam aralıkta XNF-ETH likiditesi olarak eklenir. Döngüden bağımsız olarak, protokole ait bu likidite havuzundaki tüm işlemlere tutarlı bir %1 alım satım ücreti uygulandığını belirtmek önemlidir.
 
