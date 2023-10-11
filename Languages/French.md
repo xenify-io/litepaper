@@ -598,7 +598,7 @@ Xenify a fait un pas en avant monumental en intégrant les pools Uniswap V3. Cet
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Cycle initial
+## 🌊 Cycle de Liquidité Initial
 
 Afin de mettre en place un écosystème solide permettant à notre communauté d'échanger des XNF dès le début, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Après la fin du cycle initial, notre protocole créera la paire XNF-ETH en utilisant cette allocation de XNF. Pour faciliter ce processus, le protocole utilisera la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) pour établir un pool de liquidité XNF-ETH V3 à la fin du cycle.
 
@@ -606,7 +606,7 @@ Le prix initial de la paire XNF-ETH est fixé à 1,00 $, ce qui garantit une ré
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Cycles suivants
+## 🌊 Cycles de Liquidité Ultérieurs
 
 Notre protocole est conçu pour assurer la croissance perpétuelle de la liquidité détenue par le protocole XNF à chaque cycle ultérieur. À partir du deuxième cycle, l'ETH obtenu quotidiennement par le biais des burn fees, des native fees, des swap fees et des activités de recyclage sera utilisé pour soutenir la prolifération de la liquidité du XNF. Dans ce cadre, 50 % de l'ETH est utilisé pour acheter des XNF sur le marché, et les XNF acquis sont associés au reste de l'ETH et ajoutés en tant que liquidité XNF-ETH à pleine échelle. Il est important de noter que, quel que soit le cycle, des frais de transaction de 1 % sont appliqués à toutes les transactions au sein de ce pool de liquidités appartenant au protocole.
 
