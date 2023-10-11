@@ -598,7 +598,7 @@ A Xenify deu um passo monumental em frente ao integrar os pools Uniswap V3. Esta
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Ciclo inicial
+## 🌊 Ciclo Inicial de Liquidez
 
 Para capacitar um ecossistema robusto que permite que nossa comunidade negocie XNF desde o início, 100,000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo no lançamento. Após o término do ciclo inicial, nosso protocolo criará o par de negociação XNF-ETH usando essa alocação de XNF. Para facilitar este processo, o protocolo utilizará a maioria das taxas geradas pela participação no primeiro dia (incluindo taxas de swap, taxas nativas e taxas de queima) para estabelecer um pool de liquidez XNF-ETH V3 no final do ciclo.
 
@@ -606,7 +606,7 @@ O preço inicial para o par XNF-ETH é fixado em US$ 1,00, garantindo uma distri
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## Ciclos subsequentes
+## 🌊 Ciclos de Liquidez Subsequentes
 
 Nosso protocolo é projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo XNF a cada ciclo subsequente. A partir do segundo ciclo, a ETH obtida diariamente através de taxas de queima, taxas nativas, taxas de troca e actividades de reciclagem será utilizada para apoiar a proliferação de liquidez XNF. Dentro desta estrutura, 50% do ETH é usado para comprar XNF no mercado, e o XNF adquirido é emparelhado com o resto do ETH e adicionado como liquidez XNF-ETH em toda a gama. É importante notar que, independentemente do ciclo, uma taxa de negociação consistente de 1% é aplicada a todas as transações dentro deste pool de liquidez de propriedade do protocolo.
 
