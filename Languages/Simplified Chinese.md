@@ -594,6 +594,12 @@ Xenify 正准备大干一场，为下一步的大动作筛选一批区块链。�
 # ◽️ XNF 流动性（Uniswap V3 集成）
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Chinese](https://github.com/xenify-io/litepaper/assets/66044824/9df2bbfc-6edb-47bb-a7fa-970fa1aa8dce)
+
+<br>
+
 Xenify 通过整合 Uniswap V3 池向前迈出了重要的一步。这一战略决策不仅展示了我们对利用 DeFi 最新创新技术的承诺，还增强了用户的流动性选择，同时巩固了我们的市场地位。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
