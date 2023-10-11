@@ -594,6 +594,12 @@ XNF является жизненной силой протокола Xenify и 
 # ◽️ Ликвидность XNF (интеграция Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Russian](https://github.com/xenify-io/litepaper/assets/66044824/e37948cb-1f61-48ff-94cb-cb00f64c4020)
+
+<br>
+
 Компания Xenify сделала огромный шаг вперед, интегрировав пулы Uniswap V3. Это стратегическое решение не только демонстрирует наше стремление к использованию последних инноваций в области DeFi, но и расширяет возможности ликвидности, доступные нашим пользователям, укрепляя наши позиции на рынке.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
