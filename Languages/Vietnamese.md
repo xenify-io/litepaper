@@ -598,7 +598,7 @@ Xenify đã có một bước tiến vượt bậc bằng cách tích hợp các
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Chu kỳ ban đầu
+## 🌊 Chu kỳ Tài sản Thanh khoản Ban đầu
 
 Để trao quyền cho một hệ sinh thái mạnh mẽ cho phép cộng đồng của chúng tôi giao dịch XNF ngay từ đầu, 100.000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap khi ra mắt. Sau khi chu kỳ ban đầu kết thúc, giao thức của chúng tôi sẽ tạo cặp giao dịch XNF-ETH bằng cách sử dụng phân bổ XNF này. Để tạo điều kiện thuận lợi cho quá trình này, giao thức sẽ sử dụng phần lớn phí được tạo ra từ việc tham gia ngày đầu tiên (bao gồm phí hoán đổi, phí gốc và phí đốt) để thiết lập nhóm thanh khoản XNF-ETH V3 vào cuối chu kỳ.
 
@@ -606,7 +606,7 @@ Giá ban đầu cho cặp XNF-ETH được đặt ở mức 1,00 USD, đảm b�
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Các chu kỳ tiếp theo
+## 🌊 Các Chu kỳ Tài sản Thanh khoản Tiếp theo
 
 Giao thức của chúng tôi được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức XNF sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản XNF. Trong khuôn khổ này, 50% ETH được sử dụng để mua XNF trên thị trường và XNF thu được sẽ được ghép nối với phần còn lại của ETH và được thêm dưới dạng thanh khoản XNF-ETH ở phạm vi đầy đủ. Điều quan trọng cần lưu ý là, bất kể chu kỳ, phí giao dịch nhất quán 1% sẽ được áp dụng cho tất cả các giao dịch trong nhóm thanh khoản thuộc sở hữu giao thức này.
 
