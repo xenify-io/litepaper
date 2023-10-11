@@ -594,6 +594,12 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 # ◽️ XNF Likiditesi (Uniswap V3 Entegrasyonu)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Turkish](https://github.com/xenify-io/litepaper/assets/66044824/e766747a-0216-4b69-9a26-c45775250104)
+
+<br>
+
 Xenify, Uniswap V3 havuzlarını entegre ederek ileriye doğru muazzam bir adım attı. Bu stratejik karar, yalnızca DeFi'deki en son yeniliklerden yararlanma konusundaki kararlılığımızı göstermekle kalmıyor, aynı zamanda kullanıcılarımıza sunulan likidite seçeneklerini artırırken pazardaki konumumuzu da sağlamlaştırıyor.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
