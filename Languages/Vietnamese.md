@@ -594,6 +594,12 @@ Xenify đang sẵn sàng phát triển quy mô lớn, tăng quy mô một loạt
 # ◽️ Thanh khoản XNF ( Tích hợp Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Vietnamese](https://github.com/xenify-io/litepaper/assets/66044824/d79e4b5c-463d-4a98-a9b4-4886299c8d45)
+
+<br>
+
 Xenify đã có một bước tiến vượt bậc bằng cách tích hợp các nhóm Uniswap V3. Quyết định chiến lược này không chỉ thể hiện cam kết của chúng tôi trong việc tận dụng những cải tiến mới nhất trong DeFi mà còn nâng cao các tùy chọn thanh khoản có sẵn cho người dùng, đồng thời củng cố vị thế trên thị trường của chúng tôi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
