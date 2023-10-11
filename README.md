@@ -594,11 +594,17 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 # ◽️ XNF Liquidity (Uniswap V3 Integration)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br> 
+
+![Xenify Moving Background](https://github.com/xenify-io/litepaper/assets/60996729/de122c0c-702e-4c7d-a316-11016c93302a)
+
+<br>
+
 Xenify has taken a monumental step forward by integrating Uniswap V3 pools. This strategic decision not only showcases our commitment to leveraging the latest innovations in DeFi, but also enhances the liquidity options available to our users, while solidifying our market position. 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Initial Cycle
+## 🌊 Initial Liquidity Cycle
 
 To empower a robust ecosystem that enables our community to trade XNF right from the start, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. After the initial cycle ends, our protocol will create the XNF-ETH trading pair using this allocation of XNF. To facilitate this process, the protocol will utilise a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) to establish an XNF-ETH V3 liquidity pool at the end of the cycle. 
 
@@ -606,7 +612,7 @@ The initial price for the XNF-ETH pair is set at $1.00, ensuring an equal distri
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Subsequent Cycles
+## 🌊 Subsequent Liquidity Cycles
 
 Our protocol is designed to ensure the perpetual growth of XNF protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 50% of the ETH is used to market-buy XNF, and the acquired XNF is paired with the rest of the ETH and added as XNF-ETH liquidity at full range. It is important to note that, regardless of the cycle, a consistent 1% trading fee is applied to all transactions within this protocol-owned liquidity pool.
 
