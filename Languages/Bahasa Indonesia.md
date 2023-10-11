@@ -598,7 +598,7 @@ Xenify telah mengambil langkah monumental dengan mengintegrasikan pool Uniswap V
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Siklus Awal
+## 🌊 Siklus Likuiditas Awal
 
 Untuk memberdayakan ekosistem yang kuat yang memungkinkan komunitas kami memperdagangkan XNF sejak awal, 100.000 XNF akan disisihkan untuk melakukan bootstrap likuiditas yang dimiliki protokol pada saat peluncuran. Setelah siklus awal berakhir, protokol kami akan membuat pasangan perdagangan XNF-ETH menggunakan alokasi XNF ini. Untuk memfasilitasi proses ini, protokol akan menggunakan sebagian besar biaya yang dihasilkan dari partisipasi hari pertama (termasuk biaya swap, biaya asli, dan biaya pembakaran) untuk membuat kumpulan likuiditas XNF-ETH V3 di akhir siklus.
 
@@ -606,7 +606,7 @@ Harga awal untuk pasangan XNF-ETH ditetapkan pada $1,00, memastikan distribusi y
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Siklus Berikutnya
+## 🌊 Siklus Likuiditas Berikutnya
 
 Protokol kami dirancang untuk memastikan pertumbuhan berkelanjutan dari likuiditas yang dimiliki protokol XNF dengan setiap siklus berikutnya. Dari siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka kerja ini, 50% dari ETH digunakan untuk membeli XNF di pasar, dan XNF yang diperoleh dipasangkan dengan sisa ETH dan ditambahkan sebagai likuiditas XNF-ETH dengan jangkauan penuh. Penting untuk dicatat bahwa, terlepas dari siklusnya, biaya perdagangan 1% yang konsisten diterapkan pada semua transaksi dalam kumpulan likuiditas yang dimiliki protokol ini.
 
