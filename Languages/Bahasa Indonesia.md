@@ -594,6 +594,12 @@ Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain u
 # ◽️ Likuiditas XNF (Integrasi Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Indo](https://github.com/xenify-io/litepaper/assets/66044824/06fafdf0-fd3e-428a-877a-f9394197e323)
+
+<br>
+
 Xenify telah mengambil langkah monumental dengan mengintegrasikan pool Uniswap V3. Keputusan strategis ini tidak hanya menunjukkan komitmen kami untuk memanfaatkan inovasi terbaru dalam DeFi, tetapi juga meningkatkan opsi likuiditas yang tersedia bagi pengguna kami, sekaligus memperkuat posisi pasar kami.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
