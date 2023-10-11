@@ -594,6 +594,12 @@ A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cad
 # ◽️ XNF Liquidez (Integração Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Portuguese](https://github.com/xenify-io/litepaper/assets/66044824/f574235a-3d51-4513-bfca-011e47f34c69)
+
+<br>
+
 A Xenify deu um passo monumental em frente ao integrar os pools Uniswap V3. Esta decisão estratégica não só demonstra o nosso compromisso em alavancar as últimas inovações em DeFi, mas também aumenta as opções de liquidez disponíveis para os nossos utilizadores, ao mesmo tempo que solidifica a nossa posição no mercado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
