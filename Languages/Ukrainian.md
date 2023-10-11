@@ -594,6 +594,12 @@ Xenify готується до великих звершень, обираючи
 # ◽️ Ліквідність XNF (Інтеграція Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify Ukrainian](https://github.com/xenify-io/litepaper/assets/66044824/8016ebb7-c933-45b7-96c2-2c9448d02bd9)
+
+<br>
+
 Xenify зробила величезний крок вперед, інтегрувавши пули Uniswap V3. Це стратегічне рішення не тільки демонструє наше прагнення використовувати останні інновації в DeFi, а й розширює можливості ліквідності, доступні для наших користувачів, зміцнюючи наші позиції на ринку.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
