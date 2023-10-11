@@ -594,6 +594,12 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 # ◽️ Liquidité XNF (intégration Uniswap V3)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+![Xenify French](https://github.com/xenify-io/litepaper/assets/66044824/1fcdc49d-8093-45cd-848a-6a952939304b)
+
+<br>
+
 Xenify a fait un pas en avant monumental en intégrant les pools Uniswap V3. Cette décision stratégique démontre non seulement notre engagement à tirer parti des dernières innovations en matière de DeFi, mais améliore également les options de liquidité disponibles pour nos utilisateurs, tout en consolidant notre position sur le marché.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
