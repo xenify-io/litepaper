@@ -1,4 +1,4 @@
-<p align="center" dir="auto">
+ <p align="center" dir="auto">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/b944b69c-7e73-4e29-aa61-7b85593c5aab" class="source-light">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/60996729/56810caa-4189-4781-ade7-f8ce85ea5d6b" class="source-dark">
@@ -92,7 +92,7 @@ Pero Xenify es más que un simple protocolo: es una comunidad. Nos apasiona capa
 
 <br>
 
-En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición nos ha llevado a perseguir el audaz objetivo de revolucionar el intercambio de tokens entre cadenas. Guiados por nuestros firmes valores fundamentales, tenemos la misión de construir una experiencia transformadora que elimine barreras, amplíe la accesibilidad y empodere a los usuarios de todo el mundo. Como parte integral del ecosistema XEN, Xenify es inquebrantable en su dedicación a nutrir una comunidad vibrante que comparte nuestra visión de un futuro brillante y descentralizado. Nos esforzamos constantemente por elevar nuestros estándares y mantenemos el compromiso de defender los Primeros Principios de Crypto en todos nuestros esfuerzos:
+En Xenify no nos conformamos con seguir el status quo. Nuestra inquebrantable ambición nos ha llevado a perseguir el objetivo de revolucionar el intercambio de tokens entre cadenas. Guiados por nuestros firmes valores, tenemos la misión de construir una experiencia transformadora que elimine barreras, amplíe la accesibilidad y empodere a los usuarios de todo el mundo. Como parte integral del ecosistema XEN, Xenify es inquebrantable en su dedicación a nutrir una comunidad vibrante que comparte nuestra visión de un futuro brillante y descentralizado. Nos esforzamos constantemente por elevar nuestros estándares y mantenemos el compromiso de defender los Primeros Principios de Crypto en todos nuestros esfuerzos:
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -110,7 +110,7 @@ En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición
 
 ## ⭐️ Transparencia
 
-  - Nos esforzamos por construir una base sólida de confianza y responsabilidad dentro de la comunidad. Xenify defiende el código de solidez de código abierto y mantiene canales de comunicación claros para fomentar un entorno de colaboración y honestidad.
+  - Nos esforzamos por construir una base de confianza sólida y de responsabilidad dentro de la comunidad. Xenify defiende la solidez del código abierto y mantiene canales de comunicación claros para fomentar un entorno de colaboración y honestidad.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -122,7 +122,7 @@ En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición
 
 ## ⭐️ Capacitación del usuario
 
-  - Empoderamos a nuestros usuarios para que tomen el control de su patrimonio, gobernanza y crecimiento. Xenify permite a los usuarios acuñar sus propios tokens, tener voz en la dirección del protocolo y compartir su éxito. Nuestros usuarios no son meros pasajeros en este viaje: son una parte esencial del mismo y tienen el poder de dirigir su propio rumbo.
+  - Empoderamos a nuestros usuarios para que tomen el control de sus ganancias, gobernanza y de su crecimiento. Xenify permite a los usuarios mintar sus propios tokens, tener voz en la dirección del protocolo y compartir su éxito. Nuestros usuarios no son meros pasajeros en este viaje: son una parte esencial del mismo y tienen el poder de dirigir su propio rumbo.
 
 <br>
 
@@ -132,19 +132,19 @@ En Xenify no nos conformamos con el status quo. Nuestra inquebrantable ambición
 
 <br>
 
-Construido sobre una base de equidad, simplicidad, transparencia, empoderamiento del usuario e interoperabilidad, Xenify no se conforma con jugar al juego, sino que está aquí para sacudir las cosas y reescribir las reglas del juego. Con una potente amalgama de funciones innovadoras y centradas en el usuario, diseñadas para revolucionar la forma en que navegamos e interactuamos a través de múltiples cadenas, Xenify es algo más que una simple incorporación al ecosistema XEN. Profundicemos en algunas de las características más destacadas que distinguen a Xenify de los protocolos convencionales.
+Construido sobre una base de equidad, simplicidad, transparencia, empoderamiento para los usuarios e interoperabilidad, Xenify no se conforma con ser un participante más en el juego, sino que está aquí para sacudir las cosas y reescribir las reglas del mismo. Con una potente amalgama de funciones innovadoras y centradas en los usuarios, diseñadas para revolucionar la forma en que navegamos e interactuamos a través de múltiples cadenas, Xenify es algo más que una simple incorporación al ecosistema XEN. Profundicemos en algunas de las características más destacadas que distinguen a Xenify de los protocolos convencionales.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Principios de Xenify
 
-Xenify se distingue en el espacio DeFi por su compromiso inquebrantable con la equidad, la simplicidad, la transparencia, el empoderamiento del usuario y la interoperabilidad. Estos principios rectores son la base del desarrollo y crecimiento de Xenify, y nos impulsan a revolucionar la experiencia DeFi y crear un ecosistema más inclusivo, accesible e interconectado.
+Xenify se distingue en el espacio DeFi por su compromiso inquebrantable con la equidad, la simplicidad, la transparencia, el empoderamiento de los usuarios y de la interoperabilidad. Estos principios rectores son la base del desarrollo y crecimiento de Xenify, y nos impulsan a revolucionar la experiencia DeFi así como a crear un ecosistema más inclusivo, accesible e interconectado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Capacidades avanzadas de agregación entre cadenas
 
-Con Xenify, el intercambio entre cadenas nunca ha sido tan fluido y eficiente, rompiendo barreras y fomentando un ecosistema DeFi más interconectado. Una característica destacada que diferencia a Xenify del resto es que somos un metaagregador de agregadores entre cadenas. Aunque el término pueda sonar complejo, simplemente significa que reunimos múltiples agregadores de cadenas cruzadas en una única plataforma. Aprovechando nuestro avanzado protocolo de agregación de liquidez, somos capaces de transformar la forma en que los usuarios realizan la transición entre redes de blockchain. Además, los usuarios tienen la oportunidad de ganar tokens nativos de las respectivas cadenas a diario, mejorando aún más su cartera. Con acceso a tarifas competitivas y liquidez excepcional de 28 agregadores a través de 52 cadenas, nuestros usuarios disfrutan de beneficios sin precedentes y una mayor flexibilidad en la gestión de sus activos.  
+Con Xenify, el intercambio entre cadenas nunca ha sido tan fluido y eficiente, rompiendo barreras y fomentando un ecosistema DeFi más interconectado. Una característica destacada que diferencia a Xenify del resto es que somos un metaagregador de agregadores entre cadenas. Aunque el término pueda sonar complejo, simplemente significa que reunimos múltiples agregadores de cross-chain en una única plataforma. Aprovechando nuestro avanzado protocolo de agregación de liquidez, somos capaces de transformar la forma en que los usuarios realizan transiciones entre redes de blockchain. Además, los usuarios tienen la oportunidad de ganar tokens nativos de las respectivas cadenas a diario, mejorando aún más su cartera. Con acceso a tarifas competitivas y liquidez excepcional proveniente de 28 agregadores a través de 52 cadenas, nuestros usuarios disfrutan de beneficios sin precedentes y una mayor flexibilidad en la gestión de sus activos.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
