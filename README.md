@@ -22,6 +22,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 # ◽️ Contents
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Pumpamentals](https://github.com/xenify-io/litepaper#%EF%B8%8F-pumpamentals)
 - [Introduction](https://github.com/xenify-io/litepaper#%EF%B8%8F-introduction)
 - [Our Mission](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-mission)
 - [Our Principles](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-principles)
@@ -130,7 +131,7 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 - Optimal swaps across 28 Aggregators over 52 chains.
 
-- Integration with Uniswap V3, with all Protocol Owned Liquidity is locked within the protocol.
+- Integration with Uniswap V3, where all Protocol-Owned Liquidity is locked within the contract.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
