@@ -72,7 +72,7 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🌊 XNF Liquidity
 
-- 40% of ETH acquired from the daily auctions will be used towards the XNF-WETH protocol-owned liquidity provisioning.
+- 40% of ETH acquired from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 - 90% of recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
