@@ -64,7 +64,7 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 - 10% of ETH acquired from the daily auctions will be utilised to purchase XNF and given as veXNF rewards (with a 1-year lock) to those who recycled their ETH during a cycle.
 
-- 20% of ETH (representing half of the 40% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity.
+- 20% of ETH (representing half of the 40% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity on Uniswap V3.
 
 - 45% of ETH (amounting to half of the 90% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity sourced from recycled ETH.
 
