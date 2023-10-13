@@ -115,9 +115,9 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🔥 vXEN Token
 
-- vXEN allows all XEN participants across all ecosystem chains to participate in the daily burn auctions.
+- vXEN enables participants from the XEN ecosystem's EVM chains to participate in daily burn auctions.
 
-- vXEN is minted through the burn of XEN tokens across all support XEN ecosystem chains. When a holder burns XEN from any chain it will be recorded on the burn record.
+- vXEN is minted by burning XEN native tokens across all supported XEN ecosystem chains. When a holder burns native XEN from any of these chains, the action is recorded in the burn record.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
