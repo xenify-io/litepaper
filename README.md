@@ -1454,6 +1454,11 @@ We understand that you may have questions about Xenify, its features, and its po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ◽️ Is your contracts open sourced?
+- Yes, our contracts are open-sourced and licensed under the BSD-3-Clause License. This means that developers and the wider community can view, use, and modify our code. However, any modifications or redistributions of the code must retain the original copyright notice. We believe in transparency and the power of collaborative development, which is why we've chosen to open-source our contracts.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ◽️ Does XNF have an initial supply?
   - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol rewards users on a daily basis for their active participation in the ecosystem. This is achieved through various contributions, such as burn fee contributions made by directly burning vXEN or YSL tokens, native token contributions,  as well as swap fees generated through the Xenify aggregator. Notably, 40% of the burn fees and swap fees collected on supported EVM chains are directed towards veXNF holders on a daily basis, providing significant long-term earning potential.
 
