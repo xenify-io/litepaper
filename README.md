@@ -54,6 +54,12 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 # ◽️ Pumpamentals
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+<br>
+
+Xenify is more than just a protocol; it stands as a shining beacon of innovation and a testament to community empowerment. Representing the pinnacle of cross-chain capabilities fused with rewarding tokenomics and proactive buyback initiatives, Xenify is setting new standards in the DeFi landscape. As we navigate this thrilling journey, we're thrilled to unveil the fundamental "Pumpamentals" that underpin Xenify's ambitious vision. With unparalleled liquidity provisions, transformative reward mechanisms, and a commitment to reinforcing token value through buybacks, every aspect of Xenify has been meticulously designed to maximize value and foster deep community engagement.
+
+<br>
+
 ## 🚀 XNF Buybacks
 
 - 10% of ETH acquired from the daily auctions will be utilised to purchase XNF and given as veXNF rewards (with a 1-year lock) to those who recycled their ETH during a cycle.
@@ -128,7 +134,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⛓ Token Bridge
+## ⛓ Bridging Solutions
 
 - LayerZero OFT
 - Axelar
