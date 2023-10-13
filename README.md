@@ -154,9 +154,9 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🔒 Team & Security
 
-- KYCd by Solidproof 
-- Audited by Solidproof
 - Audited by Peckshield
+- Audited by Solidproof
+- KYC verified by Solidproof
 
 <br>
 
