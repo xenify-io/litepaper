@@ -144,10 +144,10 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🔍 First Principles
 
-- Trustless
 - Open-sourced
 - No admin keys
 - Immutable code
+- Completely Trustless
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
