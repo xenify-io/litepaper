@@ -51,6 +51,108 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ Executive Pumpamentals
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+## 🚀 XNF Buybacks
+
+- 10% of ETH acquired from the daily auctions will be utilised to purchase XNF and given as veXNF rewards (with a 1-year lock) to those who recycled their ETH during a cycle.
+
+- 20% of ETH (representing half of the 40% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity.
+
+- 45% of ETH (amounting to half of the 90% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity sourced from recycled ETH.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 XNF Liquidity
+
+- 40% of ETH acquired from the daily auctions will be used towards the XNF-WETH protocol-owned liquidity provisioning.
+
+- 90% of recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 💰 ETH Rewards
+
+- 25% claim fee on the ETH rewards will be distributed to those that recycled in the first hour of a cycle in accordance to their veXNF power.
+
+- 40% of ETH acquired from the daily auctions will be distributed to veXNF holders in accordance with their power.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⚡️ XNF Rewards
+
+- 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
+
+- 25% of XNF supply is distributed each day to those that burn and participate in the vXEN Burn Auction.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⚡️ veXNF Rewards
+
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH auction.
+
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap auction.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 💎 XNF Total Supply
+
+- Maximum Cap: 22.6m
+
+- 50% of all auctioned XNF is locked for 1 year and distributed as veXNF rewards.
+
+- Features aggressive halving with the first halving in 3 months, second halving in 6 months, third halving in 12 months, fourth halving in 24 months, firth halving in 48 months, and four 48 months halving’s till the remaining supply is distributed.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🔥 vXEN Token
+
+- vXEN allows all XEN participants across all ecosystem chains to participate in the daily burn auctions.
+
+- vXEN is minted through the burn of XEN tokens across all support XEN ecosystem chains. When a holder burns XEN from any chain it will be recorded on the burn record.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⚙️ Protocol Features
+
+- veNFT locking mechanisms.
+
+- Cross-chain XEN burning capability.
+
+- Cross-chain XEN bridging capability. 
+
+- Optimal swaps across 28 Aggregators over 52 chains.
+
+- Integration with Uniswap V3, with all Protocol Owned Liquidity is locked within the protocol.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⛓ Token Bridge
+
+- LayerZero OFT
+- Axelar
+- Wormhole
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🔍 First Principles
+
+- Open-sourced
+- No admin keys
+- Immutable code
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🔒 Team & Security
+
+- KYCd by Solidproof 
+- Audited by Solidproof
+- Audited by Peckshield
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Introduction
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
