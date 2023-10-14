@@ -63,19 +63,19 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🚀 XNF Buybacks
 
-- 10% of ETH acquired from the daily auctions will be utilised to purchase XNF and given as veXNF rewards (with a 1-year lock) to those who recycled their ETH during a cycle.
+- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during a given cycle.
 
-- 20% of ETH (representing half of the 40% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity on Uniswap V3.
+- 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
-- 45% of ETH (amounting to half of the 90% XNF-WETH POL allocation) is used to acquire XNF and subsequently added to the protocols full-range liquidity sourced from recycled ETH.
+- 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 XNF Liquidity
 
-- 40% of ETH acquired from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
+- 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
-- 90% of recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
+- 90% of the recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
