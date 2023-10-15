@@ -129,9 +129,9 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ## 🔏 veXNF - Locking XNF
 
-- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this earning power.
+- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
 
-- veXNF holders who initially locked for 1 year and choose not to extend their lock periods will face a significant drop in their earning potential. Their earning power decreases by 50% within just 30 days. By the 60-day mark, their earning power is entirely wiped out. This means they would have to endure a 10-month period with zero earnings before they can unlock their XNF.
+- For example, if veXNF holders initially locked their assets for 1 year but opt not to extend their lock periods, they'll face a sharp decline in their earning potential. Within the span of 30 days, their earning power halves, and by the 60-day mark, it's completely depleted. Consequently, they'll be left without earnings for a 10-month stretch before they can access their XNF again.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
