@@ -87,6 +87,12 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## 💰 ETH Recycling
+
+- Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. Furthermore, they are entitled to a share of the XNF buybacks during the cycle. This portion is determined by their power and is awarded as veXNF rewards with a 1-year lock-in, subsequently enhancing their earning potential once claimed. The most notable benefit of recycling is the automatic inclusion in the burn auctions, removing the necessity to burn alternative tokens such as vXEN or YSL.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## ⚡️ XNF Rewards
 
 - 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
@@ -113,17 +119,11 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🧩 veXNF Game Theory
+## 🔒 veXNF - Locking XNF
 
 - The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this earning power.
 
 - veXNF holders who initially locked for 1 year and choose not to extend their lock periods will face a significant drop in their earning potential. Their earning power decreases by 50% within just 30 days. By the 60-day mark, their earning power is entirely wiped out. This means they would have to endure a 10-month period with zero earnings before they can unlock their XNF.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## 🧩 Recycling Game Theory
-
-- Those who recycle ETH within the initial hour of a cycle can earn a share of the ETH claim fees from that cycle, proportional to their veXNF power. On top of that, they receive a share of the XNF buybacks. This share is allocated based on their power and distributed as veXNF rewards with a 1-year lock, subsequently boosting their earning capacity. The most significant advantage of recycling is automatic participation in the burn auctions, which obviates the need to burn alternative tokens such as vXEN or YSL.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -176,7 +176,7 @@ Xenify is more than just a protocol; it stands as a shining beacon of innovation
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🔒 Team & Security
+## ⚠️ Team & Security
 
 - Audited by Peckshield
 - Audited by Solidproof
