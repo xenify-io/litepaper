@@ -57,7 +57,11 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-Xenify is more than just a protocol; it stands as a shining beacon of innovation and a testament to community empowerment. Representing the pinnacle of cross-chain capabilities fused with rewarding tokenomics and proactive buyback initiatives, Xenify is setting new standards in the DeFi landscape. As we navigate this thrilling journey, we're thrilled to unveil the fundamental "Pumpamentals" that underpin Xenify's ambitious vision. With unparalleled liquidity provisions, transformative reward mechanisms, and a commitment to reinforcing token value through buybacks, every aspect of Xenify has been meticulously designed to maximize value and foster deep community engagement.
+For those short on time, this section provides an overview of the core "Pumpamentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates daily buybacks to bolster value while rewarding veXNF holders.
+
+You'll also discover Xenify's fair and transparent token distribution model, with no allocation to the team, founders or investors. Plus, Xenify's unique game theory-based incentive structure that cultivates a positive feedback loop of continual engagement and participation.
+
+At its core, Xenify offers the best of both worlds: an ultra-efficient swap experience paired with significant earning potential. Truly pioneering in both its design and functionality, Xenify has been purpose-built to foster sustainable expansion and value creation for the entire community. Read on to uncover how Xenify is transforming the future of DeFi with its unique approach. 
 
 <br>
 
