@@ -117,7 +117,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 💎 XNF Total Supply
 
-- Maximum Cap: 22.6m
+- Maximum Supply: 22.6m
 
 - 50% of all auctioned XNF is locked for 1 year and distributed as veXNF rewards.
 
