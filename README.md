@@ -127,6 +127,20 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## ⚡️ XNF Daily Auctions
+
+- 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
+
+- 25% of XNF supply is distributed each day to those that burn and participate in the vXEN Burn Auction.
+
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH auction.
+
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap auction.
+
+- Users who participate in the first hour and take advantage of both the Time Coefficient (TC) and the Batch Coefficient (BC) can achieve significant discounts. Specifically, by burning 10,000 batches in the first hour, they can receive up to a 75% discount. At the cycle's start, the TC offers a 50% discount, which diminishes by the last hour. Concurrently, the BC adjusts the discount based on batches burned, impacting the total discount rate.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## 🔥 vXEN - Unifying Burns
 
 - vXEN enables participants from the XEN ecosystem's EVM chains to participate in daily burn auctions.
