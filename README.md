@@ -157,7 +157,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Optimal swaps across 28 Aggregators over 52 chains.
 
-- Integration with Uniswap V3, where all Protocol-Owned Liquidity is locked within the contract.
+- Integration with Uniswap V3, where 50% of all Protocol-Owned Liquidity is sourced from 50% buybacks and is locked within the contract for the full range pairing.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
