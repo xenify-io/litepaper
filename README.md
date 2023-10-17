@@ -67,7 +67,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🌊 XNF Liquidity
 
-- Integration with Uniswap V3, where all XNF is sourced from buybacks and is locked within the contract at a full range pairing.
+- Integration with Uniswap V3, where all XNF is sourced from buybacks and is locked within the protocol at a full range pairing.
 
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
