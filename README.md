@@ -77,6 +77,8 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🌊 XNF Liquidity
 
+- Integration with Uniswap V3, where 50% of all Protocol-Owned Liquidity is sourced from buybacks and is locked within the contract for the full range pairing.
+
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 - 90% of the recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
@@ -156,8 +158,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Cross-chain XEN bridging capability. 
 
 - Optimal swaps across 28 Aggregators over 52 chains.
-
-- Integration with Uniswap V3, where 50% of all Protocol-Owned Liquidity is sourced from 50% buybacks and is locked within the contract for the full range pairing.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
