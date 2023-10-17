@@ -65,16 +65,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-## 🚀 XNF Buybacks
-
-- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during a given cycle.
-
-- 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
-
-- 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## 🌊 XNF Liquidity
 
 - Integration with Uniswap V3, where all XNF is sourced from buybacks and is locked within the contract at a full range pairing.
@@ -82,6 +72,16 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 - 90% of the recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🚀 XNF Buybacks
+
+- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during a given cycle.
+
+- 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
+
+- 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
