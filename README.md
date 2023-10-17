@@ -127,15 +127,15 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚡️ XNF Daily Auctions
+## 🗳 XNF Daily Auctions
 
-- 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
+- Every day, 50% of the XNF supply is distributed to participants in burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given day, the user who burned the single YSL batch would receive the full 25% of the XNF supply, while the vXEN burners would share the other 25% based on their respective contributions.
 
-- 25% of XNF supply is distributed each day to those that burn and participate in the vXEN Burn Auction.
+- Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which are locked for 1 year. Similarly, those participating in the Swap auction also receive 25% of the XNF supply as veXNF rewards with a 1-year lock.
 
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH auction.
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap auction.
+## 💵 XNF Batch Discount
 
 - Users who participate in the first hour and take advantage of both the Time Coefficient (TC) and the Batch Coefficient (BC) can achieve significant discounts. Specifically, by burning 10,000 batches in the first hour, they can receive up to a 75% discount. At the cycle's start, the TC offers a 50% discount, which diminishes by the last hour. Concurrently, the BC adjusts the discount based on batches burned, impacting the total discount rate.
 
