@@ -77,7 +77,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🚀 XNF Buybacks
 
-- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during a given cycle.
+- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during the current cycle.
 
 - 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
