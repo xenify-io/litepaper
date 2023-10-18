@@ -123,7 +123,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - 50% of all auctioned XNF is locked for 1 year and distributed as veXNF rewards.
 
-- Features aggressive halving with the first halving in 3 months, second halving in 6 months, third halving in 12 months, fourth halving in 24 months, firth halving in 48 months, and four 48 months halving’s till the remaining supply is distributed.
+- Features an aggressive halving schedule: the first halving is at 3 months, followed by the second at 6 months, the third at 12 months, the fourth at 24 months, and the fifth at 48 months. After these, there will be four more halvings, each 48 months apart. Subsequently, a fixed amount of 156.25 XNF per day will be distributed over the next 2224 months till the maximum supply is reached.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
