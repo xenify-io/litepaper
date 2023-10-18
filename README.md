@@ -137,7 +137,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 💵 XNF Batch Discount
 
-- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the last hour, the discounts reaches its lowest. 
+- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach near zero.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
