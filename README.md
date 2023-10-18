@@ -131,7 +131,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
 
-- Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which have a claimable 1-year lock. Similarly, those participating in the Swap auction also receive the remaining 25% of the XNF supply as veXNF rewards with a claimable 1-year lock.
+- Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which have a claimable 1-year lock. Once claimed, these rewards enhance the participant's earning power, allowing them to earn more ETH. Similarly, those participating in the Swap auction also receive the remaining 25% of the XNF supply as veXNF rewards with a claimable 1-year lock. Upon claiming, they too gain increased earning power for ETH.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
