@@ -97,7 +97,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. Furthermore, they are entitled to a share of the XNF buybacks during the cycle. This portion is determined by their power and is awarded as veXNF rewards with a 1-year lock-in, subsequently enhancing their ETH earning potential once claimed. The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens.
 
-- Even if users miss the first-hour window, they will still earn veXNF rewards and have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the following 23 hours of the cycle.
+- Even if users miss the first-hour window, they will still earn veXNF rewards and have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
