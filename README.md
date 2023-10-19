@@ -111,9 +111,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## ⚡️ veXNF Rewards
 
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH auction.
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH Auction.
 
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap auction.
+- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap Auction.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
