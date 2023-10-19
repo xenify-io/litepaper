@@ -145,9 +145,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🔥 vXEN - Unifying Burns
 
-- vXEN enables participants from the XEN ecosystem's EVM chains to participate in daily burn auctions.
+- vXEN allows participants from various XEN ecosystem's EVM chains to take part in daily burn auctions.
 
-- vXEN is minted by burning XEN native tokens across all supported XEN ecosystem chains. When a holder burns native XEN from any of these chains, the action is recorded in the burn record.
+- vXEN is minted by burning XEN native tokens across 10 supported XEN ecosystem chains. When a holder burns native XEN from any of these chains, the action is recorded in the burn record.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
