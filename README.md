@@ -135,6 +135,8 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🗳 XNF Daily Auctions
 
+- For participation in daily burn auctions, each user can burn batches ranging from a minimum of 1 batch to a maximum of 10,000 batches. One batch of YSL burn is equivalent to 0.1 YSL, while one batch of vXEN burn equals 10,000,000 vXEN. There's also a burn fee of 0.01 ETH per batch on Arbitrum.
+
 - Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
 
 - Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which come with a 1-year claimable lock. Once claimed, these rewards enhance the participant's earning power, allowing them to earn more ETH. Similarly, those participating in the Swap auction will receive the remaining 25% of the daily XNF distribution as veXNF rewards, also with a 1-year claimable lock. Upon claiming, their earning power will also increase.
