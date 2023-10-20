@@ -85,6 +85,12 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
+## 🔥 XNF Burns
+
+- Here's how the XNF burning mechanism operates. The protocol acquires XNF for XNF-WETH liquidity provisioning. As the price increases, only a portion of the acquired XNF will be paired with WETH in a full-range pairing on Uniswap V3. The remaining XNF that is unpaired is automatically burned, leading to a consistent removal of XNF from the circulating supply whenever users engage in the daily auctions or recycle their ETH rewards. This act of burning will inherently create even more scarcity for XNF over time.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## 💰 ETH Rewards
 
 - 40% of ETH collected from the daily auctions will be distributed to veXNF holders in accordance with their power.
@@ -148,6 +154,23 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - vXEN allows participants from various XEN ecosystem's EVM chains to take part in daily burn auctions.
 
 - vXEN is minted by burning XEN native tokens across 10 supported XEN ecosystem chains. When a holder burns native XEN from any of these chains, the action is recorded in the burn record.
+
+- For vXEN deployment, we've established integration across multiple chains. Below is a comprehensive list of the supported chains and their respective identifiers and ratios for a single vXEN:
+
+<br>
+
+| Num | Ratio | Identifiers | Chains                |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
