@@ -1521,7 +1521,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Is the contracts open sourced?
-- Yes, our contracts are open-sourced and licensed under the BSD-3-Clause License. This means that developers and the wider community can view, use, and modify our code. However, any modifications or redistributions of the code must retain the original copyright notice block. We believe in transparency and the power of collaborative development, which is why we've chosen to open-source our contracts.
+- Yes, our contracts are open-sourced and licensed under the MIT License. This means that developers and the wider community can view, use, and modify our code. However, any modifications or redistributions of the code must retain the original copyright notice block. We believe in transparency and the power of collaborative development, which is why we've chosen to open-source our contracts.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
