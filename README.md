@@ -67,8 +67,8 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🌊 XNF Liquidity
 
-- Integration with Uniswap V3, where all XNF is sourced from buybacks and is locked within the protocol at a full range pairing.
-
+- The protocol is integrated with Uniswap V3, where all XNF sided liquidity is sourced from buybacks and is locked within the protocol at a full range pairing.
+  
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 - 90% of the recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
@@ -781,7 +781,7 @@ Xenify has taken a monumental step forward by integrating Uniswap V3 pools. This
 
 ## 🌊 Initial Liquidity Cycle
 
-To empower a robust ecosystem that enables our community to trade XNF right from the start, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. After the initial cycle ends, our protocol will create the XNF-WETH trading pair using this allocation of XNF. To facilitate this process, the protocol will utilise a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) to establish an XNF-WETH V3 liquidity pool at the end of the cycle. 
+To jumpstart a thriving ecosystem that allows our community to trade XNF immediately upon launch, 100,000 XNF will be earmarked to bootstrap protocol-owned liquidity. Upon completion of this initial phase, our protocol will establish the XNF-WETH trading pair using this allocated XNF. The protocol will utilize the majority of the fees collected from the first day's activities, encompassing swap fees, native fees, and burn fees, to form an XNF-WETH V3 liquidity pool at the end of the cycle.
 
 The initial price for the XNF-WETH pair is set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. However, if the ETH acquired from fees during the initial cycle increases significantly, the initial price will rise above $1.00. On the other hand, if the ETH acquired during the initial cycle does not reach the minimum value of $100k at deployment, the initial price will be adjusted to match its pairing with 100k XNF, potentially setting the starting price below $1.00.
 
