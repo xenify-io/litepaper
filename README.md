@@ -95,9 +95,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 💰 ETH Rewards
 
-- 40% of ETH collected from the daily auctions will be distributed to veXNF holders in accordance with their power.
+- 40% of the ETH gathered from daily auctions will be allocated to veXNF holders, proportional to their veXNF power.
 
-- Users claiming their ETH rewards will incur a 25% claim fee. Which will be distributed to participants who recycled within the first hour of a cycle, proportional to their veXNF power.
+- Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
+
+- Additionally, by recycling is boosting their veXNF earning power due to the 10% XNF automated buybacks, which is also based on their veXNF power. This enhancement of veXNF power results in greater ETH earnings in subsequent distributions.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
