@@ -192,16 +192,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚙️ Protocol Features
-
-- Cross-chain XEN burning capability.
-
-- Cross-chain XEN bridging capability. 
-
-- Optimal swaps across 28 Aggregators over 52 chains.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
 ## 🔍 First Principles
 
 - Open-sourced
@@ -223,6 +213,16 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Audited by Peckshield
 - Audited by Solidproof
 - KYC verified by Solidproof
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ⭐️ Key Highlights
+
+- ETH Yields
+- Automated Burns
+- Automated Buybacks
+- Automated Liquidity
+- Cross-chain Burning
 
 <br>
 
