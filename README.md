@@ -69,11 +69,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
   
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
-- 90% of the recycled ETH will be directed towards XNF-WETH protocol-owned liquidity provisioning.
+- 90% of the recycled ETH throughout each daily cycle will be allocated towards XNF-WETH protocol-owned liquidity provisioning.
 
-- The protocol will utilise Uniswap V3, where all XNF sided liquidity is sourced from buybacks and is locked within the protocol at a full range pairing.
-
-- We're allocating 100,000 XNF to kickstart an XNF-WETH trading pair with an initial price of $1.00, adjustable based on the collected ETH on the first cycle.
+- The protocol will utilise Uniswap V3, where all XNF sided liquidity is sourced from buybacks and is locked within the protocol at a full range pairing. We're allocating 100,000 XNF to kickstart an XNF-WETH trading pair with an initial price of $1.00, adjustable based on the collected ETH on the first cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
