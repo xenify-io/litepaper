@@ -99,7 +99,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
 
-- Additionally, by recycling is boosting their veXNF earning power due to the 10% XNF automated buybacks, which is also based on their veXNF power. This enhancement of veXNF power results in greater ETH earnings in subsequent distributions.
+- Additionally, engaging in recycling serves to bolster participants' veXNF earning power via the 10% XNF automated buybacks. These buybacks are allocated as veXNF rewards, in proportion to each participant's veXNF power. This increase in veXNF power, in turn, leads to higher ETH yields in the subsequent distributions.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
