@@ -218,10 +218,12 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## ⭐️ Key Highlights
 
-- ETH Rewards
+- KYC Verified 
+- Double Audited
+- Daily ETH Yield
 - Automated XNF Burns
-- Automated XNF Buybacks
 - Automated XNF Liquidity
+- Automated XNF Buybacks
 - Cross-chain XEN Burning
 
 <br>
