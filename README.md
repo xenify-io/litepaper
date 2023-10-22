@@ -218,11 +218,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## ⭐️ Key Highlights
 
-- ETH Yields
-- Automated Burns
-- Automated Buybacks
-- Automated Liquidity
-- Cross-chain Burning
+- ETH Rewards
+- Automated XNF Burns
+- Automated XNF Buybacks
+- Automated XNF Liquidity
+- Cross-chain XEN Burning
 
 <br>
 
