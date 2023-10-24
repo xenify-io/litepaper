@@ -87,9 +87,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🔥 XNF Burns
 
-- Here's how the XNF burning mechanism operates. The protocol acquires XNF for XNF-WETH liquidity provisioning. As the price increases, only a portion of the acquired XNF will be paired with WETH in a full-range pairing on Uniswap V3. The remaining XNF that is unpaired is automatically burned, leading to a consistent removal of XNF from the circulating supply whenever users engage in the daily auctions or recycle their ETH rewards.
+- The protocol acquires XNF for XNF-WETH liquidity provisioning whenever a user participates in the daily auctions or recycles their ETH. As the price increases, only a portion of the acquired XNF will be paired with the remaining WETH in a full-range pairing on Uniswap V3.
 
-- It is crucial to emphasise that the process of burning XNF does not affect the dollar value of the liquidity injected into the pool. The mechanism is designed to enhance the scarcity of XNF over time, aiding in its potential appreciation in value, while ensuring that the dollar value entering the liquidity pool remains intact. This approach ensures that, despite a reduction in the circulating supply of XNF, the liquidity, in terms of dollar value, remains strong, providing a solid foundation for the protocol’s stability and growth.
+- Unpaired XNF is automatically burned, leading to a consistent removal of XNF from the circulating supply when users engage in the daily auctions or recycle their ETH rewards. This automated burning will inherently create even more scarcity for XNF over time.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
