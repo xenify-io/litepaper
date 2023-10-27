@@ -198,9 +198,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ## 🔍 First Principles
 
-- Open-sourced
-- No admin keys
-- Immutable code
+- No Admin Keys
+- Fair Distribution
+- Immutable Code
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -225,6 +225,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - KYC Verified 
 - Double Audited
 - Daily ETH Yields
+- Fair Distribution
 - Immutable Code
 - Automated XNF Burns
 - Automated XNF Liquidity
@@ -774,10 +775,6 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ XNF Liquidity (Uniswap V3 Integration)
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br> 
-
-![Xenify Moving Background](https://github.com/xenify-io/litepaper/assets/60996729/de122c0c-702e-4c7d-a316-11016c93302a)
 
 <br>
 
@@ -1527,7 +1524,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Is the contracts open sourced?
-- Yes, our contracts are open-sourced and licensed under the MIT License. This means that developers and the wider community can view, use, and modify our code. However, any modifications or redistributions of the code must retain the original copyright notice block. We believe in transparency and the power of collaborative development, which is why we've chosen to open-source our contracts.
+- Our contracts are openly accessible for viewing and licensed under the BUSL-1.1 License. However, it is crucial to note that any form of redistribution, modification, or repurposing of our contracts, whether in entirety or in part, is strictly prohibited unless explicit written approval is obtained from all co-founders. Approval requests must be directed to the official email addresses of the co-founders, ensuring that responses are received directly from these addresses. These measures are implemented with the paramount goal of protecting the interests of our holders.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
