@@ -423,7 +423,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_xnf)
+- [Twitter](https://twitter.com/sd_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
 - [Telegram](https://t.me/SD_XNF)
 - [Past Experience](https://blog.horizen.io/zen-foundation-and-team-updates)
