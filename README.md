@@ -80,14 +80,16 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💵 Batch Discount
+# 💡 Batch Discount
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach close to zero.
+- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches obtained in the first hour will benefit from the TC's 50% discount. Additionally, by obtaining 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish.
 
-- Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation. On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
+- By the final hour, the discounts approach close to zero. Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation.
+
+- On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
 
 <br>
 
