@@ -105,7 +105,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. The greater your veXNF power, the greater your share of ETH yields generated from the claim fee.
 
-- The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still earn veXNF rewards and have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
+- The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -813,7 +813,7 @@ It's essential to note that when you decide to burn your vXEN to participate in 
 
 Regardless of whether you opt to burn vXEN or YSL, the value per batch (VB) will be contingent on the specific chain you select for the burn. This value will be established upon Xenify’s deployment, and will be dynamically based on the current price of the chain’s native token. The cumulative value of the batches you burn will play a direct role in determining the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
-For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation, 40% of your Burn Fee is utilised to create protocol-owned liquidity for XNF, 40% is distributed as Native Rewards among veXNF holders, 10% is utilised to perform an automated daily XNF buyback and burn, and the remaining 10% is sent to the Xenify team. his burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains, while supporting the growth of our ecosystem and rewarding active participants.
+For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation, 40% of your Burn Fee is utilised to create protocol-owned liquidity for XNF, 40% is distributed as native rewards among veXNF holders, 10% is utilised to perform an automated daily XNF buyback and burn, and the remaining 10% is sent to the Xenify team. his burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains, while supporting the growth of our ecosystem and rewarding active participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
