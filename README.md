@@ -104,6 +104,18 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF Liquidity Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- The protocol acquires XNF for XNF-WETH liquidity provisioning whenever a user participates in the daily auctions or recycles their ETH. As the price increases, only a portion of the acquired XNF will be paired with the remaining WETH in a full-range pairing on Uniswap V3.
+
+- Unpaired XNF is automatically burned, leading to a consistent removal of XNF from the circulating supply when users engage in the daily auctions or recycle their ETH rewards. This automated burning will inherently create even more scarcity for XNF over time.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 XNF Buyback & Burn
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -114,18 +126,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
 - 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 XNF Liquidity Burns
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- The protocol acquires XNF for XNF-WETH liquidity provisioning whenever a user participates in the daily auctions or recycles their ETH. As the price increases, only a portion of the acquired XNF will be paired with the remaining WETH in a full-range pairing on Uniswap V3.
-
-- Unpaired XNF is automatically burned, leading to a consistent removal of XNF from the circulating supply when users engage in the daily auctions or recycle their ETH rewards. This automated burning will inherently create even more scarcity for XNF over time.
 
 <br>
 
