@@ -57,7 +57,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-For those short on time, this section provides an overview of the core "Pumpamentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates daily buybacks to bolster value while rewarding veXNF holders.
+For those short on time, this section provides an overview of the core "Pumpamentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates a daily buyback and burn mechanism to bolster value while reducing the circulating supply of XNF.
 
 You'll also discover Xenify's fair and transparent token distribution model, with no allocation to the team, founders or investors. Plus, Xenify's unique game theory-based incentive structure that cultivates a positive feedback loop of continual engagement and participation.
 
@@ -75,9 +75,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🚀 XNF Buybacks
+## 🚀 XNF Buyback & Burn
 
-- 10% of the ETH collected from the daily auctions will be used to purchase XNF and given as veXNF rewards (with a 1-year lock) to individuals who recycled their ETH during the current cycle.
+- 10% of the ETH collected from the daily auctions will be used to purchase XNF, with 100% of the acquired XNF being burned.
 
 - 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
@@ -99,15 +99,13 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
 
-- Additionally, engaging in recycling serves to bolster participants' veXNF earning power via the 10% XNF automated buybacks. These buybacks are allocated as veXNF rewards, in proportion to each participant's veXNF power. This increase in veXNF power, in turn, leads to higher ETH yields in the subsequent distributions.
-
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 💰 ETH Recycling
 
-- Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. Furthermore, they are entitled to a share of the XNF buybacks during the cycle. This portion is determined by their power and is awarded as veXNF rewards with a 1-year lock-in, subsequently enhancing their ETH earning potential once claimed. The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens.
+- Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. The greater your veXNF power, the greater your share of ETH yields generated from the claim fee.
 
-- Even if users miss the first-hour window, they will still earn veXNF rewards and have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
+- The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still earn veXNF rewards and have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -228,7 +226,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Immutable Code
 - Automated XNF Burns
 - Automated XNF Liquidity
-- Automated XNF Buybacks
+- Automated XNF Buyback & Burn
 - Cross-chain XEN Burning
 
 <br>
@@ -345,11 +343,9 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Recycling Native Rewards
 
-  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but you also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
+  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
 
-  - Recycling also provides a gateway to exclusive daily distributions. You'll gain access to additional rewards, including veXNF tokens drawn from the daily protocol buyback. Plus, you'll receive native tokens generated from the 25% claim fee when you opt to recycle during the first hour of a cycle. It's an array of rewards that keeps on giving.
-
-  - But here’s the best part, when you recycle, your rewards go a long way in fortifying our ecosystem. Your contribution will not only boost rewards for veXNF holders, but also stimulates the proliferation of XNF protocol-owned liquidity, and supports our team's operational efforts. It's a strategic move that strengthens Xenify from the inside out.
+  - Recycling also provides a gateway to an exclusive distribution of rewards generated from the 25% claim fee when you opt to recycle during the first hour of a cycle. But here’s the best part, when you recycle, your rewards go a long way in fortifying our ecosystem. Your contribution will not only boost rewards for veXNF holders, but also stimulates the proliferation of XNF protocol-owned liquidity, and supports our team's operational efforts. It's a strategic move that strengthens Xenify from the inside out.
 
   - In a nutshell, recycling doesn’t only enhance your XNF position through fee-free burning. It also unlocks exclusive access to rewards and actively contributes to the growth of Xenify. This forges a win-win situation where your contributions are rewarded, and the protocol advances, creating a thriving ecosystem for all participants.
 
@@ -540,7 +536,7 @@ Xenify's built-in swap fee mechanism creates a reciprocal environment that rewar
 
 Here's how it works: When you opt to pay the 0.5% swap fee to execute a swap on supported EVM chains where XNF has been deployed, you not only facilitate your transaction but also secure a position in the daily XNF distribution for that chain. At the end of each day, 50% of your swap fee is utilised for the Partner Fee Sharing Programme, and the remaining 50% distributed as native rewards to veXNF holders on that specific chain. This means you not only earn XNF tokens based on your swap fee contribution but also reward veXNF holders with native chain tokens, while simultaneously supporting the expansion of Xenify. It's a win-win situation for everyone involved.
 
-What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn vXEN and YSL tokens to mint XNF. The vXEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 40% of the burn fees go back to veXNF holders, 40% is utilised to create XNF protocol-owned liquidity, while 10% is utilised to perform an automated buyback of XNF, with the remaining 10% sent to the Xenify team. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
+What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn vXEN and YSL tokens to mint XNF. The vXEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 40% of the burn fees go back to veXNF holders, 40% is utilised to create XNF protocol-owned liquidity, while 10% is utilised to perform an automated buyback and burn of XNF, with the remaining 10% sent to the Xenify team. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
 
 Xenify's innovative approach to locking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 52 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
 
@@ -817,7 +813,7 @@ It's essential to note that when you decide to burn your vXEN to participate in 
 
 Regardless of whether you opt to burn vXEN or YSL, the value per batch (VB) will be contingent on the specific chain you select for the burn. This value will be established upon Xenify’s deployment, and will be dynamically based on the current price of the chain’s native token. The cumulative value of the batches you burn will play a direct role in determining the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
-For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation, 40% of your Burn Fee is utilised to create protocol-owned liquidity for XNF, 40% is distributed as Native Rewards among veXNF holders, 10% is utilised to perform an automated daily XNF buyback, and the remaining 10% is sent to the Xenify team. his burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains, while supporting the growth of our ecosystem and rewarding active participants.
+For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation, 40% of your Burn Fee is utilised to create protocol-owned liquidity for XNF, 40% is distributed as Native Rewards among veXNF holders, 10% is utilised to perform an automated daily XNF buyback and burn, and the remaining 10% is sent to the Xenify team. his burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains, while supporting the growth of our ecosystem and rewarding active participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -849,7 +845,7 @@ Xenify's innovative locking model enables users to lock their XNF tokens for an 
 
 Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native rewards to veXNF holders, and ensure the continuous development of the protocol.
 
-Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 40% of the swap fee will be utilised for the proliferation of XNF liquidity, 40% will be distributed as native rewards among veXNF holders, while 10% will be utilised to perform an automated buyback of XNF, with the remaining 10% being utilised by the team to support Xenify's ongoing development.
+Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 40% of the swap fee will be utilised for the proliferation of XNF liquidity, 40% will be distributed as native rewards among veXNF holders, while 10% will be utilised to perform an automated buyback and burn of XNF, with the remaining 10% being utilised by the team to support Xenify's ongoing development.
 
 By paying the nominal 0.5% swap fee on chains where XNF is deployed, you not only expedite your transaction but also secure an allocation of XNF from the protocol's daily mint cycle. These XNF tokens are locked for 1 year and distributed among swap participants as veXNF. This unique ERC-721 non-fungible token (NFT) will represent your XNF holdings, which can be withdrawn at the end of the lockup period. 
 
@@ -1330,19 +1326,19 @@ At Xenify, you can conveniently withdraw your accumulated native rewards at any 
 
 When you opt to claim your rewards, the native tokens gathered from the claim fee are stored in a temporary pool. At the end of the cycle, these tokens are distributed exclusively to veXNF holders who recycled their rewards within the first hour of the cycle. This exclusive distribution will occur alongside the protocol's daily native rewards distribution at the end of each cycle, with eligible recyclers receiving a share based on their veXNF position. In short, recycling in hour 1 means you'll get a portion of that cycle's claim fee proceeds.
 
-This recycling mechanic provides a multitude of benefits for the ecosystem and recyclers. Not only does it provide users the ability to participate in the daily burn auction without providing the mandatory burn fee, but it actively drives buy pressure for XNF, with a portion of all recycled rewards being utilised to generate XNF protocol-owned liquidity. But that’s not all, as a dedicated recycler, you also unlock the ability to earn additional veXNF rewards in each cycle, stemming from the daily automated buyback. This strategic approach empowers users to maximise their earning potential in a way that aligns with protocol growth.
+This recycling mechanic provides a multitude of benefits for the ecosystem and recyclers. Not only does it provide users the ability to participate in the daily burn auction without providing the mandatory burn fee, but it actively drives buy pressure for XNF, with a portion of all recycled rewards being utilised to generate XNF protocol-owned liquidity. This strategic approach empowers users to maximise their earning potential in a way that aligns with protocol growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Recycling Native Rewards
 
-Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction. What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables token-free participation in the burn auction, unlike the normal burn process which requires either vXEN or YSL batches, as well as native tokens to cover the mandatory burn fee.
+Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction.
 
-As a veXNF holder who recycles, you gain access to an exclusive daily distribution of veXNF that’s drawn from the protocol’s daily XNF buyback. Whereby, 100% of the XNF tokens acquired by the protocol buyback at each cycle's end will be locked and distributed as veXNF to recyclers. Your share of the distribution depends on your XNF holdings and their associated veXNF power. In essence, by recycling with a greater veXNF power during a cycle, you can increase your share of the veXNF rewards acquired from the protocol‘s buyback. 
+What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables token-free participation in the burn auction, unlike the normal burn process which requires either vXEN or YSL batches, as well as native tokens to cover the mandatory burn fee.
 
 But wait, there's more! As a token of gratitude for their active participation in the protocol, veXNF holders who recycle rewards during the first hour of the cycle also become eligible for an exclusive distribution of native tokens from the 25% claim fee charged on direct claims. At the end of each cycle, accumulated claim fee proceeds will be distributed to eligible recyclers proportional to their XNF holdings and its associated veXNF power.
 
-To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn fees associated with the burn function. Most importantly, as a dedicated recycler, you will benefit from native chain tokens generated from the 25% claim fee, and qualify for an exclusive distribution of veXNF at the end of each cycle. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
+To leverage this recycling feature, ensure that you have a sufficient balance of native chain rewards to acquire at least one batch for the burn process. If your reward balance falls short of the required amount of native chain tokens, the recycle option will not be accessible to you. By recycling your native chain rewards, you'll not only strengthen your XNF position but also enjoy a streamlined process that eliminates the usual burn fees associated with the burn function. Most importantly, as a dedicated recycler, you will qualify for an exclusive distribution of native tokens generated from the 25% claim fee by recycling within the first hour. It's a win-win situation that rewards your active participation and commitment to the growth of Xenify.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1358,7 +1354,7 @@ $$
 
 <br>
 
-40% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, 10% will be sent to the team, and the remaining 50% will be utilised to create XNF protocol-owned liquidity. Then, the remaining 0.5025 BNB from your rewards is split: 90% (0.45225 ETH) is utilised to create XNF protocol-owned liquidity, and 10% (0.05025 ETH) is sent to the Xenify team. At the end of the cycle, you receive XNF for your 100-batch burn contribution. And, as a recycler, you’ll also be included in an exclusive distribution of veXNF acquired from the protocol's daily buyback mechanism. But that’s not all, as you recycled rewards during the first hour of the cycle you will also receive a share of the ETH collected from the 25% claim fee!
+40% of the burn fee will be set aside and distributed to eligible veXNF holders at the end of the cycle, 10% will be sent to the team, and the remaining 50% will be utilised to create XNF protocol-owned liquidity. Then, the remaining 0.5025 BNB from your rewards is split: 90% (0.45225 ETH) is utilised to create XNF protocol-owned liquidity, and 10% (0.05025 ETH) is sent to the Xenify team. At the end of the cycle, you receive XNF for your 100-batch burn contribution. But that’s not all, as you recycled rewards during the first hour of the cycle you will also receive a share of the ETH collected from the 25% claim fee!
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1542,13 +1538,13 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What does the recycle button do?
-  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional burn tokens.
+  - The recycle button is a user-friendly feature that prioritises the needs of veXNF holders. By simply clicking this button, users can conveniently convert their accumulated native chain rewards into XNF through the daily burn auction. This feature brings several advantages. Firstly, it allows you to participate in the burn cycle without incurring the mandatory burn fee associated with the default burn process. This means you can enjoy the benefits of acquiring XNF through the burn cycle while saving on additional fees.
 
-  - Moreover, by choosing to recycle your rewards, you actively contribute to the growth and sustainability of the Xenify ecosystem. After a Burn Fee has been deducted from the recycled rewards, the protocol utilises 90% of your remaining rewards to create XNF liquidity, enabling a more robust and efficient market for the token. Lastly, the remaining 10% is sent to the team, supporting ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
+  - Moreover, by choosing to recycle your rewards, you actively contribute to the growth and sustainability of the Xenify ecosystem. After a Burn Fee has been deducted from the recycled rewards, the protocol utilises 90% of your remaining rewards to create XNF liquidity, enabling a more robust and efficient market for the token. Additionally, the remaining 10% is sent to the team, supporting ongoing operational expenses such as platform development, marketing campaigns, and community engagement activities.
 
-  - By recycling your rewards, you not only enhance your own benefits but also play a vital role in the continued success of the Xenify platform. As a result, recyclers will receive an additional exclusive distribution of native tokens generated from the platform's claim fees, as well as veXNF stemming from the protocol’s automated buyback mechanism. This means that by actively participating in the recycling process, you have the opportunity to secure additional rewards, boosting your overall holdings.
+  - By recycling your rewards, you not only enhance your own benefits but also play a vital role in the continued success of the Xenify platform. As a result, recyclers will qualify for an additional exclusive distribution of native tokens generated from the platform's claim fees when they opt to recycle during the first hour of a cycle. This means that by actively participating in the recycling process, you have the opportunity to secure additional rewards, while boosting your overall XNF holdings.
 
-  - In conclusion, the recycle button feature not only offers convenience but also presents numerous advantages for veXNF holders. By saving on fees, contributing to ecosystem growth, and accessing exclusive distributions, recyclers can maximise their benefits while supporting the ongoing success of the Xenify platform.
+  - In conclusion, the recycle button feature not only offers convenience but also presents numerous advantages for veXNF holders. By saving on fees, contributing to ecosystem growth, and accessing exclusive rewards, recyclers can maximise their benefits while supporting the ongoing success of the Xenify platform.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1576,22 +1572,13 @@ We understand that you may have questions about Xenify, its features, and its po
   - Engage in direct burns of vXEN or YSL to acquire XNF.
   - Lock XNF tokens to earn native chain tokens such as ETH, BNB, and MATIC.
   - Contribute to the protocol's growth through community initiatives.
- 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ◽️ What happens if no recyclers participate in a given cycle?
-- In scenarios where no users participate in recycling native rewards in a specific cycle, the protocol has a mechanism to distribute the XNF buyback rewards (distributed as veXNF with a 1-year lock) proportionally to users based on their recycled contributions in previous cycles. 
-
-- However, in the unlikely scenario where no recyclers have participated in any previous cycles either, the XNF allocated for buyback rewards in the current cycle will not be distributed. Instead, it will roll over to the next cycle, where it will await distribution to future recyclers. 
-
-- This contingency mechanism ensures any undistributed XNF from the protocol buyback is preserved for fair future distribution. It also guarantees the buyback rewards, when finally distributed as veXNF, are allocated proportionally based on recyclers' contribution levels in prior cycles. In this way, the protocol maintains robustness and integrity even in edge cases.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens to the rewards if there are no veXNF holders?
 - If at the end of a cycle there are no veXNF holders remaining because all locks have expired, the protocol has a mechanism to redirect the 40% allocation of native rewards originally designated for veXNF holders. In this scenario, the rewards will instead be consolidated into the creation of additional XNF protocol-owned liquidity for that specific cycle.
 
-- As a result, 80% of all native tokens generated from swap fees, native fees, and burn fees for the concluded cycle will be utilised to provide XNF liquidity, rather than the original 40% allocation. The remaining 10% of native rewards will still be allocated to the Xenify team as usual, and the final 10% will be set aside for the protocol's automated XNF buyback function.
+- As a result, 80% of all native tokens generated from swap fees, native fees, and burn fees for the concluded cycle will be utilised to provide XNF liquidity, rather than the original 40% allocation. The remaining 10% of native rewards will still be allocated to the Xenify team as usual, and the final 10% will be set aside for the protocol's automated XNF buyback and burn function.
 
 - This contingency mechanism will only be triggered at cycle end in the unlikely event there are no remaining veXNF holders with active locks. It serves to ensure ample protocol-owned XNF liquidity is still proliferated, while maintaining allocations for ongoing development and buyback initiatives.
 
