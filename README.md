@@ -225,6 +225,22 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Key Highlights
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC Verified 
+- Double Audited
+- Immutable Code
+- Daily ETH Rewards
+- Cross-chain XEN Burning
+- Automated XNF Liquidity
+- Automated XNF Buyback & Burn
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🔍 First Principles
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -233,18 +249,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Fair Launch
 - No Admin Keys
 - Immutable Code
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ⛓ Bridging Features
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- LayerZero OFT
-- Axelar Network
-- Wormhole Bridge
 
 <br>
 
@@ -261,18 +265,14 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ⭐️ Key Highlights
+# ⛓ Bridging Features
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- KYC Verified 
-- Double Audited
-- Immutable Code
-- Daily ETH Rewards
-- Cross-chain XEN Burning
-- Automated XNF Liquidity
-- Automated XNF Buyback & Burn
+- LayerZero OFT
+- Axelar Network
+- Wormhole Bridge
 
 <br>
 
