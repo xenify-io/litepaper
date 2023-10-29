@@ -130,20 +130,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💎 XNF Total Supply
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- XNF has a maximum supply of 22.6 million, the distributions of these tokens happen through four daily auctions. Each day, 5,250,000 XNF, which represents 25% of the XNF tokens, are allocated to participants engaged in the YSL Burn Auction. An identical quantity of 5,250,000 XNF is also disbursed to those participating in the vXEN Burn Auction. Moreover, an additional 50% of the daily XNF supply is set aside for veXNF rewards. However, it is crucial to note that these rewards are subject to a one-year lock-up period, after which they are distributed to individuals participating in the ETH Auction (25%) and the Swap Auction (25%). In total, this results in a daily distribution of 10,500,000 XNF across these auctions.
-
-- Xenify employs an aggressive halving schedule for its token distribution. The first reduction takes place at the 3-month mark, followed by another at 6 months, and subsequent halvings at 12, 24, and 48 months. After these initial five halvings, there are three additional reductions, each occurring every 48 months. This halving mechanics is designed to gradually reduce the daily distribution of XNF tokens.
-
-- Following the completion of all the halvings, a steady amount of 156.25 XNF will be disbursed each day. This will continue for the next 2224 months, ensuring that the distribution of tokens is prolonged and stable, ultimately reaching the maximum supply limit. This approach ensures a sustainable and predictable distribution of XNF tokens, allowing users to plan and participate with confidence.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🗳 XNF Daily Auctions
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -157,8 +143,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-<br>
-
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 💵 XNF Batch Discount
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -168,6 +152,48 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach close to zero.
 
 - Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation. On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Genesis Airdrop
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify is launching a 60-day Genesis airdrop on each chain it deploys onto. During this period, 1,500,000 XNF will be shared among participants. The distribution is simple: every day, 25,000 XNF tokens will be allocated, with individual shares determined by each participant's daily contributions via swap fees.
+
+- It's worth noting that this airdrop is inclusive of all EVM-compatible chains. As long as a transaction either originates from or is executed within an EVM chain and includes an attached swap fee, it's eligible for the airdrop.
+
+- Upon the airdrop's conclusion, the allocated XNF tokens won't be immediately accessible. Instead, they'll be initially distributed as locked tokens. However, these won't remain locked indefinitely. Over the span of 730 days, they'll progressively unlock. To put this in perspective: if you've claimed 7,300 locked XNF tokens, expect about 10 XNF tokens to become available in your wallet daily.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF Maximum Supply
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF has a maximum supply of 22.6 million, the distributions of these tokens happen through four daily auctions. Each day, 5,250,000 XNF, which represents 25% of the XNF tokens, are allocated to participants engaged in the YSL Burn Auction. An identical quantity of 5,250,000 XNF is also disbursed to those participating in the vXEN Burn Auction. Moreover, an additional 50% of the daily XNF supply is set aside for veXNF rewards. However, it is crucial to note that these rewards are subject to a one-year lock-up period, after which they are distributed to individuals participating in the ETH Auction (25%) and the Swap Auction (25%). In total, this results in a daily distribution of 10,500,000 XNF across these auctions.
+
+- Xenify employs an aggressive halving schedule for its token distribution. The first reduction takes place at the 3-month mark, followed by another at 6 months, and subsequent halvings at 12, 24, and 48 months. After these initial five halvings, there are three additional reductions, each occurring every 48 months. This halving mechanics is designed to gradually reduce the daily distribution of XNF tokens.
+
+- Following the completion of all the halvings, a steady amount of 156.25 XNF will be disbursed each day. This will continue for the next 2224 months, ensuring that the distribution of tokens is prolonged and stable, ultimately reaching the maximum supply limit. This approach ensures a sustainable and predictable distribution of XNF tokens, allowing users to plan and participate with confidence.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF - Locking XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
+
+- Example 1: veXNF holders who initially lock their XNF for a 1-year period face challenges if they opt not to extend their lock durations. Their earning power diminishes rapidly. In just 30 days, this power is halved, and by the end of 60 days, it's entirely gone. This leaves them without any earning power for the following 10 months until they can unlock their XNF.
+
+- Example 2: Those who choose to lock their XNF for a shorter 6-month duration and then decide against an extension face similar consequences. Their earning power diminishes rapidly. In just 15 days, this power is halved, and by the end of 30 days, it's entirely gone. This leaves them without any earning power for the following 5 months until they can unlock their XNF.
 
 <br>
 
@@ -193,34 +219,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
 | 10  | 3334  | coXEN       | EVMOS                 | 
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔏 veXNF - Locking XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
-
-- Example 1: veXNF holders who initially lock their XNF for a 1-year period face challenges if they opt not to extend their lock durations. Their earning power diminishes rapidly. In just 30 days, this power is halved, and by the end of 60 days, it's entirely gone. This leaves them without any earning power for the following 10 months until they can unlock their XNF.
-
-- Example 2: Those who choose to lock their XNF for a shorter 6-month duration and then decide against an extension face similar consequences. Their earning power diminishes rapidly. In just 15 days, this power is halved, and by the end of 30 days, it's entirely gone. This leaves them without any earning power for the following 5 months until they can unlock their XNF.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 XNF Airdrop - 60-day Airdrop
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Xenify is launching a 60-day Genesis airdrop on each chain it deploys onto. During this period, 1,500,000 XNF will be shared among participants. The distribution is simple: every day, 25,000 XNF tokens will be allocated, with individual shares determined by each participant's daily contributions via swap fees.
-
-- It's worth noting that this airdrop is inclusive of all EVM-compatible chains. As long as a transaction either originates from or is executed within an EVM chain and includes an attached swap fee, it's eligible for the airdrop.
-
-- Upon the airdrop's conclusion, the allocated XNF tokens won't be immediately accessible. Instead, they'll be initially distributed as locked tokens. However, these won't remain locked indefinitely. Over the span of 730 days, they'll progressively unlock. To put this in perspective: if you've claimed 7,300 locked XNF tokens, expect about 10 XNF tokens to become available in your wallet daily.
 
 <br>
 
