@@ -66,6 +66,30 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% of the ETH gathered from daily auctions will be allocated to veXNF holders, proportional to their veXNF power.
+
+- Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ ETH Recycling
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. The greater your veXNF power, the greater your share of ETH yields generated from the claim fee.
+
+- The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🌊 XNF Liquidity
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -94,7 +118,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 XNF Burns
+# 🔥 XNF Liquidity Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -106,64 +130,16 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💰 ETH Rewards
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40% of the ETH gathered from daily auctions will be allocated to veXNF holders, proportional to their veXNF power.
-
-- Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💰 ETH Recycling
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. The greater your veXNF power, the greater your share of ETH yields generated from the claim fee.
-
-- The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ⚡️ XNF Rewards
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
-
-- 25% of XNF supply is distributed each day to those that burn and participate in the vXEN Burn Auction.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ⚡️ veXNF Rewards
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH Auction.
-
-- 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap Auction.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 💎 XNF Total Supply
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Maximum Supply: 22.6m
+- XNF has a maximum supply of 22.6 million, the distributions of these tokens happen through four daily auctions. Each day, 5,250,000 XNF, which represents 25% of the XNF tokens, are allocated to participants engaged in the YSL Burn Auction. An identical quantity of 5,250,000 XNF is also disbursed to those participating in the vXEN Burn Auction. Moreover, an additional 50% of the daily XNF supply is set aside for veXNF rewards. However, it is crucial to note that these rewards are subject to a one-year lock-up period, after which they are distributed to individuals participating in the ETH Auction (25%) and the Swap Auction (25%). In total, this results in a daily distribution of 10,500,000 XNF across these auctions.
 
-- 50% of all auctioned XNF is locked for 1 year and distributed as veXNF rewards.
+- Xenify employs an aggressive halving schedule for its token distribution. The first reduction takes place at the 3-month mark, followed by another at 6 months, and subsequent halvings at 12, 24, and 48 months. After these initial five halvings, there are three additional reductions, each occurring every 48 months. This halving mechanics is designed to gradually reduce the daily distribution of XNF tokens.
 
-- Features an aggressive halving schedule: the first halving is at 3 months, followed by the second at 6 months, the third at 12 months, the fourth at 24 months, and the fifth at 48 months. After these, there will be three more halvings, each 48 months apart. Subsequently, a fixed amount of 156.25 XNF per day will be distributed over the next 2224 months till the maximum supply is reached.
+- Following the completion of all the halvings, a steady amount of 156.25 XNF will be disbursed each day. This will continue for the next 2224 months, ensuring that the distribution of tokens is prolonged and stable, ultimately reaching the maximum supply limit. This approach ensures a sustainable and predictable distribution of XNF tokens, allowing users to plan and participate with confidence.
 
 <br>
 
