@@ -1819,7 +1819,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 <br>
 
-- [Xenify Website](https://xenify.io)
+- [Xenify Site](https://xenify.io)
 - [Xenify Twitter](https://twitter.com/xenify_io)
 - [Xenify Youtube](https://www.youtube.com/@xenify-io)
 - [Xenify Medium](https://medium.com/xenify)
