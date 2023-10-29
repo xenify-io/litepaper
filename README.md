@@ -66,6 +66,32 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Daily Auctions
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- In the daily burn auctions hosted on Arbitrum, users have the option to burn anywhere from 1 to 10,000 batches. A single YSL burn batch represents 0.1 YSL, while a vXEN burn batch corresponds to 10,000,000 vXEN. A native fee of 0.01 ETH is applied per batch in both burn and ETH auctions.
+
+- Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
+
+- Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which come with a 1-year claimable lock. Once claimed, these rewards enhance the participant's earning power, allowing them to earn more ETH. Similarly, those participating in the Swap auction will receive the remaining 25% of the daily XNF distribution as veXNF rewards, also with a 1-year claimable lock. Upon claiming, their earning power will also increase.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💵 Batch Discount
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach close to zero.
+
+- Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation. On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 💰 ETH Rewards
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -130,32 +156,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🗳 XNF Daily Auctions
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- In the daily burn auctions hosted on Arbitrum, users have the option to burn anywhere from 1 to 10,000 batches. A single YSL burn batch represents 0.1 YSL, while a vXEN burn batch corresponds to 10,000,000 vXEN. A native fee of 0.01 ETH is applied per batch in both burn and ETH auctions.
-
-- Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
-
-- Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which come with a 1-year claimable lock. Once claimed, these rewards enhance the participant's earning power, allowing them to earn more ETH. Similarly, those participating in the Swap auction will receive the remaining 25% of the daily XNF distribution as veXNF rewards, also with a 1-year claimable lock. Upon claiming, their earning power will also increase.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💵 XNF Batch Discount
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach close to zero.
-
-- Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation. On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 💸 XNF Genesis Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -170,6 +170,20 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF Earning Power
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
+
+- Example 1: veXNF holders who initially lock their XNF for a 1-year period face challenges if they opt not to extend their lock durations. Their earning power diminishes rapidly. In just 30 days, this power is halved, and by the end of 60 days, it's entirely gone. This leaves them without any earning power for the following 10 months until they can unlock their XNF.
+
+- Example 2: Those who choose to lock their XNF for a shorter 6-month duration and then decide against an extension face similar consequences. Their earning power diminishes rapidly. In just 15 days, this power is halved, and by the end of 30 days, it's entirely gone. This leaves them without any earning power for the following 5 months until they can unlock their XNF.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 💎 XNF Maximum Supply
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -180,20 +194,6 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Xenify employs an aggressive halving schedule for its token distribution. The first reduction takes place at the 3-month mark, followed by another at 6 months, and subsequent halvings at 12, 24, and 48 months. After these initial five halvings, there are three additional reductions, each occurring every 48 months. This halving mechanics is designed to gradually reduce the daily distribution of XNF tokens.
 
 - Following the completion of all the halvings, a steady amount of 156.25 XNF will be disbursed each day. This will continue for the next 2224 months, ensuring that the distribution of tokens is prolonged and stable, ultimately reaching the maximum supply limit. This approach ensures a sustainable and predictable distribution of XNF tokens, allowing users to plan and participate with confidence.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔏 veXNF - Locking XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
-
-- Example 1: veXNF holders who initially lock their XNF for a 1-year period face challenges if they opt not to extend their lock durations. Their earning power diminishes rapidly. In just 30 days, this power is halved, and by the end of 60 days, it's entirely gone. This leaves them without any earning power for the following 10 months until they can unlock their XNF.
-
-- Example 2: Those who choose to lock their XNF for a shorter 6-month duration and then decide against an extension face similar consequences. Their earning power diminishes rapidly. In just 15 days, this power is halved, and by the end of 30 days, it's entirely gone. This leaves them without any earning power for the following 5 months until they can unlock their XNF.
 
 <br>
 
