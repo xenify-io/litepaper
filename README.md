@@ -425,13 +425,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 ## ♦️ Simran Dhillon
 - [Twitter](https://twitter.com/sd_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_XNF)
+- [Telegram](https://t.me/sd_xnf)
 - [Past Experience](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegram](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
