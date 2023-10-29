@@ -65,17 +65,25 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-## 🌊 XNF Liquidity
-  
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 XNF Liquidity
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
 - 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
 
 - 90% of the recycled ETH throughout each daily cycle will be allocated towards XNF-WETH protocol-owned liquidity provisioning.
 
 - The protocol is configured to utilise Uniswap V3 for its liquidity provisioning functions. In addition, all liquidity on the XNF side is sourced from buybacks and remains locked within the protocol, ensuring a full-range pairing. To initiate the XNF-WETH trading pair, the protocol will allocate 100,000 XNF, establishing an initial price of $1.00. This price is subject to adjustment by the protocol depending on the amount of ETH collected in the initial cycle.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🚀 XNF Buyback & Burn
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 XNF Buyback & Burn
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - 10% of the ETH collected from the daily auctions will be used to purchase XNF, with 100% of the acquired XNF being burned.
 
@@ -83,49 +91,73 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🔥 XNF Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - The protocol acquires XNF for XNF-WETH liquidity provisioning whenever a user participates in the daily auctions or recycles their ETH. As the price increases, only a portion of the acquired XNF will be paired with the remaining WETH in a full-range pairing on Uniswap V3.
 
 - Unpaired XNF is automatically burned, leading to a consistent removal of XNF from the circulating supply when users engage in the daily auctions or recycle their ETH rewards. This automated burning will inherently create even more scarcity for XNF over time.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 💰 ETH Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - 40% of the ETH gathered from daily auctions will be allocated to veXNF holders, proportional to their veXNF power.
 
 - Users who opt to claim their ETH rewards will incur a 25% claim fee. This fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 💰 ETH Recycling
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH Recycling
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Those who recycle ETH within the first hour of a cycle stand to earn a portion of the ETH claim fees from that cycle, in proportion to their veXNF power. The greater your veXNF power, the greater your share of ETH yields generated from the claim fee.
 
 - The most notable benefit of recycling is the automatic inclusion into the burn auctions, removing the need to burn alternative tokens. Even if users miss the first-hour window, they will still have the opportunity to participate in the burn auctions, without needing to burn vXEN or YSL, provided they decide to recycle during the remaining 23 hours of the cycle.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ⚡️ XNF Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⚡️ XNF Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - 25% of XNF supply is distributed each day to those that burn and participate in the YSL Burn Auction.
 
 - 25% of XNF supply is distributed each day to those that burn and participate in the vXEN Burn Auction.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ⚡️ veXNF Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⚡️ veXNF Rewards
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the ETH Auction.
 
 - 25% of XNF supply is distributed as veXNF rewards (locked for 1 year) each day to those that participate in the Swap Auction.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 💎 XNF Total Supply
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF Total Supply
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Maximum Supply: 22.6m
 
@@ -133,9 +165,13 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Features an aggressive halving schedule: the first halving is at 3 months, followed by the second at 6 months, the third at 12 months, the fourth at 24 months, and the fifth at 48 months. After these, there will be three more halvings, each 48 months apart. Subsequently, a fixed amount of 156.25 XNF per day will be distributed over the next 2224 months till the maximum supply is reached.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🗳 XNF Daily Auctions
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 XNF Daily Auctions
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - In the daily burn auctions hosted on Arbitrum, users have the option to burn anywhere from 1 to 10,000 batches. A single YSL burn batch represents 0.1 YSL, while a vXEN burn batch corresponds to 10,000,000 vXEN. A native fee of 0.01 ETH is applied per batch in both burn and ETH auctions.
 
@@ -143,17 +179,27 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Additionally, participants in the ETH auction are awarded 25% of the XNF supply as veXNF rewards, which come with a 1-year claimable lock. Once claimed, these rewards enhance the participant's earning power, allowing them to earn more ETH. Similarly, those participating in the Swap auction will receive the remaining 25% of the daily XNF distribution as veXNF rewards, also with a 1-year claimable lock. Upon claiming, their earning power will also increase.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 💵 XNF Batch Discount
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💵 XNF Batch Discount
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Users who participate in the first hour can benefit from both the Time Coefficient (TC) and the Batch Coefficient (BC) to achieve significant discounts. Specifically, any batches burned in the first hour will benefit from the TC's 50% discount. Additionally, by burning 10,000 batches within this window, users can achieve up to a 75% discount when considering the BC. As the cycle progresses, the discounts from both the Time Coefficient (TC) and the Batch Coefficient (BC) diminish. By the final hour, the discounts approach close to zero.
 
 - Participating early, especially in the first hour, is vital for users looking to maximise their batch discounts. The beginning hours provide the most significant reductions, ensuring participants receive the best possible value for their participation. On the other hand, waiting until the last hour to decide on the current cycle's engagement can be more expensive. As discounts have diminished considerably by then, users will end up contributing more ETH compared to the initial hour, underscoring the prudence of early engagement.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🔥 vXEN - Unifying Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Unifying Burns
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - vXEN enables participants from different EVM chains within the XEN ecosystem to participate in daily burn auctions. vXEN is generated by burning XEN native tokens from any of the 10 supported chains in the XEN ecosystem. Whenever a holder burns native XEN from one of these chains, the transaction is recorded in the burn record. The following is a detailed list of the supported EVM chains, each with its corresponding identifier and ratio for a single vXEN.
 
@@ -172,9 +218,13 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 | 9   | 680   | okXEN       | OKT (OKX)             |
 | 10  | 3334  | coXEN       | EVMOS                 | 
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🔏 veXNF - Locking XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF - Locking XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - The veXNF mechanism is designed to lock in a substantial portion of the XNF supply, thereby playing a pivotal role in enhancing scarcity within the protocol. Participants have the option to lock their XNF for a period ranging from a minimum of 1 week to a maximum of 1 year. The longer the lock duration, the greater the earning power. Moreover, longer lock durations also result in a slower decay of this power.
 
@@ -182,9 +232,13 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Example 2: Those who choose to lock their XNF for a shorter 6-month duration and then decide against an extension face similar consequences. Their earning power diminishes rapidly. In just 15 days, this power is halved, and by the end of 30 days, it's entirely gone. This leaves them without any earning power for the following 5 months until they can unlock their XNF.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 💸 XNF Airdrop - 60-day Airdrop
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Airdrop - 60-day Airdrop
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Xenify is launching a 60-day Genesis airdrop on each chain it deploys onto. During this period, 1,500,000 XNF will be shared among participants. The distribution is simple: every day, 25,000 XNF tokens will be allocated, with individual shares determined by each participant's daily contributions via swap fees.
 
@@ -192,33 +246,49 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - Upon the airdrop's conclusion, the allocated XNF tokens won't be immediately accessible. Instead, they'll be initially distributed as locked tokens. However, these won't remain locked indefinitely. Over the span of 730 days, they'll progressively unlock. To put this in perspective: if you've claimed 7,300 locked XNF tokens, expect about 10 XNF tokens to become available in your wallet daily.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🔍 First Principles
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 First Principles
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Fair Launch
 - No Admin Keys
 - Immutable Code
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ⛓ Bridging Features
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Bridging Features
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - LayerZero OFT
 - Axelar Network
 - Wormhole Bridge
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## 🔒 Team & Security
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 Team & Security
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - Audited by Peckshield
 - Audited by Solidproof
 - KYC verified by Solidproof
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+<br>
 
-## ⭐️ Key Highlights
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Key Highlights
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
 
 - KYC Verified 
 - Double Audited
