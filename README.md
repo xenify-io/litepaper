@@ -834,6 +834,14 @@ The initial price for the XNF-WETH pair is set at $1.00, ensuring an equal distr
 
 Our protocol is designed to ensure the perpetual growth of XNF protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 50% of the ETH is used to market-buy XNF, and the acquired XNF is paired with the rest of the ETH and added as XNF-WETH liquidity at full range. It is important to note that, regardless of the cycle, a consistent 1% trading fee is applied to all transactions within this protocol-owned liquidity pool.
 
+## 🌊 XNF Liquidity Black Hole
+
+XNF holders can freely sell their XNF through our protocol-owned liquidity pool or any community-established pools. However, purchasing XNF from our protocol-owned liquidity pool is restricted - making our daily auctions the primary avenue for acquiring a substantial amount of XNF. This means that every time a user or an arbitrage bot sells XNF via our protocol-owned liquidity pool, the tokens are permanently removed from circulation, creating a “black hole” effect that increases XNF scarcity. 
+
+This carefully devised mechanism also serves to safeguard the initial liquidity deployment against potential exploitation by speculators and liquidity snipers, solidifying the integrity of our ecosystem from the outset. It's worth mentioning that while users retain the ability to contribute liquidity to the protocol-owned pool, the option to add liquidity at full range will not be available.
+
+By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF sink. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
