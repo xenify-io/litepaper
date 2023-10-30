@@ -1429,8 +1429,8 @@ On top of rewards generated from burn fees and swap fees, the protocol will also
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7c9d7a68-a4ff-4ddc-bdd5-cf6ee8594792" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b0572d5d-5bae-4234-9475-6442c8d394ae" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/66c67fd2-fea0-4d4d-ac00-09fe481cf933" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7a2cfbd3-6060-40be-b6e5-8e059ae9af97" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
