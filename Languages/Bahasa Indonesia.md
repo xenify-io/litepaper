@@ -747,7 +747,7 @@ $$
         <td>Biaya yang dibebankan untuk fungsi pembakaran, dibayarkan dalam token asli rantai.</td>
     </tr>
     <tr>
-        <td>TC</strong><br>(Koefisien Waktu)</td> (Koefisien Waktu)
+        <td>TC</strong><br>(Koefisien Waktu)</td>
         <td>Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan waktu pembakaran dieksekusi selama siklus.</td>
     </tr>
     <tr>
@@ -755,7 +755,7 @@ $$
         <td>Nilai batch yang sedang dibakar oleh pengguna. Nilai per batch akan tetap dan bervariasi tergantung pada rantai.</td>
     </tr>
     <tr>
-        <td><strong>BC</strong><br>(Koefisien Batch)</td> </tr> <td
+        <td><strong>BC</strong><br>(Koefisien Batch)</td>
         <td>Koefisien tertimbang waktu yang digunakan untuk memperhitungkan diskon berdasarkan batch yang dibakar.</td>
     </tr>
     <tr>
@@ -1054,11 +1054,11 @@ $$
         <td>Jadwal peluruhan untuk daya penghasilan veXNF.</td>
     </tr>
     <tr>
-        <td>MD</strong><br>(Peluruhan Maksimum)</td> <td>(Jadwal Peluruhan Maksimum)</td> <td>(Jadwal Peluruhan Maksimum)
+        <td>MD</strong><br>(Peluruhan Maksimum)</td>
         <td>Jadwal peluruhan maksimum 60 hari.</td>
     </tr>
     <tr>
-        <td><strong>LD</strong><br>(Durasi Penguncian)</td> <td>Durasi
+        <td><strong>LD</strong><br>(Durasi Penguncian)</td>
         <td>Durasi penguncian yang dipilih pengguna dalam hitungan hari.</td>
     </tr>
     <tr>
@@ -1085,11 +1085,11 @@ $$
         <td>Daya penghasilan veXNF pengguna saat ini dalam bentuk persentase.</td>
     </tr>
     <tr>
-        <td>IP</strong><br>(Daya Awal)</td> <td>(Daya Awal)</td>
+        <td>IP</strong><br>(Daya Awal)</td>
         <td>Daya penghasilan veXNF awal sebesar 100% ditetapkan oleh protokol pada awal Jadwal Peluruhan.</td>
     </tr>
     <tr>
-        <td><strong>TE</strong><br>(Waktu yang Telah Berlalu)</td></tr> <td
+        <td><strong>TE</strong><br>(Waktu yang Telah Berlalu)</td>
         <td>Waktu yang telah berlalu sejak Jadwal Peluruhan dimulai (dibatasi hingga maksimum 60 hari)</td>
     </tr>
     <tr>
