@@ -1201,8 +1201,8 @@ Selain reward yang dihasilkan dari biaya pembakaran dan biaya swap, protokol ini
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/283c35bb-a617-4ba3-9287-de8d12b90391" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f511dc42-b888-40ff-9b78-3ac2ddee1df8" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4559c3c8-24b8-4eff-b17a-632efc8d5f92" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fba1f825-3859-4add-92db-9547870071b0" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
