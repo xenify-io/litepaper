@@ -1201,8 +1201,8 @@ Yanma ücretleri ve takas ücretlerinden elde edilen ödüllerin yanı sıra pro
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7bfa633c-adb3-4649-b830-bbd37dbe5b57" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f9191dd5-ad12-46c5-9439-1d4df28f883a" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3726615a-8615-409c-bf2b-95ceb37d8b3b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/428092a7-c7aa-4202-89cd-6a77b5de9cbe" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
