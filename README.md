@@ -834,6 +834,8 @@ The initial price for the XNF-WETH pair is set at $1.00, ensuring an equal distr
 
 Our protocol is designed to ensure the perpetual growth of XNF protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 50% of the ETH is used to market-buy XNF, and the acquired XNF is paired with the rest of the ETH and added as XNF-WETH liquidity at full range. It is important to note that, regardless of the cycle, a consistent 1% trading fee is applied to all transactions within this protocol-owned liquidity pool.
 
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
 ## 🌊 XNF Liquidity Black Hole
 
 XNF holders can freely sell their XNF through our protocol-owned liquidity pool or any community-established pools. However, purchasing XNF from our protocol-owned liquidity pool is restricted - making our daily auctions the primary avenue for acquiring a substantial amount of XNF. This means that every time a user or an arbitrage bot sells XNF via our protocol-owned liquidity pool, the tokens are permanently removed from circulation, creating a “black hole” effect that increases XNF scarcity. 
