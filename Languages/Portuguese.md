@@ -1201,8 +1201,8 @@ Além das recompensas geradas pelas taxas de queima e taxas de troca, o protocol
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/968d5c63-223d-499f-a047-534105709528" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e0bcdd25-f420-4c8a-ae90-94cc22227fc3" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4fae2bb9-4b7d-4cb4-9cc7-f0e680a996da" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/477fe8db-e297-4599-bd3e-6eb5d918a315" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
