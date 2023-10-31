@@ -22,7 +22,7 @@ Dayana Plaz - Cofundador - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 # ◽️ Contenido
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- [Quema-Mentales](https://github.com/xenify-io/litepaper/edit/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-quema-mentales)
+- [Quema-Mentales](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-quema-mentales)
 - [Introducción](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-introducci%C3%B3n)
 - [Nuestra Misión](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-nuestra-misi%C3%B3n)
 - [Nuestros Principios](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-nuestros-principios)
