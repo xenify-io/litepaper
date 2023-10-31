@@ -209,7 +209,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - This carefully devised mechanism also serves to safeguard the initial liquidity deployment against potential exploitation by speculators and liquidity snipers, solidifying the integrity of our ecosystem from the outset. It's worth mentioning that while users retain the ability to contribute liquidity to the protocol-owned pool, opting to do so will require a manual withdrawal from the recycling contract.
 
-- By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF sink. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
+- By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
 
 <br>
 
@@ -856,7 +856,7 @@ XNF holders can freely sell their XNF through our protocol-owned liquidity pool 
 
 This carefully devised mechanism also serves to safeguard the initial liquidity deployment against potential exploitation by speculators and liquidity snipers, solidifying the integrity of our ecosystem from the outset. It's worth mentioning that while users retain the ability to contribute liquidity to the protocol-owned pool, opting to do so will require a manual withdrawal from the recycling contract.
 
-By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF sink. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
+By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
 
 <br>
 
