@@ -199,9 +199,9 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-![Pembagi Garis - Terisi](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ⚫️ Lubang Hitam Likuiditas XNF
-![Pembagi Garis - Terisi](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
