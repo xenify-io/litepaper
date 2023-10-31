@@ -425,15 +425,15 @@ Xenify 非常重视股权和长期投资。我们相信，我们的用户能够�
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [推特](https://twitter.com/simran_ysl)
+- [推特](https://twitter.com/simran_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_YSL)
+- [Telegram](https://t.me/sd_xnf)
 - [过去的经历](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [推特](https://twitter.com/hardev_ysl)
+- [推特](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegram](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [推特](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -532,9 +532,7 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 
 介绍 YSL - 一种超通胀代币，通过 Xenify 的每日燃烧拍卖，将可量化的稀缺性与现实世界的实用性相结合。YSL 不像传统模式那样仅仅依靠市场活动来减少供应，而是整合了一种独特的机制--Xenify 烧钱拍卖。通过每日拍卖，一部分 YSL 将永久退出流通，从而减少总供应量，并有可能放大价值。更重要的是，YSL 是为信任而设计的，具有不可更改、不可升级的合约，设计完全透明，不会出现不可预见的变化。
 
-新的 YSL 代币在 Arbitrum 上首次亮相，空投快照可在此处获取：[https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023)。但 YSL 不会止步于此 - 计划在以太坊、BNB、Polygon、Avalanche、Optimism 等领先的 EVM 链上扩展，每个链都有自己独特的 YSL 标识符（例如，以太坊上的 eYSL）。为了实现不同链之间的互操作性，YSL 以代币桥为特色，利用 LayerZero OTF 作为主要协议，Axelar 和 Wormhole 作为备用协议。这不仅使持有者可以自由地通过 YSL 桥接参与跨链的 Xenify 刻录拍卖，还能在他们选择的任何对齐的 EVM 链和 DEX 上增加流动性。最棒的是，作为 Arbitrum 空投接收者的 YSL 持有者可以在 YSL 部署后的 90 天内在每个链上获得自己的 YSL 份额。
-
-简而言之，YSL 独一无二的通货紧缩代币经济融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是以使用为基础的价值增长。
+新的 YSL 代币在 Arbitrum 上首次亮相，空投快照可在[此处](https://bit.ly/YSLAirdrop2023)获得。但 YSL 不会就此止步 - 计划在领先的 EVM 链上进行扩展，如以太坊、BNB、Polygon、Avalanche、Optimism 等，每个链都有自己独特的 YSL 标识符（例如以太坊上的 eYSL）。为了实现不同链之间的互操作性，YSL 采用代币桥，利用 LayerZero OTF 作为主要协议，并以 Axelar 和 Wormhole 作为后备选项。这不仅使持有者能够自由地连接 YSL 参与跨链的 Xenify 销毁拍卖，而且还能够在他们选择的任何对齐的 EVM 链和 DEX 上增加流动性。最棒的是，作为 Arbitrum 空投接收者的 YSL 持有者可以在部署后 90 天内在每条链上领取他们的 YSL 份额。简而言之，YSL 独一无二的通货紧缩代币经济学融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是基于使用的价值增长。
 
 以下是我们的部署链及其独特的 YSL 标识的简明分类：
 
@@ -822,25 +820,31 @@ Xenify 正准备大干一场，为下一步的大动作筛选一批区块链。�
 
 <br>
 
-![Xenify Chinese](https://github.com/xenify-io/litepaper/assets/66044824/9df2bbfc-6edb-47bb-a7fa-970fa1aa8dce)
-
-<br>
-
 Xenify 通过整合 Uniswap V3 池向前迈出了重要的一步。这一战略决策不仅展示了我们对利用 DeFi 最新创新技术的承诺，还增强了用户的流动性选择，同时巩固了我们的市场地位。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 初始流动性周期
 
-为了建立一个强大的生态系统，让我们的社区从一开始就能交易 XNF，我们将预留 100,000 XNF，用于启动协议自有的流动性。初始周期结束后，我们的协议将使用分配的 XNF 创建 XNF-ETH 交易对。为促进这一过程，该协议将利用第一天参与产生的大部分费用（包括交换费、本地费用和燃烧费），在周期结束时建立 XNF-ETH V3 流动性池。
+为了启动一个繁荣的生态系统，让我们的社区能够在发布后立即交易 XNF，我们将预留 100,000 个 XNF 以引导协议拥有的流动性。初始阶段完成后，我们的协议将使用分配的 XNF 建立 XNF-WETH 交易对。该协议将利用第一天活动收取的大部分费用，包括互换费用、原生费用和销毁费用，在周期结束时形成 XNF-WETH V3 流动性池。
 
-XNF-ETH 货币对的初始价格设定为 1.00 美元，以确保 ETH 和 XNF 在整个范围内的平均分配。但是，如果在初始周期内从费用中获得的 ETH 大幅增加，初始价格将升至 1.00 美元以上，多余的 XNF 将自动烧毁。另一方面，如果在初始周期内获得的 ETH 未达到部署时嵌入的最低价值 10k 美元，初始价格将调整为与 10k XNF 配对，剩余的 90k XNF 将被烧毁。
+XNF-WETH 货币对的初始价格设定为 1.00 美元，确保 ETH 和 XNF 在整个范围内平均分配。然而，如果在初始周期中通过费用获得的 ETH 大幅增加，初始价格将升至 1.00 美元以上。另一方面，如果在初始周期中获取的 ETH 在部署时未达到 10 万美元的最小值，则初始价格将进行调整以匹配其与 10 万个 XNF 的配对，可能会将起始价格设置为低于 1.00 美元。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 后续流动性周期
+## 🌊 随后的流动性周期
 
-我们的协议旨在确保 XNF 协议所拥有的流动性在每个后续周期都能持续增长。从第二个周期开始，每天通过燃烧费、原生费、交换费和回收活动获得的 ETH 将用于支持 XNF 流动性的增长。在此框架内，50% 的 ETH 将用于在市场上购买 XNF，获得的 XNF 将与其余的 ETH 配对，并作为 XNF-ETH 流动性全额添加。值得注意的是，无论周期如何，该协议自有流动性池中的所有交易都会收取一致的 1%交易费。
+我们的协议旨在确保 XNF 协议拥有的流动性在每个后续周期中永久增长。从第二个周期开始，每天通过销毁费用、原生费用、交换费用和回收活动获得的 ETH 将用于支持 XNF 流动性扩散。在此框架内，50%的ETH用于市场购买XNF，购买的XNF与其余的ETH配对并作为XNF-WETH全方位流动性添加。值得注意的是，无论周期如何，该协议拥有的流动性池内的所有交易均适用一致的 1% 交易费用。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 XNF 流动性黑洞
+
+XNF 持有者可以通过我们协议拥有的流动性池或任何社区建立的池自由出售他们的 XNF。然而，从我们协议拥有的流动性池购买 XNF 是受到限制的——这使得我们的每日拍卖成为获取大量 XNF 的主要途径。这意味着每次用户或套利机器人通过我们协议拥有的流动性池出售 XNF 时，这些代币就会被永久从流通中移除，从而产生“黑洞”效应，从而增加 XNF 的稀缺性。
+
+这种精心设计的机制还可以保护最初的流动性部署，防止投机者和流动性狙击手的潜在利用，从一开始就巩固我们生态系统的完整性。值得一提的是，虽然用户保留向协议拥有的池贡献流动性的能力，但全面增加流动性的选项将不可用。
+
+通过建立一条单向街道，我们协议拥有的流动性池转变为通货紧缩的 XNF 接收器。用户出售的代币从流通中消失，而新的供应只能通过积极参与拍卖才能进入。我们的协议旨在促进忠诚用户的利益，而不是短期投机者的利益。这种创新方法与我们协议的每日回购和销毁机制相结合，旨在对 XNF 供应造成持续的通货紧缩压力，同时培育建立在长期参与基础上的可持续生态系统。
 
 <br>
 
@@ -1568,6 +1572,11 @@ Xenify 的与众不同之处在于它与 28 个不同聚合商的无缝连接，
 <br>
 
 我们了解您可能对 Xenify、其功能和潜力存有疑问。为了帮助您浏览我们的平台，我们汇编了一份常见问题列表，为您提供有关 Xenify 及其生态系统的清晰见解。
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ 合约是开源的吗？
+- 我们的合同可公开查看，并根据 BUSL-1.1 许可证获得许可。然而，值得注意的是，除非获得所有联合创始人的明确书面批准，否则严格禁止对我们的合同进行任何形式的重新分配、修改或重新利用，无论是全部还是部分。批准请求必须发送至联合创始人的官方电子邮件地址，确保直接从这些地址收到回复。实施这些措施的首要目标是保护持有人的利益。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
