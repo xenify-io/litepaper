@@ -22,6 +22,7 @@ Dayana Plaz - Kurucu Ortak - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 # ◽️ İçindekiler
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Zi̇hi̇n Yakma](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8Fzi%CC%87hi%CC%87n-yakma)
 - [Giriş](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-giri%C5%9F)
 - [Misyonumuz](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-misyonumuz)
 - [İlkelerimiz](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-i%CC%87lkelerimiz)
@@ -47,6 +48,231 @@ Dayana Plaz - Kurucu Ortak - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 - [Teşekkür](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-te%C5%9Fekk%C3%BCr)
 - [Sözleşme Adresleri](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-s%C3%B6zle%C5%9Fme-adresleri)
 - [Yararlı Bağlantılar](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-yararl%C4%B1-ba%C4%9Flant%C4%B1lar)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ZİHİN YAKMA
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Zamanı kısıtlı olanlar için bu bölüm, Xenify'ın vizyonunu yönlendiren ve onu diğer platformlardan ayıran temel "Burn-A-Mentals" hakkında genel bir bakış sunmaktadır. Xenify'ın XNF sahipleri için nasıl benzersiz likidite provizyonu ürettiğini, kullanıcıları token takası ve yakımı için nasıl ödüllendirdiğini ve dolaşımdaki XNF arzını azaltırken değeri artırmak için günlük geri satın alma ve yakma mekanizmasını nasıl içerdiğini öğreneceksiniz.
+
+Ayrıca Xenify'ın ekibe, kuruculara veya yatırımcılara herhangi bir tahsis olmaksızın adil ve şeffaf token dağıtım modelini de keşfedeceksiniz. Ayrıca, Xenify'ın sürekli etkileşim ve katılımdan oluşan olumlu bir geri bildirim döngüsü geliştiren benzersiz oyun teorisine dayalı teşvik yapısı.
+
+Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potansiyeliyle eşleştirilen ultra verimli bir takas deneyimi. Hem tasarımı hem de işlevselliği açısından gerçekten öncü olan Xenify, tüm topluluk için sürdürülebilir genişlemeyi ve değer yaratmayı teşvik etmek amacıyla tasarlandı. Xenify'ın benzersiz yaklaşımıyla DeFi'nin geleceğini nasıl dönüştürdüğünü öğrenmek için okumaya devam edin.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Günlük Müzayedeler
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Arbitrum'da düzenlenen günlük yakma açık artırmalarında, kullanıcılar 1 ila 10.000 parti arasında herhangi bir yerde yakma seçeneğine sahiptir. Tek bir YSL yazma grubu 0,1 YSL'yi temsil ederken, bir vXEN yazma grubu 10.000.000 vXEN'e karşılık gelir. Hem yakma hem de ETH açık artırmalarında parti başına 0,01 ETH tutarında yerel ücret uygulanır.
+
+- Her gün, XNF arzının %50'si günlük yakma müzayedelerinde katılımcılara dağıtılır. Dağıtım, YSL Burn Auction ve vXEN Burn Auction arasında eşit olarak paylaştırılır. Örneğin, belirli bir döngüde yalnızca 1 parti YSL yakılırsa ve 10.000 parti vXEN yakılırsa, tek YSL grubunu yakan kullanıcı günlük XNF arzının %25'inin tamamını alırken, vXEN yakıcıları bu miktarı paylaşacaktır. ilgili yanık partilerine göre diğer %25.
+
+- Ek olarak, ETH açık artırmasındaki katılımcılara, 1 yıllık talep edilebilir kilitle birlikte gelen veXNF ödülleri olarak XNF arzının %25'i verilir. Bu ödüller, talep edildikten sonra katılımcının kazanma gücünü artırarak daha fazla ETH kazanmalarına olanak tanır. Benzer şekilde Swap müzayedesine katılanlar, günlük XNF dağıtımının kalan %25'ini veXNF ödülleri olarak, ayrıca 1 yıllık talep edilebilir kilitle alacaklar. Talep ettiklerinde kazanç güçleri de artacaktır.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 Toplu İndirim
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- İlk saate katılan kullanıcılar hem Zaman Katsayısı (TC) hem de Batch Katsayısı'ndan (BC) faydalanarak önemli indirimler elde edebilirler. Özellikle, ilk saatte elde edilen herhangi bir parti, TC'nin %50 indiriminden yararlanacaktır. Ayrıca kullanıcılar bu pencerede 10.000 parti alarak BC'yi dikkate alarak %75'e varan indirim elde edebilirler. Döngü ilerledikçe hem Zaman Katsayısı (TC) hem de Parti Katsayısı (BC) indirimleri azalır.
+
+- Son saate gelindiğinde indirimler sıfıra yaklaşıyor. Özellikle ilk saatte erken katılmak, toplu indirimlerini en üst düzeye çıkarmak isteyen kullanıcılar için hayati önem taşıyor. Başlangıç saatleri en önemli indirimleri sağlayarak katılımcıların katılımlarından mümkün olan en iyi değeri almalarını sağlar.
+
+- Öte yandan mevcut döngünün devreye girmesine karar vermek için son saate kadar beklemek daha pahalı olabilir. O zamana kadar indirimler önemli ölçüde azaldığından, kullanıcılar ilk saate kıyasla daha fazla ETH katkıda bulunacak ve bu da erken katılımın sağduyulu olduğunun altını çizecek.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH Ödülleri
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Günlük açık artırmalardan elde edilen ETH'nin %40'ı veXNF sahiplerine, veXNF güçleri ile orantılı olarak tahsis edilecektir.
+
+- ETH ödüllerini almayı tercih eden kullanıcılardan %25 talep ücreti alınacaktır. Bu ücret daha sonra döngünün ilk saati içinde geri dönüşüme katılan katılımcılara veXNF güçlerine göre yeniden dağıtılacaktır.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ ETH Geri Dönüşümü
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Bir döngünün ilk saati içinde ETH'yi geri dönüştürenler, veXNF güçleri ile orantılı olarak o döngüden ETH talep ücretlerinin bir kısmını kazanmaya hak kazanırlar. VeXNF gücünüz ne kadar büyük olursa, talep ücretinden elde edilen ETH getirilerinden payınız da o kadar büyük olur.
+
+- Geri dönüşümün en dikkate değer faydası, yakma açık artırmalarına otomatik olarak dahil edilmesi ve alternatif token yakma ihtiyacını ortadan kaldırmasıdır. Kullanıcılar ilk saatlik pencereyi kaçırsalar bile, döngünün kalan 23 saati içinde geri dönüşüme karar vermeleri koşuluyla vXEN veya YSL yakmaya gerek kalmadan yakma açık artırmalarına katılma fırsatına sahip olacaklar.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 XNF Likidite
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Günlük açık artırmalardan toplanan ETH'nin %40'ı XNF-WETH protokolüne ait likidite provizyonuna yönlendirilecek.
+
+- Her günlük döngü boyunca geri dönüştürülen ETH'nin %90'ı, XNF-WETH protokolüne ait likidite tedariği için tahsis edilecektir.
+
+- Protokol, likidite sağlama işlevleri için Uniswap V3'ü kullanacak şekilde yapılandırılmıştır. Ek olarak, XNF tarafındaki tüm likidite geri alımlardan sağlanıyor ve protokol dahilinde kilitli kalarak tam kapsamlı bir eşleştirme sağlıyor. XNF-WETH ticaret çiftini başlatmak için protokol 100.000 XNF tahsis edecek ve başlangıç fiyatı 1,00 $ olacak. Bu fiyat, ilk döngüde toplanan ETH miktarına bağlı olarak protokol tarafından düzenlemeye tabidir.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF Likidite Yakımı
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Protokol, bir kullanıcı günlük açık artırmalara katıldığında veya ETH'lerini geri dönüştürdüğünde XNF-WETH likidite provizyonu için XNF'yi satın alır. Fiyat arttıkça, satın alınan XNF'nin yalnızca bir kısmı, Uniswap V3 üzerinde tam kapsamlı bir eşleştirmede geri kalan WETH ile eşleştirilecek.
+
+- Eşleştirilmemiş XNF otomatik olarak yakılır ve kullanıcılar günlük açık artırmalara katıldığında veya ETH ödüllerini geri dönüştürdüğünde XNF'nin dolaşımdaki arzdan tutarlı bir şekilde kaldırılmasına yol açar. Bu otomatik yakma, doğası gereği zamanla XNF için daha da fazla kıtlık yaratacaktır.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 XNF Geri Alım ve Yakma
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Günlük açık artırmalardan toplanan ETH'nin %10'u XNF satın almak için kullanılacak ve satın alınan XNF'nin %100'ü yakılacak.
+
+- Günlük açık artırmalardan toplanan ETH'nin %20'si otomatik olarak XNF'yi satın almak için kullanılacak ve bu daha sonra protokolün Uniswap V3'teki tam kapsamlı XNF-WETH likidite havuzuna eklenecek.
+
+- Geri dönüştürülen ETH'nin %45'i otomatik olarak XNF'yi elde etmek için kullanılacak ve bu daha sonra Uniswap V3'teki protokolün tam kapsamlı XNF-WETH likidite havuzuna eklenecek.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Genesis Airdrop'u
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify, konuşlandırıldığı her zincirde 60 günlük bir Genesis airdrop'u başlatıyor. Bu süre zarfında katılımcılar arasında 1.500.000 XNF paylaştırılacak. Dağıtım basit: Her gün 25.000 XNF tokeni tahsis edilecek ve her bir katılımcının takas ücretleri yoluyla günlük katkılarına göre bireysel paylar belirlenecek.
+
+- Bu airdrop'un tüm EVM uyumlu zincirleri kapsadığını belirtmekte fayda var. Bir işlem EVM zincirinden kaynaklandığı veya bu zincir içinde yürütüldüğü ve ekte bir takas ücreti içerdiği sürece airdrop için uygundur.
+
+- Airdrop'un tamamlanmasının ardından tahsis edilen XNF token'larına hemen erişilemeyecek. Bunun yerine başlangıçta kilitli tokenlar olarak dağıtılacaklar. Ancak bunlar süresiz olarak kilitli kalmayacaktır. 730 gün boyunca kilidi aşamalı olarak açılacaktır. Bunu bir perspektife oturtmak gerekirse: 7.300 kilitli XNF tokeni talep ettiyseniz, cüzdanınızda günlük olarak yaklaşık 10 XNF tokeninin bulunmasını bekleyin.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF Kazanma Gücü
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- veXNF mekanizması, XNF tedarikinin önemli bir bölümünü kilitleyecek şekilde tasarlanmıştır, böylece protokol içindeki kıtlığın arttırılmasında önemli bir rol oynar. Katılımcılar XNF'lerini minimum 1 haftadan maksimum 1 yıla kadar değişen bir süre boyunca kilitleme seçeneğine sahiptir. Kilit süresi ne kadar uzun olursa, kazanma gücü de o kadar büyük olur. Üstelik, daha uzun kilitlenme süreleri de bu gücün daha yavaş azalmasına neden olur.
+
+- Örnek 1: Başlangıçta XNF'lerini 1 yıllık bir süre için kilitleyen veXNF sahipleri, kilit sürelerini uzatmamayı tercih ettikleri takdirde zorluklarla karşı karşıya kalırlar. Kazanma güçleri hızla azalır. Sadece 30 günde bu güç yarıya iner, 60 günün sonunda ise tamamen yok olur. Bu, XNF'lerinin kilidini açana kadar sonraki 10 ay boyunca herhangi bir kazanç gücünden mahrum kalacak.
+
+- Örnek 2: XNF'lerini 6 aydan daha kısa bir süre için kilitlemeyi seçen ve ardından uzatmaya karşı karar verenler de benzer sonuçlarla karşı karşıya kalır. Kazanma güçleri hızla azalır. Sadece 15 günde bu güç yarıya iner ve 30 günün sonunda tamamen yok olur. Bu, XNF'lerinin kilidini açana kadar sonraki 5 ay boyunca herhangi bir kazanç gücünden mahrum kalacak.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF Maksimum Arz
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF'nin maksimum 22,6 milyon arzı var, bu tokenlerin dağıtımları dört günlük açık artırma yoluyla gerçekleşiyor. Her gün, XNF tokenlarının %25'ini temsil eden 5.250.000 XNF, YSL Burn Auction'a katılan katılımcılara tahsis ediliyor. vXEN Burn Auction'a katılanlara da aynı miktarda 5.250.000 XNF dağıtılacak. Ayrıca günlük XNF arzının ilave %50'si veXNF ödüllerine ayrılıyor. Ancak bu ödüllerin bir yıllık kilitlenme süresine tabi olduğunu ve sonrasında ETH Açık Artırmasına (%25) ve Swap Açık Artırmasına (%25) katılan kişilere dağıtıldığını belirtmekte fayda var. Toplamda bu, bu müzayedelerde günlük 10.500.000 XNF dağıtımıyla sonuçlanır.
+
+- Xenify, token dağıtımı için agresif bir yarılanma programı kullanıyor. İlk indirim 3. ayda gerçekleşecek, bunu 6. ayda bir diğeri takip edecek ve ardından 12, 24 ve 48. aylarda yarıya indirilecek. Bu ilk beş yarılanmanın ardından, her biri 48 ayda bir gerçekleşen üç ek indirim daha var. Bu yarıya indirme mekanizması, XNF tokenlarının günlük dağıtımını kademeli olarak azaltmak için tasarlandı.
+
+- Tüm yarılanmaların tamamlanmasının ardından her gün sabit miktarda 156,25 XNF dağıtılacak. Bu, önümüzdeki 2224 ay boyunca devam edecek ve token dağıtımının uzun süreli ve istikrarlı olmasını sağlayacak ve sonuçta maksimum arz sınırına ulaşacak. Bu yaklaşım, XNF tokenlerinin sürdürülebilir ve öngörülebilir bir dağıtımını sağlayarak kullanıcıların güvenle planlama yapmasına ve katılmasına olanak tanır.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Yanıkları Birleştirme
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN, XEN ekosistemindeki farklı EVM zincirlerinden katılımcıların günlük yakma açık artırmalarına katılmasına olanak tanır. vXEN, XEN ekosistemindeki desteklenen 10 zincirden herhangi birindeki XEN yerel belirteçlerinin yakılmasıyla oluşturulur. Bir sahibi bu zincirlerden birinden yerel XEN yaktığında, işlem yakma kaydına kaydedilir. Aşağıda, her biri tek bir vXEN için karşılık gelen tanımlayıcı ve orana sahip, desteklenen EVM zincirlerinin ayrıntılı bir listesi bulunmaktadır.
+
+<br>
+
+| Sayı | Oran | Tanımlayıcılar | Zincirler          |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Önemli Noktalar
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC Onaylandı
+- Çift Denetlenmiş
+- Değişmez Kod
+- Günlük ETH Ödülleri
+- Çapraz zincir XEN Yakma
+- Otomatik XNF Likidite
+- Otomatik XNF Geri Alma ve Yazma
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍İlk İlkeler
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Fuar Lansmanı
+- Yönetici Anahtarı Yok
+- Değişmez Kod
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 Ekip ve Güvenlik
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Peckshield tarafından denetlendi
+- Solidproof tarafından denetlendi
+- KYC, Solidproof tarafından doğrulandı
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Köprü Oluşturma Özellikleri
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- LayerZero OFT
+- Akselar Ağı
+- Solucan Deliği Köprüsü
 
 <br>
 
@@ -1605,7 +1831,7 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 
 <br>
 
-- [Xenify Web Sitesi](https://xenify.io)
+- [Xenify Sitesi](https://xenify.io)
 - [Xenify Twitter](https://twitter.com/xenify_io)
 - [Xenify Youtube](https://www.youtube.com/@xenify-io)
 - [Xenify Medium](https://medium.com/xenify)
