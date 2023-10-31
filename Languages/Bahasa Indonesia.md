@@ -22,6 +22,7 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 # ◽️ Isi
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Burn-a-mental](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-burn-a-mental)
 - [Pendahuluan](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-pendahuluan)
 - [Misi Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-misi-kami)
 - [Prinsip - Prinsip Kami](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-prinsip-prinsip-kami)
@@ -47,6 +48,231 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 - [Ucapan Terima Kasih](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-ucapan-terima-kasih)
 - [Alamat Kontrak](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-alamat-kontrak)
 - [Tautan Bermanfaat](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-tautan-bermanfaat)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ BURN-A-MENTAL
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Bagi mereka yang memiliki waktu terbatas, bagian ini memberikan ikhtisar inti "Burn-A-Mentals" yang mendorong visi Xenify dan membedakannya dari platform lain. Anda akan mempelajari bagaimana Xenify menghasilkan penyediaan likuiditas yang tak tertandingi untuk pemegang XNF, memberi penghargaan kepada pengguna karena menukar dan membakar token, dan menggabungkan mekanisme pembelian kembali dan pembakaran harian untuk meningkatkan nilai sekaligus mengurangi pasokan XNF yang beredar.
+
+Anda juga akan menemukan model distribusi token Xenify yang adil dan transparan, tanpa alokasi kepada tim, pendiri, atau investor. Ditambah lagi, struktur insentif berbasis teori permainan unik Xenify yang menumbuhkan umpan balik positif dari keterlibatan dan partisipasi berkelanjutan.
+
+Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap yang sangat efisien dipadukan dengan potensi penghasilan yang signifikan. Benar-benar memelopori desain dan fungsionalitasnya, Xenify dibangun dengan tujuan untuk mendorong ekspansi berkelanjutan dan penciptaan nilai bagi seluruh komunitas. Baca terus untuk mengetahui bagaimana Xenify mengubah masa depan DeFi dengan pendekatan uniknya.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Lelang Harian
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Dalam lelang pembakaran harian yang diselenggarakan di Arbitrum, pengguna memiliki opsi untuk membakar 1 hingga 10.000 batch. Satu batch pembakaran YSL mewakili 0,1 YSL, sedangkan batch pembakaran vXEN setara dengan 10.000.000 vXEN. Biaya asli sebesar 0,01 ETH diterapkan per batch dalam lelang pembakaran dan ETH.
+
+- Setiap hari, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran harian. Distribusinya dialokasikan secara merata antara Lelang Pembakaran YSL dan Lelang Pembakaran vXEN. Misalnya, jika hanya 1 kumpulan YSL yang dibakar dan 10.000 kumpulan vXEN dibakar pada siklus tertentu, pengguna yang membakar satu kumpulan YSL akan menerima seluruh 25% pasokan XNF harian, sedangkan pembakar vXEN akan berbagi 25% lainnya berdasarkan kelompok pembakaran masing-masing.
+
+- Selain itu, peserta lelang ETH diberikan 25% pasokan XNF sebagai hadiah veXNF, yang dilengkapi dengan kunci 1 tahun yang dapat diklaim. Setelah diklaim, hadiah ini akan meningkatkan kekuatan penghasilan peserta, memungkinkan mereka memperoleh lebih banyak ETH. Demikian pula, mereka yang berpartisipasi dalam lelang Swap akan menerima sisa 25% dari distribusi XNF harian sebagai hadiah veXNF, juga dengan kunci yang dapat diklaim selama 1 tahun. Setelah melakukan klaim, kekuatan pendapatan mereka juga akan meningkat.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 Diskon Batch
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Pengguna yang berpartisipasi dalam satu jam pertama dapat memanfaatkan Koefisien Waktu (TC) dan Koefisien Batch (BC) untuk mendapatkan diskon yang signifikan. Secara khusus, setiap batch yang diperoleh dalam satu jam pertama akan mendapatkan keuntungan dari diskon 50% dari TC. Selain itu, dengan memperoleh 10.000 batch dalam jangka waktu ini, pengguna dapat memperoleh diskon hingga 75% saat mempertimbangkan BC. Seiring berjalannya siklus, diskon dari Koefisien Waktu (TC) dan Koefisien Batch (BC) berkurang.
+
+- Pada jam terakhir, diskon mendekati nol. Berpartisipasi lebih awal, terutama pada jam pertama, sangat penting bagi pengguna yang ingin memaksimalkan diskon batch mereka. Jam awal memberikan pengurangan paling signifikan, memastikan peserta menerima nilai terbaik atas partisipasi mereka.
+
+- Di sisi lain, menunggu hingga satu jam terakhir untuk memutuskan keterlibatan siklus saat ini bisa jadi lebih mahal. Karena diskon telah berkurang secara signifikan pada saat itu, pengguna pada akhirnya akan menyumbang lebih banyak ETH dibandingkan saat awal, sehingga menggarisbawahi kehati-hatian dalam keterlibatan awal.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 Hadiah ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% ETH yang dikumpulkan dari lelang harian akan dialokasikan kepada pemegang veXNF, sebanding dengan kekuatan veXNF mereka.
+
+- Pengguna yang memilih untuk mengklaim hadiah ETH mereka akan dikenakan biaya klaim sebesar 25%. Biaya ini kemudian akan didistribusikan kembali kepada peserta yang mengambil bagian dalam daur ulang dalam satu jam pertama setiap siklus, sejalan dengan kekuatan veXNF mereka.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ Daur Ulang ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Mereka yang mendaur ulang ETH dalam satu jam pertama suatu siklus berhak mendapatkan sebagian biaya klaim ETH dari siklus tersebut, sebanding dengan kekuatan veXNF mereka. Semakin besar kekuatan veXNF Anda, semakin besar bagian hasil ETH Anda yang dihasilkan dari biaya klaim.
+
+- Manfaat paling menonjol dari daur ulang adalah penyertaan otomatis ke dalam lelang pembakaran, sehingga menghilangkan kebutuhan untuk membakar token alternatif. Bahkan jika pengguna melewatkan jendela satu jam pertama, mereka masih memiliki kesempatan untuk berpartisipasi dalam lelang pembakaran, tanpa perlu membakar vXEN atau YSL, asalkan mereka memutuskan untuk melakukan daur ulang selama sisa 23 jam siklus.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Likuiditas XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% ETH yang dikumpulkan dari lelang harian akan diarahkan ke penyediaan likuiditas milik protokol XNF-WETH.
+
+- 90% dari ETH yang didaur ulang sepanjang setiap siklus harian akan dialokasikan untuk penyediaan likuiditas milik protokol XNF-WETH.
+
+- Protokol dikonfigurasi untuk memanfaatkan Uniswap V3 untuk fungsi penyediaan likuiditasnya. Selain itu, semua likuiditas di sisi XNF bersumber dari pembelian kembali dan tetap terkunci dalam protokol, memastikan pasangan yang lengkap. Untuk memulai pasangan perdagangan XNF-WETH, protokol akan mengalokasikan 100,000 XNF, menetapkan harga awal $1.00. Harga ini dapat disesuaikan oleh protokol tergantung pada jumlah ETH yang dikumpulkan pada siklus awal.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 Pembakaran Likuiditas XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Protokol memperoleh XNF untuk penyediaan likuiditas XNF-WETH setiap kali pengguna berpartisipasi dalam lelang harian atau mendaur ulang ETH mereka. Seiring kenaikan harga, hanya sebagian dari XNF yang diperoleh akan dipasangkan dengan sisa WETH dalam pemasangan full-range di Uniswap V3.
+
+- XNF yang tidak berpasangan secara otomatis dibakar, sehingga menyebabkan penghapusan XNF secara konsisten dari pasokan yang beredar ketika pengguna terlibat dalam lelang harian atau mendaur ulang hadiah ETH mereka. Pembakaran otomatis ini pada dasarnya akan menciptakan lebih banyak kelangkaan XNF seiring berjalannya waktu.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 Pembelian Kembali & Pembakaran XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 10% ETH yang dikumpulkan dari lelang harian akan digunakan untuk membeli XNF, dan 100% XNF yang diperoleh akan dibakar.
+
+- 20% dari ETH yang dikumpulkan dari lelang harian akan secara otomatis digunakan untuk memperoleh XNF, yang kemudian akan ditambahkan ke kumpulan likuiditas XNF-WETH lengkap protokol di Uniswap V3.
+
+- 45% dari ETH daur ulang akan secara otomatis digunakan untuk memperoleh XNF, yang kemudian akan ditambahkan ke kumpulan likuiditas XNF-WETH lengkap protokol di Uniswap V3.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Kejadian Airdrop
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify meluncurkan airdrop Genesis selama 60 hari di setiap rantai yang dikerahkannya. Selama periode ini, 1,500,000 XNF akan dibagikan kepada para peserta. Distribusinya sederhana: setiap hari, 25.000 token XNF akan dialokasikan, dengan pembagian individu ditentukan oleh kontribusi harian masing-masing peserta melalui biaya swap.
+
+- Perlu diperhatikan bahwa airdrop ini mencakup semua rantai yang kompatibel dengan EVM. Selama transaksi berasal dari atau dieksekusi dalam rantai EVM dan mencakup biaya swap yang terlampir, maka transaksi tersebut memenuhi syarat untuk mendapatkan airdrop.
+
+- Setelah airdrop selesai, token XNF yang dialokasikan tidak akan dapat langsung diakses. Sebaliknya, token tersebut awalnya akan didistribusikan sebagai token yang terkunci. Namun, ini tidak akan tetap terkunci tanpa batas waktu. Selama rentang waktu 730 hari, kuncinya akan terbuka secara bertahap. Sebagai gambaran: jika Anda telah mengklaim 7.300 token XNF yang terkunci, perkirakan sekitar 10 token XNF akan tersedia di dompet Anda setiap hari.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 Kekuatan Penghasilan veXNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Mekanisme veXNF dirancang untuk mengunci sebagian besar pasokan XNF, sehingga memainkan peran penting dalam meningkatkan kelangkaan dalam protokol. Peserta memiliki opsi untuk mengunci XNF mereka untuk jangka waktu mulai dari minimal 1 minggu hingga maksimal 1 tahun. Semakin lama durasi penguncian, semakin besar pula kekuatan penghasilannya. Selain itu, durasi penguncian yang lebih lama juga mengakibatkan peluruhan daya ini menjadi lebih lambat.
+
+- Contoh 1: Pemegang veXNF yang awalnya mengunci XNF mereka untuk jangka waktu 1 tahun akan menghadapi tantangan jika mereka memilih untuk tidak memperpanjang durasi kuncinya. Kekuatan pendapatan mereka berkurang dengan cepat. Hanya dalam 30 hari, kekuatan ini berkurang setengahnya, dan pada akhir 60 hari, kekuatan ini hilang seluruhnya. Hal ini membuat mereka tidak memiliki penghasilan apa pun selama 10 bulan berikutnya hingga mereka dapat membuka kunci XNF.
+
+- Contoh 2: Mereka yang memilih untuk mengunci XNF mereka untuk durasi 6 bulan yang lebih pendek dan kemudian memutuskan untuk tidak memperpanjangnya akan menghadapi konsekuensi serupa. Kekuatan pendapatan mereka berkurang dengan cepat. Hanya dalam 15 hari, kekuatan ini berkurang setengahnya, dan pada akhir 30 hari, kekuatan ini hilang seluruhnya. Hal ini membuat mereka tidak memiliki kekuatan penghasilan apa pun selama 5 bulan berikutnya hingga mereka dapat membuka kunci XNF mereka.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 Pasokan Maksimum XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF memiliki pasokan maksimum 22,6 juta, distribusi token ini terjadi melalui empat lelang harian. Setiap hari, 5,250,000 XNF, yang mewakili 25% token XNF, dialokasikan kepada peserta yang terlibat dalam Lelang Pembakaran YSL. Jumlah yang sama sebesar 5.250.000 XNF juga diberikan kepada mereka yang berpartisipasi dalam Lelang Pembakaran vXEN. Selain itu, tambahan 50% dari pasokan XNF harian disisihkan untuk hadiah veXNF. Namun, penting untuk dicatat bahwa hadiah ini tunduk pada periode lock-up selama satu tahun, setelah itu didistribusikan kepada individu yang berpartisipasi dalam Lelang ETH (25%) dan Lelang Swap (25%). Secara total, hal ini menghasilkan distribusi harian sebesar 10.500.000 XNF di seluruh lelang ini.
+
+- Xenify menerapkan jadwal separuh yang agresif untuk distribusi tokennya. Pengurangan pertama terjadi pada tanda 3 bulan, diikuti oleh pengurangan berikutnya pada 6 bulan, dan pengurangan separuh berikutnya pada 12, 24, dan 48 bulan. Setelah lima pengurangan separuh pertama ini, terdapat tiga pengurangan tambahan, yang masing-masing terjadi setiap 48 bulan. Mekanisme halving ini dirancang untuk secara bertahap mengurangi distribusi harian token XNF.
+
+- Setelah selesainya semua halving, sejumlah 156,25 XNF akan dicairkan setiap hari. Hal ini akan berlanjut selama 2224 bulan ke depan, memastikan bahwa distribusi token berlangsung lama dan stabil, sehingga pada akhirnya mencapai batas pasokan maksimum. Pendekatan ini memastikan distribusi token XNF yang berkelanjutan dan dapat diprediksi, memungkinkan pengguna untuk merencanakan dan berpartisipasi dengan percaya diri.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Menyatukan Luka Bakar
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN memungkinkan peserta dari rantai EVM berbeda dalam ekosistem XEN untuk berpartisipasi dalam lelang pembakaran harian. vXEN dihasilkan dengan membakar token asli XEN dari salah satu dari 10 rantai yang didukung di ekosistem XEN. Setiap kali pemegang membakar XEN asli dari salah satu rantai ini, transaksi dicatat dalam catatan pembakaran. Berikut ini adalah daftar rinci rantai EVM yang didukung, masing-masing dengan pengidentifikasi dan rasio yang sesuai untuk satu vXEN.
+
+<br>
+
+| No  | Rasio | Pengidentifikasi | Rantai           |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Sorotan Utama
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC Terverifikasi
+- Diaudit Ganda
+- Kode yang Tidak Dapat Diubah
+- Hadiah ETH Harian
+- Pembakaran XEN lintas rantai
+- Likuiditas XNF Otomatis
+- Pembelian Kembali & Pembakaran XNF Otomatis
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 Prinsip Pertama
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Peluncuran Adil
+- Tanpa Kunci Admin
+- Kode yang Tidak Dapat Diubah
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 Tim & Keamanan
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Diaudit oleh Peckshield
+- Diaudit oleh Solidproof
+- KYC diverifikasi oleh Solidproof
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Fitur Penghubung
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Lapisan Nol OFT
+- Jaringan Axelar
+- Jembatan Lubang Cacing
 
 <br>
 
