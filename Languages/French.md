@@ -425,15 +425,15 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_ysl)
+- [Twitter](https://twitter.com/sd_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_YSL)
+- [Telegram](https://t.me/sd_xnf)
 - [Expérience passée](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Télégramme](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -532,9 +532,7 @@ Voici une brève description de nos chaînes de déploiement et de nos identifia
 
 Voici YSL - un jeton hyper-déflationniste qui associe une rareté quantifiable à une utilité réelle grâce aux enchères quotidiennes de Xenify. Plutôt que de s'appuyer uniquement sur l'activité du marché pour réduire l'offre comme les modèles traditionnels, YSL intègre un mécanisme unique - les ventes aux enchères de Xenify. Avec chaque enchère quotidienne, une partie d'YSL est définitivement retirée de la circulation, réduisant intrinsèquement l'offre totale et amplifiant potentiellement la valeur. Plus important encore, YSL a été conçu pour la confiance et dispose d'un contrat immuable, non modifiable, conçu pour une transparence totale sans possibilité de changements imprévus.
 
-Le nouveau jeton YSL fait ses débuts sur Arbitrum, avec le snapshot de l'airdrop disponible ici : [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023). Mais YSL ne s'arrêtera pas là - une expansion est prévue sur les principales chaînes EVM comme Ethereum, BNB, Polygon, Avalanche, Optimism, et plus encore, chacune avec son propre identifiant YSL (par exemple, eYSL sur Ethereum). Pour permettre l'interopérabilité entre les différentes chaînes, YSL dispose d'un pont de jetons qui exploite LayerZero OTF comme protocole principal, avec Axelar et Wormhole comme options de repli. Cela permet non seulement aux détenteurs de bridge YSL de participer aux enchères Xenify burn à travers les chaînes, mais aussi d'ajouter de la liquidité à travers n'importe quelle chaîne EVM alignée et DEX de leur choix. Et voici la meilleure partie, les détenteurs d'YSL qui ont reçu un airdrop Arbitrum peuvent réclamer leur part d'YSL sur chaque chaîne dans les 90 jours suivant son déploiement.
-
-En bref, les tokenomics déflationnistes d'YSL, uniques en leur genre, fusionnent la rareté et l'utilité, offrant aux détenteurs un token dynamique qui se caractérise par une croissance de la valeur codifiée et basée sur l'utilisation.
+Le nouveau jeton YSL fait ses débuts sur Arbitrum, avec l'instantané du largage disponible [ici](https://bit.ly/YSLAirdrop2023). Mais YSL ne s'arrêtera pas là : une expansion est prévue sur les principales chaînes EVM comme Ethereum, BNB, Polygon, Avalanche, Optimism, etc., chacune avec son propre identifiant YSL unique (par exemple eYSL sur Ethereum). Pour permettre l'interopérabilité entre les différentes chaînes, YSL propose un pont de jetons qui exploite LayerZero OTF comme protocole principal, avec Axelar et Wormhole comme options de repli. Cela donne non seulement aux détenteurs la liberté de relier YSL pour participer aux enchères Xenify burn entre les chaînes, mais également la possibilité d'ajouter des liquidités sur n'importe quelle chaîne EVM alignée et DEX de leur choix. Et voici la meilleure partie : les détenteurs de YSL qui ont été destinataires du parachutage d'Arbitrum peuvent réclamer leur part de YSL sur chaque chaîne dans les 90 jours suivant son déploiement. En bref, la tokenomique déflationniste unique en son genre de YSL fusionne rareté et utilité, offrant aux détenteurs un jeton dynamique qui présente une croissance de valeur codifiée et basée sur l'utilisation.
 
 Voici une brève description de nos chaînes de déploiement et de leurs identifiants YSL uniques :
 
@@ -822,25 +820,31 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 
 <br>
 
-![Xenify French](https://github.com/xenify-io/litepaper/assets/66044824/1fcdc49d-8093-45cd-848a-6a952939304b)
-
-<br>
-
 Xenify a fait un pas en avant monumental en intégrant les pools Uniswap V3. Cette décision stratégique démontre non seulement notre engagement à tirer parti des dernières innovations en matière de DeFi, mais améliore également les options de liquidité disponibles pour nos utilisateurs, tout en consolidant notre position sur le marché.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Cycle de Liquidité Initial
+## 🌊 Cycle de liquidité initial
 
-Afin de mettre en place un écosystème solide permettant à notre communauté d'échanger des XNF dès le début, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Après la fin du cycle initial, notre protocole créera la paire XNF-ETH en utilisant cette allocation de XNF. Pour faciliter ce processus, le protocole utilisera la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) pour établir un pool de liquidité XNF-ETH V3 à la fin du cycle.
+Pour relancer un écosystème florissant qui permet à notre communauté d'échanger XNF immédiatement après son lancement, 100 000 XNF seront mis de côté pour amorcer les liquidités appartenant au protocole. Une fois cette phase initiale terminée, notre protocole établira la paire de trading XNF-WETH en utilisant ce XNF alloué. Le protocole utilisera la majorité des frais collectés lors des activités du premier jour, y compris les frais de swap, les frais natifs et les frais de gravure, pour former un pool de liquidité XNF-WETH V3 à la fin du cycle.
 
-Le prix initial de la paire XNF-ETH est fixé à 1,00 $, ce qui garantit une répartition égale de l'ETH et du XNF sur l'ensemble de la gamme. Toutefois, si l'ETH acquis grâce aux frais au cours du cycle initial augmente de manière significative, le prix initial dépassera 1,00 $ et tout XNF supplémentaire sera automatiquement brûlé. D'autre part, si l'ETH acquis au cours du cycle initial n'atteint pas la valeur minimale intégrée au déploiement de 10 000 dollars, le prix initial sera ajusté pour correspondre à son appariement avec 10 000 XNF, les 90 000 XNF excédentaires étant brûlés.
+Le prix initial de la paire XNF-WETH est fixé à 1,00 $, garantissant une répartition égale de l'ETH et du XNF sur l'ensemble de la gamme. Cependant, si l’ETH acquis grâce aux frais au cours du cycle initial augmente de manière significative, le prix initial dépassera 1,00 $. D'autre part, si l'ETH acquis au cours du cycle initial n'atteint pas la valeur minimale de 100 000 $ lors du déploiement, le prix initial sera ajusté pour correspondre à son appariement avec 100 000 XNF, fixant potentiellement le prix de départ en dessous de 1,00 $.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Cycles de Liquidité Ultérieurs
+## 🌊 Cycles de liquidité ultérieurs
 
-Notre protocole est conçu pour assurer la croissance perpétuelle de la liquidité détenue par le protocole XNF à chaque cycle ultérieur. À partir du deuxième cycle, l'ETH obtenu quotidiennement par le biais des burn fees, des native fees, des swap fees et des activités de recyclage sera utilisé pour soutenir la prolifération de la liquidité du XNF. Dans ce cadre, 50 % de l'ETH est utilisé pour acheter des XNF sur le marché, et les XNF acquis sont associés au reste de l'ETH et ajoutés en tant que liquidité XNF-ETH à pleine échelle. Il est important de noter que, quel que soit le cycle, des frais de transaction de 1 % sont appliqués à toutes les transactions au sein de ce pool de liquidités appartenant au protocole.
+Notre protocole est conçu pour assurer la croissance perpétuelle des liquidités appartenant au protocole XNF à chaque cycle ultérieur. À partir du deuxième cycle, l’ETH obtenu quotidiennement grâce aux frais de brûlage, aux frais natifs, aux frais de swap et aux activités de recyclage sera utilisé pour soutenir la prolifération des liquidités XNF. Dans ce cadre, 50 % de l'ETH est utilisé pour acheter du XNF sur le marché, et le XNF acquis est associé au reste de l'ETH et ajouté en tant que liquidité XNF-WETH dans toute sa gamme. Il est important de noter que, quel que soit le cycle, des frais de négociation constants de 1 % sont appliqués à toutes les transactions au sein de ce pool de liquidité appartenant au protocole.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 Trou noir de liquidité XNF
+
+Les détenteurs de XNF peuvent vendre librement leurs XNF via notre pool de liquidité appartenant au protocole ou tout autre pool établi par la communauté. Cependant, l'achat de XNF à partir de notre pool de liquidités appartenant au protocole est limité, ce qui fait de nos enchères quotidiennes le principal moyen d'acquérir une quantité substantielle de XNF. Cela signifie que chaque fois qu'un utilisateur ou un robot d'arbitrage vend du XNF via notre pool de liquidité appartenant au protocole, les jetons sont définitivement retirés de la circulation, créant un effet de « trou noir » qui augmente la rareté du XNF.
+
+Ce mécanisme soigneusement conçu sert également à protéger le déploiement initial de liquidités contre une exploitation potentielle par des spéculateurs et des tireurs d’élite de liquidités, renforçant ainsi l’intégrité de notre écosystème dès le départ. Il convient de mentionner que même si les utilisateurs conservent la possibilité d'apporter des liquidités au pool appartenant au protocole, l'option permettant d'ajouter des liquidités dans leur intégralité ne sera pas disponible.
+
+En établissant une voie à sens unique, notre pool de liquidités appartenant au protocole se transforme en un puits XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme de rachat et de brûlage quotidien de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
 
 <br>
 
@@ -1568,6 +1572,12 @@ En résumé, Xenify représente un changement de paradigme dans le monde de l'é
 <br>
 
 Nous comprenons que vous puissiez avoir des questions sur Xenify, ses fonctionnalités et son potentiel. Pour vous aider à naviguer sur notre plateforme, nous avons compilé une liste de questions fréquemment posées qui fournissent des éclaircissements et des informations sur Xenify et son écosystème.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Les contrats sont-ils open source ?
+- Nos contrats sont librement accessibles pour visualisation et sous licence BusL-1.1. Cependant, il est essentiel de noter que toute forme de redistribution, de modification ou de réutilisation de nos contrats, que ce soit en totalité ou en partie, est strictement interdite à moins d'obtenir l'approbation écrite explicite de tous les co-fondateurs. Les demandes d'approbation doivent être adressées aux adresses e-mail officielles des co-fondateurs, garantissant que les réponses soient reçues directement de ces adresses. Ces mesures sont mises en œuvre dans le but primordial de protéger les intérêts de nos titulaires.
+
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
