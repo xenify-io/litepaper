@@ -1576,7 +1576,6 @@ Kami memahami bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fitur
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Apakah kontraknya open-source?
-
 - Kontrak kami dapat diakses secara terbuka untuk dilihat dan dilisensikan di bawah Lisensi BUSL-1.1. Namun, penting untuk dicatat bahwa segala bentuk pendistribusian ulang, modifikasi, atau penggunaan kembali kontrak kami, baik secara keseluruhan atau sebagian, dilarang keras kecuali persetujuan tertulis secara eksplisit diperoleh dari semua pendiri bersama. Permintaan persetujuan harus diarahkan ke alamat email resmi para pendiri, memastikan bahwa tanggapan diterima langsung dari alamat tersebut. Langkah-langkah ini diterapkan dengan tujuan utama melindungi kepentingan pemegang saham kami.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
