@@ -22,6 +22,7 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 # ◽️ 内容
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- []()
 - [简介](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E7%AE%80%E4%BB%8B)
 - [我们的使命](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%BF%E5%91%BD)
 - [我们的原则](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%8E%9F%E5%88%99)
@@ -47,6 +48,231 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 - [致谢](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E8%87%B4%E8%B0%A2)
 - [合同地址](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E5%90%88%E5%90%8C%E5%9C%B0%E5%9D%80)
 - [有用链接](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%9C%89%E7%94%A8%E9%93%BE%E6%8E%A5)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 精神燃烧
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+对于时间有限的人来说，本节概述了驱动 Xenify 愿景并将其与其他平台区分开来的核心“Burn-A-Mentals”。您将了解 Xenify 如何为 XNF 持有者生成无与伦比的流动性供应，奖励用户交换和销毁代币，并采用每日回购和销毁机制来提升价值，同时减少 XNF 的流通供应。
+
+您还将发现 Xenify 公平透明的代币分配模式，不对团队、创始人或投资者进行分配。此外，Xenify 独特的基于博弈论的激励结构可培养持续参与的积极反馈循环。
+
+从本质上讲，Xenify 提供了两全其美的优势：超高效的交换体验与巨大的盈利潜力。 Xenify 在设计和功能上都具有真正的开创性，旨在促进整个社区的可持续扩张和价值创造。继续阅读，了解 Xenify 如何以其独特的方法改变 DeFi 的未来。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+#🗳每日拍卖
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 在 Arbitrum 上举办的每日销毁拍卖中，用户可以选择销毁 1 到 10,000 批。单个 YSL 刻录批次代表 0.1 YSL，而 vXEN 刻录批次对应于 10,000,000 vXEN。在销毁和 ETH 拍卖中，每批收取 0.01 ETH 的原生费用。
+
+- 每天，50% 的 XNF 供应量会分发给每日销毁拍卖的参与者。 YSL 销毁拍卖和 vXEN 销毁拍卖之间平均分配。例如，如果在给定周期内仅销毁 1 批 YSL，并销毁 10,000 批 vXEN，则销毁单个 YSL 批次的用户将获得每日 XNF 供应量的全部 25%，而 vXEN 销毁器将共享其他 25% 根据各自的燃烧批次而定。
+
+- 此外，ETH 拍卖的参与者将获得 25% 的 XNF 供应量作为 veXNF 奖励，并附带 1 年可领取的锁定期。一旦领取，这些奖励就会增强参与者的赚钱能力，使他们能够赚取更多的 ETH。同样，参与互换拍卖的人将获得每日 XNF 分配的剩余 25% 作为 veXNF 奖励，同样具有 1 年可领取锁定期。领取后，他们的赚钱能力也会增加。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+#💡批量折扣
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 第一小时参与的用户可同时受益于时间系数（TC）和批量系数（BC），获得大幅折扣。具体来说，第一个小时内获得的任何批次都将受益于 TC 的 50% 折扣。此外，通过在此窗口内获得 10,000 个批次，用户在考虑 BC 时可以获得高达 75% 的折扣。随着周期的进行，时间系数 (TC) 和批量系数 (BC) 的折扣逐渐减小。
+
+- 到最后一小时，折扣接近于零。尽早参与，尤其是在第一个小时，对于希望最大化批量折扣的用户来说至关重要。开始时间可以最大程度地减少时间，确保参与者获得最大的参与价值。
+
+- 另一方面，等到最后一个小时才决定当前周期的参与可能会更昂贵。由于届时折扣已大幅减少，与最初一小时相比，用户最终将贡献更多的 ETH，这凸显了早期参与的谨慎态度。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH 奖励
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 从每日拍卖中收集到的 ETH 的 40% 将分配给 veXNF 持有者，与他们的 veXNF 算力成正比。
+
+- 选择领取 ETH 奖励的用户将收取 25% 的领取费用。然后，这笔费用将根据其 veXNF 功率重新分配给在一个周期的第一个小时内参与回收的参与者。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+#♻️ETH回收
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 那些在一个周期的第一个小时内回收 ETH 的人将根据其 veXNF 算力的比例，从该周期中赚取一部分 ETH 索赔费用。您的 veXNF 算力越大，您从索赔费用中获得的 ETH 收益份额就越大。
+
+- 回收最显着的好处是自动纳入销毁拍卖，无需销毁替代代币。即使用户错过了第一个小时的窗口，只要他们决定在周期的剩余 23 小时内进行回收，他们仍然有机会参与销毁拍卖，而无需销毁 vXEN 或 YSL。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 XNF 流动性
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 从每日拍卖中收集的 ETH 的 40% 将用于 XNF-WETH 协议拥有的流动性供应。
+
+- 每个每日周期中回收的 ETH 的 90% 将分配给 XNF-WETH 协议拥有的流动性供应。
+
+- 该协议配置为利用 Uniswap V3 来实现其流动性供应功能。此外，XNF 方面的所有流动性均来自回购，并保持锁定在协议内，确保全方位配对。为了启动 XNF-WETH 交易对，该协议将分配 100,000 XNF，设定初始价格为 1.00 美元。该价格可能会由协议根据初始周期中收集的 ETH 数量进行调整。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF 流动性燃烧
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 每当用户参与每日拍卖或回收其 ETH 时，该协议都会获取 XNF 以提供 XNF-WETH 流动性。随着价格上涨，仅获取的一部分 XNF 会与剩余的 WETH 在 Uniswap V3 上进行全方位配对。
+
+- 未配对的 XNF 会被自动销毁，从而当用户参与每日拍卖或回收其 ETH 奖励时，XNF 会从流通供应中持续移除。随着时间的推移，这种自动燃烧本质上会导致 XNF 更加稀缺。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 XNF 回购并销毁
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 每日拍卖收集的 ETH 的 10% 将用于购买 XNF，所获得的 XNF 100% 被销毁。
+
+- 每日拍卖收集的 ETH 的 20% 将自动用于获取 XNF，然后将其添加到 Uniswap V3 上协议的全系列 XNF-WETH 流动性池中。
+
+- 回收的 ETH 的 45% 将自动用于获取 XNF，然后将其添加到 Uniswap V3 上协议的全系列 XNF-WETH 流动性池中。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF创世空投
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify 正在其部署的每条链上启动为期 60 天的 Genesis 空投。在此期间，1,500,000 XNF将在参与者之间共享。分配很简单：每天将分配 25,000 个 XNF 代币，个人份额由每个参与者通过互换费用每日贡献决定。
+
+- 值得注意的是，本次空投包含所有EVM兼容链。只要交易源自 EVM 链或在 EVM 链内执行，并且包含附加的交换费用，就有资格获得空投。
+
+- 空投结束后，分配的 XNF 代币将无法立即使用。相反，它们最初将作为锁定代币进行分发。但是，这些不会无限期地保持锁定状态。在 730 天内，它们将逐步解锁。换个角度来看：如果您已领取 7,300 个锁定的 XNF 代币，预计您的钱包中每天将有大约 10 个 XNF 代币可供使用。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF 盈利能力
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- veXNF 机制旨在锁定 XNF 供应的很大一部分，从而在增强协议内的稀缺性方面发挥关键作用。参与者可以选择将其 XNF 锁定最短 1 周到最长 1 年的期限。锁定时间越长，盈利能力就越大。此外，较长的锁定持续时间也会导致该功率的衰减较慢。
+
+- 示例 1：最初将 XNF 锁定 1 年的 veXNF 持有者，如果选择不延长锁定期限，将面临挑战。他们的赚钱能力迅速下降。短短30天内，这种力量就减半，到60天后，就完全消失了。这使得他们在接下来的 10 个月内没有任何盈利能力，直到他们可以解锁 XNF。
+
+- 示例 2：那些选择将 XNF 锁定较短的 6 个月期限，然后决定不延期的人将面临类似的后果。他们的赚钱能力迅速下降。短短15天内，这种力量就减半，到30天后，就完全消失了。这使得他们在接下来的 5 个月内没有任何盈利能力，直到他们可以解锁 XNF。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF 最大供应量
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF 的最大供应量为 2260 万枚，这些代币的分配通过每日四次拍卖进行。每天，5,250,000 XNF（占 XNF 代币的 25%）被分配给参与 YSL 销毁拍卖的参与者。还向参与 vXEN 销毁拍卖的参与者支付相同数量的 5,250,000 XNF。此外，每日 XNF 供应量的额外 50% 用于 veXNF 奖励。但需要注意的是，这些奖励有一年的锁定期，之后将分发给参与 ETH 拍卖（25%）和掉期拍卖（25%）的个人。总的来说，这些拍卖每天分配 10,500,000 XNF。
+
+- Xenify 采用积极的减半计划来分配代币。第一次减半发生在 3 个月时，随后是 6 个月时减半，随后在 12、24 和 48 个月时减半。在最初的五次减半之后，又进行了三次减半，每次减半每 48 个月进行一次。这种减半机制旨在逐渐减少 XNF 代币的每日分配量。
+
+- 所有减半完成后，每天将稳定发放 156.25 XNF。这将持续未来 2224 个月，确保代币的分配长期且稳定，最终达到最大供应限制。这种方法确保了 XNF 代币的可持续和可预测的分配，使用户能够充满信心地计划和参与。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - 统一烧伤
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN 使来自 XEN 生态系统内不同 EVM 链的参与者能够参与每日销毁拍卖。 vXEN 是通过燃烧 XEN 生态系统中 10 个受支持链中任何一个的 XEN 原生代币而生成的。每当持有者从这些链之一刻录本机 XEN 时，交易就会记录在刻录记录中。以下是受支持的 EVM 链的详细列表，每个链都有其对应的标识符和单个 vXEN 的比率。
+
+<br>
+
+|数量 |比率    |标识符       |链条                    |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ 主要亮点
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC 验证
+- 双重审核
+- 不可变代码
+- 每日 ETH 奖励
+- 跨链XEN燃烧
+- 自动 XNF 流动性
+- 自动 XNF 回购和销毁
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍第一原则
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 公平启动
+- 没有管理密钥
+- 不可变代码
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 团队与安全
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 由 Peckshield 审核
+- 由 Solidproof 审核
+- 通过 Solidproof 验证 KYC
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ 桥接功能
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- LayerZero OFT
+- 轴网络
+- 虫洞桥
 
 <br>
 
