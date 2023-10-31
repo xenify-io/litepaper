@@ -22,7 +22,7 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 # ◽️ 内容
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
-- []()
+- [精神燃烧](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E7%B2%BE%E7%A5%9E%E7%87%83%E7%83%A7)
 - [简介](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E7%AE%80%E4%BB%8B)
 - [我们的使命](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%BF%E5%91%BD)
 - [我们的原则](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%8E%9F%E5%88%99)
