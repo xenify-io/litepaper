@@ -22,6 +22,7 @@
 # ◽️ 目次
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [メンタルを燃やそう](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%92%E7%87%83%E3%82%84%E3%81%9D%E3%81%86)
 - [はじめに](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
 - [私たちの使命](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E4%BD%BF%E5%91%BD)
 - [私たちの理念](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E7%90%86%E5%BF%B5)
@@ -47,6 +48,231 @@
 - [謝辞](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E8%AC%9D%E8%BE%9E)
 - [契約アドレス](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E5%A5%91%E7%B4%84%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9)
 - [お役立ちリンク](https://github.com/xenify-io/litepaper/blob/main/Languages/Japanese.md#%EF%B8%8F-%E3%81%8A%E5%BD%B9%E7%AB%8B%E3%81%A1%E3%83%AA%E3%83%B3%E3%82%AF)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ メンタルを燃やそう
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+時間がない人のために、このセクションでは、Xenify のビジョンを推進し、他のプラットフォームと区別するコアとなる「Burn-A-Mentals」の概要を説明します。 Xenify がどのように XNF 保有者向けに比類のない流動性プロビジョニングを生成し、トークンのスワップとバーンに対してユーザーに報酬を与え、XNF の循環供給を減らしながら価値を高めるために毎日の買い戻しとバーンのメカニズムを組み込む方法を学びます。
+
+また、チーム、創設者、投資家に割り当てを行わない、Xenify の公正かつ透明なトークン配布モデルもわかります。さらに、Xenify の独自のゲーム理論に基づいたインセンティブ構造により、継続的な関与と参加のポジティブなフィードバック ループが育成されます。
+
+Xenify はその中核として、非常に効率的なスワップ エクスペリエンスと大幅な収益の可能性という両方の長所を提供します。デザインと機能の両方において真に先駆者である Xenify は、コミュニティ全体の持続可能な拡大と価値創造を促進することを目的として構築されています。 Xenify が独自のアプローチで DeFi の未来をどのように変革しているかを読み進めてください。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳デイリーオークション
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Arbitrum でホストされている毎日の書き込みオークションでは、ユーザーは 1 ～ 10,000 バッチの範囲で書き込みを行うことができます。 1 つの YSL 書き込みバッチは 0.1 YSL を表し、vXEN 書き込みバッチは 10,000,000 vXEN に相当します。バーンオークションとETHオークションの両方において、バッチごとに0.01 ETHのネイティブ手数料が適用されます。
+
+- 毎日、XNF 供給量の 50% が毎日のバーン オークションの参加者に分配されます。分配はYSL書き込みオークションとvXEN書き込みオークションに均等に割り当てられます。たとえば、特定のサイクルで YSL の 1 バッチのみが書き込まれ、vXEN の 10,000 バッチが書き込まれる場合、単一の YSL バッチを書き込んだユーザーは、毎日の XNF 供給量の 25% 全体を受け取りますが、vXEN バーナーは、残りの 25% はそれぞれの書き込みバッチに基づきます。
+
+- さらに、ETH オークションの参加者には、XNF 供給量の 25% が veXNF 報酬として与えられ、これには 1 年間の請求可能なロックが付属します。これらの報酬を獲得すると、参加者の収益力が強化され、より多くの ETH を獲得できるようになります。同様に、スワップ オークションに参加する人は、1 年間の請求可能なロックとともに、毎日の XNF 分配の残り 25% を veXNF 報酬として受け取ります。請求すると収益力も高まります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 一括割引
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 最初の 1 時間に参加するユーザーは、時間係数 (TC) とバッチ係数 (BC) の両方の恩恵を受け、大幅な割引を実現できます。具体的には、最初の 1 時間以内に取得したバッチは、TC の 50% 割引の恩恵を受けます。さらに、この期間内に 10,000 バッチを取得すると、BC を考慮した場合、ユーザーは最大 75% の割引を達成できます。サイクルが進行するにつれて、時間係数 (TC) とバッチ係数 (BC) の両方からの割引が減少します。
+
+- 最後の 1 時間までに、割引はゼロに近づきます。一括割引を最大限に活用したいユーザーにとって、早めに、特に最初の 1 時間で参加することが重要です。開始時間は最も大幅な割引を提供し、参加者が参加に対して可能な限り最高の価値を確実に享受できるようにします。
+
+- 一方、現在のサイクルの関与を決定するために最後の 1 時間まで待機すると、コストが高くなる可能性があります。それまでに割引は大幅に減少しているため、ユーザーは最終的に最初の 1 時間と比較してより多くの ETH を寄付することになり、早期に関与することが賢明であることがわかります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH 報酬
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 毎日のオークションで集められた ETH の 40% が、veXNF パワーに比例して veXNF 保有者に割り当てられます。
+
+- ETH 報酬を請求することを選択したユーザーには、25% の請求手数料がかかります。この料金は、veXNF パワーに合わせて、サイクルの最初の 1 時間以内にリサイクルに参加した参加者に再分配されます。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ ETHのリサイクル
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- サイクルの最初の 1 時間以内に ETH をリサイクルした人は、veXNF パワーに比例して、そのサイクルから ETH 請求手数料の一部を得ることができます。 veXNF パワーが大きいほど、請求手数料から生成される ETH 利回りのシェアも大きくなります。
+
+- リサイクルの最も注目すべき利点は、バーン オークションに自動的に組み込まれ、代替トークンをバーンする必要がなくなることです。ユーザーが最初の 1 時間の枠を逃した場合でも、サイクルの残り 23 時間中にリサイクルすることを決定した場合には、vXEN や YSL を書き込む必要なく、書き込みオークションに参加する機会がまだあります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 XNF 流動性
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 毎日のオークションから収集された ETH の 40% は、XNF-WETH プロトコルが所有する流動性プロビジョニングに向けられます。
+
+- 毎日の各サイクルを通じてリサイクルされた ETH の 90% は、XNF-WETH プロトコルが所有する流動性プロビジョニングに割り当てられます。
+
+- プロトコルは、流動性プロビジョニング機能に Uniswap V3 を利用するように構成されています。さらに、XNF 側のすべての流動性は買い戻しから調達され、プロトコル内にロックされたままとなり、フルレンジのペアリングが保証されます。 XNF-WETH 取引ペアを開始するために、プロトコルは 100,000 XNF を割り当て、初期価格 1.00 ドルを確立します。この価格は、最初のサイクルで収集された ETH の量に応じてプロトコルによって調整される可能性があります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF 流動性バーン
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- ユーザーが毎日のオークションに参加するか、ETH をリサイクルするたびに、プロトコルは XNF-WETH 流動性プロビジョニングのために XNF を取得します。価格が上昇すると、Uniswap V3 のフルレンジ ペアリングでは、取得された XNF の一部のみが残りの WETH とペアリングされます。
+
+- ペアになっていない XNF は自動的に焼かれ、ユーザーが毎日のオークションに参加したり、ETH 報酬をリサイクルしたりするときに、循環供給から XNF が一貫して除去されます。この自動書き込みにより、本質的に、時間の経過とともに XNF の希少性がさらに高まります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 XNF 買い戻しと書き込み
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 毎日のオークションで収集された ETH の 10% が XNF の購入に使用され、取得された XNF の 100% がバーンされます。
+
+- 毎日のオークションから収集された ETH の 20% は XNF の取得に自動的に使用され、その後 Uniswap V3 上のプロトコルのフルレンジ XNF-WETH 流動性プールに追加されます。
+
+- リサイクルされた ETH の 45% は XNF の取得に自動的に使用され、その後 Uniswap V3 上のプロトコルのフルレンジ XNF-WETH 流動性プールに追加されます。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF ジェネシス エアドロップ
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify は、デプロイ先の各チェーンで 60 日間の Genesis エアドロップを開始します。この期間中、1,500,000 XNF が参加者間で共有されます。分配はシンプルです。毎日 25,000 の XNF トークンが割り当てられ、個々のシェアはスワップ手数料を介した各参加者の毎日の貢献によって決まります。
+
+- このエアドロップにはすべての EVM 互換チェーンが含まれていることは注目に値します。トランザクションが EVM チェーンから発生するか、EVM チェーン内で実行され、付随のスワップ手数料が含まれている限り、エアドロップの対象となります。
+
+- エアドロップの終了後、割り当てられた XNF トークンにはすぐにはアクセスできなくなります。代わりに、最初はロックされたトークンとして配布されます。ただし、これらは無期限にロックされたままになるわけではありません。 730 日間にわたって、段階的にロックが解除されます。これを大局的に考えると、7,300 個のロックされた XNF トークンを要求した場合、毎日約 10 個の XNF トークンがウォレットで利用可能になることが予想されます。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF 収益力
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- veXNF メカニズムは、XNF 供給のかなりの部分を固定するように設計されており、それによってプロトコル内の不足を高める上で極めて重要な役割を果たします。参加者には、最短 1 週間から最長 1 年の範囲で XNF をロックするオプションがあります。ロック期間が長ければ長いほど、収益力は大きくなります。さらに、ロック期間が長くなると、この電力の減衰も遅くなります。
+
+- 例 1: 最初に 1 年間 XNF をロックした veXNF 保有者は、ロック期間を延長しないことを選択すると課題に直面します。彼らの収益力は急速に低下します。わずか 30 日でこの力は半減し、60 日が経過するまでに完全に消失します。これにより、XNF のロックを解除できるまで、次の 10 か月間、収益を得る力がなくなります。
+
+- 例 2: XNF を 6 か月という短い期間ロックすることを選択し、その後延長しないことに決めた人も、同様の結果に直面します。彼らの収益力は急速に低下します。わずか 15 日でこの力は半減し、30 日が経過するまでに完全に消失します。これにより、XNF のロックを解除できるまでの次の 5 か月間、収益を得る力がなくなります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF 最大供給量
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF の最大供給量は 2,260 万で、これらのトークンの配布は毎日 4 回のオークションを通じて行われます。毎日、XNF トークンの 25% に相当する 5,250,000 XNF が、YSL バーン オークションの参加者に割り当てられます。 vXEN Burn オークションの参加者には、同量の 5,250,000 XNF も支払われます。さらに、毎日の XNF 供給量のさらに 50% が veXNF 報酬用に確保されます。ただし、これらの報酬には 1 年間のロックアップ期間があり、その後は ETH オークション (25%) とスワップ オークション (25%) に参加する個人に分配されることに注意することが重要です。合計すると、これらのオークション全体で毎日 10,500,000 XNF が分配されることになります。
+
+- Xenify は、トークン配布に積極的な半減スケジュールを採用しています。最初の減少は 3 か月の時点で行われ、次に 6 か月でさらに減少し、その後 12、24、および 48 か月で半減します。最初の 5 回の半減期の後、さらに 3 回の削減があり、それぞれ 48 か月ごとに行われます。この半減メカニズムは、XNF トークンの毎日の配布を徐々に減らすように設計されています。
+
+- すべての半減期の完了後、毎日 156.25 XNF の安定した金額が支払われます。これは次の 2224 か月間継続され、トークンの配布が長期にわたって安定して行われ、最終的には最大供給制限に達します。このアプローチにより、XNF トークンの持続可能かつ予測可能な配布が保証され、ユーザーは自信を持って計画して参加できるようになります。
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - 統合バーンズ
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN を使用すると、XEN エコシステム内のさまざまな EVM チェーンの参加者が毎日の書き込みオークションに参加できるようになります。 vXEN は、XEN エコシステム内でサポートされている 10 のチェーンのいずれかから XEN ネイティブ トークンを書き込むことによって生成されます。所有者がこれらのチェーンのいずれかからネイティブ XEN を書き込むたびに、トランザクションは書き込みレコードに記録されます。以下は、サポートされている EVM チェーンの詳細なリストです。各チェーンには、単一の vXEN に対応する識別子と比率が含まれています。
+
+<br>
+
+|番号 | 比率   | 識別子      |チェーン                |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️主なハイライト
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC認証済
+- 二重監査済み
+- 不変コード
+- 毎日のETH報酬
+- クロスチェーン XEN バーニング
+- 自動化された XNF 流動性
+- 自動化された XNF バイバックと書き込み
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 第一原則
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- フェアローンチ
+- 管理者キーなし
+- 不変コード
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 チームとセキュリティ
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- ペックシールドによる監査済み
+- Solidproof による監査済み
+- Solidproof による KYC 検証
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ ブリッジング機能
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- レイヤーゼロOFT
+- アクセラネットワーク
+- ワームホールブリッジ
 
 <br>
 
@@ -1605,7 +1831,7 @@ Xenify用語集へようこそ。Xenifyのエコシステムや分散型金融(D
 
 <br>
 
-- [ゼニファイウェブサイト](https://xenify.io)
+- [ゼニファイサイト](https://xenify.io)
 - [ゼニファイTwitter](https://twitter.com/xenify_io)
 - [ゼニファイYoutube](https://www.youtube.com/@xenify-io)
 - [ゼニファイ ミディアム](https://medium.com/xenify)
