@@ -425,15 +425,15 @@ Xenify rất chú trọng đến vốn chủ sở hữu và đầu tư dài hạ
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_ysl)
+- [Twitter](https://twitter.com/simran_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_YSL)
+- [Telegram](https://t.me/sd_xnf)
 - [Kinh nghiệm quá khứ](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegram](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -532,9 +532,7 @@ Dưới đây là bản phân tích ngắn gọn về chuỗi triển khai và m
 
 Giới thiệu YSL - một mã thông báo siêu giảm phát kết hợp sự khan hiếm có thể định lượng được với tiện ích trong thế giới thực thông qua các cuộc đấu giá đốt hàng ngày của Xenify . Thay vì chỉ dựa vào hoạt động thị trường để giảm nguồn cung như các mô hình truyền thống, YSL tích hợp một cơ chế độc đáo - đấu giá đốt Xenify . Với mỗi phiên đấu giá hàng ngày, một phần YSL sẽ bị loại bỏ vĩnh viễn khỏi lưu thông, điều này làm giảm tổng nguồn cung và có khả năng tăng giá trị. Quan trọng hơn, YSL đã được thiết kế để tạo sự tin cậy và có một hợp đồng bất biến, không thể nâng cấp được thiết kế để mang lại sự minh bạch hoàn toàn mà không có khả năng xảy ra những thay đổi không lường trước được.
 
-Mã thông báo YSL mới ra mắt trên Arbitrum , với ảnh chụp nhanh về đợt airdrop có sẵn tại đây: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023). Nhưng YSL sẽ không dừng lại ở đó - việc mở rộng được lên kế hoạch trên các chuỗi EVM hàng đầu như Ethereum, BNB, Polygon, Avalanche, Optimism, v.v., mỗi chuỗi có mã định danh YSL duy nhất của riêng mình (ví dụ: eYSL trên Ethereum). Để kích hoạt khả năng tương tác giữa các chuỗi khác nhau, YSL có một cầu nối mã thông báo tận dụng LayerZero OTF làm giao thức chính, với Axelar và Wormhole làm tùy chọn dự phòng. Điều này không chỉ cấp cho chủ sở hữu quyền tự do kết nối YSL để tham gia đấu giá đốt Xenify trên các chuỗi mà còn có khả năng bổ sung tính thanh khoản trên bất kỳ chuỗi EVM và DEX liên kết nào mà họ lựa chọn. Và đây là phần hay nhất, những người nắm giữ YSL từng là người nhận airdrop Arbitrum có thể yêu cầu phần YSL của họ trên mỗi chuỗi trong vòng 90 ngày kể từ ngày triển khai.
-
-hệ thống kinh tế mã thông báo giảm phát có một không hai của YSL kết hợp sự khan hiếm và tiện ích, cung cấp cho chủ sở hữu một mã thông báo động có tính năng tăng trưởng giá trị dựa trên việc sử dụng, được hệ thống hóa.
+Mã thông báo YSL mới ra mắt trên Arbitrum, với ảnh chụp nhanh về đợt airdrop có sẵn [tại đây](https://bit.ly/YSLAirdrop2023). Nhưng YSL sẽ không dừng lại ở đó - việc mở rộng được lên kế hoạch trên các chuỗi EVM hàng đầu như Ethereum, BNB, Polygon, Avalanche, Optimism, v.v., mỗi chuỗi có mã định danh YSL duy nhất của riêng mình (ví dụ: eYSL trên Ethereum). Để kích hoạt khả năng tương tác giữa các chuỗi khác nhau, YSL có một cầu nối mã thông báo tận dụng LayerZero OTF làm giao thức chính, với Axelar và Wormhole làm tùy chọn dự phòng. Điều này không chỉ cấp cho chủ sở hữu quyền tự do kết nối YSL để tham gia đấu giá đốt Xenify trên các chuỗi mà còn có khả năng bổ sung tính thanh khoản trên bất kỳ chuỗi EVM và DEX liên kết nào mà họ lựa chọn. Và đây là phần hay nhất, những người nắm giữ YSL từng là người nhận airdrop Arbitrum có thể yêu cầu phần YSL của họ trên mỗi chuỗi trong vòng 90 ngày kể từ ngày triển khai. Nói tóm lại, hệ thống kinh tế mã thông báo giảm phát có một không hai của YSL kết hợp sự khan hiếm và tiện ích, cung cấp cho chủ sở hữu một mã thông báo động có tính năng tăng trưởng giá trị dựa trên việc sử dụng, được hệ thống hóa.
 
 Dưới đây là bản phân tích ngắn gọn về chuỗi triển khai của chúng tôi và số nhận dạng YSL duy nhất của chúng:
 
@@ -822,25 +820,31 @@ Xenify đang sẵn sàng phát triển quy mô lớn, tăng quy mô một loạt
 
 <br>
 
-![Xenify Vietnamese](https://github.com/xenify-io/litepaper/assets/66044824/d79e4b5c-463d-4a98-a9b4-4886299c8d45)
-
-<br>
-
 Xenify đã có một bước tiến vượt bậc bằng cách tích hợp các nhóm Uniswap V3. Quyết định chiến lược này không chỉ thể hiện cam kết của chúng tôi trong việc tận dụng những cải tiến mới nhất trong DeFi mà còn nâng cao các tùy chọn thanh khoản có sẵn cho người dùng, đồng thời củng cố vị thế trên thị trường của chúng tôi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Chu kỳ Tài sản Thanh khoản Ban đầu
+## 🌊 Chu kỳ thanh khoản ban đầu
 
-Để trao quyền cho một hệ sinh thái mạnh mẽ cho phép cộng đồng của chúng tôi giao dịch XNF ngay từ đầu, 100.000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap khi ra mắt. Sau khi chu kỳ ban đầu kết thúc, giao thức của chúng tôi sẽ tạo cặp giao dịch XNF-ETH bằng cách sử dụng phân bổ XNF này. Để tạo điều kiện thuận lợi cho quá trình này, giao thức sẽ sử dụng phần lớn phí được tạo ra từ việc tham gia ngày đầu tiên (bao gồm phí hoán đổi, phí gốc và phí đốt) để thiết lập nhóm thanh khoản XNF-ETH V3 vào cuối chu kỳ.
+Để khởi động một hệ sinh thái thịnh vượng cho phép cộng đồng của chúng tôi giao dịch XNF ngay khi ra mắt, 100.000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap. Sau khi hoàn thành giai đoạn đầu này, giao thức của chúng tôi sẽ thiết lập cặp giao dịch XNF-WETH bằng cách sử dụng XNF được phân bổ này. Giao thức sẽ sử dụng phần lớn phí thu được từ các hoạt động của ngày đầu tiên, bao gồm phí hoán đổi, phí gốc và phí đốt, để hình thành nhóm thanh khoản XNF-WETH V3 vào cuối chu kỳ.
 
-Giá ban đầu cho cặp XNF-ETH được đặt ở mức 1,00 USD, đảm bảo phân phối đồng đều cả ETH và XNF trên toàn bộ phạm vi. Tuy nhiên, nếu ETH thu được từ phí trong chu kỳ ban đầu tăng đáng kể, giá ban đầu sẽ tăng trên 1 USD và mọi XNF bổ sung sẽ tự động bị đốt cháy. Mặt khác, nếu ETH thu được trong chu kỳ ban đầu không đạt đến giá trị tối thiểu được đưa ra khi triển khai là 10 nghìn đô la, thì giá ban đầu sẽ được điều chỉnh để phù hợp với việc ghép nối nó với 10 nghìn XNF, với 90 nghìn XNF dư thừa sẽ bị tiêu hủy.
+Giá ban đầu cho cặp XNF-WETH được đặt ở mức 1,00 USD, đảm bảo phân phối đồng đều cả ETH và XNF trên toàn bộ phạm vi. Tuy nhiên, nếu ETH thu được từ phí trong chu kỳ ban đầu tăng đáng kể thì giá ban đầu sẽ tăng trên 1 USD. Mặt khác, nếu ETH có được trong chu kỳ ban đầu không đạt đến giá trị tối thiểu là 100 nghìn USD khi triển khai, thì giá ban đầu sẽ được điều chỉnh để phù hợp với việc ghép nối nó với 100 nghìn XNF, có khả năng đặt giá khởi điểm dưới 1,00 USD.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Các Chu kỳ Tài sản Thanh khoản Tiếp theo
+## 🌊 Chu kỳ thanh khoản tiếp theo
 
-Giao thức của chúng tôi được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức XNF sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản XNF. Trong khuôn khổ này, 50% ETH được sử dụng để mua XNF trên thị trường và XNF thu được sẽ được ghép nối với phần còn lại của ETH và được thêm dưới dạng thanh khoản XNF-ETH ở phạm vi đầy đủ. Điều quan trọng cần lưu ý là, bất kể chu kỳ, phí giao dịch nhất quán 1% sẽ được áp dụng cho tất cả các giao dịch trong nhóm thanh khoản thuộc sở hữu giao thức này.
+Giao thức của chúng tôi được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức XNF sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản XNF. Trong khuôn khổ này, 50% ETH được sử dụng để mua XNF trên thị trường và XNF thu được sẽ được ghép nối với phần còn lại của ETH và được thêm dưới dạng thanh khoản XNF-WETH ở phạm vi đầy đủ. Điều quan trọng cần lưu ý là, bất kể chu kỳ, phí giao dịch nhất quán 1% sẽ được áp dụng cho tất cả các giao dịch trong nhóm thanh khoản thuộc sở hữu giao thức này.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 Lỗ đen thanh khoản XNF
+
+Chủ sở hữu XNF có thể tự do bán XNF của họ thông qua nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi hoặc bất kỳ nhóm nào do cộng đồng thành lập. Tuy nhiên, việc mua XNF từ nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi bị hạn chế - khiến các cuộc đấu giá hàng ngày của chúng tôi trở thành con đường chính để có được số lượng XNF đáng kể. Điều này có nghĩa là mỗi khi người dùng hoặc bot chênh lệch giá bán XNF thông qua nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi, mã thông báo sẽ bị xóa vĩnh viễn khỏi lưu thông, tạo ra hiệu ứng “lỗ đen” làm tăng sự khan hiếm XNF.
+
+Cơ chế được thiết kế cẩn thận này cũng nhằm mục đích bảo vệ việc triển khai thanh khoản ban đầu khỏi sự khai thác tiềm tàng của các nhà đầu cơ và những kẻ săn lùng thanh khoản, củng cố tính toàn vẹn của hệ sinh thái của chúng tôi ngay từ đầu. Điều đáng nói là mặc dù người dùng vẫn có khả năng đóng góp thanh khoản cho nhóm thuộc sở hữu giao thức nhưng tùy chọn thêm thanh khoản ở phạm vi đầy đủ sẽ không khả dụng.
+
+Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi sẽ biến thành một bể chứa XNF giảm phát. Token được người dùng bán sẽ biến mất khỏi lưu thông, trong khi nguồn cung mới chỉ có thể tham gia thông qua việc tham gia tích cực vào các cuộc đấu giá. Giao thức của chúng tôi được thiết kế để thúc đẩy lợi ích của những người dùng đã cam kết - không phải của những nhà đầu cơ ngắn hạn. Cách tiếp cận sáng tạo này, kết hợp với cơ chế mua lại và đốt hàng ngày trong giao thức của chúng tôi, hướng tới việc tạo ra áp lực giảm phát bền vững đối với nguồn cung XNF, đồng thời thúc đẩy một hệ sinh thái bền vững được xây dựng dựa trên sự tham gia lâu dài.
 
 <br>
 
@@ -1568,6 +1572,11 @@ Tóm lại, Xenify đại diện cho một sự thay đổi mô hình trong th�
 <br>
 
 Chúng tôi hiểu rằng bạn có thể có thắc mắc về Xenify , các tính năng và tiềm năng của nó. Để giúp bạn điều hướng nền tảng của chúng tôi, chúng tôi đã biên soạn danh sách các câu hỏi thường gặp nhằm cung cấp sự rõ ràng và hiểu biết sâu sắc về Xenify và hệ sinh thái của nó.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Hợp đồng có nguồn mở không?
+- Hợp đồng của chúng tôi có thể truy cập công khai để xem và được cấp phép theo Giấy phép BUSL-1.1. Tuy nhiên, điều quan trọng cần lưu ý là mọi hình thức phân phối lại, sửa đổi hoặc tái sử dụng hợp đồng của chúng tôi, dù là toàn bộ hay một phần, đều bị nghiêm cấm trừ khi có được sự chấp thuận rõ ràng bằng văn bản từ tất cả những người đồng sáng lập. Yêu cầu phê duyệt phải được chuyển đến địa chỉ email chính thức của những người đồng sáng lập, đảm bảo rằng phản hồi được nhận trực tiếp từ các địa chỉ này. Những biện pháp này được thực hiện với mục tiêu hàng đầu là bảo vệ lợi ích của những người nắm giữ chúng tôi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
