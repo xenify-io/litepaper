@@ -22,6 +22,7 @@ Dayana Plaz - Cofundador - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 # ◽️ Contenido
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Quema-Mentales](https://github.com/xenify-io/litepaper/edit/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-quema-mentales)
 - [Introducción](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-introducci%C3%B3n)
 - [Nuestra Misión](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-nuestra-misi%C3%B3n)
 - [Nuestros Principios](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-nuestros-principios)
@@ -47,6 +48,231 @@ Dayana Plaz - Cofundador - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 - [Agradecimientos](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-agradecimientos)
 - [Direcciones de Contratos](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-direcciones-de-contratos)
 - [Enlaces útiles](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-enlaces-%C3%BAtiles)
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ QUEMA-MENTALES
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Para aquellos con poco tiempo, esta sección proporciona una descripción general de los "Burn-A-Mentals" principales que impulsan la visión de Xenify y la diferencian de otras plataformas. Aprenderá cómo Xenify genera un aprovisionamiento de liquidez incomparable para los titulares de XNF, recompensa a los usuarios por intercambiar y quemar tokens e incorpora un mecanismo diario de recompra y quema para reforzar el valor y al mismo tiempo reducir el suministro circulante de XNF.
+
+También descubrirá el modelo de distribución de tokens justo y transparente de Xenify, sin asignación al equipo, fundadores o inversores. Además, la estructura de incentivos única basada en la teoría de juegos de Xenify que cultiva un ciclo de retroalimentación positiva de compromiso y participación continuos.
+
+En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercambio ultraeficiente combinada con un importante potencial de ganancias. Verdaderamente pionero tanto en diseño como en funcionalidad, Xenify ha sido diseñado específicamente para fomentar la expansión sostenible y la creación de valor para toda la comunidad. Continúe leyendo para descubrir cómo Xenify está transformando el futuro de DeFi con su enfoque único.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Subastas diarias
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- En las subastas de quema diarias organizadas en Arbitrum, los usuarios tienen la opción de quemar entre 1 y 10 000 lotes. Un único lote de grabación de YSL representa 0,1 YSL, mientras que un lote de grabación de vXEN corresponde a 10 000 000 de vXEN. Se aplica una tarifa nativa de 0,01 ETH por lote tanto en las subastas de quema como en las de ETH.
+
+- Todos los días, el 50% del suministro de XNF se distribuye a los participantes en las subastas diarias. La distribución se distribuye equitativamente entre YSL Burn Auction y vXEN Burn Auction. Por ejemplo, si solo se quema 1 lote de YSL y se queman 10 000 lotes de vXEN en un ciclo determinado, el usuario que quemó el único lote de YSL recibiría el 25 % completo del suministro diario de XNF, mientras que los quemadores de vXEN compartirían el otro 25% en función de sus respectivos lotes de quema.
+
+- Además, los participantes en la subasta de ETH reciben el 25% del suministro de XNF como recompensas veXNF, que vienen con un bloqueo reclamable de 1 año. Una vez reclamadas, estas recompensas mejoran el poder adquisitivo del participante, permitiéndole ganar más ETH. De manera similar, aquellos que participen en la subasta Swap recibirán el 25% restante de la distribución diaria de XNF como recompensas veXNF, también con un bloqueo reclamable de 1 año. Al reclamar, su poder adquisitivo también aumentará.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 Descuento por lote
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Los usuarios que participen en la primera hora podrán beneficiarse tanto del Coeficiente de Tiempo (TC) como del Coeficiente de Lote (BC) para conseguir importantes descuentos. En concreto, los lotes obtenidos en la primera hora se beneficiarán del descuento del 50% del TC. Además, al obtener 10.000 lotes dentro de esta ventana, los usuarios pueden lograr hasta un 75% de descuento al considerar el BC. A medida que avanza el ciclo, los descuentos tanto del coeficiente de tiempo (TC) como del coeficiente de lote (BC) disminuyen.
+
+- En la última hora, los descuentos se acercan a cero. Participar temprano, especialmente en la primera hora, es vital para los usuarios que buscan maximizar sus descuentos por lotes. Las horas de inicio ofrecen las reducciones más significativas, lo que garantiza que los participantes reciban el mejor valor posible por su participación.
+
+- Por otro lado, esperar hasta la última hora para decidir sobre la participación del ciclo actual puede resultar más caro. Como los descuentos habrán disminuido considerablemente para entonces, los usuarios terminarán aportando más ETH en comparación con la hora inicial, lo que subraya la prudencia de una participación temprana.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 Recompensas ETH
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- El 40% del ETH recaudado en las subastas diarias se asignará a los titulares de veXNF, en proporción a su poder de veXNF.
+
+- Los usuarios que opten por reclamar sus recompensas ETH incurrirán en una tarifa de reclamación del 25 %. Esta tarifa luego se redistribuirá a los participantes que participaron en el reciclaje dentro de la primera hora de un ciclo, de acuerdo con su poder veXNF.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ Reciclaje de ETH
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Aquellos que reciclan ETH dentro de la primera hora de un ciclo pueden ganar una parte de las tarifas de reclamo de ETH de ese ciclo, en proporción a su poder veXNF. Cuanto mayor sea su poder veXNF, mayor será su participación en los rendimientos de ETH generados por la tarifa de reclamo.
+
+- El beneficio más notable del reciclaje es la inclusión automática en las subastas de quema, lo que elimina la necesidad de quemar tokens alternativos. Incluso si los usuarios pierden la ventana de la primera hora, aún tendrán la oportunidad de participar en las subastas de quema, sin necesidad de quemar vXEN o YSL, siempre que decidan reciclar durante las 23 horas restantes del ciclo.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Liquidez XNF
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- El 40% del ETH recaudado en las subastas diarias se destinará al aprovisionamiento de liquidez propiedad del protocolo XNF-WETH.
+
+- El 90% del ETH reciclado a lo largo de cada ciclo diario se asignará al aprovisionamiento de liquidez propiedad del protocolo XNF-WETH.
+
+- El protocolo está configurado para utilizar Uniswap V3 para sus funciones de aprovisionamiento de liquidez. Además, toda la liquidez del lado XNF proviene de recompras y permanece bloqueada dentro del protocolo, lo que garantiza un emparejamiento de rango completo. Para iniciar el par comercial XNF-WETH, el protocolo asignará 100.000 XNF, estableciendo un precio inicial de 1,00 dólares. Este precio está sujeto a ajuste por parte del protocolo dependiendo de la cantidad de ETH recolectada en el ciclo inicial.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 Quema de liquidez XNF
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- El protocolo adquiere XNF para el aprovisionamiento de liquidez XNF-WETH cada vez que un usuario participa en las subastas diarias o recicla su ETH. A medida que aumenta el precio, solo una parte del XNF adquirido se emparejará con el WETH restante en un emparejamiento de rango completo en Uniswap V3.
+
+- El XNF no emparejado se quema automáticamente, lo que lleva a una eliminación constante del XNF del suministro circulante cuando los usuarios participan en las subastas diarias o reciclan sus recompensas ETH. Esta quema automatizada creará inherentemente aún más escasez de XNF con el tiempo.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 Recompra y quema de XNF
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- El 10% del ETH recaudado en las subastas diarias se utilizará para comprar XNF y se quemará el 100% del XNF adquirido.
+
+- El 20% del ETH recaudado en las subastas diarias se utilizará automáticamente para adquirir XNF, que luego se agregará al fondo de liquidez XNF-WETH de rango completo del protocolo en Uniswap V3.
+
+- El 45% del ETH reciclado se utilizará automáticamente para adquirir XNF, que luego se agregará al fondo de liquidez XNF-WETH de rango completo del protocolo en Uniswap V3.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 Lanzamiento aéreo de XNF Génesis
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify está lanzando un lanzamiento aéreo de Génesis de 60 días en cada cadena en la que se implementa. Durante este período, se repartirán 1.500.000 XNF entre los participantes. La distribución es simple: cada día se asignarán 25.000 tokens XNF, y las acciones individuales se determinarán en función de las contribuciones diarias de cada participante a través de tarifas de intercambio.
+
+- Vale la pena señalar que este lanzamiento aéreo incluye todas las cadenas compatibles con EVM. Siempre que una transacción se origine o se ejecute dentro de una cadena EVM e incluya una tarifa de intercambio adjunta, es elegible para el lanzamiento aéreo.
+
+- Una vez finalizado el lanzamiento aéreo, los tokens XNF asignados no serán accesibles de inmediato. En cambio, se distribuirán inicialmente como tokens bloqueados. Sin embargo, estos no permanecerán bloqueados indefinidamente. A lo largo de 730 días, se desbloquearán progresivamente. Para poner esto en perspectiva: si ha reclamado 7300 tokens XNF bloqueados, espere que alrededor de 10 tokens XNF estén disponibles en su billetera diariamente.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 Poder adquisitivo veXNF
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- El mecanismo veXNF está diseñado para bloquear una parte sustancial del suministro de XNF, desempeñando así un papel fundamental en la mejora de la escasez dentro del protocolo. Los participantes tienen la opción de bloquear su XNF por un período que oscila entre un mínimo de 1 semana y un máximo de 1 año. Cuanto mayor sea la duración del bloqueo, mayor será el poder adquisitivo. Además, una mayor duración del bloqueo también da como resultado una disminución más lenta de este poder.
+
+- Ejemplo 1: los titulares de veXNF que inicialmente bloquean su XNF por un período de 1 año enfrentan desafíos si optan por no extender la duración de su bloqueo. Su poder adquisitivo disminuye rápidamente. En sólo 30 días, esta potencia se reduce a la mitad y, al cabo de 60 días, ha desaparecido por completo. Esto los deja sin ningún poder adquisitivo durante los siguientes 10 meses hasta que puedan desbloquear su XNF.
+
+- Ejemplo 2: Aquellos que deciden bloquear su XNF por un período más corto de 6 meses y luego deciden no extenderlo enfrentan consecuencias similares. Su poder adquisitivo disminuye rápidamente. En sólo 15 días, esta potencia se reduce a la mitad y, al cabo de 30 días, ha desaparecido por completo. Esto los deja sin ningún poder adquisitivo durante los siguientes 5 meses hasta que puedan desbloquear su XNF.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 Oferta máxima de XNF
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF tiene un suministro máximo de 22,6 millones, las distribuciones de estos tokens se realizan a través de cuatro subastas diarias. Cada día, se asignan 5.250.000 XNF, que representan el 25% de los tokens XNF, a los participantes que participan en la YSL Burn Auction. También se desembolsará una cantidad idéntica de 5.250.000 XNF a quienes participan en la subasta de quemado vXEN. Además, un 50% adicional del suministro diario de XNF se reserva para recompensas veXNF. Sin embargo, es fundamental tener en cuenta que estas recompensas están sujetas a un período de bloqueo de un año, después del cual se distribuyen a las personas que participan en la subasta ETH (25%) y la subasta Swap (25%). En total, esto da como resultado una distribución diaria de 10.500.000 XNF en estas subastas.
+
+- Xenify emplea un programa agresivo de reducción a la mitad para su distribución de tokens. La primera reducción se produce a los 3 meses, seguida de otra a los 6 meses y reducciones posteriores a la mitad a los 12, 24 y 48 meses. Después de estas cinco reducciones iniciales, hay tres reducciones adicionales, cada una de las cuales ocurre cada 48 meses. Esta mecánica de reducción a la mitad está diseñada para reducir gradualmente la distribución diaria de tokens XNF.
+
+- Una vez finalizados todos los halvings, se desembolsará una cantidad fija de 156,25 XNF cada día. Esto continuará durante los próximos 2224 meses, asegurando que la distribución de tokens sea prolongada y estable, alcanzando finalmente el límite máximo de suministro. Este enfoque garantiza una distribución sostenible y predecible de tokens XNF, lo que permite a los usuarios planificar y participar con confianza.
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Unificando Quemaduras
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN permite a los participantes de diferentes cadenas EVM dentro del ecosistema XEN participar en subastas diarias. vXEN se genera quemando tokens nativos XEN de cualquiera de las 10 cadenas admitidas en el ecosistema XEN. Siempre que un titular graba XEN nativo de una de estas cadenas, la transacción se registra en el registro de grabación. La siguiente es una lista detallada de las cadenas EVM admitidas, cada una con su correspondiente identificador y proporción para un único vXEN.
+
+<br>
+
+| Núm | Proporción | Identificadores | Cadenas      |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 |
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Aspectos destacados clave
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC verificado
+- Doble auditoría
+- Código inmutable
+- Recompensas diarias de ETH
+- Quema XEN de cadena cruzada
+- Liquidez XNF automatizada
+- Recompra y quema automatizadas de XNF
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 Primeros principios
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Lanzamiento de la feria
+- Sin claves de administrador
+- Código inmutable
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 Equipo y seguridad
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Auditado por Peckshield
+- Auditado por Solidproof
+- KYC verificado por Solidproof
+
+<br>
+
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Funciones puente
+![[Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Capa cero OFT
+- Red Axelar
+- Puente del agujero de gusano
 
 <br>
 
@@ -1605,7 +1831,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 <br>
 
-- [Sitio web de Xenify](https://xenify.io)
+- [Sitio Xenify](https://xenify.io)
 - [Xenify Twitter](https://twitter.com/xenify_io)
 - [Xenify Youtube](https://www.youtube.com/@xenify-io)
 - [Xenify Medium](https://medium.com/xenify)
