@@ -22,6 +22,7 @@
 # ◽️ 콘텐츠
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [불타는 정신](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EB%B6%88%ED%83%80%EB%8A%94-%EC%A0%95%EC%8B%A0)
 - [소개](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%86%8C%EA%B0%9C)
 - [우리의 사명](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%82%AC%EB%AA%85)
 - [우리의 원칙](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9B%90%EC%B9%99)
@@ -47,6 +48,231 @@
 - [감사](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EA%B0%90%EC%82%AC)
 - [계약 주소](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EA%B3%84%EC%95%BD-%EC%A3%BC%EC%86%8C)
 - [유용한 링크](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ 불타는 정신
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+시간이 부족한 분들을 위해 이 섹션에서는 Xenify의 비전을 주도하고 다른 플랫폼과 차별화하는 핵심 "Burn-A-Mentals"에 대한 개요를 제공합니다. Xenify가 XNF 보유자를 위해 탁월한 유동성 프로비저닝을 생성하고, 토큰 교환 및 소각에 대해 사용자에게 보상하고, 일일 환매 및 소각 메커니즘을 통합하여 XNF의 순환 공급을 줄이면서 가치를 강화하는 방법을 배우게 됩니다.
+
+또한 팀, 창립자 또는 투자자에게 할당되지 않는 Xenify의 공정하고 투명한 토큰 배포 모델을 발견하게 될 것입니다. 또한 지속적인 참여와 긍정적인 피드백 루프를 육성하는 Xenify의 독특한 게임 이론 기반 인센티브 구조도 있습니다.
+
+핵심적으로 Xenify는 상당한 수익 잠재력과 결합된 매우 효율적인 스왑 경험이라는 두 가지 장점을 모두 제공합니다. 디자인과 기능 모두에서 진정한 선구자인 Xenify는 전체 커뮤니티를 위한 지속 가능한 확장과 가치 창출을 촉진하기 위해 특별히 제작되었습니다. Xenify가 독특한 접근 방식으로 DeFi의 미래를 어떻게 변화시키고 있는지 알아보십시오.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 일일 경매
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Arbitrum에서 호스팅되는 일일 소각 경매에서 사용자는 1~10,000개의 배치를 소각할 수 있습니다. 단일 YSL 굽기 배치는 0.1 YSL을 나타내고, vXEN 굽기 배치는 10,000,000 vXEN에 해당합니다. 소각 및 ETH 경매 모두에서 배치당 0.01 ETH의 기본 수수료가 적용됩니다.
+
+- 매일 XNF 공급량의 50%가 일일 소각 경매 참가자에게 분배됩니다. 분배는 YSL Burn Auction과 vXEN Burn Auction 간에 균등하게 할당됩니다. 예를 들어, 특정 주기에 YSL 배치 1개만 연소되고 vXEN 배치 10,000개가 연소되는 경우 단일 YSL 배치를 연소한 사용자는 일일 XNF 공급량의 25% 전체를 받는 반면, vXEN 버너는 해당 공급량을 공유하게 됩니다. 기타 25%는 각각의 연소 배치를 기준으로 합니다.
+
+- 또한 ETH 경매 참가자는 XNF 공급량의 25%를 veXNF 보상으로 받게 되며, 1년 동안 청구 가능한 잠금이 제공됩니다. 일단 청구되면 이러한 보상은 참가자의 수익력을 향상시켜 더 많은 ETH를 얻을 수 있게 합니다. 마찬가지로, 스왑 경매에 참여하는 사람들은 일일 XNF 분배의 나머지 25%를 veXNF 보상으로 받게 되며 1년 동안 청구 가능한 잠금도 함께 받게 됩니다. 청구하면 수입력도 높아집니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 일괄 할인
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 처음 1시간에 참여하는 사용자는 시간 계수(TC)와 배치 계수(BC)를 모두 활용하여 상당한 할인을 받을 수 있습니다. 특히 첫 번째 시간에 획득한 모든 배치는 TC의 50% 할인 혜택을 받게 됩니다. 또한 이 기간 내에 10,000개의 배치를 확보함으로써 사용자는 BC를 고려할 때 최대 75% 할인을 얻을 수 있습니다. 주기가 진행됨에 따라 시간 계수(TC)와 배치 계수(BC) 모두의 할인이 감소합니다.
+
+- 마지막 시간에는 할인이 거의 0에 가까워집니다. 일괄 할인을 극대화하려는 사용자에게는 일찍, 특히 첫 시간에 참여하는 것이 중요합니다. 시작 시간은 가장 큰 절감 효과를 제공하여 참가자가 참여에 대해 가능한 최고의 가치를 얻을 수 있도록 보장합니다.
+
+- 반면에 현재 주기의 참여를 결정하기 위해 마지막 시간까지 기다리는 것은 더 많은 비용이 들 수 있습니다. 그때까지 할인이 상당히 줄어들었기 때문에 사용자는 결국 초기 시간에 비해 더 많은 ETH를 기부하게 되므로 조기 참여의 신중함이 강조됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 ETH 보상
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 일일 경매에서 모은 ETH의 40%는 veXNF 파워에 비례하여 veXNF 보유자에게 할당됩니다.
+
+- ETH 보상을 청구하기로 선택한 사용자에게는 25%의 청구 수수료가 부과됩니다. 이 수수료는 veXNF 전력에 맞춰 주기의 첫 시간 이내에 재활용에 참여한 참가자에게 재분배됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ ETH 재활용
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 주기의 첫 시간 내에 ETH를 재활용하는 사람들은 veXNF 파워에 비례하여 해당 주기에서 ETH 청구 수수료의 일부를 얻게 됩니다. veXNF 파워가 클수록 청구 수수료에서 생성된 ETH 수익률의 몫도 커집니다.
+
+- 재활용의 가장 주목할만한 이점은 소각 경매에 자동으로 포함되어 대체 토큰을 소각할 필요가 없다는 것입니다. 사용자가 첫 시간 창을 놓치더라도 주기의 나머지 23시간 동안 재활용하기로 결정한 경우 vXEN 또는 YSL을 소각할 필요 없이 소각 경매에 참여할 수 있는 기회가 계속 제공됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 XNF 유동성
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 일일 경매에서 수집된 ETH의 40%는 XNF-WETH 프로토콜 소유 유동성 공급에 사용됩니다.
+
+- 각 일일 주기 동안 재활용된 ETH의 90%는 XNF-WETH 프로토콜 소유 유동성 프로비저닝에 할당됩니다.
+
+- 프로토콜은 유동성 프로비저닝 기능을 위해 Uniswap V3를 활용하도록 구성되었습니다. 또한 XNF 측의 모든 유동성은 환매를 통해 공급되며 프로토콜 내에 고정되어 있어 전체 범위의 페어링을 보장합니다. XNF-WETH 거래 쌍을 시작하기 위해 프로토콜은 100,000 XNF를 할당하여 초기 가격 $1.00를 설정합니다. 이 가격은 초기 주기에서 수집된 ETH의 양에 따라 프로토콜에 의해 조정될 수 있습니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 XNF 유동성 소각
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 프로토콜은 사용자가 일일 경매에 참여하거나 ETH를 재활용할 때마다 XNF-WETH 유동성 공급을 위해 XNF를 획득합니다. 가격이 상승하면 인수한 XNF의 일부만 Uniswap V3의 전체 범위 페어링에서 나머지 WETH와 페어링됩니다.
+
+- 페어링되지 않은 XNF는 자동으로 소각되어 사용자가 일일 경매에 참여하거나 ETH 보상을 재활용할 때 순환 공급량에서 XNF가 지속적으로 제거됩니다. 이 자동 굽기는 본질적으로 시간이 지남에 따라 XNF의 희소성을 더욱 증가시킵니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 XNF 환매 및 소각
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 일일 경매에서 수집된 ETH의 10%는 XNF를 구매하는 데 사용되며, 획득한 XNF는 100% 소각됩니다.
+
+- 일일 경매에서 수집된 ETH의 20%는 자동으로 XNF를 획득하는 데 사용되며, 이는 Uniswap V3에 있는 프로토콜의 전체 범위 XNF-WETH 유동성 풀에 추가됩니다.
+
+- 재활용된 ETH의 45%는 XNF를 획득하는 데 자동으로 사용되며, 이는 Uniswap V3에 있는 프로토콜의 전체 범위 XNF-WETH 유동성 풀에 추가됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF 제네시스 에어드롭
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify는 배포되는 각 체인에 대해 60일 간의 Genesis 에어드롭을 시작합니다. 이 기간 동안 1,500,000 XNF가 참가자들에게 공유됩니다. 배포는 간단합니다. 매일 25,000개의 XNF 토큰이 할당되며, 스왑 수수료를 통해 각 참가자의 일일 기여에 따라 개별 지분이 결정됩니다.
+
+- 이 에어드랍에는 모든 EVM 호환 체인이 포함되어 있다는 점은 주목할 가치가 있습니다. 거래가 EVM 체인에서 시작되거나 EVM 체인 내에서 실행되고 스왑 수수료가 포함되어 있는 한 에어드롭을 받을 수 있습니다.
+
+- 에어드랍이 끝나면 할당된 XNF 토큰에 즉시 접근할 수 없습니다. 대신 처음에는 잠긴 토큰으로 배포됩니다. 그러나 이러한 항목은 무기한으로 잠겨 있는 상태로 유지되지 않습니다. 730일 동안 점진적으로 잠금이 해제됩니다. 이를 관점에서 보면, 7,300개의 잠긴 XNF 토큰을 청구했다면 매일 지갑에서 약 10개의 XNF 토큰을 사용할 수 있을 것으로 예상됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 veXNF 수익력
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- veXNF 메커니즘은 XNF 공급의 상당 부분을 고정하도록 설계되어 프로토콜 내 희소성을 높이는 데 중추적인 역할을 합니다. 참가자는 최소 1주에서 최대 1년 동안 XNF를 잠글 수 있는 옵션이 있습니다. 잠금 기간이 길어질수록 수익 창출 능력도 커집니다. 더욱이 잠금 기간이 길어지면 이 권한이 더 느리게 감소합니다.
+
+- 예 1: 처음에 1년 동안 XNF를 잠근 veXNF 보유자는 잠금 기간을 연장하지 않기로 선택하면 문제에 직면하게 됩니다. 그들의 수익력은 급격히 감소합니다. 단 30일 만에 이 힘은 절반으로 줄어들고, 60일이 지나면 완전히 사라집니다. 이로 인해 XNF를 잠금 해제할 수 있을 때까지 다음 10개월 동안 수익을 창출할 수 없게 됩니다.
+
+- 예 2: XNF를 6개월 더 짧은 기간 동안 잠그고 연장을 반대하기로 결정한 사람들도 비슷한 결과에 직면합니다. 그들의 수익력은 급격히 감소합니다. 단 15일 만에 이 힘은 절반으로 줄어들고, 30일이 지나면 완전히 사라집니다. 이로 인해 XNF를 잠금 해제할 수 있을 때까지 다음 5개월 동안 수익을 창출할 수 없게 됩니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 XNF 최대 공급량
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF의 최대 공급량은 2,260만 개이며, 이러한 토큰의 배포는 매일 4번의 경매를 통해 이루어집니다. 매일 XNF 토큰의 25%에 해당하는 5,250,000 XNF가 YSL Burn Auction에 참여하는 참가자에게 할당됩니다. vXEN Burn Auction에 참여하는 사람들에게도 동일한 수량의 5,250,000 XNF가 지급됩니다. 또한 일일 XNF 공급량의 추가 50%가 veXNF 보상을 위해 별도로 설정됩니다. 그러나 이러한 보상에는 1년의 잠금 기간이 적용되며, 그 이후에는 ETH 경매(25%) 및 스왑 경매(25%)에 참여하는 개인에게 배포된다는 점에 유의하는 것이 중요합니다. 전체적으로 이 경매를 통해 매일 10,500,000 XNF가 배포됩니다.
+
+- Xenify는 토큰 배포를 위해 공격적인 반감기 일정을 채택합니다. 첫 번째 감소는 3개월에 이루어지며, 그 다음 6개월에 두 번째 감소가 이루어지며, 이후 12, 24, 48개월에 반감기가 발생합니다. 처음 5번의 반감기 후에는 3번의 추가 감소가 있으며, 각각 48개월마다 발생합니다. 이 반감기 메커니즘은 XNF 토큰의 일일 배포를 점차적으로 줄이도록 설계되었습니다.
+
+- 모든 반감기가 완료된 후 매일 156.25 XNF의 꾸준한 금액이 지급됩니다. 이는 향후 2224개월 동안 계속되어 토큰 배포가 장기적이고 안정적으로 이루어지며 궁극적으로 최대 공급 한도에 도달하게 됩니다. 이 접근 방식은 XNF 토큰의 지속 가능하고 예측 가능한 배포를 보장하여 사용자가 자신있게 계획하고 참여할 수 있도록 합니다.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - 통합 화상
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN을 사용하면 XEN 생태계 내의 다양한 EVM 체인 참가자가 일일 소각 경매에 참여할 수 있습니다. vXEN은 XEN 생태계에서 지원되는 10개 체인 중 하나에서 XEN 기본 토큰을 소각하여 생성됩니다. 보유자가 이러한 체인 중 하나에서 기본 XEN을 소각할 때마다 거래가 소각 기록에 기록됩니다. 다음은 지원되는 EVM 체인의 세부 목록입니다. 각 체인에는 단일 vXEN에 대한 해당 식별자와 비율이 포함되어 있습니다.
+
+<br>
+
+| 숫자 | 비율  | 식별자      | 체인                   |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ 주요 하이라이트
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC 인증됨
+- 이중 감사
+- 불변 코드
+- 일일 ETH 보상
+- 크로스체인 XEN 버닝
+- 자동화된 XNF 유동성
+- 자동화된 XNF 환매 및 소각
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 첫 번째 원칙
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 공정한 출시
+- 관리자 키 없음
+- 불변 코드
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 팀 및 보안
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Peckshield에서 감사함
+- Solidproof의 감사를 받았습니다.
+- Solidproof에 의해 검증된 KYC
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ 브리징 기능
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- LayerZero OFT
+- 액셀러 네트워크
+- 웜홀 브릿지
 
 <br>
 
@@ -1605,7 +1831,7 @@ Xenify와 그 기능 및 잠재력에 대해 궁금한 점이 있을 수 있다�
 
 <br>
 
-- [Xenify 웹사이트](https://xenify.io)
+- [Xenify 사이트](https://xenify.io)
 - [Xenify 트위터](https://twitter.com/xenify_io)
 - [제니파이 유튜브](https://www.youtube.com/@xenify-io)
 - [제니파이 미디엄](https://medium.com/xenify)
