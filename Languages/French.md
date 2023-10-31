@@ -1831,7 +1831,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 <br>
 
-- [Site Web de Xenify](https://xenify.io)
+- [Site Xenify](https://xenify.io)
 - [Xenify Twitter](https://twitter.com/xenify_io)
 - [Xenify Youtube](https://www.youtube.com/@xenify-io)
 - [Xenify Medium](https://medium.com/xenify)
