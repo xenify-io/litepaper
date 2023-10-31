@@ -221,6 +221,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
 | 10  | 3334  | coXEN       | EVMOS                 | 
+
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -424,15 +425,15 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_ysl)
+- [Twitter](https://twitter.com/simran_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegrama](https://t.me/SD_YSL)
+- [Telegrama](https://t.me/sd_xnf)
 - [Experiência anterior](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegrama](https://t.me/hardev_ysl)
+- [Telegrama](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -531,9 +532,7 @@ Segue-se uma análise concisa das nossas cadeias de implementação e dos identi
 
 Apresentando a YSL - um token hiper-deflacionário que combina escassez quantificável com utilidade no mundo real através dos leilões diários de queima da Xenify. Em vez de depender exclusivamente da atividade de mercado para redução da oferta como os modelos tradicionais, o YSL integra um mecanismo único - os leilões de queima Xenify. Com cada leilão diário, uma parte da YSL é permanentemente removida da circulação, reduzindo inerentemente a oferta total e potencialmente ampliando o valor. Mais importante ainda, a YSL foi projectada para a confiança e apresenta um contrato imutável e não atualizável, concebido para uma transparência total sem o potencial de alterações imprevistas.
 
-O novo token YSL estreia-se no Arbitrum, com o instantâneo para o lançamento aéreo disponível aqui: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023). Mas o YSL não vai parar por aí - a expansão está planejada nas principais cadeias EVM como Ethereum, BNB, Polygon, Avalanche, Optimism e muito mais, cada uma com seu próprio identificador YSL exclusivo (por exemplo, eYSL no Ethereum). Para permitir a interoperabilidade entre diferentes cadeias, o YSL apresenta uma ponte de token que aproveita o LayerZero OTF como o protocolo principal, com Axelar e Wormhole como opções de fallback. Isso não apenas concede aos detentores a liberdade de conectar o YSL para participar de leilões de queima Xenify entre cadeias, mas também a capacidade de adicionar liquidez em qualquer cadeia EVM alinhada e DEX de sua escolha. E aqui está a melhor parte, os detentores de YSL que foram destinatários de airdrop Arbitrum podem reclamar a sua quota de YSL em cada cadeia no prazo de 90 dias após a sua implementação.
-
-Em suma, a tokenomics deflacionária única da YSL funde escassez e utilidade, proporcionando aos detentores um token dinâmico que apresenta um crescimento de valor codificado e baseado na utilização.
+O novo token YSL estreia na Arbitrum, com o instantâneo do lançamento aéreo disponível [aqui](https://bit.ly/YSLAirdrop2023). Mas a YSL não vai parar por aí: a expansão está planejada nas principais cadeias de EVM, como Ethereum, BNB, Polygon, Avalanche, Optimism e muito mais, cada uma com seu próprio identificador YSL exclusivo (por exemplo, eYSL na Ethereum). Para permitir a interoperabilidade entre diferentes cadeias, o YSL apresenta uma ponte de token que utiliza LayerZero OTF como protocolo principal, com Axelar e Wormhole como opções de fallback. Isso não apenas concede aos detentores a liberdade de conectar o YSL para participar dos leilões de queima do Xenify entre cadeias, mas também a capacidade de adicionar liquidez em qualquer cadeia EVM alinhada e DEX de sua escolha. E aqui está a melhor parte: os titulares de YSL que receberam airdrop da Arbitrum podem reivindicar sua parte do YSL em cada rede dentro de 90 dias após sua implantação. Resumindo, a tokenomia deflacionária única da YSL combina escassez e utilidade, fornecendo aos detentores um token dinâmico que apresenta crescimento de valor codificado e baseado no uso.
 
 Segue-se uma análise concisa das nossas cadeias de implantação e dos seus identificadores YSL exclusivos:
 
@@ -821,25 +820,31 @@ A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cad
 
 <br>
 
-![Xenify Portuguese](https://github.com/xenify-io/litepaper/assets/66044824/f574235a-3d51-4513-bfca-011e47f34c69)
-
-<br>
-
 A Xenify deu um passo monumental em frente ao integrar os pools Uniswap V3. Esta decisão estratégica não só demonstra o nosso compromisso em alavancar as últimas inovações em DeFi, mas também aumenta as opções de liquidez disponíveis para os nossos utilizadores, ao mesmo tempo que solidifica a nossa posição no mercado.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Ciclo Inicial de Liquidez
+## 🌊 Ciclo inicial de liquidez
 
-Para capacitar um ecossistema robusto que permite que nossa comunidade negocie XNF desde o início, 100,000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo no lançamento. Após o término do ciclo inicial, nosso protocolo criará o par de negociação XNF-ETH usando essa alocação de XNF. Para facilitar este processo, o protocolo utilizará a maioria das taxas geradas pela participação no primeiro dia (incluindo taxas de swap, taxas nativas e taxas de queima) para estabelecer um pool de liquidez XNF-ETH V3 no final do ciclo.
+Para impulsionar um ecossistema próspero que permite à nossa comunidade negociar XNF imediatamente após o lançamento, 100.000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo. Após a conclusão desta fase inicial, nosso protocolo estabelecerá o par de negociação XNF-WETH usando este XNF alocado. O protocolo utilizará a maior parte das taxas cobradas nas atividades do primeiro dia, abrangendo taxas de swap, taxas nativas e taxas de queima, para formar um pool de liquidez XNF-WETH V3 no final do ciclo.
 
-O preço inicial para o par XNF-ETH é fixado em US$ 1,00, garantindo uma distribuição igual de ETH e XNF em toda a gama. No entanto, se o ETH adquirido a partir de taxas durante o ciclo inicial aumentar significativamente, o preço inicial subirá acima de $1,00 e qualquer XNF extra será automaticamente queimado. Por outro lado, se o ETH adquirido durante o ciclo inicial não atingir o valor mínimo incorporado na implantação de $10k, o preço inicial será ajustado para corresponder ao seu emparelhamento com 10k XNF, com o excedente de 90k XNF sendo queimado.
+O preço inicial do par XNF-WETH é definido em US$ 1,00, garantindo uma distribuição igual de ETH e XNF em toda a faixa. No entanto, se o ETH adquirido através de taxas durante o ciclo inicial aumentar significativamente, o preço inicial subirá acima de US$ 1,00. Por outro lado, se o ETH adquirido durante o ciclo inicial não atingir o valor mínimo de US$ 100 mil na implantação, o preço inicial será ajustado para corresponder ao seu emparelhamento com 100 mil XNF, potencialmente definindo o preço inicial abaixo de US$ 1,00.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Ciclos de Liquidez Subsequentes
+## 🌊 Ciclos subsequentes de liquidez
 
-Nosso protocolo é projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo XNF a cada ciclo subsequente. A partir do segundo ciclo, a ETH obtida diariamente através de taxas de queima, taxas nativas, taxas de troca e actividades de reciclagem será utilizada para apoiar a proliferação de liquidez XNF. Dentro desta estrutura, 50% do ETH é usado para comprar XNF no mercado, e o XNF adquirido é emparelhado com o resto do ETH e adicionado como liquidez XNF-ETH em toda a gama. É importante notar que, independentemente do ciclo, uma taxa de negociação consistente de 1% é aplicada a todas as transações dentro deste pool de liquidez de propriedade do protocolo.
+Nosso protocolo foi projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo XNF a cada ciclo subsequente. A partir do segundo ciclo, o ETH obtido diariamente por meio de taxas de queima, taxas nativas, taxas de swap e atividades de reciclagem será utilizado para apoiar a proliferação de liquidez do XNF. Dentro desta estrutura, 50% do ETH é usado para comprar XNF no mercado, e o XNF adquirido é emparelhado com o restante do ETH e adicionado como liquidez XNF-WETH em faixa completa. É importante observar que, independentemente do ciclo, uma taxa de negociação consistente de 1% é aplicada a todas as transações dentro deste pool de liquidez de propriedade do protocolo.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 Buraco Negro de Liquidez XNF
+
+Os detentores de XNF podem vender livremente seu XNF por meio de nosso pool de liquidez de propriedade do protocolo ou de qualquer pool estabelecido pela comunidade. No entanto, a compra de XNF do nosso pool de liquidez de propriedade do protocolo é restrita – tornando nossos leilões diários o principal meio para adquirir uma quantidade substancial de XNF. Isso significa que toda vez que um usuário ou bot de arbitragem vende XNF por meio de nosso pool de liquidez de propriedade do protocolo, os tokens são permanentemente removidos de circulação, criando um efeito de “buraco negro” que aumenta a escassez de XNF.
+
+Este mecanismo cuidadosamente concebido também serve para salvaguardar a disponibilização inicial de liquidez contra a potencial exploração por especuladores e atiradores de elite de liquidez, solidificando a integridade do nosso ecossistema desde o início. Vale ressaltar que, embora os usuários mantenham a capacidade de contribuir com liquidez para o pool de propriedade do protocolo, a opção de adicionar liquidez completa não estará disponível.
+
+Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do protocolo se transforma em um sumidouro deflacionário de XNF. Os tokens vendidos pelos usuários desaparecem de circulação, enquanto novos fornecimentos só podem entrar por meio da participação ativa nos leilões. Nosso protocolo foi projetado para promover os interesses de usuários comprometidos - e não de especuladores de curto prazo. Esta abordagem inovadora, combinada com o mecanismo diário de recompra e queima do nosso protocolo, visa criar uma pressão deflacionária sustentada sobre o fornecimento de XNF, ao mesmo tempo que promove um ecossistema sustentável baseado no envolvimento a longo prazo.
 
 <br>
 
@@ -1567,6 +1572,11 @@ Em resumo, a Xenify representa uma mudança de paradigma no mundo da troca de to
 <br>
 
 Sabemos que pode ter dúvidas sobre a Xenify, as suas funcionalidades e o seu potencial. Para o ajudar a navegar na nossa plataforma, compilámos uma lista de perguntas frequentes que fornecem clareza e informações sobre a Xenify e o seu ecossistema.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Os contratos são de código aberto?
+- Nossos contratos são acessíveis abertamente para visualização e licenciados sob a licença BUSL-1.1. No entanto, é crucial observar que qualquer forma de redistribuição, modificação ou reaproveitamento de nossos contratos, total ou parcialmente, é estritamente proibida, a menos que seja obtida aprovação explícita por escrito de todos os cofundadores. Os pedidos de aprovação devem ser direcionados para os endereços de e-mail oficiais dos cofundadores, garantindo que as respostas sejam recebidas diretamente desses endereços. Estas medidas são implementadas com o objetivo primordial de proteger os interesses dos nossos titulares.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
