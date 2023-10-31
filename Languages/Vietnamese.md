@@ -22,6 +22,7 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 # ◽️ Nội dung
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Đốt Tâm](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-%C4%91%E1%BB%91t-t%C3%A2m)
 - [Giới thiệu](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8Fgi%E1%BB%9Bi-thi%E1%BB%87u)
 - [Sứ mệnh của chúng tôi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-s%E1%BB%A9-m%E1%BB%87nh-c%E1%BB%A7a-ch%C3%BAng-t%C3%B4i)
 - [Nguyên tắc của chúng tôi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-nguy%C3%AAn-t%E1%BA%AFc-c%E1%BB%A7a-ch%C3%BAng-t%C3%B4i)
@@ -47,6 +48,231 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 - [Lời cảm ơn](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-l%E1%BB%9Di-c%E1%BA%A3m-%C6%A1n)
 - [Địa chỉ hợp đồng](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-%C4%91%E1%BB%8Ba-ch%E1%BB%89-h%E1%BB%A3p-%C4%91%E1%BB%93ng)
 - [Các liên kết hữu ích](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-li%C3%AAn-k%E1%BA%BFt-h%E1%BB%AFu-%C3%ADch)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ ĐỐT TÂM
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Đối với những người có thời gian ngắn, phần này cung cấp thông tin tổng quan về "Burn-A-Mentals" cốt lõi thúc đẩy tầm nhìn của Xenify và khiến nó trở nên khác biệt so với các nền tảng khác. Bạn sẽ tìm hiểu cách Xenify tạo ra khả năng cung cấp thanh khoản chưa từng có cho chủ sở hữu XNF, thưởng cho người dùng khi hoán đổi và đốt mã thông báo, đồng thời kết hợp cơ chế mua lại và đốt hàng ngày để tăng giá trị đồng thời giảm nguồn cung XNF lưu hành.
+
+Bạn cũng sẽ khám phá mô hình phân phối mã thông báo minh bạch và công bằng của Xenify, không phân bổ cho nhóm, người sáng lập hoặc nhà đầu tư. Ngoài ra, cấu trúc khuyến khích dựa trên lý thuyết trò chơi độc đáo của Xenify nhằm nuôi dưỡng vòng phản hồi tích cực về sự tương tác và tham gia liên tục.
+
+Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai thế giới: trải nghiệm hoán đổi cực kỳ hiệu quả kết hợp với tiềm năng kiếm tiền đáng kể. Thực sự tiên phong về cả thiết kế và chức năng, Xenify được xây dựng có mục đích nhằm thúc đẩy sự mở rộng bền vững và tạo ra giá trị cho toàn bộ cộng đồng. Đọc tiếp để khám phá cách Xenify đang thay đổi tương lai của DeFi bằng cách tiếp cận độc đáo.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Đấu giá hàng ngày
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Trong các phiên đấu giá ghi hàng ngày được tổ chức trên Arbitrum, người dùng có tùy chọn ghi ở bất kỳ đâu từ 1 đến 10.000 đợt. Một đợt ghi YSL tương ứng với 0,1 YSL, trong khi một đợt ghi vXEN tương ứng với 10.000.000 vXEN. Phí gốc 0,01 ETH được áp dụng cho mỗi đợt trong cả phiên đấu giá đốt và ETH.
+
+- Mỗi ngày, 50% nguồn cung XNF được phân phối cho những người tham gia đấu giá đốt hàng ngày. Việc phân bổ được phân bổ đồng đều giữa Phiên đấu giá ghi YSL và Phiên đấu giá ghi vXEN. Ví dụ: nếu chỉ đốt 1 lô YSL và 10.000 lô vXEN được đốt trong một chu kỳ nhất định, thì người dùng đốt một lô YSL sẽ nhận được toàn bộ 25% nguồn cung XNF hàng ngày, trong khi các trình ghi vXEN sẽ chia sẻ 25% còn lại dựa trên đợt đốt tương ứng của họ.
+
+- Ngoài ra, những người tham gia đấu giá ETH được thưởng 25% nguồn cung XNF dưới dạng phần thưởng veXNF, đi kèm với khóa có thể yêu cầu trong 1 năm. Sau khi được nhận, những phần thưởng này sẽ nâng cao khả năng kiếm tiền của người tham gia, cho phép họ kiếm được nhiều ETH hơn. Tương tự, những người tham gia đấu giá Hoán đổi sẽ nhận được 25% phân phối XNF hàng ngày còn lại dưới dạng phần thưởng veXNF, cùng với khóa có thể yêu cầu trong 1 năm. Sau khi yêu cầu, khả năng kiếm tiền của họ cũng sẽ tăng lên.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 Giảm giá hàng loạt
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Người dùng tham gia giờ đầu tiên có thể được hưởng lợi từ cả Hệ số thời gian (TC) và Hệ số lô (BC) để đạt được mức giảm giá đáng kể. Cụ thể, bất kỳ lô nào nhận được trong giờ đầu tiên sẽ được hưởng ưu đãi giảm giá 50% của TC. Ngoài ra, bằng cách nhận được 10.000 lô trong thời hạn này, người dùng có thể được giảm giá tới 75% khi xem xét BC. Khi chu kỳ diễn ra, mức giảm giá từ cả Hệ số thời gian (TC) và Hệ số lô (BC) đều giảm đi.
+
+- Đến giờ cuối cùng, mức giảm giá gần bằng không. Việc tham gia sớm, đặc biệt là trong giờ đầu tiên, là điều quan trọng đối với những người dùng muốn tối đa hóa mức chiết khấu theo đợt của mình. Giờ bắt đầu mang lại mức giảm đáng kể nhất, đảm bảo người tham gia nhận được giá trị tốt nhất có thể cho sự tham gia của họ.
+
+- Mặt khác, việc đợi đến giờ cuối cùng để quyết định mức độ tham gia của chu kỳ hiện tại có thể tốn kém hơn. Khi mức giảm giá đã giảm đáng kể vào thời điểm đó, người dùng sẽ đóng góp nhiều ETH hơn so với giờ đầu tiên, nhấn mạnh sự thận trọng của việc tham gia sớm.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰 Phần thưởng ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được phân bổ cho những người nắm giữ veXNF, tỷ lệ thuận với sức mạnh veXNF của họ.
+
+- Người dùng chọn nhận phần thưởng ETH của họ sẽ phải chịu phí yêu cầu 25%. Khoản phí này sau đó sẽ được phân phối lại cho những người tham gia tái chế trong vòng giờ đầu tiên của chu kỳ, phù hợp với sức mạnh veXNF của họ.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ Tái chế ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Những người tái chế ETH trong giờ đầu tiên của chu kỳ sẽ kiếm được một phần phí yêu cầu ETH từ chu kỳ đó, tương ứng với sức mạnh veXNF của họ. Sức mạnh veXNF của bạn càng lớn thì tỷ lệ lợi nhuận ETH được tạo ra từ phí yêu cầu của bạn càng lớn.
+
+- Lợi ích đáng chú ý nhất của việc tái chế là tự động đưa vào các cuộc đấu giá đốt, loại bỏ nhu cầu đốt các mã thông báo thay thế. Ngay cả khi người dùng bỏ lỡ khoảng thời gian giờ đầu tiên, họ vẫn có cơ hội tham gia đấu giá ghi mà không cần ghi vXEN hoặc YSL, miễn là họ quyết định tái chế trong 23 giờ còn lại của chu kỳ.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Thanh khoản XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được hướng tới việc cung cấp thanh khoản thuộc sở hữu của giao thức XNF-WETH.
+
+- 90% ETH được tái chế trong mỗi chu kỳ hàng ngày sẽ được phân bổ để cung cấp thanh khoản thuộc sở hữu của giao thức XNF-WETH.
+
+- Giao thức được cấu hình để sử dụng Uniswap V3 cho các chức năng cung cấp thanh khoản. Ngoài ra, tất cả tính thanh khoản từ phía XNF đều có nguồn gốc từ hoạt động mua lại và vẫn bị khóa trong giao thức, đảm bảo sự ghép nối toàn diện. Để bắt đầu cặp giao dịch XNF-WETH, giao thức sẽ phân bổ 100.000 XNF, thiết lập mức giá ban đầu là 1,00 USD. Giá này có thể được điều chỉnh bởi giao thức tùy thuộc vào số lượng ETH thu được trong chu kỳ ban đầu.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 Đốt cháy thanh khoản XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Giao thức thu được XNF để cung cấp thanh khoản XNF-WETH bất cứ khi nào người dùng tham gia đấu giá hàng ngày hoặc tái chế ETH của họ. Khi giá tăng, chỉ một phần XNF thu được sẽ được ghép nối với WETH còn lại trong một ghép nối toàn dải trên Uniswap V3.
+
+- XNF chưa ghép nối sẽ tự động bị đốt cháy, dẫn đến việc loại bỏ XNF một cách nhất quán khỏi nguồn cung lưu thông khi người dùng tham gia vào các cuộc đấu giá hàng ngày hoặc tái chế phần thưởng ETH của họ. Việc ghi tự động này vốn sẽ tạo ra sự khan hiếm hơn nữa cho XNF theo thời gian.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 Mua lại và đốt XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 10% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được sử dụng để mua XNF, trong đó 100% XNF thu được sẽ bị đốt cháy.
+
+- 20% ETH thu được từ các cuộc đấu giá hàng ngày sẽ tự động được sử dụng để mua XNF, sau đó sẽ được thêm vào nhóm thanh khoản XNF-WETH toàn phạm vi của giao thức trên Uniswap V3.
+
+- 45% ETH được tái chế sẽ tự động được sử dụng để thu được XNF, sau đó sẽ được thêm vào nhóm thanh khoản XNF-WETH toàn phạm vi của giao thức trên Uniswap V3.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Genesis Airdrop
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify đang tung ra đợt airdrop Genesis kéo dài 60 ngày trên mỗi chuỗi mà nó triển khai. Trong thời gian này, 1.500.000 XNF sẽ được chia cho những người tham gia. Việc phân phối rất đơn giản: mỗi ngày, 25.000 mã thông báo XNF sẽ được phân bổ, với số cổ phiếu riêng lẻ được xác định bởi khoản đóng góp hàng ngày của mỗi người tham gia thông qua phí hoán đổi.
+
+- Điều đáng chú ý là đợt airdrop này bao gồm tất cả các chuỗi tương thích với EVM. Miễn là giao dịch bắt nguồn từ hoặc được thực hiện trong chuỗi EVM và bao gồm phí hoán đổi kèm theo thì giao dịch đó đủ điều kiện tham gia airdrop.
+
+- Sau khi airdrop kết thúc, mã thông báo XNF được phân bổ sẽ không thể truy cập được ngay lập tức. Thay vào đó, ban đầu chúng sẽ được phân phối dưới dạng mã thông báo bị khóa. Tuy nhiên, những thứ này sẽ không bị khóa vô thời hạn. Trong khoảng thời gian 730 ngày, chúng sẽ dần dần mở khóa. Nói một cách dễ hiểu: nếu bạn đã xác nhận 7.300 mã thông báo XNF bị khóa, dự kiến sẽ có khoảng 10 mã thông báo XNF có sẵn trong ví của bạn hàng ngày.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 Khả năng kiếm tiền của veXNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Cơ chế veXNF được thiết kế để khóa một phần đáng kể nguồn cung XNF, do đó đóng vai trò then chốt trong việc tăng cường sự khan hiếm trong giao thức. Người tham gia có tùy chọn khóa XNF của họ trong khoảng thời gian từ tối thiểu 1 tuần đến tối đa 1 năm. Thời gian khóa càng dài thì khả năng kiếm tiền càng lớn. Hơn nữa, thời gian khóa dài hơn cũng dẫn đến sự suy giảm sức mạnh này chậm hơn.
+
+- Ví dụ 1: Những người nắm giữ veXNF ban đầu khóa XNF của họ trong thời gian 1 năm sẽ phải đối mặt với những thách thức nếu họ chọn không gia hạn thời hạn khóa. Khả năng kiếm tiền của họ giảm đi nhanh chóng. Chỉ trong 30 ngày, sức mạnh này giảm đi một nửa và đến hết 60 ngày, nó biến mất hoàn toàn. Điều này khiến họ không có khả năng kiếm tiền trong 10 tháng tiếp theo cho đến khi họ có thể mở khóa XNF của mình.
+
+- Ví dụ 2: Những người chọn khóa XNF trong thời gian ngắn hơn 6 tháng và sau đó quyết định không gia hạn sẽ phải đối mặt với hậu quả tương tự. Khả năng kiếm tiền của họ giảm đi nhanh chóng. Chỉ trong 15 ngày, sức mạnh này giảm đi một nửa và đến hết 30 ngày, nó biến mất hoàn toàn. Điều này khiến họ không có bất kỳ khả năng kiếm tiền nào trong 5 tháng tiếp theo cho đến khi họ có thể mở khóa XNF của mình.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 Nguồn cung tối đa XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF có nguồn cung tối đa là 22,6 triệu, việc phân phối các mã thông báo này diễn ra thông qua bốn phiên đấu giá hàng ngày. Mỗi ngày, 5.250.000 XNF, tương đương 25% số token XNF, được phân bổ cho những người tham gia Phiên đấu giá đốt YSL. Số lượng tương tự 5.250.000 XNF cũng được giải ngân cho những người tham gia Phiên đấu giá vXEN Burn. Hơn nữa, 50% nguồn cung XNF hàng ngày bổ sung được dành cho phần thưởng veXNF. Tuy nhiên, điều quan trọng cần lưu ý là những phần thưởng này phải tuân theo thời hạn khóa một năm, sau đó chúng được phân phối cho các cá nhân tham gia Đấu giá ETH (25%) và Đấu giá hoán đổi (25%). Tổng cộng, điều này dẫn đến mức phân phối hàng ngày là 10.500.000 XNF trên các phiên đấu giá này.
+
+- Xenify áp dụng lịch trình giảm một nửa tích cực để phân phối mã thông báo của mình. Lần giảm đầu tiên diễn ra ở mốc 3 tháng, tiếp theo là lần giảm khác vào lúc 6 tháng và các lần giảm một nửa tiếp theo ở mức 12, 24 và 48 tháng. Sau năm lần giảm một nửa đầu tiên này, có ba lần giảm bổ sung, mỗi lần xảy ra sau mỗi 48 tháng. Cơ chế giảm một nửa này được thiết kế để giảm dần việc phân phối mã thông báo XNF hàng ngày.
+
+- Sau khi hoàn thành tất cả các đợt halving, số tiền ổn định 156,25 XNF sẽ được giải ngân mỗi ngày. Điều này sẽ tiếp tục trong 2224 tháng tới, đảm bảo rằng việc phân phối mã thông báo được kéo dài và ổn định, cuối cùng đạt đến giới hạn nguồn cung tối đa. Cách tiếp cận này đảm bảo phân phối mã thông báo XNF bền vững và có thể dự đoán được, cho phép người dùng lập kế hoạch và tham gia một cách tự tin.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Hợp nhất bỏng
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN cho phép người tham gia từ các chuỗi EVM khác nhau trong hệ sinh thái XEN tham gia đấu giá đốt hàng ngày. vXEN được tạo bằng cách đốt mã thông báo gốc XEN từ bất kỳ chuỗi nào trong số 10 chuỗi được hỗ trợ trong hệ sinh thái XEN. Bất cứ khi nào chủ sở hữu đốt XEN gốc từ một trong các chuỗi này, giao dịch sẽ được ghi lại trong bản ghi ghi. Sau đây là danh sách chi tiết về các chuỗi EVM được hỗ trợ, mỗi chuỗi có mã định danh và tỷ lệ tương ứng cho một vXEN.
+
+<br>
+
+| Số | Tỷ lệ | Định danh | Dây chuyền               |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Điểm nổi bật chính
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Đã xác minh KYC
+- Kiểm toán kép
+- Mã bất biến
+- Phần thưởng ETH hàng ngày
+- Đốt XEN chuỗi chéo
+- Thanh khoản XNF tự động
+- Mua lại và đốt XNF tự động
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+#🔍 Nguyên tắc đầu tiên
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Ra mắt công bằng
+- Không có khóa quản trị
+- Mã bất biến
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒 Đội ngũ & An ninh
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Được kiểm toán bởi Peckshield
+- Đã được kiểm toán bởi Solidproof
+- KYC được xác minh bởi Solidproof
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Tính năng bắc cầu
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- LayerZero OFT
+- Mạng trục
+- Cầu Hố sâu
 
 <br>
 
