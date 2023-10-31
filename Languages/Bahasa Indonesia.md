@@ -1831,7 +1831,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 <br>
 
-- [Situs Web Xenify](https://xenify.io)
+- [Situs Xenify](https://xenify.io)
 - [Twitter Xenify](https://twitter.com/xenify_io)
 - [Xenify Youtube](https://www.youtube.com/@xenify-io)
 - [Xenify Medium](https://medium.com/xenify)
