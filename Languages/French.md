@@ -22,6 +22,7 @@ Dayana Plaz - Co-fondateur - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 # ◽️ Sommaire
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+- [Brûlez-a-mentals](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-br%C3%BBlez-a-mentals)
 - [Introduction](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-introduction)
 - [Notre Mission](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-notre-mission)
 - [Nos Principes](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-nos-principes)
@@ -47,6 +48,231 @@ Dayana Plaz - Co-fondateur - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 - [Remerciements](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-remerciements)
 - [Adresses des Contrats](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-adresses-des-contrats)
 - [Liens Utiles](https://github.com/xenify-io/litepaper/blob/main/Languages/French.md#%EF%B8%8F-liens-utiles)
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ BRÛLEZ-A-MENTALS
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Pour ceux qui disposent de peu de temps, cette section donne un aperçu des principaux « Burn-A-Mentals » qui animent la vision de Xenify et la distinguent des autres plates-formes. Vous découvrirez comment Xenify génère un approvisionnement en liquidités inégalé pour les détenteurs de XNF, récompense les utilisateurs pour l'échange et la gravure de jetons, et intègre un mécanisme quotidien de rachat et de gravure pour renforcer la valeur tout en réduisant l'offre en circulation de XNF.
+
+Vous découvrirez également le modèle de distribution de jetons équitable et transparent de Xenify, sans allocation à l'équipe, aux fondateurs ou aux investisseurs. De plus, la structure d'incitation unique de Xenify, basée sur la théorie des jeux, cultive une boucle de rétroaction positive d'engagement et de participation continus.
+
+À la base, Xenify offre le meilleur des deux mondes : une expérience d'échange ultra-efficace associée à un potentiel de gains important. Véritable pionnier tant dans sa conception que dans ses fonctionnalités, Xenify a été spécialement conçu pour favoriser une expansion durable et la création de valeur pour l'ensemble de la communauté. Poursuivez votre lecture pour découvrir comment Xenify transforme l'avenir de DeFi grâce à son approche unique.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🗳 Enchères quotidiennes
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Dans les enchères de gravure quotidiennes hébergées sur Arbitrum, les utilisateurs ont la possibilité de graver de 1 à 10 000 lots. Un seul lot de gravure YSL représente 0,1 YSL, tandis qu'un lot de gravure vXEN correspond à 10 000 000 vXEN. Des frais natifs de 0,01 ETH sont appliqués par lot dans les enchères Burn et ETH.
+
+- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25 % de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25 % restants en fonction de leurs lots de gravure respectifs.
+
+- De plus, les participants à l'enchère ETH reçoivent 25 % de l'offre de XNF sous forme de récompenses veXNF, accompagnées d'un verrou récupérable d'un an. Une fois réclamées, ces récompenses améliorent la capacité de gain du participant, lui permettant de gagner plus d'ETH. De même, ceux qui participent aux enchères Swap recevront les 25 % restants de la distribution quotidienne de XNF sous forme de récompenses veXNF, également avec un verrou récupérable d'un an. Lors de leur réclamation, leur capacité de gain augmentera également.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💡 Remise par lots
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Les utilisateurs qui participent à la première heure peuvent bénéficier à la fois du coefficient de temps (TC) et du coefficient de lot (BC) pour obtenir des remises importantes. Concrètement, tous les lots obtenus dans la première heure bénéficieront de la remise de 50 % du TC. De plus, en obtenant 10 000 lots dans cette fenêtre, les utilisateurs peuvent bénéficier d'une réduction allant jusqu'à 75 % lorsqu'ils envisagent le BC. Au fur et à mesure que le cycle progresse, les remises du coefficient de temps (TC) et du coefficient de lot (BC) diminuent.
+
+- À la dernière heure, les remises se rapprochent de zéro. Participer tôt, en particulier au cours de la première heure, est vital pour les utilisateurs qui cherchent à maximiser leurs remises par lots. Les premières heures offrent les réductions les plus importantes, garantissant aux participants le meilleur rapport qualité-prix possible pour leur participation.
+
+- En revanche, attendre la dernière heure pour décider de l'engagement du cycle en cours peut coûter plus cher. Comme les remises auront considérablement diminué d’ici là, les utilisateurs finiront par contribuer davantage d’ETH par rapport à l’heure initiale, soulignant la prudence d’un engagement précoce.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💰Récompenses ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40% des ETH collectés lors des enchères quotidiennes seront alloués aux détenteurs de veXNF, proportionnellement à leur puissance veXNF.
+
+- Les utilisateurs qui choisissent de réclamer leurs récompenses ETH devront payer des frais de réclamation de 25 %. Cette redevance sera ensuite redistribuée aux participants ayant participé au recyclage dans la première heure d'un cycle, en fonction de leur pouvoir veXNF.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ♻️ Recyclage ETH
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Ceux qui recyclent l'ETH dans la première heure d'un cycle peuvent gagner une partie des frais de réclamation d'ETH de ce cycle, proportionnellement à leur puissance veXNF. Plus votre puissance veXNF est grande, plus votre part des rendements ETH générés par les frais de réclamation est importante.
+
+- L'avantage le plus notable du recyclage est l'inclusion automatique dans les enchères de gravure, éliminant ainsi le besoin de graver des jetons alternatifs. Même si les utilisateurs manquent la fenêtre de la première heure, ils auront toujours la possibilité de participer aux enchères de gravure, sans avoir besoin de graver vXEN ou YSL, à condition qu'ils décident de recycler pendant les 23 heures restantes du cycle.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Liquidité XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 40 % des ETH collectés lors des enchères quotidiennes seront dirigés vers l'approvisionnement en liquidités appartenant au protocole XNF-WETH.
+
+- 90 % de l'ETH recyclé tout au long de chaque cycle quotidien sera alloué à l'approvisionnement en liquidités appartenant au protocole XNF-WETH.
+
+- Le protocole est configuré pour utiliser Uniswap V3 pour ses fonctions d'approvisionnement en liquidité. De plus, toutes les liquidités du côté XNF proviennent de rachats et restent verrouillées dans le protocole, garantissant un appariement complet. Pour lancer la paire de trading XNF-WETH, le protocole allouera 100 000 XNF, établissant un prix initial de 1,00 $. Ce prix est susceptible d'être ajusté par le protocole en fonction du montant d'ETH collecté lors du cycle initial.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 Brûlure de liquidité XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Le protocole acquiert XNF pour l'approvisionnement en liquidité XNF-WETH chaque fois qu'un utilisateur participe aux enchères quotidiennes ou recycle son ETH. À mesure que le prix augmente, seule une partie du XNF acquis sera associée au WETH restant dans un couplage complet sur Uniswap V3.
+
+- Le XNF non apparié est automatiquement brûlé, ce qui entraîne une suppression cohérente du XNF de l'offre en circulation lorsque les utilisateurs participent aux enchères quotidiennes ou recyclent leurs récompenses ETH. Cette gravure automatisée créera intrinsèquement encore plus de rareté pour XNF au fil du temps.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🚀 Rachat et brûlage de XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- 10 % des ETH collectés lors des enchères quotidiennes seront utilisés pour acheter du XNF, 100 % des XNF acquis étant brûlés.
+
+- 20 % des ETH collectés lors des enchères quotidiennes seront automatiquement utilisés pour acquérir du XNF, qui sera ensuite ajouté au pool de liquidité complet XNF-WETH du protocole sur Uniswap V3.
+
+- 45 % de l'ETH recyclé sera automatiquement utilisé pour acquérir du XNF, qui sera ensuite ajouté au pool de liquidité complet XNF-WETH du protocole sur Uniswap V3.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 Largage aérien XNF Genesis
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Xenify lance un parachutage Genesis de 60 jours sur chaque chaîne sur laquelle il se déploie. Durant cette période, 1 500 000 XNF seront partagés entre les participants. La distribution est simple : chaque jour, 25 000 tokens XNF seront attribués, avec des parts individuelles déterminées par les contributions quotidiennes de chaque participant via des frais de swap.
+
+- Il convient de noter que cet airdrop inclut toutes les chaînes compatibles EVM. Tant qu'une transaction provient ou est exécutée au sein d'une chaîne EVM et comprend des frais de swap attachés, elle est éligible au largage.
+
+- Une fois le parachutage terminé, les jetons XNF alloués ne seront pas immédiatement accessibles. Au lieu de cela, ils seront initialement distribués sous forme de jetons verrouillés. Toutefois, ceux-ci ne resteront pas verrouillés indéfiniment. Sur une période de 730 jours, ils se débloqueront progressivement. Pour mettre cela en perspective : si vous avez réclamé 7 300 jetons XNF verrouillés, attendez-vous à ce qu'environ 10 jetons XNF soient disponibles quotidiennement dans votre portefeuille.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 Pouvoir de gain de veXNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Le mécanisme veXNF est conçu pour verrouiller une partie substantielle de l'offre de XNF, jouant ainsi un rôle central dans l'amélioration de la rareté au sein du protocole. Les participants ont la possibilité de verrouiller leur XNF pour une période allant d'un minimum d'une semaine à un maximum d'un an. Plus la durée de verrouillage est longue, plus le pouvoir de gain est élevé. De plus, des durées de verrouillage plus longues entraînent également une diminution plus lente de ce pouvoir.
+
+- Exemple 1 : les détenteurs de veXNF qui verrouillent initialement leur XNF pour une période d'un an sont confrontés à des difficultés s'ils choisissent de ne pas prolonger la durée de leur verrouillage. Leur capacité de gain diminue rapidement. En seulement 30 jours, cette puissance est réduite de moitié et au bout de 60 jours, elle a complètement disparu. Cela les laisse sans aucune capacité de gain pendant les 10 mois suivants jusqu'à ce qu'ils puissent débloquer leur XNF.
+
+- Exemple 2 : Ceux qui choisissent de verrouiller leur XNF pour une durée plus courte de 6 mois et décident ensuite de ne pas prolonger s'exposent à des conséquences similaires. Leur capacité de gain diminue rapidement. En seulement 15 jours, cette puissance est réduite de moitié et au bout de 30 jours, elle a complètement disparu. Cela les laisse sans aucune capacité de gain pendant les 5 mois suivants jusqu'à ce qu'ils puissent débloquer leur XNF.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💎 Offre maximale XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- XNF dispose d'une offre maximale de 22,6 millions, la distribution de ces jetons se fait via quatre enchères quotidiennes. Chaque jour, 5 250 000 XNF, soit 25 % des tokens XNF, sont alloués aux participants engagés dans l'YSL Burn Auction. Une quantité identique de 5 250 000 XNF est également versée aux participants à la vente aux enchères vXEN Burn. De plus, 50 % supplémentaires de l’approvisionnement quotidien en XNF sont réservés aux récompenses veXNF. Il est toutefois crucial de noter que ces récompenses sont soumises à une période de blocage d'un an, après quoi elles sont distribuées aux personnes participant à l'ETH Auction (25 %) et à l'Swap Auction (25 %). Au total, cela se traduit par une distribution quotidienne de 10 500 000 XNF sur ces enchères.
+
+- Xenify utilise un calendrier agressif de réduction de moitié pour sa distribution de jetons. La première réduction a lieu au bout de 3 mois, suivie d'une autre à 6 mois et de moitiés ultérieures à 12, 24 et 48 mois. Après ces cinq réductions initiales de moitié, il y a trois réductions supplémentaires, chacune se produisant tous les 48 mois. Ce mécanisme de réduction de moitié est conçu pour réduire progressivement la distribution quotidienne des jetons XNF.
+
+- Une fois toutes les divisions de moitié réalisées, un montant constant de 156,25 XNF sera décaissé chaque jour. Cela se poursuivra pendant les 2 224 prochains mois, garantissant que la distribution des jetons soit prolongée et stable, atteignant finalement la limite maximale d'offre. Cette approche garantit une distribution durable et prévisible des jetons XNF, permettant aux utilisateurs de planifier et de participer en toute confiance.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔥 vXEN - Brûlures unificatrices
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- vXEN permet aux participants de différentes chaînes EVM au sein de l'écosystème XEN de participer aux enchères de gravure quotidiennes. vXEN est généré en gravant des jetons natifs XEN à partir de l'une des 10 chaînes prises en charge dans l'écosystème XEN. Chaque fois qu'un détenteur grave du XEN natif à partir de l'une de ces chaînes, la transaction est enregistrée dans l'enregistrement de gravure. Ce qui suit est une liste détaillée des chaînes EVM prises en charge, chacune avec son identifiant et son ratio correspondants pour un seul vXEN.
+
+<br>
+
+| Num | Rapport | Identifiants | Chaînes            |
+|:----|:------|:------------|:----------------------|
+| 1   | 1     | XEN         | Ethereum              |
+| 2   | 1     | opXEN       | Optimism              |
+| 3   | 134   | aXEN        | Avalanche             |
+| 4   | 134   | cbXEN       | Base                  |
+| 5   | 200   | bXEN        | BNB Chain             |
+| 6   | 334   | mXEN        | Polygon               |
+| 7   | 567   | mbXEN       | Moonbeam              |
+| 8   | 667   | fmXEN       | Fantom                |
+| 9   | 680   | okXEN       | OKT (OKX)             |
+| 10  | 3334  | coXEN       | EVMOS                 | 
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⭐️ Points forts
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- KYC vérifié
+- Double audit
+-Code immuable
+- Récompenses ETH quotidiennes
+- Gravure XEN multi-chaînes
+- Liquidité XNF automatisée
+- Rachat et gravure automatisés de XNF
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔍 Premiers principes
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Lancement du salon
+- Pas de clés d'administration
+-Code immuable
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔒Équipe & Sécurité
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Audité par Peckshield
+- Audité par Solidproof
+- KYC vérifié par Solidproof
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ⛓ Fonctionnalités de pontage
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- CoucheZéro OFT
+- Réseau Axelar
+- Pont du trou de ver
 
 <br>
 
