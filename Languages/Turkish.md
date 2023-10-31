@@ -425,15 +425,15 @@ Xenify, öz sermayeye ve uzun vadeli yatırımlara büyük önem vermektedir. Ku
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_ysl)
+- [Twitter](https://twitter.com/simran_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_YSL)
+- [Telegram](https://t.me/sd_xnf)
 - [Geçmiş Deneyimler](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegram](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -532,9 +532,7 @@ Sarılı XEN yeni zincirlerde kullanılmaya başlandığında, XEN'in kaynakland
 
 Xenify'ın günlük yakma müzayedeleri aracılığıyla ölçülebilir kıtlığı gerçek dünya faydasıyla harmanlayan hiper deflasyonist bir token olan YSL ile tanışın. Geleneksel modellerde olduğu gibi arzın azaltılması için yalnızca piyasa faaliyetlerine güvenmek yerine, YSL benzersiz bir mekanizmayı entegre eder: Xenify yakma müzayedeleri. Her günlük açık artırmada, YSL'nin bir kısmı dolaşımdan kalıcı olarak kaldırılarak toplam arzı doğal olarak azaltır ve potansiyel olarak değeri artırır. Daha da önemlisi, YSL güven için tasarlanmıştır ve öngörülemeyen değişiklik potansiyeli olmadan tam şeffaflık için tasarlanmış değişmez, yükseltilemez bir sözleşmeye sahiptir.
 
-Yeni YSL tokenı Arbitrum'da görücüye çıkarken, airdrop için anlık görüntüye buradan ulaşabilirsiniz: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023). Ancak YSL burada durmayacak - Ethereum, BNB, Polygon, Avalanche, Optimism ve daha fazlası gibi önde gelen EVM zincirlerinde, her biri kendi benzersiz YSL tanımlayıcısına (örneğin Ethereum'da eYSL) sahip olacak şekilde genişleme planlanıyor. Farklı zincirler arasında birlikte çalışabilirliği sağlamak için YSL, birincil protokol olarak LayerZero OTF'yi kullanan ve yedek seçenekler olarak Axelar ve Wormhole'u kullanan bir token köprüsüne sahiptir. Bu, sahiplerine yalnızca zincirler arasında Xenify yakma açık artırmalarına katılmak için YSL'yi köprüleme özgürlüğü vermekle kalmaz, aynı zamanda seçtikleri herhangi bir uyumlu EVM zinciri ve DEX'e likidite ekleme yeteneği de verir. İşin en güzel yanı da şu: Arbitrum airdrop alıcısı olan YSL sahipleri, dağıtımı takip eden 90 gün içinde her zincirde YSL'deki paylarını talep edebilirler.
-
-Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomiği, kıtlık ve faydayı bir araya getirerek sahiplerine kodlanmış, kullanıma dayalı değer artışı sağlayan dinamik bir token sunar.
+Yeni YSL tokeni Arbitrum'da görücüye çıktı ve airdropun anlık görüntüsüne [burada](https://bit.ly/YSLAirdrop2023) ulaşabilirsiniz. Ancak YSL burada bitmeyecek; Ethereum, BNB, Polygon, Avalanche, Optimism ve daha fazlası gibi her biri kendi benzersiz YSL tanımlayıcısına (örneğin Ethereum'da eYSL) sahip önde gelen EVM zincirlerinde genişleme planlanıyor. YSL, farklı zincirler arasında birlikte çalışabilirliği sağlamak için birincil protokol olarak LayerZero OTF'yi kullanan ve geri dönüş seçenekleri olarak Axelar ve Wormhole'u kullanan bir token köprüsüne sahiptir. Bu, sahiplerine yalnızca YSL'yi zincirler arasında Xenify yakma açık artırmalarına katılmak üzere köprüleme özgürlüğünü vermekle kalmıyor, aynı zamanda herhangi bir hizalanmış EVM zincirine ve seçtikleri DEX'e likidite ekleme olanağı da sağlıyor. Ve işin en iyi yanı, Arbitrum airdrop alıcısı olan YSL sahipleri, dağıtımdan sonraki 90 gün içinde her zincirde YSL'den paylarını talep edebilirler. Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomik, kıtlığı ve faydayı birleştirerek sahiplerine kodlanmış, kullanıma dayalı değer artışı sağlayan dinamik bir token sağlıyor.
 
 İşte dağıtım zincirlerimizin ve benzersiz YSL tanımlayıcılarının kısa bir dökümü:
 
@@ -822,25 +820,31 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 
 <br>
 
-![Xenify Turkish](https://github.com/xenify-io/litepaper/assets/66044824/e766747a-0216-4b69-9a26-c45775250104)
-
-<br>
-
 Xenify, Uniswap V3 havuzlarını entegre ederek ileriye doğru muazzam bir adım attı. Bu stratejik karar, yalnızca DeFi'deki en son yeniliklerden yararlanma konusundaki kararlılığımızı göstermekle kalmıyor, aynı zamanda kullanıcılarımıza sunulan likidite seçeneklerini artırırken pazardaki konumumuzu da sağlamlaştırıyor.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 İlk Likidite Döngüsü
 
-Topluluğumuzun en başından itibaren XNF ticareti yapabilmesini sağlayan sağlam bir ekosistemi güçlendirmek için, lansman sırasında protokole ait likiditenin önyüklemesi için 100.000 XNF ayrılacaktır. İlk döngü sona erdikten sonra, protokolümüz bu XNF tahsisini kullanarak XNF-ETH ticaret çiftini oluşturacaktır. Bu süreci kolaylaştırmak için protokol, döngünün sonunda bir XNF-ETH V3 likidite havuzu oluşturmak için ilk gün katılımından elde edilen ücretlerin çoğunu (takas ücretleri, yerel ücretler ve yakma ücretleri dahil) kullanacaktır.
+Topluluğumuzun piyasaya sürülmesinden hemen sonra XNF ticareti yapmasına olanak tanıyan gelişen bir ekosistemi yeniden başlatmak için 100.000 XNF, protokole ait likiditeyi başlatmak üzere bir kenara ayrılacak. Bu ilk aşamanın tamamlanmasının ardından protokolümüz, tahsis edilen bu XNF'yi kullanarak XNF-WETH ticaret çiftini oluşturacaktır. Protokol, döngünün sonunda bir XNF-WETH V3 likidite havuzu oluşturmak için takas ücretleri, yerel ücretler ve yakma ücretlerini kapsayan ilk gün faaliyetlerinden toplanan ücretlerin çoğunluğunu kullanacak.
 
-XNF-ETH çifti için başlangıç fiyatı 1,00$ olarak belirlenerek hem ETH hem de XNF'nin tüm aralıkta eşit bir şekilde dağıtılması sağlanmıştır. Bununla birlikte, ilk döngü sırasında ücretlerden elde edilen ETH önemli ölçüde artarsa, başlangıç fiyatı 1,00 $ 'ın üzerine çıkacak ve fazladan XNF otomatik olarak yakılacaktır. Öte yandan, ilk döngü sırasında elde edilen ETH, 10 bin dolarlık dağıtım sırasında gömülü minimum değere ulaşmazsa, başlangıç fiyatı 10 bin XNF ile eşleşecek şekilde ayarlanacak ve fazla 90 bin XNF yakılacaktır.
+XNF-WETH çiftinin başlangıç fiyatı 1,00 $ olarak belirlendi ve hem ETH hem de XNF'nin tüm aralıkta eşit dağılımı sağlandı. Ancak ilk döngü sırasında ücretlerden elde edilen ETH önemli ölçüde artarsa başlangıç fiyatı 1,00 doların üzerine çıkacak. Öte yandan, ilk döngü sırasında edinilen ETH dağıtım sırasında minimum 100 bin dolar değerine ulaşmazsa, başlangıç fiyatı 100 bin XNF ile eşleşecek şekilde ayarlanacak ve potansiyel olarak başlangıç fiyatı 1,00 doların altına ayarlanacak.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Sonraki Likidite Döngüleri
 
-Protokolümüz, sonraki her döngüde XNF protokolüne ait likiditenin sürekli büyümesini sağlamak üzere tasarlanmıştır. İkinci döngüden itibaren, yakma ücretleri, yerel ücretler, takas ücretleri ve geri dönüşüm faaliyetleri yoluyla günlük olarak elde edilen ETH, XNF likiditesinin çoğalmasını desteklemek için kullanılacaktır. Bu çerçevede, ETH'nin %50'si XNF'yi piyasaya sürmek için kullanılır ve elde edilen XNF, ETH'nin geri kalanıyla eşleştirilir ve tam aralıkta XNF-ETH likiditesi olarak eklenir. Döngüden bağımsız olarak, protokole ait bu likidite havuzundaki tüm işlemlere tutarlı bir %1 alım satım ücreti uygulandığını belirtmek önemlidir.
+Protokolümüz, sonraki her döngüde XNF protokolüne ait likiditenin sürekli büyümesini sağlamak için tasarlanmıştır. İkinci döngüden itibaren, yakma ücretleri, yerel ücretler, takas ücretleri ve geri dönüşüm faaliyetleri yoluyla günlük olarak elde edilen ETH, XNF likiditesinin çoğalmasını desteklemek için kullanılacak. Bu çerçevede, ETH'nin %50'si XNF'yi pazarlamak için kullanılıyor ve satın alınan XNF, ETH'nin geri kalanıyla eşleştirilerek tam aralıkta XNF-WETH likiditesi olarak ekleniyor. Döngüden bağımsız olarak, bu protokole ait likidite havuzundaki tüm işlemlere tutarlı %1'lik bir işlem ücreti uygulandığını unutmamak önemlidir.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 XNF Likidite Kara Deliği
+
+XNF sahipleri, XNF'lerini protokole ait likidite havuzumuz veya topluluk tarafından kurulan herhangi bir havuz aracılığıyla serbestçe satabilirler. Ancak, protokole ait likidite havuzumuzdan XNF satın almak kısıtlıdır; bu da günlük açık artırmalarımızı önemli miktarda XNF elde etmenin birincil yolu haline getiriyor. Bu, bir kullanıcı veya arbitraj botunun, protokole ait likidite havuzumuz aracılığıyla XNF'yi her satışında, tokenların kalıcı olarak dolaşımdan kaldırıldığı ve XNF kıtlığını artıran bir "kara delik" etkisi yaratıldığı anlamına gelir.
+
+Dikkatlice tasarlanmış bu mekanizma aynı zamanda ilk likidite dağıtımını spekülatörler ve likidite keskin nişancıları tarafından potansiyel sömürüye karşı korumaya hizmet ederek ekosistemimizin bütünlüğünü en başından itibaren sağlamlaştırır. Kullanıcılar protokolün sahip olduğu havuza likidite katkıda bulunma olanağını korurken, tam aralıkta likidite ekleme seçeneğinin mevcut olmayacağını belirtmekte fayda var.
+
+Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF havuzuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün günlük geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
 
 <br>
 
@@ -1568,6 +1572,11 @@ Güvenlik ve adil token dağıtımına bağlılık, Xenify'ın ilkelerinin merke
 <br>
 
 Xenify, özellikleri ve potansiyeli hakkında sorularınız olabileceğini biliyoruz. Platformumuzda gezinmenize yardımcı olmak için, Xenify ve ekosistemi hakkında netlik ve içgörü sağlayan sık sorulan soruların bir listesini derledik.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️Sözleşmeler açık kaynaklı mı?
+- Sözleşmelerimiz, BUSL-1.1 Lisansı kapsamında görüntülenmek üzere açıkça erişilebilir ve lisanslıdır. Bununla birlikte, tüm kurucu ortaklardan açık yazılı onay alınmadığı sürece, sözleşmelerimizin kısmen veya tamamen yeniden dağıtılması, değiştirilmesi veya başka amaçlara yönelik olarak kullanılmasının kesinlikle yasak olduğunu unutmamak önemlidir. Onay talepleri kurucu ortakların resmi e-posta adreslerine yönlendirilmeli ve yanıtların doğrudan bu adreslerden alınması sağlanmalıdır. Bu önlemler, hissedarlarımızın çıkarlarının korunması amacıyla uygulanmaktadır.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
