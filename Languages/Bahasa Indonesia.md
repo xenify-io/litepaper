@@ -425,15 +425,15 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 ## ♦️ Simran Dhillon
-- [Twitter](https://twitter.com/simran_ysl)
+- [Twitter](https://twitter.com/sd_xnf)
 - [LinkedIn](https://www.linkedin.com/in/ssdhillon)
-- [Telegram](https://t.me/SD_YSL)
+- [Telegram](https://t.me/sd_xnf)
 - [Pengalaman Sebelumnya](https://blog.horizen.io/zen-foundation-and-team-updates)
 
 ## ♦️ Hardev Dhillon
-- [Twitter](https://twitter.com/hardev_ysl)
+- [Twitter](https://twitter.com/hardev_x)
 - [LinkedIn](https://www.linkedin.com/in/hardevdhillon)
-- [Telegram](https://t.me/hardev_ysl)
+- [Telegram](https://t.me/hardev_x)
 
 ## ♦️ Dayana Plaz
 - [Twitter](https://twitter.com/dmplaz?s=20&t=yDfmH1u8kSSpz8jOpkwVOQ)
@@ -532,9 +532,7 @@ Berikut ini adalah uraian ringkas tentang rantai penyebaran dan pengidentifikasi
 
 Memperkenalkan YSL - token hiper-deflasi yang memadukan kelangkaan yang dapat diukur dengan utilitas dunia nyata melalui lelang pembakaran harian Xenify. Daripada hanya mengandalkan aktivitas pasar untuk mengurangi pasokan seperti model tradisional, YSL mengintegrasikan mekanisme unik - lelang pembakaran Xenify. Dengan setiap lelang harian, sebagian YSL secara permanen dihapus dari peredaran, yang secara inheren mengurangi total pasokan dan berpotensi memperkuat nilai. Lebih penting lagi, YSL telah direkayasa untuk kepercayaan dan memiliki kontrak yang tidak dapat diubah dan tidak dapat ditingkatkan yang dirancang untuk transparansi penuh tanpa potensi perubahan yang tidak terduga.
 
-Token YSL baru memulai debutnya di Arbitrum, dengan cuplikan untuk airdrop tersedia di sini: [https://bit.ly/YSLAirdrop2023](https://bit.ly/YSLAirdrop2023). Tetapi YSL tidak akan berhenti di situ - ekspansi direncanakan di seluruh rantai EVM terkemuka seperti Ethereum, BNB, Polygon, Avalanche, Optimism, dan banyak lagi, masing-masing dengan pengenal YSL uniknya sendiri (mis. eYSL di Ethereum). Untuk memungkinkan interoperabilitas antara chain yang berbeda, YSL memiliki fitur token bridge yang memanfaatkan LayerZero OTF sebagai protokol utama, dengan Axelar dan Wormhole sebagai opsi fallback. Hal ini tidak hanya memberikan kebebasan kepada pemegang untuk menjembatani YSL agar dapat berpartisipasi dalam lelang pembakaran Xenify di seluruh chain, tetapi juga kemampuan untuk menambahkan likuiditas di seluruh chain EVM dan DEX yang selaras yang mereka pilih. Dan inilah bagian terbaiknya, pemegang YSL yang merupakan penerima airdrop Arbitrum dapat mengklaim bagian YSL mereka di setiap chain dalam waktu 90 hari setelah penerapannya.
-
-Singkatnya, tokenomics deflasi YSL yang unik memadukan kelangkaan dan utilitas, memberikan pemegangnya token dinamis yang memiliki fitur pertumbuhan nilai berbasis penggunaan yang terkodifikasi.
+Token YSL baru memulai debutnya di Arbitrum, dengan cuplikan untuk airdrop tersedia [di sini](https://bit.ly/YSLAirdrop2023). Namun YSL tidak akan berhenti di situ - perluasan direncanakan di seluruh rantai EVM terkemuka seperti Ethereum, BNB, Polygon, Avalanche, Optimism, dan banyak lagi, masing-masing dengan pengenal YSL uniknya sendiri (misalnya eYSL di Ethereum). Untuk mengaktifkan interoperabilitas antar rantai yang berbeda, YSL dilengkapi jembatan token yang memanfaatkan LayerZero OTF sebagai protokol utama, dengan Axelar dan Wormhole sebagai opsi cadangan. Hal ini tidak hanya memberikan pemegang kebebasan untuk menjembatani YSL untuk berpartisipasi dalam lelang pembakaran Xenify di seluruh rantai, tetapi juga kemampuan untuk menambahkan likuiditas di seluruh rantai EVM dan DEX yang mereka pilih. Dan inilah bagian terbaiknya, pemegang YSL yang merupakan penerima airdrop Arbitrum dapat mengklaim bagian YSL mereka di setiap rantai dalam waktu 90 hari setelah penerapannya. Singkatnya, tokenomik deflasi YSL yang unik memadukan kelangkaan dan utilitas, memberikan pemegang token dinamis yang menampilkan pertumbuhan nilai berbasis penggunaan yang terkodifikasi.
 
 Berikut ini adalah uraian ringkas tentang rantai penerapan kami dan pengenal YSL uniknya:
 
@@ -822,25 +820,31 @@ Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain u
 
 <br>
 
-![Xenify Indo](https://github.com/xenify-io/litepaper/assets/66044824/06fafdf0-fd3e-428a-877a-f9394197e323)
-
-<br>
-
 Xenify telah mengambil langkah monumental dengan mengintegrasikan pool Uniswap V3. Keputusan strategis ini tidak hanya menunjukkan komitmen kami untuk memanfaatkan inovasi terbaru dalam DeFi, tetapi juga meningkatkan opsi likuiditas yang tersedia bagi pengguna kami, sekaligus memperkuat posisi pasar kami.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Siklus Likuiditas Awal
 
-Untuk memberdayakan ekosistem yang kuat yang memungkinkan komunitas kami memperdagangkan XNF sejak awal, 100.000 XNF akan disisihkan untuk melakukan bootstrap likuiditas yang dimiliki protokol pada saat peluncuran. Setelah siklus awal berakhir, protokol kami akan membuat pasangan perdagangan XNF-ETH menggunakan alokasi XNF ini. Untuk memfasilitasi proses ini, protokol akan menggunakan sebagian besar biaya yang dihasilkan dari partisipasi hari pertama (termasuk biaya swap, biaya asli, dan biaya pembakaran) untuk membuat kumpulan likuiditas XNF-ETH V3 di akhir siklus.
+Untuk memulai ekosistem berkembang yang memungkinkan komunitas kami memperdagangkan XNF segera setelah diluncurkan, 100.000 XNF akan disisihkan untuk likuiditas milik protokol bootstrap. Setelah menyelesaikan fase awal ini, protokol kami akan menetapkan pasangan perdagangan XNF-WETH menggunakan XNF yang dialokasikan ini. Protokol ini akan memanfaatkan sebagian besar biaya yang dikumpulkan dari aktivitas hari pertama, termasuk biaya swap, biaya asli, dan biaya pembakaran, untuk membentuk kumpulan likuiditas XNF-WETH V3 di akhir siklus.
 
-Harga awal untuk pasangan XNF-ETH ditetapkan pada $1,00, memastikan distribusi yang sama antara ETH dan XNF di seluruh rentang. Namun, jika ETH yang diperoleh dari biaya selama siklus awal meningkat secara signifikan, harga awal akan naik di atas $ 1,00 dan XNF tambahan akan dibakar secara otomatis. Di sisi lain, jika ETH yang diperoleh selama siklus awal tidak mencapai nilai minimum yang disematkan pada penerapan $10k, harga awal akan disesuaikan agar sesuai dengan pasangannya dengan 10k XNF, dengan kelebihan 90k XNF akan dibakar.
+Harga awal untuk pasangan XNF-WETH ditetapkan pada $1,00, memastikan distribusi ETH dan XNF yang merata di seluruh rentang. Namun, jika ETH yang diperoleh dari biaya selama siklus awal meningkat secara signifikan, harga awal akan naik di atas $1.00. Di sisi lain, jika ETH yang diperoleh selama siklus awal tidak mencapai nilai minimum $100rb saat penerapan, harga awal akan disesuaikan agar sesuai dengan pasangannya dengan 100rb XNF, sehingga berpotensi menetapkan harga awal di bawah $1,00.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## 🌊 Siklus Likuiditas Berikutnya
+## 🌊 Siklus Likuiditas Selanjutnya
 
-Protokol kami dirancang untuk memastikan pertumbuhan berkelanjutan dari likuiditas yang dimiliki protokol XNF dengan setiap siklus berikutnya. Dari siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka kerja ini, 50% dari ETH digunakan untuk membeli XNF di pasar, dan XNF yang diperoleh dipasangkan dengan sisa ETH dan ditambahkan sebagai likuiditas XNF-ETH dengan jangkauan penuh. Penting untuk dicatat bahwa, terlepas dari siklusnya, biaya perdagangan 1% yang konsisten diterapkan pada semua transaksi dalam kumpulan likuiditas yang dimiliki protokol ini.
+Protokol kami dirancang untuk memastikan pertumbuhan berkelanjutan likuiditas yang dimiliki protokol XNF pada setiap siklus berikutnya. Mulai siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka ini, 50% ETH digunakan untuk membeli XNF di pasar, dan XNF yang diperoleh dipasangkan dengan sisa ETH dan ditambahkan sebagai likuiditas XNF-WETH dalam kisaran penuh. Penting untuk dicatat bahwa, apa pun siklusnya, biaya perdagangan 1% yang konsisten diterapkan untuk semua transaksi dalam kumpulan likuiditas milik protokol ini.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## 🌊 Lubang Hitam Likuiditas XNF
+
+Pemegang XNF dapat dengan bebas menjual XNF mereka melalui kumpulan likuiditas milik protokol kami atau kumpulan yang didirikan komunitas. Namun, pembelian XNF dari kumpulan likuiditas milik protokol kami dibatasi - menjadikan lelang harian kami sebagai cara utama untuk memperoleh XNF dalam jumlah besar. Artinya, setiap kali pengguna atau bot arbitrase menjual XNF melalui kumpulan likuiditas milik protokol kami, token tersebut akan dihapus secara permanen dari peredaran, sehingga menciptakan efek “lubang hitam” yang meningkatkan kelangkaan XNF.
+
+Mekanisme yang dirancang dengan cermat ini juga berfungsi untuk menjaga penyebaran likuiditas awal terhadap potensi eksploitasi oleh spekulator dan penembak jitu likuiditas, sehingga memperkuat integritas ekosistem kita sejak awal. Perlu disebutkan bahwa meskipun pengguna tetap memiliki kemampuan untuk menyumbangkan likuiditas ke kumpulan milik protokol, opsi untuk menambahkan likuiditas secara penuh tidak akan tersedia.
+
+Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi penyerap XNF yang mengalami deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran harian protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
 
 <br>
 
@@ -1568,6 +1572,12 @@ Singkatnya, Xenify mewakili pergeseran paradigma dalam dunia pertukaran token li
 <br>
 
 Kami memahami bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fiturnya, dan potensinya. Untuk membantu Anda menavigasi platform kami, kami telah menyusun daftar pertanyaan yang sering diajukan yang memberikan kejelasan dan wawasan tentang Xenify dan ekosistemnya.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ◽️ Apakah kontraknya open-source?
+
+- Kontrak kami dapat diakses secara terbuka untuk dilihat dan dilisensikan di bawah Lisensi BUSL-1.1. Namun, penting untuk dicatat bahwa segala bentuk pendistribusian ulang, modifikasi, atau penggunaan kembali kontrak kami, baik secara keseluruhan atau sebagian, dilarang keras kecuali persetujuan tertulis secara eksplisit diperoleh dari semua pendiri bersama. Permintaan persetujuan harus diarahkan ke alamat email resmi para pendiri, memastikan bahwa tanggapan diterima langsung dari alamat tersebut. Langkah-langkah ini diterapkan dengan tujuan utama melindungi kepentingan pemegang saham kami.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
