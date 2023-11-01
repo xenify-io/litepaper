@@ -1304,7 +1304,7 @@ $$
     <tr>
         <td><strong>ML</strong><br>(Kunci Maksimum)</td>
         <td>Durasi penguncian maksimum 365 hari.</td>
-    </tr> <tr>
+    </tr>
 </table>
 
 <br>
