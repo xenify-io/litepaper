@@ -119,7 +119,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 Rachat et brûlage de XNF
-![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
@@ -131,9 +131,9 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🌊 Liquidité du protocole XNF
-![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
@@ -187,9 +187,9 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ⚫️ Trou noir de liquidité XNF
-![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
@@ -237,7 +237,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 -Code immuable
 - Récompenses ETH quotidiennes
 - Gravure XEN multi-chaînes
-- Liquidité XNF automatisée
+- Liquidité de sortie ETH automatisée
 - Rachat et gravure automatisés de XNF
 
 <br>
@@ -386,19 +386,19 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 - Xenify introduit un mécanisme de récompense dynamique qui offre des avantages significatifs aux détenteurs de XNF. En verrouillant les jetons XNF, les utilisateurs deviennent éligibles pour recevoir chaque jour un impressionnant 40 % des frais d'enchères quotidiens générés sur les chaînes prises en charge.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ✨ Brûler des jetons XNF
 
 - Dans le cadre de notre protocole, 50 % des ETH collectés lors des enchères quotidiennes et 90 % des ETH recyclés de chaque cycle quotidien sont utilisés pour acheter du XNF directement sur le marché via la paire WETH-XNF sur Uniswap V3. Par la suite, 100 % des XNF acquis sont immédiatement et irrévocablement brûlés selon un processus immuable. Cette pratique garantit l’intégrité des procédures de rachat et de brûlage, évitant ainsi la nécessité de l’intervention de tiers et atténuant ainsi les risques associés à la priorité des contreparties.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ✨ Distribution XNF équitable
 
 - Xenify se consacre à promouvoir l'équité et la transparence dans la répartition des capitaux propres entre ses utilisateurs. Notre modèle unique de tokenomics et de verrouillage est conçu pour récompenser les participants actifs et les détenteurs à long terme, créant ainsi une forte incitation pour les utilisateurs à contribuer à la croissance de notre écosystème. À mesure que notre communauté continue de croître, la répartition équitable des récompenses et des jetons XNF garantit que tout le monde en profite, favorisant ainsi une communauté dynamique et engagée. L'engagement de Xenify en faveur de la justice et de l'équité favorise la confiance au sein de l'écosystème, favorisant un environnement durable et inclusif pour tous les participants.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ✨ Enchères quotidiennes de gravure
 
@@ -406,7 +406,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 - Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25 % de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25 % restants en fonction de leurs lots de gravure respectifs.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ✨ Échange entre chaînes
 
@@ -416,7 +416,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 - Et les récompenses continuent d'arriver ! Détenir veXNF vous donne droit à des récompenses quotidiennes supplémentaires telles que ETH, BNB et MATIC, basées sur les frais de gravure et les frais de swap générés au cours de chaque cycle. Xenify ne simplifie pas seulement le processus d'échange ; c'est le transformer. Nous vous offrons non seulement une efficacité ultime et des tarifs leaders sur le marché, mais également une expérience d'échange vraiment enrichissante.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ✨ Recyclage des récompenses natives
 
@@ -840,7 +840,7 @@ Le prix initial de la paire WETH-XNF est fixé à 1,00 $, garantissant une répa
 
 Veuillez noter que les fournisseurs de liquidité ne pourront pas ajouter de liquidité au niveau de frais WETH-XNF de 1 %. De plus, il est important de noter que seul le protocole lui-même a la capacité d'effectuer des achats à partir de ses propres liquidités dans le pool WETH-XNF. Les détenteurs de XNF ne peuvent exécuter des transactions de vente que via le site Xenify ou directement via le contrat de recyclage.
 
-![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Cycles de liquidité ultérieurs
 
