@@ -123,9 +123,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- 50% of the ETH collected from the daily auctions will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap v3, with 100% of the acquired XNF being burned.
+- 50% of the ETH collected from the daily auctions will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap V3, with 100% of the acquired XNF being burned.
 
-- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap v3, with 100% of the acquired XNF being burned.
+- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap ![image](https://github.com/xenify-io/litepaper/assets/60996729/4c9f9db3-38ee-4676-af9b-d78d24a34377)![image](https://github.com/xenify-io/litepaper/assets/60996729/2218e806-f46b-493c-993d-4b433e96d76b)
+![image](https://github.com/xenify-io/litepaper/assets/60996729/c59479f7-a619-485c-bf32-e9d27e37d4d4)
+, with 100% of the acquired XNF being burned.
 
 - The burning mechanisms within our protocol are meticulously crafted to execute immutably and automatically after each daily auction or recycling participation, thereby nullifying the counterparty risk and mitigating potential issues of front-running that could arise if a third party were required to initiate the buyback and burn processes.
 
@@ -390,7 +392,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Burning XNF Tokens
 
-- Within our protocol, 50% of the ETH collected from daily auctions and 90% of the recycled ETH from each daily cycle are utilized to purchase XNF directly from the market via the WETH-XNF pair on Uniswap v3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This practice ensures the integrity of the buyback and burn procedures, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
+- Within our protocol, 50% of the ETH collected from daily auctions and 90% of the recycled ETH from each daily cycle are utilized to purchase XNF directly from the market via the WETH-XNF pair on Uniswap V3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This practice ensures the integrity of the buyback and burn procedures, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
