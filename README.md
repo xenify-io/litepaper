@@ -123,9 +123,9 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- 50% of the ETH collected from the daily auctions will be used to purchase XNF, with 100% of the acquired XNF being burned.
+- 50% of the ETH collected from the daily auctions will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap v3, with 100% of the acquired XNF being burned.
 
-- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF, with 100% of the acquired XNF being burned.
+- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap v3, with 100% of the acquired XNF being burned.
 
 - The burning mechanisms within our protocol are meticulously crafted to execute immutably and automatically after each daily auction or recycling participation, thereby nullifying the counterparty risk and mitigating potential issues of front-running that could arise if a third party were required to initiate the buyback and burn processes.
 
@@ -137,11 +137,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- The protocol is set to initially leverage Uniswap V3 for its liquidity provisioning. To launch the XNF-WETH trading pair, it will allocate 100,000 XNF, thereby establishing an initial price of $1.00 per XNF. It is important to note that this price may be adjusted by the protocol, depending on the amount of ETH collected during the initial cycle. Following this, a full-range pairing will be created on the 1% fee tier.
+- The protocol is set to initially leverage Uniswap V3 for its liquidity provisioning. To launch the WETH-XNF trading pair, it will allocate 100,000 XNF, thereby establishing an initial price of $1.00 per XNF. It is important to note that this price may be adjusted by the protocol, depending on the amount of ETH collected during the initial cycle. Following this, a full-range pairing will be created on the 1% fee tier.
 
-- The protocol is also designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilized for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the XNF-WETH liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
+- The protocol is also designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilized for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the WETH-XNF liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
 
-- Please be aware that liquidity providers will not be able to add liquidity to the XNF-WETH 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the XNF-WETH pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
+- Please be aware that liquidity providers will not be able to add liquidity to the WETH-XNF 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the WETH-XNF pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
 
 <br>
 
@@ -390,7 +390,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Burning XNF Tokens
 
-- Within our protocol, 50% of the ETH collected from daily auctions and 90% of the recycled ETH from each daily cycle are strategically deployed to purchase XNF. Following this, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This guarantees the integrity of the buyback and burn procedures, eliminating the necessity for third-party involvement and consequently mitigating the risks associated with counterparty front-running.
+- Within our protocol, 50% of the ETH collected from daily auctions and 90% of the recycled ETH from each daily cycle are utilized to purchase XNF directly from the market via the WETH-XNF pair on Uniswap v3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This practice ensures the integrity of the buyback and burn procedures, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -834,17 +834,17 @@ Xenify has taken a monumental step forward by integrating Uniswap V3 pools. This
 
 ## 🌊 Initial Liquidity Cycle
 
-To jumpstart a thriving ecosystem that allows our community to trade XNF immediately upon launch, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity. Upon completion of this initial phase, our protocol will establish the XNF-WETH trading pair using this allocated XNF. The protocol will utilise the majority of the fees collected from the first day's activities, encompassing swap fees, native fees, and burn fees, to form an XNF-WETH V3 liquidity pool at the end of the cycle.
+To jumpstart a thriving ecosystem that allows our community to trade XNF immediately upon launch, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity. Upon completion of this initial phase, our protocol will establish the WETH-XNF trading pair using this allocated XNF. The protocol will utilise the majority of the fees collected from the first day's activities, encompassing swap fees, native fees, and burn fees, to form an WETH-XNF V3 liquidity pool at the end of the cycle.
 
-The initial price for the XNF-WETH pair is set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. However, if the ETH acquired from fees during the initial cycle increases significantly, the initial price will rise above $1.00. On the other hand, if the ETH acquired during the initial cycle does not reach the minimum value of $100k at deployment, the initial price will be adjusted to match its pairing with 100k XNF, potentially setting the starting price below $1.00.
+The initial price for the WETH-XNF pair is set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. However, if the ETH acquired from fees during the initial cycle increases significantly, the initial price will rise above $1.00. On the other hand, if the ETH acquired during the initial cycle does not reach the minimum value of $100k at deployment, the initial price will be adjusted to match its pairing with 100k XNF, potentially setting the starting price below $1.00.
 
-Please be aware that liquidity providers will not be able to add liquidity to the XNF-WETH 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the XNF-WETH pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
+Please be aware that liquidity providers will not be able to add liquidity to the WETH-XNF 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the WETH-XNF pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Subsequent Liquidity Cycles
 
-Our protocol is designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support ETH liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilised for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the XNF-WETH liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
+Our protocol is designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support ETH liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilised for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the WETH-XNF liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
