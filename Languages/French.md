@@ -57,7 +57,7 @@ Dayana Plaz - Co-fondateur - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 
 <br>
 
-Pour ceux qui disposent de peu de temps, cette section donne un aperçu des principaux « Burn-A-Mentals » qui animent la vision de Xenify et la distinguent des autres plates-formes. Vous découvrirez comment Xenify génère un approvisionnement en liquidités inégalé pour les détenteurs de XNF, récompense les utilisateurs pour l'échange et la gravure de jetons, et intègre un mécanisme quotidien de rachat et de gravure pour renforcer la valeur tout en réduisant l'offre en circulation de XNF.
+Pour ceux qui disposent de peu de temps, cette section donne un aperçu des principaux « Burn-A-Mentals » qui animent la vision de Xenify et la distinguent des autres plates-formes. Vous découvrirez comment Xenify génère un approvisionnement en liquidité WETH inégalé pour les détenteurs de XNF, récompense les utilisateurs pour l'échange et la gravure de jetons, et intègre un mécanisme quotidien de rachat et de gravure pour renforcer la valeur tout en réduisant l'offre en circulation de XNF.
 
 Vous découvrirez également le modèle de distribution de jetons équitable et transparent de Xenify, sans allocation à l'équipe, aux fondateurs ou aux investisseurs. De plus, la structure d'incitation unique de Xenify, basée sur la théorie des jeux, cultive une boucle de rétroaction positive d'engagement et de participation continus.
 
@@ -118,42 +118,30 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🌊 Liquidité XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40 % des ETH collectés lors des enchères quotidiennes seront dirigés vers l'approvisionnement en liquidités appartenant au protocole XNF-WETH.
-
-- 90 % de l'ETH recyclé tout au long de chaque cycle quotidien sera alloué à l'approvisionnement en liquidités appartenant au protocole XNF-WETH.
-
-- Le protocole est configuré pour utiliser Uniswap V3 pour ses fonctions d'approvisionnement en liquidité. De plus, toutes les liquidités du côté XNF proviennent de rachats et restent verrouillées dans le protocole, garantissant un appariement complet. Pour lancer la paire de trading XNF-WETH, le protocole allouera 100 000 XNF, établissant un prix initial de 1,00 $. Ce prix est susceptible d'être ajusté par le protocole en fonction du montant d'ETH collecté lors du cycle initial.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 Brûlure de liquidité XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Le protocole acquiert XNF pour l'approvisionnement en liquidité XNF-WETH chaque fois qu'un utilisateur participe aux enchères quotidiennes ou recycle son ETH. À mesure que le prix augmente, seule une partie du XNF acquis sera associée au WETH restant dans un couplage complet sur Uniswap V3.
-
-- Le XNF non apparié est automatiquement brûlé, ce qui entraîne une suppression cohérente du XNF de l'offre en circulation lorsque les utilisateurs participent aux enchères quotidiennes ou recyclent leurs récompenses ETH. Cette gravure automatisée créera intrinsèquement encore plus de rareté pour XNF au fil du temps.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 Rachat et brûlage de XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- 10 % des ETH collectés lors des enchères quotidiennes seront utilisés pour acheter du XNF, 100 % des XNF acquis étant brûlés.
+- 50 % des ETH collectés lors des enchères quotidiennes seront utilisés pour acheter du XNF hors du marché via la paire WETH-XNF sur Uniswap V3, 100 % du XNF acquis étant brûlé.
 
-- 20 % des ETH collectés lors des enchères quotidiennes seront automatiquement utilisés pour acquérir du XNF, qui sera ensuite ajouté au pool de liquidité complet XNF-WETH du protocole sur Uniswap V3.
+- 90 % de l'ETH recyclé tout au long de chaque cycle quotidien sera utilisé pour acheter du XNF sur le marché via la paire WETH-XNF sur Uniswap, 100 % du XNF acquis étant brûlé.
 
-- 45 % de l'ETH recyclé sera automatiquement utilisé pour acquérir du XNF, qui sera ensuite ajouté au pool de liquidité complet XNF-WETH du protocole sur Uniswap V3.
+- Les mécanismes de gravure au sein de notre protocole sont méticuleusement conçus pour s'exécuter de manière immuable et automatique après chaque vente aux enchères quotidienne ou participation au recyclage, annulant ainsi le risque de contrepartie et atténuant les problèmes potentiels de front-running qui pourraient survenir si un tiers était tenu d'initier le rachat et processus de gravure.
+
+<br>
+
+![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Liquidité du protocole XNF
+![Diviseur de ligne - Rempli](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Le protocole devrait initialement exploiter Uniswap V3 pour son approvisionnement en liquidités. Pour lancer la paire de trading WETH-XNF, il allouera 100 000 XNF, établissant ainsi un prix initial de 1,00 $ par XNF. Il est important de noter que ce prix peut être ajusté par le protocole, en fonction de la quantité d'ETH collectée lors du cycle initial. Suite à cela, un appariement complet sera créé au niveau de frais de 1 %.
+
+- Le protocole est également conçu pour assurer la croissance perpétuelle de la liquidité appartenant au protocole ETH à chaque cycle ultérieur. À partir du deuxième cycle, l’ETH obtenu quotidiennement grâce aux frais de brûlage, aux frais natifs, aux frais de swap et aux activités de recyclage sera utilisé pour soutenir la prolifération des liquidités XNF. Dans ce cadre, 100 % de l’ETH est utilisé pour acheter et brûler du XNF sur le marché. Simultanément, le montant équivalent de WETH, qui a été utilisé pour le rachat et la gravure de XNF, est alloué au pool appartenant au protocole. Cette action entraîne une augmentation significative du WETH au sein du pool de liquidité WETH-XNF, garantissant une couverture complète sur l'ensemble de la gamme appartenant au protocole.
+
+- Veuillez noter que les fournisseurs de liquidité ne pourront pas ajouter de liquidité au niveau de frais WETH-XNF de 1 %. De plus, il est important de noter que seul le protocole lui-même a la capacité d'effectuer des achats à partir de ses propres liquidités dans le pool WETH-XNF. Les détenteurs de XNF ne peuvent exécuter des transactions de vente que via le site Xenify ou directement via le contrat de recyclage.
 
 <br>
 
@@ -396,39 +384,47 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 ## ✨ Verrouillage des jetons XNF
 
-- Xenify introduit un système de récompenses dynamique qui offre des avantages significatifs aux détenteurs de XNF. En verrouillant les jetons XNF, les utilisateurs deviennent éligibles pour recevoir un pourcentage impressionnant de 40 % des frais de combustion et des frais d'échange générés sur les chaînes prises en charge, chaque jour.
+- Xenify introduit un mécanisme de récompense dynamique qui offre des avantages significatifs aux détenteurs de XNF. En verrouillant les jetons XNF, les utilisateurs deviennent éligibles pour recevoir chaque jour un impressionnant 40 % des frais d'enchères quotidiens générés sur les chaînes prises en charge.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Recycling Native Rewards
+## ✨ Brûler des jetons XNF
+
+- Dans le cadre de notre protocole, 50 % des ETH collectés lors des enchères quotidiennes et 90 % des ETH recyclés de chaque cycle quotidien sont utilisés pour acheter du XNF directement sur le marché via la paire WETH-XNF sur Uniswap V3. Par la suite, 100 % des XNF acquis sont immédiatement et irrévocablement brûlés selon un processus immuable. Cette pratique garantit l’intégrité des procédures de rachat et de brûlage, évitant ainsi la nécessité de l’intervention de tiers et atténuant ainsi les risques associés à la priorité des contreparties.
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Distribution XNF équitable
+
+- Xenify se consacre à promouvoir l'équité et la transparence dans la répartition des capitaux propres entre ses utilisateurs. Notre modèle unique de tokenomics et de verrouillage est conçu pour récompenser les participants actifs et les détenteurs à long terme, créant ainsi une forte incitation pour les utilisateurs à contribuer à la croissance de notre écosystème. À mesure que notre communauté continue de croître, la répartition équitable des récompenses et des jetons XNF garantit que tout le monde en profite, favorisant ainsi une communauté dynamique et engagée. L'engagement de Xenify en faveur de la justice et de l'équité favorise la confiance au sein de l'écosystème, favorisant un environnement durable et inclusif pour tous les participants.
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Enchères quotidiennes de gravure
+
+- Dans les enchères de gravure quotidiennes hébergées sur Arbitrum, les utilisateurs ont la possibilité de graver de 1 à 10 000 lots. Un seul lot de gravure YSL représente 0,1 YSL, tandis qu'un lot de gravure vXEN correspond à 10 000 000 vXEN. Des frais natifs de 0,01 ETH sont appliqués par lot dans les enchères Burn et ETH.
+
+- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25 % de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25 % restants en fonction de leurs lots de gravure respectifs.
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Échange entre chaînes
+
+- Xenify est la solution ultime pour l'échange entre chaînes, vous permettant d'échanger des jetons sur 52 chaînes différentes avec facilité et efficacité. Notre approche rationalisée offre un nouveau niveau de simplicité et donne accès à 28 agrégateurs, vous garantissant ainsi d'avoir toujours accès à la meilleure liquidité et aux meilleurs taux pour vos swaps.
+
+- Mais voici le meilleur : l'un des avantages uniques de l'utilisation de Xenify est que vous gagnez du veXNF chaque fois que vous payez les frais de swap de 0,5 % sur les chaînes où XNF est déployé. Cela signifie que vous bénéficiez non seulement d'échanges de jetons transparents, mais que vous accumulez également XNF, le jeton natif de Xenify.
+
+- Et les récompenses continuent d'arriver ! Détenir veXNF vous donne droit à des récompenses quotidiennes supplémentaires telles que ETH, BNB et MATIC, basées sur les frais de gravure et les frais de swap générés au cours de chaque cycle. Xenify ne simplifie pas seulement le processus d'échange ; c'est le transformer. Nous vous offrons non seulement une efficacité ultime et des tarifs leaders sur le marché, mais également une expérience d'échange vraiment enrichissante.
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Recyclage des récompenses natives
 
 - Le recyclage de vos récompenses en chaîne natives offre un large éventail d'avantages et constitue une décision stratégique à considérer. En choisissant de recycler vos récompenses, vous évitez non seulement les frais de réclamation de 25 %, mais vous débloquez également la possibilité de participer au cycle de gravure sans fournir de jetons natifs supplémentaires pour couvrir les frais de gravure obligatoires. Contrairement au processus de gravure normal, notre protocole déduit de manière unique les frais de gravure de vos récompenses recyclées, permettant ainsi une participation gratuite.
 
 - Le recyclage offre également une passerelle vers une distribution exclusive de récompenses générées par les frais de réclamation de 25 % lorsque vous choisissez de recycler pendant la première heure d'un cycle. Mais voici le meilleur : lorsque vous recyclez, vos récompenses contribuent grandement à fortifier notre écosystème. Votre contribution augmentera non seulement les récompenses pour les détenteurs de veXNF, mais stimulera également la prolifération des liquidités appartenant au protocole XNF et soutiendra les efforts opérationnels de notre équipe. Il s'agit d'une décision stratégique qui renforce Xenify de l'intérieur.
 
 - En un mot, le recyclage n'améliore pas seulement votre position XNF grâce à une gravure gratuite. Il débloque également un accès exclusif à des récompenses et contribue activement à la croissance de Xenify. Cela crée une situation gagnant-gagnant dans laquelle vos contributions sont récompensées et le protocole progresse, créant un écosystème prospère pour tous les participants.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Token Burning
-
-- Xenify permet aux utilisateurs de brûler sans effort leurs jetons vXEN ou YSL directement à partir de leurs portefeuilles pour participer à la vente aux enchères quotidienne. Ce mécanisme de combustion va au-delà de la simple réduction de l'offre de jetons XEN et YSL en circulation ; il incarne une approche stratégique qui unit la communauté YSL et les communautés XEN plus larges à travers toutes les chaînes, favorisant une vision commune qui unifie les deux écosystèmes.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Cross-Chain Swapping
-
-- Xenify est la solution ultime pour l'échange entre chaînes, vous permettant d'échanger des jetons sur 52 chaînes différentes avec facilité et efficacité. Notre approche rationalisée offre un nouveau niveau de simplicité et donne accès à 28 agrégateurs, ce qui vous assure de toujours avoir accès à la meilleure liquidité et aux meilleurs taux pour vos swaps.
-
-- Mais voici le meilleur : L'un des avantages uniques de l'utilisation de Xenify est que vous gagnez du veXNF chaque fois que vous payez les frais d'échange de 0,5 % sur les chaînes où le XNF est déployé. Cela signifie que vous ne profitez pas seulement d'échanges de jetons transparents, mais que vous accumulez également du XNF, le jeton natif de Xenify.
-
-- Et les récompenses ne cessent d'arriver ! Détenir le veXNF vous donne droit à des récompenses quotidiennes supplémentaires telles que ETH, BNB et MATIC, basées sur les frais de combustion et les frais d'échange générés au cours de chaque cycle. Xenify ne se contente pas de simplifier le processus d'échange, il le transforme. Nous vous offrons non seulement l'efficacité ultime et les meilleurs taux du marché, mais aussi une expérience de swap vraiment gratifiante.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Répartition équitable des fonds propres
-
-- Xenify se consacre à la promotion de l'équité et de la transparence dans la distribution des fonds propres parmi ses utilisateurs. Notre modèle unique de tokenomics et de verrouillage est conçu pour récompenser les participants actifs et les détenteurs à long terme, créant ainsi une forte incitation pour les utilisateurs à contribuer à la croissance de notre écosystème. Au fur et à mesure que notre communauté grandit, la distribution équitable des récompenses et des jetons XNF garantit que tout le monde en profite, ce qui favorise une communauté dynamique et engagée. L'engagement de Xenify en faveur de la justice et de l'équité favorise la confiance au sein de l'écosystème, promouvant un environnement durable et inclusif pour tous les participants.
 
 <br>
 
@@ -838,15 +834,17 @@ Xenify a fait un pas en avant monumental en intégrant les pools Uniswap V3. Cet
 
 ## 🌊 Cycle de liquidité initial
 
-Pour relancer un écosystème florissant qui permet à notre communauté d'échanger XNF immédiatement après son lancement, 100 000 XNF seront mis de côté pour amorcer les liquidités appartenant au protocole. Une fois cette phase initiale terminée, notre protocole établira la paire de trading XNF-WETH en utilisant ce XNF alloué. Le protocole utilisera la majorité des frais collectés lors des activités du premier jour, y compris les frais de swap, les frais natifs et les frais de gravure, pour former un pool de liquidité XNF-WETH V3 à la fin du cycle.
+Pour relancer un écosystème florissant qui permet à notre communauté d'échanger XNF immédiatement après son lancement, 100 000 XNF seront mis de côté pour amorcer les liquidités appartenant au protocole. À l'issue de cette phase initiale, notre protocole établira la paire de trading WETH-XNF en utilisant ce XNF alloué. Le protocole utilisera la majorité des frais collectés lors des activités du premier jour, y compris les frais de swap, les frais natifs et les frais de gravure, pour former un pool de liquidité WETH-XNF V3 à la fin du cycle.
 
-Le prix initial de la paire XNF-WETH est fixé à 1,00 $, garantissant une répartition égale de l'ETH et du XNF sur l'ensemble de la gamme. Cependant, si l’ETH acquis grâce aux frais au cours du cycle initial augmente de manière significative, le prix initial dépassera 1,00 $. D'autre part, si l'ETH acquis au cours du cycle initial n'atteint pas la valeur minimale de 100 000 $ lors du déploiement, le prix initial sera ajusté pour correspondre à son appariement avec 100 000 XNF, fixant potentiellement le prix de départ en dessous de 1,00 $.
+Le prix initial de la paire WETH-XNF est fixé à 1,00 $, garantissant une répartition égale de l'ETH et du XNF sur l'ensemble de la gamme. Cependant, si l’ETH acquis grâce aux frais au cours du cycle initial augmente de manière significative, le prix initial dépassera 1,00 $. D'autre part, si l'ETH acquis au cours du cycle initial n'atteint pas la valeur minimale de 100 000 $ lors du déploiement, le prix initial sera ajusté pour correspondre à son appariement avec 100 000 XNF, fixant potentiellement le prix de départ en dessous de 1,00 $.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Veuillez noter que les fournisseurs de liquidité ne pourront pas ajouter de liquidité au niveau de frais WETH-XNF de 1 %. De plus, il est important de noter que seul le protocole lui-même a la capacité d'effectuer des achats à partir de ses propres liquidités dans le pool WETH-XNF. Les détenteurs de XNF ne peuvent exécuter des transactions de vente que via le site Xenify ou directement via le contrat de recyclage.
+
+![Gris V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Cycles de liquidité ultérieurs
 
-Notre protocole est conçu pour assurer la croissance perpétuelle des liquidités appartenant au protocole XNF à chaque cycle ultérieur. À partir du deuxième cycle, l’ETH obtenu quotidiennement grâce aux frais de brûlage, aux frais natifs, aux frais de swap et aux activités de recyclage sera utilisé pour soutenir la prolifération des liquidités XNF. Dans ce cadre, 50 % de l'ETH est utilisé pour acheter du XNF sur le marché, et le XNF acquis est associé au reste de l'ETH et ajouté en tant que liquidité XNF-WETH dans toute sa gamme. Il est important de noter que, quel que soit le cycle, des frais de négociation constants de 1 % sont appliqués à toutes les transactions au sein de ce pool de liquidité appartenant au protocole.
+Notre protocole est conçu pour assurer la croissance perpétuelle de la liquidité appartenant au protocole ETH à chaque cycle ultérieur. À partir du deuxième cycle, les ETH obtenus quotidiennement grâce aux frais de brûlage, aux frais natifs, aux frais de swap et aux activités de recyclage seront utilisés pour soutenir la prolifération de la liquidité des ETH. Dans ce cadre, 100 % de l’ETH est utilisé pour acheter et brûler du XNF sur le marché. Simultanément, le montant équivalent de WETH, qui a été utilisé pour le rachat et la gravure de XNF, est alloué au pool appartenant au protocole. Cette action entraîne une augmentation significative du WETH au sein du pool de liquidité WETH-XNF, garantissant une couverture complète sur l'ensemble de la gamme appartenant au protocole.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +868,7 @@ Le processus de frappe de XNF au sein de Xenify a été méticuleusement structu
 
 La distribution des jetons XNF suit des cycles d'une journée, commençant avec un pool de récompense de 20 000 jetons XNF. Cette allocation quotidienne est divisée en quatre parties : 25 % sont distribués aux utilisateurs qui brûlent des vXEN, 25 % sont distribués aux utilisateurs qui brûlent des YSL, 25 % sont distribués aux contributeurs de jetons natifs, et les 25 % restants sont distribués parmi les contributeurs de frais d'échange de la plateforme. Cette répartition quotidienne s'étendra également à toutes les autres chaînes de déploiement futures. Grâce à la mise en œuvre d'un modèle de réduction de moitié, la quantité de monnaie frappée quotidiennement diminue progressivement, pour aboutir à la distribution complète des 22,6 millions de jetons XNF au mois 2461.
 
-Les utilisateurs sont également encouragés par le mécanisme de verrouillage du protocole, qui leur permet d'accumuler des récompenses sous la forme de jetons natifs spécifiques à la chaîne, tels que l'ETH sur Arbitrum. Ces récompenses sont générées par diverses activités au sein de Xenify, en particulier les frais d'échange et les frais de combustion. Notre modèle unique d'incitation à trois niveaux encourage les utilisateurs à utiliser Xenify pour gagner des XNF, tout en récompensant ceux qui verrouillent leurs jetons XNF pour gagner des récompenses natives. Cela fonctionne comme un volant d'inertie, propulsant la croissance à long terme de Xenify tout en cultivant un système de récompense dynamique et durable qui incite une base d'utilisateurs toujours plus grande.
+Les utilisateurs sont en outre incités par le mécanisme de verrouillage du protocole, qui leur permet d'accumuler des récompenses sous la forme de jetons natifs spécifiques à la chaîne, tels que l'ETH sur Arbitrum. Ces récompenses sont générées par diverses activités au sein de Xenify, notamment par les frais de gravure, les frais de swap et les frais natifs. Notre modèle d'incitation unique à trois niveaux incite les utilisateurs à utiliser Xenify pour gagner des XNF, tout en récompensant ceux qui verrouillent leurs jetons XNF pour gagner des récompenses natives. Cela fonctionne comme un volant d'inertie, propulsant la croissance à long terme de Xenify tout en cultivant un système de récompense dynamique et durable qui encourage une base d'utilisateurs toujours croissante.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1443,8 +1441,8 @@ En plus des récompenses générées par les frais de combustion et les frais d'
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ab901c53-52cc-43e7-ad46-cc269ee54b07" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/cbb95ac0-bc0c-41f4-bbb2-0a5e3a55a379" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a0fa6cc9-fb56-4d31-a8da-37526359df7c" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1b87b409-ef9a-4b0f-861c-6bf8a23c8083" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1662,14 +1660,10 @@ Nous comprenons que vous puissiez avoir des questions sur Xenify, ses fonctionna
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Si j'opte pour le blocage de mon XNF, comment la prolongation fréquente d'un blocage minimum de 7 jours se compare-t-elle à un blocage continu d'un an ?
-- Si vous choisissez de bloquer votre fonds XNF pour une durée minimale de 7 jours et que vous prolongez ensuite cette durée quotidiennement de manière répétée, votre veXNF sera moins rentable que s'il était bloqué de manière continue pendant 1 an.
+## ◽️ Si je choisis de verrouiller mon XNF, comment la prolongation fréquente d'un verrouillage minimum de 7 jours se compare-t-elle à un verrouillage continu d'un an ?
+- Choisir de verrouiller votre XNF pendant au moins 7 jours, puis de le prolonger quotidiennement à plusieurs reprises, entraîne une capacité de gain inférieure pour votre veXNF par rapport à un verrouillage continu pendant 1 an. Par exemple, si vous et un autre utilisateur verrouillez le même montant XNF, mais que vous utilisez des extensions d'au moins 7 jours et qu'ils effectuent un verrouillage d'un an, votre veXNF aura beaucoup moins de pouvoir de gain sur l'année - environ 52 fois moins.
 
-- Par exemple, si vous et un autre utilisateur bloquez le même montant de XNF, mais que vous utilisez des extensions minimales de 7 jours et qu'il bloque pour 1 an, votre veXNF aura une capacité de gain nettement inférieure au cours de l'année - environ 52 fois moins.
-
-- En effet, la puissance initiale de votre veXNF dépend de la durée du blocage. En bloquant 1000 XNF pendant 1 an, on obtient 1000 veXNF avec un calendrier de désintégration de 60 jours. Un blocage de 6 mois donne 500 veXNF. Plus la durée de blocage est longue, plus la puissance initiale du veXNF est élevée. N'oubliez pas que la puissance du veXNF diminue avec le temps, en particulier avec les verrous de 7 jours minimum qui ont un calendrier de décroissance rapide de 1,15 jour contre 60 jours pour un verrou d'un an.
-
-- En résumé, la prolongation fréquente de courtes périodes de blocage d'une durée minimale de 7 jours offre une capacité de gain nettement inférieure à celle de périodes de blocage continues d'une durée d'un an pour le même montant de XNF, en raison de la différence entre la capacité initiale de veXNF et les taux de décroissance.
+- En effet, la puissance initiale de votre veXNF dépend de la durée du verrouillage. Verrouiller 1 000 XNF pendant 1 an donne 1 000 veXNF avec un calendrier de décroissance de 60 jours. Un verrouillage de 6 mois rapporte 500 veXNF. Plus de temps verrouillé en continu équivaut à plus de puissance veXNF initiale. Gardez à l'esprit que la puissance de veXNF diminue avec le temps, en particulier avec les verrous d'une durée minimale de 7 jours qui ont un calendrier de décroissance rapide de 1,15 jours contre 60 jours pour un verrou d'un an. En résumé, l'extension fréquente de verrous courts minimum de 7 jours fournit une puissance de gain nettement inférieure à celle des verrous continus plus longs d'un an pour le même montant XNF en raison de la différence de puissance veXNF initiale et des taux de décroissance.
 
 <br>
 
