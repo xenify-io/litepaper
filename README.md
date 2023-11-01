@@ -127,7 +127,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF, with 100% of the acquired XNF being burned.
 
-- These burning mechanisms operate immutably after each daily auction or recycling participation, eliminating counterparty risk associated with relying on a third party to initiate the buyback and burn processes.
+- The burning mechanisms within our protocol are meticulously crafted to execute immutably and automatically after each daily auction or recycling participation, thereby nullifying the counterparty risk and mitigating potential issues of front-running that could arise if a third party were required to initiate the buyback and burn processes.
 
 <br>
 
@@ -390,7 +390,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Burning XNF Tokens
 
-- Within our protocol, 50% of the ETH amassed from daily auctions and 90% of the recycled ETH from each daily cycle are strategically utilized to purchase XNF, followed by the immediate and immutable burning of 100% of the acquired XNF, ensuring the integrity of the buyback and burn processes without the need for third-party intervention and thereby mitigating counterparty risk.
+- Within our protocol, 50% of the ETH collected from daily auctions and 90% of the recycled ETH from each daily cycle are strategically deployed to purchase XNF. Following this, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This guarantees the integrity of the buyback and burn procedures, eliminating the necessity for third-party involvement and consequently mitigating the risks associated with counterparty front-running.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
