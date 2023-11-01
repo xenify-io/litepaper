@@ -118,47 +118,35 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🌊 XNF Liquidity
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40% of the ETH collected from the daily auctions will be directed towards XNF-WETH protocol-owned liquidity provisioning.
-
-- 90% of the recycled ETH throughout each daily cycle will be allocated towards XNF-WETH protocol-owned liquidity provisioning.
-
-- The protocol is configured to utilise Uniswap V3 for its liquidity provisioning functions. In addition, all liquidity on the XNF side is sourced from buybacks and remains locked within the protocol, ensuring a full-range pairing. To initiate the XNF-WETH trading pair, the protocol will allocate 100,000 XNF, establishing an initial price of $1.00. This price is subject to adjustment by the protocol depending on the amount of ETH collected in the initial cycle.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 XNF Liquidity Burn
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- The protocol acquires XNF for XNF-WETH liquidity provisioning whenever a user participates in the daily auctions or recycles their ETH. As the price increases, only a portion of the acquired XNF will be paired with the remaining WETH in a full-range pairing on Uniswap V3.
-
-- Unpaired XNF is automatically burned, leading to a consistent removal of XNF from the circulating supply when users engage in the daily auctions or recycle their ETH rewards. This automated burning will inherently create even more scarcity for XNF over time.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 XNF Buyback & Burn
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- 10% of the ETH collected from the daily auctions will be used to purchase XNF, with 100% of the acquired XNF being burned.
+- 50% of the ETH collected from the daily auctions will be used to purchase XNF, with 100% of the acquired XNF being burned.
 
-- 20% of the ETH collected from the daily auctions will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
+- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF, with 100% of the acquired XNF being burned.
 
-- 45% of the recycled ETH will be automatically used to acquire XNF, which will then be added to the protocol’s full-range XNF-WETH liquidity pool on Uniswap V3.
+- These burning mechanisms operate immutably after each daily auction or recycling participation, eliminating counterparty risk associated with relying on a third party to initiate the buyback and burn processes.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 XNF Genesis Airdrop
+# 🌊 XNF Protocol Liquidity
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- The protocol is set to initially leverage Uniswap V3 for its liquidity provisioning. To launch the XNF-WETH trading pair, it will allocate 100,000 XNF, thereby establishing an initial price of $1.00 per XNF. It is important to note that this price may be adjusted by the protocol, depending on the amount of ETH collected during the initial cycle. Following this, a full-range pairing will be created on the 1% fee tier.
+
+- The protocol is also designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilized for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the XNF-WETH liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
+
+- Please be aware that liquidity providers will not be able to add liquidity to the XNF-WETH 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the XNF-WETH pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 💸 XNF Genesis Airdrops
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -205,7 +193,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- XNF holders can freely sell their XNF through our protocol-owned liquidity pool or any community-established pools. However, purchasing XNF from our protocol-owned liquidity pool is restricted - making our daily auctions the primary avenue for acquiring a substantial amount of XNF. This means that every time a user or an arbitrage bot sells XNF via our protocol-owned liquidity pool, the tokens are permanently removed from circulation, creating a “black hole” effect that increases XNF scarcity.
+- XNF holders can freely sell their XNF through our protocol-owned liquidity pool or any community-established pools. However, purchasing XNF from our protocol-owned liquidity pool is restricted - making our daily auctions the primary avenue for acquiring a substantial amount of XNF. This means that every time a user or an arbitrage bot sells XNF via our protocol-owned liquidity pool, the tokens are permanently removed from circulation, creating a “black hole” effect that increases XNF scarcity. 
 
 - This carefully devised mechanism also serves to safeguard the initial liquidity deployment against potential exploitation by speculators and liquidity snipers, solidifying the integrity of our ecosystem from the outset. It's worth mentioning that while users retain the ability to contribute liquidity to the protocol-owned pool, opting to do so will require a manual withdrawal from the recycling contract.
 
@@ -249,7 +237,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 - Immutable Code
 - Daily ETH Rewards
 - Cross-chain XEN Burning
-- Automated XNF Liquidity
+- Automated ETH Exit Liquidity
 - Automated XNF Buyback & Burn
 
 <br>
@@ -396,23 +384,27 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Locking XNF Tokens
 
-- Xenify introduces a dynamic rewards system that offers significant advantages to XNF holders. By locking XNF tokens, users become eligible to receive an impressive 40% of burn fees and swap fees generated on supported chains, every single day.
+- Xenify introduces a dynamic rewards mechanism that offers significant advantages to XNF holders. By locking XNF tokens, users become eligible to receive an impressive 40% of daily auction fees generated on supported chains, every single day.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Recycling Native Rewards
+## ✨ Burning XNF Tokens
 
-  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
-
-  - Recycling also provides a gateway to an exclusive distribution of rewards generated from the 25% claim fee when you opt to recycle during the first hour of a cycle. But here’s the best part, when you recycle, your rewards go a long way in fortifying our ecosystem. Your contribution will not only boost rewards for veXNF holders, but also stimulates the proliferation of XNF protocol-owned liquidity, and supports our team's operational efforts. It's a strategic move that strengthens Xenify from the inside out.
-
-  - In a nutshell, recycling doesn’t only enhance your XNF position through fee-free burning. It also unlocks exclusive access to rewards and actively contributes to the growth of Xenify. This forges a win-win situation where your contributions are rewarded, and the protocol advances, creating a thriving ecosystem for all participants.
+- Within our protocol, 50% of the ETH amassed from daily auctions and 90% of the recycled ETH from each daily cycle are strategically utilized to purchase XNF, followed by the immediate and immutable burning of 100% of the acquired XNF, ensuring the integrity of the buyback and burn processes without the need for third-party intervention and thereby mitigating counterparty risk.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Token Burning
+## ✨ Fair XNF Distribution
 
-- Xenify empowers users to effortlessly burn their vXEN or YSL tokens directly from their wallets to participate in the daily burn auction. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unites the YSL community and the broader XEN communities across all chains, fostering a shared vision that unifies both ecosystems.
+- Xenify is dedicated to promoting fairness and transparency in the distribution of equity among its users. Our unique tokenomics and locking model are designed to reward active participants and long-term holders, creating a strong incentive for users to contribute to the growth of our ecosystem. As our community continues to grow, the equitable distribution of rewards and XNF tokens ensures that everyone benefits, promoting a vibrant and engaged community. Xenify's commitment to fairness and equity fosters trust within the ecosystem, promoting a sustainable and inclusive environment for all participants.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Daily Burn Auctions
+
+- In the daily burn auctions hosted on Arbitrum, users have the option to burn anywhere from 1 to 10,000 batches. A single YSL burn batch represents 0.1 YSL, while a vXEN burn batch corresponds to 10,000,000 vXEN. A native fee of 0.01 ETH is applied per batch in both burn and ETH auctions.
+
+- Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -426,9 +418,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Fair Equity Distribution
+## ✨ Recycling Native Rewards
 
-- Xenify is dedicated to promoting fairness and transparency in the distribution of equity among its users. Our unique tokenomics and locking model are designed to reward active participants and long-term holders, creating a strong incentive for users to contribute to the growth of our ecosystem. As our community continues to grow, the equitable distribution of rewards and XNF tokens ensures that everyone benefits, promoting a vibrant and engaged community. Xenify's commitment to fairness and equity fosters trust within the ecosystem, promoting a sustainable and inclusive environment for all participants.
+  - Recycling your native chain rewards offers a wide range of benefits and is a strategic decision to consider. By choosing to recycle your rewards, you not only bypass the 25% claim fee, but also unlock the ability to participate in the burn cycle without providing additional native tokens to cover the mandatory burn fee. Unlike the normal burn process, our protocol uniquely deducts the burn fee from your recycled rewards, enabling fee-free participation. 
+
+  - Recycling also provides a gateway to an exclusive distribution of rewards generated from the 25% claim fee when you opt to recycle during the first hour of a cycle. But here’s the best part, when you recycle, your rewards go a long way in fortifying our ecosystem. Your contribution will not only boost rewards for veXNF holders, but also stimulates the proliferation of XNF protocol-owned liquidity, and supports our team's operational efforts. It's a strategic move that strengthens Xenify from the inside out.
+
+  - In a nutshell, recycling doesn’t only enhance your XNF position through fee-free burning. It also unlocks exclusive access to rewards and actively contributes to the growth of Xenify. This forges a win-win situation where your contributions are rewarded, and the protocol advances, creating a thriving ecosystem for all participants.
 
 <br>
 
@@ -842,11 +838,13 @@ To jumpstart a thriving ecosystem that allows our community to trade XNF immedia
 
 The initial price for the XNF-WETH pair is set at $1.00, ensuring an equal distribution of both ETH and XNF across the entire range. However, if the ETH acquired from fees during the initial cycle increases significantly, the initial price will rise above $1.00. On the other hand, if the ETH acquired during the initial cycle does not reach the minimum value of $100k at deployment, the initial price will be adjusted to match its pairing with 100k XNF, potentially setting the starting price below $1.00.
 
+Please be aware that liquidity providers will not be able to add liquidity to the XNF-WETH 1% fee tier. Additionally, it’s important to note that only the protocol itself has the capability to conduct purchases from its own liquidity in the XNF-WETH pool. XNF holders can only execute sell transactions either through the Xenify site or directly via the recycling contract.
+
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Subsequent Liquidity Cycles
 
-Our protocol is designed to ensure the perpetual growth of XNF protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support XNF liquidity proliferation. Within this framework, 50% of the ETH is used to market-buy XNF, and the acquired XNF is paired with the rest of the ETH and added as XNF-WETH liquidity at full range. It is important to note that, regardless of the cycle, a consistent 1% trading fee is applied to all transactions within this protocol-owned liquidity pool.
+Our protocol is designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support ETH liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilised for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the XNF-WETH liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +868,7 @@ The XNF minting process within Xenify has been meticulously structured to reward
 
 Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split four ways: 25% is distributed to users who burn vXEN, 25% is distributed to users who burn YSL, 25% is distributed to native token contributors, and the remaining 25% is distributed among the platform's swap fee contributors. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
 
-Users are further incentivised through the protocol's locking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on Arbitrum. These rewards are generated from various activities within Xenify, specifically from swap fees and burn fees. Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
+Users are further incentivised through the protocol's locking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on Arbitrum. These rewards are generated from various activities within Xenify, specifically from burn fees, swap fees and native fees. Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1663,13 +1661,9 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ If I opt to lock my XNF, how does frequently extending a 7-day minimum lock compare to a continuous 1-year lock?
-- Opting to lock your XNF for the minimum 7 days, then repeatedly extending it daily, results in lower earning power for your veXNF compared to locking continuously for 1 year.
+- Opting to lock your XNF for the minimum 7 days, then repeatedly extending it daily, results in lower earning power for your veXNF compared to locking continuously for 1 year. For example, if you and another user lock the same XNF amount, but you use 7-day minimum extensions and they do a 1-year lock, your veXNF would have significantly less earning power over the year - approximately 52 times less.
 
-- For example, if you and another user lock the same XNF amount, but you use 7-day minimum extensions and they do a 1-year lock, your veXNF would have significantly less earning power over the year - approximately 52 times less.
-
-- This is because the initial power of your veXNF depends on the lock duration. Locking 1000 XNF for 1 year yields 1000 veXNF with a decay schedule of 60 days. A 6-month lock yields 500 veXNF. More time locked continuously equals more initial veXNF power. Keep in mind, veXNF power decays over time, especially with minimum 7-day locks that have a rapid decay schedule of 1.15 days versus 60 days for a 1-year lock.
-
-- In summary, frequently extending short 7-day minimum locks provides substantially less earning power than longer continuous 1-year locks for the same XNF amount due to the difference in initial veXNF power and decay rates.
+- This is because the initial power of your veXNF depends on the lock duration. Locking 1000 XNF for 1 year yields 1000 veXNF with a decay schedule of 60 days. A 6-month lock yields 500 veXNF. More time locked continuously equals more initial veXNF power. Keep in mind, veXNF power decays over time, especially with minimum 7-day locks that have a rapid decay schedule of 1.15 days versus 60 days for a 1-year lock. In summary, frequently extending short 7-day minimum locks provides substantially less earning power than longer continuous 1-year locks for the same XNF amount due to the difference in initial veXNF power and decay rates.
 
 <br>
 
