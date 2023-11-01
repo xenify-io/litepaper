@@ -57,7 +57,7 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 
 <br>
 
-Đối với những người có thời gian ngắn, phần này cung cấp thông tin tổng quan về "Burn-A-Mentals" cốt lõi thúc đẩy tầm nhìn của Xenify và khiến nó trở nên khác biệt so với các nền tảng khác. Bạn sẽ tìm hiểu cách Xenify tạo ra khả năng cung cấp thanh khoản chưa từng có cho chủ sở hữu XNF, thưởng cho người dùng khi hoán đổi và đốt mã thông báo, đồng thời kết hợp cơ chế mua lại và đốt hàng ngày để tăng giá trị đồng thời giảm nguồn cung XNF lưu hành.
+Đối với những người có thời gian ngắn, phần này cung cấp thông tin tổng quan về "Burn-A-Mentals" cốt lõi thúc đẩy tầm nhìn của Xenify và khiến nó trở nên khác biệt so với các nền tảng khác. Bạn sẽ tìm hiểu cách Xenify tạo ra khả năng cung cấp thanh khoản WETH chưa từng có cho chủ sở hữu XNF, thưởng cho người dùng khi hoán đổi và đốt mã thông báo, đồng thời kết hợp cơ chế mua lại và đốt hàng ngày để tăng giá trị đồng thời giảm nguồn cung XNF lưu hành.
 
 Bạn cũng sẽ khám phá mô hình phân phối mã thông báo minh bạch và công bằng của Xenify, không phân bổ cho nhóm, người sáng lập hoặc nhà đầu tư. Ngoài ra, cấu trúc khuyến khích dựa trên lý thuyết trò chơi độc đáo của Xenify nhằm nuôi dưỡng vòng phản hồi tích cực về sự tương tác và tham gia liên tục.
 
@@ -118,42 +118,30 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🌊 Thanh khoản XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được hướng tới việc cung cấp thanh khoản thuộc sở hữu của giao thức XNF-WETH.
-
-- 90% ETH được tái chế trong mỗi chu kỳ hàng ngày sẽ được phân bổ để cung cấp thanh khoản thuộc sở hữu của giao thức XNF-WETH.
-
-- Giao thức được cấu hình để sử dụng Uniswap V3 cho các chức năng cung cấp thanh khoản. Ngoài ra, tất cả tính thanh khoản từ phía XNF đều có nguồn gốc từ hoạt động mua lại và vẫn bị khóa trong giao thức, đảm bảo sự ghép nối toàn diện. Để bắt đầu cặp giao dịch XNF-WETH, giao thức sẽ phân bổ 100.000 XNF, thiết lập mức giá ban đầu là 1,00 USD. Giá này có thể được điều chỉnh bởi giao thức tùy thuộc vào số lượng ETH thu được trong chu kỳ ban đầu.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 Đốt cháy thanh khoản XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Giao thức thu được XNF để cung cấp thanh khoản XNF-WETH bất cứ khi nào người dùng tham gia đấu giá hàng ngày hoặc tái chế ETH của họ. Khi giá tăng, chỉ một phần XNF thu được sẽ được ghép nối với WETH còn lại trong một ghép nối toàn dải trên Uniswap V3.
-
-- XNF chưa ghép nối sẽ tự động bị đốt cháy, dẫn đến việc loại bỏ XNF một cách nhất quán khỏi nguồn cung lưu thông khi người dùng tham gia vào các cuộc đấu giá hàng ngày hoặc tái chế phần thưởng ETH của họ. Việc ghi tự động này vốn sẽ tạo ra sự khan hiếm hơn nữa cho XNF theo thời gian.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 Mua lại và đốt XNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- 10% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được sử dụng để mua XNF, trong đó 100% XNF thu được sẽ bị đốt cháy.
+- 50% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được sử dụng để mua XNF ngoài thị trường thông qua cặp WETH-XNF trên Uniswap V3, với 100% XNF thu được sẽ bị đốt cháy.
 
-- 20% ETH thu được từ các cuộc đấu giá hàng ngày sẽ tự động được sử dụng để mua XNF, sau đó sẽ được thêm vào nhóm thanh khoản XNF-WETH toàn phạm vi của giao thức trên Uniswap V3.
+- 90% ETH được tái chế trong mỗi chu kỳ hàng ngày sẽ được sử dụng để mua XNF ngoài thị trường thông qua cặp WETH-XNF trên Uniswap, với 100% XNF thu được sẽ bị đốt cháy.
 
-- 45% ETH được tái chế sẽ tự động được sử dụng để thu được XNF, sau đó sẽ được thêm vào nhóm thanh khoản XNF-WETH toàn phạm vi của giao thức trên Uniswap V3.
+- Các cơ chế ghi trong giao thức của chúng tôi được chế tạo tỉ mỉ để thực thi bất biến và tự động sau mỗi lần đấu giá hàng ngày hoặc tham gia tái chế, từ đó vô hiệu hóa rủi ro đối tác và giảm thiểu các vấn đề tiềm ẩn của hoạt động chạy trước có thể phát sinh nếu bên thứ ba được yêu cầu bắt đầu mua lại và quá trình đốt cháy.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Thanh khoản giao thức XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Giao thức ban đầu được thiết lập để tận dụng Uniswap V3 để cung cấp thanh khoản. Để khởi động cặp giao dịch WETH-XNF, nó sẽ phân bổ 100.000 XNF, từ đó thiết lập mức giá ban đầu là 1,00 USD cho mỗi XNF. Điều quan trọng cần lưu ý là mức giá này có thể được điều chỉnh bởi giao thức, tùy thuộc vào số lượng ETH thu được trong chu kỳ ban đầu. Sau đó, việc ghép nối toàn dải sẽ được tạo ở mức phí 1%.
+
+- Giao thức cũng được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức ETH sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản XNF. Trong khuôn khổ này, 100% ETH được sử dụng để mua và đốt XNF trên thị trường. Đồng thời, lượng WETH tương đương, được sử dụng để mua lại và đốt XNF, được phân bổ cho nhóm thuộc sở hữu giao thức. Hành động này dẫn đến sự gia tăng đáng kể về WETH trong nhóm thanh khoản WETH-XNF, đảm bảo phạm vi bao phủ toàn diện trên toàn bộ phạm vi thuộc sở hữu của giao thức.
+
+- Xin lưu ý rằng các nhà cung cấp thanh khoản sẽ không thể thêm thanh khoản vào mức phí 1% WETH-XNF. Ngoài ra, điều quan trọng cần lưu ý là chỉ bản thân giao thức mới có khả năng tiến hành mua hàng từ tính thanh khoản của chính nó trong nhóm WETH-XNF. Chủ sở hữu XNF chỉ có thể thực hiện các giao dịch bán thông qua trang Xenify hoặc trực tiếp thông qua hợp đồng tái chế.
 
 <br>
 
@@ -249,7 +237,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 - Mã bất biến
 - Phần thưởng ETH hàng ngày
 - Đốt XEN chuỗi chéo
-- Thanh khoản XNF tự động
+- Thanh khoản thoát ETH tự động
 - Mua lại và đốt XNF tự động
 
 <br>
@@ -396,7 +384,37 @@ Xenify rất chú trọng đến vốn chủ sở hữu và đầu tư dài hạ
 
 ## ✨ Khóa XNF Token
 
-- Xenify giới thiệu hệ thống phần thưởng năng động mang lại lợi ích đáng kể cho chủ sở hữu XNF. Bằng cách khóa mã thông báo XNF, người dùng có đủ điều kiện nhận được 40% phí đốt ấn tượng và phí hoán đổi được tạo trên các chuỗi được hỗ trợ mỗi ngày.
+- Xenify giới thiệu cơ chế phần thưởng năng động mang lại lợi ích đáng kể cho chủ sở hữu XNF. Bằng cách khóa mã thông báo XNF, người dùng có đủ điều kiện nhận được 40% phí đấu giá hàng ngày ấn tượng được tạo trên các chuỗi được hỗ trợ mỗi ngày.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Đốt token XNF
+
+- Trong giao thức của chúng tôi, 50% ETH thu được từ các cuộc đấu giá hàng ngày và 90% ETH tái chế từ mỗi chu kỳ hàng ngày được sử dụng để mua XNF trực tiếp từ thị trường thông qua cặp WETH-XNF trên Uniswap V3. Sau đó, 100% XNF thu được sẽ bị đốt cháy ngay lập tức và không thể thu hồi thông qua một quy trình bất biến. Cách thực hành này đảm bảo tính toàn vẹn của quy trình mua lại và đốt, loại bỏ sự cần thiết của sự tham gia của bên thứ ba và do đó giảm thiểu rủi ro liên quan đến hoạt động ứng trước của đối tác.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Phân phối XNF công bằng
+
+- Xenify nỗ lực thúc đẩy sự công bằng và minh bạch trong việc phân phối vốn chủ sở hữu giữa những người dùng. Mô hình khóa và token độc đáo của chúng tôi được thiết kế để thưởng cho những người tham gia tích cực và những người nắm giữ lâu dài, tạo ra động lực mạnh mẽ để người dùng đóng góp vào sự phát triển của hệ sinh thái của chúng tôi. Khi cộng đồng của chúng tôi tiếp tục phát triển, việc phân phối phần thưởng và mã thông báo XNF một cách công bằng sẽ đảm bảo rằng mọi người đều được hưởng lợi, thúc đẩy một cộng đồng sôi động và gắn kết. Cam kết của Xenify về sự công bằng và bình đẳng thúc đẩy niềm tin trong hệ sinh thái, thúc đẩy một môi trường bền vững và hòa nhập cho tất cả những người tham gia.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Đấu giá đốt hàng ngày
+
+- Trong các phiên đấu giá ghi hàng ngày được tổ chức trên Arbitrum, người dùng có tùy chọn ghi ở bất kỳ đâu từ 1 đến 10.000 đợt. Một đợt ghi YSL tương ứng với 0,1 YSL, trong khi một đợt ghi vXEN tương ứng với 10.000.000 vXEN. Phí gốc 0,01 ETH được áp dụng cho mỗi đợt trong cả phiên đấu giá đốt và ETH.
+
+- Mỗi ngày, 50% nguồn cung XNF được phân phối cho những người tham gia đấu giá đốt hàng ngày. Việc phân bổ được phân bổ đồng đều giữa Phiên đấu giá ghi YSL và Phiên đấu giá ghi vXEN. Ví dụ: nếu chỉ đốt 1 lô YSL và 10.000 lô vXEN được đốt trong một chu kỳ nhất định, thì người dùng đốt một lô YSL sẽ nhận được toàn bộ 25% nguồn cung XNF hàng ngày, trong khi các trình ghi vXEN sẽ chia sẻ 25% còn lại dựa trên đợt đốt tương ứng của họ.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Hoán đổi chuỗi chéo
+
+- Xenify là giải pháp tối ưu cho việc hoán đổi chuỗi chéo, cho phép bạn trao đổi mã thông báo trên 52 chuỗi khác nhau một cách dễ dàng và hiệu quả. Cách tiếp cận hợp lý của chúng tôi mang lại mức độ đơn giản mới và cung cấp quyền truy cập vào 28 công cụ tổng hợp, đảm bảo bạn luôn có quyền truy cập vào thanh khoản và tỷ giá tốt nhất cho các giao dịch hoán đổi của mình.
+
+- Nhưng đây mới là phần hay nhất: Một trong những lợi ích độc đáo của việc sử dụng Xenify là bạn kiếm được veXNF mỗi khi bạn trả phí hoán đổi 0,5% trên các chuỗi nơi XNF được triển khai. Điều này có nghĩa là bạn không chỉ tận hưởng các giao dịch hoán đổi mã thông báo liền mạch mà còn tích lũy XNF, mã thông báo gốc của Xenify.
+
+- Và phần thưởng tiếp tục đến! Việc nắm giữ veXNF sẽ cho phép bạn nhận thêm các phần thưởng hàng ngày như ETH, BNB và MATIC, dựa trên phí ghi và phí hoán đổi được tạo trong mỗi chu kỳ. Xenify không chỉ đơn giản hóa quá trình trao đổi; nó đang biến đổi nó. Chúng tôi không chỉ mang đến cho bạn hiệu quả cao nhất và tỷ giá dẫn đầu thị trường mà còn mang lại trải nghiệm hoán đổi thực sự bổ ích.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -407,28 +425,6 @@ Xenify rất chú trọng đến vốn chủ sở hữu và đầu tư dài hạ
 - Tái chế cũng cung cấp một cánh cổng để phân phối độc quyền các phần thưởng được tạo ra từ phí yêu cầu 25% khi bạn chọn tái chế trong giờ đầu tiên của chu kỳ. Nhưng đây là phần hay nhất, khi bạn tái chế, phần thưởng của bạn sẽ góp phần củng cố hệ sinh thái của chúng ta một cách lâu dài. Đóng góp của bạn sẽ không chỉ tăng phần thưởng cho những người nắm giữ veXNF mà còn kích thích sự gia tăng tính thanh khoản do giao thức XNF sở hữu và hỗ trợ các nỗ lực hoạt động của nhóm chúng tôi. Đó là một động thái chiến lược nhằm củng cố Xenify từ trong ra ngoài.
 
 - Tóm lại, việc tái chế không chỉ nâng cao vị thế XNF của bạn thông qua việc đốt miễn phí. Nó cũng mở khóa quyền truy cập độc quyền vào các phần thưởng và đóng góp tích cực vào sự phát triển của Xenify. Điều này tạo nên một tình huống đôi bên cùng có lợi trong đó những đóng góp của bạn được khen thưởng và giao thức tiến bộ, tạo ra một hệ sinh thái thịnh vượng cho tất cả những người tham gia.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Đốt token
-
-- Xenify trao quyền cho người dùng dễ dàng đốt mã thông báo vXEN hoặc YSL trực tiếp từ ví của họ để tham gia vào phiên đấu giá đốt hàng ngày. Cơ chế đốt này không chỉ đơn giản là giảm nguồn cung cấp lưu hành của token XEN và YSL; nó thể hiện một cách tiếp cận chiến lược nhằm hợp nhất cộng đồng YSL và cộng đồng XEN rộng lớn hơn trên tất cả các chuỗi, thúc đẩy tầm nhìn chung giúp thống nhất cả hai hệ sinh thái.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Hoán đổi chuỗi chéo
-
-- Xenify là giải pháp tối ưu cho việc hoán đổi chuỗi chéo, cho phép bạn trao đổi mã thông báo trên 52 chuỗi khác nhau một cách dễ dàng và hiệu quả. Cách tiếp cận hợp lý của chúng tôi mang lại mức độ đơn giản mới và cung cấp quyền truy cập vào 28 công cụ tổng hợp, đảm bảo bạn luôn có quyền truy cập vào thanh khoản và tỷ giá tốt nhất cho các giao dịch hoán đổi của mình.
-
-- Nhưng đây mới là phần hay nhất: Một trong những lợi ích độc đáo của việc sử dụng Xenify là bạn kiếm được veXNF mỗi khi bạn trả phí hoán đổi 0,5% trên các chuỗi nơi XNF được triển khai. Điều này có nghĩa là bạn không chỉ tận hưởng các giao dịch hoán đổi mã thông báo liền mạch mà còn tích lũy XNF, mã thông báo gốc của Xenify .
-
-- Và phần thưởng tiếp tục đến! Việc nắm giữ veXNF sẽ cho phép bạn nhận thêm các phần thưởng hàng ngày như ETH, BNB và MATIC, dựa trên phí ghi và phí hoán đổi được tạo trong mỗi chu kỳ. Xenify không chỉ đơn giản hóa quá trình trao đổi; nó đang biến đổi nó. Chúng tôi không chỉ mang đến cho bạn hiệu quả cao nhất và tỷ giá dẫn đầu thị trường mà còn mang lại trải nghiệm hoán đổi thực sự bổ ích.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Phân phối vốn sở hữu công bằng
-
-- Xenify nỗ lực thúc đẩy sự công bằng và minh bạch trong việc phân phối vốn chủ sở hữu giữa những người dùng. Mô hình khóa và token độc đáo của chúng tôi được thiết kế để thưởng cho những người tham gia tích cực và những người nắm giữ lâu dài, tạo ra động lực mạnh mẽ để người dùng đóng góp vào sự phát triển của hệ sinh thái của chúng tôi. Khi cộng đồng của chúng tôi tiếp tục phát triển, việc phân phối phần thưởng và mã thông báo XNF một cách công bằng sẽ đảm bảo rằng mọi người đều được hưởng lợi, thúc đẩy một cộng đồng sôi động và gắn kết. Cam kết của Xenify về sự công bằng và bình đẳng thúc đẩy niềm tin trong hệ sinh thái, thúc đẩy một môi trường bền vững và hòa nhập cho tất cả những người tham gia.
 
 <br>
 
@@ -838,15 +834,17 @@ Xenify đã có một bước tiến vượt bậc bằng cách tích hợp các
 
 ## 🌊 Chu kỳ thanh khoản ban đầu
 
-Để khởi động một hệ sinh thái thịnh vượng cho phép cộng đồng của chúng tôi giao dịch XNF ngay khi ra mắt, 100.000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap. Sau khi hoàn thành giai đoạn đầu này, giao thức của chúng tôi sẽ thiết lập cặp giao dịch XNF-WETH bằng cách sử dụng XNF được phân bổ này. Giao thức sẽ sử dụng phần lớn phí thu được từ các hoạt động của ngày đầu tiên, bao gồm phí hoán đổi, phí gốc và phí đốt, để hình thành nhóm thanh khoản XNF-WETH V3 vào cuối chu kỳ.
+Để khởi động một hệ sinh thái thịnh vượng cho phép cộng đồng của chúng tôi giao dịch XNF ngay khi ra mắt, 100.000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap. Sau khi hoàn thành giai đoạn ban đầu này, giao thức của chúng tôi sẽ thiết lập cặp giao dịch WETH-XNF bằng cách sử dụng XNF được phân bổ này. Giao thức sẽ sử dụng phần lớn phí thu được từ các hoạt động của ngày đầu tiên, bao gồm phí hoán đổi, phí gốc và phí đốt, để hình thành nhóm thanh khoản WETH-XNF V3 vào cuối chu kỳ.
 
-Giá ban đầu cho cặp XNF-WETH được đặt ở mức 1,00 USD, đảm bảo phân phối đồng đều cả ETH và XNF trên toàn bộ phạm vi. Tuy nhiên, nếu ETH thu được từ phí trong chu kỳ ban đầu tăng đáng kể thì giá ban đầu sẽ tăng trên 1 USD. Mặt khác, nếu ETH có được trong chu kỳ ban đầu không đạt đến giá trị tối thiểu là 100 nghìn USD khi triển khai, thì giá ban đầu sẽ được điều chỉnh để phù hợp với việc ghép nối nó với 100 nghìn XNF, có khả năng đặt giá khởi điểm dưới 1,00 USD.
+Giá ban đầu cho cặp WETH-XNF được đặt ở mức 1,00 USD, đảm bảo phân phối đồng đều cả ETH và XNF trên toàn bộ phạm vi. Tuy nhiên, nếu ETH thu được từ phí trong chu kỳ ban đầu tăng đáng kể thì giá ban đầu sẽ tăng trên 1 USD. Mặt khác, nếu ETH có được trong chu kỳ ban đầu không đạt đến giá trị tối thiểu là 100 nghìn USD khi triển khai, thì giá ban đầu sẽ được điều chỉnh để phù hợp với việc ghép nối nó với 100 nghìn XNF, có khả năng đặt giá khởi điểm dưới 1,00 USD.
+
+Xin lưu ý rằng các nhà cung cấp thanh khoản sẽ không thể thêm thanh khoản vào mức phí 1% WETH-XNF. Ngoài ra, điều quan trọng cần lưu ý là chỉ bản thân giao thức mới có khả năng tiến hành mua hàng từ tính thanh khoản của chính nó trong nhóm WETH-XNF. Chủ sở hữu XNF chỉ có thể thực hiện các giao dịch bán thông qua trang Xenify hoặc trực tiếp thông qua hợp đồng tái chế.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Chu kỳ thanh khoản tiếp theo
 
-Giao thức của chúng tôi được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức XNF sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản XNF. Trong khuôn khổ này, 50% ETH được sử dụng để mua XNF trên thị trường và XNF thu được sẽ được ghép nối với phần còn lại của ETH và được thêm dưới dạng thanh khoản XNF-WETH ở phạm vi đầy đủ. Điều quan trọng cần lưu ý là, bất kể chu kỳ, phí giao dịch nhất quán 1% sẽ được áp dụng cho tất cả các giao dịch trong nhóm thanh khoản thuộc sở hữu giao thức này.
+Giao thức của chúng tôi được thiết kế để đảm bảo sự tăng trưởng liên tục của tính thanh khoản do giao thức ETH sở hữu với mỗi chu kỳ tiếp theo. Từ chu kỳ thứ hai trở đi, ETH thu được hàng ngày thông qua phí đốt, phí gốc, phí hoán đổi và hoạt động tái chế sẽ được sử dụng để hỗ trợ tăng trưởng thanh khoản ETH. Trong khuôn khổ này, 100% ETH được sử dụng để mua và đốt XNF trên thị trường. Đồng thời, lượng WETH tương đương, được sử dụng để mua lại và đốt XNF, được phân bổ cho nhóm thuộc sở hữu giao thức. Hành động này dẫn đến sự gia tăng đáng kể về WETH trong nhóm thanh khoản WETH-XNF, đảm bảo phạm vi bao phủ toàn diện trên toàn bộ phạm vi thuộc sở hữu của giao thức.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +868,7 @@ Quy trình khai thác XNF trong Xenify đã được cấu trúc tỉ mỉ để
 
 Việc phân phối mã thông báo XNF tuân theo chu kỳ một ngày, bắt đầu với nhóm phần thưởng là 20.000 mã thông báo XNF. Việc phân bổ hàng ngày này được chia theo bốn cách: 25% được phân phối cho người dùng đốt vXEN , 25% được phân phối cho người dùng đốt YSL, 25% được phân phối cho những người đóng góp mã thông báo gốc và 25% còn lại được phân bổ cho những người đóng góp phí hoán đổi của nền tảng . Việc phân bổ hàng ngày này cũng sẽ mở rộng trên tất cả các chuỗi triển khai khác trong tương lai. Thông qua việc triển khai mô hình giảm một nửa, số lượng khai thác hàng ngày giảm dần, đỉnh điểm là việc phân phối hoàn toàn tổng số 22,6 triệu mã thông báo XNF vào tháng 2461.
 
-Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa của giao thức, cho phép họ tích lũy phần thưởng dưới dạng mã thông báo gốc dành riêng cho chuỗi, chẳng hạn như ETH trên Arbitrum . Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify , đặc biệt là từ phí hoán đổi và phí đốt. Mô hình khuyến khích ba tầng độc đáo của chúng tôi khuyến khích người dùng sử dụng Xenify để kiếm XNF, đồng thời thưởng cho những người khóa mã thông báo XNF của họ để kiếm phần thưởng gốc. Điều này hoạt động như một bánh đà, thúc đẩy sự phát triển lâu dài của Xenify đồng thời nuôi dưỡng một hệ thống khen thưởng sôi động và bền vững nhằm khuyến khích cơ sở người dùng ngày càng phát triển.
+Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa của giao thức, cho phép họ tích lũy phần thưởng dưới dạng mã thông báo gốc dành riêng cho chuỗi, chẳng hạn như ETH trên Arbitrum. Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify, đặc biệt là từ phí ghi, phí hoán đổi và phí gốc. Mô hình khuyến khích ba tầng độc đáo của chúng tôi khuyến khích người dùng sử dụng Xenify để kiếm XNF, đồng thời thưởng cho những người khóa mã thông báo XNF của họ để kiếm phần thưởng gốc. Điều này hoạt động như một bánh đà, thúc đẩy sự phát triển lâu dài của Xenify đồng thời nuôi dưỡng một hệ thống khen thưởng sôi động và bền vững nhằm khuyến khích cơ sở người dùng ngày càng phát triển.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1443,8 +1441,8 @@ Ngoài phần thưởng được tạo ra từ phí ghi và phí hoán đổi, g
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e2c3e4dd-58f1-42a9-9204-e63ecc130c6b" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/96e1740a-b9bf-4af3-91fc-806e879f4ffe" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c1b19573-23cc-4b4f-9e5e-116db4c3be3a" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ba26b6a5-b4b0-4934-a84e-d6b1e0651d5f" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1663,13 +1661,9 @@ Chúng tôi hiểu rằng bạn có thể có thắc mắc về Xenify , các t�
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Nếu tôi chọn khóa XNF của mình, tần suất gia hạn khóa tối thiểu 7 ngày so với khóa 1 năm liên tục như thế nào?
-- Chọn khóa XNF của bạn trong tối thiểu 7 ngày, sau đó liên tục gia hạn hàng ngày, dẫn đến khả năng kiếm tiền cho veXNF của bạn thấp hơn so với khóa liên tục trong 1 năm.
+- Chọn khóa XNF của bạn trong tối thiểu 7 ngày, sau đó liên tục gia hạn hàng ngày, dẫn đến khả năng kiếm tiền cho veXNF của bạn thấp hơn so với khóa liên tục trong 1 năm. Ví dụ: nếu bạn và một người dùng khác khóa cùng một số lượng XNF, nhưng bạn sử dụng tiện ích mở rộng tối thiểu 7 ngày và họ khóa 1 năm, thì veXNF của bạn sẽ có khả năng kiếm tiền ít hơn đáng kể trong năm - ít hơn khoảng 52 lần.
 
-- Ví dụ: nếu bạn và một người dùng khác khóa cùng một số lượng XNF, nhưng bạn sử dụng tiện ích mở rộng tối thiểu 7 ngày và họ khóa 1 năm, thì veXNF của bạn sẽ có khả năng kiếm tiền ít hơn đáng kể trong năm - ít hơn khoảng 52 lần.
-
-- Điều này là do sức mạnh ban đầu của veXNF của bạn phụ thuộc vào thời lượng khóa. Khóa 1000 XNF trong 1 năm mang lại 1000 veXNF với lịch trình phân rã là 60 ngày. Khóa 6 tháng mang lại 500 veXNF . Thời gian khóa liên tục nhiều hơn tương đương với công suất veXNF ban đầu nhiều hơn . Hãy nhớ rằng, sức mạnh của veXNF giảm dần theo thời gian, đặc biệt với các khóa tối thiểu 7 ngày có lịch trình phân rã nhanh là 1,15 ngày so với 60 ngày đối với khóa 1 năm.
-
-- Tóm lại, việc thường xuyên mở rộng các khóa ngắn tối thiểu 7 ngày mang lại khả năng kiếm tiền ít hơn đáng kể so với các khóa 1 năm liên tục dài hơn cho cùng một lượng XNF do sự khác biệt về công suất veXNF ban đầu và tốc độ phân rã .
+- Điều này là do sức mạnh ban đầu của veXNF của bạn phụ thuộc vào thời lượng khóa. Khóa 1000 XNF trong 1 năm mang lại 1000 veXNF với lịch trình phân rã là 60 ngày. Khóa 6 tháng mang lại 500 veXNF. Thời gian khóa liên tục nhiều hơn tương đương với công suất veXNF ban đầu nhiều hơn. Hãy nhớ rằng, sức mạnh của veXNF giảm dần theo thời gian, đặc biệt với các khóa tối thiểu 7 ngày có lịch trình phân rã nhanh là 1,15 ngày so với 60 ngày đối với khóa 1 năm. Tóm lại, việc thường xuyên mở rộng các khóa ngắn tối thiểu 7 ngày mang lại khả năng kiếm tiền ít hơn đáng kể so với các khóa 1 năm liên tục dài hơn cho cùng một lượng XNF do sự khác biệt về công suất veXNF ban đầu và tốc độ phân rã.
 
 <br>
 
