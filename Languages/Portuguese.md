@@ -57,7 +57,7 @@ Dayana Plaz - Co-Fundadora - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 
 <br>
 
-Para aqueles que têm pouco tempo, esta seção fornece uma visão geral dos principais "Burn-A-Mentals" que impulsionam a visão do Xenify e o diferenciam de outras plataformas. Você aprenderá como o Xenify gera provisionamento de liquidez incomparável para detentores de XNF, recompensa os usuários pela troca e queima de tokens e incorpora um mecanismo diário de recompra e queima para aumentar o valor e, ao mesmo tempo, reduzir o fornecimento circulante de XNF.
+Para aqueles que têm pouco tempo, esta seção fornece uma visão geral dos principais "Burn-A-Mentals" que impulsionam a visão do Xenify e o diferenciam de outras plataformas. Você aprenderá como o Xenify gera provisionamento de liquidez WETH incomparável para detentores de XNF, recompensa os usuários pela troca e queima de tokens e incorpora um mecanismo diário de recompra e queima para aumentar o valor e, ao mesmo tempo, reduzir o fornecimento circulante de XNF.
 
 Você também descobrirá o modelo de distribuição de tokens justo e transparente do Xenify, sem alocação para a equipe, fundadores ou investidores. Além disso, a estrutura de incentivos baseada na teoria dos jogos exclusiva do Xenify que cultiva um ciclo de feedback positivo de envolvimento e participação contínuos.
 
@@ -118,42 +118,30 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🌊 Liquidez XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40% do ETH arrecadado nos leilões diários será direcionado para o provisionamento de liquidez de propriedade do protocolo XNF-WETH.
-
-- 90% do ETH reciclado ao longo de cada ciclo diário será alocado para o provisionamento de liquidez de propriedade do protocolo XNF-WETH.
-
-- O protocolo está configurado para utilizar Uniswap V3 para suas funções de provisionamento de liquidez. Além disso, toda a liquidez do lado XNF provém de recompras e permanece bloqueada no protocolo, garantindo um emparelhamento completo. Para iniciar o par de negociação XNF-WETH, o protocolo alocará 100.000 XNF, estabelecendo um preço inicial de US$ 1,00. Este preço está sujeito a ajustes pelo protocolo em função da quantidade de ETH arrecadada no ciclo inicial.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 Queima de liquidez XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- O protocolo adquire XNF para provisionamento de liquidez XNF-WETH sempre que um usuário participa dos leilões diários ou recicla seu ETH. À medida que o preço aumenta, apenas uma parte do XNF adquirido será emparelhado com o WETH restante em um emparelhamento completo no Uniswap V3.
-
-- O XNF não emparelhado é automaticamente queimado, levando a uma remoção consistente do XNF do fornecimento circulante quando os usuários participam dos leilões diários ou reciclam suas recompensas ETH. Essa queima automatizada criará inerentemente ainda mais escassez de XNF ao longo do tempo.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 Recompra e queima de XNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- 10% do ETH arrecadado nos leilões diários será utilizado para compra de XNF, sendo 100% do XNF adquirido queimado.
+- 50% do ETH arrecadado nos leilões diários será usado para comprar XNF fora do mercado através do par WETH-XNF no Uniswap V3, sendo 100% do XNF adquirido sendo queimado.
 
-- 20% do ETH arrecadado nos leilões diários será usado automaticamente para adquirir XNF, que será então adicionado ao pool de liquidez XNF-WETH de gama completa do protocolo no Uniswap V3.
+- 90% do ETH reciclado ao longo de cada ciclo diário será usado para comprar XNF no mercado através do par WETH-XNF no Uniswap, com 100% do XNF adquirido sendo queimado.
 
-- 45% do ETH reciclado será usado automaticamente para adquirir XNF, que será então adicionado ao pool de liquidez XNF-WETH de gama completa do protocolo no Uniswap V3.
+- Os mecanismos de queima dentro do nosso protocolo são meticulosamente elaborados para serem executados de forma imutável e automática após cada leilão diário ou reciclagem de participação, anulando assim o risco da contraparte e mitigando possíveis problemas de front-running que poderiam surgir se um terceiro fosse obrigado a iniciar a recompra e queimar processos.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Liquidez do Protocolo XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- O protocolo está definido para alavancar inicialmente o Uniswap V3 para seu provisionamento de liquidez. Para lançar o par de negociação WETH-XNF, serão alocadas 100.000 XNF, estabelecendo assim um preço inicial de US$ 1,00 por XNF. É importante ressaltar que esse preço poderá ser reajustado pelo protocolo, dependendo da quantidade de ETH arrecadada no ciclo inicial. Depois disso, um emparelhamento completo será criado no nível de taxa de 1%.
+
+- O protocolo também foi projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo ETH a cada ciclo subsequente. A partir do segundo ciclo, o ETH obtido diariamente por meio de taxas de queima, taxas nativas, taxas de swap e atividades de reciclagem será utilizado para apoiar a proliferação de liquidez do XNF. Dentro desta estrutura, 100% da ETH é usada para comprar no mercado e queimar XNF. Simultaneamente, a quantidade equivalente de WETH, que foi utilizada para a recompra e queima de XNF, é alocada ao pool de propriedade do protocolo. Esta ação resulta em um aumento significativo de WETH dentro do pool de liquidez WETH-XNF, garantindo cobertura abrangente em toda a faixa de propriedade do protocolo.
+
+- Esteja ciente de que os provedores de liquidez não poderão adicionar liquidez ao nível de taxa WETH-XNF de 1%. Além disso, é importante observar que apenas o próprio protocolo tem capacidade de realizar compras de sua própria liquidez no pool WETH-XNF. Os titulares de XNF só podem executar transações de venda através do site Xenify ou diretamente através do contrato de reciclagem.
 
 <br>
 
@@ -199,9 +187,9 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 <br>
 
-![Divisor de linha - preenchido](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ⚫️ Buraco Negro de Liquidez XNF
-![Divisor de linha - preenchido](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
@@ -249,7 +237,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 - Código Imutável
 - Recompensas diárias de ETH
 - Queima XEN de cadeia cruzada
-- Liquidez XNF automatizada
+- Liquidez de saída automatizada de ETH
 - Recompra e queima automatizada de XNF
 
 <br>
@@ -394,41 +382,49 @@ A Xenify coloca grande ênfase na equidade e nos investimentos a longo prazo. Ac
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## Bloqueio de fichas XNF
+## ✨ Bloqueio de tokens XNF
 
-- A Xenify introduz um sistema de recompensas dinâmico que oferece vantagens significativas aos detentores de XNF. Ao bloquear tokens XNF, os utilizadores tornam-se elegíveis para receber uns impressionantes 40% de taxas de queima e taxas de troca geradas em cadeias suportadas, todos os dias.
+- Xenify introduz um mecanismo de recompensas dinâmico que oferece vantagens significativas aos titulares de XNF. Ao bloquear tokens XNF, os usuários tornam-se elegíveis para receber impressionantes 40% das taxas diárias de leilão geradas nas redes suportadas, todos os dias.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## Reciclagem de recompensas nativas
+## ✨ Queimando Tokens XNF
+
+- Dentro do nosso protocolo, 50% do ETH arrecadado em leilões diários e 90% do ETH reciclado de cada ciclo diário são utilizados para comprar XNF diretamente do mercado através do par WETH-XNF no Uniswap V3. Posteriormente, 100% do XNF adquirido é queimado imediata e irrevogavelmente por meio de um processo imutável. Esta prática garante a integridade dos procedimentos de recompra e queima, eliminando a necessidade de envolvimento de terceiros e mitigando assim os riscos associados ao front-running da contraparte.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Distribuição justa de XNF
+
+- O Xenify dedica-se a promover justiça e transparência na distribuição de capital entre os seus utilizadores. Nosso modelo exclusivo de tokenômica e bloqueio foi projetado para recompensar participantes ativos e detentores de longo prazo, criando um forte incentivo para que os usuários contribuam para o crescimento do nosso ecossistema. À medida que a nossa comunidade continua a crescer, a distribuição equitativa de recompensas e tokens XNF garante que todos se beneficiem, promovendo uma comunidade vibrante e engajada. O compromisso da Xenify com a justiça e a equidade promove a confiança dentro do ecossistema, promovendo um ambiente sustentável e inclusivo para todos os participantes.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Leilões de queima diária
+
+- Nos leilões diários de queima hospedados no Arbitrum, os usuários têm a opção de queimar de 1 a 10.000 lotes. Um único lote de gravação YSL representa 0,1 YSL, enquanto um lote de gravação vXEN corresponde a 10.000.000 vXEN. Uma taxa nativa de 0,01 ETH é aplicada por lote nos leilões de queima e de ETH.
+
+- Todos os dias, 50% do fornecimento de XNF é distribuído aos participantes dos leilões diários de queima. A distribuição é alocada igualmente entre o leilão de queima YSL e o leilão de queima vXEN. Por exemplo, se apenas 1 lote de YSL for queimado e 10.000 lotes de vXEN forem queimados em um determinado ciclo, o usuário que queimou o único lote YSL receberia 25% inteiros do fornecimento diário de XNF, enquanto os queimadores de vXEN compartilhariam o outros 25% com base em seus respectivos lotes de queima.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Troca entre cadeias
+
+- Xenify é a solução definitiva para troca entre cadeias, permitindo trocar tokens em 52 cadeias diferentes com facilidade e eficiência. Nossa abordagem simplificada oferece um novo nível de simplicidade e fornece acesso a 28 agregadores, garantindo que você sempre tenha acesso à melhor liquidez e taxas para seus swaps.
+
+- Mas aqui está a melhor parte: um dos benefícios exclusivos de usar o Xenify é que você ganha veXNF toda vez que paga a taxa de swap de 0,5% nas redes onde o XNF é implantado. Isso significa que você não apenas desfruta de trocas contínuas de tokens, mas também acumula XNF, o token nativo do Xenify.
+
+- E as recompensas continuam chegando! Manter veXNF dá direito a recompensas diárias adicionais, como ETH, BNB e MATIC, com base nas taxas de queima e taxas de swap geradas durante cada ciclo. O Xenify não está apenas simplificando o processo de troca; está transformando isso. Não oferecemos apenas a máxima eficiência e taxas líderes de mercado, mas também uma experiência de troca verdadeiramente gratificante.
+
+![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Reciclando recompensas nativas
 
 - Reciclar as recompensas da sua cadeia nativa oferece uma ampla gama de benefícios e é uma decisão estratégica a ser considerada. Ao optar por reciclar suas recompensas, você não apenas ignora a taxa de reivindicação de 25%, mas também desbloqueia a capacidade de participar do ciclo de queima sem fornecer tokens nativos adicionais para cobrir a taxa de queima obrigatória. Ao contrário do processo normal de queima, nosso protocolo deduz exclusivamente a taxa de queima de suas recompensas recicladas, permitindo a participação gratuita.
 
 - A reciclagem também fornece uma porta de entrada para uma distribuição exclusiva de recompensas geradas a partir da taxa de reclamação de 25% quando você opta por reciclar durante a primeira hora de um ciclo. Mas aqui está a melhor parte: quando você recicla, suas recompensas ajudam muito a fortalecer nosso ecossistema. Sua contribuição não apenas aumentará as recompensas para os detentores de veXNF, mas também estimulará a proliferação da liquidez de propriedade do protocolo XNF e apoiará os esforços operacionais de nossa equipe. É um movimento estratégico que fortalece o Xenify de dentro para fora.
 
 - Em suma, a reciclagem não melhora apenas a sua posição XNF através da queima gratuita. Também desbloqueia acesso exclusivo a recompensas e contribui ativamente para o crescimento do Xenify. Isto cria uma situação vantajosa para todos, onde as suas contribuições são recompensadas e o protocolo avança, criando um ecossistema próspero para todos os participantes.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## Queima de fichas
-
-- A Xenify permite que os usuários queimem sem esforço seus tokens vXEN ou YSL diretamente de suas carteiras para participar do leilão diário de queima. Esse mecanismo de queima vai além de simplesmente reduzir o suprimento circulante de tokens XEN e YSL; ele incorpora uma abordagem estratégica que une a comunidade YSL e as comunidades XEN mais amplas em todas as cadeias, promovendo uma visão compartilhada que unifica os dois ecossistemas.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## ✨ Troca de cadeias cruzadas
-
-- A Xenify é a solução definitiva para a troca entre cadeias, permitindo-lhe trocar tokens em 52 cadeias diferentes com facilidade e eficiência. Nossa abordagem simplificada oferece um novo nível de simplicidade e fornece acesso a 28 agregadores, garantindo que você sempre tenha acesso à melhor liquidez e taxas para seus swaps.
-
-- Mas aqui está a melhor parte: Um dos benefícios exclusivos do uso do Xenify é que você ganha veXNF toda vez que paga a taxa de troca de 0,5% nas cadeias em que o XNF é implantado. Isso significa que você não apenas desfruta de trocas de tokens contínuas, mas também acumula XNF, o token nativo do Xenify.
-
-- E as recompensas continuam a chegar! A detenção de veXNF dá-lhe direito a recompensas diárias adicionais, tais como ETH, BNB e MATIC, com base nas taxas de queima e taxas de swap geradas durante cada ciclo. A Xenify não está apenas a simplificar o processo de swap; está a transformá-lo. Não só lhe oferecemos a máxima eficiência e taxas líderes de mercado, como também uma experiência de swap verdadeiramente gratificante.
-
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
-
-## Distribuição justa do capital próprio
-
-- A Xenify dedica-se a promover a justiça e a transparência na distribuição de equidade entre os seus utilizadores. O nosso modelo único de tokenomics e bloqueio foi concebido para recompensar os participantes activos e os detentores de longo prazo, criando um forte incentivo para os utilizadores contribuírem para o crescimento do nosso ecossistema. À medida que a nossa comunidade continua a crescer, a distribuição equitativa de recompensas e tokens XNF garante que todos beneficiam, promovendo uma comunidade vibrante e empenhada. O compromisso da Xenify com a justiça e a equidade fomenta a confiança dentro do ecossistema, promovendo um ambiente sustentável e inclusivo para todos os participantes.
 
 <br>
 
@@ -838,15 +834,17 @@ A Xenify deu um passo monumental em frente ao integrar os pools Uniswap V3. Esta
 
 ## 🌊 Ciclo inicial de liquidez
 
-Para impulsionar um ecossistema próspero que permite à nossa comunidade negociar XNF imediatamente após o lançamento, 100.000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo. Após a conclusão desta fase inicial, nosso protocolo estabelecerá o par de negociação XNF-WETH usando este XNF alocado. O protocolo utilizará a maior parte das taxas cobradas nas atividades do primeiro dia, abrangendo taxas de swap, taxas nativas e taxas de queima, para formar um pool de liquidez XNF-WETH V3 no final do ciclo.
+Para impulsionar um ecossistema próspero que permite à nossa comunidade negociar XNF imediatamente após o lançamento, 100.000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo. Após a conclusão desta fase inicial, nosso protocolo estabelecerá o par de negociação WETH-XNF usando este XNF alocado. O protocolo utilizará a maior parte das taxas cobradas nas atividades do primeiro dia, abrangendo taxas de swap, taxas nativas e taxas de queima, para formar um pool de liquidez WETH-XNF V3 no final do ciclo.
 
-O preço inicial do par XNF-WETH é definido em US$ 1,00, garantindo uma distribuição igual de ETH e XNF em toda a faixa. No entanto, se o ETH adquirido através de taxas durante o ciclo inicial aumentar significativamente, o preço inicial subirá acima de US$ 1,00. Por outro lado, se o ETH adquirido durante o ciclo inicial não atingir o valor mínimo de US$ 100 mil na implantação, o preço inicial será ajustado para corresponder ao seu emparelhamento com 100 mil XNF, potencialmente definindo o preço inicial abaixo de US$ 1,00.
+O preço inicial do par WETH-XNF é definido em US$ 1,00, garantindo uma distribuição igual de ETH e XNF em toda a faixa. No entanto, se o ETH adquirido através de taxas durante o ciclo inicial aumentar significativamente, o preço inicial subirá acima de US$ 1,00. Por outro lado, se o ETH adquirido durante o ciclo inicial não atingir o valor mínimo de US$ 100 mil na implantação, o preço inicial será ajustado para corresponder ao seu emparelhamento com 100 mil XNF, potencialmente definindo o preço inicial abaixo de US$ 1,00.
 
-![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+Esteja ciente de que os provedores de liquidez não poderão adicionar liquidez ao nível de taxa de 1% do WETH-XNF. Além disso, é importante observar que apenas o próprio protocolo tem capacidade de realizar compras de sua própria liquidez no pool WETH-XNF. Os titulares de XNF só podem executar transações de venda através do site Xenify ou diretamente através do contrato de reciclagem.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Ciclos subsequentes de liquidez
 
-Nosso protocolo foi projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo XNF a cada ciclo subsequente. A partir do segundo ciclo, o ETH obtido diariamente por meio de taxas de queima, taxas nativas, taxas de swap e atividades de reciclagem será utilizado para apoiar a proliferação de liquidez do XNF. Dentro desta estrutura, 50% do ETH é usado para comprar XNF no mercado, e o XNF adquirido é emparelhado com o restante do ETH e adicionado como liquidez XNF-WETH em faixa completa. É importante observar que, independentemente do ciclo, uma taxa de negociação consistente de 1% é aplicada a todas as transações dentro deste pool de liquidez de propriedade do protocolo.
+Nosso protocolo foi projetado para garantir o crescimento perpétuo da liquidez de propriedade do protocolo ETH a cada ciclo subsequente. A partir do segundo ciclo, o ETH obtido diariamente por meio de taxas de queima, taxas nativas, taxas de swap e atividades de reciclagem será utilizado para apoiar a proliferação de liquidez do ETH. Dentro desta estrutura, 100% da ETH é usada para comprar no mercado e queimar XNF. Simultaneamente, a quantidade equivalente de WETH, que foi utilizada para a recompra e queima de XNF, é alocada ao pool de propriedade do protocolo. Esta ação resulta em um aumento significativo de WETH dentro do pool de liquidez WETH-XNF, garantindo cobertura abrangente em toda a faixa de propriedade do protocolo.
 
 ![Cinza V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +868,7 @@ O processo de cunhagem de XNF na Xenify foi meticulosamente estruturado para rec
 
 A distribuição de tokens XNF segue ciclos de um dia, iniciando com um pool de recompensa de 20.000 tokens XNF. Esta alocação diária é dividida de quatro maneiras: 25% é distribuído aos usuários que queimam vXEN, 25% é distribuído aos usuários que queimam YSL, 25% é distribuído aos contribuintes de tokens nativos e os 25% restantes são distribuídos entre os contribuintes da taxa de troca da plataforma. Esta afetação diária estender-se-á igualmente a todas as outras cadeias de implementação futuras. Através da implementação de um modelo de redução pela metade, a quantidade diária de cunhagem diminui gradualmente, culminando na distribuição completa do total de 22,6 milhões de tokens XNF no mês 2461.
 
-Os utilizadores são ainda mais incentivados através do mecanismo de bloqueio do protocolo, que lhes permite acumular recompensas sob a forma de tokens nativos específicos da cadeia, tais como ETH em Arbitrum. Estas recompensas são geradas a partir de várias actividades dentro da Xenify, especificamente a partir de taxas de troca e taxas de queima. Nosso modelo exclusivo de incentivo em três níveis solicita que os usuários usem o Xenify para ganhar XNF, enquanto também recompensa aqueles que bloqueiam seus tokens XNF para ganhar recompensas nativas. Isto funciona como um volante, impulsionando o crescimento a longo prazo da Xenify enquanto cultiva um sistema de recompensa vibrante e sustentável que incentiva uma base de utilizadores em constante crescimento.
+Os usuários são ainda mais incentivados por meio do mecanismo de bloqueio do protocolo, que lhes permite acumular recompensas na forma de tokens nativos específicos da cadeia, como ETH no Arbitrum. Essas recompensas são geradas a partir de diversas atividades dentro do Xenify, especificamente de taxas de queima, taxas de swap e taxas nativas. Nosso modelo exclusivo de incentivo de três níveis incentiva os usuários a usar o Xenify para ganhar XNF, ao mesmo tempo que recompensa aqueles que bloqueiam seus tokens XNF para ganhar recompensas nativas. Isto funciona como um volante, impulsionando o crescimento a longo prazo da Xenify, ao mesmo tempo que cultiva um sistema de recompensa vibrante e sustentável que incentiva uma base de utilizadores cada vez maior.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1443,8 +1441,8 @@ Além das recompensas geradas pelas taxas de queima e taxas de troca, o protocol
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4fae2bb9-4b7d-4cb4-9cc7-f0e680a996da" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/477fe8db-e297-4599-bd3e-6eb5d918a315" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/60b63e2c-1a1f-4447-8ec8-e6859ca6bca3" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1281f190-0a12-4664-aff0-7e062645f739" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1662,14 +1660,10 @@ Sabemos que pode ter dúvidas sobre a Xenify, as suas funcionalidades e o seu po
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Se eu optar por bloquear o meu XNF, como é que o prolongamento frequente de um bloqueio mínimo de 7 dias se compara a um bloqueio contínuo de 1 ano?
-- Optar por bloquear o seu XNF durante o mínimo de 7 dias e depois prolongá-lo repetidamente todos os dias, resulta num menor poder de ganho para o seu veXNF em comparação com o bloqueio contínuo durante 1 ano.
+## ◽️ Se eu optar por bloquear meu XNF, como a extensão frequente de um bloqueio mínimo de 7 dias se compara a um bloqueio contínuo de 1 ano?
+- Optar por bloquear seu XNF por no mínimo 7 dias e, em seguida, estendê-lo repetidamente diariamente, resulta em menor poder aquisitivo para seu veXNF em comparação com o bloqueio contínuo por 1 ano. Por exemplo, se você e outro usuário bloquearem o mesmo valor de XNF, mas usarem extensões mínimas de 7 dias e eles fizerem um bloqueio de 1 ano, seu veXNF teria significativamente menos poder de ganho ao longo do ano – aproximadamente 52 vezes menos.
 
-- Por exemplo, se você e outro utilizador bloquearem o mesmo montante de XNF, mas você utilizar extensões mínimas de 7 dias e ele um bloqueio de 1 ano, o seu veXNF teria um poder de ganho significativamente menor ao longo do ano - aproximadamente 52 vezes menos.
-
-- Isto deve-se ao facto de a potência inicial do seu veXNF depender da duração do bloqueio. Bloquear 1000 XNF durante 1 ano produz 1000 veXNF com um calendário de decaimento de 60 dias. Um bloqueio de 6 meses produz 500 veXNF. Mais tempo bloqueado continuamente equivale a mais potência veXNF inicial. Tenha em atenção que a potência do veXNF diminui com o tempo, especialmente com bloqueios mínimos de 7 dias que têm um calendário de decaimento rápido de 1,15 dias contra 60 dias para um bloqueio de 1 ano.
-
-- Em resumo, o prolongamento frequente de bloqueios curtos de 7 dias no mínimo proporciona um poder de ganho substancialmente menor do que bloqueios contínuos mais longos de 1 ano para o mesmo montante de XNF devido à diferença no poder inicial de veXNF e nas taxas de decaimento.
+- Isso ocorre porque a potência inicial do seu veXNF depende da duração do bloqueio. Bloquear 1.000 XNF por 1 ano produz 1.000 veXNF com um cronograma de decaimento de 60 dias. Um bloqueio de 6 meses rende 500 veXNF. Mais tempo bloqueado continuamente equivale a mais potência veXNF inicial. Tenha em mente que a energia do veXNF diminui com o tempo, especialmente com bloqueios mínimos de 7 dias que têm um cronograma de redução rápida de 1,15 dias versus 60 dias para um bloqueio de 1 ano. Em resumo, a extensão frequente de bloqueios curtos mínimos de 7 dias fornece substancialmente menos poder de ganho do que bloqueios contínuos mais longos de 1 ano para o mesmo valor de XNF devido à diferença no poder inicial de veXNF e nas taxas de decaimento.
 
 <br>
 
