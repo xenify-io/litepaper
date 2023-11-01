@@ -1221,7 +1221,7 @@ $$
         <td><strong>TSF</strong><br>(Tasas totales de intercambio)</td>
         <td>El total de comisiones de intercambio pagadas en un ciclo por todos los usuarios.</td>
     </tr>
-</tabla>
+</table>
  
 <br>
 
