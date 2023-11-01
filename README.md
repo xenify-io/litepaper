@@ -57,7 +57,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-For those short on time, this section provides an overview of the core "Burn-A-Mentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates a daily buyback and burn mechanism to bolster value while reducing the circulating supply of XNF.
+For those short on time, this section provides an overview of the core "Burn-A-Mentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched WETH liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates a daily buyback and burn mechanism to bolster value while reducing the circulating supply of XNF.
 
 You'll also discover Xenify's fair and transparent token distribution model, with no allocation to the team, founders or investors. Plus, Xenify's unique game theory-based incentive structure that cultivates a positive feedback loop of continual engagement and participation.
 
