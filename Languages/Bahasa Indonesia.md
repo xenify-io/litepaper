@@ -57,7 +57,7 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 
 <br>
 
-Bagi mereka yang memiliki waktu terbatas, bagian ini memberikan ikhtisar inti "Burn-A-Mentals" yang mendorong visi Xenify dan membedakannya dari platform lain. Anda akan mempelajari bagaimana Xenify menghasilkan penyediaan likuiditas yang tak tertandingi untuk pemegang XNF, memberi penghargaan kepada pengguna karena menukar dan membakar token, dan menggabungkan mekanisme pembelian kembali dan pembakaran harian untuk meningkatkan nilai sekaligus mengurangi pasokan XNF yang beredar.
+Bagi mereka yang memiliki waktu terbatas, bagian ini memberikan ikhtisar inti "Burn-A-Mentals" yang mendorong visi Xenify dan membedakannya dari platform lain. Anda akan mempelajari bagaimana Xenify menghasilkan penyediaan likuiditas WETH yang tak tertandingi untuk pemegang XNF, memberi penghargaan kepada pengguna karena menukar dan membakar token, dan menggabungkan mekanisme pembelian kembali dan pembakaran harian untuk meningkatkan nilai sekaligus mengurangi pasokan XNF yang beredar.
 
 Anda juga akan menemukan model distribusi token Xenify yang adil dan transparan, tanpa alokasi kepada tim, pendiri, atau investor. Ditambah lagi, struktur insentif berbasis teori permainan unik Xenify yang menumbuhkan umpan balik positif dari keterlibatan dan partisipasi berkelanjutan.
 
@@ -118,42 +118,30 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🌊 Likuiditas XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- 40% ETH yang dikumpulkan dari lelang harian akan diarahkan ke penyediaan likuiditas milik protokol XNF-WETH.
-
-- 90% dari ETH yang didaur ulang sepanjang setiap siklus harian akan dialokasikan untuk penyediaan likuiditas milik protokol XNF-WETH.
-
-- Protokol dikonfigurasi untuk memanfaatkan Uniswap V3 untuk fungsi penyediaan likuiditasnya. Selain itu, semua likuiditas di sisi XNF bersumber dari pembelian kembali dan tetap terkunci dalam protokol, memastikan pasangan yang lengkap. Untuk memulai pasangan perdagangan XNF-WETH, protokol akan mengalokasikan 100,000 XNF, menetapkan harga awal $1.00. Harga ini dapat disesuaikan oleh protokol tergantung pada jumlah ETH yang dikumpulkan pada siklus awal.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 Pembakaran Likuiditas XNF
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Protokol memperoleh XNF untuk penyediaan likuiditas XNF-WETH setiap kali pengguna berpartisipasi dalam lelang harian atau mendaur ulang ETH mereka. Seiring kenaikan harga, hanya sebagian dari XNF yang diperoleh akan dipasangkan dengan sisa WETH dalam pemasangan full-range di Uniswap V3.
-
-- XNF yang tidak berpasangan secara otomatis dibakar, sehingga menyebabkan penghapusan XNF secara konsisten dari pasokan yang beredar ketika pengguna terlibat dalam lelang harian atau mendaur ulang hadiah ETH mereka. Pembakaran otomatis ini pada dasarnya akan menciptakan lebih banyak kelangkaan XNF seiring berjalannya waktu.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # 🚀 Pembelian Kembali & Pembakaran XNF
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- 10% ETH yang dikumpulkan dari lelang harian akan digunakan untuk membeli XNF, dan 100% XNF yang diperoleh akan dibakar.
+- 50% ETH yang dikumpulkan dari lelang harian akan digunakan untuk membeli XNF dari pasar melalui pasangan WETH-XNF di Uniswap V3, dengan 100% XNF yang diperoleh akan dibakar.
 
-- 20% dari ETH yang dikumpulkan dari lelang harian akan secara otomatis digunakan untuk memperoleh XNF, yang kemudian akan ditambahkan ke kumpulan likuiditas XNF-WETH lengkap protokol di Uniswap V3.
+- 90% ETH daur ulang di setiap siklus harian akan digunakan untuk membeli XNF dari pasar melalui pasangan WETH-XNF di Uniswap, dengan 100% XNF yang diperoleh akan dibakar.
 
-- 45% dari ETH daur ulang akan secara otomatis digunakan untuk memperoleh XNF, yang kemudian akan ditambahkan ke kumpulan likuiditas XNF-WETH lengkap protokol di Uniswap V3.
+- Mekanisme pembakaran dalam protokol kami dibuat dengan cermat untuk dieksekusi secara permanen dan otomatis setelah setiap lelang harian atau partisipasi daur ulang, sehingga meniadakan risiko pihak lawan dan memitigasi potensi masalah front-running yang dapat timbul jika pihak ketiga diminta untuk memulai pembelian kembali dan proses pembakaran.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🌊 Likuiditas Protokol XNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Protokol awalnya diatur untuk memanfaatkan Uniswap V3 untuk penyediaan likuiditasnya. Untuk meluncurkan pasangan dagang WETH-XNF, ia akan mengalokasikan 100.000 XNF, sehingga menetapkan harga awal $1,00 per XNF. Penting untuk dicatat bahwa harga ini dapat disesuaikan oleh protokol, bergantung pada jumlah ETH yang dikumpulkan selama siklus awal. Setelah ini, pasangan full-range akan dibuat pada tingkat biaya 1%.
+
+- Protokol ini juga dirancang untuk memastikan pertumbuhan berkelanjutan likuiditas yang dimiliki protokol ETH pada setiap siklus berikutnya. Mulai siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka ini, 100% ETH digunakan untuk membeli pasar dan membakar XNF. Pada saat yang sama, jumlah WETH yang setara, yang digunakan untuk pembelian kembali dan pembakaran XNF, dialokasikan ke kumpulan milik protokol. Tindakan ini menghasilkan peningkatan WETH yang signifikan dalam kumpulan likuiditas WETH-XNF, memastikan cakupan komprehensif di seluruh rentang protokol yang dimiliki.
+
+- Perlu diketahui bahwa penyedia likuiditas tidak akan dapat menambahkan likuiditas ke tingkat biaya WETH-XNF 1%. Selain itu, penting untuk dicatat bahwa hanya protokol itu sendiri yang memiliki kemampuan untuk melakukan pembelian dari likuiditasnya sendiri di kumpulan WETH-XNF. Pemegang XNF hanya dapat melakukan transaksi penjualan baik melalui situs Xenify atau langsung melalui kontrak daur ulang.
 
 <br>
 
@@ -214,7 +202,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 vXEN - Menyatukan Luka Bakar
+# 🔥 vXEN - Menyatukan Pembakaran
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -249,7 +237,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 - Kode yang Tidak Dapat Diubah
 - Hadiah ETH Harian
 - Pembakaran XEN lintas rantai
-- Likuiditas XNF Otomatis
+- Likuiditas Keluar ETH Otomatis
 - Pembelian Kembali & Pembakaran XNF Otomatis
 
 <br>
@@ -396,7 +384,19 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ## ✨ Mengunci Token XNF
 
-- Xenify memperkenalkan sistem reward dinamis yang menawarkan keuntungan signifikan bagi pemegang XNF. Dengan mengunci token XNF, pengguna berhak menerima 40% dari biaya pembakaran dan biaya swap yang dihasilkan dari chain yang didukung, setiap hari.
+- Xenify memperkenalkan mekanisme hadiah dinamis yang menawarkan keuntungan signifikan bagi pemegang XNF. Dengan mengunci token XNF, pengguna berhak menerima 40% dari biaya lelang harian yang dihasilkan pada rantai yang didukung, setiap hari.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Membakar Token XNF
+
+- Dalam protokol kami, 50% ETH yang dikumpulkan dari lelang harian dan 90% ETH daur ulang dari setiap siklus harian digunakan untuk membeli XNF langsung dari pasar melalui pasangan WETH-XNF di Uniswap V3. Selanjutnya, 100% XNF yang diperoleh akan segera dibakar dan tidak dapat ditarik kembali melalui proses yang tidak dapat diubah. Praktik ini memastikan integritas prosedur pembelian kembali dan pembakaran, meniadakan perlunya keterlibatan pihak ketiga dan dengan demikian memitigasi risiko yang terkait dengan eksekusi pihak lawan.
+
+![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+
+## ✨ Distribusi XNF yang Adil
+
+- Xenify berdedikasi untuk mempromosikan keadilan dan transparansi dalam distribusi ekuitas di antara penggunanya. Tokenomik dan model penguncian kami yang unik dirancang untuk memberikan penghargaan kepada peserta aktif dan pemegang jangka panjang, sehingga menciptakan insentif yang kuat bagi pengguna untuk berkontribusi pada pertumbuhan ekosistem kami. Seiring dengan pertumbuhan komunitas kami, distribusi hadiah dan token XNF yang adil memastikan bahwa semua orang mendapat manfaat, mendorong komunitas yang dinamis dan terlibat. Komitmen Xenify terhadap keadilan dan kesetaraan menumbuhkan kepercayaan dalam ekosistem, mendorong lingkungan yang berkelanjutan dan inklusif bagi semua peserta.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -426,9 +426,13 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Distribusi Ekuitas yang Adil
+## ✨ Mendaur Ulang Hadiah Asli
 
-- Xenify berdedikasi untuk mempromosikan keadilan dan transparansi dalam distribusi ekuitas di antara para penggunanya. Model tokenomics dan penguncian kami yang unik dirancang untuk memberi penghargaan kepada peserta aktif dan pemegang jangka panjang, menciptakan insentif yang kuat bagi pengguna untuk berkontribusi pada pertumbuhan ekosistem kami. Ketika komunitas kami terus berkembang, distribusi hadiah dan token XNF yang adil memastikan bahwa semua orang mendapat manfaat, mempromosikan komunitas yang dinamis dan terlibat. Komitmen Xenify terhadap keadilan dan kesetaraan menumbuhkan kepercayaan dalam ekosistem, mempromosikan lingkungan yang berkelanjutan dan inklusif untuk semua peserta.
+- Mendaur ulang hadiah berantai asli Anda menawarkan berbagai manfaat dan merupakan keputusan strategis untuk dipertimbangkan. Dengan memilih untuk mendaur ulang hadiah, Anda tidak hanya mengabaikan biaya klaim sebesar 25%, namun juga membuka kemampuan untuk berpartisipasi dalam siklus pembakaran tanpa memberikan token asli tambahan untuk menutupi biaya pembakaran wajib. Berbeda dengan proses pembakaran biasa, protokol kami secara unik memotong biaya pembakaran dari hadiah daur ulang Anda, sehingga memungkinkan partisipasi bebas biaya.
+
+- Daur ulang juga menyediakan pintu gerbang ke distribusi hadiah eksklusif yang dihasilkan dari biaya klaim 25% jika Anda memilih untuk mendaur ulang selama satu jam pertama siklus. Namun bagian terbaiknya adalah ketika Anda mendaur ulang, manfaat yang Anda peroleh akan sangat membantu dalam memperkuat ekosistem kita. Kontribusi Anda tidak hanya akan meningkatkan imbalan bagi pemegang veXNF, namun juga merangsang proliferasi likuiditas milik protokol XNF, dan mendukung upaya operasional tim kami. Ini adalah langkah strategis yang memperkuat Xenify dari dalam ke luar.
+
+- Singkatnya, daur ulang tidak hanya meningkatkan posisi XNF Anda melalui pembakaran bebas biaya. Ini juga membuka akses eksklusif ke hadiah dan secara aktif berkontribusi terhadap pertumbuhan Xenify. Hal ini menciptakan situasi win-win di mana kontribusi Anda dihargai, dan kemajuan protokol, menciptakan ekosistem yang berkembang untuk semua peserta.
 
 <br>
 
@@ -838,15 +842,17 @@ Xenify telah mengambil langkah monumental dengan mengintegrasikan pool Uniswap V
 
 ## 🌊 Siklus Likuiditas Awal
 
-Untuk memulai ekosistem berkembang yang memungkinkan komunitas kami memperdagangkan XNF segera setelah diluncurkan, 100.000 XNF akan disisihkan untuk likuiditas milik protokol bootstrap. Setelah menyelesaikan fase awal ini, protokol kami akan menetapkan pasangan perdagangan XNF-WETH menggunakan XNF yang dialokasikan ini. Protokol ini akan memanfaatkan sebagian besar biaya yang dikumpulkan dari aktivitas hari pertama, termasuk biaya swap, biaya asli, dan biaya pembakaran, untuk membentuk kumpulan likuiditas XNF-WETH V3 di akhir siklus.
+Untuk memulai ekosistem berkembang yang memungkinkan komunitas kami memperdagangkan XNF segera setelah diluncurkan, 100.000 XNF akan disisihkan untuk likuiditas milik protokol bootstrap. Setelah menyelesaikan fase awal ini, protokol kami akan membentuk pasangan perdagangan WETH-XNF menggunakan XNF yang dialokasikan ini. Protokol akan menggunakan sebagian besar biaya yang dikumpulkan dari aktivitas hari pertama, termasuk biaya swap, biaya asli, dan biaya pembakaran, untuk membentuk kumpulan likuiditas WETH-XNF V3 di akhir siklus.
 
-Harga awal untuk pasangan XNF-WETH ditetapkan pada $1,00, memastikan distribusi ETH dan XNF yang merata di seluruh rentang. Namun, jika ETH yang diperoleh dari biaya selama siklus awal meningkat secara signifikan, harga awal akan naik di atas $1.00. Di sisi lain, jika ETH yang diperoleh selama siklus awal tidak mencapai nilai minimum $100rb saat penerapan, harga awal akan disesuaikan agar sesuai dengan pasangannya dengan 100rb XNF, sehingga berpotensi menetapkan harga awal di bawah $1,00.
+Harga awal untuk pasangan WETH-XNF ditetapkan pada $1,00, memastikan distribusi ETH dan XNF yang merata di seluruh rentang. Namun, jika ETH yang diperoleh dari biaya selama siklus awal meningkat secara signifikan, harga awal akan naik di atas $1.00. Di sisi lain, jika ETH yang diperoleh selama siklus awal tidak mencapai nilai minimum $100rb saat penerapan, harga awal akan disesuaikan agar sesuai dengan pasangannya dengan 100rb XNF, sehingga berpotensi menetapkan harga awal di bawah $1,00.
+
+Perlu diketahui bahwa penyedia likuiditas tidak akan dapat menambahkan likuiditas ke tingkat biaya WETH-XNF 1%. Selain itu, penting untuk dicatat bahwa hanya protokol itu sendiri yang memiliki kemampuan untuk melakukan pembelian dari likuiditasnya sendiri di kumpulan WETH-XNF. Pemegang XNF hanya dapat melakukan transaksi penjualan baik melalui situs Xenify atau langsung melalui kontrak daur ulang.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## 🌊 Siklus Likuiditas Selanjutnya
 
-Protokol kami dirancang untuk memastikan pertumbuhan berkelanjutan likuiditas yang dimiliki protokol XNF pada setiap siklus berikutnya. Mulai siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka ini, 50% ETH digunakan untuk membeli XNF di pasar, dan XNF yang diperoleh dipasangkan dengan sisa ETH dan ditambahkan sebagai likuiditas XNF-WETH dalam kisaran penuh. Penting untuk dicatat bahwa, apa pun siklusnya, biaya perdagangan 1% yang konsisten diterapkan untuk semua transaksi dalam kumpulan likuiditas milik protokol ini.
+Protokol kami dirancang untuk memastikan pertumbuhan berkelanjutan likuiditas yang dimiliki protokol ETH pada setiap siklus berikutnya. Mulai siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas ETH. Dalam kerangka ini, 100% ETH digunakan untuk membeli pasar dan membakar XNF. Pada saat yang sama, jumlah WETH yang setara, yang digunakan untuk pembelian kembali dan pembakaran XNF, dialokasikan ke kumpulan milik protokol. Tindakan ini menghasilkan peningkatan WETH yang signifikan dalam kumpulan likuiditas WETH-XNF, memastikan cakupan komprehensif di seluruh rentang protokol yang dimiliki.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +876,7 @@ Proses pencetakan XNF di dalam Xenify telah disusun dengan cermat untuk memberi 
 
 Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah sebesar 20.000 token XNF. Alokasi harian ini dibagi menjadi empat cara: 25% didistribusikan kepada pengguna yang membakar vXEN, 25% didistribusikan kepada pengguna yang membakar YSL, 25% didistribusikan kepada kontributor token asli, dan 25% sisanya didistribusikan di antara kontributor biaya swap platform. Alokasi harian ini juga akan meluas ke semua rantai penyebaran lainnya di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
 
-Pengguna diberi insentif lebih lanjut melalui mekanisme penguncian protokol, yang memungkinkan mereka untuk mengakumulasi hadiah dalam bentuk token asli khusus rantai, seperti ETH di Arbitrum. Imbalan ini dihasilkan dari berbagai aktivitas di dalam Xenify, khususnya dari biaya swap dan biaya pembakaran. Model insentif tiga tingkat kami yang unik mendorong pengguna untuk menggunakan Xenify untuk mendapatkan XNF, sekaligus memberi penghargaan kepada mereka yang mengunci token XNF mereka untuk mendapatkan hadiah asli. Hal ini beroperasi sebagai roda gila, mendorong pertumbuhan jangka panjang Xenify sambil mengembangkan sistem hadiah yang dinamis dan berkelanjutan yang memberi insentif kepada basis pengguna yang terus berkembang.
+Pengguna diberi insentif lebih lanjut melalui mekanisme penguncian protokol, yang memungkinkan mereka mengumpulkan hadiah dalam bentuk token asli khusus rantai, seperti ETH di Arbitrum. Imbalan ini dihasilkan dari berbagai aktivitas dalam Xenify, khususnya dari biaya pembakaran, biaya swap, dan biaya asli. Model insentif tiga tingkat kami yang unik mendorong pengguna untuk menggunakan Xenify untuk mendapatkan XNF, sekaligus memberi penghargaan kepada mereka yang mengunci token XNF mereka untuk mendapatkan hadiah asli. Hal ini berfungsi sebagai roda gila, mendorong pertumbuhan jangka panjang Xenify sambil mengembangkan sistem penghargaan yang dinamis dan berkelanjutan yang memberi insentif pada basis pengguna yang terus berkembang.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1443,8 +1449,8 @@ Selain reward yang dihasilkan dari biaya pembakaran dan biaya swap, protokol ini
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/4559c3c8-24b8-4eff-b17a-632efc8d5f92" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fba1f825-3859-4add-92db-9547870071b0" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/052dccf7-1089-4f36-afc0-1bef75e5689b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/0e16fe1a-64b4-48d1-bf8c-5f6e3a20184a" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
@@ -1662,14 +1668,10 @@ Kami memahami bahwa Anda mungkin memiliki pertanyaan tentang Xenify, fitur-fitur
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ◽️ Jika saya memilih untuk mengunci XNF saya, bagaimana perbedaan antara sering memperpanjang penguncian minimum 7 hari dengan penguncian terus menerus selama 1 tahun?
-- Memilih untuk mengunci XNF Anda selama minimum 7 hari, kemudian berulang kali memperpanjangnya setiap hari, akan menghasilkan daya penghasilan yang lebih rendah untuk veXNF Anda dibandingkan dengan mengunci terus menerus selama 1 tahun.
+## ◽️ Jika saya memilih untuk mengunci XNF saya, seberapa sering perpanjangan penguncian minimum 7 hari dibandingkan dengan penguncian 1 tahun terus menerus?
+- Memilih untuk mengunci XNF Anda selama minimal 7 hari, lalu memperpanjangnya berulang kali setiap hari, menghasilkan kekuatan penghasilan yang lebih rendah untuk veXNF Anda dibandingkan dengan mengunci terus menerus selama 1 tahun. Misalnya, jika Anda dan pengguna lain mengunci jumlah XNF yang sama, namun Anda menggunakan ekstensi minimum 7 hari dan mereka melakukan kuncian 1 tahun, veXNF Anda akan memiliki kekuatan penghasilan yang jauh lebih kecil sepanjang tahun - sekitar 52 kali lebih sedikit.
 
-- Misalnya, jika Anda dan pengguna lain mengunci jumlah XNF yang sama, tetapi Anda menggunakan ekstensi minimum 7 hari dan mereka melakukan penguncian selama 1 tahun, veXNF Anda akan memiliki daya penghasilan yang jauh lebih sedikit sepanjang tahun - sekitar 52 kali lebih sedikit.
-
-- Ini karena kekuatan awal veXNF Anda bergantung pada durasi penguncian. Mengunci 1000 XNF selama 1 tahun menghasilkan 1000 veXNF dengan jadwal peluruhan 60 hari. Penguncian selama 6 bulan menghasilkan 500 veXNF. Lebih banyak waktu yang dikunci secara terus menerus sama dengan lebih banyak kekuatan veXNF awal. Perlu diingat, daya veXNF akan meluruh seiring waktu, terutama dengan penguncian minimum 7 hari yang memiliki jadwal peluruhan cepat 1,15 hari dibandingkan 60 hari untuk penguncian 1 tahun.
-
-- Singkatnya, sering memperpanjang kunci minimum 7 hari yang pendek memberikan daya penghasilan yang jauh lebih sedikit daripada kunci 1 tahun yang lebih panjang dan berkelanjutan untuk jumlah XNF yang sama karena perbedaan daya veXNF awal dan tingkat peluruhan.
+- Ini karena kekuatan awal veXNF Anda bergantung pada durasi penguncian. Mengunci 1000 XNF selama 1 tahun menghasilkan 1000 veXNF dengan jadwal peluruhan 60 hari. Kunci 6 bulan menghasilkan 500 veXNF. Lebih banyak waktu terkunci terus menerus sama dengan lebih banyak daya veXNF awal. Perlu diingat, daya veXNF berkurang seiring berjalannya waktu, terutama dengan penguncian minimum 7 hari yang memiliki jadwal peluruhan cepat 1,15 hari dibandingkan 60 hari untuk penguncian 1 tahun. Ringkasnya, perpanjangan penguncian minimum 7 hari yang pendek memberikan daya pendapatan yang jauh lebih kecil dibandingkan penguncian 1 tahun terus-menerus yang lebih lama untuk jumlah XNF yang sama karena perbedaan dalam daya veXNF awal dan tingkat peluruhan.
 
 <br>
 
