@@ -382,7 +382,7 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Mengunci Token XNF
+# ✨ Mengunci Token XNF
 
 - Xenify memperkenalkan mekanisme hadiah dinamis yang menawarkan keuntungan signifikan bagi pemegang XNF. Dengan mengunci token XNF, pengguna berhak menerima 40% dari biaya lelang harian yang dihasilkan pada rantai yang didukung, setiap hari.
 
@@ -400,29 +400,21 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Mendaur Ulang Hadiah Asli
+## ✨ Lelang Pembakaran Harian
 
-  - Mendaur ulang hadiah berantai asli Anda menawarkan berbagai manfaat dan merupakan keputusan strategis untuk dipertimbangkan. Dengan memilih untuk mendaur ulang hadiah, Anda tidak hanya mengabaikan biaya klaim sebesar 25%, namun juga membuka kemampuan untuk berpartisipasi dalam siklus pembakaran tanpa memberikan token asli tambahan untuk menutupi biaya pembakaran wajib. Berbeda dengan proses pembakaran biasa, protokol kami secara unik memotong biaya pembakaran dari hadiah daur ulang Anda, sehingga memungkinkan partisipasi bebas biaya.
+- Dalam lelang pembakaran harian yang diselenggarakan di Arbitrum, pengguna memiliki opsi untuk membakar 1 hingga 10.000 batch. Satu batch pembakaran YSL mewakili 0,1 YSL, sedangkan batch pembakaran vXEN setara dengan 10.000.000 vXEN. Biaya asli sebesar 0,01 ETH diterapkan per batch dalam lelang pembakaran dan ETH.
 
-  - Daur ulang juga menyediakan pintu gerbang ke distribusi hadiah eksklusif yang dihasilkan dari biaya klaim 25% jika Anda memilih untuk mendaur ulang selama satu jam pertama siklus. Namun bagian terbaiknya adalah ketika Anda mendaur ulang, manfaat yang Anda peroleh akan sangat membantu dalam memperkuat ekosistem kita. Kontribusi Anda tidak hanya akan meningkatkan imbalan bagi pemegang veXNF, namun juga merangsang proliferasi likuiditas milik protokol XNF, dan mendukung upaya operasional tim kami. Ini adalah langkah strategis yang memperkuat Xenify dari dalam ke luar.
-
-  - Singkatnya, daur ulang tidak hanya meningkatkan posisi XNF Anda melalui pembakaran bebas biaya. Daur ulang juga membuka akses eksklusif ke hadiah dan secara aktif berkontribusi pada pertumbuhan Xenify. Hal ini membentuk situasi yang saling menguntungkan di mana kontribusi Anda dihargai, dan protokol berkembang, menciptakan ekosistem yang berkembang untuk semua peserta.
+- Setiap hari, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran harian. Distribusinya dialokasikan secara merata antara Lelang Pembakaran YSL dan Lelang Pembakaran vXEN. Misalnya, jika hanya 1 kumpulan YSL yang dibakar dan 10.000 kumpulan vXEN dibakar pada siklus tertentu, pengguna yang membakar satu kumpulan YSL akan menerima seluruh 25% pasokan XNF harian, sedangkan pembakar vXEN akan berbagi 25% lainnya berdasarkan kelompok pembakaran masing-masing.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Pembakaran Token
+## ✨ Pertukaran Lintas Rantai
 
-- Xenify memberdayakan pengguna untuk dengan mudah membakar token vXEN atau YSL mereka langsung dari dompet mereka untuk berpartisipasi dalam lelang pembakaran harian. Mekanisme pembakaran ini lebih dari sekadar mengurangi pasokan token XEN dan YSL yang beredar; mekanisme ini mewujudkan pendekatan strategis yang menyatukan komunitas YSL dan komunitas XEN yang lebih luas di semua chain, menumbuhkan visi bersama yang menyatukan kedua ekosistem.
+- Xenify adalah solusi terbaik untuk pertukaran lintas rantai, memungkinkan Anda menukar token di 52 rantai berbeda dengan mudah dan efisien. Pendekatan sederhana kami menawarkan tingkat kesederhanaan baru dan menyediakan akses ke 28 agregator, memastikan Anda selalu memiliki akses terhadap likuiditas dan harga terbaik untuk swap Anda.
 
-![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
+- Namun inilah bagian terbaiknya: Salah satu manfaat unik menggunakan Xenify adalah Anda memperoleh veXNF setiap kali Anda membayar biaya swap 0,5% pada rantai tempat XNF diterapkan. Ini berarti Anda tidak hanya menikmati pertukaran token yang lancar tetapi juga mengakumulasikan XNF, token asli Xenify.
 
-## ✨ Pertukaran Rantai Silang
-
-- Xenify adalah solusi terbaik untuk pertukaran lintas rantai, memungkinkan Anda untuk menukar token di 52 rantai yang berbeda dengan mudah dan efisien. Pendekatan kami yang efisien menawarkan tingkat kesederhanaan baru dan menyediakan akses ke 28 agregator, memastikan Anda selalu memiliki akses ke likuiditas dan harga terbaik untuk swap Anda.
-
-- Namun, inilah bagian terbaiknya: Salah satu manfaat unik menggunakan Xenify adalah Anda mendapatkan veXNF setiap kali Anda membayar biaya swap 0,5% pada chain di mana XNF digunakan. Ini berarti Anda tidak hanya menikmati pertukaran token tanpa hambatan tetapi juga mengakumulasi XNF, token asli Xenify.
-
-- Dan hadiahnya terus berdatangan! Memegang veXNF memberi Anda hak untuk mendapatkan hadiah harian tambahan seperti ETH, BNB, dan MATIC, berdasarkan biaya pembakaran dan biaya swap yang dihasilkan selama setiap siklus. Xenify tidak hanya menyederhanakan proses swap, tetapi juga mengubahnya. Kami tidak hanya menawarkan efisiensi tertinggi dan harga terbaik di pasar, tetapi juga pengalaman swap yang benar-benar bermanfaat.
+- Dan imbalannya terus berdatangan! Memegang veXNF memberi Anda hak untuk mendapatkan hadiah harian tambahan seperti ETH, BNB, dan MATIC, berdasarkan biaya pembakaran dan biaya swap yang dihasilkan selama setiap siklus. Xenify tidak hanya menyederhanakan proses swap; itu mengubahnya. Kami tidak hanya menawarkan Anda efisiensi terbaik dan harga terdepan di pasar, namun juga pengalaman swap yang benar-benar bermanfaat.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
