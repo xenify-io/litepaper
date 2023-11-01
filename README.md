@@ -125,9 +125,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - 50% of the ETH collected from the daily auctions will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap V3, with 100% of the acquired XNF being burned.
 
-- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap ![image](https://github.com/xenify-io/litepaper/assets/60996729/4c9f9db3-38ee-4676-af9b-d78d24a34377)![image](https://github.com/xenify-io/litepaper/assets/60996729/2218e806-f46b-493c-993d-4b433e96d76b)
-![image](https://github.com/xenify-io/litepaper/assets/60996729/c59479f7-a619-485c-bf32-e9d27e37d4d4)
-, with 100% of the acquired XNF being burned.
+- 90% of the recycled ETH throughout each daily cycle will be used to purchase XNF off the market via the WETH-XNF pair on Uniswap, with 100% of the acquired XNF being burned.
 
 - The burning mechanisms within our protocol are meticulously crafted to execute immutably and automatically after each daily auction or recycling participation, thereby nullifying the counterparty risk and mitigating potential issues of front-running that could arise if a third party were required to initiate the buyback and burn processes.
 
