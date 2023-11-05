@@ -288,7 +288,7 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 
 Xenify 是跨链聚合器中的元聚合器，开创了 "交换赚钱 "的新时代。我们开创性的协议将创新的代币经济学和先进的跨链功能无缝整合到一个强大的软件包中。Xenify 采用独特的基于博弈论的激励模式，积极奖励参与行为，有望引发跨链交换领域的重大变革。我们的使命很明确：通过提供两全其美的服务彻底改变 DeFi 的格局：超高效的跨链交换体验和大量的赚钱机会。
 
-Xenify 大胆愿景的核心是简化跨链代币交换的尖端流动性聚合协议。无论您想在 Arbitrum、以太坊、BNB Chain、Polygon 或任何 52 个支持链上交换代币，Xenify 都能满足您的需求。通过访问 28 个不同的聚合器，Xenify 保证您的交换具有无与伦比的流动性和最佳费率。通过利用最先进的 API，Xenify 与大量 DEX 聚合器实现了无缝通信，极大地增强了交换体验，并简化了在大量链中寻找最佳交换路线的过程。
+Xenify 大胆愿景的核心是简化跨链代币交换的尖端流动性聚合协议。无论您想在 Arbitrum、以太坊、BNB Chain、Polygon 或任何 54 个支持链上交换代币，Xenify 都能满足您的需求。通过访问 28 个不同的聚合器，Xenify 保证您的交换具有无与伦比的流动性和最佳费率。通过利用最先进的 API，Xenify 与大量 DEX 聚合器实现了无缝通信，极大地增强了交换体验，并简化了在大量链中寻找最佳交换路线的过程。
 
 Xenify 与其他跨链交换平台的不同之处在于，我们致力于培育一个所有参与者共同繁荣的生态系统。通过在受支持的 EVM 链上贡献交换费，用户可赚取 XNF 代币。同时，累积的费用将作为奖励重新分配给 veXNF 利益相关者，并重新部署以促进 Xenify 的发展。此外，Xenify 还是 XEN 的战略第 1 层燃烧器，实现了 XEN 持有者参与燃烧拍卖的无缝转换。在每个烧钱拍卖周期结束时，我们独特的费用利用算法不仅将烧钱费用作为对 veXNF 持有者的奖励，还通过协议自有的流动性为 Xenify 的持续增长提供动力。
 
@@ -304,7 +304,7 @@ Xenify 与其他跨链交换平台的不同之处在于，我们致力于培育�
 
 <br>
 
-Xenify 不仅仅是来挑战极限的，我们还肩负着消除阻碍 DeFi 成为主流的障碍的使命。我们专门构建的协议将彻底改变由 52 个链组成的庞大网络中的代币转移，同时确保用户在错综复杂的多链代币交换世界中获得流畅、无缝的体验。
+Xenify 不仅仅是来挑战极限的，我们还肩负着消除阻碍 DeFi 成为主流的障碍的使命。我们专门构建的协议将彻底改变由 54 个链组成的庞大网络中的代币转移，同时确保用户在错综复杂的多链代币交换世界中获得流畅、无缝的体验。
 
 作为跨链交换聚合的真正先驱，我们致力于打破障碍。我们立志打造一个直观、安全、公平的环境，让用户在大量 EVM 链上交换和抵押代币时感觉毫不费力。我们的使命是坚持不懈地创新和完善 Xenify 的功能，适应我们多样化社区不断发展的需求，并不断扩大我们的用户群。
 
@@ -372,7 +372,7 @@ Xenify 凭借其对公平、简单、透明、用户授权和互操作性的坚�
 
 ## ⭐️ 高级跨链聚合器功能
 
-有了 Xenify，链之间的交换从未像现在这样无缝和高效，打破了壁垒，促进了一个更加互联的 DeFi 生态系统。Xenify 与众不同的一个突出特点是，我们是聚合器的跨链元聚合器。虽然这个术语听起来很复杂，但它仅仅意味着我们将多个跨链聚合器整合到一个平台上。通过利用我们先进的流动性聚合协议，我们能够改变用户在区块链网络之间转换的方式。此外，用户每天都有机会从各自的链上赚取原生代币，进一步增强他们的投资组合。我们的用户可以从 52 个链上的 28 个聚合器获得有竞争力的费率和卓越的流动性，在管理资产方面享受无与伦比的优势和更大的灵活性。  
+有了 Xenify，链之间的交换从未像现在这样无缝和高效，打破了壁垒，促进了一个更加互联的 DeFi 生态系统。Xenify 与众不同的一个突出特点是，我们是聚合器的跨链元聚合器。虽然这个术语听起来很复杂，但它仅仅意味着我们将多个跨链聚合器整合到一个平台上。通过利用我们先进的流动性聚合协议，我们能够改变用户在区块链网络之间转换的方式。此外，用户每天都有机会从各自的链上赚取原生代币，进一步增强他们的投资组合。我们的用户可以从 54 个链上的 28 个聚合器获得有竞争力的费率和卓越的流动性，在管理资产方面享受无与伦比的优势和更大的灵活性。  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -410,7 +410,7 @@ Xenify 非常重视股权和长期投资。我们相信，我们的用户能够�
 
 ## ✨ 跨链交换
 
-- Xenify 是跨链交换的终极解决方案，让您可以轻松高效地跨 52 个不同的链交换代币。我们的简化方法提供了新的简单性，并提供对 28 个聚合器的访问，确保您始终能够获得最佳的流动性和掉期利率。
+- Xenify 是跨链交换的终极解决方案，让您可以轻松高效地跨 54 个不同的链交换代币。我们的简化方法提供了新的简单性，并提供对 28 个聚合器的访问，确保您始终能够获得最佳的流动性和掉期利率。
 
 - 但最好的部分是：使用 Xenify 的独特好处之一是，每次您在部署 XNF 的链上支付 0.5% 的交换费时，您都可以赚取 veXNF。这意味着您不仅可以享受无缝代币兑换，还可以积累 Xenify 的原生代币 XNF。
 
@@ -583,7 +583,7 @@ Xenify 的核心是 XNF，这是一种动态奖励代币，旨在鼓励用户积
 
 <br>
 
-介绍 Xenify--终极跨链聚合器中的聚合器！Xenify 专为简化用户跨链交换流程而设计，具有无与伦比的功能。Xenify 采用先进的流动性聚合协议，可连接 28 个不同的聚合器，在 52 个领先链上提供卓越的流动性和无与伦比的费率。无论您是想在以太坊、Arbitrum、BNB Chain、Polygon 还是其他许多链之间交换代币，Xenify 都能让您轻松实现，并获得丰厚回报！
+介绍 Xenify--终极跨链聚合器中的聚合器！Xenify 专为简化用户跨链交换流程而设计，具有无与伦比的功能。Xenify 采用先进的流动性聚合协议，可连接 28 个不同的聚合器，在 54 个领先链上提供卓越的流动性和无与伦比的费率。无论您是想在以太坊、Arbitrum、BNB Chain、Polygon 还是其他许多链之间交换代币，Xenify 都能让您轻松实现，并获得丰厚回报！
 
 想象一下这样的场景：您想用以太坊上的代币-A 交易 BNB 链上的代币-B。有了 Xenify，您只需在以太坊上点击一下并进行一次交易。无需再为浏览不同的链或搜索最佳汇率而烦恼 - Xenify 会处理好一切，为您提供最优惠的汇率。但 Xenify 不仅仅是代币交换；它是一个精心设计的生态系统，具有独特的代币经济学，包含一个开创性的激励模式，使所有参与者受益。
 
@@ -593,7 +593,7 @@ Xenify 内置的交换费机制创造了一个互惠环境，用 XNF 奖励平�
 
 此外，Xenify 还采用了巧妙的刻录机制，使用户能够刻录 vXEN 和 YSL 代币来铸造 XNF。 vXEN 燃烧过程充当战略性第 1 层燃烧器，这是令人兴奋的部分 – 40% 的燃烧费用返回给 veXNF 持有者，40% 用于创建 XNF 协议拥有的流动性，而 10% 用于执行自动回购并销毁 XNF，剩余 10% 发送给 Xenify 团队。这种方法不仅鼓励用户的长期参与，而且提高了可持续性，同时提高了对那些深入参与该协议的人的奖励。
 
-Xenify 创新的锁定和奖励方法，结合其独特的代币经济模型，创造了一个精心设计的生态系统，使所有参与者受益。无论您是执行代币交换，还是燃烧代币来铸造 XNF，您在 Xenify 平台上的每一个行为都有助于形成一个互惠的奖励和参与环境。在 52 个领先的链上进行交换时，您不仅可以享受无与伦比的效率，还有机会每天赚取原生链代币，并成为繁荣社区的一员。Xenify 真正实现了两全其美：轻松的代币交换和巨大的盈利潜力。
+Xenify 创新的锁定和奖励方法，结合其独特的代币经济模型，创造了一个精心设计的生态系统，使所有参与者受益。无论您是执行代币交换，还是燃烧代币来铸造 XNF，您在 Xenify 平台上的每一个行为都有助于形成一个互惠的奖励和参与环境。在 54 个领先的链上进行交换时，您不仅可以享受无与伦比的效率，还有机会每天赚取原生链代币，并成为繁荣社区的一员。Xenify 真正实现了两全其美：轻松的代币交换和巨大的盈利潜力。
 
 <br>
 
@@ -652,42 +652,44 @@ Xenify 创新的锁定和奖励方法，结合其独特的代币经济模型，�
 | 14  | Layer 2           | Linea         | https://linea.build                   |
 | 15  | Layer 1           | Tezos         | https://tezos.com                     |
 | 16  | Layer 2           | Metis         | https://metis.io                      |
-| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 18  | Layer 1           | Canto         | https://canto.io                      |
-| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 23  | Layer 2           | zkSync        | https://zksync.io                     |
-| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 26  | Layer 1           | Solana        | https://solana.com                    |
-| 27  | Layer 1           | Ripple        | https://ripple.com                    |
-| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 34  | Layer 2           | Polygon       | https://polygon.technology            |
-| 35  | Layer 1           | Arweave       | https://arweave.org                   |
-| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 41  | Layer 2           | Optimism      | https://optimism.io                   |
-| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 45  | Layer 1           | PulseChain    | https://pulsechain.com                |
-| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 17  | Layer 2           | Scroll        | https://scroll.io                     |
+| 18  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 19  | Layer 1           | Canto         | https://canto.io                      |
+| 20  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 21  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 22  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 23  | Layer 1           | Ripple        | https://ripple.com                    |
+| 24  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 25  | Layer 2           | zkSync        | https://zksync.io                     |
+| 26  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 27  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 28  | Layer 1           | Solana        | https://solana.com                    |
+| 29  | Layer 2           | Mantle        | https://www.mantle.xyz                |
+| 30  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 31  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 32  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 33  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 34  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 35  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 36  | Layer 2           | Polygon       | https://polygon.technology            |
+| 37  | Layer 1           | Arweave       | https://arweave.org                   |
+| 38  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 39  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 40  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 41  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 42  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 43  | Layer 2           | Optimism      | https://optimism.io                   |
+| 44  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 45  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 46  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 47  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 48  | Layer 1           | PulseChain    | https://pulsechain.com                |
+| 49  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 50  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 51  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 52  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 53  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 54  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
 
 <br>
 
@@ -886,13 +888,13 @@ Xenify 使用户能够毫不费力地直接从钱包中刻录 vXEN 或 YSL 代�
 
 ## ⭐️ 交换赚取 XNF
 
-Xenify 正在通过一个开创性的平台重新定义游戏，该平台可在 52 个链上实现无缝单击跨链交易，同时为用户提供每天赚取原生链代币的令人兴奋的机会。用户每次在部署了 XNF 的链上支付 0.5% 的交换费，就能通过每日铸币分配获得 veXNF 奖励。这一独特优势使用户在享受轻松交换体验的同时，还能积累 XNF 代币。
+Xenify 正在通过一个开创性的平台重新定义游戏，该平台可在 54 个链上实现无缝单击跨链交易，同时为用户提供每天赚取原生链代币的令人兴奋的机会。用户每次在部署了 XNF 的链上支付 0.5% 的交换费，就能通过每日铸币分配获得 veXNF 奖励。这一独特优势使用户在享受轻松交换体验的同时，还能积累 XNF 代币。
 
 但是，奖励并不止于此。通过持有 veXNF，用户每天都有机会获得 BNB、ETH 和 MATIC 等原生链代币。这些原生奖励来自协议的交换费和燃烧费。  因此，用户不仅可以享受 Xenify 提供的高效率和有竞争力的费率，还可以访问动态和可持续的奖励系统，从而增强他们的投资组合。
 
 通过参与 Xenify 的代币交换，用户在推动平台发展方面发挥了关键作用。在已部署 XNF 的链上产生的交换费将分配给该特定链上的 veXNF 持有者，并用于 Xenify 的合作伙伴费用共享计划。对于尚未部署 XNF 的链，团队会将交换费用于支持推广工作，推动 Xenify 及其附属代币的发展。这将提高人们对该平台的认识和广泛采用，使整个社区受益。
 
-此外，用户只要在 52 个支持链中的任何一个链上进行交换，就有资格获得 1,500,000 XNF 的独家空投。每次空投活动都在计划部署 XNF 的链上进行，并在发射前持续 60 天。在此期间进行的所有交换活动都会保证用户在即将到来的 XNF 空投中的份额。换句话说，在尚未部署 XNF 的链上执行交换时，即使您不能从每日 XNF 分配中获益，您仍有机会参与独家 XNF 空投。
+此外，用户只要在 54 个支持链中的任何一个链上进行交换，就有资格获得 1,500,000 XNF 的独家空投。每次空投活动都在计划部署 XNF 的链上进行，并在发射前持续 60 天。在此期间进行的所有交换活动都会保证用户在即将到来的 XNF 空投中的份额。换句话说，在尚未部署 XNF 的链上执行交换时，即使您不能从每日 XNF 分配中获益，您仍有机会参与独家 XNF 空投。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1565,7 +1567,7 @@ Xenify 非常重视提供卓越的用户体验，主要重点是创建一个直�
 
 Xenify 是一个跨链聚合器中的聚合器，从底层开始精心打造，旨在改变用户参与代币交换的方式。其主要重点是提供无缝的用户体验，奖励活跃的社区成员，并建立公平、可持续的代币分配模式。通过利用创新的代币经济学，Xenify 希望建立一个去中心化、社区驱动的平台，重视并鼓励用户积极参与生态系统。
 
-Xenify 的与众不同之处在于它与 28 个不同聚合商的无缝连接，可在 52 个主要连锁店中以无与伦比的价格轻松实现一键交换。然而，它的价值不仅仅在于方便。与其他交易所不同的是，Xenify 通过确保在平台上采取的每项行动都能促进互惠环境，使用户根据贡献和参与度获得收益，从而促进用户的采用。
+Xenify 的与众不同之处在于它与 28 个不同聚合商的无缝连接，可在 54 个主要连锁店中以无与伦比的价格轻松实现一键交换。然而，它的价值不仅仅在于方便。与其他交易所不同的是，Xenify 通过确保在平台上采取的每项行动都能促进互惠环境，使用户根据贡献和参与度获得收益，从而促进用户的采用。
 
 有了 Xenify，用户每次交换都能获得赚取 XNF 代币的独家机会，辅以创新的锁定模式，用户每天都能赚取 ETH、BNB 和 MATIC 等原生链代币。这种独特的激励模式无可否认地将 Xenify 定位为那些寻求简化跨链交换流程，同时最大限度地提高盈利潜力的用户的首选。
 
@@ -1709,7 +1711,7 @@ Xenify 的与众不同之处在于它与 28 个不同聚合商的无缝连接，
 
 ## ◽️ Xenify
 
-  - Xenify 是一个去中心化金融（DeFi）协议，旨在彻底改变代币交换体验。它提供了最先进的跨链聚合器，使在 52 个不同链上交换代币变得更加容易。Xenify 可以从 28 个聚合器中获取最佳路线和最低费用，使用户能够在支持的链之间无缝交换代币。它强调公平、简单、透明、用户授权和互操作性，旨在创建一个连接性更强、用户更友好的 DeFi 生态系统。
+  - Xenify 是一个去中心化金融（DeFi）协议，旨在彻底改变代币交换体验。它提供了最先进的跨链聚合器，使在 54 个不同链上交换代币变得更加容易。Xenify 可以从 28 个聚合器中获取最佳路线和最低费用，使用户能够在支持的链之间无缝交换代币。它强调公平、简单、透明、用户授权和互操作性，旨在创建一个连接性更强、用户更友好的 DeFi 生态系统。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
