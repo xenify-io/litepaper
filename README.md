@@ -1711,7 +1711,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ Xenify
 
-  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across 52 different chains. With access to the best routes and lowest fees from 28 aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
+  - Xenify is a decentralised finance (DeFi) protocol designed to revolutionise the token swap experience. It offers a state-of-the-art cross-chain aggregator, making it easy to swap tokens across 54 different chains. With access to the best routes and lowest fees from 28 aggregators, Xenify empowers users to seamlessly swap tokens between supported chains. It emphasises fairness, simplicity, transparency, user empowerment, and interoperability, aiming to create a more connected and user-friendly DeFi ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
