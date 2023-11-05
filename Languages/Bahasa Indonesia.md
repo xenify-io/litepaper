@@ -288,7 +288,7 @@ Selamat datang di Xenify! Kami adalah Nexus dari Inovasi, Penghargaan, Pertukara
 
 Xenify berdiri sebagai meta-agregator lintas rantai agregator, memelopori era baru 'Tukar untuk Menghasilkan'. Protokol terobosan kami dengan mulus mengintegrasikan tokenomics inventif dan fungsionalitas cross-chain yang canggih ke dalam satu paket yang kuat. Dengan menggabungkan model insentif berbasis teori permainan yang unik yang secara aktif memberikan penghargaan atas keterlibatan, Xenify siap untuk memicu pergeseran seismik dalam dunia pertukaran lintas rantai. Misi kami jelas: merevolusi lanskap DeFi dengan menawarkan yang terbaik dari kedua dunia: pengalaman pertukaran lintas rantai yang sangat efisien dan peluang besar untuk mendapatkan penghasilan.
 
-Inti dari visi Xenify adalah protokol agregasi likuiditas mutakhir yang menyederhanakan pertukaran token lintas rantai. Apakah Anda ingin menukar token di Arbitrum, Ethereum, BNB Chain, Polygon, atau salah satu dari 52 chain yang didukung, Xenify siap membantu Anda. Dengan akses ke 28 agregator yang berbeda, Xenify menjamin likuiditas yang tak tertandingi dan harga yang optimal untuk swap Anda. Dengan memanfaatkan API yang canggih, Xenify menjembatani komunikasi tanpa batas dengan beragam agregator DEX, yang secara dramatis meningkatkan pengalaman swap dan menyederhanakan pencarian rute swap yang optimal di seluruh permadani rantai yang luas.
+Inti dari visi Xenify adalah protokol agregasi likuiditas mutakhir yang menyederhanakan pertukaran token lintas rantai. Apakah Anda ingin menukar token di Arbitrum, Ethereum, BNB Chain, Polygon, atau salah satu dari 54 chain yang didukung, Xenify siap membantu Anda. Dengan akses ke 28 agregator yang berbeda, Xenify menjamin likuiditas yang tak tertandingi dan harga yang optimal untuk swap Anda. Dengan memanfaatkan API yang canggih, Xenify menjembatani komunikasi tanpa batas dengan beragam agregator DEX, yang secara dramatis meningkatkan pengalaman swap dan menyederhanakan pencarian rute swap yang optimal di seluruh permadani rantai yang luas.
 
 Yang membedakan Xenify dengan platform swap lintas rantai lainnya adalah komitmen kami untuk mengembangkan ekosistem di mana semua peserta sejahtera secara kolektif. Dengan berkontribusi pada biaya swap di seluruh rantai EVM yang didukung, pengguna mendapatkan token XNF. Sementara itu, biaya yang masih harus dibayar didistribusikan kembali sebagai hadiah kepada para pemangku kepentingan veXNF dan digunakan kembali untuk mendorong pertumbuhan Xenify. Selain itu, Xenify berfungsi sebagai pembakar lapisan 1 strategis untuk XEN, memungkinkan konversi tanpa batas bagi pemegang XEN untuk berpartisipasi dalam lelang pembakaran. Pada akhir setiap siklus lelang burn, algoritme pemanfaatan biaya kami yang unik mengarahkan biaya burn tidak hanya sebagai hadiah untuk pemegang veXNF, tetapi juga mendorong pertumbuhan Xenify yang berkelanjutan melalui likuiditas yang dimiliki oleh protokol.
 
@@ -304,7 +304,7 @@ Dengan menyatukan agregasi likuiditas mutakhir dan tokenomics kami yang khas, Xe
 
 <br>
 
-Xenify tidak hanya hadir untuk mendorong batasan - kami memiliki misi untuk melenyapkan hambatan yang selama ini menghalangi adopsi DeFi secara umum. Protokol kami yang dibuat khusus dirancang untuk merevolusi transfer token di seluruh jaringan 52 chain yang luas, sambil memastikan pengalaman yang lancar dan mulus bagi pengguna yang menjelajahi dunia pertukaran token yang rumit di berbagai chain.
+Xenify tidak hanya hadir untuk mendorong batasan - kami memiliki misi untuk melenyapkan hambatan yang selama ini menghalangi adopsi DeFi secara umum. Protokol kami yang dibuat khusus dirancang untuk merevolusi transfer token di seluruh jaringan 54 chain yang luas, sambil memastikan pengalaman yang lancar dan mulus bagi pengguna yang menjelajahi dunia pertukaran token yang rumit di berbagai chain.
 
 Sebagai pelopor sejati dalam agregasi pertukaran lintas rantai, komitmen kami untuk meruntuhkan hambatan sangat besar. Kami bercita-cita untuk membangun lingkungan yang intuitif, aman, dan adil di mana pertukaran dan staking token di sejumlah besar rantai EVM terasa mudah. Misi kami adalah untuk terus berinovasi dan menyempurnakan fitur-fitur Xenify, beradaptasi dengan kebutuhan komunitas kami yang beragam, dan terus memperluas basis pengguna kami.
 
@@ -372,7 +372,7 @@ Xenify membedakan dirinya dalam ruang DeFi dengan komitmennya yang teguh terhada
 
 ## ⭐️ Kemampuan Agregator Rantai Silang Tingkat Lanjut
 
-Dengan Xenify, pertukaran antar rantai tidak pernah semulus dan seefisien ini, meruntuhkan hambatan dan mendorong ekosistem DeFi yang lebih saling terhubung. Fitur menonjol yang membedakan Xenify dari yang lain adalah bahwa kami adalah agregator meta agregator lintas rantai. Meskipun istilah ini mungkin terdengar rumit, ini berarti kami menyatukan beberapa agregator lintas rantai ke dalam satu platform. Dengan memanfaatkan protokol agregasi likuiditas canggih kami, kami dapat mengubah cara pengguna bertransisi di antara jaringan blockchain. Selain itu, pengguna memiliki kesempatan untuk mendapatkan token asli dari masing-masing rantai setiap hari, yang selanjutnya meningkatkan portofolio mereka. Dengan akses ke harga yang kompetitif dan likuiditas yang luar biasa dari 28 agregator di 52 rantai, pengguna kami menikmati manfaat yang tak tertandingi dan fleksibilitas yang lebih baik dalam mengelola aset mereka.  
+Dengan Xenify, pertukaran antar rantai tidak pernah semulus dan seefisien ini, meruntuhkan hambatan dan mendorong ekosistem DeFi yang lebih saling terhubung. Fitur menonjol yang membedakan Xenify dari yang lain adalah bahwa kami adalah agregator meta agregator lintas rantai. Meskipun istilah ini mungkin terdengar rumit, ini berarti kami menyatukan beberapa agregator lintas rantai ke dalam satu platform. Dengan memanfaatkan protokol agregasi likuiditas canggih kami, kami dapat mengubah cara pengguna bertransisi di antara jaringan blockchain. Selain itu, pengguna memiliki kesempatan untuk mendapatkan token asli dari masing-masing rantai setiap hari, yang selanjutnya meningkatkan portofolio mereka. Dengan akses ke harga yang kompetitif dan likuiditas yang luar biasa dari 28 agregator di 54 rantai, pengguna kami menikmati manfaat yang tak tertandingi dan fleksibilitas yang lebih baik dalam mengelola aset mereka.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -410,7 +410,7 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ## ✨ Pertukaran Lintas Rantai
 
-- Xenify adalah solusi terbaik untuk pertukaran lintas rantai, memungkinkan Anda menukar token di 52 rantai berbeda dengan mudah dan efisien. Pendekatan sederhana kami menawarkan tingkat kesederhanaan baru dan menyediakan akses ke 28 agregator, memastikan Anda selalu memiliki akses terhadap likuiditas dan harga terbaik untuk swap Anda.
+- Xenify adalah solusi terbaik untuk pertukaran lintas rantai, memungkinkan Anda menukar token di 54 rantai berbeda dengan mudah dan efisien. Pendekatan sederhana kami menawarkan tingkat kesederhanaan baru dan menyediakan akses ke 28 agregator, memastikan Anda selalu memiliki akses terhadap likuiditas dan harga terbaik untuk swap Anda.
 
 - Namun inilah bagian terbaiknya: Salah satu manfaat unik menggunakan Xenify adalah Anda memperoleh veXNF setiap kali Anda membayar biaya swap 0,5% pada rantai tempat XNF diterapkan. Ini berarti Anda tidak hanya menikmati pertukaran token yang lancar tetapi juga mengakumulasikan XNF, token asli Xenify.
 
@@ -583,7 +583,7 @@ Selain memperpanjang periode penguncian, pengguna juga dapat memanfaatkan opsi u
 
 <br>
 
-Memperkenalkan Xenify, agregator lintas rantai terbaik dari semua agregator! Dirancang secara ahli untuk menyederhanakan proses pertukaran bagi pengguna yang melintasi banyak rantai, Xenify menawarkan kemampuan yang tak tertandingi. Didukung oleh protokol agregasi likuiditas yang canggih, Xenify terhubung ke 28 agregator yang berbeda, memberikan likuiditas yang luar biasa dan harga yang tidak ada duanya di 52 chain terkemuka. Apakah Anda ingin menukar token antara Ethereum, Arbitrum, BNB Chain, Polygon, atau yang lainnya, Xenify membuatnya mudah dan bermanfaat!
+Memperkenalkan Xenify, agregator lintas rantai terbaik dari semua agregator! Dirancang secara ahli untuk menyederhanakan proses pertukaran bagi pengguna yang melintasi banyak rantai, Xenify menawarkan kemampuan yang tak tertandingi. Didukung oleh protokol agregasi likuiditas yang canggih, Xenify terhubung ke 28 agregator yang berbeda, memberikan likuiditas yang luar biasa dan harga yang tidak ada duanya di 54 chain terkemuka. Apakah Anda ingin menukar token antara Ethereum, Arbitrum, BNB Chain, Polygon, atau yang lainnya, Xenify membuatnya mudah dan bermanfaat!
 
 Bayangkan skenario ini: Anda ingin memperdagangkan Token-A di Ethereum untuk Token-B di BNB Chain. Dengan Xenify, yang diperlukan hanyalah satu klik dan satu transaksi di Ethereum. Tidak perlu lagi repot-repot menavigasi rantai yang berbeda atau mencari harga terbaik - Xenify menangani semuanya, memberi Anda harga yang paling menguntungkan yang tersedia. Namun, ada yang lebih dari sekadar pertukaran token; Xenify adalah ekosistem yang dirancang dengan cermat dengan tokenomics yang unik, yang menggabungkan model insentif terobosan yang menguntungkan semua peserta.
 
@@ -593,7 +593,7 @@ Begini cara kerjanya: Ketika Anda memilih untuk membayar biaya swap 0,5% untuk m
 
 Terlebih lagi, Xenify menggabungkan mekanisme pembakaran cerdik yang memungkinkan pengguna membakar token vXEN dan YSL untuk membuat XNF. Proses pembakaran vXEN bertindak sebagai pembakar lapisan 1 yang strategis, dan inilah bagian yang menarik – 40% dari biaya pembakaran dikembalikan ke pemegang veXNF, 40% digunakan untuk menciptakan likuiditas milik protokol XNF, sementara 10% digunakan untuk melakukan pembelian kembali dan pembakaran XNF secara otomatis, dengan 10% sisanya dikirim ke tim Xenify. Pendekatan ini tidak hanya mendorong keterlibatan pengguna dalam jangka panjang tetapi juga meningkatkan keberlanjutan, sekaligus meningkatkan imbalan bagi mereka yang terlibat secara mendalam dengan protokol ini.
 
-Pendekatan inovatif Xenify untuk penguncian dan penghargaan, dikombinasikan dengan model tokenomics yang unik, menciptakan ekosistem yang dirancang dengan cermat yang menguntungkan semua peserta. Baik Anda melakukan pertukaran token atau membakar token untuk mencetak XNF, setiap tindakan yang Anda lakukan di platform Xenify berkontribusi pada lingkungan timbal balik antara imbalan dan keterlibatan. Anda tidak hanya menikmati efisiensi yang tak tertandingi saat melakukan swap di 52 chain terkemuka, tetapi juga memiliki peluang untuk mendapatkan token chain asli setiap hari dan menjadi bagian dari komunitas yang berkembang. Xenify benar-benar menawarkan yang terbaik dari kedua dunia: pertukaran token yang mudah dan potensi penghasilan yang signifikan.
+Pendekatan inovatif Xenify untuk penguncian dan penghargaan, dikombinasikan dengan model tokenomics yang unik, menciptakan ekosistem yang dirancang dengan cermat yang menguntungkan semua peserta. Baik Anda melakukan pertukaran token atau membakar token untuk mencetak XNF, setiap tindakan yang Anda lakukan di platform Xenify berkontribusi pada lingkungan timbal balik antara imbalan dan keterlibatan. Anda tidak hanya menikmati efisiensi yang tak tertandingi saat melakukan swap di 54 chain terkemuka, tetapi juga memiliki peluang untuk mendapatkan token chain asli setiap hari dan menjadi bagian dari komunitas yang berkembang. Xenify benar-benar menawarkan yang terbaik dari kedua dunia: pertukaran token yang mudah dan potensi penghasilan yang signifikan.
 
 <br>
 
@@ -652,42 +652,44 @@ Pendekatan inovatif Xenify untuk penguncian dan penghargaan, dikombinasikan deng
 | 14  | Layer 2           | Linea         | https://linea.build                   |
 | 15  | Layer 1           | Tezos         | https://tezos.com                     |
 | 16  | Layer 2           | Metis         | https://metis.io                      |
-| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 18  | Layer 1           | Canto         | https://canto.io                      |
-| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 23  | Layer 2           | zkSync        | https://zksync.io                     |
-| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 26  | Layer 1           | Solana        | https://solana.com                    |
-| 27  | Layer 1           | Ripple        | https://ripple.com                    |
-| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 34  | Layer 2           | Polygon       | https://polygon.technology            |
-| 35  | Layer 1           | Arweave       | https://arweave.org                   |
-| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 41  | Layer 2           | Optimism      | https://optimism.io                   |
-| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 45  | Layer 1           | PulseChain    | https://pulsechain.com                |
-| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 17  | Layer 2           | Scroll        | https://scroll.io                     |
+| 18  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 19  | Layer 1           | Canto         | https://canto.io                      |
+| 20  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 21  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 22  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 23  | Layer 1           | Ripple        | https://ripple.com                    |
+| 24  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 25  | Layer 2           | zkSync        | https://zksync.io                     |
+| 26  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 27  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 28  | Layer 1           | Solana        | https://solana.com                    |
+| 29  | Layer 2           | Mantle        | https://www.mantle.xyz                |
+| 30  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 31  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 32  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 33  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 34  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 35  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 36  | Layer 2           | Polygon       | https://polygon.technology            |
+| 37  | Layer 1           | Arweave       | https://arweave.org                   |
+| 38  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 39  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 40  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 41  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 42  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 43  | Layer 2           | Optimism      | https://optimism.io                   |
+| 44  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 45  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 46  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 47  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 48  | Layer 1           | PulseChain    | https://pulsechain.com                |
+| 49  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 50  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 51  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 52  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 53  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 54  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
 
 <br>
 
@@ -886,13 +888,13 @@ Untuk setiap batch yang dibakar, token yang Anda berikan (vXEN atau YSL) akan di
 
 ## ⭐️ Swap untuk Mendapatkan XNF
 
-Xenify mendefinisikan ulang permainan dengan platform inovatif yang memungkinkan transaksi lintas rantai dengan sekali klik tanpa hambatan di 52 rantai, sekaligus memberikan kesempatan menarik bagi pengguna untuk mendapatkan token rantai asli setiap hari. Setiap kali pengguna membayar biaya swap 0,5% pada chain di mana XNF telah digunakan, mereka akan mendapatkan veXNF melalui alokasi mint harian. Keuntungan unik ini memungkinkan pengguna untuk menikmati pengalaman swap yang mudah sambil mengumpulkan token XNF secara bersamaan.
+Xenify mendefinisikan ulang permainan dengan platform inovatif yang memungkinkan transaksi lintas rantai dengan sekali klik tanpa hambatan di 54 rantai, sekaligus memberikan kesempatan menarik bagi pengguna untuk mendapatkan token rantai asli setiap hari. Setiap kali pengguna membayar biaya swap 0,5% pada chain di mana XNF telah digunakan, mereka akan mendapatkan veXNF melalui alokasi mint harian. Keuntungan unik ini memungkinkan pengguna untuk menikmati pengalaman swap yang mudah sambil mengumpulkan token XNF secara bersamaan.
 
 Namun, imbalannya tidak berhenti sampai di situ. Dengan memegang veXNF, pengguna memiliki kesempatan untuk meraup token rantai asli seperti BNB, ETH, dan MATIC setiap hari. Imbalan asli ini berasal dari biaya swap dan biaya pembakaran protokol.  Hasilnya, pengguna tidak hanya dapat menikmati efisiensi dan harga kompetitif yang ditawarkan Xenify, tetapi juga mendapatkan akses ke sistem reward yang dinamis dan berkelanjutan yang meningkatkan portofolio mereka.
 
 Dengan berpartisipasi dalam pertukaran token dengan Xenify, pengguna memainkan peran penting dalam mendorong pertumbuhan platform. Biaya swap yang dihasilkan pada chain di mana XNF telah digunakan didistribusikan di antara pemegang veXNF pada chain tertentu dan digunakan untuk Program Pembagian Biaya Mitra Xenify. Untuk chain di mana XNF belum digunakan, biaya swap digunakan oleh tim untuk mendukung upaya promosi dan memajukan pengembangan Xenify dan token afiliasinya. Hal ini menumbuhkan kesadaran yang lebih besar dan adopsi platform yang lebih luas, sehingga menguntungkan seluruh komunitas.
 
-Selain itu, dengan melakukan swap di salah satu dari 52 chain yang didukung, pengguna berhak mendapatkan airdrop eksklusif sebesar 1.500.000 XNF. Setiap acara airdrop berlangsung di chain di mana XNF dijadwalkan untuk digunakan dan berlangsung selama 60 hari sebelum peluncuran. Semua swap yang dilakukan selama periode ini menjamin pengguna mendapatkan bagian dari airdrop XNF yang akan datang. Dengan kata lain, meskipun Anda tidak mendapatkan keuntungan dari alokasi XNF harian saat Anda melakukan swap pada chain di mana XNF belum digunakan, Anda masih memiliki kesempatan untuk diikutsertakan dalam airdrop XNF eksklusif.
+Selain itu, dengan melakukan swap di salah satu dari 54 chain yang didukung, pengguna berhak mendapatkan airdrop eksklusif sebesar 1.500.000 XNF. Setiap acara airdrop berlangsung di chain di mana XNF dijadwalkan untuk digunakan dan berlangsung selama 60 hari sebelum peluncuran. Semua swap yang dilakukan selama periode ini menjamin pengguna mendapatkan bagian dari airdrop XNF yang akan datang. Dengan kata lain, meskipun Anda tidak mendapatkan keuntungan dari alokasi XNF harian saat Anda melakukan swap pada chain di mana XNF belum digunakan, Anda masih memiliki kesempatan untuk diikutsertakan dalam airdrop XNF eksklusif.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1565,7 +1567,7 @@ Seiring dengan perkembangan Xenify, kami bertujuan untuk memprioritaskan kepenti
 
 Xenify, sebuah agregator lintas rantai agregator, telah dibangun dengan cermat dari bawah ke atas untuk mengubah cara pengguna terlibat dalam pertukaran token. Fokus utamanya adalah memberikan pengalaman pengguna yang mulus, memberi penghargaan kepada anggota komunitas yang aktif, dan membangun model distribusi token yang adil dan berkelanjutan. Dengan memanfaatkan tokenomics yang inovatif, Xenify bercita-cita untuk membangun platform terdesentralisasi dan berbasis komunitas yang menghargai dan mendorong partisipasi aktif pengguna dalam ekosistem.
 
-Yang membedakan Xenify adalah koneksinya yang mulus ke 28 agregator yang berbeda, memungkinkan pertukaran sekali klik yang mudah dengan harga yang tidak ada duanya di 52 rantai terkemuka. Akan tetapi, nilainya lebih dari sekadar kenyamanan. Membedakan dirinya dari bursa lain, Xenify memfasilitasi adopsi pengguna dengan memastikan setiap tindakan yang diambil pada platform berkontribusi pada lingkungan timbal balik di mana manfaat bertambah berdasarkan kontribusi dan keterlibatan.
+Yang membedakan Xenify adalah koneksinya yang mulus ke 28 agregator yang berbeda, memungkinkan pertukaran sekali klik yang mudah dengan harga yang tidak ada duanya di 54 rantai terkemuka. Akan tetapi, nilainya lebih dari sekadar kenyamanan. Membedakan dirinya dari bursa lain, Xenify memfasilitasi adopsi pengguna dengan memastikan setiap tindakan yang diambil pada platform berkontribusi pada lingkungan timbal balik di mana manfaat bertambah berdasarkan kontribusi dan keterlibatan.
 
 Dengan Xenify, pengguna diberikan kesempatan eksklusif untuk mendapatkan token XNF di setiap swap, dilengkapi dengan model penguncian inovatif yang memungkinkan pengguna untuk mendapatkan token rantai asli seperti ETH, BNB, dan MATIC setiap hari. Model insentif yang unik ini tidak dapat disangkal memposisikan Xenify sebagai pilihan utama bagi mereka yang ingin menyederhanakan proses pertukaran lintas rantai sambil memaksimalkan potensi penghasilan mereka.
 
@@ -1709,7 +1711,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 ## ◽️ Xenify
 
-  - Xenify adalah protokol keuangan terdesentralisasi (DeFi) yang dirancang untuk merevolusi pengalaman pertukaran token. Xenify menawarkan agregator lintas rantai yang canggih, sehingga memudahkan untuk menukar token di 52 rantai yang berbeda. Dengan akses ke rute terbaik dan biaya terendah dari 28 agregator, Xenify memberdayakan pengguna untuk menukar token dengan mulus di antara rantai yang didukung. Xenify menekankan pada keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, yang bertujuan untuk menciptakan ekosistem DeFi yang lebih terhubung dan ramah pengguna.
+  - Xenify adalah protokol keuangan terdesentralisasi (DeFi) yang dirancang untuk merevolusi pengalaman pertukaran token. Xenify menawarkan agregator lintas rantai yang canggih, sehingga memudahkan untuk menukar token di 54 rantai yang berbeda. Dengan akses ke rute terbaik dan biaya terendah dari 28 agregator, Xenify memberdayakan pengguna untuk menukar token dengan mulus di antara rantai yang didukung. Xenify menekankan pada keadilan, kesederhanaan, transparansi, pemberdayaan pengguna, dan interoperabilitas, yang bertujuan untuk menciptakan ekosistem DeFi yang lebih terhubung dan ramah pengguna.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
