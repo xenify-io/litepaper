@@ -288,7 +288,7 @@ Welcome to Xenify! We are the Nexus of Innovation, Reward, Effortless Cross-Chai
 
 Xenify stands as a cross-chain meta-aggregator of aggregators, pioneering a new era of 'Swap to Earn'. Our groundbreaking protocol seamlessly integrates inventive tokenomics and advanced cross-chain functionality into a single, powerful package. By incorporating a unique, game theory-based incentive model that actively rewards engagement, Xenify is primed to instigate a seismic shift in the world of cross-chain swapping. Our mission is clear: revolutionise the DeFi landscape by offering the best of both worlds: an ultra-efficient cross-chain swap experience and substantial opportunities for earning.
 
-At the core of Xenify's bold vision is a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Arbitrum, Ethereum, BNB Chain, Polygon, or any of the 52 supported chains, Xenify has you covered. With access to 28 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
+At the core of Xenify's bold vision is a cutting-edge liquidity aggregation protocol that streamlines cross-chain token swaps. Whether you want to swap tokens on Arbitrum, Ethereum, BNB Chain, Polygon, or any of the 54 supported chains, Xenify has you covered. With access to 28 different aggregators, Xenify guarantees unparalleled liquidity and optimal rates for your swaps. By leveraging cutting-edge APIs, Xenify bridges seamless communication with a wide array of DEX aggregators, dramatically enhancing the swapping experience and streamlining the quest for optimal swap routes across the vast tapestry of chains.
 
 What sets Xenify apart from other cross-chain swapping platforms is our commitment to cultivating an ecosystem where all participants prosper collectively. By contributing to swap fees across the supported EVM chains, users earn XNF tokens. Meanwhile, the accrued fees are redistributed as rewards to veXNF stakeholders and redeployed into fueling Xenify's growth. Furthermore, Xenify serves as a strategic layer 1 burner for XEN, enabling seamless conversion for XEN holders to participate in the burn auctions. At the conclusion of each burn auction cycle, our unique fee-utilisation algorithm directs burn fees not just as rewards to veXNF holders, but also fuel the continuous growth of Xenify through protocol-owned liquidity.
 
@@ -304,7 +304,7 @@ As we bring together our cutting-edge liquidity aggregation and distinctive toke
 
 <br>
 
-Xenify isn't just here to push boundaries - we’re on a mission to obliterate the barriers that have been holding back mainstream adoption of DeFi. Our purpose-built protocol is set to revolutionise token transfers across a vast network of 52 chains, while ensuring a fluid and seamless experience for users navigating the intricate world of token swapping across multiple chains.
+Xenify isn't just here to push boundaries - we’re on a mission to obliterate the barriers that have been holding back mainstream adoption of DeFi. Our purpose-built protocol is set to revolutionise token transfers across a vast network of 54 chains, while ensuring a fluid and seamless experience for users navigating the intricate world of token swapping across multiple chains.
 
 As true pioneers in cross-chain swap aggregation, our commitment to breaking down barriers runs deep. We aspire to build an intuitive, secure, and fair environment where swapping and staking tokens across a vast number of EVM chains feels effortless. Our mission is to persistently innovate and refine Xenify's features, adapting to the ever-evolving needs of our diverse community, and continuously expanding our user base.
 
@@ -372,7 +372,7 @@ Xenify sets itself apart in the DeFi space with its unwavering commitment to fai
 
 ## ⭐️ Advanced Cross-chain Aggregator Capabilities
 
-With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 28 aggregators across 52 chains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
+With Xenify, swapping between chains has never been more seamless and efficient, breaking down barriers and fostering a more interconnected DeFi ecosystem. A standout feature that sets Xenify apart from the rest is that we're a cross-chain meta aggregator of aggregators. While the term may sound complex, it simply means that we bring together multiple cross-chain aggregators onto a single platform. By leveraging our advanced liquidity aggregation protocol, we are able to transform the way users transition between blockchain networks. Moreover, users have the opportunity to earn native tokens from the respective chains on a daily basis, further enhancing their portfolio. With access to competitive rates and exceptional liquidity from 28 aggregators across 54 chains, our users enjoy unparalleled benefits and enhanced flexibility in managing their assets.  
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -410,7 +410,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Cross-Chain Swapping
 
-- Xenify is the ultimate solution for cross-chain swapping, allowing you to exchange tokens across 52 different chains with ease and efficiency. Our streamlined approach offers a new level of simplicity and provides access to 28 aggregators, ensuring you always have access to the best liquidity and rates for your swaps.
+- Xenify is the ultimate solution for cross-chain swapping, allowing you to exchange tokens across 54 different chains with ease and efficiency. Our streamlined approach offers a new level of simplicity and provides access to 28 aggregators, ensuring you always have access to the best liquidity and rates for your swaps.
 
 - But here’s the best part: One of the unique benefits of using Xenify is that you earn veXNF every time you pay the 0.5% swap fee on chains where XNF is deployed. This means that you not only enjoy seamless token swaps but also accumulate XNF, the native token of Xenify.
 
@@ -583,7 +583,7 @@ Beyond extending lock periods, users can also take advantage of the option to me
 
 <br>
 
-Introducing Xenify, the ultimate cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify offers unmatched capabilities. Powered by an advanced liquidity aggregation protocol, Xenify connects to 28 different aggregators, delivering exceptional liquidity and unbeatable rates across 52 leading chains. Whether you want to swap tokens between Ethereum, Arbitrum, BNB Chain, Polygon, or many others, Xenify makes it effortless and rewarding!
+Introducing Xenify, the ultimate cross-chain aggregator of aggregators! Expertly designed to streamline the swapping process for users traversing multiple chains, Xenify offers unmatched capabilities. Powered by an advanced liquidity aggregation protocol, Xenify connects to 28 different aggregators, delivering exceptional liquidity and unbeatable rates across 54 leading chains. Whether you want to swap tokens between Ethereum, Arbitrum, BNB Chain, Polygon, or many others, Xenify makes it effortless and rewarding!
 
 Imagine this scenario: you want to trade Token-A on Ethereum for Token-B on BNB Chain. With Xenify, all it takes is a single click and a single transaction on Ethereum. No more hassle of navigating different chains or searching for the best rates – Xenify takes care of everything, providing you with the most favourable rates available. But there's more to Xenify than just token swaps; It's a meticulously designed ecosystem with unique tokenomics, incorporating a groundbreaking incentive model that benefits all participants. 
 
@@ -593,7 +593,7 @@ Here's how it works: When you opt to pay the 0.5% swap fee to execute a swap on 
 
 What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn vXEN and YSL tokens to mint XNF. The vXEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 40% of the burn fees go back to veXNF holders, 40% is utilised to create XNF protocol-owned liquidity, while 10% is utilised to perform an automated buyback and burn of XNF, with the remaining 10% sent to the Xenify team. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
 
-Xenify's innovative approach to locking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 52 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
+Xenify's innovative approach to locking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 54 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
 
 <br>
 
@@ -652,42 +652,44 @@ Xenify's innovative approach to locking and rewards, combined with its unique to
 | 14  | Layer 2           | Linea         | https://linea.build                   |
 | 15  | Layer 1           | Tezos         | https://tezos.com                     |
 | 16  | Layer 2           | Metis         | https://metis.io                      |
-| 17  | Layer 1           | Zcash         | https://www.z.cash                    |
-| 18  | Layer 1           | Canto         | https://canto.io                      |
-| 19  | Layer 1           | Aptos         | https://aptoslabs.com                 |
-| 20  | Layer 1           | Klaytn        | https://www.klaytn.com                |
-| 21  | Layer 1           | Stellar       | https://www.stellar.org               |
-| 22  | Layer 1           | Evmos         | https://evmos.dev                     |
-| 23  | Layer 2           | zkSync        | https://zksync.io                     |
-| 24  | Layer 1           | Gnosis        | https://gnosis.io                     |
-| 25  | Layer 1           | Aurora        | https://aurora.dev                    |
-| 26  | Layer 1           | Solana        | https://solana.com                    |
-| 27  | Layer 1           | Ripple        | https://ripple.com                    |
-| 28  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
-| 29  | Layer 1           | Cronos        | https://crypto.com/chain              |
-| 30  | Layer 1           | Fantom        | https://fantom.foundation             |
-| 31  | Layer 1           | Filecoin      | https://filecoin.io                   |
-| 32  | Layer 1           | Litecoin      | http://litecoin.org                   |
-| 33  | Layer 1           | Monero        | https://www.getmonero.org             |
-| 34  | Layer 2           | Polygon       | https://polygon.technology            |
-| 35  | Layer 1           | Arweave       | https://arweave.org                   |
-| 36  | Layer 1           | Osmosis       | https://osmosis.zone                  |
-| 37  | Layer 1           | Cardano       | https://www.cardano.org               | 
-| 38  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
-| 39  | Layer 1           | Polkadot      | https://polkadot.network              |
-| 40  | Layer 1           | Ethereum      | https://ethereum.org                  |
-| 41  | Layer 2           | Optimism      | https://optimism.io                   |
-| 42  | Layer 1           | Avalanche     | https://www.avax.network              |
-| 43  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
-| 44  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
-| 45  | Layer 1           | PulseChain    | https://pulsechain.com                |
-| 46  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
-| 47  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
-| 48  | Layer 1           | NEAR Protocol | https://near.org                      |
-| 49  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
-| 50  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
-| 51  | Parachain         | Moonbeam      | https://moonbeam.network              |
-| 52  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 17  | Layer 2           | Scroll        | https://scroll.io                     |
+| 18  | Layer 1           | Zcash         | https://www.z.cash                    |
+| 19  | Layer 1           | Canto         | https://canto.io                      |
+| 20  | Layer 1           | Aptos         | https://aptoslabs.com                 |
+| 21  | Layer 1           | Klaytn        | https://www.klaytn.com                |
+| 22  | Layer 1           | Stellar       | https://www.stellar.org               |
+| 23  | Layer 1           | Ripple        | https://ripple.com                    |
+| 24  | Layer 1           | Evmos         | https://evmos.dev                     |
+| 25  | Layer 2           | zkSync        | https://zksync.io                     |
+| 26  | Layer 1           | Gnosis        | https://gnosis.io                     |
+| 27  | Layer 1           | Aurora        | https://aurora.dev                    |
+| 28  | Layer 1           | Solana        | https://solana.com                    |
+| 29  | Layer 2           | Mantle        | https://www.mantle.xyz                |
+| 30  | Layer 1           | Bitcoin       | https://bitcoin.org                   |
+| 31  | Layer 1           | Cronos        | https://crypto.com/chain              |
+| 32  | Layer 1           | Fantom        | https://fantom.foundation             |
+| 33  | Layer 1           | Filecoin      | https://filecoin.io                   |
+| 34  | Layer 1           | Litecoin      | http://litecoin.org                   |
+| 35  | Layer 1           | Monero        | https://www.getmonero.org             |
+| 36  | Layer 2           | Polygon       | https://polygon.technology            |
+| 37  | Layer 1           | Arweave       | https://arweave.org                   |
+| 38  | Layer 1           | Osmosis       | https://osmosis.zone                  |
+| 39  | Layer 1           | Cardano       | https://www.cardano.org               | 
+| 40  | Layer 2           | Arbitrum      | https://arbitrum.io                   |
+| 41  | Layer 1           | Polkadot      | https://polkadot.network              |
+| 42  | Layer 1           | Ethereum      | https://ethereum.org                  |
+| 43  | Layer 2           | Optimism      | https://optimism.io                   |
+| 44  | Layer 1           | Avalanche     | https://www.avax.network              |
+| 45  | Layer 1           | Bitcoin SV    | https://bitcoinsv.com                 |
+| 46  | Parachain         | Moonriver     | https://moonbeam.network/moonriver    |
+| 47  | Layer 1           | BNB Chain     | https://www.bnbchain.org              |
+| 48  | Layer 1           | PulseChain    | https://pulsechain.com                |
+| 49  | Layer 1           | OKEx Chain    | https://www.okex.com/okexchain        |
+| 50  | Parachain         | Moonbeam      | https://moonbeam.network              |
+| 51  | Layer 1           | Bitcoin Cash  | https://www.bitcoincash.org           |
+| 52  | Layer 1           | NEAR Protocol | https://near.org                      |
+| 53  | Layer 2           | Ethereum PoW  | https://ethereumpow.org               |
+| 54  | Layer 2           | Polygon zkEVM | https://zkevm.polygon.technology      |
 
 <br>
 
@@ -886,13 +888,13 @@ For each batch burned, the tokens you provide (vXEN or YSL) are permanently remo
 
 ## ⭐️ Swap to Earn XNF 
 
-Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 52 chains, while providing users the exciting opportunity to earn native chain tokens daily. Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
+Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 54 chains, while providing users the exciting opportunity to earn native chain tokens daily. Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
 But, the rewards don't stop there. By holding veXNF, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native rewards stem from the protocol’s swap fees and burn fees.  As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
 
 By participating in token swaps with Xenify, users play a pivotal role in driving the platform's growth. The swap fees generated on chains where XNF has been deployed are distributed among the veXNF holders on that specific chain and utilised for Xenify’s Partner Fee Sharing Programme. For chains where XNF is yet to be deployed, the swap fees are utilised by the team to support promotional efforts and advance the development of Xenify and its affiliated tokens. This fosters greater awareness and wider adoption of the platform, benefiting the entire community.
 
-Moreover, by engaging in swaps on any of the 52 supported chains, users become eligible for an exclusive airdrop of 1,500,000 XNF. Each airdrop event takes place on a chain where XNF is scheduled to be deployed and lasts for 60 days before the launch. All swaps conducted during this period guarantee users a share of the upcoming XNF airdrop. In other words, even though you don’t benefit from a daily XNF allocation when you execute swaps on chains where XNF hasn’t been deployed, you still have the opportunity to be included in an exclusive XNF airdrop.
+Moreover, by engaging in swaps on any of the 54 supported chains, users become eligible for an exclusive airdrop of 1,500,000 XNF. Each airdrop event takes place on a chain where XNF is scheduled to be deployed and lasts for 60 days before the launch. All swaps conducted during this period guarantee users a share of the upcoming XNF airdrop. In other words, even though you don’t benefit from a daily XNF allocation when you execute swaps on chains where XNF hasn’t been deployed, you still have the opportunity to be included in an exclusive XNF airdrop.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1565,7 +1567,7 @@ As Xenify evolves, we aim to prioritise our users' interests, nurturing transpar
 
 Xenify, a cross-chain aggregator of aggregators, has been meticulously built from the ground up to transform the way users engage in token swaps. Its primary focus is to deliver a seamless user experience, reward active community members, and establish a fair and sustainable token distribution model. By harnessing innovative tokenomics, Xenify aspires to establish a decentralised, community-driven platform that values and encourages users' active participation within the ecosystem.
 
-What sets Xenify apart is its seamless connection to 28 different aggregators, enabling effortless single-click swaps at unbeatable rates across 52 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
+What sets Xenify apart is its seamless connection to 28 different aggregators, enabling effortless single-click swaps at unbeatable rates across 54 leading chains. However, its value extends beyond mere convenience. Distinguishing itself from other exchanges, Xenify facilitates user adoption by ensuring every action taken on the platform contributes to a reciprocal environment where benefits accrue based on contributions and involvement.
 
 With Xenify, users are granted an exclusive opportunity to earn XNF tokens on every swap, complemented by an innovative locking model that enables users to earn native chain tokens such as ETH, BNB, and MATIC on a daily basis. This unique incentive model undeniably positions Xenify as the top choice for those seeking to simplify the cross-chain swapping process while maximising their earning potential.
 
