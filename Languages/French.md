@@ -73,9 +73,9 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 - Dans les enchères de gravure quotidiennes hébergées sur Arbitrum, les utilisateurs ont la possibilité de graver de 1 à 10 000 lots. Un seul lot de gravure YSL représente 0,1 YSL, tandis qu'un lot de gravure vXEN correspond à 10 000 000 vXEN. Des frais natifs de 0,01 ETH sont appliqués par lot dans les enchères Burn et ETH.
 
-- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25 % de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25 % restants en fonction de leurs lots de gravure respectifs.
+- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25% de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25% restants en fonction de leurs lots de gravure respectifs.
 
-- De plus, les participants à l'enchère ETH reçoivent 25 % de l'offre de XNF sous forme de récompenses veXNF, accompagnées d'un verrou récupérable d'un an. Une fois réclamées, ces récompenses améliorent la capacité de gain du participant, lui permettant de gagner plus d'ETH. De même, ceux qui participent aux enchères Swap recevront les 25 % restants de la distribution quotidienne de XNF sous forme de récompenses veXNF, également avec un verrou récupérable d'un an. Lors de leur réclamation, leur capacité de gain augmentera également.
+- De plus, les participants à l'enchère ETH reçoivent 40% de l'offre de XNF sous forme de récompenses veXNF, accompagnées d'un verrou récupérable d'un an. Une fois réclamées, ces récompenses améliorent la capacité de gain du participant, lui permettant de gagner plus d'ETH. De même, ceux qui participent aux enchères Swap recevront les 10% restants de la distribution quotidienne de XNF sous forme de récompenses veXNF, également avec un verrou récupérable d'un an. Lors de leur réclamation, leur capacité de gain augmentera également.
 
 <br>
 
@@ -101,7 +101,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 - 40% des ETH collectés lors des enchères quotidiennes seront alloués aux détenteurs de veXNF, proportionnellement à leur puissance veXNF.
 
-- Les utilisateurs qui choisissent de réclamer leurs récompenses ETH devront payer des frais de réclamation de 25 %. Cette redevance sera ensuite redistribuée aux participants ayant participé au recyclage dans la première heure d'un cycle, en fonction de leur pouvoir veXNF.
+- Les utilisateurs qui choisissent de réclamer leurs récompenses ETH devront payer des frais de réclamation de 25%. Cette redevance sera ensuite redistribuée aux participants ayant participé au recyclage dans la première heure d'un cycle, en fonction de leur pouvoir veXNF.
 
 <br>
 
@@ -179,7 +179,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- XNF dispose d'une offre maximale de 22,6 millions, la distribution de ces jetons se fait via quatre enchères quotidiennes. Chaque jour, 5 250 000 XNF, soit 25 % des tokens XNF, sont alloués aux participants engagés dans l'YSL Burn Auction. Une quantité identique de 5 250 000 XNF est également versée aux participants à la vente aux enchères vXEN Burn. De plus, 50 % supplémentaires de l’approvisionnement quotidien en XNF sont réservés aux récompenses veXNF. Il est toutefois crucial de noter que ces récompenses sont soumises à une période de blocage d'un an, après quoi elles sont distribuées aux personnes participant à l'ETH Auction (25 %) et à l'Swap Auction (25 %). Au total, cela se traduit par une distribution quotidienne de 10 500 000 XNF sur ces enchères.
+- XNF dispose d'une offre maximale de 22,6 millions, la distribution de ces jetons se fait via quatre enchères quotidiennes. Chaque jour, 5 250 000 XNF, soit 25% des tokens XNF, sont alloués aux participants engagés dans l'YSL Burn Auction. Une quantité identique de 5 250 000 XNF est également versée aux participants à la vente aux enchères vXEN Burn. De plus, 50 % supplémentaires de l’approvisionnement quotidien en XNF sont réservés aux récompenses veXNF. Il est toutefois crucial de noter que ces récompenses sont soumises à une période de blocage d'un an, après quoi elles sont distribuées aux personnes participant à l'ETH Auction (40%) et à l'Swap Auction (10%). Au total, cela se traduit par une distribution quotidienne de 10 500 000 XNF sur ces enchères.
 
 - Xenify utilise un calendrier agressif de réduction de moitié pour sa distribution de jetons. La première réduction a lieu au bout de 3 mois, suivie d'une autre à 6 mois et de moitiés ultérieures à 12, 24 et 48 mois. Après ces cinq réductions initiales de moitié, il y a trois réductions supplémentaires, chacune se produisant tous les 48 mois. Ce mécanisme de réduction de moitié est conçu pour réduire progressivement la distribution quotidienne des jetons XNF.
 
@@ -404,7 +404,7 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 - Dans les enchères de gravure quotidiennes hébergées sur Arbitrum, les utilisateurs ont la possibilité de graver de 1 à 10 000 lots. Un seul lot de gravure YSL représente 0,1 YSL, tandis qu'un lot de gravure vXEN correspond à 10 000 000 vXEN. Des frais natifs de 0,01 ETH sont appliqués par lot dans les enchères Burn et ETH.
 
-- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25 % de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25 % restants en fonction de leurs lots de gravure respectifs.
+- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25% de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25% restants en fonction de leurs lots de gravure respectifs.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -420,9 +420,9 @@ Xenify met l'accent sur l'équité et les investissements à long terme. Nous cr
 
 ## ✨ Recyclage des récompenses natives
 
-- Le recyclage de vos récompenses en chaîne natives offre un large éventail d'avantages et constitue une décision stratégique à considérer. En choisissant de recycler vos récompenses, vous évitez non seulement les frais de réclamation de 25 %, mais vous débloquez également la possibilité de participer au cycle de gravure sans fournir de jetons natifs supplémentaires pour couvrir les frais de gravure obligatoires. Contrairement au processus de gravure normal, notre protocole déduit de manière unique les frais de gravure de vos récompenses recyclées, permettant ainsi une participation gratuite.
+- Le recyclage de vos récompenses en chaîne natives offre un large éventail d'avantages et constitue une décision stratégique à considérer. En choisissant de recycler vos récompenses, vous évitez non seulement les frais de réclamation de 25%, mais vous débloquez également la possibilité de participer au cycle de gravure sans fournir de jetons natifs supplémentaires pour couvrir les frais de gravure obligatoires. Contrairement au processus de gravure normal, notre protocole déduit de manière unique les frais de gravure de vos récompenses recyclées, permettant ainsi une participation gratuite.
 
-- Le recyclage offre également une passerelle vers une distribution exclusive de récompenses générées par les frais de réclamation de 25 % lorsque vous choisissez de recycler pendant la première heure d'un cycle. Mais voici le meilleur : lorsque vous recyclez, vos récompenses contribuent grandement à fortifier notre écosystème. Votre contribution augmentera non seulement les récompenses pour les détenteurs de veXNF, mais stimulera également la prolifération des liquidités appartenant au protocole XNF et soutiendra les efforts opérationnels de notre équipe. Il s'agit d'une décision stratégique qui renforce Xenify de l'intérieur.
+- Le recyclage offre également une passerelle vers une distribution exclusive de récompenses générées par les frais de réclamation de 25% lorsque vous choisissez de recycler pendant la première heure d'un cycle. Mais voici le meilleur : lorsque vous recyclez, vos récompenses contribuent grandement à fortifier notre écosystème. Votre contribution augmentera non seulement les récompenses pour les détenteurs de veXNF, mais stimulera également la prolifération des liquidités appartenant au protocole XNF et soutiendra les efforts opérationnels de notre équipe. Il s'agit d'une décision stratégique qui renforce Xenify de l'intérieur.
 
 - En un mot, le recyclage n'améliore pas seulement votre position XNF grâce à une gravure gratuite. Il débloque également un accès exclusif à des récompenses et contribue activement à la croissance de Xenify. Cela crée une situation gagnant-gagnant dans laquelle vos contributions sont récompensées et le protocole progresse, créant un écosystème prospère pour tous les participants.
 
@@ -723,15 +723,15 @@ XNF est l'élément vital du protocole Xenify, et son offre totale est limitée 
 
 Avec une offre totale plafonnée à 22,6 millions de jetons XNF, stratégiquement divisée en trois segments principaux, Xenify a été délibérément conçu pour récompenser les participants actifs tout en promouvant un écosystème équilibré :
 
-- **21 000 000 XNF assignés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités qui soutiennent le développement continu du protocole auront la chance de gagner une part des jetons XNF dédiés aux enchères quotidiennes.
+- **21.000.000 XNF assignés aux enchères quotidiennes:** Les utilisateurs qui participent à diverses activités qui soutiennent le développement continu du protocole auront la chance de gagner une part des jetons XNF dédiés aux enchères quotidiennes.
 
-  - 10 500 000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Cette allocation sera répartie de manière égale, 50 % étant réservés aux brûleurs vXEN et les 50 % restants aux brûleurs YSL. S'il n'y a pas de brûleurs YSL au cours d'un cycle, la totalité de l'allocation quotidienne en XNF destinée à la vente aux enchères sera distribuée aux brûleurs vXEN, et vice versa.
+  - 10.500.000 XNF (50 %) sont distribués aux participants aux enchères de brûlage. Cette allocation sera répartie de manière égale, 50 % étant réservés aux brûleurs vXEN et les 50 % restants aux brûleurs YSL. S'il n'y a pas de brûleurs YSL au cours d'un cycle, la totalité de l'allocation quotidienne en XNF destinée à la vente aux enchères sera distribuée aux brûleurs vXEN, et vice versa.
     
-  - 5 250 000 XNF (25%) sont distribués aux utilisateurs qui contribuent aux jetons natifs pour participer à la vente aux enchères quotidienne. Ces jetons XNF seront distribués aux participants sous la forme de veXNF, avec une période de blocage associée d'un an.
+  - 8.400.000 XNF (40%) sont distribués aux utilisateurs qui contribuent aux jetons natifs pour participer à la vente aux enchères quotidienne. Ces jetons XNF seront distribués aux participants sous la forme de veXNF, avec une période de blocage associée d'un an.
 
-  - 5 250 000 XNF (25%) sont distribués aux utilisateurs qui s'engagent dans des swaps sur les chaînes EVM prises en charge. Ces jetons XNF seront distribués parmi les participants aux échanges sous la forme de veXNF, avec une période de blocage associée d'un an.
+  - 2.100.000 XNF (10%) sont distribués aux utilisateurs qui s'engagent dans des swaps sur les chaînes EVM prises en charge. Ces jetons XNF seront distribués parmi les participants aux échanges sous la forme de veXNF, avec une période de blocage associée d'un an.
 
-- **100 000 XNF affectés à l'établissement d'un pool de liquidités XNF V3:** Pour favoriser un écosystème solide, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Cette initiative permettra à notre communauté d'échanger des XNF de manière transparente dès le début. Pour faciliter cela, la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) seront utilisés pour établir un pool de liquidité XNF V3 à la fin du cycle.
+- **100.000 XNF affectés à l'établissement d'un pool de liquidités XNF V3:** Pour favoriser un écosystème solide, 100 000 XNF seront mis de côté pour amorcer la liquidité appartenant au protocole au moment du lancement. Cette initiative permettra à notre communauté d'échanger des XNF de manière transparente dès le début. Pour faciliter cela, la majorité des frais générés par la participation au premier jour (y compris les frais de swap, les frais natifs et les frais de combustion) seront utilisés pour établir un pool de liquidité XNF V3 à la fin du cycle.
 
 - **1 500 000 XNF attribués comme parachutage exclusif pour les participants au swap :** Pour encourager l'engagement, chaque chaîne disposera d'un parachutage exclusif de 1 500 000 XNF pour les utilisateurs qui effectuent des swaps avant le déploiement de XNF. Le largage aura lieu le premier jour du lancement et sera distribué sous forme de jetons verrouillés, déverrouillés progressivement sur 730 jours.
 
@@ -868,7 +868,7 @@ En établissant une voie à sens unique, notre pool de liquidités appartenant �
 
 Le processus de frappe de XNF au sein de Xenify a été méticuleusement structuré pour récompenser les utilisateurs qui s'engagent activement et contribuent à la croissance du protocole. Cette initiative garantit une distribution équitable des jetons XNF et favorise un protocole véritablement décentralisé et axé sur la communauté. Le modèle d'incitation de Xenify est soigneusement conçu, offrant des récompenses proportionnelles aux utilisateurs qui intensifient leur engagement sur la plateforme. Cette approche encourage la participation, car les utilisateurs peuvent acquérir des jetons XNF nouvellement créés en fonction de leur activité sur la plateforme.
 
-La distribution des jetons XNF suit des cycles d'une journée, commençant avec un pool de récompense de 20 000 jetons XNF. Cette allocation quotidienne est divisée en quatre parties : 25 % sont distribués aux utilisateurs qui brûlent des vXEN, 25 % sont distribués aux utilisateurs qui brûlent des YSL, 25 % sont distribués aux contributeurs de jetons natifs, et les 25 % restants sont distribués parmi les contributeurs de frais d'échange de la plateforme. Cette répartition quotidienne s'étendra également à toutes les autres chaînes de déploiement futures. Grâce à la mise en œuvre d'un modèle de réduction de moitié, la quantité de monnaie frappée quotidiennement diminue progressivement, pour aboutir à la distribution complète des 22,6 millions de jetons XNF au mois 2461.
+La distribution des jetons XNF suit des cycles d'une journée, commençant avec un pool de récompense de 20 000 jetons XNF. Cette allocation quotidienne est divisée en quatre parties : 25% sont distribués aux utilisateurs qui brûlent des vXEN, 25% sont distribués aux utilisateurs qui brûlent des YSL, 40% sont distribués aux contributeurs de jetons natifs, et les 10% restants sont distribués parmi les contributeurs de frais d'échange de la plateforme. Cette répartition quotidienne s'étendra également à toutes les autres chaînes de déploiement futures. Grâce à la mise en œuvre d'un modèle de réduction de moitié, la quantité de monnaie frappée quotidiennement diminue progressivement, pour aboutir à la distribution complète des 22,6 millions de jetons XNF au mois 2461.
 
 Les utilisateurs sont en outre incités par le mécanisme de verrouillage du protocole, qui leur permet d'accumuler des récompenses sous la forme de jetons natifs spécifiques à la chaîne, tels que l'ETH sur Arbitrum. Ces récompenses sont générées par diverses activités au sein de Xenify, notamment par les frais de gravure, les frais de swap et les frais natifs. Notre modèle d'incitation unique à trois niveaux incite les utilisateurs à utiliser Xenify pour gagner des XNF, tout en récompensant ceux qui verrouillent leurs jetons XNF pour gagner des récompenses natives. Cela fonctionne comme un volant d'inertie, propulsant la croissance à long terme de Xenify tout en cultivant un système de récompense dynamique et durable qui encourage une base d'utilisateurs toujours croissante.
 
@@ -920,7 +920,7 @@ En payant les frais d'échange nominaux de 0,5 % sur les chaînes où le XNF est
 
 Et voici la partie la plus intéressante : en détenant du veXNF, vous débloquez des gains supplémentaires sous la forme de récompenses locales basées sur votre capacité à gagner de l'argent. Ces récompenses sont distribuées à la fin de chaque cycle quotidien. En substance, en exécutant simplement un swap sur Xenify, vous avez l'incroyable opportunité de gagner des jetons de la chaîne native tels que BNB et ETH sur une base quotidienne !
 
-Mais ce n'est pas tout ! Les frais d'échange ont également été conçus pour soutenir l'expansion de Xenify par le biais de notre programme de partage des frais de partenariat. Cette initiative offre une opportunité passionnante aux projets partenaires de gagner une part des frais d'échange générés sur leurs jetons natifs. De cette façon, nous pouvons encourager plus de projets à rejoindre notre écosystème et permettre à leurs utilisateurs de récolter les bénéfices de Xenify. Avec 25 % des frais d'échange partagés à parts égales entre le projet partenaire et Xenify, nous établissons une relation mutuellement avantageuse qui soutient le projet partenaire ainsi que les efforts de développement, de marketing et de sensibilisation de Xenify.
+Mais ce n'est pas tout ! Les frais d'échange ont également été conçus pour soutenir l'expansion de Xenify par le biais de notre programme de partage des frais de partenariat. Cette initiative offre une opportunité passionnante aux projets partenaires de gagner une part des frais d'échange générés sur leurs jetons natifs. De cette façon, nous pouvons encourager plus de projets à rejoindre notre écosystème et permettre à leurs utilisateurs de récolter les bénéfices de Xenify. Avec 25% des frais d'échange partagés à parts égales entre le projet partenaire et Xenify, nous établissons une relation mutuellement avantageuse qui soutient le projet partenaire ainsi que les efforts de développement, de marketing et de sensibilisation de Xenify.
 
 En bref, le programme de partage des frais des partenaires de Xenify exploite stratégiquement les frais d'échange pour aligner les incitations entre les participants à l'échange, les détenteurs de veXNF, les partenaires et le protocole lui-même, facilitant ainsi une croissance durable pour tous.
 
@@ -1128,18 +1128,18 @@ La comparaison de ces scénarios met en évidence les avantages qu'il y a à br�
 
 ## ⭐️ Distribution des cycles XNF
 
-Xenify utilise une approche équilibrée dans la distribution quotidienne des jetons XNF, en se concentrant sur quatre composants centraux à travers toutes les chaînes sur lesquelles il est déployé. Ces composants reçoivent une part égale de la monnaie quotidienne, avec 25 % alloués aux utilisateurs qui participent à la combustion des jetons vXEN, 25 % alloués aux utilisateurs qui brûlent des jetons YSL, 25 % alloués aux contributeurs de jetons natifs, et les 25 % restants distribués parmi ceux qui s'engagent dans des swaps.
+Xenify adopte une approche stratégique pour attribuer chaque jour des jetons XNF, en se concentrant sur la récompense de quatre groupes de participants clés au sein des écosystèmes de toutes les chaînes EVM sur lesquelles elle opère. Ces groupes sont reconnus grâce à un pourcentage prédéterminé du total quotidien des jetons émis : 25% sont accordés aux utilisateurs brûlant des jetons vXEN, 25% supplémentaires à ceux brûlant des jetons YSL, une part plus importante de 40 % aux contributeurs de jetons natifs et les 10 % finaux. à ceux impliqués dans les échanges de jetons.
 
-Par exemple, si la quantité de jetons XNF frappés quotidiennement est de 20 000, la distribution est répartie de manière égale, chaque composant recevant 5 000 jetons XNF. Cette structure d'allocation uniforme s'étend à toutes les chaînes où Xenify est présent. Ainsi, quelle que soit la chaîne qu'ils utilisent, les participants impliqués dans la combustion de jetons, la contribution de natifs ou l'exécution de swaps ont la possibilité de gagner une partie des jetons XNF frappés quotidiennement.
+Par exemple, avec un volume de frappe quotidien de 20 000 jetons XNF, l'allocation n'est pas répartie également par défaut, compte tenu des désignations de pourcentage variable. Par conséquent, les brûleurs de jetons vXEN et les brûleurs de jetons YSL sécurisent chacun 5 000 jetons XNF, représentant leurs parts respectives de 25%. Les contributeurs de jetons natifs se voient attribuer 8 000 jetons XNF, correspondant à une allocation de 40 %, tandis que les participants au swap reçoivent une part de 2 000 jetons XNF, soit les 10 % restants. Ce processus de distribution systématique est uniforme dans toutes les chaînes EVM, garantissant des récompenses justes et proportionnées pour les diverses activités des utilisateurs.
 
-Pour déterminer la part de la Monnaie de chaque utilisateur, le protocole effectuera une série de calculs. Ces calculs seront basés sur les contributions faites par un utilisateur à chaque composant au cours du cycle. Le protocole consolidera ces contributions afin de calculer avec précision la distribution totale de XNF pour chaque utilisateur. Cette approche méthodique garantit une distribution équitable, créditant à la fois l'engagement actif de l'utilisateur dans les brûlages de jetons et sa contribution en termes de jetons natifs et de frais d'échange. Gardez à l'esprit que les XNF gagnés grâce aux contributions natives et aux frais d'échange seront distribués en tant que veXNF.
+Pour déterminer la part précise de jetons XNF que chaque utilisateur reçoit de la monnaie quotidienne, le protocole effectue une série de calculs précis qui prennent en compte la contribution individuelle de l'utilisateur à chacun des pools d'activités. Suite à la collecte de données sur les activités des utilisateurs, le protocole calcule la quantité méritée de jetons XNF à distribuer à chaque participant. Ce processus rigoureux garantit une distribution équitable en reconnaissant la participation active de l'utilisateur aux gravures de jetons, aux contributions de jetons natifs et aux activités d'échange. Notamment, les jetons gagnés grâce aux contributions natives et aux frais d'échange sont fournis sous forme de veXNF, renforçant l'engagement des utilisateurs avec des avantages supplémentaires.
 
 Le protocole calcule votre part du XNF quotidien alloué aux contributions de frais de combustion vXEN, en prenant en compte le total des jetons XNF distribués (TD), le nombre total de lots vXEN brûlés pendant le cycle (TB), et le nombre de lots vXEN que vous avez brûlés pendant le cycle (BB). Voici la formule de l'allocation de combustion vXEN (XBA) expliquée en détail :
 
 <br>
 
 $$
-XBA = (TD \div 4) \times (BB \div TB)
+XBA = (TD \times 10%) \times (BB \div TB)
 $$
 
 <br>
@@ -1165,12 +1165,12 @@ $$
 
 <br>
 
-Voici comment cela fonctionne : Le protocole calcule l'allocation de combustion de vXEN de l'utilisateur (XBA) en divisant d'abord le total des jetons XNF prévus pour être distribués pour le cycle (TD) par 4, étant donné que 25 % de la menthe quotidienne XNF est allouée aux participants qui brûlent des vXEN. Il calcule ensuite la proportion de lots de vXEN brûlés par l'utilisateur spécifique (BB) par rapport au total des lots de vXEN brûlés par tous les utilisateurs (TB). Il en résulte une valeur par lot brûlé. Enfin, le protocole multiplie ces valeurs pour déterminer l'allocation individuelle de vXEN brûlé de l'utilisateur pour ce cycle (XBA). Le calcul de l'allocation de combustion YSL (YBA) suit la même logique, comme indiqué dans la formule ci-dessous :
+oici comment cela fonctionne : Le protocole calcule l'allocation de gravure vXEN (XBA) de l'utilisateur en multipliant d'abord le total des jetons XNF prévus pour être distribués pour le cycle (TD) par 25%, puisque 25% de la monnaie quotidienne XNF est allouée aux participants qui graver vXEN. Il calcule ensuite la proportion de lots vXEN gravés par l'utilisateur spécifique (BB) par rapport au total de lots vXEN brûlés par tous les utilisateurs (TB), ce qui donne une valeur par lot brûlé. Enfin, le protocole multiplie ces valeurs pour déterminer l'allocation de gravure vXEN individuelle de l'utilisateur pour ce cycle (XBA). Le calcul de l'allocation de brûlage YSL (YBA) suit la même logique que celle décrite dans la formule ci-dessous :
 
 <br>
 
 $$
-YBA = (TD \div 4) \times (BB \div TB)
+YBA = (TD \times 25%) \times (BB \div TB)
 $$
 
 <br>
@@ -1201,7 +1201,7 @@ De même, le protocole calcule votre allocation de swap (SA) pour un cycle, en p
 <br>
 
 $$
-SA = (TD \div 4) \times (USF \div TSF)
+SA = (TD \times 10%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1227,14 +1227,18 @@ $$
  
 <br>
 
-Voici comment cela fonctionne : Le protocole calcule la contribution d'échange de l'utilisateur (SA) en divisant d'abord le total des jetons XNF distribués (TD) par 4, étant donné que 25 % de la monnaie quotidienne XNF est allouée aux participants qui effectuent des échanges sur les chaînes prises en charge. Il multiplie ensuite le résultat par le rapport entre les frais d'échange de l'utilisateur (USF) et le total des frais d'échange (TS) payés par tous les utilisateurs. Cela génère une valeur spécifique pour chaque unité de frais de swap payée et aide à déterminer la proportion de jetons XNF qu'un utilisateur reçoit en fonction de sa contribution individuelle aux frais de swap dans un cycle donné.
+Le processus de calcul de la part de jetons XNF de chaque utilisateur pour les activités d'échange est méticuleux et comporte plusieurs étapes. Premièrement, le protocole détermine l'allocation totale pour les participants au swap, qui représente 10 % du total des jetons XNF distribués quotidiennement. Cette allocation est conforme à la politique qui réserve 10 % de tous les jetons XNF émis quotidiennement spécifiquement aux utilisateurs qui effectuent des échanges.
+
+Après avoir mis de côté l’allocation totale de swap, le protocole quantifie la contribution individuelle de chaque utilisateur. Il compare les frais de swap payés par l'utilisateur (USF) au total des frais de swap (TS) collectés auprès de tous les utilisateurs. Le montant des frais de swap de l'utilisateur est divisé par le total des frais de swap pour calculer son ratio de contribution. Cette étape est cruciale pour garantir que les tokens distribués à chaque utilisateur sont proportionnels à son implication spécifique.
+
+Enfin, le protocole multiplie l'allocation totale de swap par le taux de contribution de l'utilisateur pour déterminer sa part légitime des jetons XNF. Ce calcul final attribue une valeur distincte à chaque unité de frais payée par l'utilisateur. Par conséquent, le protocole distribue les jetons XNF d'une manière qui reflète précisément l'engagement de l'utilisateur avec le pool de frais de swap pour ce cycle. Cela garantit une distribution juste et précise des jetons correspondant au niveau d'activité de chaque utilisateur.
 
 Utilisant une logique similaire, le protocole calculera votre part de l'allocation native (NA) pour un cycle, en prenant en compte le total des jetons XNF prévus pour être distribués pour le cycle (TD), le total des lots contribués par des jetons natifs par tous les utilisateurs pendant le cycle (TNC), et le nombre de lots contribués avec des jetons natifs par vous pendant le cycle (UNC). Voici la formule expliquée en détail :
 
 <br>
 
 $$
-NA = (TD \div 4) \times (UNC \div TNC)
+NA = (TD \times 10%) \times (UNC \div TNC)
 $$
 
 <br>
@@ -1391,7 +1395,7 @@ Vous avez maintenant deux options : Soit prolonger votre période de blocage (de
 
 ## ⭐️ Réclamer des récompenses indigènes
 
-Chez Xenify, vous pouvez retirer à tout moment les récompenses natives que vous avez accumulées. Cependant, sachez que le fait de réclamer directement des récompenses entraîne des frais de réclamation de 25 %. Pour éviter ces frais, il vous suffit de cliquer sur "Recycler" au lieu de "Réclamer". Le recyclage vous permet d'utiliser vos récompenses accumulées pour acquérir des XNF par le biais de l'enchère de combustion quotidienne, tout en évitant les frais de combustion obligatoires.
+Chez Xenify, vous pouvez retirer à tout moment les récompenses natives que vous avez accumulées. Cependant, sachez que le fait de réclamer directement des récompenses entraîne des frais de réclamation de 25%. Pour éviter ces frais, il vous suffit de cliquer sur "Recycler" au lieu de "Réclamer". Le recyclage vous permet d'utiliser vos récompenses accumulées pour acquérir des XNF par le biais de l'enchère de combustion quotidienne, tout en évitant les frais de combustion obligatoires.
 
 Lorsque vous choisissez de réclamer vos récompenses, les jetons natifs collectés à partir des frais de réclamation sont stockés dans un pool temporaire. À la fin du cycle, ces jetons sont distribués exclusivement aux détenteurs de veXNF qui ont recyclé leurs récompenses au cours de la première heure du cycle. Cette distribution exclusive se fera parallèlement à la distribution quotidienne des récompenses natives du protocole à la fin de chaque cycle, les recycleurs éligibles recevant une part basée sur leur position en veXNF. En bref, si vous recyclez dans l'heure 1, vous recevrez une partie du produit des frais de réclamation de ce cycle.
 
@@ -1401,9 +1405,7 @@ Cette mécanique de recyclage apporte une multitude de bénéfices pour l’éco
 
 ## ⭐️ Recycling Native Rewards
 
-Découvrez la manière intelligente de maximiser votre potentiel de revenus grâce à la fonction de recyclage de Xenify. En recyclant les récompenses de chaîne natives accumulées, vous contournez les frais de réclamation de 25 % et renforcez votre position XNF lorsque votre solde complet entre dans l'enchère quotidienne.
-
-Ce qui rend ce processus unique est la capacité du protocole à déduire les frais de gravure directement de vos récompenses recyclées. Cela permet une participation sans jeton aux enchères de gravure, contrairement au processus de gravure normal qui nécessite des lots vXEN ou YSL, ainsi que des jetons natifs pour couvrir les frais de gravure obligatoires.
+Découvrez la manière intelligente de maximiser votre potentiel de revenus grâce à la fonction de recyclage de Xenify. En recyclant les récompenses de chaîne natives accumulées, vous contournez les frais de réclamation de 25 % et renforcez votre position XNF lorsque votre solde complet entre dans l'enchère quotidienne. Ce qui rend ce processus unique est la capacité du protocole à déduire les frais de gravure directement de vos récompenses recyclées. Cela permet une participation sans jeton aux enchères de gravure, contrairement au processus de gravure normal qui nécessite des lots vXEN ou YSL, ainsi que des jetons natifs pour couvrir les frais de gravure obligatoires.
 
 Mais attendez, il y a plus ! En signe de gratitude pour leur participation active au protocole, les détenteurs de veXNF qui recyclent les récompenses au cours de la première heure du cycle deviennent également éligibles à une distribution exclusive de jetons natifs grâce aux frais de réclamation de 25 % facturés sur les réclamations directes. À la fin de chaque cycle, le produit des frais de réclamation accumulés sera distribué aux recycleurs éligibles proportionnellement à leurs avoirs en XNF et à la puissance veXNF associée.
 
@@ -1423,7 +1425,7 @@ $$
 
 <br>
 
-40 % des frais de gravure seront mis de côté et distribués aux détenteurs de veXNF éligibles à la fin du cycle, 10 % seront envoyés à l'équipe et les 50 % restants seront utilisés pour créer des liquidités appartenant au protocole XNF. Ensuite, les 0,5025 BNB restants de vos récompenses sont partagés : 90 % (0,45225 ETH) sont utilisés pour créer des liquidités appartenant au protocole XNF, et 10 % (0,05025 ETH) sont envoyés à l'équipe Xenify. À la fin du cycle, vous recevez XNF pour votre contribution à la gravure de 100 lots. Mais ce n'est pas tout, puisque vous avez recyclé des récompenses pendant la première heure du cycle, vous recevrez également une part des ETH collectés grâce aux frais de réclamation de 25 % !
+40 % des frais de gravure seront mis de côté et distribués aux détenteurs de veXNF éligibles à la fin du cycle, 10 % seront envoyés à l'équipe et les 50 % restants seront utilisés pour créer des liquidités appartenant au protocole XNF. Ensuite, les 0,5025 BNB restants de vos récompenses sont partagés : 90 % (0,45225 ETH) sont utilisés pour créer des liquidités appartenant au protocole XNF, et 10 % (0,05025 ETH) sont envoyés à l'équipe Xenify. À la fin du cycle, vous recevez XNF pour votre contribution à la gravure de 100 lots. Mais ce n'est pas tout, puisque vous avez recyclé des récompenses pendant la première heure du cycle, vous recevrez également une part des ETH collectés grâce aux frais de réclamation de 25% !
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1431,7 +1433,7 @@ $$
 
 Au cours de chaque cycle, la réserve de récompenses du protocole accumule progressivement des jetons natifs générés par les frais de combustion et les frais d'échange. Cette réserve s'accroît à chaque transaction, qu'il s'agisse d'un échange ou d'une combustion. La somme totale de la réserve de récompenses est ensuite distribuée aux détenteurs de veXNF en fonction de leurs avoirs en XNF et de leur capacité de gain associée. S'il n'y a pas de détenteurs de veXNF à la fin du cycle, les récompenses natives générées par les frais d'échange et de combustion seront utilisées pour créer des liquidités XNF appartenant au protocole. Cette fonction ne sera déclenchée qu'à la fin d'un cycle, lorsqu'il n'y aura plus de détenteurs de veXNF et que tous les verrous auront expiré.
 
-En plus des récompenses générées par les frais de combustion et les frais d'échange, le protocole effectuera également une distribution exclusive de jetons natifs dérivés des 25 % de frais de réclamation facturés lorsque les détenteurs de veXNF réclament leurs récompenses natives. Cette distribution exclusive sera réservée aux détenteurs de veXNF qui recyclent leurs récompenses dans la première heure d'un cycle. En alignant les incitations et en mettant les récompenses inutilisées au travail, Xenify crée un écosystème prospère et durable qui encourage l'engagement et cultive une base d'utilisateurs croissante, contribuant à renforcer la croissance à long terme du protocole.
+En plus des récompenses générées par les frais de combustion et les frais d'échange, le protocole effectuera également une distribution exclusive de jetons natifs dérivés des 25% de frais de réclamation facturés lorsque les détenteurs de veXNF réclament leurs récompenses natives. Cette distribution exclusive sera réservée aux détenteurs de veXNF qui recyclent leurs récompenses dans la première heure d'un cycle. En alignant les incitations et en mettant les récompenses inutilisées au travail, Xenify crée un écosystème prospère et durable qui encourage l'engagement et cultive une base d'utilisateurs croissante, contribuant à renforcer la croissance à long terme du protocole.
 
 <br>
 
@@ -1687,7 +1689,7 @@ Bienvenue dans le glossaire Xenify, votre ressource de référence pour comprend
 
 ## ◽️ YSL
 
-- YSL a été conçu pour être un jeton hyper-déflationniste, mélangeant la rareté quantifiable et l'utilité à travers les enchères quotidiennes de Xenify. Avec une offre totale fixe et un mécanisme de combustion intégré, YSL a le potentiel d'augmenter sa valeur au fil du temps à mesure que l'offre circulante diminue. L'YSL atteint cet objectif grâce à son intégration dans la vente aux enchères quotidienne de Xenify, qui alloue 25 % des XNF nouvellement créés aux utilisateurs qui choisissent de brûler leurs jetons YSL. Cette source quotidienne constante de demande pour brûler des jetons YSL génère une pression déflationniste perpétuelle, contrairement à d'autres jetons déflationnistes qui dépendent uniquement de l'activité commerciale. En bref, la tokénomique déflationniste d'YSL offre une opportunité intrigante - avec une rareté codifiée, une utilité et des moteurs prévisibles de croissance de la valeur.
+- YSL a été conçu pour être un jeton hyper-déflationniste, mélangeant la rareté quantifiable et l'utilité à travers les enchères quotidiennes de Xenify. Avec une offre totale fixe et un mécanisme de combustion intégré, YSL a le potentiel d'augmenter sa valeur au fil du temps à mesure que l'offre circulante diminue. L'YSL atteint cet objectif grâce à son intégration dans la vente aux enchères quotidienne de Xenify, qui alloue 25% des XNF nouvellement créés aux utilisateurs qui choisissent de brûler leurs jetons YSL. Cette source quotidienne constante de demande pour brûler des jetons YSL génère une pression déflationniste perpétuelle, contrairement à d'autres jetons déflationnistes qui dépendent uniquement de l'activité commerciale. En bref, la tokénomique déflationniste d'YSL offre une opportunité intrigante - avec une rareté codifiée, une utilité et des moteurs prévisibles de croissance de la valeur.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
