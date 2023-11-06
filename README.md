@@ -1165,7 +1165,7 @@ $$
 
 <br>
 
-Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XBA) by first dividing the total XNF tokens scheduled to be distributed for the cycle (TD) by 4, as 25% of the XNF daily mint is allocated to participants that burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB). This results in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic, as outlined in the formula below:
+Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XBA) by first multiplying the total XNF tokens scheduled to be distributed for the cycle (TD) by 25%, since 25% of the XNF daily mint is allocated to participants who burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB), resulting in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic as outlined in the formula below:
 
 <br>
 
@@ -1201,7 +1201,7 @@ Similarly, the protocol calculates your swap allocation (SA) for a cycle, by tak
 <br>
 
 $$
-SA = (TD \div 4) \times (USF \div TSF)
+SA = (TD \times 10) \times (USF \div TSF)
 $$
 
 <br>
@@ -1227,7 +1227,11 @@ $$
  
 <br>
 
-Here’s how it works: The protocol calculates the user's swap contribution (SA) by first dividing the total XNF tokens distributed (TD) by 4, as 10% of the XNF daily mint is allocated to participants that perform swaps on supported chains. It then multiplies the result by the ratio of the user's swap fees (USF) to the total swap fees (TS) paid by all users. This generates a specific value for each unit of swap fee paid and helps in determining the proportion of XNF tokens a user receives based on their individual contribution to the swap fees in a given cycle.
+The process for calculating each user's share of XNF tokens for swap activities is meticulous and involves several steps. First, the protocol determines the total allocation for swap participants, which is 10% of the total XNF tokens distributed daily. This allocation aligns with the policy that earmarks 10% of all daily minted XNF tokens specifically for users who perform swaps.
+
+After setting aside the total swap allocation, the protocol quantifies each user's individual contribution. It compares the user's paid swap fees (USF) against the total of swap fees (TS) collected from all users. The user's swap fee amount is divided by the total swap fees to calculate their contribution ratio. This step is crucial for ensuring that the tokens distributed to each user are proportional to their specific involvement.
+
+Lastly, the protocol multiplies the total swap allocation by the user's contribution ratio to determine their rightful share of XNF tokens. This final calculation assigns a distinct value to every unit of fee paid by the user. Consequently, the protocol disburses XNF tokens in a manner that precisely mirrors the user's engagement with the swap fee pool for that cycle. This ensures a fair and accurate token distribution corresponding to each user's activity level.
 
 Utilising a similar logic, the protocol will calculate your share of the native allocation (NA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total batches contributed through native tokens by all users during the cycle (TNC), and the number of batches contributed with native tokens by you during the cycle (UNC). Here's the formula explained in detail:
 
@@ -1401,9 +1405,7 @@ This recycling mechanic provides a multitude of benefits for the ecosystem and r
 
 ## ⭐️ Recycling Native Rewards
 
-Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction.
-
-What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables token-free participation in the burn auction, unlike the normal burn process which requires either vXEN or YSL batches, as well as native tokens to cover the mandatory burn fee.
+Discover the smart way to maximise your earning potential with Xenify's recycling feature. By recycling accrued native chain rewards, you bypass the 25% claim fee and strengthen your XNF position as your full balance enters the daily burn auction. What makes this process unique is the protocol's ability to deduct the burn fee directly from your recycled rewards. This enables token-free participation in the burn auction, unlike the normal burn process which requires either vXEN or YSL batches, as well as native tokens to cover the mandatory burn fee.
 
 But wait, there's more! As a token of gratitude for their active participation in the protocol, veXNF holders who recycle rewards during the first hour of the cycle also become eligible for an exclusive distribution of native tokens from the 25% claim fee charged on direct claims. At the end of each cycle, accumulated claim fee proceeds will be distributed to eligible recyclers proportional to their XNF holdings and its associated veXNF power.
 
