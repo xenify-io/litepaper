@@ -1139,7 +1139,7 @@ The protocol calculates your share of the daily XNF allocated to the vXEN burn f
 <br>
 
 $$
-XBA = (TD \div 4) \times (BB \div TB)
+XBA = (TD \times 10%) \times (BB \div TB)
 $$
 
 <br>
@@ -1170,7 +1170,7 @@ Here’s how it works: The protocol calculates the user’s vXEN burn allocation
 <br>
 
 $$
-YBA = (TD \div 4) \times (BB \div TB)
+YBA = (TD \times 25%) \times (BB \div TB)
 $$
 
 <br>
@@ -1201,7 +1201,7 @@ Similarly, the protocol calculates your swap allocation (SA) for a cycle, by tak
 <br>
 
 $$
-SA = (TD \times 10) \times (USF \div TSF)
+SA = (TD \times 10%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1238,7 +1238,7 @@ Utilising a similar logic, the protocol will calculate your share of the native 
 <br>
 
 $$
-NA = (TD \div 4) \times (UNC \div TNC)
+NA = (TD \times 10%) \times (UNC \div TNC)
 $$
 
 <br>
