@@ -75,7 +75,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 - Setiap hari, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran harian. Distribusinya dialokasikan secara merata antara Lelang Pembakaran YSL dan Lelang Pembakaran vXEN. Misalnya, jika hanya 1 kumpulan YSL yang dibakar dan 10.000 kumpulan vXEN dibakar pada siklus tertentu, pengguna yang membakar satu kumpulan YSL akan menerima seluruh 25% pasokan XNF harian, sedangkan pembakar vXEN akan berbagi 25% lainnya berdasarkan kelompok pembakaran masing-masing.
 
-- Selain itu, peserta lelang ETH diberikan 25% pasokan XNF sebagai hadiah veXNF, yang dilengkapi dengan kunci 1 tahun yang dapat diklaim. Setelah diklaim, hadiah ini akan meningkatkan kekuatan penghasilan peserta, memungkinkan mereka memperoleh lebih banyak ETH. Demikian pula, mereka yang berpartisipasi dalam lelang Swap akan menerima sisa 25% dari distribusi XNF harian sebagai hadiah veXNF, juga dengan kunci yang dapat diklaim selama 1 tahun. Setelah melakukan klaim, kekuatan pendapatan mereka juga akan meningkat.
+- Selain itu, peserta lelang ETH diberikan 40% pasokan XNF sebagai hadiah veXNF, yang dilengkapi dengan kunci 1 tahun yang dapat diklaim. Setelah diklaim, hadiah ini akan meningkatkan kekuatan penghasilan peserta, memungkinkan mereka memperoleh lebih banyak ETH. Demikian pula, mereka yang berpartisipasi dalam lelang Swap akan menerima sisa 10% dari distribusi XNF harian sebagai hadiah veXNF, juga dengan kunci yang dapat diklaim selama 1 tahun. Setelah melakukan klaim, kekuatan pendapatan mereka juga akan meningkat.
 
 <br>
 
@@ -179,7 +179,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- XNF memiliki pasokan maksimum 22,6 juta, distribusi token ini terjadi melalui empat lelang harian. Setiap hari, 5,250,000 XNF, yang mewakili 25% token XNF, dialokasikan kepada peserta yang terlibat dalam Lelang Pembakaran YSL. Jumlah yang sama sebesar 5.250.000 XNF juga diberikan kepada mereka yang berpartisipasi dalam Lelang Pembakaran vXEN. Selain itu, tambahan 50% dari pasokan XNF harian disisihkan untuk hadiah veXNF. Namun, penting untuk dicatat bahwa hadiah ini tunduk pada periode lock-up selama satu tahun, setelah itu didistribusikan kepada individu yang berpartisipasi dalam Lelang ETH (25%) dan Lelang Swap (25%). Secara total, hal ini menghasilkan distribusi harian sebesar 10.500.000 XNF di seluruh lelang ini.
+- XNF memiliki pasokan maksimum 22,6 juta, distribusi token ini terjadi melalui empat lelang harian. Setiap hari, 5,250,000 XNF, yang mewakili 25% token XNF, dialokasikan kepada peserta yang terlibat dalam Lelang Pembakaran YSL. Jumlah yang sama sebesar 5.250.000 XNF juga diberikan kepada mereka yang berpartisipasi dalam Lelang Pembakaran vXEN. Selain itu, tambahan 50% dari pasokan XNF harian disisihkan untuk hadiah veXNF. Namun, penting untuk dicatat bahwa hadiah ini tunduk pada periode lock-up selama satu tahun, setelah itu didistribusikan kepada individu yang berpartisipasi dalam Lelang ETH (40%) dan Lelang Swap (10%). Secara total, hal ini menghasilkan distribusi harian sebesar 10.500.000 XNF di seluruh lelang ini.
 
 - Xenify menerapkan jadwal separuh yang agresif untuk distribusi tokennya. Pengurangan pertama terjadi pada tanda 3 bulan, diikuti oleh pengurangan berikutnya pada 6 bulan, dan pengurangan separuh berikutnya pada 12, 24, dan 48 bulan. Setelah lima pengurangan separuh pertama ini, terdapat tiga pengurangan tambahan, yang masing-masing terjadi setiap 48 bulan. Mekanisme halving ini dirancang untuk secara bertahap mengurangi distribusi harian token XNF.
 
@@ -727,9 +727,9 @@ Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strateg
 
   - 10.500.000 XNF (50%) didistribusikan kepada peserta lelang burn. Alokasi ini akan didistribusikan secara merata, dengan 50% disisihkan untuk burner vXEN dan 50% sisanya untuk burner YSL. Jika tidak ada pembakar YSL selama satu siklus, seluruh alokasi XNF harian yang ditetapkan untuk lelang bakar akan didistribusikan di antara pembakar vXEN, dan sebaliknya.
     
-  - 5.250.000 XNF (25%) didistribusikan kepada pengguna yang menyumbangkan token asli untuk berpartisipasi dalam lelang harian. Token XNF ini akan didistribusikan di antara para peserta dalam bentuk veXNF, dengan periode penguncian terkait selama 1 tahun.
+  - 8.400.000 XNF (40%) didistribusikan kepada pengguna yang menyumbangkan token asli untuk berpartisipasi dalam lelang harian. Token XNF ini akan didistribusikan di antara para peserta dalam bentuk veXNF, dengan periode penguncian terkait selama 1 tahun.
 
-  - 5.250.000 XNF (25%) didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Token XNF ini akan didistribusikan di antara peserta swap dalam bentuk veXNF, dengan periode penguncian terkait selama 1 tahun.
+  - 2.100.000 XNF (10%) didistribusikan kepada pengguna yang melakukan swap pada rantai EVM yang didukung. Token XNF ini akan didistribusikan di antara peserta swap dalam bentuk veXNF, dengan periode penguncian terkait selama 1 tahun.
 
 - **100.000 XNF ditugaskan untuk membangun kumpulan likuiditas XNF V3:** Untuk memberdayakan ekosistem yang kuat, 100.000 XNF akan disisihkan untuk bootstrap likuiditas yang dimiliki protokol pada saat peluncuran. Inisiatif ini akan memungkinkan komunitas kami untuk memperdagangkan XNF dengan lancar sejak awal. Untuk memfasilitasi hal ini, sebagian besar biaya yang dihasilkan dari partisipasi hari pertama (termasuk biaya swap, biaya asli, dan biaya pembakaran) akan digunakan untuk membangun pool likuiditas XNF V3 di akhir siklus.
 
@@ -868,7 +868,7 @@ Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berub
 
 Proses pencetakan XNF di dalam Xenify telah disusun dengan cermat untuk memberi penghargaan kepada pengguna yang secara aktif terlibat dan berkontribusi pada pertumbuhan protokol. Inisiatif ini memastikan distribusi token XNF yang adil dan mendorong protokol yang benar-benar terdesentralisasi dan digerakkan oleh komunitas. Model insentif Xenify dibuat dengan hati-hati, menawarkan imbalan yang proporsional kepada pengguna yang mengintensifkan keterlibatan mereka dengan platform. Pendekatan semacam itu mendorong partisipasi lebih lanjut, karena pengguna dapat memperoleh token XNF yang baru dicetak relatif terhadap aktivitas platform mereka.
 
-Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah sebesar 20.000 token XNF. Alokasi harian ini dibagi menjadi empat cara: 25% didistribusikan kepada pengguna yang membakar vXEN, 25% didistribusikan kepada pengguna yang membakar YSL, 25% didistribusikan kepada kontributor token asli, dan 25% sisanya didistribusikan di antara kontributor biaya swap platform. Alokasi harian ini juga akan meluas ke semua rantai penyebaran lainnya di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
+Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah sebesar 20.000 token XNF. Alokasi harian ini dibagi menjadi empat cara: 25% didistribusikan kepada pengguna yang membakar vXEN, 25% didistribusikan kepada pengguna yang membakar YSL, 40% didistribusikan kepada kontributor token asli, dan 10% sisanya didistribusikan di antara kontributor biaya swap platform. Alokasi harian ini juga akan meluas ke semua rantai penyebaran lainnya di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
 
 Pengguna diberi insentif lebih lanjut melalui mekanisme penguncian protokol, yang memungkinkan mereka mengumpulkan hadiah dalam bentuk token asli khusus rantai, seperti ETH di Arbitrum. Imbalan ini dihasilkan dari berbagai aktivitas dalam Xenify, khususnya dari biaya pembakaran, biaya swap, dan biaya asli. Model insentif tiga tingkat kami yang unik mendorong pengguna untuk menggunakan Xenify untuk mendapatkan XNF, sekaligus memberi penghargaan kepada mereka yang mengunci token XNF mereka untuk mendapatkan hadiah asli. Hal ini berfungsi sebagai roda gila, mendorong pertumbuhan jangka panjang Xenify sambil mengembangkan sistem penghargaan yang dinamis dan berkelanjutan yang memberi insentif pada basis pengguna yang terus berkembang.
 
@@ -1128,18 +1128,18 @@ Membandingkan skenario ini menyoroti manfaat pembakaran batch pada jam pertama d
 
 ## ⭐️ Siklus Distribusi XNF
 
-Xenify menggunakan pendekatan yang seimbang dalam distribusi harian token XNF, dengan fokus pada empat komponen utama di semua chain yang digunakannya. Komponen-komponen ini menerima bagian yang sama dari mint harian, dengan 25% dialokasikan untuk pengguna yang berpartisipasi dalam pembakaran token vXEN, 25% dialokasikan untuk pengguna yang membakar token YSL, 25% dialokasikan untuk kontributor token asli, dan 25% sisanya didistribusikan di antara mereka yang melakukan swap.
+Xenify mengadopsi pendekatan strategis untuk mengalokasikan token XNF setiap hari, dengan fokus memberi penghargaan kepada empat kelompok peserta utama dalam ekosistem semua rantai EVM tempat Xenify beroperasi. Kelompok-kelompok ini diakui melalui persentase yang telah ditentukan dari total token harian yang dicetak: 25% diberikan kepada pengguna yang membakar token vXEN, 25% lagi kepada mereka yang membakar token YSL, bagian yang lebih besar yaitu 40% kepada kontributor token asli, dan 10% terakhir kepada mereka yang terlibat dalam pertukaran token.
 
-Misalnya, jika jumlah token XNF yang dicetak setiap hari adalah 20.000, distribusinya dibagi rata, dengan setiap komponen menerima 5.000 token XNF. Struktur alokasi yang seragam ini berlaku untuk semua chain yang menggunakan Xenify. Dengan demikian, terlepas dari rantai yang mereka gunakan, peserta yang terlibat dalam pembakaran token, kontribusi penduduk asli, atau melakukan swap memiliki kesempatan untuk mendapatkan sebagian dari token XNF yang dicetak setiap hari.
+Misalnya, dengan volume pencetakan harian sebesar 20.000 token XNF, penjatahan tidak dibagi rata secara default, mengingat penetapan persentase variabel. Akibatnya, pembakar token vXEN dan pembakar token YSL masing-masing mengamankan 5.000 token XNF, yang mewakili 25% sahamnya masing-masing. Kontributor token asli diberi 8.000 token XNF, sesuai dengan alokasi 40%, sementara peserta swap diberikan bagian 2.000 token XNF, yang merupakan 10% sisanya. Proses distribusi sistematis ini seragam di seluruh rantai EVM, memastikan imbalan yang adil dan proporsional untuk beragam aktivitas pengguna.
 
-Untuk memastikan bagian setiap pengguna dari mint harian, protokol akan melakukan serangkaian perhitungan. Perhitungan ini akan didasarkan pada kontribusi yang diberikan oleh pengguna ke setiap komponen selama siklus. Protokol akan menggabungkan kontribusi ini untuk menghitung secara akurat total distribusi XNF untuk setiap pengguna. Pendekatan metodis ini memastikan distribusi yang adil, dengan mengkreditkan keterlibatan aktif pengguna dalam pembakaran token dan kontribusi mereka dalam hal token asli dan biaya swap. Perlu diingat, XNF yang diperoleh melalui kontribusi asli dan biaya swap akan didistribusikan sebagai veXNF.
+Untuk menentukan pembagian token XNF yang tepat yang diterima setiap pengguna dari pencetakan harian, protokol melakukan serangkaian penghitungan tepat yang memperhitungkan kontribusi individu pengguna ke setiap kumpulan aktivitas. Setelah pengumpulan data aktivitas pengguna, protokol menghitung jumlah token XNF yang layak untuk didistribusikan ke setiap peserta. Proses yang ketat ini menjamin distribusi yang adil dengan mengakui partisipasi aktif pengguna dalam pembakaran token, kontribusi token asli, dan aktivitas pertukaran. Khususnya, token yang diperoleh dari kontribusi asli dan biaya swap disediakan sebagai veXNF, sehingga memperkuat keterlibatan pengguna dengan manfaat tambahan.
 
 Protokol menghitung bagian Anda dari XNF harian yang dialokasikan untuk kontribusi biaya pembakaran vXEN, dengan mempertimbangkan total token XNF yang didistribusikan (TD), jumlah total batch vXEN yang dibakar selama siklus (TB), dan jumlah batch vXEN yang Anda bakar selama siklus (BB). Berikut rumus untuk alokasi pembakaran vXEN (XBA) yang dijelaskan secara rinci:
 
 <br>
 
 $$
-XBA = (TD \div 4) \times (BB \div TB)
+XBA = (TD \times 10%) \times (BB \div TB)
 $$
 
 <br>
@@ -1165,12 +1165,12 @@ $$
 
 <br>
 
-Begini cara kerjanya: Protokol menghitung alokasi pembakaran vXEN pengguna (XBA) dengan terlebih dahulu membagi total token XNF yang dijadwalkan untuk didistribusikan untuk siklus (TD) dengan 4, karena 25% dari XNF mint harian dialokasikan untuk peserta yang membakar vXEN. Kemudian menghitung proporsi batch vXEN yang dibakar oleh pengguna tertentu (BB) terhadap total batch vXEN yang dibakar oleh semua pengguna (TB). Ini menghasilkan nilai per batch yang dibakar. Terakhir, protokol mengalikan nilai-nilai ini untuk menentukan alokasi pembakaran vXEN individu pengguna untuk siklus tersebut (XBA). Perhitungan untuk alokasi pembakaran YSL (YBA) mengikuti logika yang sama, seperti yang diuraikan dalam rumus di bawah ini:
+Begini cara kerjanya: Protokol menghitung alokasi pembakaran vXEN (XBA) pengguna dengan terlebih dahulu mengalikan total token XNF yang dijadwalkan untuk didistribusikan untuk siklus (TD) sebesar 25%, karena 25% dari pencetakan harian XNF dialokasikan kepada peserta yang bakar vXEN. Kemudian menghitung proporsi kumpulan vXEN yang dibakar oleh pengguna tertentu (BB) terhadap total kumpulan vXEN yang dibakar oleh semua pengguna (TB), sehingga menghasilkan nilai per kumpulan yang dibakar. Terakhir, protokol mengalikan nilai-nilai ini untuk menentukan alokasi pembakaran vXEN individual pengguna untuk siklus tersebut (XBA). Perhitungan alokasi pembakaran YSL (YBA) mengikuti logika yang sama seperti yang diuraikan dalam rumus di bawah ini:
 
 <br>
 
 $$
-YBA = (TD \div 4) \times (BB \div TB)
+YBA = (TD \times 25%) \times (BB \div TB)
 $$
 
 <br>
@@ -1201,7 +1201,7 @@ Demikian pula, protokol menghitung alokasi swap (SA) Anda untuk sebuah siklus, d
 <br>
 
 $$
-SA = (TD \div 4) \times (USF \div TSF)
+SA = (TD \times 10%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1227,14 +1227,18 @@ $$
  
 <br>
 
-Begini cara kerjanya: Protokol menghitung kontribusi swap pengguna (SA) dengan terlebih dahulu membagi total token XNF yang didistribusikan (TD) dengan 4, karena 25% dari pencetakan harian XNF dialokasikan untuk peserta yang melakukan swap pada chain yang didukung. Kemudian mengalikan hasilnya dengan rasio biaya swap pengguna (USF) dengan total biaya swap (TS) yang dibayarkan oleh semua pengguna. Ini menghasilkan nilai spesifik untuk setiap unit biaya swap yang dibayarkan dan membantu dalam menentukan proporsi token XNF yang diterima pengguna berdasarkan kontribusi individu mereka terhadap biaya swap dalam siklus tertentu.
+Proses penghitungan bagian token XNF setiap pengguna untuk aktivitas pertukaran sangat teliti dan melibatkan beberapa langkah. Pertama, protokol menentukan total alokasi peserta swap, yaitu 10% dari total token XNF yang didistribusikan setiap hari. Alokasi ini sejalan dengan kebijakan yang mengalokasikan 10% dari seluruh token XNF yang dicetak setiap hari khusus untuk pengguna yang melakukan pertukaran.
+
+Setelah mengesampingkan total alokasi swap, protokol menghitung kontribusi individu setiap pengguna. Ini membandingkan biaya swap yang dibayarkan pengguna (USF) dengan total biaya swap (TS) yang dikumpulkan dari semua pengguna. Jumlah biaya swap pengguna dibagi dengan total biaya swap untuk menghitung rasio kontribusi mereka. Langkah ini penting untuk memastikan bahwa token yang didistribusikan ke setiap pengguna sebanding dengan keterlibatan spesifik mereka.
+
+Terakhir, protokol mengalikan total alokasi swap dengan rasio kontribusi pengguna untuk menentukan bagian token XNF yang sah. Perhitungan akhir ini memberikan nilai berbeda untuk setiap unit biaya yang dibayarkan oleh pengguna. Akibatnya, protokol tersebut menyalurkan token XNF dengan cara yang secara tepat mencerminkan keterlibatan pengguna dengan kumpulan biaya swap untuk siklus tersebut. Hal ini memastikan distribusi token yang adil dan akurat sesuai dengan tingkat aktivitas setiap pengguna.
 
 Dengan menggunakan logika yang sama, protokol akan menghitung bagian Anda dari alokasi asli (NA) untuk sebuah siklus, dengan mempertimbangkan total XNF token yang dijadwalkan untuk didistribusikan untuk siklus tersebut (TD), total batch yang dikontribusikan melalui token asli oleh semua pengguna selama siklus tersebut (TNC), dan jumlah batch yang dikontribusikan dengan token asli oleh Anda selama siklus tersebut (UNC). Berikut adalah rumus yang dijelaskan secara rinci:
 
 <br>
 
 $$
-NA = (TD \div 4) \times (UNC \div TNC)
+NA = (TD \times 10%) \times (UNC \div TNC)
 $$
 
 <br>
@@ -1401,9 +1405,7 @@ Mekanik daur ulang ini memberikan banyak manfaat bagi ekosistem dan pendaur ulan
 
 ## ⭐️ Mendaur Ulang Hadiah Asli
 
-Temukan cara cerdas untuk memaksimalkan potensi penghasilan Anda dengan fitur daur ulang Xenify. Dengan mendaur ulang hadiah rantai asli yang masih harus dibayar, Anda melewati biaya klaim sebesar 25% dan memperkuat posisi XNF Anda saat saldo penuh Anda memasuki lelang pembakaran harian.
-
-Yang membuat proses ini unik adalah kemampuan protokol untuk memotong biaya pembakaran langsung dari hadiah daur ulang Anda. Hal ini memungkinkan partisipasi bebas token dalam lelang pembakaran, tidak seperti proses pembakaran normal yang memerlukan batch vXEN atau YSL, serta token asli untuk menutupi biaya pembakaran wajib.
+Temukan cara cerdas untuk memaksimalkan potensi penghasilan Anda dengan fitur daur ulang Xenify. Dengan mendaur ulang hadiah rantai asli yang masih harus dibayar, Anda melewati biaya klaim sebesar 25% dan memperkuat posisi XNF Anda saat saldo penuh Anda memasuki lelang pembakaran harian. Yang membuat proses ini unik adalah kemampuan protokol untuk memotong biaya pembakaran langsung dari hadiah daur ulang Anda. Hal ini memungkinkan partisipasi bebas token dalam lelang pembakaran, tidak seperti proses pembakaran normal yang memerlukan batch vXEN atau YSL, serta token asli untuk menutupi biaya pembakaran wajib.
 
 Tapi tunggu, masih ada lagi! Sebagai tanda terima kasih atas partisipasi aktif mereka dalam protokol, pemegang veXNF yang mendaur ulang hadiah selama jam pertama siklus juga berhak atas distribusi eksklusif token asli dari biaya klaim 25% yang dibebankan pada klaim langsung. Pada akhir setiap siklus, akumulasi hasil biaya klaim akan didistribusikan kepada pendaur ulang yang memenuhi syarat sebanding dengan kepemilikan XNF mereka dan kekuatan veXNF terkait.
 
