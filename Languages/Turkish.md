@@ -75,7 +75,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 - Her gün, XNF arzının %50'si günlük yakma müzayedelerinde katılımcılara dağıtılır. Dağıtım, YSL Burn Auction ve vXEN Burn Auction arasında eşit olarak paylaştırılır. Örneğin, belirli bir döngüde yalnızca 1 parti YSL yakılırsa ve 10.000 parti vXEN yakılırsa, tek YSL grubunu yakan kullanıcı günlük XNF arzının %25'inin tamamını alırken, vXEN yakıcıları bu miktarı paylaşacaktır. ilgili yanık partilerine göre diğer %25.
 
-- Ek olarak, ETH açık artırmasındaki katılımcılara, 1 yıllık talep edilebilir kilitle birlikte gelen veXNF ödülleri olarak XNF arzının %25'i verilir. Bu ödüller, talep edildikten sonra katılımcının kazanma gücünü artırarak daha fazla ETH kazanmalarına olanak tanır. Benzer şekilde Swap müzayedesine katılanlar, günlük XNF dağıtımının kalan %25'ini veXNF ödülleri olarak, ayrıca 1 yıllık talep edilebilir kilitle alacaklar. Talep ettiklerinde kazanç güçleri de artacaktır.
+- Ek olarak, ETH açık artırmasındaki katılımcılara, 1 yıllık talep edilebilir kilitle birlikte gelen veXNF ödülleri olarak XNF arzının %40'i verilir. Bu ödüller, talep edildikten sonra katılımcının kazanma gücünü artırarak daha fazla ETH kazanmalarına olanak tanır. Benzer şekilde Swap müzayedesine katılanlar, günlük XNF dağıtımının kalan %10'ini veXNF ödülleri olarak, ayrıca 1 yıllık talep edilebilir kilitle alacaklar. Talep ettiklerinde kazanç güçleri de artacaktır.
 
 <br>
 
@@ -179,7 +179,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- XNF'nin maksimum 22,6 milyon arzı var, bu tokenlerin dağıtımları dört günlük açık artırma yoluyla gerçekleşiyor. Her gün, XNF tokenlarının %25'ini temsil eden 5.250.000 XNF, YSL Burn Auction'a katılan katılımcılara tahsis ediliyor. vXEN Burn Auction'a katılanlara da aynı miktarda 5.250.000 XNF dağıtılacak. Ayrıca günlük XNF arzının ilave %50'si veXNF ödüllerine ayrılıyor. Ancak bu ödüllerin bir yıllık kilitlenme süresine tabi olduğunu ve sonrasında ETH Açık Artırmasına (%25) ve Swap Açık Artırmasına (%25) katılan kişilere dağıtıldığını belirtmekte fayda var. Toplamda bu, bu müzayedelerde günlük 10.500.000 XNF dağıtımıyla sonuçlanır.
+- XNF'nin maksimum 22,6 milyon arzı var, bu tokenlerin dağıtımları dört günlük açık artırma yoluyla gerçekleşiyor. Her gün, XNF tokenlarının %25'ini temsil eden 5.250.000 XNF, YSL Burn Auction'a katılan katılımcılara tahsis ediliyor. vXEN Burn Auction'a katılanlara da aynı miktarda 5.250.000 XNF dağıtılacak. Ayrıca günlük XNF arzının ilave %50'si veXNF ödüllerine ayrılıyor. Ancak bu ödüllerin bir yıllık kilitlenme süresine tabi olduğunu ve sonrasında ETH Açık Artırmasına (%40) ve Swap Açık Artırmasına (%10) katılan kişilere dağıtıldığını belirtmekte fayda var. Toplamda bu, bu müzayedelerde günlük 10.500.000 XNF dağıtımıyla sonuçlanır.
 
 - Xenify, token dağıtımı için agresif bir yarılanma programı kullanıyor. İlk indirim 3. ayda gerçekleşecek, bunu 6. ayda bir diğeri takip edecek ve ardından 12, 24 ve 48. aylarda yarıya indirilecek. Bu ilk beş yarılanmanın ardından, her biri 48 ayda bir gerçekleşen üç ek indirim daha var. Bu yarıya indirme mekanizması, XNF tokenlarının günlük dağıtımını kademeli olarak azaltmak için tasarlandı.
 
@@ -727,9 +727,9 @@ Toplam arzı 22,6 milyon XNF token ile sınırlı olan ve stratejik olarak üç 
 
   - 10.500.000 XNF (%50) yakma ihalesi katılımcılarına dağıtılır. Bu tahsisat, %50'si vXEN brülörleri ve kalan %50'si YSL brülörleri için ayrılacak şekilde eşit olarak dağıtılacaktır. Bir döngü sırasında hiç YSL brülörü olmaması durumunda, yakma ihalesi için belirlenen günlük XNF tahsisinin tamamı vXEN brülörleri arasında dağıtılacak ve bunun tersi de geçerli olacaktır.
     
-  - 5.250.000 XNF (%25), günlük açık artırmaya katılmak için yerel tokenlara katkıda bulunan kullanıcılara dağıtılır. Bu XNF tokenleri katılımcılar arasında veXNF şeklinde dağıtılacak ve ilgili kilit süresi 1 yıl olacaktır.
+  - 8.400.000 XNF (%40), günlük açık artırmaya katılmak için yerel tokenlara katkıda bulunan kullanıcılara dağıtılır. Bu XNF tokenleri katılımcılar arasında veXNF şeklinde dağıtılacak ve ilgili kilit süresi 1 yıl olacaktır.
 
-  - 5.250.000 XNF (%25), desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bu XNF tokenleri, takas katılımcıları arasında veXNF şeklinde dağıtılacak ve ilgili kilit süresi 1 yıl olacaktır.
+  - 2.100.000 XNF (%10), desteklenen EVM zincirlerinde takas yapan kullanıcılara dağıtılır. Bu XNF tokenleri, takas katılımcıları arasında veXNF şeklinde dağıtılacak ve ilgili kilit süresi 1 yıl olacaktır.
 
 - **XNF V3 likidite havuzu oluşturmak için 100.000 XNF tahsis edildi:** Sağlam bir ekosistemi güçlendirmek için, lansman sırasında protokole ait likiditenin önyüklemesi için 100.000 XNF ayrılacak. Bu girişim, topluluğumuzun en başından itibaren sorunsuz bir şekilde XNF ticareti yapmasına olanak tanıyacaktır. Bunu kolaylaştırmak için, ilk gün katılımından elde edilen ücretlerin büyük bir kısmı (takas ücretleri, yerel ücretler ve yakma ücretleri dahil) döngünün sonunda bir XNF V3 likidite havuzu oluşturmak için kullanılacaktır.
 
@@ -868,7 +868,7 @@ Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist 
 
 Xenify bünyesindeki XNF basım süreci, protokolle aktif olarak ilgilenen ve protokolün büyümesine katkıda bulunan kullanıcıları ödüllendirmek için titizlikle yapılandırılmıştır. Bu girişim, XNF tokenlerinin adil bir şekilde dağıtılmasını sağlar ve gerçekten merkezi olmayan ve topluluk odaklı bir protokolü teşvik eder. Xenify'ın teşvik modeli özenle hazırlanmış olup platforma katılımlarını yoğunlaştıran kullanıcılara orantılı ödüller sunmaktadır. Böyle bir yaklaşım, kullanıcıların platform etkinliklerine göre yeni basılmış XNF tokenleri elde etmelerini sağlayarak katılımı daha da artırmaktadır.
 
-XNF tokenlerinin dağıtımı, 20.000 XNF tokenlik bir ödül havuzuyla başlayan bir günlük döngüleri takip eder. Bu günlük tahsisat dört şekilde bölünür: %25'i vXEN yakan kullanıcılara, %25'i YSL yakan kullanıcılara, %25'i yerel token katılımcılarına ve kalan %25'i platformun takas ücreti katılımcıları arasında dağıtılır. Bu günlük tahsisat, gelecekteki diğer tüm dağıtım zincirlerini de kapsayacaktır. Yarılanma modelinin uygulanmasıyla, günlük basım miktarı kademeli olarak azalacak ve 2461. ay itibariyle toplam 22,6 milyon XNF tokeninin tamamen dağıtılmasıyla sonuçlanacaktır.
+XNF tokenlerinin dağıtımı, 20.000 XNF tokenlik bir ödül havuzuyla başlayan bir günlük döngüleri takip eder. Bu günlük tahsisat dört şekilde bölünür: %25'i vXEN yakan kullanıcılara, %25'i YSL yakan kullanıcılara, %40'i yerel token katılımcılarına ve kalan %10'i platformun takas ücreti katılımcıları arasında dağıtılır. Bu günlük tahsisat, gelecekteki diğer tüm dağıtım zincirlerini de kapsayacaktır. Yarılanma modelinin uygulanmasıyla, günlük basım miktarı kademeli olarak azalacak ve 2461. ay itibariyle toplam 22,6 milyon XNF tokeninin tamamen dağıtılmasıyla sonuçlanacaktır.
 
 Kullanıcılar, Arbitrum'daki ETH gibi zincire özgü yerel tokenlar biçiminde ödüller biriktirmelerine olanak tanıyan protokolün kilitleme mekanizması aracılığıyla daha da teşvik ediliyor. Bu ödüller Xenify içindeki çeşitli faaliyetlerden, özellikle yakma ücretlerinden, takas ücretlerinden ve yerel ücretlerden elde edilir. Benzersiz üç katmanlı teşvik modelimiz, kullanıcıları XNF kazanmak için Xenify'ı kullanmaya teşvik ederken, aynı zamanda yerel ödüller kazanmak için XNF tokenlerini kilitleyenleri de ödüllendiriyor. Bu, sürekli büyüyen bir kullanıcı tabanını teşvik eden canlı ve sürdürülebilir bir ödül sistemi geliştirirken Xenify'ın uzun vadeli büyümesini teşvik eden bir çark gibi çalışır.
 
@@ -1128,18 +1128,18 @@ Bu senaryoların karşılaştırılması, partilerin ilk saat ile son saat aras�
 
 ## ⭐️ XNF Döngü Dağılımı
 
-Xenify, XNF tokenlerinin günlük dağıtımında dengeli bir yaklaşım benimsemekte ve konuşlandırıldığı tüm zincirlerde dört merkezi bileşene odaklanmaktadır. Bu bileşenler günlük darphaneden eşit pay alır; %25'i vXEN tokenlerini yakmaya katılan kullanıcılara, %25'i YSL tokenlerini yakan kullanıcılara, %25'i yerel tokenlere katkıda bulunanlara ve kalan %25'i de takas yapanlara dağıtılır.
+Xenify, üzerinde faaliyet gösterdiği tüm EVM zincirlerinin ekosistemlerindeki dört önemli katılımcı grubu ödüllendirmeye odaklanarak, her gün XNF tokenlarını tahsis etme konusunda stratejik bir yaklaşım benimsiyor. Bu gruplar, toplam günlük basılan tokenlerin önceden belirlenmiş bir yüzdesine göre tanınır: %25'i vXEN tokenlarını yakan kullanıcılara, diğer %25'i YSL tokenlerini yakanlara, %40'lık daha büyük bir pay yerel token katkıda bulunanlara ve son %10'u verilir. token takasına katılanlara.
 
-Örneğin, günlük basılan XNF token miktarı 20.000 ise, dağıtım eşit olarak bölünür ve her bileşen 5.000 XNF token alır. Bu tek tip tahsis yapısı, Xenify'ın mevcut olduğu tüm zincirleri kapsar. Böylece, kullandıkları zincirden bağımsız olarak, token yakan, yerlilere katkıda bulunan ya da takas yapan katılımcılar günlük basılan XNF tokenlarının bir kısmını kazanma fırsatına sahip olurlar.
+Örneğin, günlük 20.000 XNF token basım hacmiyle, değişken yüzde tanımları göz önüne alındığında tahsis, varsayılan olarak eşit şekilde bölünmez. Sonuç olarak, vXEN token yakıcıları ve YSL token yakıcılarının her biri, %25'lik hisselerini temsil eden 5.000 XNF tokenini güvence altına alıyor. Yerel token katılımcılarına %40'lık bir tahsise karşılık gelen 8.000 XNF tokeni dağıtılırken, takas katılımcılarına kalan %10'u oluşturan 2.000 XNF tokeni pay verilir. Bu sistematik dağıtım süreci tüm EVM zincirlerinde aynıdır ve çeşitli kullanıcı etkinlikleri için adil ve orantılı ödüller sağlar.
 
-Her kullanıcının günlük darphanedeki payını belirlemek için protokol bir dizi hesaplama yapacaktır. Bu hesaplamalar, bir kullanıcı tarafından döngü boyunca her bir bileşene yapılan katkılara dayanacaktır. Protokol, her kullanıcı için toplam XNF dağılımını doğru bir şekilde hesaplamak için bu katkıları birleştirecektir. Bu metodik yaklaşım, hem kullanıcının token yakma işlemlerine aktif katılımını hem de yerel tokenlar ve takas ücretleri açısından katkılarını kredilendirerek adil bir dağıtım sağlar. Yerel katkılar ve takas ücreti yoluyla kazanılan XNF'nin veXNF olarak dağıtılacağını unutmayın.
+Her kullanıcının günlük naneden aldığı XNF tokenlerinin kesin payını belirlemek için protokol, kullanıcının etkinlik havuzlarının her birine bireysel katkısını hesaba katan bir dizi hassas hesaplama gerçekleştirir. Kullanıcı faaliyetlerine ilişkin verilerin toplanmasının ardından protokol, her katılımcıya dağıtılmak üzere hak edilen XNF token miktarını hesaplar. Bu titiz süreç, kullanıcının token yakımlarına, yerel token katkılarına ve takas faaliyetlerine aktif katılımını kabul ederek adil bir dağıtımı garanti eder. Özellikle yerel katkılardan ve takas ücretlerinden kazanılan tokenlar veXNF olarak sağlanıyor ve ek avantajlarla kullanıcı etkileşimi güçlendiriliyor.
 
 Protokol, dağıtılan toplam XNF tokenlerini (TD), döngü sırasında yakılan toplam vXEN parti sayısını (TB) ve döngü sırasında yaktığınız vXEN parti sayısını (BB) dikkate alarak, vXEN yakma ücreti katkılarına tahsis edilen günlük XNF payınızı hesaplar. İşte vXEN yakma tahsisi (XBA) formülü ayrıntılı olarak açıklanmıştır:
 
 <br>
 
 $$
-XBA = (TD \div 4) \times (BB \div TB)
+XBA = (TD \times 10%) \times (BB \div TB)
 $$
 
 <br>
@@ -1165,12 +1165,12 @@ $$
 
 <br>
 
-Şöyle çalışır: Protokol, kullanıcının vXEN yakma tahsisini (XBA) ilk olarak döngü için dağıtılması planlanan toplam XNF tokenlerini (TD) 4'e bölerek hesaplar, çünkü XNF günlük darphanesinin %25'i vXEN yakan katılımcılara tahsis edilir. Daha sonra belirli bir kullanıcı (BB) tarafından yakılan vXEN partilerinin tüm kullanıcılar (TB) tarafından yakılan toplam vXEN partilerine oranını hesaplar. Bu, yakılan parti başına bir değerle sonuçlanır. Son olarak, protokol bu değerleri çarparak kullanıcının o döngü için bireysel vXEN yakma tahsisatını (XBA) belirler. YSL yakma tahsisi (YBA) için hesaplama, aşağıdaki formülde belirtildiği gibi aynı mantığı izler:
+Şu şekilde çalışır: Protokol, kullanıcının vXEN yazma tahsisini (XBA), ilk olarak döngü için dağıtılması planlanan toplam XNF tokenlerini (TD) %25 ile çarparak hesaplar, çünkü XNF günlük nane miktarının %25'i katılımcılara tahsis edilmiştir. vXEN'i yakın. Daha sonra, belirli bir kullanıcı (BB) tarafından yakılan vXEN gruplarının tüm kullanıcılar tarafından yakılan toplam vXEN gruplarına (TB) oranını hesaplar ve sonuçta yakılan parti başına bir değer elde edilir. Son olarak protokol, kullanıcının söz konusu döngü (XBA) için bireysel vXEN yazma tahsisini belirlemek üzere bu değerleri çarpar. YSL yakma tahsisi (YBA) hesaplaması, aşağıdaki formülde belirtilenle aynı mantığı izler:
 
 <br>
 
 $$
-YBA = (TD \div 4) \times (BB \div TB)
+YBA = (TD \times 25%) \times (BB \div TB)
 $$
 
 <br>
@@ -1201,7 +1201,7 @@ Benzer şekilde, protokol, döngü için dağıtılması planlanan toplam XNF to
 <br>
 
 $$
-SA = (TD \div 4) \times (USF \div TSF)
+SA = (TD \times 10%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1227,14 +1227,18 @@ $$
  
 <br>
 
-İşte nasıl çalıştığı: Protokol, kullanıcının takas katkısını (SA) ilk olarak dağıtılan toplam XNF tokenlerini (TD) 4'e bölerek hesaplar, çünkü XNF günlük mint'in %25'i desteklenen zincirler üzerinde takas yapan katılımcılara tahsis edilir. Daha sonra sonucu, kullanıcının takas ücretlerinin (USF) tüm kullanıcılar tarafından ödenen toplam takas ücretlerine (TS) oranı ile çarpar. Bu, ödenen her bir takas ücreti birimi için belirli bir değer üretir ve bir kullanıcının belirli bir döngüdeki takas ücretlerine yaptığı bireysel katkıya bağlı olarak aldığı XNF token oranının belirlenmesine yardımcı olur.
+Takas faaliyetleri için her kullanıcının XNF token payını hesaplama süreci titizdir ve birkaç adım içerir. İlk olarak protokol, günlük olarak dağıtılan toplam XNF tokenlerinin %10'u olan takas katılımcıları için toplam tahsisi belirler. Bu tahsis, günlük olarak basılan tüm XNF tokenlarının %10'unun özellikle takas yapan kullanıcılar için tahsis edildiği politikayla uyumludur.
+
+Toplam takas tahsisi bir kenara bırakıldıktan sonra protokol, her kullanıcının bireysel katkısını ölçer. Kullanıcının ödediği takas ücretlerini (USF), tüm kullanıcılardan toplanan toplam takas ücretleriyle (TS) karşılaştırır. Kullanıcının swap ücreti tutarı, toplam swap ücretine bölünerek katkı payı oranı hesaplanır. Bu adım, her kullanıcıya dağıtılan tokenlerin onların özel katılımlarıyla orantılı olmasını sağlamak için çok önemlidir.
+
+Son olarak protokol, XNF tokenlarının hak ettiği payı belirlemek için toplam takas tahsisini kullanıcının katkı oranıyla çarpar. Bu son hesaplama, kullanıcının ödediği her birim ücrete ayrı bir değer atar. Sonuç olarak protokol, XNF tokenlerini, kullanıcının söz konusu döngü için takas ücreti havuzuyla olan ilişkisini tam olarak yansıtacak şekilde dağıtır. Bu, her kullanıcının etkinlik düzeyine karşılık gelen adil ve doğru bir token dağıtımı sağlar.
 
 Benzer bir mantık kullanan protokol, döngü için dağıtılması planlanan toplam XNF tokenlerini (TD), döngü sırasında tüm kullanıcılar tarafından yerel tokenler aracılığıyla katkıda bulunulan toplam partileri (TNC) ve döngü sırasında sizin tarafınızdan yerel tokenlerle katkıda bulunulan parti sayısını (UNC) dikkate alarak bir döngü için yerel tahsisat payınızı (NA) hesaplayacaktır. Formül burada ayrıntılı olarak açıklanmıştır:
 
 <br>
 
 $$
-NA = (TD \div 4) \times (UNC \div TNC)
+NA = (TD \times 10%) \times (UNC \div TNC)
 $$
 
 <br>
@@ -1401,9 +1405,7 @@ Bu geri dönüşüm mekaniği, ekosisteme ve geri dönüşümcülere çok sayıd
 
 ## ⭐️ Geri Dönüşüm Yerel Ödülleri
 
-Xenify'ın geri dönüşüm özelliği ile kazanç potansiyelinizi en üst düzeye çıkarmanın akıllı yolunu keşfedin. Tahakkuk eden yerel zincir ödüllerini geri dönüştürerek, %25 talep ücretini atlarsınız ve bakiyenizin tamamı günlük yakma açık artırmasına girerken XNF pozisyonunuzu güçlendirirsiniz.
-
-Bu süreci benzersiz kılan şey, protokolün yakma ücretini doğrudan geri dönüştürülmüş ödüllerinizden düşebilme yeteneğidir. Bu, vXEN veya YSL gruplarının yanı sıra zorunlu yakma ücretini karşılamak için yerel tokenlar gerektiren normal yakma sürecinin aksine, yakma açık artırmasına jetonsuz katılım sağlar.
+Xenify'ın geri dönüşüm özelliği ile kazanç potansiyelinizi en üst düzeye çıkarmanın akıllı yolunu keşfedin. Tahakkuk eden yerel zincir ödüllerini geri dönüştürerek, %25 talep ücretini atlarsınız ve bakiyenizin tamamı günlük yakma açık artırmasına girerken XNF pozisyonunuzu güçlendirirsiniz. Bu süreci benzersiz kılan şey, protokolün yakma ücretini doğrudan geri dönüştürülmüş ödüllerinizden düşebilme yeteneğidir. Bu, vXEN veya YSL gruplarının yanı sıra zorunlu yakma ücretini karşılamak için yerel tokenlar gerektiren normal yakma sürecinin aksine, yakma açık artırmasına jetonsuz katılım sağlar.
 
 Ama durun, dahası da var! Protokole aktif katılımlarından dolayı bir minnettarlık göstergesi olarak, döngünün ilk saati boyunca ödülleri geri dönüştüren veXNF sahipleri, doğrudan taleplerden alınan %25'lik talep ücretinden yerel tokenların özel dağıtımına da hak kazanacaktır. Her döngünün sonunda, birikmiş talep ücreti gelirleri, uygun geri dönüşümcülere, XNF varlıkları ve ilgili veXNF gücüyle orantılı olarak dağıtılacaktır.
 
