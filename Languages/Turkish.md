@@ -71,11 +71,11 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Arbitrum'da düzenlenen günlük yakma açık artırmalarında, kullanıcılar 1 ila 10.000 parti arasında herhangi bir yerde yakma seçeneğine sahiptir. Tek bir YSL yazma grubu 0,1 YSL'yi temsil ederken, bir vXEN yazma grubu 10.000.000 vXEN'e karşılık gelir. Hem yakma hem de ETH açık artırmalarında parti başına 0,01 ETH tutarında yerel ücret uygulanır.
+- Arbitrum'daki günlük yakma müzayedelerinde kullanıcılar 1 ila 10.000 parti arasında yakabilir. Her YSL yazma grubu 0,1 YSL'ye eşittir ve her vXEN yazma grubu 10.000.000 vXEN'e eşdeğerdir. Hem yakma hem de ETH açık artırmaları için parti başına 0,01 ETH tutarında yerel ücret uygulanır.
 
-- Her gün, XNF arzının %50'si günlük yakma müzayedelerinde katılımcılara dağıtılır. Dağıtım, YSL Burn Auction ve vXEN Burn Auction arasında eşit olarak paylaştırılır. Örneğin, belirli bir döngüde yalnızca 1 parti YSL yakılırsa ve 10.000 parti vXEN yakılırsa, tek YSL grubunu yakan kullanıcı günlük XNF arzının %25'inin tamamını alırken, vXEN yakıcıları bu miktarı paylaşacaktır. ilgili yanık partilerine göre diğer %25.
+- Günlük XNF tedarikinin yarısı, YSL ve vXEN Yakma Açık Artırmaları arasında eşit olarak paylaştırılarak günlük yakma müzayedelerinin katılımcılarına dağıtılır. Örneğin, bir döngüde 1 YSL grubu ve 10.000 vXEN grubu yakılırsa, tek YSL grubunu yakan kullanıcı günlük XNF tedarikinin tam %25'ini alırken, vXEN yazıcıları kalan %25'i kendi değerlerine göre böler. katkıları yak.
 
-- Ek olarak, ETH açık artırmasındaki katılımcılara, 1 yıllık talep edilebilir kilitle birlikte gelen veXNF ödülleri olarak XNF arzının %40'i verilir. Bu ödüller, talep edildikten sonra katılımcının kazanma gücünü artırarak daha fazla ETH kazanmalarına olanak tanır. Benzer şekilde Swap müzayedesine katılanlar, günlük XNF dağıtımının kalan %10'ini veXNF ödülleri olarak, ayrıca 1 yıllık talep edilebilir kilitle alacaklar. Talep ettiklerinde kazanç güçleri de artacaktır.
+- ETH açık artırmasında katılımcılar günlük XNF arzının %40'ını veXNF ödülleri olarak alırlar ve bu ödüller talep edilebilir hale gelmeden önce bir yıl süreyle kilitlenir. Bu ödüller bir kez talep edildiğinde katılımcının gelecekteki ETH kazançları için kazanma gücünü artırır. Swap müzayedesine katılanlar, XNF arzının kalan %10'unu veXNF ödülleri olarak alır; bu, aynı bir yıllık talep edilebilir kilide tabidir ve talep üzerine kazanç güçlerini artırır.
 
 <br>
 
@@ -85,11 +85,11 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- İlk saate katılan kullanıcılar hem Zaman Katsayısı (TC) hem de Batch Katsayısı'ndan (BC) faydalanarak önemli indirimler elde edebilirler. Özellikle, ilk saatte elde edilen herhangi bir parti, TC'nin %50 indiriminden yararlanacaktır. Ayrıca kullanıcılar bu pencerede 10.000 parti alarak BC'yi dikkate alarak %75'e varan indirim elde edebilirler. Döngü ilerledikçe hem Zaman Katsayısı (TC) hem de Parti Katsayısı (BC) indirimleri azalır.
+- İlk saate katılan kullanıcılar hem Zaman Katsayısı (TC) hem de Batch Katsayısı'ndan (BC) faydalanarak önemli indirimler elde edebilirler. Spesifik olarak, ilk saatte elde edilen herhangi bir parti, TC nedeniyle %50 indirimden yararlanacaktır. Ayrıca kullanıcılar bu pencerede 10.000 parti alarak BC dikkate alındığında %75'e varan indirim elde edebiliyor. Döngü ilerledikçe hem TC hem de BC'den gelen indirimler azalır.
 
-- Son saate gelindiğinde indirimler sıfıra yaklaşıyor. Özellikle ilk saatte erken katılmak, toplu indirimlerini en üst düzeye çıkarmak isteyen kullanıcılar için hayati önem taşıyor. Başlangıç saatleri en önemli indirimleri sağlayarak katılımcıların katılımlarından mümkün olan en iyi değeri almalarını sağlar.
+- Son saatte indirimler sıfıra yaklaşıyor. Özellikle ilk saatte erken katılmak, toplu indirimlerini en üst düzeye çıkarmak isteyen kullanıcılar için çok önemlidir. Başlangıç saatleri en önemli indirimleri sunarak katılımcıların katılımlarından en iyi değeri almalarını sağlar.
 
-- Öte yandan mevcut döngünün devreye girmesine karar vermek için son saate kadar beklemek daha pahalı olabilir. O zamana kadar indirimler önemli ölçüde azaldığından, kullanıcılar ilk saate kıyasla daha fazla ETH katkıda bulunacak ve bu da erken katılımın sağduyulu olduğunun altını çizecek.
+- Tersine, katılımın mevcut döngünün son saatine kadar ertelenmesi daha yüksek maliyetlerle sonuçlanabilir. O zamana kadar indirimlerin önemli ölçüde azalmasıyla kullanıcılar, döngünün başlangıcında olduğundan daha fazla ETH katkıda bulunacak ve bu da erken katılımın avantajlarını vurgulayacak.
 
 <br>
 
@@ -99,9 +99,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Günlük açık artırmalardan elde edilen ETH'nin %40'ı veXNF sahiplerine, veXNF güçleri ile orantılı olarak tahsis edilecektir.
-
-- ETH ödüllerini almayı tercih eden kullanıcılardan %25 talep ücreti alınacaktır. Bu ücret daha sonra döngünün ilk saati içinde geri dönüşüme katılan katılımcılara veXNF güçlerine göre yeniden dağıtılacaktır.
+- Günlük açık artırmalardan elde edilen ETH'nin %40'ı veXNF sahiplerine tahsis edilecek: bu onların veXNF gücüyle orantılıdır. ETH ödüllerini almayı seçen kullanıcılardan %25 oranında talep ücreti alınacaktır; Bu ücret daha sonra döngünün ilk saati içinde geri dönüşüme katılan katılımcılara veXNF güçlerine uygun olarak yeniden dağıtılacaktır.
 
 <br>
 
@@ -111,9 +109,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Bir döngünün ilk saati içinde ETH'yi geri dönüştürenler, veXNF güçleri ile orantılı olarak o döngüden ETH talep ücretlerinin bir kısmını kazanmaya hak kazanırlar. VeXNF gücünüz ne kadar büyük olursa, talep ücretinden elde edilen ETH getirilerinden payınız da o kadar büyük olur.
-
-- Geri dönüşümün en dikkate değer faydası, yakma açık artırmalarına otomatik olarak dahil edilmesi ve alternatif token yakma ihtiyacını ortadan kaldırmasıdır. Kullanıcılar ilk saatlik pencereyi kaçırsalar bile, döngünün kalan 23 saati içinde geri dönüşüme karar vermeleri koşuluyla vXEN veya YSL yakmaya gerek kalmadan yakma açık artırmalarına katılma fırsatına sahip olacaklar.
+- ETH'yi bir döngünün ilk saati içinde geri dönüştürenler, o döngüden elde edilen ETH talep ücretlerinden pay kazanma hakkına sahiptir. Pay, veXNF gücüyle orantılıdır: Ne kadar çok veXNF gücünüz varsa, talep ücretlerinden ETH'den alacağınız pay da o kadar büyük olur. Geri dönüşümün en önemli avantajı, diğer tokenleri yakma zorunluluğunu ortadan kaldıran yakma ihalelerine doğrudan girmesidir. Ayrıca ilk saatlik periyodu kaçıran kullanıcılar, geri dönüşüm yaptıkları sürece döngünün kalan 23 saati boyunca vXEN veya YSL yakma zorunluluğu olmadan yakma açık artırmalarına katılma şansına sahip olacak.
 
 <br>
 
@@ -123,11 +119,9 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Günlük açık artırmalardan toplanan ETH'nin %50'si, Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'yi piyasadan satın almak için kullanılacak ve satın alınan XNF'nin %100'ü yakılacak.
+- Günlük açık artırmalardan toplanan ETH'nin %50'si, özellikle Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri alımı için kullanılacak. Daha da önemlisi, geri alınan XNF'nin %100'ü yakılacak. Ek olarak, her günlük döngüde geri dönüştürülen ETH'nin %90'ı, Uniswap'teki aynı WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri satın alınması için kullanılacak ve geri alınan XNF'nin tamamı da yakılacak.
 
-- Her günlük döngü boyunca geri dönüştürülen ETH'nin %90'ı, Uniswap'teki WETH-XNF çifti aracılığıyla XNF'yi piyasadan satın almak için kullanılacak ve satın alınan XNF'nin %100'ü yakılacak.
-
-- Protokolümüz içindeki yakma mekanizmaları, her günlük açık artırma veya geri dönüşüm katılımından sonra değişmez ve otomatik olarak yürütülecek şekilde titizlikle hazırlanmıştır, böylece karşı taraf riskini ortadan kaldırır ve üçüncü bir tarafın geri alımı başlatması gerekmesi durumunda ortaya çıkabilecek potansiyel önden çalıştırma sorunlarını azaltır ve yanma süreçleri.
+- Protokolümüz içerisindeki yakma mekanizmaları değişmez ve otomatik olacak şekilde tasarlanmıştır. Her günlük açık artırma veya geri dönüşüm faaliyetinden sonra etkinleşirler. Bu yaklaşım, karşı taraf riskini ortadan kaldırır ve üçüncü bir tarafın geri satın alma ve yakma süreçlerini yönetmesi gerektiğinde ortaya çıkabilecek önden yürütme sorunlarının potansiyelini azaltır.
 
 <br>
 
@@ -137,25 +131,25 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Protokol, başlangıçta likidite tedariği için Uniswap V3'ten yararlanacak şekilde ayarlandı. WETH-XNF işlem çiftini başlatmak için 100.000 XNF tahsis edilecek ve böylece XNF başına 1,00 $'lık bir başlangıç fiyatı belirlenecek. Bu fiyatın, ilk döngü sırasında toplanan ETH miktarına bağlı olarak protokol tarafından ayarlanabileceğini unutmamak önemlidir. Bunu takiben %1 ücret kademesinde tam kapsamlı bir eşleştirme oluşturulacaktır.
+- Protokol, WETH-XNF işlem çiftini 100.000 XNF tahsisiyle başlatarak ve XNF başına 1,00 $'lık bir başlangıç fiyat noktası belirleyerek likidite sağlamak için Uniswap V3'ü kullanacak. Bu başlangıç fiyatı, ilk döngü sırasında toplanan ETH hacmine bağlı olarak ayarlanabilir. Daha sonra Uniswap V3'te %1 ücret kademesi dahilinde tam kapsamlı bir eşleştirme kurulacaktır.
 
-- Protokol ayrıca, sonraki her döngüde ETH protokolüne ait likiditenin sürekli büyümesini sağlayacak şekilde tasarlanmıştır. İkinci döngüden itibaren, yakma ücretleri, yerel ücretler, takas ücretleri ve geri dönüşüm faaliyetleri yoluyla günlük olarak elde edilen ETH, XNF likiditesinin çoğalmasını desteklemek için kullanılacak. Bu çerçevede ETH'nin %100'ü XNF'yi pazarlamak ve satın almak için kullanılıyor. Eş zamanlı olarak, XNF'nin geri alımı ve yakılması için kullanılan WETH'in eşdeğeri, protokole ait havuza tahsis ediliyor. Bu eylem, WETH-XNF likidite havuzu içindeki WETH'de önemli bir artışla sonuçlanarak, protokole ait tüm aralıkta kapsamlı kapsama alanı sağlar.
+- ETH protokolüne ait likiditenin sürekli büyümesini desteklemek için, ikinci döngüden başlayarak, yakma ücretlerinden, yerel ücretlerden, takas ücretlerinden ve geri dönüşümden elde edilen ETH'nin %50'si, artan XNF likiditesine yeniden yatırılacak. Bu modelde, toplanan ETH'nin tamamı XNF'yi piyasada satın alıp yakmaya yönlendiriliyor. Eş zamanlı olarak protokole ait havuza eşdeğer miktarda WETH yönlendirilir, böylece WETH-XNF likidite havuzundaki WETH rezervleri artırılır ve tüm aralıkta kapsamlı destek sağlanır.
 
-- Likidite sağlayıcılarının WETH-XNF %1 ücret kademesine likidite ekleyemeyeceğini lütfen unutmayın. Ek olarak, WETH-XNF havuzundaki kendi likiditesinden satın alma işlemini yalnızca protokolün kendisinin gerçekleştirebileceğini unutmamak önemlidir. XNF sahipleri satış işlemlerini yalnızca Xenify sitesi aracılığıyla veya doğrudan geri dönüşüm sözleşmesi aracılığıyla gerçekleştirebilir.
+- Likidite sağlayıcılarının WETH-XNF havuzuna %1 ücret kademesiyle ekleme yapmaları kısıtlanmıştır; Bu havuz, yalnızca protokolün aynı ücret kademesi dahilinde kendi likiditesinden piyasa geri alımları ve yakımları gerçekleştirmesi için ayrılmıştır. XNF sahipleri, %1 ücret kademesi havuzunda satış yapmak istiyorlarsa, Xenify platformu aracılığıyla veya geri dönüşüm sözleşmesiyle doğrudan etkileşime girerek satış yapmakla sınırlıdır.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 XNF Genesis Airdrop'u
+# 💸 XNF Genesis Airdropları
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Xenify, konuşlandırıldığı her zincirde 60 günlük bir Genesis airdrop'u başlatıyor. Bu süre zarfında katılımcılar arasında 1.500.000 XNF paylaştırılacak. Dağıtım basit: Her gün 25.000 XNF tokeni tahsis edilecek ve her bir katılımcının takas ücretleri yoluyla günlük katkılarına göre bireysel paylar belirlenecek.
+- Xenify, faaliyet gösterdiği her zincirde 60 günlük bir Genesis airdropu başlatıyor. Bu aşama boyunca katılımcılara 1.500.000 XNF dağıtılacak. Günlük olarak 25.000 XNF tokeni, her katılımcının takas ücretleri yoluyla yaptığı katkıya göre paylaştırılır.
 
-- Bu airdrop'un tüm EVM uyumlu zincirleri kapsadığını belirtmekte fayda var. Bir işlem EVM zincirinden kaynaklandığı veya bu zincir içinde yürütüldüğü ve ekte bir takas ücreti içerdiği sürece airdrop için uygundur.
+- Airdrop tüm EVM uyumlu zincirleri kapsayacak şekilde geniş kapsayıcılık sağlar. Airdrop'a uygun işlemler, takas ücreti taşımaları koşuluyla EVM zincirinden kaynaklanan veya EVM zincirinde tamamlanan işlemleri içerir.
 
-- Airdrop'un tamamlanmasının ardından tahsis edilen XNF token'larına hemen erişilemeyecek. Bunun yerine başlangıçta kilitli tokenlar olarak dağıtılacaklar. Ancak bunlar süresiz olarak kilitli kalmayacaktır. 730 gün boyunca kilidi aşamalı olarak açılacaktır. Bunu bir perspektife oturtmak gerekirse: 7.300 kilitli XNF tokeni talep ettiyseniz, cüzdanınızda günlük olarak yaklaşık 10 XNF tokeninin bulunmasını bekleyin.
+- Airdrop sona erdikten sonra alıcılar, başlangıçta kilitlenecek olan XNF tokenlarına hemen erişemeyecek. Bu belirteçlerin kilidi 730 gün boyunca kademeli olarak açılacaktır. Örneğin, airdroptan 7.300 kilitli XNF tokeni alırsanız, cüzdanınıza günde yaklaşık 10 XNF tokeninin kilidinin açılacağını bekleyebilirsiniz.
 
 <br>
 
@@ -165,11 +159,11 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- veXNF mekanizması, XNF tedarikinin önemli bir bölümünü kilitleyecek şekilde tasarlanmıştır, böylece protokol içindeki kıtlığın arttırılmasında önemli bir rol oynar. Katılımcılar XNF'lerini minimum 1 haftadan maksimum 1 yıla kadar değişen bir süre boyunca kilitleme seçeneğine sahiptir. Kilit süresi ne kadar uzun olursa, kazanma gücü de o kadar büyük olur. Üstelik, daha uzun kilitlenme süreleri de bu gücün daha yavaş azalmasına neden olur.
+- veXNF mekanizması, kıtlığı artırmak için XNF arzının önemli bir bölümünü kilitleyen stratejik bir özelliktir. Kullanıcılar XNF'lerini bir haftadan bir yıla kadar kilitlemeyi seçebilir; daha uzun kilitleme süreleri daha önemli kazanç gücü sağlar. Özellikle, daha uzun taahhütler aynı zamanda bu gücün azalma hızını da yavaşlatarak sürdürülebilir bir avantaj sağlar.
 
-- Örnek 1: Başlangıçta XNF'lerini 1 yıllık bir süre için kilitleyen veXNF sahipleri, kilit sürelerini uzatmamayı tercih ettikleri takdirde zorluklarla karşı karşıya kalırlar. Kazanma güçleri hızla azalır. Sadece 30 günde bu güç yarıya iner, 60 günün sonunda ise tamamen yok olur. Bu, XNF'lerinin kilidini açana kadar sonraki 10 ay boyunca herhangi bir kazanç gücünden mahrum kalacak.
+- İlk örnekte, XNF'lerini bir yıllığına kilitleyen veXNF sahipleri, kilitlenme sürelerini uzatmazlarsa kazanç güçlerinde büyük bir düşüşle karşılaşıyorlar. Kazanç güçleri yalnızca 30 gün sonra yarı yarıya azalır ve 60 gün sonra tamamen tükenir, kilitlenme süresi sona erene kadar kalan on ay boyunca hiçbir kazanç avantajından mahrum kalırlar.
 
-- Örnek 2: XNF'lerini 6 aydan daha kısa bir süre için kilitlemeyi seçen ve ardından uzatmaya karşı karar verenler de benzer sonuçlarla karşı karşıya kalır. Kazanma güçleri hızla azalır. Sadece 15 günde bu güç yarıya iner ve 30 günün sonunda tamamen yok olur. Bu, XNF'lerinin kilidini açana kadar sonraki 5 ay boyunca herhangi bir kazanç gücünden mahrum kalacak.
+- İkinci örnek, altı aylık bir sokağa çıkma yasağının durumunu gösteriyor. Bu kullanıcıların uzatmaya karşı çıkmaları halinde, kazanma güçleri de hızla azalarak 15 günde yarıya iner ve 30 gün sonra yok olur. Sonuç olarak, beş ay süren kilitlenme sürelerinin geri kalanı boyunca potansiyel kazançlarını kaybederler.
 
 <br>
 
@@ -179,25 +173,25 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- XNF'nin maksimum 22,6 milyon arzı var, bu tokenlerin dağıtımları dört günlük açık artırma yoluyla gerçekleşiyor. Her gün, XNF tokenlarının %25'ini temsil eden 5.250.000 XNF, YSL Burn Auction'a katılan katılımcılara tahsis ediliyor. vXEN Burn Auction'a katılanlara da aynı miktarda 5.250.000 XNF dağıtılacak. Ayrıca günlük XNF arzının ilave %50'si veXNF ödüllerine ayrılıyor. Ancak bu ödüllerin bir yıllık kilitlenme süresine tabi olduğunu ve sonrasında ETH Açık Artırmasına (%40) ve Swap Açık Artırmasına (%10) katılan kişilere dağıtıldığını belirtmekte fayda var. Toplamda bu, bu müzayedelerde günlük 10.500.000 XNF dağıtımıyla sonuçlanır.
+- XNF'nin maksimum 22,6 milyon token arzı vardır. Dağıtım dört günlük açık artırma yoluyla gerçekleşir. Her gün, XNF tokenlarının belirli bir yüzdesi açık artırma katılımcılarına tahsis edilir: %25'i YSL Burn Auction'a ve diğer %25'i de vXEN Burn Auction katılımcılarına. Ek olarak, günlük XNF arzının %50'si veXNF ödüllerine ayrılıyor ve bu ödüller, ETH Açık Artırma (%40) ve Swap Açık Artırma (%10) katılımcılarına dağıtılmadan önce bir yıl süreyle kilitleniyor.
 
-- Xenify, token dağıtımı için agresif bir yarılanma programı kullanıyor. İlk indirim 3. ayda gerçekleşecek, bunu 6. ayda bir diğeri takip edecek ve ardından 12, 24 ve 48. aylarda yarıya indirilecek. Bu ilk beş yarılanmanın ardından, her biri 48 ayda bir gerçekleşen üç ek indirim daha var. Bu yarıya indirme mekanizması, XNF tokenlarının günlük dağıtımını kademeli olarak azaltmak için tasarlandı.
+- Xenify, token dağıtımı için agresif bir yarılanma programı kullanıyor. İlk indirim 3. ayda gerçekleşecek, bunu 6. ayda bir diğeri takip edecek ve ardından 12, 24 ve 48. aylarda yarıya indirilecek. Bu ilk beş yarılanmanın ardından, her biri 48 ayda bir gerçekleşen üç ek indirim daha var. Bu yarıya indirme mekanizması, XNF tokenlarının günlük dağıtımını kademeli olarak azaltmak için tasarlanmıştır.
 
-- Tüm yarılanmaların tamamlanmasının ardından her gün sabit miktarda 156,25 XNF dağıtılacak. Bu, önümüzdeki 2224 ay boyunca devam edecek ve token dağıtımının uzun süreli ve istikrarlı olmasını sağlayacak ve sonuçta maksimum arz sınırına ulaşacak. Bu yaklaşım, XNF tokenlerinin sürdürülebilir ve öngörülebilir bir dağıtımını sağlayarak kullanıcıların güvenle planlama yapmasına ve katılmasına olanak tanır.
+- Yarılanmalar tamamlandıktan sonra, 2224 ay boyunca günlük 156,25 XNF tutarında sabit bir miktar dağıtılacak ve bu da maksimum arz sınırına ulaşacak. Bu, uzun vadeli dağıtım istikrarını teşvik ederek ve kullanıcılara katılım için güvenilir bir çerçeve sunarak istikrarlı ve genişletilmiş bir token dağıtımını sağlar.
 
 <br>
 
-![Satır Ayırıcı - Dolu](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ⚫️ XNF Likidite Kara Deliği
-![Satır Ayırıcı - Dolu](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
 - XNF sahipleri XNF'lerini protokole ait likidite havuzumuz veya topluluk tarafından kurulan herhangi bir havuz aracılığıyla serbestçe satabilirler. Ancak, protokole ait likidite havuzumuzdan XNF satın almak kısıtlıdır; bu da günlük açık artırmalarımızı önemli miktarda XNF elde etmenin birincil yolu haline getiriyor. Bu, bir kullanıcı veya arbitraj botunun, protokole ait likidite havuzumuz aracılığıyla XNF'yi her satışında, tokenların kalıcı olarak dolaşımdan kaldırıldığı ve XNF kıtlığını artıran bir "kara delik" etkisi yaratıldığı anlamına gelir.
 
-- Dikkatlice tasarlanmış bu mekanizma aynı zamanda ilk likidite dağıtımını spekülatörlerin ve likidite keskin nişancılarının potansiyel sömürüsüne karşı korumaya da hizmet ederek ekosistemimizin bütünlüğünü en başından itibaren sağlamlaştırır. Kullanıcılar protokole ait havuza likidite katkıda bulunma olanağını korurken, bunu yapmayı tercih etmenin geri dönüşüm sözleşmesinden manuel olarak çekilmeyi gerektireceğini belirtmekte fayda var.
+- Bu mekanizma, başlangıçtaki likiditenin spekülatörler ve likidite keskin nişancıları tarafından sömürülmesini önlemek ve böylece ekosistemimizin temelini güçlendirmek için stratejik olarak tasarlanmıştır. Ancak şunu da belirtelim ki kullanıcılar protokole ait havuza likidite ekleyemiyor; XNF'lerini yalnızca bunun aracılığıyla satabilirler. %1'lik ücret kademesi havuzunun likiditesine yapılacak her türlü ekleme, ekosistemimizin uzun vadeli sürdürülebilirliğine uygun, kontrollü ve güvenli bir süreç takip edilerek protokolün kendisi tarafından gerçekleştirilmelidir.
 
-- Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün günlük geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
+- Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
 
 <br>
 
@@ -207,7 +201,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- vXEN, XEN ekosistemindeki farklı EVM zincirlerinden katılımcıların günlük yakma açık artırmalarına katılmasına olanak tanır. vXEN, XEN ekosistemindeki desteklenen 10 zincirden herhangi birindeki XEN yerel belirteçlerinin yakılmasıyla oluşturulur. Bir sahibi bu zincirlerden birinden yerel XEN yaktığında, işlem yakma kaydına kaydedilir. Aşağıda, her biri tek bir vXEN için karşılık gelen tanımlayıcı ve orana sahip, desteklenen EVM zincirlerinin ayrıntılı bir listesi bulunmaktadır.
+- vXEN, XEN ekosistemindeki farklı EVM zincirlerinden katılımcıların günlük yakma açık artırmalarına katılmasına olanak tanır. vXEN, XEN ekosistemindeki desteklenen on zincirden herhangi birindeki XEN yerel belirteçlerinin yakılmasıyla oluşturulur. Bir sahibi bu zincirlerden birinden yerel XEN yaktığında, işlem yakma kaydına kaydedilir. Aşağıda, her biri tek bir vXEN için karşılık gelen tanımlayıcı ve orana sahip, desteklenen EVM zincirlerinin ayrıntılı bir listesi bulunmaktadır:
 
 <br>
 
