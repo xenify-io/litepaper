@@ -71,11 +71,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Dalam lelang pembakaran harian yang diselenggarakan di Arbitrum, pengguna memiliki opsi untuk membakar 1 hingga 10.000 batch. Satu batch pembakaran YSL mewakili 0,1 YSL, sedangkan batch pembakaran vXEN setara dengan 10.000.000 vXEN. Biaya asli sebesar 0,01 ETH diterapkan per batch dalam lelang pembakaran dan ETH.
+- Dalam lelang pembakaran harian di Arbitrum, pengguna dapat membakar 1 hingga 10.000 batch. Setiap kumpulan pembakaran YSL sama dengan 0,1 YSL, dan setiap kumpulan pembakaran vXEN setara dengan 10.000.000 vXEN. Biaya asli sebesar 0,01 ETH berlaku per batch untuk lelang burn dan ETH.
 
-- Setiap hari, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran harian. Distribusinya dialokasikan secara merata antara Lelang Pembakaran YSL dan Lelang Pembakaran vXEN. Misalnya, jika hanya 1 kumpulan YSL yang dibakar dan 10.000 kumpulan vXEN dibakar pada siklus tertentu, pengguna yang membakar satu kumpulan YSL akan menerima seluruh 25% pasokan XNF harian, sedangkan pembakar vXEN akan berbagi 25% lainnya berdasarkan kelompok pembakaran masing-masing.
+- Setengah dari pasokan XNF harian didistribusikan kepada peserta lelang pembakaran harian, dibagi rata antara Lelang Pembakaran YSL dan vXEN. Misalnya, jika 1 batch YSL dan 10.000 batch vXEN dibakar dalam satu siklus, pengguna yang membakar satu batch YSL akan menerima 25% penuh dari pasokan XNF harian, sedangkan pembakar vXEN akan membagi 25% sisanya berdasarkan pada mereka membakar kontribusi.
 
-- Selain itu, peserta lelang ETH diberikan 40% pasokan XNF sebagai hadiah veXNF, yang dilengkapi dengan kunci 1 tahun yang dapat diklaim. Setelah diklaim, hadiah ini akan meningkatkan kekuatan penghasilan peserta, memungkinkan mereka memperoleh lebih banyak ETH. Demikian pula, mereka yang berpartisipasi dalam lelang Swap akan menerima sisa 10% dari distribusi XNF harian sebagai hadiah veXNF, juga dengan kunci yang dapat diklaim selama 1 tahun. Setelah melakukan klaim, kekuatan pendapatan mereka juga akan meningkat.
+- Dalam lelang ETH, peserta menerima 40% pasokan XNF harian sebagai hadiah veXNF, yang dikunci selama satu tahun sebelum dapat diklaim. Hadiah ini, setelah diklaim, akan meningkatkan kekuatan pendapatan peserta untuk pendapatan ETH di masa depan. Peserta dalam lelang Swap akan mendapatkan sisa 10% pasokan XNF sebagai hadiah veXNF, yang tunduk pada kunci klaim satu tahun yang sama, sehingga meningkatkan kekuatan penghasilan mereka saat melakukan klaim.
 
 <br>
 
@@ -85,11 +85,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Pengguna yang berpartisipasi dalam satu jam pertama dapat memanfaatkan Koefisien Waktu (TC) dan Koefisien Batch (BC) untuk mendapatkan diskon yang signifikan. Secara khusus, setiap batch yang diperoleh dalam satu jam pertama akan mendapatkan keuntungan dari diskon 50% dari TC. Selain itu, dengan memperoleh 10.000 batch dalam jangka waktu ini, pengguna dapat memperoleh diskon hingga 75% saat mempertimbangkan BC. Seiring berjalannya siklus, diskon dari Koefisien Waktu (TC) dan Koefisien Batch (BC) berkurang.
+- Pengguna yang berpartisipasi dalam satu jam pertama dapat memanfaatkan Koefisien Waktu (TC) dan Koefisien Batch (BC) untuk mendapatkan diskon yang signifikan. Secara khusus, setiap batch yang diperoleh dalam satu jam pertama akan mendapatkan diskon 50% karena TC. Selain itu, dengan mendapatkan 10.000 batch dalam jangka waktu ini, pengguna dapat memperoleh diskon hingga 75%, mengingat BC. Seiring berjalannya siklus, diskon dari TC dan BC berkurang.
 
-- Pada jam terakhir, diskon mendekati nol. Berpartisipasi lebih awal, terutama pada jam pertama, sangat penting bagi pengguna yang ingin memaksimalkan diskon batch mereka. Jam awal memberikan pengurangan paling signifikan, memastikan peserta menerima nilai terbaik atas partisipasi mereka.
+- Pada jam terakhir, diskon mendekati nol. Berpartisipasi lebih awal, terutama pada jam pertama, sangat penting bagi pengguna yang ingin memaksimalkan diskon batch mereka. Jam-jam awal menawarkan pengurangan yang paling besar, memastikan peserta menerima nilai terbaik atas partisipasi mereka.
 
-- Di sisi lain, menunggu hingga satu jam terakhir untuk memutuskan keterlibatan siklus saat ini bisa jadi lebih mahal. Karena diskon telah berkurang secara signifikan pada saat itu, pengguna pada akhirnya akan menyumbang lebih banyak ETH dibandingkan saat awal, sehingga menggarisbawahi kehati-hatian dalam keterlibatan awal.
+- Sebaliknya, menunda partisipasi hingga jam terakhir dari siklus saat ini dapat mengakibatkan biaya yang lebih tinggi. Dengan berkurangnya diskon secara signifikan pada saat itu, pengguna akan menyumbangkan lebih banyak ETH dibandingkan di awal siklus, sehingga menyoroti keuntungan dari keterlibatan awal.
 
 <br>
 
@@ -99,9 +99,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- 40% ETH yang dikumpulkan dari lelang harian akan dialokasikan kepada pemegang veXNF, sebanding dengan kekuatan veXNF mereka.
-
-- Pengguna yang memilih untuk mengklaim hadiah ETH mereka akan dikenakan biaya klaim sebesar 25%. Biaya ini kemudian akan didistribusikan kembali kepada peserta yang mengambil bagian dalam daur ulang dalam satu jam pertama setiap siklus, sejalan dengan kekuatan veXNF mereka.
+- 40% ETH yang dikumpulkan dari lelang harian akan dialokasikan kepada pemegang veXNF: ini sebanding dengan kekuatan veXNF mereka. Pengguna yang memilih untuk mengklaim hadiah ETH mereka akan dikenakan biaya klaim sebesar 25%; biaya ini kemudian akan didistribusikan kembali kepada peserta yang mengambil bagian dalam daur ulang dalam satu jam pertama setiap siklus, sejalan dengan kekuatan veXNF mereka.
 
 <br>
 
@@ -111,9 +109,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Mereka yang mendaur ulang ETH dalam satu jam pertama suatu siklus berhak mendapatkan sebagian biaya klaim ETH dari siklus tersebut, sebanding dengan kekuatan veXNF mereka. Semakin besar kekuatan veXNF Anda, semakin besar bagian hasil ETH Anda yang dihasilkan dari biaya klaim.
-
-- Manfaat paling menonjol dari daur ulang adalah penyertaan otomatis ke dalam lelang pembakaran, sehingga menghilangkan kebutuhan untuk membakar token alternatif. Bahkan jika pengguna melewatkan jendela satu jam pertama, mereka masih memiliki kesempatan untuk berpartisipasi dalam lelang pembakaran, tanpa perlu membakar vXEN atau YSL, asalkan mereka memutuskan untuk melakukan daur ulang selama sisa 23 jam siklus.
+- Mereka yang mendaur ulang ETH dalam satu jam pertama dari suatu siklus berhak mendapatkan bagian dari biaya klaim ETH dari siklus tersebut. Bagiannya sebanding dengan kekuatan veXNF mereka: semakin banyak kekuatan veXNF yang Anda miliki, semakin besar porsi hasil ETH Anda dari biaya klaim. Keuntungan paling signifikan dari daur ulang adalah masuknya langsung ke dalam lelang pembakaran, sehingga menghilangkan kebutuhan untuk membakar token lainnya. Selain itu, pengguna yang melewatkan periode satu jam pertama masih memiliki kesempatan untuk mengikuti lelang pembakaran selama sisa 23 jam siklus, tanpa persyaratan untuk membakar vXEN atau YSL, selama mereka melakukan daur ulang.
 
 <br>
 
@@ -123,11 +119,9 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- 50% ETH yang dikumpulkan dari lelang harian akan digunakan untuk membeli XNF dari pasar melalui pasangan WETH-XNF di Uniswap V3, dengan 100% XNF yang diperoleh akan dibakar.
+- 50% ETH yang dikumpulkan dari lelang harian akan digunakan untuk pembelian kembali XNF di luar pasar, khususnya melalui pasangan WETH-XNF di Uniswap V3. Yang penting, 100% XNF yang dibeli kembali akan dibakar. Selain itu, 90% ETH daur ulang dari setiap siklus harian akan digunakan untuk pembelian kembali XNF dari pasar melalui pasangan WETH-XNF yang sama di Uniswap, dengan semua XNF yang dibeli kembali juga dibakar.
 
-- 90% ETH daur ulang di setiap siklus harian akan digunakan untuk membeli XNF dari pasar melalui pasangan WETH-XNF di Uniswap, dengan 100% XNF yang diperoleh akan dibakar.
-
-- Mekanisme pembakaran dalam protokol kami dibuat dengan cermat untuk dieksekusi secara permanen dan otomatis setelah setiap lelang harian atau partisipasi daur ulang, sehingga meniadakan risiko pihak lawan dan memitigasi potensi masalah front-running yang dapat timbul jika pihak ketiga diminta untuk memulai pembelian kembali dan proses pembakaran.
+- Mekanisme pembakaran dalam protokol kami dirancang agar tidak dapat diubah dan otomatis. Mereka aktif setelah setiap aktivitas lelang atau daur ulang harian. Pendekatan ini menghilangkan risiko pihak lawan dan memitigasi potensi masalah yang mungkin timbul jika pihak ketiga diminta untuk mengelola proses pembelian kembali dan pembakaran.
 
 <br>
 
@@ -137,25 +131,25 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Protokol awalnya diatur untuk memanfaatkan Uniswap V3 untuk penyediaan likuiditasnya. Untuk meluncurkan pasangan dagang WETH-XNF, ia akan mengalokasikan 100.000 XNF, sehingga menetapkan harga awal $1,00 per XNF. Penting untuk dicatat bahwa harga ini dapat disesuaikan oleh protokol, bergantung pada jumlah ETH yang dikumpulkan selama siklus awal. Setelah ini, pasangan full-range akan dibuat pada tingkat biaya 1%.
+- Protokol akan menggunakan Uniswap V3 untuk penyediaan likuiditas dengan meluncurkan pasangan perdagangan WETH-XNF dengan alokasi 100,000 XNF dan menetapkan titik harga awal $1,00 per XNF. Harga awal ini dapat disesuaikan, bergantung pada volume ETH yang dikumpulkan selama siklus awal. Pemasangan rentang penuh selanjutnya akan dilakukan dalam tingkat biaya 1% di Uniswap V3.
 
-- Protokol ini juga dirancang untuk memastikan pertumbuhan berkelanjutan likuiditas yang dimiliki protokol ETH pada setiap siklus berikutnya. Mulai siklus kedua dan seterusnya, ETH yang diperoleh setiap hari melalui biaya pembakaran, biaya asli, biaya swap, dan aktivitas daur ulang akan digunakan untuk mendukung proliferasi likuiditas XNF. Dalam kerangka ini, 100% ETH digunakan untuk membeli pasar dan membakar XNF. Pada saat yang sama, jumlah WETH yang setara, yang digunakan untuk pembelian kembali dan pembakaran XNF, dialokasikan ke kumpulan milik protokol. Tindakan ini menghasilkan peningkatan WETH yang signifikan dalam kumpulan likuiditas WETH-XNF, memastikan cakupan komprehensif di seluruh rentang protokol yang dimiliki.
+- Untuk mendorong pertumbuhan berkelanjutan likuiditas milik protokol ETH, mulai dari siklus kedua, 50% ETH—yang diterima dari biaya pembakaran, biaya asli, biaya swap, dan 90% dari daur ulang—akan diinvestasikan kembali untuk memperluas likuiditas XNF. Dalam model ini, seluruh jumlah ETH yang dikumpulkan disalurkan ke pasar untuk membeli dan membakar XNF. Pada saat yang sama, jumlah WETH yang setara diarahkan ke kumpulan milik protokol, sehingga meningkatkan cadangan WETH di kumpulan likuiditas WETH-XNF dan memastikan dukungan ekstensif di seluruh rentang.
 
-- Perlu diketahui bahwa penyedia likuiditas tidak akan dapat menambahkan likuiditas ke tingkat biaya WETH-XNF 1%. Selain itu, penting untuk dicatat bahwa hanya protokol itu sendiri yang memiliki kemampuan untuk melakukan pembelian dari likuiditasnya sendiri di kumpulan WETH-XNF. Pemegang XNF hanya dapat melakukan transaksi penjualan baik melalui situs Xenify atau langsung melalui kontrak daur ulang.
+- Penyedia likuiditas dilarang menambah kumpulan WETH-XNF pada tingkat biaya 1%; kumpulan ini dicadangkan secara eksklusif bagi protokol untuk melakukan pembelian kembali pasar dan membakar likuiditasnya sendiri dalam tingkat biaya yang sama. Pemegang XNF dibatasi untuk menjual melalui platform Xenify atau dengan berinteraksi langsung dengan kontrak daur ulang jika mereka ingin menjual dalam kelompok biaya 1%.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 XNF Kejadian Airdrop
+# 💸 XNF Genesis Airdrop
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Xenify meluncurkan airdrop Genesis selama 60 hari di setiap rantai yang dikerahkannya. Selama periode ini, 1,500,000 XNF akan dibagikan kepada para peserta. Distribusinya sederhana: setiap hari, 25.000 token XNF akan dialokasikan, dengan pembagian individu ditentukan oleh kontribusi harian masing-masing peserta melalui biaya swap.
+- Xenify memulai airdrop Genesis selama 60 hari di setiap rantai tempat ia beroperasi. Sepanjang fase ini, 1.500.000 XNF akan didistribusikan kepada peserta. Setiap hari, 25.000 token XNF dibagikan berdasarkan kontribusi masing-masing peserta melalui biaya swap.
 
-- Perlu diperhatikan bahwa airdrop ini mencakup semua rantai yang kompatibel dengan EVM. Selama transaksi berasal dari atau dieksekusi dalam rantai EVM dan mencakup biaya swap yang terlampir, maka transaksi tersebut memenuhi syarat untuk mendapatkan airdrop.
+- Airdrop meluas ke semua rantai yang kompatibel dengan EVM, memastikan inklusivitas yang luas. Transaksi yang memenuhi syarat untuk airdrop mencakup transaksi yang berasal dari atau diselesaikan pada rantai EVM, asalkan transaksi tersebut dikenakan biaya swap.
 
-- Setelah airdrop selesai, token XNF yang dialokasikan tidak akan dapat langsung diakses. Sebaliknya, token tersebut awalnya akan didistribusikan sebagai token yang terkunci. Namun, ini tidak akan tetap terkunci tanpa batas waktu. Selama rentang waktu 730 hari, kuncinya akan terbuka secara bertahap. Sebagai gambaran: jika Anda telah mengklaim 7.300 token XNF yang terkunci, perkirakan sekitar 10 token XNF akan tersedia di dompet Anda setiap hari.
+- Setelah airdrop berakhir, penerima tidak akan langsung memiliki akses ke token XNF, yang awalnya akan dikunci. Token ini akan dibuka secara bertahap selama 730 hari. Misalnya, jika Anda menerima 7.300 token XNF yang dikunci dari airdrop, Anda dapat mengantisipasi pembukaan sekitar 10 token XNF setiap hari ke dalam dompet Anda.
 
 <br>
 
@@ -165,11 +159,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Mekanisme veXNF dirancang untuk mengunci sebagian besar pasokan XNF, sehingga memainkan peran penting dalam meningkatkan kelangkaan dalam protokol. Peserta memiliki opsi untuk mengunci XNF mereka untuk jangka waktu mulai dari minimal 1 minggu hingga maksimal 1 tahun. Semakin lama durasi penguncian, semakin besar pula kekuatan penghasilannya. Selain itu, durasi penguncian yang lebih lama juga mengakibatkan peluruhan daya ini menjadi lebih lambat.
+- Mekanisme veXNF adalah fitur strategis yang mengunci sebagian besar pasokan XNF untuk meningkatkan kelangkaan. Pengguna dapat memilih untuk mengunci XNF mereka dari satu minggu hingga satu tahun, dengan periode penguncian yang lebih lama memberikan kekuatan penghasilan yang lebih besar. Khususnya, komitmen yang lebih panjang juga memperlambat laju kerusakan energi ini, sehingga memberikan keuntungan yang berkelanjutan.
 
-- Contoh 1: Pemegang veXNF yang awalnya mengunci XNF mereka untuk jangka waktu 1 tahun akan menghadapi tantangan jika mereka memilih untuk tidak memperpanjang durasi kuncinya. Kekuatan pendapatan mereka berkurang dengan cepat. Hanya dalam 30 hari, kekuatan ini berkurang setengahnya, dan pada akhir 60 hari, kekuatan ini hilang seluruhnya. Hal ini membuat mereka tidak memiliki penghasilan apa pun selama 10 bulan berikutnya hingga mereka dapat membuka kunci XNF.
+- Pada contoh pertama, pemegang veXNF yang mengunci XNF mereka selama satu tahun akan mengalami penurunan tajam dalam pendapatan jika mereka tidak memperpanjang periode pengunciannya. Kekuatan penghasilan mereka berkurang setengahnya hanya dalam waktu 30 hari, dan habis sepenuhnya setelah 60 hari, sehingga mereka tidak mendapatkan manfaat penghasilan selama sepuluh bulan tersisa hingga periode penguncian berakhir.
 
-- Contoh 2: Mereka yang memilih untuk mengunci XNF mereka untuk durasi 6 bulan yang lebih pendek dan kemudian memutuskan untuk tidak memperpanjangnya akan menghadapi konsekuensi serupa. Kekuatan pendapatan mereka berkurang dengan cepat. Hanya dalam 15 hari, kekuatan ini berkurang setengahnya, dan pada akhir 30 hari, kekuatan ini hilang seluruhnya. Hal ini membuat mereka tidak memiliki kekuatan penghasilan apa pun selama 5 bulan berikutnya hingga mereka dapat membuka kunci XNF mereka.
+- Contoh kedua mengilustrasikan situasi lock-in selama enam bulan. Jika para pengguna ini memutuskan untuk tidak melakukan perpanjangan, kekuatan penghasilan mereka juga akan berkurang dengan cepat, berkurang setengahnya dalam 15 hari dan hilang setelah 30 hari. Akibatnya, mereka kehilangan potensi pendapatan selama sisa periode penguncian, yang berlangsung selama lima bulan.
 
 <br>
 
@@ -179,11 +173,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- XNF memiliki pasokan maksimum 22,6 juta, distribusi token ini terjadi melalui empat lelang harian. Setiap hari, 5,250,000 XNF, yang mewakili 25% token XNF, dialokasikan kepada peserta yang terlibat dalam Lelang Pembakaran YSL. Jumlah yang sama sebesar 5.250.000 XNF juga diberikan kepada mereka yang berpartisipasi dalam Lelang Pembakaran vXEN. Selain itu, tambahan 50% dari pasokan XNF harian disisihkan untuk hadiah veXNF. Namun, penting untuk dicatat bahwa hadiah ini tunduk pada periode lock-up selama satu tahun, setelah itu didistribusikan kepada individu yang berpartisipasi dalam Lelang ETH (40%) dan Lelang Swap (10%). Secara total, hal ini menghasilkan distribusi harian sebesar 10.500.000 XNF di seluruh lelang ini.
+- XNF memiliki pasokan maksimum 22,6 juta token. Distribusi terjadi melalui empat lelang harian. Setiap hari, persentase tertentu dari token XNF dialokasikan kepada peserta lelang: 25% untuk Lelang Pembakaran YSL dan 25% lainnya untuk peserta Lelang Pembakaran vXEN. Selain itu, 50% dari pasokan XNF harian dicadangkan untuk hadiah veXNF, dengan hadiah ini dikunci selama satu tahun sebelum didistribusikan kepada peserta Lelang ETH (40%) dan Lelang Swap (10%).
 
-- Xenify menerapkan jadwal separuh yang agresif untuk distribusi tokennya. Pengurangan pertama terjadi pada tanda 3 bulan, diikuti oleh pengurangan berikutnya pada 6 bulan, dan pengurangan separuh berikutnya pada 12, 24, dan 48 bulan. Setelah lima pengurangan separuh pertama ini, terdapat tiga pengurangan tambahan, yang masing-masing terjadi setiap 48 bulan. Mekanisme halving ini dirancang untuk secara bertahap mengurangi distribusi harian token XNF.
+- Xenify menerapkan jadwal separuh yang agresif untuk distribusi tokennya. Pengurangan pertama terjadi pada tanda 3 bulan, diikuti oleh pengurangan berikutnya pada 6 bulan, dan pengurangan separuh berikutnya pada 12, 24, dan 48 bulan. Setelah lima pengurangan awal ini, terdapat tiga pengurangan tambahan, yang masing-masing terjadi setiap 48 bulan. Mekanisme halving ini dirancang untuk secara bertahap mengurangi distribusi harian token XNF.
 
-- Setelah selesainya semua halving, sejumlah 156,25 XNF akan dicairkan setiap hari. Hal ini akan berlanjut selama 2224 bulan ke depan, memastikan bahwa distribusi token berlangsung lama dan stabil, sehingga pada akhirnya mencapai batas pasokan maksimum. Pendekatan ini memastikan distribusi token XNF yang berkelanjutan dan dapat diprediksi, memungkinkan pengguna untuk merencanakan dan berpartisipasi dengan percaya diri.
+- Setelah separuh selesai, jumlah harian tetap sebesar 156,25 XNF akan didistribusikan selama 2224 bulan, yang mengarah ke batas pasokan maksimum. Hal ini memastikan peluncuran token yang stabil dan diperluas, mendorong stabilitas distribusi jangka panjang dan memberi pengguna kerangka kerja yang dapat diandalkan untuk berpartisipasi.
 
 <br>
 
@@ -195,19 +189,19 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 - Pemegang XNF dapat dengan bebas menjual XNF mereka melalui kumpulan likuiditas milik protokol kami atau kumpulan yang didirikan komunitas. Namun, pembelian XNF dari kumpulan likuiditas milik protokol kami dibatasi - menjadikan lelang harian kami sebagai cara utama untuk memperoleh XNF dalam jumlah besar. Artinya, setiap kali pengguna atau bot arbitrase menjual XNF melalui kumpulan likuiditas milik protokol kami, token tersebut akan dihapus secara permanen dari peredaran, sehingga menciptakan efek “lubang hitam” yang meningkatkan kelangkaan XNF.
 
-- Mekanisme yang dirancang dengan cermat ini juga berfungsi untuk menjaga penyebaran likuiditas awal terhadap potensi eksploitasi oleh spekulan dan penembak jitu likuiditas, sehingga memperkuat integritas ekosistem kita sejak awal. Perlu disebutkan bahwa meskipun pengguna tetap memiliki kemampuan untuk menyumbangkan likuiditas ke kumpulan milik protokol, memilih untuk melakukannya akan memerlukan penarikan manual dari kontrak daur ulang.
+- Mekanisme ini dirancang secara strategis untuk melindungi likuiditas awal agar tidak dieksploitasi oleh spekulan dan penembak jitu likuiditas, sehingga memperkuat fondasi ekosistem kita. Namun, perlu dicatat bahwa pengguna tidak dapat menambahkan likuiditas ke kumpulan milik protokol; mereka hanya dapat menjual XNF mereka melalui itu. Setiap penambahan pada likuiditas kumpulan biaya 1% harus dilakukan oleh protokol itu sendiri, mengikuti proses yang terkendali dan aman yang selaras dengan kelangsungan ekosistem kami dalam jangka panjang.
 
-- Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran harian protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
+- Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔥 vXEN - Menyatukan Pembakaran
+# 🔥 vXEN - Menyatukan Luka Bakar
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- vXEN memungkinkan peserta dari rantai EVM berbeda dalam ekosistem XEN untuk berpartisipasi dalam lelang pembakaran harian. vXEN dihasilkan dengan membakar token asli XEN dari salah satu dari 10 rantai yang didukung di ekosistem XEN. Setiap kali pemegang membakar XEN asli dari salah satu rantai ini, transaksi dicatat dalam catatan pembakaran. Berikut ini adalah daftar rinci rantai EVM yang didukung, masing-masing dengan pengidentifikasi dan rasio yang sesuai untuk satu vXEN.
+- vXEN memungkinkan peserta dari rantai EVM berbeda dalam ekosistem XEN untuk berpartisipasi dalam lelang pembakaran harian. vXEN dihasilkan dengan membakar token asli XEN dari salah satu dari sepuluh rantai yang didukung di ekosistem XEN. Setiap kali pemegang membakar XEN asli dari salah satu rantai ini, transaksi dicatat dalam catatan pembakaran. Berikut ini adalah daftar rinci rantai EVM yang didukung, masing-masing dengan pengidentifikasi dan rasio yang sesuai untuk satu vXEN:
 
 <br>
 
