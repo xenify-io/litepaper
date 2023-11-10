@@ -71,11 +71,11 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- Dans les enchères de gravure quotidiennes hébergées sur Arbitrum, les utilisateurs ont la possibilité de graver de 1 à 10 000 lots. Un seul lot de gravure YSL représente 0,1 YSL, tandis qu'un lot de gravure vXEN correspond à 10 000 000 vXEN. Des frais natifs de 0,01 ETH sont appliqués par lot dans les enchères Burn et ETH.
+- Lors des enchères quotidiennes sur Arbitrum, les utilisateurs peuvent graver de 1 à 10 000 lots. Chaque lot de gravure YSL équivaut à 0,1 YSL et chaque lot de gravure vXEN équivaut à 10 000 000 vXEN. Des frais natifs de 0,01 ETH s'appliquent par lot pour les enchères de gravure et d'ETH.
 
-- Chaque jour, 50 % de l'offre de XNF est distribuée aux participants aux enchères quotidiennes. La distribution est répartie à parts égales entre le YSL Burn Auction et le vXEN Burn Auction. Par exemple, si un seul lot de YSL est brûlé et que 10 000 lots de vXEN sont brûlés au cours d'un cycle donné, l'utilisateur qui a brûlé le seul lot de YSL recevra la totalité de 25% de l'approvisionnement quotidien en XNF, tandis que les brûleurs vXEN se partageront la totalité de l'approvisionnement quotidien en XNF. 25% restants en fonction de leurs lots de gravure respectifs.
+- La moitié de l'offre quotidienne de XNF est distribuée aux participants aux enchères quotidiennes de burn, réparties à parts égales entre les enchères YSL et vXEN Burn. Par exemple, si 1 lot YSL et 10 000 lots vXEN sont gravés au cours d'un cycle, l'utilisateur qui a gravé le lot YSL unique recevra 25 % de l'approvisionnement quotidien en XNF, tandis que les graveurs vXEN diviseront les 25 % restants en fonction de leur brûler les contributions.
 
-- De plus, les participants à l'enchère ETH reçoivent 40% de l'offre de XNF sous forme de récompenses veXNF, accompagnées d'un verrou récupérable d'un an. Une fois réclamées, ces récompenses améliorent la capacité de gain du participant, lui permettant de gagner plus d'ETH. De même, ceux qui participent aux enchères Swap recevront les 10% restants de la distribution quotidienne de XNF sous forme de récompenses veXNF, également avec un verrou récupérable d'un an. Lors de leur réclamation, leur capacité de gain augmentera également.
+- Lors de l'enchère ETH, les participants reçoivent 40 % de l'offre quotidienne de XNF sous forme de récompenses veXNF, qui sont verrouillées pendant un an avant de pouvoir être réclamées. Ces récompenses, une fois réclamées, augmentent la capacité de gain du participant pour les futurs gains en ETH. Les participants à l'enchère Swap reçoivent les 10 % restants de l'offre XNF sous forme de récompenses veXNF, sous réserve du même verrouillage d'un an récupérable, améliorant ainsi leur pouvoir de gain lors de la réclamation.
 
 <br>
 
@@ -85,11 +85,11 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- Les utilisateurs qui participent à la première heure peuvent bénéficier à la fois du coefficient de temps (TC) et du coefficient de lot (BC) pour obtenir des remises importantes. Concrètement, tous les lots obtenus dans la première heure bénéficieront de la remise de 50 % du TC. De plus, en obtenant 10 000 lots dans cette fenêtre, les utilisateurs peuvent bénéficier d'une réduction allant jusqu'à 75 % lorsqu'ils envisagent le BC. Au fur et à mesure que le cycle progresse, les remises du coefficient de temps (TC) et du coefficient de lot (BC) diminuent.
+- Les utilisateurs qui participent à la première heure peuvent bénéficier à la fois du coefficient de temps (TC) et du coefficient de lot (BC) pour obtenir des remises importantes. Concrètement, tous les lots obtenus dans la première heure bénéficieront d'une remise de 50% grâce au TC. De plus, en obtenant 10 000 lots dans cette fenêtre, les utilisateurs peuvent obtenir jusqu'à 75 % de réduction, en considérant le BC. À mesure que le cycle progresse, les remises du TC et du BC diminuent.
 
-- À la dernière heure, les remises se rapprochent de zéro. Participer tôt, en particulier au cours de la première heure, est vital pour les utilisateurs qui cherchent à maximiser leurs remises par lots. Les premières heures offrent les réductions les plus importantes, garantissant aux participants le meilleur rapport qualité-prix possible pour leur participation.
+- À la dernière heure, les remises approchent de zéro. Participer tôt, en particulier au cours de la première heure, est crucial pour les utilisateurs qui cherchent à maximiser leurs remises par lots. Les premières heures offrent les réductions les plus considérables, garantissant aux participants le meilleur rapport qualité-prix pour leur participation.
 
-- En revanche, attendre la dernière heure pour décider de l'engagement du cycle en cours peut coûter plus cher. Comme les remises auront considérablement diminué d’ici là, les utilisateurs finiront par contribuer davantage d’ETH par rapport à l’heure initiale, soulignant la prudence d’un engagement précoce.
+- A l’inverse, retarder la participation jusqu’à la dernière heure du cycle en cours peut entraîner des coûts plus élevés. Avec des remises considérablement réduites d’ici là, les utilisateurs contribueront davantage d’ETH qu’ils ne le feraient au début du cycle, soulignant les avantages d’un engagement précoce.
 
 <br>
 
@@ -99,9 +99,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- 40% des ETH collectés lors des enchères quotidiennes seront alloués aux détenteurs de veXNF, proportionnellement à leur puissance veXNF.
-
-- Les utilisateurs qui choisissent de réclamer leurs récompenses ETH devront payer des frais de réclamation de 25%. Cette redevance sera ensuite redistribuée aux participants ayant participé au recyclage dans la première heure d'un cycle, en fonction de leur pouvoir veXNF.
+- 40% des ETH récoltés lors des enchères quotidiennes seront alloués aux détenteurs de veXNF : ceci est proportionnel à leur puissance veXNF. Les utilisateurs qui choisissent de réclamer leurs récompenses ETH devront payer des frais de réclamation de 25 % ; cette redevance sera ensuite redistribuée aux participants ayant participé au recyclage dans la première heure d'un cycle, en adéquation avec leur pouvoir veXNF.
 
 <br>
 
@@ -111,9 +109,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- Ceux qui recyclent l'ETH dans la première heure d'un cycle peuvent gagner une partie des frais de réclamation d'ETH de ce cycle, proportionnellement à leur puissance veXNF. Plus votre puissance veXNF est grande, plus votre part des rendements ETH générés par les frais de réclamation est importante.
-
-- L'avantage le plus notable du recyclage est l'inclusion automatique dans les enchères de gravure, éliminant ainsi le besoin de graver des jetons alternatifs. Même si les utilisateurs manquent la fenêtre de la première heure, ils auront toujours la possibilité de participer aux enchères de gravure, sans avoir besoin de graver vXEN ou YSL, à condition qu'ils décident de recycler pendant les 23 heures restantes du cycle.
+- Ceux qui recyclent l'ETH dans la première heure d'un cycle sont éligibles pour gagner une part des frais de réclamation d'ETH de ce cycle. La part est proportionnelle à leur pouvoir veXNF : plus vous disposez de pouvoir veXNF, plus votre part des rendements ETH provenant des frais de réclamation est importante. L’avantage le plus important du recyclage est son entrée directe dans les enchères de brûlage, ce qui élimine la nécessité de brûler d’autres jetons. De plus, les utilisateurs qui manquent la première heure ont toujours la possibilité de participer aux enchères de gravure pendant les 23 heures restantes du cycle, sans avoir à graver vXEN ou YSL, à condition qu'ils recyclent.
 
 <br>
 
@@ -123,11 +119,9 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- 50 % des ETH collectés lors des enchères quotidiennes seront utilisés pour acheter du XNF hors du marché via la paire WETH-XNF sur Uniswap V3, 100 % du XNF acquis étant brûlé.
+- 50% des ETH collectés lors des enchères quotidiennes seront utilisés pour le rachat de XNF hors marché, notamment via la paire WETH-XNF sur Uniswap V3. Il est important de noter que 100 % des XNF rachetés seront brûlés. De plus, 90 % de l'ETH recyclé de chaque cycle quotidien sera utilisé pour le rachat de XNF hors du marché via la même paire WETH-XNF sur Uniswap, tous les XNF rachetés étant également brûlés.
 
-- 90 % de l'ETH recyclé tout au long de chaque cycle quotidien sera utilisé pour acheter du XNF sur le marché via la paire WETH-XNF sur Uniswap, 100 % du XNF acquis étant brûlé.
-
-- Les mécanismes de gravure au sein de notre protocole sont méticuleusement conçus pour s'exécuter de manière immuable et automatique après chaque vente aux enchères quotidienne ou participation au recyclage, annulant ainsi le risque de contrepartie et atténuant les problèmes potentiels de front-running qui pourraient survenir si un tiers était tenu d'initier le rachat et processus de gravure.
+- Les mécanismes de gravure au sein de notre protocole sont conçus pour être immuables et automatiques. Ils s'activent après chaque vente aux enchères ou activité de recyclage quotidienne. Cette approche élimine le risque de contrepartie et atténue les problèmes potentiels qui pourraient survenir si un tiers devait gérer les processus de rachat et de brûlage.
 
 <br>
 
@@ -137,39 +131,39 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- Le protocole devrait initialement exploiter Uniswap V3 pour son approvisionnement en liquidités. Pour lancer la paire de trading WETH-XNF, il allouera 100 000 XNF, établissant ainsi un prix initial de 1,00 $ par XNF. Il est important de noter que ce prix peut être ajusté par le protocole, en fonction de la quantité d'ETH collectée lors du cycle initial. Suite à cela, un appariement complet sera créé au niveau de frais de 1 %.
+- Le protocole utilisera Uniswap V3 pour l'approvisionnement en liquidités en lançant la paire de négociation WETH-XNF avec une allocation de 100 000 XNF et en fixant un prix initial de 1,00 $ par XNF. Ce prix initial est ajustable, en fonction du volume d'ETH collecté au cours du cycle initial. Un appariement complet sera ensuite établi dans le cadre du niveau de frais de 1 % sur Uniswap V3.
 
-- Le protocole est également conçu pour assurer la croissance perpétuelle de la liquidité appartenant au protocole ETH à chaque cycle ultérieur. À partir du deuxième cycle, l’ETH obtenu quotidiennement grâce aux frais de brûlage, aux frais natifs, aux frais de swap et aux activités de recyclage sera utilisé pour soutenir la prolifération des liquidités XNF. Dans ce cadre, 100 % de l’ETH est utilisé pour acheter et brûler du XNF sur le marché. Simultanément, le montant équivalent de WETH, qui a été utilisé pour le rachat et la gravure de XNF, est alloué au pool appartenant au protocole. Cette action entraîne une augmentation significative du WETH au sein du pool de liquidité WETH-XNF, garantissant une couverture complète sur l'ensemble de la gamme appartenant au protocole.
+- Afin de promouvoir la croissance continue de la liquidité appartenant au protocole ETH, à partir du deuxième cycle, 50 % de l'ETH – provenant des frais de brûlage, des frais natifs, des frais de swap et 90 % du recyclage – seront réinvestis dans l'expansion de la liquidité XNF. Dans ce modèle, la totalité de la somme d’ETH collectée est canalisée vers l’achat et la gravure de XNF sur le marché. Simultanément, un montant équivalent de WETH est dirigé vers le pool appartenant au protocole, augmentant ainsi les réserves de WETH dans le pool de liquidité WETH-XNF et assurant un support étendu sur l'ensemble de la gamme.
 
-- Veuillez noter que les fournisseurs de liquidité ne pourront pas ajouter de liquidité au niveau de frais WETH-XNF de 1 %. De plus, il est important de noter que seul le protocole lui-même a la capacité d'effectuer des achats à partir de ses propres liquidités dans le pool WETH-XNF. Les détenteurs de XNF ne peuvent exécuter des transactions de vente que via le site Xenify ou directement via le contrat de recyclage.
-
-<br>
-
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 Largage aérien XNF Genesis
-![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-
-<br>
-
-- Xenify lance un parachutage Genesis de 60 jours sur chaque chaîne sur laquelle il se déploie. Durant cette période, 1 500 000 XNF seront partagés entre les participants. La distribution est simple : chaque jour, 25 000 tokens XNF seront attribués, avec des parts individuelles déterminées par les contributions quotidiennes de chaque participant via des frais de swap.
-
-- Il convient de noter que cet airdrop inclut toutes les chaînes compatibles EVM. Tant qu'une transaction provient ou est exécutée au sein d'une chaîne EVM et comprend des frais de swap attachés, elle est éligible au largage.
-
-- Une fois le parachutage terminé, les jetons XNF alloués ne seront pas immédiatement accessibles. Au lieu de cela, ils seront initialement distribués sous forme de jetons verrouillés. Toutefois, ceux-ci ne resteront pas verrouillés indéfiniment. Sur une période de 730 jours, ils se débloqueront progressivement. Pour mettre cela en perspective : si vous avez réclamé 7 300 jetons XNF verrouillés, attendez-vous à ce qu'environ 10 jetons XNF soient disponibles quotidiennement dans votre portefeuille.
+- Il est interdit aux fournisseurs de liquidité d'ajouter au pool WETH-XNF au niveau de frais de 1 % ; ce pool est réservé exclusivement au protocole pour effectuer des rachats de marché et des brûlages à partir de sa propre liquidité au sein du même niveau de frais. Les détenteurs de XNF sont limités à vendre via la plateforme Xenify ou en interagissant directement avec le contrat de recyclage s'ils souhaitent vendre dans le pool de frais de 1 %.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 🔏 Pouvoir de gain de veXNF
+# 💸 Largages aériens XNF Genesis
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Le mécanisme veXNF est conçu pour verrouiller une partie substantielle de l'offre de XNF, jouant ainsi un rôle central dans l'amélioration de la rareté au sein du protocole. Les participants ont la possibilité de verrouiller leur XNF pour une période allant d'un minimum d'une semaine à un maximum d'un an. Plus la durée de verrouillage est longue, plus le pouvoir de gain est élevé. De plus, des durées de verrouillage plus longues entraînent également une diminution plus lente de ce pouvoir.
+- Xenify lance un largage Genesis de 60 jours sur chaque chaîne sur laquelle il opère. Tout au long de cette phase, 1 500 000 XNF seront distribués aux participants. Chaque jour, 25 000 jetons XNF sont répartis en fonction de la contribution de chaque participant via les frais de swap.
 
-- Exemple 1 : les détenteurs de veXNF qui verrouillent initialement leur XNF pour une période d'un an sont confrontés à des difficultés s'ils choisissent de ne pas prolonger la durée de leur verrouillage. Leur capacité de gain diminue rapidement. En seulement 30 jours, cette puissance est réduite de moitié et au bout de 60 jours, elle a complètement disparu. Cela les laisse sans aucune capacité de gain pendant les 10 mois suivants jusqu'à ce qu'ils puissent débloquer leur XNF.
+- Le largage s'étend à toutes les chaînes compatibles EVM, garantissant une large inclusivité. Les transactions éligibles au largage incluent celles provenant ou réalisées sur une chaîne EVM, à condition qu'elles comportent des frais de swap.
 
-- Exemple 2 : Ceux qui choisissent de verrouiller leur XNF pour une durée plus courte de 6 mois et décident ensuite de ne pas prolonger s'exposent à des conséquences similaires. Leur capacité de gain diminue rapidement. En seulement 15 jours, cette puissance est réduite de moitié et au bout de 30 jours, elle a complètement disparu. Cela les laisse sans aucune capacité de gain pendant les 5 mois suivants jusqu'à ce qu'ils puissent débloquer leur XNF.
+- Une fois le largage terminé, les destinataires n'auront pas un accès immédiat aux jetons XNF, qui seront initialement verrouillés. Ces jetons se débloqueront progressivement sur 730 jours. Par exemple, si vous recevez 7 300 jetons XNF verrouillés lors du largage, vous pouvez vous attendre à un déverrouillage d'environ 10 jetons XNF par jour dans votre portefeuille.
+
+<br>
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# 🔏 Puissance de gain de veXNF
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+- Le mécanisme veXNF est une fonctionnalité stratégique qui verrouille une partie importante de l'offre de XNF pour accroître la rareté. Les utilisateurs peuvent choisir de verrouiller leur XNF d'une semaine à un an, avec des périodes de verrouillage plus longues offrant une capacité de gain plus importante. Notamment, des engagements plus longs ralentissent également le taux de dégradation de cette puissance, offrant ainsi un avantage durable.
+
+- Dans le premier exemple, les détenteurs de veXNF qui verrouillent leur XNF pendant un an subissent une forte réduction de leur capacité de gain s'ils ne prolongent pas leur période de blocage. Leur capacité de gain est réduite de moitié après seulement 30 jours, et elle s’épuise complètement après 60 jours, les laissant sans allocation pendant les dix mois restants jusqu’à l’expiration de la période de verrouillage.
+
+- Le deuxième exemple illustre la situation pour un lock-in de six mois. Si ces utilisateurs décident de ne pas prolonger, leur capacité de gain diminue également rapidement, diminuant de moitié en 15 jours et disparaissant au bout de 30 jours. Par conséquent, ils perdent tout gain potentiel pour le reste de leur période de verrouillage, qui dure cinq mois.
 
 <br>
 
@@ -179,11 +173,11 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- XNF dispose d'une offre maximale de 22,6 millions, la distribution de ces jetons se fait via quatre enchères quotidiennes. Chaque jour, 5 250 000 XNF, soit 25% des tokens XNF, sont alloués aux participants engagés dans l'YSL Burn Auction. Une quantité identique de 5 250 000 XNF est également versée aux participants à la vente aux enchères vXEN Burn. De plus, 50 % supplémentaires de l’approvisionnement quotidien en XNF sont réservés aux récompenses veXNF. Il est toutefois crucial de noter que ces récompenses sont soumises à une période de blocage d'un an, après quoi elles sont distribuées aux personnes participant à l'ETH Auction (40%) et à l'Swap Auction (10%). Au total, cela se traduit par une distribution quotidienne de 10 500 000 XNF sur ces enchères.
+- XNF dispose d'une offre maximale de 22,6 millions de jetons. La distribution s'effectue au travers de quatre enchères quotidiennes. Chaque jour, un certain pourcentage des jetons XNF est alloué aux participants aux enchères : 25 % à l'YSL Burn Auction et 25 % supplémentaires aux participants à l'enchère vXEN Burn. De plus, 50 % de l'offre quotidienne de XNF est réservée aux récompenses veXNF, ces récompenses étant verrouillées pendant un an avant d'être distribuées aux participants aux enchères ETH (40 %) et aux enchères Swap (10 %).
 
 - Xenify utilise un calendrier agressif de réduction de moitié pour sa distribution de jetons. La première réduction a lieu au bout de 3 mois, suivie d'une autre à 6 mois et de moitiés ultérieures à 12, 24 et 48 mois. Après ces cinq réductions initiales de moitié, il y a trois réductions supplémentaires, chacune se produisant tous les 48 mois. Ce mécanisme de réduction de moitié est conçu pour réduire progressivement la distribution quotidienne des jetons XNF.
 
-- Une fois toutes les divisions de moitié réalisées, un montant constant de 156,25 XNF sera décaissé chaque jour. Cela se poursuivra pendant les 2 224 prochains mois, garantissant que la distribution des jetons soit prolongée et stable, atteignant finalement la limite maximale d'offre. Cette approche garantit une distribution durable et prévisible des jetons XNF, permettant aux utilisateurs de planifier et de participer en toute confiance.
+- Une fois la réduction de moitié terminée, un montant quotidien fixe de 156,25 XNF sera distribué sur une période de 2 224 mois, jusqu'au plafond d'approvisionnement maximum. Cela garantit un déploiement régulier et étendu des jetons, favorisant la stabilité de la distribution à long terme et offrant aux utilisateurs un cadre de participation fiable.
 
 <br>
 
@@ -195,9 +189,9 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 - Les détenteurs de XNF peuvent vendre librement leurs XNF via notre pool de liquidité appartenant au protocole ou tout autre pool établi par la communauté. Cependant, l'achat de XNF à partir de notre pool de liquidités appartenant au protocole est limité, ce qui fait de nos enchères quotidiennes le principal moyen d'acquérir une quantité substantielle de XNF. Cela signifie que chaque fois qu'un utilisateur ou un robot d'arbitrage vend du XNF via notre pool de liquidité appartenant au protocole, les jetons sont définitivement retirés de la circulation, créant un effet de « trou noir » qui augmente la rareté du XNF.
 
-- Ce mécanisme soigneusement conçu sert également à protéger le déploiement initial de liquidités contre une exploitation potentielle par des spéculateurs et des tireurs d'élite de liquidités, renforçant ainsi l'intégrité de notre écosystème dès le départ. Il convient de mentionner que même si les utilisateurs conservent la possibilité d'apporter des liquidités au pool appartenant au protocole, choisir de le faire nécessitera un retrait manuel du contrat de recyclage.
+- Ce mécanisme est stratégiquement conçu pour protéger la liquidité initiale contre l'exploitation par les spéculateurs et les tireurs d'élite des liquidités, renforçant ainsi les fondations de notre écosystème. Cependant, il convient de noter que les utilisateurs ne peuvent pas ajouter de liquidités au pool appartenant au protocole ; ils ne peuvent vendre leurs XNF que par son intermédiaire. Tout ajout à la liquidité du pool de frais de 1 % doit être effectué par le protocole lui-même, à la suite d'un processus contrôlé et sécurisé qui s'aligne sur la viabilité à long terme de notre écosystème.
 
-- En établissant une voie à sens unique, notre pool de liquidités appartenant au protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme de rachat et de brûlage quotidien de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
+- En établissant une voie à sens unique, notre pool de liquidités appartenant au protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme de rachat et de brûlage de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
 
 <br>
 
@@ -207,7 +201,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- vXEN permet aux participants de différentes chaînes EVM au sein de l'écosystème XEN de participer aux enchères de gravure quotidiennes. vXEN est généré en gravant des jetons natifs XEN à partir de l'une des 10 chaînes prises en charge dans l'écosystème XEN. Chaque fois qu'un détenteur grave du XEN natif à partir de l'une de ces chaînes, la transaction est enregistrée dans l'enregistrement de gravure. Ce qui suit est une liste détaillée des chaînes EVM prises en charge, chacune avec son identifiant et son ratio correspondants pour un seul vXEN.
+- vXEN permet aux participants de différentes chaînes EVM au sein de l'écosystème XEN de participer aux enchères de gravure quotidiennes. vXEN est généré en gravant des jetons natifs XEN à partir de l'une des dix chaînes prises en charge dans l'écosystème XEN. Chaque fois qu'un détenteur grave du XEN natif à partir de l'une de ces chaînes, la transaction est enregistrée dans l'enregistrement de gravure. Voici une liste détaillée des chaînes EVM prises en charge, chacune avec son identifiant et son ratio correspondant pour un seul vXEN :
 
 <br>
 
