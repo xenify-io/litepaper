@@ -71,11 +71,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- En las subastas de quema diarias organizadas en Arbitrum, los usuarios tienen la opción de quemar entre 1 y 10 000 lotes. Un único lote de grabación de YSL representa 0,1 YSL, mientras que un lote de grabación de vXEN corresponde a 10 000 000 de vXEN. Se aplica una tarifa nativa de 0,01 ETH por lote tanto en las subastas de quema como en las de ETH.
+- En las subastas de quema diarias en Arbitrum, los usuarios pueden quemar de 1 a 10,000 lotes. Cada lote de grabación de YSL equivale a 0,1 YSL y cada lote de grabación de vXEN equivale a 10 000 000 de vXEN. Se aplica una tarifa nativa de 0,01 ETH por lote tanto para las subastas de quema como para las de ETH.
 
-- Todos los días, el 50% del suministro de XNF se distribuye a los participantes en las subastas diarias. La distribución se distribuye equitativamente entre YSL Burn Auction y vXEN Burn Auction. Por ejemplo, si solo se quema 1 lote de YSL y se queman 10 000 lotes de vXEN en un ciclo determinado, el usuario que quemó el único lote de YSL recibiría el 25 % completo del suministro diario de XNF, mientras que los quemadores de vXEN compartirían el otro 25% en función de sus respectivos lotes de quema.
+- La mitad del suministro diario de XNF se distribuye a los participantes de las subastas de quema diarias, dividido en partes iguales entre las subastas de quema de YSL y vXEN. Por ejemplo, si se queman 1 lote de YSL y 10 000 lotes de vXEN en un ciclo, el usuario que quemó el único lote de YSL recibiría un 25 % completo del suministro diario de XNF, mientras que los quemadores de vXEN dividirían el 25 % restante en función de su quemar contribuciones.
 
-- Además, los participantes en la subasta de ETH reciben el 40% del suministro de XNF como recompensas veXNF, que vienen con un bloqueo reclamable de 1 año. Una vez reclamadas, estas recompensas mejoran el poder adquisitivo del participante, permitiéndole ganar más ETH. De manera similar, aquellos que participen en la subasta Swap recibirán el 10% restante de la distribución diaria de XNF como recompensas veXNF, también con un bloqueo reclamable de 1 año. Al reclamar, su poder adquisitivo también aumentará.
+- En la subasta de ETH, los participantes reciben el 40% del suministro diario de XNF como recompensas veXNF, que están bloqueadas durante un año antes de que sean reclamables. Estas recompensas, una vez reclamadas, aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Los participantes en la subasta de Swap reciben el 10% restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
 
 <br>
 
@@ -85,11 +85,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- Los usuarios que participen en la primera hora podrán beneficiarse tanto del Coeficiente de Tiempo (TC) como del Coeficiente de Lote (BC) para conseguir importantes descuentos. En concreto, los lotes obtenidos en la primera hora se beneficiarán del descuento del 50% del TC. Además, al obtener 10.000 lotes dentro de esta ventana, los usuarios pueden lograr hasta un 75% de descuento al considerar el BC. A medida que avanza el ciclo, los descuentos tanto del coeficiente de tiempo (TC) como del coeficiente de lote (BC) disminuyen.
+- Los usuarios que participen en la primera hora podrán beneficiarse tanto del Coeficiente de Tiempo (TC) como del Coeficiente de Lote (BC) para conseguir importantes descuentos. En concreto, los lotes obtenidos en la primera hora se beneficiarán de un descuento del 50% gracias al TC. Además, al obtener 10.000 lotes dentro de esta ventana, los usuarios pueden lograr hasta un 75% de descuento, considerando el BC. A medida que avanza el ciclo, los descuentos tanto del CT como del BC disminuyen.
 
-- En la última hora, los descuentos se acercan a cero. Participar temprano, especialmente en la primera hora, es vital para los usuarios que buscan maximizar sus descuentos por lotes. Las horas de inicio ofrecen las reducciones más significativas, lo que garantiza que los participantes reciban el mejor valor posible por su participación.
+- En la última hora, los descuentos se acercan a cero. Participar temprano, especialmente en la primera hora, es crucial para los usuarios que buscan maximizar sus descuentos por lotes. Las horas iniciales ofrecen las reducciones más considerables, lo que garantiza que los participantes reciban el mejor valor por su participación.
 
-- Por otro lado, esperar hasta la última hora para decidir sobre la participación del ciclo actual puede resultar más caro. Como los descuentos habrán disminuido considerablemente para entonces, los usuarios terminarán aportando más ETH en comparación con la hora inicial, lo que subraya la prudencia de una participación temprana.
+- Por el contrario, retrasar la participación hasta la última hora del ciclo actual puede generar mayores costos. Con los descuentos sustancialmente reducidos para entonces, los usuarios contribuirán con más ETH que al comienzo del ciclo, lo que destaca las ventajas de la participación temprana.
 
 <br>
 
@@ -99,9 +99,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- El 40% del ETH recaudado en las subastas diarias se asignará a los titulares de veXNF, en proporción a su poder de veXNF.
-
-- Los usuarios que opten por reclamar sus recompensas ETH incurrirán en una tarifa de reclamación del 25 %. Esta tarifa luego se redistribuirá a los participantes que participaron en el reciclaje dentro de la primera hora de un ciclo, de acuerdo con su poder veXNF.
+- El 40% del ETH recaudado en las subastas diarias se asignará a los titulares de veXNF: esto es proporcional a su poder de veXNF. Los usuarios que opten por reclamar sus recompensas ETH incurrirán en una tarifa de reclamación del 25%; Esta tarifa luego se redistribuirá a los participantes que participaron en el reciclaje dentro de la primera hora de un ciclo, de acuerdo con su poder veXNF.
 
 <br>
 
@@ -111,9 +109,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- Aquellos que reciclan ETH dentro de la primera hora de un ciclo pueden ganar una parte de las tarifas de reclamo de ETH de ese ciclo, en proporción a su poder veXNF. Cuanto mayor sea su poder veXNF, mayor será su participación en los rendimientos de ETH generados por la tarifa de reclamo.
-
-- El beneficio más notable del reciclaje es la inclusión automática en las subastas de quema, lo que elimina la necesidad de quemar tokens alternativos. Incluso si los usuarios pierden la ventana de la primera hora, aún tendrán la oportunidad de participar en las subastas de quema, sin necesidad de quemar vXEN o YSL, siempre que decidan reciclar durante las 23 horas restantes del ciclo.
+- Aquellos que reciclan ETH dentro de la primera hora de un ciclo son elegibles para ganar una parte de las tarifas de reclamo de ETH de ese ciclo. La participación es proporcional a su poder de veXNF: cuanto más poder de veXNF tenga, mayor será su porción de los rendimientos de ETH de las tarifas de reclamo. La ventaja más importante del reciclaje es su entrada directa en las subastas de quema, lo que elimina la necesidad de quemar otros tokens. Además, los usuarios que pierden el período de la primera hora aún tienen la oportunidad de participar en las subastas de grabación durante las 23 horas restantes del ciclo, sin el requisito de grabar vXEN o YSL, siempre que reciclen.
 
 <br>
 
@@ -123,11 +119,9 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- El 50% del ETH recaudado en las subastas diarias se utilizará para comprar XNF fuera del mercado a través del par WETH-XNF en Uniswap V3, y el 100% del XNF adquirido se quemará.
+- El 50% del ETH recaudado en las subastas diarias se utilizará para la recompra de XNF fuera del mercado, específicamente a través del par WETH-XNF en Uniswap V3. Es importante destacar que se quemará el 100% del XNF recomprado. Además, el 90% del ETH reciclado de cada ciclo diario se utilizará para la recompra de XNF fuera del mercado a través del mismo par WETH-XNF en Uniswap, y también se quemará todo el XNF recomprado.
 
-- El 90% del ETH reciclado a lo largo de cada ciclo diario se utilizará para comprar XNF fuera del mercado a través del par WETH-XNF en Uniswap, y el 100% del XNF adquirido se quemará.
-
-- Los mecanismos de grabación dentro de nuestro protocolo están meticulosamente diseñados para ejecutarse de manera inmutable y automática después de cada subasta diaria o participación de reciclaje, anulando así el riesgo de contraparte y mitigando posibles problemas de ejecución anticipada que podrían surgir si se requiriera que un tercero iniciara la recompra y procesos de quema.
+- Los mecanismos de grabación dentro de nuestro protocolo están diseñados para ser inmutables y automáticos. Se activan después de cada subasta diaria o actividad de reciclaje. Este enfoque elimina el riesgo de contraparte y mitiga el potencial de problemas iniciales que podrían surgir si se requiriera que un tercero gestionara los procesos de recompra y quema.
 
 <br>
 
@@ -137,25 +131,25 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- El protocolo está configurado para aprovechar inicialmente Uniswap V3 para su aprovisionamiento de liquidez. Para lanzar el par comercial WETH-XNF, asignará 100.000 XNF, estableciendo así un precio inicial de 1,00 dólares por XNF. Es importante tener en cuenta que este precio puede ser ajustado por el protocolo, dependiendo de la cantidad de ETH recolectada durante el ciclo inicial. Después de esto, se creará un emparejamiento de rango completo en el nivel de tarifa del 1%.
+- El protocolo utilizará Uniswap V3 para el aprovisionamiento de liquidez lanzando el par comercial WETH-XNF con una asignación de 100.000 XNF y estableciendo un precio inicial de 1,00 dólares por XNF. Este precio inicial es ajustable y depende del volumen de ETH recolectado durante el ciclo inicial. Posteriormente se establecerá un emparejamiento de rango completo dentro del nivel de tarifa del 1% en Uniswap V3.
 
-- El protocolo también está diseñado para garantizar el crecimiento perpetuo de la liquidez propiedad del protocolo ETH con cada ciclo posterior. A partir del segundo ciclo, el ETH obtenido diariamente a través de tarifas de quema, tarifas nativas, tarifas de intercambio y actividades de reciclaje se utilizará para respaldar la proliferación de liquidez de XNF. En este marco, el 100% del ETH se utiliza para comprar en el mercado y quemar XNF. Al mismo tiempo, la cantidad equivalente de WETH, que se utilizó para la recompra y quema de XNF, se asigna al grupo propiedad del protocolo. Esta acción da como resultado un aumento significativo de WETH dentro del fondo de liquidez WETH-XNF, lo que garantiza una cobertura integral en todo el rango propiedad del protocolo.
+- Para promover el crecimiento continuo de la liquidez propiedad del protocolo ETH, a partir del segundo ciclo, el 50 % del ETH (recibido de tarifas de quema, tarifas nativas, tarifas de intercambio y el 90 % del reciclaje) se reinvertirá en la expansión de la liquidez de XNF. En este modelo, la suma total de ETH recolectada se canaliza para comprar y quemar XNF en el mercado. Al mismo tiempo, se dirige una cantidad equivalente de WETH al grupo propiedad del protocolo, lo que aumenta las reservas de WETH en el grupo de liquidez WETH-XNF y garantiza un amplio soporte en todo el rango.
 
-- Tenga en cuenta que los proveedores de liquidez no podrán agregar liquidez al nivel de tarifa del 1 % de WETH-XNF. Además, es importante tener en cuenta que sólo el protocolo en sí tiene la capacidad de realizar compras desde su propia liquidez en el grupo WETH-XNF. Los titulares de XNF solo pueden ejecutar transacciones de venta a través del sitio Xenify o directamente a través del contrato de reciclaje.
+- Los proveedores de liquidez no pueden agregar fondos al grupo WETH-XNF al nivel de tarifa del 1%; este grupo está reservado exclusivamente para que el protocolo realice recompras y quemas de mercado a partir de su propia liquidez dentro del mismo nivel de tarifas. Los titulares de XNF están limitados a vender a través de la plataforma Xenify o interactuando directamente con el contrato de reciclaje si desean vender en el grupo de nivel de tarifa del 1%.
 
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 Lanzamiento aéreo de XNF Génesis
+# 💸 Lanzamientos aéreos de XNF Génesis
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Xenify está lanzando un lanzamiento aéreo de Génesis de 60 días en cada cadena en la que se implementa. Durante este período, se repartirán 1.500.000 XNF entre los participantes. La distribución es simple: cada día se asignarán 25.000 tokens XNF, y las acciones individuales se determinarán en función de las contribuciones diarias de cada participante a través de tarifas de intercambio.
+- Xenify está iniciando un lanzamiento aéreo de Génesis de 60 días en cada cadena en la que opera. A lo largo de esta fase se distribuirán 1.500.000 XNF a los participantes. Diariamente, se reparten 25.000 tokens XNF en función de la contribución de cada participante a través de tarifas de intercambio.
 
-- Vale la pena señalar que este lanzamiento aéreo incluye todas las cadenas compatibles con EVM. Siempre que una transacción se origine o se ejecute dentro de una cadena EVM e incluya una tarifa de intercambio adjunta, es elegible para el lanzamiento aéreo.
+- El lanzamiento aéreo se extiende a todas las cadenas compatibles con EVM, lo que garantiza una amplia inclusión. Las transacciones elegibles para el lanzamiento aéreo incluyen aquellas que se originan o se completan en una cadena EVM, siempre que conlleven una tarifa de intercambio.
 
-- Una vez finalizado el lanzamiento aéreo, los tokens XNF asignados no serán accesibles de inmediato. En cambio, se distribuirán inicialmente como tokens bloqueados. Sin embargo, estos no permanecerán bloqueados indefinidamente. A lo largo de 730 días, se desbloquearán progresivamente. Para poner esto en perspectiva: si ha reclamado 7300 tokens XNF bloqueados, espere que alrededor de 10 tokens XNF estén disponibles en su billetera diariamente.
+- Una vez finalizado el lanzamiento aéreo, los destinatarios no tendrán acceso inmediato a los tokens XNF, que inicialmente estarán bloqueados. Estos tokens se desbloquearán gradualmente durante 730 días. Por ejemplo, si recibe 7300 tokens XNF bloqueados del lanzamiento aéreo, puede anticipar un desbloqueo de aproximadamente 10 tokens XNF diariamente en su billetera.
 
 <br>
 
@@ -165,11 +159,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- Los titulares de XNF pueden vender libremente su XNF a través de nuestro fondo de liquidez propiedad del protocolo o cualquier fondo establecido por la comunidad. Sin embargo, la compra de XNF de nuestro fondo de liquidez propiedad del protocolo está restringida, lo que hace que nuestras subastas diarias sean la vía principal para adquirir una cantidad sustancial de XNF. Esto significa que cada vez que un usuario o un robot de arbitraje vende XNF a través de nuestro fondo de liquidez propiedad del protocolo, los tokens se eliminan permanentemente de la circulación, creando un efecto de "agujero negro" que aumenta la escasez de XNF.
+- El mecanismo veXNF es una característica estratégica que bloquea una parte significativa del suministro de XNF para aumentar la escasez. Los usuarios pueden optar por bloquear su XNF desde una semana hasta un año, con períodos de bloqueo más largos que otorgan un poder de obtención de ingresos más sustancial. En particular, los compromisos a más largo plazo también reducen el ritmo de decadencia de este poder, proporcionando una ventaja sostenida.
 
-- Ejemplo 1: los titulares de veXNF que inicialmente bloquean su XNF por un período de 1 año enfrentan desafíos si optan por no extender la duración de su bloqueo. Su poder adquisitivo disminuye rápidamente. En sólo 30 días, esta potencia se reduce a la mitad y, al cabo de 60 días, ha desaparecido por completo. Esto los deja sin ningún poder adquisitivo durante los siguientes 10 meses hasta que puedan desbloquear su XNF.
+- En el primer ejemplo, los titulares de veXNF que bloquean su XNF durante un año encuentran una fuerte reducción en su poder adquisitivo si no extienden su período de bloqueo. Su poder adquisitivo se reduce a la mitad después de sólo 30 días y se agota por completo después de 60 días, dejándolos sin beneficios durante los diez meses restantes hasta que expire el período de bloqueo.
 
-- Ejemplo 2: Aquellos que deciden bloquear su XNF por un período más corto de 6 meses y luego deciden no extenderlo enfrentan consecuencias similares. Su poder adquisitivo disminuye rápidamente. En sólo 15 días, esta potencia se reduce a la mitad y, al cabo de 30 días, ha desaparecido por completo. Esto los deja sin ningún poder adquisitivo durante los siguientes 5 meses hasta que puedan desbloquear su XNF.
+- El segundo ejemplo ilustra la situación de un bloqueo de seis meses. Si estos usuarios deciden no ampliar, su poder adquisitivo también disminuirá rápidamente, reduciéndose a la mitad en 15 días y desapareciendo después de 30 días. En consecuencia, pierden cualquier ganancia potencial durante el resto de su período de bloqueo, que dura cinco meses.
 
 <br>
 
@@ -179,11 +173,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- XNF tiene un suministro máximo de 22,6 millones, las distribuciones de estos tokens se realizan a través de cuatro subastas diarias. Cada día, se asignan 5.250.000 XNF, que representan el 25% de los tokens XNF, a los participantes que participan en la YSL Burn Auction. También se desembolsará una cantidad idéntica de 5.250.000 XNF a quienes participan en la subasta de quemado vXEN. Además, un 50% adicional del suministro diario de XNF se reserva para recompensas veXNF. Sin embargo, es fundamental tener en cuenta que estas recompensas están sujetas a un período de bloqueo de un año, después del cual se distribuyen a las personas que participan en la subasta ETH (40%) y la subasta Swap (10%). En total, esto da como resultado una distribución diaria de 10.500.000 XNF en estas subastas.
+- XNF tiene un suministro máximo de 22,6 millones de tokens. La distribución se realiza a través de cuatro subastas diarias. Cada día, un cierto porcentaje de los tokens XNF se asigna a los participantes de la subasta: el 25% a la YSL Burn Auction y otro 25% a los participantes de la vXEN Burn Auction. Además, el 50 % del suministro diario de XNF está reservado para recompensas veXNF, y estas recompensas se bloquean durante un año antes de su distribución a los participantes en la subasta ETH (40 %) y la subasta Swap (10 %).
 
 - Xenify emplea un programa agresivo de reducción a la mitad para su distribución de tokens. La primera reducción se produce a los 3 meses, seguida de otra a los 6 meses y reducciones posteriores a la mitad a los 12, 24 y 48 meses. Después de estas cinco reducciones iniciales, hay tres reducciones adicionales, cada una de las cuales ocurre cada 48 meses. Esta mecánica de reducción a la mitad está diseñada para reducir gradualmente la distribución diaria de tokens XNF.
 
-- Una vez finalizados todos los halvings, se desembolsará una cantidad fija de 156,25 XNF cada día. Esto continuará durante los próximos 2224 meses, asegurando que la distribución de tokens sea prolongada y estable, alcanzando finalmente el límite máximo de suministro. Este enfoque garantiza una distribución sostenible y predecible de tokens XNF, lo que permite a los usuarios planificar y participar con confianza.
+- Una vez completados los halvings, se distribuirá una cantidad diaria fija de 156,25 XNF a lo largo de 2224 meses, hasta alcanzar el límite máximo de suministro. Esto garantiza una implementación constante y extendida del token, promoviendo la estabilidad de la distribución a largo plazo y brindando a los usuarios un marco confiable para la participación.
 
 <br>
 
@@ -195,9 +189,9 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 - Los titulares de XNF pueden vender libremente su XNF a través de nuestro fondo de liquidez propiedad del protocolo o cualquier fondo establecido por la comunidad. Sin embargo, la compra de XNF de nuestro fondo de liquidez propiedad del protocolo está restringida, lo que hace que nuestras subastas diarias sean la vía principal para adquirir una cantidad sustancial de XNF. Esto significa que cada vez que un usuario o un robot de arbitraje vende XNF a través de nuestro fondo de liquidez propiedad del protocolo, los tokens se eliminan permanentemente de la circulación, creando un efecto de "agujero negro" que aumenta la escasez de XNF.
 
-- Este mecanismo cuidadosamente diseñado también sirve para salvaguardar el despliegue inicial de liquidez contra una posible explotación por parte de especuladores y francotiradores de liquidez, solidificando la integridad de nuestro ecosistema desde el principio. Vale la pena mencionar que, si bien los usuarios conservan la capacidad de aportar liquidez al grupo propiedad del protocolo, optar por hacerlo requerirá un retiro manual del contrato de reciclaje.
+- Este mecanismo está diseñado estratégicamente para proteger la liquidez inicial de ser explotada por especuladores y francotiradores de liquidez, reforzando así las bases de nuestro ecosistema. Sin embargo, cabe señalar que los usuarios no pueden agregar liquidez al fondo de propiedad del protocolo; sólo pueden vender su XNF a través de él. Cualquier adición a la liquidez del grupo de nivel de tarifa del 1% debe ser realizada por el propio protocolo, siguiendo un proceso controlado y seguro que se alinee con la viabilidad a largo plazo de nuestro ecosistema.
 
-- Al establecer una calle de sentido único, nuestro fondo de liquidez propiedad del protocolo se transforma en un vacío deflacionario XNF. Los tokens vendidos por los usuarios desaparecen de la circulación, mientras que la nueva oferta sólo puede ingresar mediante la participación activa en las subastas. Nuestro protocolo está diseñado para promover los intereses de los usuarios comprometidos, no los de los especuladores a corto plazo. Este enfoque innovador, combinado con el mecanismo diario de recompra y quema de nuestro protocolo, está orientado a crear una presión deflacionaria sostenida sobre el suministro de XNF y, al mismo tiempo, fomenta un ecosistema sostenible basado en un compromiso a largo plazo.
+- Al establecer una calle de sentido único, nuestro fondo de liquidez propiedad del protocolo se transforma en un vacío deflacionario XNF. Los tokens vendidos por los usuarios desaparecen de la circulación, mientras que la nueva oferta sólo puede ingresar mediante la participación activa en las subastas. Nuestro protocolo está diseñado para promover los intereses de los usuarios comprometidos, no los de los especuladores a corto plazo. Este enfoque innovador, combinado con el mecanismo de recompra y quema de nuestro protocolo, está orientado a crear una presión deflacionaria sostenida sobre el suministro de XNF y, al mismo tiempo, fomenta un ecosistema sostenible basado en un compromiso a largo plazo.
 
 <br>
 
@@ -207,7 +201,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- vXEN permite a los participantes de diferentes cadenas EVM dentro del ecosistema XEN participar en subastas diarias. vXEN se genera quemando tokens nativos XEN de cualquiera de las 10 cadenas admitidas en el ecosistema XEN. Siempre que un titular graba XEN nativo de una de estas cadenas, la transacción se registra en el registro de grabación. La siguiente es una lista detallada de las cadenas EVM admitidas, cada una con su correspondiente identificador y proporción para un único vXEN.
+- vXEN permite a los participantes de diferentes cadenas EVM dentro del ecosistema XEN participar en subastas diarias. vXEN se genera quemando tokens nativos XEN de cualquiera de las diez cadenas admitidas en el ecosistema XEN. Siempre que un titular graba XEN nativo de una de estas cadenas, la transacción se registra en el registro de grabación. La siguiente es una lista detallada de las cadenas EVM admitidas, cada una con su correspondiente identificador y proporción para un único vXEN:
 
 <br>
 
