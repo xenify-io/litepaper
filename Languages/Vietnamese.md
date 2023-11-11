@@ -1435,8 +1435,8 @@ Ngoài phần thưởng được tạo ra từ phí ghi, phí hoán đổi và p
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/c1b19573-23cc-4b4f-9e5e-116db4c3be3a" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/ba26b6a5-b4b0-4934-a84e-d6b1e0651d5f" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/028234d5-0c49-4838-a865-3342a46dc3cf" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/68d691a1-7297-4c3a-8d9b-b019441bb6c8" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
