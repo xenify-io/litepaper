@@ -1435,8 +1435,8 @@ Yakma ücretlerinden, takas ücretlerinden ve yerel ücretlerden elde edilen öd
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7d3a538a-2a56-4643-8a60-0e30ae814c90" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/3ed656e4-1901-4725-af89-938763f53f3d" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e046f911-b687-4505-b2e0-afeb4be6adc8" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a99a16c1-770a-456c-b845-2979ecb669a4" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
