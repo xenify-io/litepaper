@@ -1389,7 +1389,7 @@ At Xenify, you can conveniently withdraw your accumulated native rewards at any 
 
 When you opt to claim your rewards, the native tokens gathered from the claim fee are stored in a temporary pool. At the end of the cycle, these tokens are distributed exclusively to veXNF holders who recycled their rewards within the first hour of the cycle. This exclusive distribution will occur alongside the protocol's daily native rewards distribution at the end of each cycle, with eligible recyclers receiving a share based on their veXNF position. In short, recycling in hour 1 means you'll get a portion of that cycle's claim fee proceeds.
 
-This recycling mechanic offers multiple benefits to both the ecosystem and recyclers. It allows users to participate in the daily burn auction without paying the mandatory burn token while promoting scarcity for the XNF token. A portion of all recycled rewards is used to generate protocol-owned liquidity through the buying and burning mechanics of XNF. This strategy enables users to maximise their earnings in a way that supports the protocol’s growth
+This recycling mechanic offers multiple benefits to both the ecosystem and recyclers. It allows users to participate in the daily burn auction without paying the mandatory burn token while promoting scarcity for the XNF token. A portion of all recycled rewards is used to generate protocol-owned liquidity through the buying and burning mechanics of XNF. This strategy enables users to maximise their earnings in a way that supports the protocol’s growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
