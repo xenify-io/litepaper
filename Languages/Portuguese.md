@@ -1435,8 +1435,8 @@ Além das recompensas geradas pelas taxas de queima, taxas de swap e taxas nativ
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/60b63e2c-1a1f-4447-8ec8-e6859ca6bca3" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/1281f190-0a12-4664-aff0-7e062645f739" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d73f2e95-174d-4084-99c3-62232365cbc6" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/016864a1-0961-47fe-81ec-ade86c61f8c6" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
