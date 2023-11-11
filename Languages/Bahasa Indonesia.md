@@ -1435,8 +1435,8 @@ Selain imbalan yang dihasilkan dari biaya pembakaran, biaya swap, dan biaya asli
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/052dccf7-1089-4f36-afc0-1bef75e5689b" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/0e16fe1a-64b4-48d1-bf8c-5f6e3a20184a" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/fd0dc329-5cd7-4914-9a3a-8934c635741e" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e4aa780c-8208-459f-bebd-b1e289b6902c" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   <picture>
 </p>
