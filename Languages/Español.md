@@ -1435,8 +1435,8 @@ Además de las recompensas generadas por las tarifas de quema, las tarifas de in
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/95f4a8ec-2dea-465d-86c5-c42d3cf3413d" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/80909bc9-a570-4a3d-b4bf-23841fa540d5" class="fuente-oscuro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d9be948c-f2ba-4515-939b-8b9e98cab16b" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7907f98e-9299-40e4-b104-ff68e2abd14a" class="fuente-oscuro">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
