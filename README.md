@@ -384,7 +384,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Burning XNF Tokens
 
-- Within our protocol, 60% of the ETH collected from daily auctions, and 90% of the recycled ETH from each daily cycle, are utilized to purchase XNF directly from the market via the WETH-XNF pair on Uniswap V3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This process ensures the integrity of the buyback and burn mechanism, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
+- Within our protocol, 60% of the ETH collected from daily auctions, and 90% of the recycled ETH from each daily cycle, are utilised to purchase XNF directly from the market via the WETH-XNF pair on Uniswap V3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This process ensures the integrity of the buyback and burn mechanism, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -725,7 +725,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
   - 2,100,000 XNF (10%) is distributed to users who engage in swaps on supported EVM chains. These XNF tokens will be distributed among swap participants in the form of veXNF, with an associated lock period of 1 year.
 
-- **100,000 XNF assigned to establish XNF V3 liquidity pool:** To empower a robust ecosystem, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. This initiative will allow our community to seamlessly trade XNF right from the start. To facilitate this, a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) will be utilised to establish an XNF V3 liquidity pool at the end of the cycle.
+- **100,000 XNF assigned to establish Uniswap V3 liquidity pool:** To empower a robust ecosystem, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. This initiative will allow our community to seamlessly trade XNF right from the start. To facilitate this, a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) will be utilised to establish an Uniswap V3 liquidity pool at the end of the cycle.
 
 - **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
@@ -836,7 +836,7 @@ Please be aware that liquidity providers will not be able to add liquidity to th
 
 ## 🌊 Subsequent Liquidity Cycles
 
-Our protocol is designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, the ETH obtained daily through burn fees, native fees, swap fees, and recycling activities will be used to support ETH liquidity proliferation. Within this framework, 100% of the ETH is used to market-buy and burn XNF. Simultaneously, the equivalent amount of WETH, which was utilised for the buyback and burn of XNF, is allocated to the protocol-owned pool. This action results in a significant increase in WETH within the WETH-XNF liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
+Our protocol is designed to ensure the perpetual growth of ETH protocol-owned liquidity with each subsequent cycle. From the second cycle onwards, a large portion of the ETH obtained daily—through burn fees, native fees, swap fees, and recycling activities—will be used to support ETH liquidity growth. Within this framework, ETH is used to market-buy and burn XNF; simultaneously, the equivalent amount of WETH, which was used for the buyback and burn of XNF, is injected into the protocol-owned pool. This action results in a significant increase in WETH within the WETH-XNF liquidity pool, ensuring comprehensive coverage across the entire protocol-owned range.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
