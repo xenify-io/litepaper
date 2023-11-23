@@ -721,9 +721,9 @@ Com um fornecimento total limitado a 22,6 milhões de tokens XNF, estrategicamen
 
    - 10,500,000 XNF (50%) são distribuídos para queimar os participantes do leilão. Esta alocação será distribuída igualmente, com 50% reservados para queimadores vXEN e os 50% restantes para queimadores YSL. Caso não haja queimadores YSL durante um ciclo, toda a alocação diária de XNF designada para o leilão de queima será distribuída entre os queimadores vXEN e vice-versa.
     
-   - 8.400,000 XNF (40%) são distribuídos aos usuários que contribuem com tokens nativos para participar do leilão diário. Esses tokens XNF serão distribuídos entre os participantes na forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 8,400,000 XNF (40%) são distribuídos aos usuários que contribuem com tokens nativos para participar do leilão diário. Esses tokens XNF serão distribuídos entre os participantes na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
-   - 2.100,000 XNF (10%) são distribuídos aos usuários que participam de swaps em cadeias EVM suportadas. Esses tokens XNF serão distribuídos entre os participantes do swap na forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 2,100,000 XNF (10%) são distribuídos aos usuários que participam de swaps em cadeias EVM suportadas. Esses tokens XNF serão distribuídos entre os participantes do swap na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
 - **100,000 XNF atribuídos para estabelecer o pool de liquidez Uniswap V3:** Para capacitar um ecossistema robusto, 100,000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo no lançamento. Esta iniciativa permitirá que nossa comunidade negocie XNF perfeitamente desde o início. Para facilitar isso, a maioria das taxas geradas a partir da participação no primeiro dia (incluindo taxas de swap, taxas nativas e taxas de queima) serão utilizadas para estabelecer um pool de liquidez Uniswap V3 no final do ciclo.
 
