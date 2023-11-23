@@ -715,21 +715,21 @@ O XNF é a força vital do protocolo Xenify e apresenta um fornecimento total li
 
 ## ⭐️ Distribuição da oferta
 
-Com uma oferta total limitada a 22,6 milhões de tokens XNF, estrategicamente divididos em três segmentos principais, a Xenify foi propositadamente concebida para recompensar os participantes activos, promovendo simultaneamente um ecossistema equilibrado:
+Com um fornecimento total limitado a 22,6 milhões de tokens XNF, estrategicamente divididos em três segmentos principais, o Xenify foi propositalmente projetado para recompensar os participantes ativos e, ao mesmo tempo, promover um ecossistema equilibrado:
 
-- **21,000,000 XNF atribuídos para os leilões diários:** Os utilizadores que participarem em várias actividades que reforcem o desenvolvimento contínuo do protocolo terão a oportunidade de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
+- **21,000,000 XNF atribuídos para os leilões diários:** Os usuários que participarem de diversas atividades que reforçam o desenvolvimento contínuo do protocolo terão a chance de ganhar uma parte dos tokens XNF dedicados aos leilões diários.
 
-  - 10,500,000 XNF (50%) são distribuídos pelos participantes no leilão de queimadores. Esta afetação será distribuída equitativamente, com 50% reservados para os queimadores vXEN e os restantes 50% para os queimadores YSL. No caso de não haver queimadores YSL durante um ciclo, a totalidade da afetação diária de XNF destinada ao leilão de queimadas será distribuída pelos queimadores vXEN e vice-versa.
+   - 10,500,000 XNF (50%) são distribuídos para queimar os participantes do leilão. Esta alocação será distribuída igualmente, com 50% reservados para queimadores vXEN e os 50% restantes para queimadores YSL. Caso não haja queimadores YSL durante um ciclo, toda a alocação diária de XNF designada para o leilão de queima será distribuída entre os queimadores vXEN e vice-versa.
     
-  - 8,400,000 XNF (40%) são distribuídos aos utilizadores que contribuem com tokens nativos para participar no leilão diário. Estes tokens XNF serão distribuídos entre os participantes sob a forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 8.400,000 XNF (40%) são distribuídos aos usuários que contribuem com tokens nativos para participar do leilão diário. Esses tokens XNF serão distribuídos entre os participantes na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
-  - 2,100,000 XNF (10%) são distribuídos aos utilizadores que participam em trocas em cadeias EVM suportadas. Estes tokens XNF serão distribuídos entre os participantes de swap sob a forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 2.100,000 XNF (10%) são distribuídos aos usuários que participam de swaps em cadeias EVM suportadas. Esses tokens XNF serão distribuídos entre os participantes do swap na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
 - **100,000 XNF atribuídos para estabelecer o pool de liquidez Uniswap V3:** Para capacitar um ecossistema robusto, 100,000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo no lançamento. Esta iniciativa permitirá que nossa comunidade negocie XNF perfeitamente desde o início. Para facilitar isso, a maioria das taxas geradas a partir da participação no primeiro dia (incluindo taxas de swap, taxas nativas e taxas de queima) serão utilizadas para estabelecer um pool de liquidez Uniswap V3 no final do ciclo.
 
-- Para encorajar o envolvimento, cada cadeia terá um lançamento aéreo exclusivo de 1,500,000 XNF para os utilizadores que efectuem trocas antes do lançamento do XNF. O lançamento aéreo terá lugar no primeiro dia do lançamento e será distribuído como tokens bloqueados, desbloqueando gradualmente ao longo de 730 dias.
+- **1,500,000 XNF atribuídos como lançamento aéreo exclusivo para participantes de troca:** Para incentivar o engajamento, cada rede terá um lançamento aéreo exclusivo de 1,500,000 XNF para usuários que realizarem trocas antes da implantação do XNF. O lançamento aéreo ocorrerá no primeiro dia de lançamento e será distribuído como tokens bloqueados, desbloqueando gradualmente ao longo de 730 dias.
 
-Inspirando-se na Bitcoin, o modelo de distribuição da Xenify adopta o princípio da redução para metade. Conforme ilustrado no gráfico abaixo, após a 7ª redução para metade, a taxa de alocação diária de moeda da Xenify estabiliza, garantindo uma produção consistente de 156,25 tokens XNF por dia até que o fornecimento máximo seja atingido no mês 2461. Esta estratégia inovadora foi cuidadosamente concebida para garantir uma distribuição equitativa da oferta centrada na participação dos utilizadores a longo prazo, destacando o compromisso inabalável da Xenify em promover um ecossistema equilibrado e uma comunidade empenhada.
+Inspirando-se no Bitcoin, o modelo de distribuição do Xenify adota o princípio do halving. Conforme ilustrado no gráfico abaixo, após a 7ª redução pela metade, a taxa de alocação diária de moedas do Xenify se estabiliza, garantindo uma produção consistente de 156,25 tokens XNF por dia até que o fornecimento máximo seja atingido no mês 2461. Esta estratégia inovadora foi cuidadosamente projetada para garantir uma distribuição equitativa de fornecimento centrada na participação do usuário a longo prazo, destacando o compromisso inabalável da Xenify em promover um ecossistema equilibrado e uma comunidade engajada.
 
 <br>
 
