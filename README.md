@@ -99,7 +99,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- 30% of the ETH gathered from daily auctions will be allocated to veXNF holders: this is proportional to their veXNF power. Users who opt to claim their ETH rewards will incur a 25% claim fee; this fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
+- 25% of the ETH gathered from daily auctions will be allocated to veXNF holders: this is proportional to their veXNF power. Users who opt to claim their ETH rewards will incur a 25% claim fee; this fee will then be redistributed to participants who took part in recycling within the first hour of a cycle, in alignment with their veXNF power.
 
 <br>
 
@@ -119,7 +119,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- 60% of the ETH collected from daily auctions will be used for the buyback of XNF off the market, specifically through the WETH-XNF pair on Uniswap V3. Importantly, 100% of the bought-back XNF will be burned. Additionally, 90% of the recycled ETH from each daily cycle will be used for the buyback of XNF off the market via the same WETH-XNF pair on Uniswap, with all the bought-back XNF being burned as well.
+- 70% of the ETH collected from daily auctions will be used for the buyback of XNF off the market, specifically through the WETH-XNF pair on Uniswap V3. Importantly, 100% of the bought-back XNF will be burned. Additionally, 90% of the recycled ETH from each daily cycle will be used for the buyback of XNF off the market via the same WETH-XNF pair on Uniswap, with all the bought-back XNF being burned as well.
 
 - The burning mechanisms within our protocol are designed to be immutable and automatic. They activate after each daily auction or recycling activity. This approach eliminates counterparty risk and mitigates the potential for front-running issues that could arise if a third party were required to manage the buyback and burn processes.
 
@@ -133,7 +133,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - The protocol will utilise Uniswap V3 for liquidity provisioning by launching the WETH-XNF trading pair with an allocation of 100,000 XNF and setting an initial price point of $1.00 per XNF. This initial price is adjustable, contingent on the ETH volume collected during the initial cycle. A full-range pairing will subsequently be established within the 1% fee tier on Uniswap V3.
 
-- To promote the continuous growth of ETH protocol-owned liquidity, starting from the second cycle, 60% of the ETH—received from burn fees, native fees, swap fees, and 90% from recycling—will be reinvested into expanding protocol-owned liquidity. In this model, the entire sum of collected ETH is channeled to market buy and burn XNF. Simultaneously, an equivalent amount of WETH is directed into the protocol-owned pool, thus increasing the WETH reserves in the WETH-XNF liquidity pool and ensuring extensive support across the entire range.
+- To promote the continuous growth of ETH protocol-owned liquidity, starting from the second cycle, 70% of the ETH—received from burn fees, native fees, swap fees, and 90% from recycling—will be reinvested into expanding protocol-owned liquidity. In this model, the entire sum of collected ETH is channeled to market buy and burn XNF. Simultaneously, an equivalent amount of WETH is directed into the protocol-owned pool, thus increasing the WETH reserves in the WETH-XNF liquidity pool and ensuring extensive support across the entire range.
 
 - Liquidity providers are restricted from adding to the WETH-XNF pool at the 1% fee tier; this pool is reserved exclusively for the protocol to perform market buybacks and burns from its own liquidity within the same fee tier. XNF holders are confined to selling via the Xenify platform or by directly interacting with the recycling contract if they wish to sell in the 1% fee tier pool.
 
@@ -384,7 +384,7 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ## ✨ Burning XNF Tokens
 
-- Within our protocol, 60% of the ETH collected from daily auctions, and 90% of the recycled ETH from each daily cycle, are utilised to purchase XNF directly from the market via the WETH-XNF pair on Uniswap V3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This process ensures the integrity of the buyback and burn mechanism, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
+- Within our protocol, 70% of the ETH collected from daily auctions, and 90% of the recycled ETH from each daily cycle, are utilised to purchase XNF directly from the market via the WETH-XNF pair on Uniswap V3. Subsequently, 100% of the acquired XNF is immediately and irrevocably burned through an immutable process. This process ensures the integrity of the buyback and burn mechanism, obviating the need for third-party involvement and thereby mitigating the risks associated with counterparty front-running.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -585,7 +585,7 @@ Xenify's built-in swap fee mechanism creates a reciprocal environment that rewar
 
 Here's how it works: When you opt to pay the 0.5% swap fee to execute a swap on supported EVM chains where XNF has been deployed, you not only facilitate your transaction but also secure a position in the daily XNF distribution for that chain. At the end of each day, 50% of your swap fee is utilised for the Partner Fee Sharing Programme, and the remaining 50% distributed as native rewards to veXNF holders on that specific chain. This means you not only earn XNF tokens based on your swap fee contribution but also reward veXNF holders with native chain tokens, while simultaneously supporting the expansion of Xenify. It's a win-win situation for everyone involved.
 
-What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn vXEN and YSL tokens to mint XNF. The vXEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 60% is utilised to perform an automated buyback and burn of XNF, 30% of the burn fees go back to veXNF holders, and the remaining 10% is sent to the Xenify team. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
+What's more, Xenify incorporates an ingenious burn mechanism that enables users to burn vXEN and YSL tokens to mint XNF. The vXEN burning process acts as a strategic layer 1 burner, and here's the exciting part – 70% is utilised to perform an automated buyback and burn of XNF, 25% of the burn fees go back to veXNF holders, and the remaining 5% is sent to the Xenify team. This approach not only encourages long-term user engagement but also improves sustainability, while enhancing rewards for those deeply involved with the protocol.
 
 Xenify's innovative approach to locking and rewards, combined with its unique tokenomics model, creates a thoughtfully designed ecosystem that benefits all participants. Whether you're executing token swaps or burning tokens to mint XNF, every action you take on the Xenify platform contributes to a reciprocal environment of rewards and engagement. You not only enjoy unparalleled efficiency when swapping across 54 leading chains but also have the opportunity to earn native chain tokens daily and be part of a thriving community. Xenify truly offers the best of both worlds: effortless token swaps and significant earning potential.
 
@@ -872,7 +872,7 @@ It's essential to note that when you decide to burn your vXEN to participate in 
 
 Regardless of whether you opt to burn vXEN or YSL, the value per batch (VB) will be contingent on the specific chain you select for the burn. This value will be established upon Xenify’s deployment, and will be dynamically based on the current price of the chain’s native token. The cumulative value of the batches you burn will play a direct role in determining the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
-For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation. Of your burn fee, 60% is utilised to create protocol-owned liquidity through the buying and burning mechanics of XNF, 30% is distributed as native rewards among veXNF holders, and the remaining 10% is sent to the Xenify team. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains while supporting the growth of our ecosystem and rewarding active participants.
+For each batch burned, the tokens you provide (vXEN or YSL) are permanently removed from circulation. Of your burn fee, 70% is utilised to create protocol-owned liquidity through the buying and burning mechanics of XNF, 25% is distributed as native rewards among veXNF holders, and the remaining 5% is sent to the Xenify team. This burn mechanism goes beyond simply reducing the circulating supply of XEN and YSL tokens; it embodies a strategic approach that unifies the YSL and broader XEN communities across all chains while supporting the growth of our ecosystem and rewarding active participants.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -904,7 +904,7 @@ Xenify's innovative locking model enables users to lock their XNF tokens for an 
 
 Xenify offers a groundbreaking token swap solution that not only simplifies cross-chain transactions but also rewards its users, all the while nurturing the expansion of its ecosystem. Through a 0.5% fee on every token swap, Xenify is able to achieve three crucial objectives: reward its platform users with XNF tokens, provide native rewards to veXNF holders, and ensure the continuous development of the protocol.
 
-Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 60% of the swap fee will be utilised for the proliferation of protocol-owned liquidity through the buying and burning mechanics of XNF, 30% will be distributed as native rewards among veXNF holders, with the remaining 10% being utilised by the team to support Xenify's ongoing development.
+Here's how it works: When a user initiates a token swap on Xenify, they can choose to pay an optional 0.5% swap fee. This fee is strategically allocated to encourage future growth and incentivise user engagement. On chains where XNF has been deployed, 70% of the swap fee will be utilised for the proliferation of protocol-owned liquidity through the buying and burning mechanics of XNF, 25% will be distributed as native rewards among veXNF holders, with the remaining 5% being utilised by the team to support Xenify's ongoing development.
 
 By paying the nominal 0.5% swap fee on chains where XNF is deployed, you not only expedite your transaction but also secure an allocation of XNF from the protocol's daily mint cycle. These XNF tokens are locked for 1 year and distributed among swap participants as veXNF. This unique ERC-721 non-fungible token (NFT) will represent your XNF holdings, which can be withdrawn at the end of the lockup period. 
 
@@ -1415,7 +1415,7 @@ $$
 
 <br>
 
-Once the burn fee is taken, 60% is used to create protocol-owned liquidity through the buying and burning mechanics of XNF. Additionally, 30% of this fee is set aside for distribution to veXNF holders at the cycle's end, while the team receives the remaining 10%. From your rewards, the discounted amount of 0.5025 ETH is allocated, with 90% (0.45225 ETH) contributing to XNF's protocol-owned liquidity via the same burn mechanics, and 10% (0.05025 ETH) going to the Xenify team. By contributing to the 100-batch burn, you receive XNF at the cycle's conclusion. Moreover, by recycling rewards in the cycle's first hour, you gain a portion of the ETH accrued from the 25% claim fee.
+Once the burn fee is taken, 70% is used to create protocol-owned liquidity through the buying and burning mechanics of XNF. Additionally, 25% of this fee is set aside for distribution to veXNF holders at the cycle's end, while the team receives the remaining 5%. From your rewards, the discounted amount of 0.5025 ETH is allocated, with 90% (0.45225 ETH) contributing to XNF's protocol-owned liquidity via the same burn mechanics, and 10% (0.05025 ETH) going to the Xenify team. By contributing to the 100-batch burn, you receive XNF at the cycle's conclusion. Moreover, by recycling rewards in the cycle's first hour, you gain a portion of the ETH accrued from the 25% claim fee.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1583,7 +1583,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ Does XNF have an initial supply?
-  - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol rewards users on a daily basis for their active participation in the ecosystem. This is achieved through various contributions, such as burn fee contributions made by directly burning vXEN or YSL tokens, native token contributions, as well as swap fees generated through the Xenify aggregator. Notably, 30% of the burn fees, swap fees and native fees are collected on supported EVM chains are directed towards veXNF holders on a daily basis, providing significant long-term earning potential.
+  - No, Xenify does not have an initial supply, and there is no pre-mine of XNF tokens. Instead, the protocol rewards users on a daily basis for their active participation in the ecosystem. This is achieved through various contributions, such as burn fee contributions made by directly burning vXEN or YSL tokens, native token contributions, as well as swap fees generated through the Xenify aggregator. Notably, 25% of the burn fees, swap fees and native fees are collected on supported EVM chains are directed towards veXNF holders on a daily basis, providing significant long-term earning potential.
 
   - By implementing this equitable distribution system, Xenify aims to create a level playing field for all users, preventing any concentration of tokens in the hands of a few early adopters. Instead, the protocol emphasises the importance of ongoing user involvement and contributions, as they directly translate into tangible rewards. This innovative approach distinguishes Xenify as a platform that values its community and actively encourages their participation in shaping the ecosystem.
 
@@ -1635,7 +1635,7 @@ We understand that you may have questions about Xenify, its features, and its po
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ What happens to the rewards if there are no veXNF holders?
-- If there are no veXNF holders at a cycle's end due to all locks expiring, the protocol's design redirects the 30% of native rewards, initially meant for veXNF holders, to augment protocol-owned liquidity. Consequently, the entire allocation contributes to the protocol's liquidity by employing the buying and burning mechanisms of XNF for that cycle.
+- If there are no veXNF holders at a cycle's end due to all locks expiring, the protocol's design redirects the 25% of native rewards, initially meant for veXNF holders, to augment protocol-owned liquidity. Consequently, the entire allocation contributes to the protocol's liquidity by employing the buying and burning mechanisms of XNF for that cycle.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
