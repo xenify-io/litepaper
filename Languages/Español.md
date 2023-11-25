@@ -99,7 +99,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- El 30% del ETH recaudado en las subastas diarias se asignará a los titulares de veXNF: esto es proporcional a su poder de veXNF. Los usuarios que opten por reclamar sus recompensas ETH incurrirán en una tarifa de reclamación del 25%; Esta tarifa luego se redistribuirá a los participantes que participaron en el reciclaje dentro de la primera hora de un ciclo, de acuerdo con su poder veXNF.
+- El 25% del ETH recaudado en las subastas diarias se asignará a los titulares de veXNF: esto es proporcional a su poder de veXNF. Los usuarios que opten por reclamar sus recompensas ETH incurrirán en una tarifa de reclamación del 25%; Esta tarifa luego se redistribuirá a los participantes que participaron en el reciclaje dentro de la primera hora de un ciclo, de acuerdo con su poder veXNF.
 
 <br>
 
@@ -119,7 +119,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- El 60% del ETH recaudado en las subastas diarias se utilizará para la recompra de XNF fuera del mercado, específicamente a través del par WETH-XNF en Uniswap V3. Es importante destacar que se quemará el 100% del XNF recomprado. Además, el 90% del ETH reciclado de cada ciclo diario se utilizará para la recompra de XNF fuera del mercado a través del mismo par WETH-XNF en Uniswap, y también se quemará todo el XNF recomprado.
+- El 70% del ETH recaudado en las subastas diarias se utilizará para la recompra de XNF fuera del mercado, específicamente a través del par WETH-XNF en Uniswap V3. Es importante destacar que se quemará el 100% del XNF recomprado. Además, el 90% del ETH reciclado de cada ciclo diario se utilizará para la recompra de XNF fuera del mercado a través del mismo par WETH-XNF en Uniswap, y también se quemará todo el XNF recomprado.
 
 - Los mecanismos de grabación dentro de nuestro protocolo están diseñados para ser inmutables y automáticos. Se activan después de cada subasta diaria o actividad de reciclaje. Este enfoque elimina el riesgo de contraparte y mitiga el potencial de problemas iniciales que podrían surgir si se requiriera que un tercero gestionara los procesos de recompra y quema.
 
@@ -133,7 +133,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 - El protocolo utilizará Uniswap V3 para el aprovisionamiento de liquidez lanzando el par comercial WETH-XNF con una asignación de 100.000 XNF y estableciendo un precio inicial de 1,00 dólares por XNF. Este precio inicial es ajustable y depende del volumen de ETH recolectado durante el ciclo inicial. Posteriormente se establecerá un emparejamiento de rango completo dentro del nivel de tarifa del 1% en Uniswap V3.
 
-- Para promover el crecimiento continuo de la liquidez propiedad del protocolo ETH, a partir del segundo ciclo, el 60% del ETH (recibido de tarifas de quema, tarifas nativas, tarifas de intercambio y el 90% del reciclaje) se reinvertirá en la expansión de la liquidez propiedad del protocolo. liquidez. En este modelo, la suma total de ETH recolectada se canaliza para comprar y quemar XNF en el mercado. Al mismo tiempo, se dirige una cantidad equivalente de WETH al grupo propiedad del protocolo, lo que aumenta las reservas de WETH en el grupo de liquidez WETH-XNF y garantiza un amplio soporte en todo el rango.
+- Para promover el crecimiento continuo de la liquidez propiedad del protocolo ETH, a partir del segundo ciclo, el 70% del ETH (recibido de tarifas de quema, tarifas nativas, tarifas de intercambio y el 90% del reciclaje) se reinvertirá en la expansión de la liquidez propiedad del protocolo. liquidez. En este modelo, la suma total de ETH recolectada se canaliza para comprar y quemar XNF en el mercado. Al mismo tiempo, se dirige una cantidad equivalente de WETH al grupo propiedad del protocolo, lo que aumenta las reservas de WETH en el grupo de liquidez WETH-XNF y garantiza un amplio soporte en todo el rango.
 
 - Los proveedores de liquidez no pueden agregar fondos al grupo WETH-XNF al nivel de tarifa del 1%; este grupo está reservado exclusivamente para que el protocolo realice recompras y quemas de mercado a partir de su propia liquidez dentro del mismo nivel de tarifas. Los titulares de XNF están limitados a vender a través de la plataforma Xenify o interactuando directamente con el contrato de reciclaje si desean vender en el grupo de nivel de tarifa del 1%.
 
@@ -384,7 +384,7 @@ Xenify pone gran énfasis en la equidad y las inversiones a largo plazo. Creemos
 
 ## ✨ Quema de tokens XNF
 
-- Dentro de nuestro protocolo, el 60% del ETH recolectado en las subastas diarias y el 90% del ETH reciclado de cada ciclo diario se utilizan para comprar XNF directamente del mercado a través del par WETH-XNF en Uniswap V3. Posteriormente, el 100% del XNF adquirido se quema inmediata e irrevocablemente mediante un proceso inmutable. Este proceso garantiza la integridad del mecanismo de recompra y quema, obviando la necesidad de participación de terceros y mitigando así los riesgos asociados con la ejecución anticipada de la contraparte.
+- Dentro de nuestro protocolo, el 70% del ETH recolectado en las subastas diarias y el 90% del ETH reciclado de cada ciclo diario se utilizan para comprar XNF directamente del mercado a través del par WETH-XNF en Uniswap V3. Posteriormente, el 100% del XNF adquirido se quema inmediata e irrevocablemente mediante un proceso inmutable. Este proceso garantiza la integridad del mecanismo de recompra y quema, obviando la necesidad de participación de terceros y mitigando así los riesgos asociados con la ejecución anticipada de la contraparte.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -585,7 +585,7 @@ El mecanismo de canje integrado de Xenify crea un entorno recíproco que recompe
 
 Así es como funciona: Cuando opta por pagar la comisión de intercambio del 0,5% para ejecutar un intercambio en cadenas EVM compatibles en las que se ha desplegado XNF, no sólo facilita su transacción, sino que también se asegura una posición en la distribución diaria de XNF para esa cadena. Al final de cada día, el 50% de su comisión de intercambio se utiliza para el Programa de reparto de comisiones entre socios, y el 50% restante se distribuye como recompensas nativas a los titulares de veXNF en esa cadena específica. Esto significa que no sólo ganas tokens XNF basados en tu contribución a la comisión de intercambio, sino que también recompensas a los titulares de veXNF con tokens nativos de la cadena, al tiempo que apoyas la expansión de Xenify. Es una situación en la que todos ganan.
 
-Es más, Xenify incorpora un ingenioso mecanismo de grabación que permite a los usuarios grabar tokens vXEN e YSL para acuñar XNF. El proceso de grabación de vXEN actúa como un quemador estratégico de capa 1, y aquí está la parte interesante: el 60% se utiliza para realizar una recompra y quema automatizada de XNF, el 30% de las tarifas de quema regresan a los titulares de veXNF y el 10% restante es enviado al equipo de Xenify. Este enfoque no sólo fomenta la participación de los usuarios a largo plazo, sino que también mejora la sostenibilidad, al tiempo que mejora las recompensas para quienes están profundamente involucrados con el protocolo.
+Es más, Xenify incorpora un ingenioso mecanismo de grabación que permite a los usuarios grabar tokens vXEN e YSL para acuñar XNF. El proceso de grabación de vXEN actúa como un quemador estratégico de capa 1, y aquí está la parte interesante: el 70% se utiliza para realizar una recompra y quema automatizada de XNF, el 25% de las tarifas de quema regresan a los titulares de veXNF y el 510% restante es enviado al equipo de Xenify. Este enfoque no sólo fomenta la participación de los usuarios a largo plazo, sino que también mejora la sostenibilidad, al tiempo que mejora las recompensas para quienes están profundamente involucrados con el protocolo.
 
 El enfoque innovador de Xenify sobre el bloqueo y las recompensas, combinado con su modelo único de tokenómica, crea un ecosistema cuidadosamente diseñado que beneficia a todos los participantes. Tanto si realiza intercambios de tokens como si quema tokens para acuñar XNF, cada acción que realiza en la plataforma Xenify contribuye a un entorno recíproco de recompensas y compromiso. No sólo disfrutas de una eficiencia sin precedentes al intercambiar entre 54 cadenas líderes, sino que también tienes la oportunidad de ganar tokens de cadenas nativas a diario y formar parte de una próspera comunidad. Xenify realmente ofrece lo mejor de ambos mundos: intercambios de tokens sin esfuerzo y un importante potencial de ganancias.
 
@@ -872,7 +872,7 @@ Es esencial tener en cuenta que cuando decides quemar tus vXEN para participar e
 
 Independientemente de si opta por grabar vXEN o YSL, el valor por lote (VB) dependerá de la cadena específica que seleccione para la grabación. Este valor se establecerá en el momento del despliegue de Xenify y se basará dinámicamente en el precio actual del token nativo de la cadena. El valor acumulado de los lotes que queme desempeñará un papel directo en la determinación de la Tarifa de Quemado (BF) necesaria para ejecutar la función de quemado, garantizando un proceso transparente y sin fisuras para todos los participantes.
 
-Por cada lote quemado, los tokens que usted proporciona (vXEN o YSL) se retiran permanentemente de la circulación. De su tarifa de quema, el 60% se utiliza para crear liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF, el 30% se distribuye como recompensas nativas entre los titulares de veXNF y el 10% restante se envía al equipo de Xenify. Este mecanismo de quema va más allá de simplemente reducir el suministro circulante de tokens XEN e YSL; representa un enfoque estratégico que unifica a YSL y a las comunidades XEN más amplias en todas las cadenas, al mismo tiempo que respalda el crecimiento de nuestro ecosistema y recompensa a los participantes activos.
+Por cada lote quemado, los tokens que usted proporciona (vXEN o YSL) se retiran permanentemente de la circulación. De su tarifa de quema, el 70% se utiliza para crear liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF, el 25% se distribuye como recompensas nativas entre los titulares de veXNF y el 5% restante se envía al equipo de Xenify. Este mecanismo de quema va más allá de simplemente reducir el suministro circulante de tokens XEN e YSL; representa un enfoque estratégico que unifica a YSL y a las comunidades XEN más amplias en todas las cadenas, al mismo tiempo que respalda el crecimiento de nuestro ecosistema y recompensa a los participantes activos.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -904,7 +904,7 @@ El innovador modelo de bloqueo de Xenify permite a los usuarios bloquear sus tok
 
 Xenify ofrece una innovadora solución de intercambio de tokens que no solo simplifica las transacciones entre cadenas, sino que también recompensa a sus usuarios, al tiempo que fomenta la expansión de su ecosistema. A través de una comisión del 0,5% en cada intercambio de tokens, Xenify es capaz de lograr tres objetivos cruciales: recompensar a los usuarios de su plataforma con tokens XNF, proporcionar recompensas nativas a los titulares de veXNF y garantizar el desarrollo continuo del protocolo.
 
-Así es como funciona: cuando un usuario inicia un intercambio de tokens en Xenify, puede optar por pagar una tarifa de intercambio opcional del 0,5%. Esta tarifa se asigna estratégicamente para fomentar el crecimiento futuro e incentivar la participación de los usuarios. En las cadenas donde se ha implementado XNF, el 60% de la tarifa de intercambio se utilizará para la proliferación de liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF, el 30% se distribuirá como recompensas nativas entre los titulares de veXNF y el 10% restante. % utilizado por el equipo para respaldar el desarrollo continuo de Xenify.
+Así es como funciona: cuando un usuario inicia un intercambio de tokens en Xenify, puede optar por pagar una tarifa de intercambio opcional del 0,5%. Esta tarifa se asigna estratégicamente para fomentar el crecimiento futuro e incentivar la participación de los usuarios. En las cadenas donde se ha implementado XNF, el 70% de la tarifa de intercambio se utilizará para la proliferación de liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF, el 25% se distribuirá como recompensas nativas entre los titulares de veXNF y el 5% restante. % utilizado por el equipo para respaldar el desarrollo continuo de Xenify.
 
 Al pagar la comisión nominal de intercambio del 0,5% en las cadenas en las que se despliega XNF, no sólo agiliza su transacción, sino que también se asegura una asignación de XNF del ciclo de acuñación diario del protocolo. Estos tokens XNF se bloquean durante 1 año y se distribuyen entre los participantes del intercambio como veXNF. Este token único ERC-721 no fungible (NFT) representará sus tenencias de XNF, que podrá retirar al final del periodo de bloqueo.
 
@@ -1415,7 +1415,7 @@ $$
 
 <br>
 
-Una vez que se cobra la tarifa de quema, el 60% se utiliza para crear liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF. Además, el 30% de esta tarifa se reserva para su distribución a los titulares de veXNF al final del ciclo, mientras que el equipo recibe el 10% restante. De sus recompensas, se asigna la cantidad descontada de 0.5025 ETH, con el 90% (0.45225 ETH) contribuyendo a la liquidez propiedad del protocolo de XNF a través de la misma mecánica de quema, y el 10% (0.05025 ETH) yendo al equipo de Xenify. Al contribuir a la grabación de 100 lotes, recibirá XNF al finalizar el ciclo. Además, al reciclar las recompensas en la primera hora del ciclo, obtienes una parte del ETH acumulado de la tarifa de reclamo del 25 %.
+Una vez que se cobra la tarifa de quema, el 70% se utiliza para crear liquidez propiedad del protocolo a través de los mecanismos de compra y quema de XNF. Además, el 25% de esta tarifa se reserva para su distribución a los titulares de veXNF al final del ciclo, mientras que el equipo recibe el 5% restante. De sus recompensas, se asigna la cantidad descontada de 0.5025 ETH, con el 90% (0.45225 ETH) contribuyendo a la liquidez propiedad del protocolo de XNF a través de la misma mecánica de quema, y el 10% (0.05025 ETH) yendo al equipo de Xenify. Al contribuir a la grabación de 100 lotes, recibirá XNF al finalizar el ciclo. Además, al reciclar las recompensas en la primera hora del ciclo, obtienes una parte del ETH acumulado de la tarifa de reclamo del 25 %.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1435,8 +1435,8 @@ Además de las recompensas generadas por las tarifas de quema, las tarifas de in
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d9be948c-f2ba-4515-939b-8b9e98cab16b" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/7907f98e-9299-40e4-b104-ff68e2abd14a" class="fuente-oscuro">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/b7c63b40-ce2b-4c5e-92f8-7fe41844ec6f" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d872060e-cf67-4c2c-a27c-56e901bb57ac" class="fuente-oscuro">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1583,7 +1583,7 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ ¿Tiene XNF un suministro inicial?
-  - No, Xenify no tiene un suministro inicial y no existe una extracción previa de tokens XNF. En cambio, el protocolo recompensa a los usuarios diariamente por su participación activa en el ecosistema. Esto se logra a través de varias contribuciones, como contribuciones de tarifas de quema realizadas al quemar directamente tokens vXEN o YSL, contribuciones de tokens nativos, así como tarifas de intercambio generadas a través del agregador Xenify. En particular, el 30% de las tarifas de quema, tarifas de swap y tarifas nativas que se cobran en las cadenas EVM admitidas se dirigen diariamente a los titulares de veXNF, lo que proporciona un importante potencial de ganancias a largo plazo.
+  - No, Xenify no tiene un suministro inicial y no existe una extracción previa de tokens XNF. En cambio, el protocolo recompensa a los usuarios diariamente por su participación activa en el ecosistema. Esto se logra a través de varias contribuciones, como contribuciones de tarifas de quema realizadas al quemar directamente tokens vXEN o YSL, contribuciones de tokens nativos, así como tarifas de intercambio generadas a través del agregador Xenify. En particular, el 25% de las tarifas de quema, tarifas de swap y tarifas nativas que se cobran en las cadenas EVM admitidas se dirigen diariamente a los titulares de veXNF, lo que proporciona un importante potencial de ganancias a largo plazo.
 
   - Mediante la aplicación de este sistema de distribución equitativa, Xenify pretende crear igualdad de condiciones para todos los usuarios, evitando cualquier concentración de tokens en manos de unos pocos pioneros. En su lugar, el protocolo hace hincapié en la importancia de la participación y las contribuciones continuas de los usuarios, ya que se traducen directamente en recompensas tangibles. Este enfoque innovador distingue a Xenify como una plataforma que valora a su comunidad y fomenta activamente su participación en la configuración del ecosistema.
 
@@ -1635,7 +1635,7 @@ Entendemos que puede tener preguntas sobre Xenify, sus características y su pot
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ ¿Qué pasa con las recompensas si no hay poseedores de veXNF?
-- Si no hay titulares de veXNF al final de un ciclo debido a que todos los bloqueos expiran, el diseño del protocolo redirige el 30% de las recompensas nativas, inicialmente destinadas a los titulares de veXNF, para aumentar la liquidez propiedad del protocolo. En consecuencia, toda la asignación contribuye a la liquidez del protocolo al emplear los mecanismos de compra y quema de XNF para ese ciclo.
+- Si no hay titulares de veXNF al final de un ciclo debido a que todos los bloqueos expiran, el diseño del protocolo redirige el 25% de las recompensas nativas, inicialmente destinadas a los titulares de veXNF, para aumentar la liquidez propiedad del protocolo. En consecuencia, toda la asignación contribuye a la liquidez del protocolo al emplear los mecanismos de compra y quema de XNF para ese ciclo.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
