@@ -1435,8 +1435,8 @@ On top of rewards generated from burn fees, swap fees and native fees, the proto
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/700a0ab8-b6ab-4613-aa2e-d14397fca057" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/f6e6f14e-e662-4d1f-89a8-3b747cf1eda2" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/5d7d6681-05ca-468a-864d-00623a4bc548" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/d24a8dbd-0976-4d3c-8ec8-ca570835eab7" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
