@@ -99,7 +99,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Günlük açık artırmalardan elde edilen ETH'nin %30'ı veXNF sahiplerine tahsis edilecek: bu onların veXNF gücüyle orantılıdır. ETH ödüllerini almayı seçen kullanıcılardan %25 oranında talep ücreti alınacaktır; Bu ücret daha sonra döngünün ilk saati içinde geri dönüşüme katılan katılımcılara veXNF güçlerine uygun olarak yeniden dağıtılacaktır.
+- Günlük açık artırmalardan elde edilen ETH'nin %25'ı veXNF sahiplerine tahsis edilecek: bu onların veXNF gücüyle orantılıdır. ETH ödüllerini almayı seçen kullanıcılardan %25 oranında talep ücreti alınacaktır; Bu ücret daha sonra döngünün ilk saati içinde geri dönüşüme katılan katılımcılara veXNF güçlerine uygun olarak yeniden dağıtılacaktır.
 
 <br>
 
@@ -119,7 +119,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Günlük açık artırmalardan toplanan ETH'nin %60'si, özellikle Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri alımı için kullanılacak. Daha da önemlisi, geri alınan XNF'nin %100'ü yakılacak. Ek olarak, her günlük döngüde geri dönüştürülen ETH'nin %90'ı, Uniswap'teki aynı WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri satın alınması için kullanılacak ve geri alınan XNF'nin tamamı da yakılacak.
+- Günlük açık artırmalardan toplanan ETH'nin %70'si, özellikle Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri alımı için kullanılacak. Daha da önemlisi, geri alınan XNF'nin %100'ü yakılacak. Ek olarak, her günlük döngüde geri dönüştürülen ETH'nin %90'ı, Uniswap'teki aynı WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri satın alınması için kullanılacak ve geri alınan XNF'nin tamamı da yakılacak.
 
 - Protokolümüz içerisindeki yakma mekanizmaları değişmez ve otomatik olacak şekilde tasarlanmıştır. Her günlük açık artırma veya geri dönüşüm faaliyetinden sonra etkinleşirler. Bu yaklaşım, karşı taraf riskini ortadan kaldırır ve üçüncü bir tarafın geri satın alma ve yakma süreçlerini yönetmesi gerektiğinde ortaya çıkabilecek önden yürütme sorunlarının potansiyelini azaltır.
 
@@ -133,7 +133,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 - Protokol, WETH-XNF işlem çiftini 100.000 XNF tahsisiyle başlatarak ve XNF başına 1,00 $'lık bir başlangıç fiyat noktası belirleyerek likidite sağlamak için Uniswap V3'ü kullanacak. Bu başlangıç fiyatı, ilk döngü sırasında toplanan ETH hacmine bağlı olarak ayarlanabilir. Daha sonra Uniswap V3'te %1 ücret kademesi dahilinde tam kapsamlı bir eşleştirme kurulacaktır.
 
-- ETH protokolüne ait likiditenin sürekli büyümesini desteklemek için, ikinci döngüden başlayarak, yakma ücretlerinden, yerel ücretlerden, takas ücretlerinden ve geri dönüşümden elde edilen ETH'nin %60'ı, genişleyen protokole ait olanlara yeniden yatırılacak likidite. Bu modelde, toplanan ETH'nin tamamı XNF'yi piyasada satın alıp yakmaya yönlendiriliyor. Eş zamanlı olarak protokole ait havuza eşdeğer miktarda WETH yönlendirilir, böylece WETH-XNF likidite havuzundaki WETH rezervleri artırılır ve tüm aralıkta kapsamlı destek sağlanır.
+- ETH protokolüne ait likiditenin sürekli büyümesini desteklemek için, ikinci döngüden başlayarak, yakma ücretlerinden, yerel ücretlerden, takas ücretlerinden ve geri dönüşümden elde edilen ETH'nin %70'ı, genişleyen protokole ait olanlara yeniden yatırılacak likidite. Bu modelde, toplanan ETH'nin tamamı XNF'yi piyasada satın alıp yakmaya yönlendiriliyor. Eş zamanlı olarak protokole ait havuza eşdeğer miktarda WETH yönlendirilir, böylece WETH-XNF likidite havuzundaki WETH rezervleri artırılır ve tüm aralıkta kapsamlı destek sağlanır.
 
 - Likidite sağlayıcılarının WETH-XNF havuzuna %1 ücret kademesiyle ekleme yapmaları kısıtlanmıştır; Bu havuz, yalnızca protokolün aynı ücret kademesi dahilinde kendi likiditesinden piyasa geri alımları ve yakımları gerçekleştirmesi için ayrılmıştır. XNF sahipleri, %1 ücret kademesi havuzunda satış yapmak istiyorlarsa, Xenify platformu aracılığıyla veya geri dönüşüm sözleşmesiyle doğrudan etkileşime girerek satış yapmakla sınırlıdır.
 
@@ -384,7 +384,7 @@ Xenify, öz sermayeye ve uzun vadeli yatırımlara büyük önem vermektedir. Ku
 
 ## ✨ XNF Tokenlarını Yakma
 
-- Protokolümüz kapsamında, günlük açık artırmalardan toplanan ETH'nin %60'ı ve her günlük döngüden geri dönüştürülen ETH'nin %90'ı, Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'yi doğrudan piyasadan satın almak için kullanılıyor. Daha sonra, edinilen XNF'nin %100'ü değişmez bir süreç aracılığıyla derhal ve geri dönülemez bir şekilde yakılır. Bu süreç, geri satın alma ve yakma mekanizmasının bütünlüğünü sağlar, üçüncü tarafların katılımı ihtiyacını ortadan kaldırır ve böylece karşı tarafın öne çıkmasıyla ilişkili riskleri azaltır.
+- Protokolümüz kapsamında, günlük açık artırmalardan toplanan ETH'nin %70'ı ve her günlük döngüden geri dönüştürülen ETH'nin %90'ı, Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'yi doğrudan piyasadan satın almak için kullanılıyor. Daha sonra, edinilen XNF'nin %100'ü değişmez bir süreç aracılığıyla derhal ve geri dönülemez bir şekilde yakılır. Bu süreç, geri satın alma ve yakma mekanizmasının bütünlüğünü sağlar, üçüncü tarafların katılımı ihtiyacını ortadan kaldırır ve böylece karşı tarafın öne çıkmasıyla ilişkili riskleri azaltır.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -585,7 +585,7 @@ Xenify'ın yerleşik takas ücreti mekanizması, platform kullanıcılarını XN
 
 İşte nasıl çalıştığı: XNF'nin konuşlandırıldığı desteklenen EVM zincirlerinde bir takas gerçekleştirmek için %0,5'lik takas ücretini ödemeyi tercih ettiğinizde, yalnızca işleminizi kolaylaştırmakla kalmaz, aynı zamanda o zincir için günlük XNF dağıtımında bir pozisyon elde edersiniz. Her günün sonunda, takas ücretinizin %50'si İş Ortağı Ücret Paylaşım Programı için kullanılır ve kalan %50'si söz konusu zincirdeki veXNF sahiplerine yerel ödüller olarak dağıtılır. Bu, yalnızca takas ücreti katkınıza dayalı XNF tokenları kazanmakla kalmayıp aynı zamanda veXNF sahiplerini yerel zincir tokenlarıyla ödüllendirirken aynı zamanda Xenify'ın genişlemesini desteklediğiniz anlamına gelir. Bu, ilgili herkes için bir kazan-kazan durumudur.
 
-Dahası, Xenify, kullanıcıların XNF'yi basmak için vXEN ve YSL tokenlerini yakmasına olanak tanıyan ustaca bir yazma mekanizması içerir. vXEN yakma işlemi, stratejik bir katman 1 yakıcı görevi görür ve işte işin heyecan verici kısmı: XNF'nin otomatik olarak geri satın alınması ve yakılması için %60 kullanılır, yakma ücretlerinin %30'u veXNF sahiplerine geri döner ve geri kalan %10, Xenify ekibine gönderildi. Bu yaklaşım yalnızca uzun vadeli kullanıcı katılımını teşvik etmekle kalmıyor, aynı zamanda sürdürülebilirliği de geliştiriyor ve protokole derinlemesine dahil olanlara yönelik ödülleri artırıyor.
+Dahası, Xenify, kullanıcıların XNF'yi basmak için vXEN ve YSL tokenlerini yakmasına olanak tanıyan ustaca bir yazma mekanizması içerir. vXEN yakma işlemi, stratejik bir katman 1 yakıcı görevi görür ve işte işin heyecan verici kısmı: XNF'nin otomatik olarak geri satın alınması ve yakılması için %70 kullanılır, yakma ücretlerinin %25'u veXNF sahiplerine geri döner ve geri kalan %5, Xenify ekibine gönderildi. Bu yaklaşım yalnızca uzun vadeli kullanıcı katılımını teşvik etmekle kalmıyor, aynı zamanda sürdürülebilirliği de geliştiriyor ve protokole derinlemesine dahil olanlara yönelik ödülleri artırıyor.
 
 Xenify'ın kilitleme ve ödüllere yönelik yenilikçi yaklaşımı, benzersiz tokenomics modeliyle birleştiğinde, tüm katılımcılara fayda sağlayan, özenle tasarlanmış bir ekosistem oluşturur. İster token takası yapıyor ister XNF basmak için token yakıyor olun, Xenify platformunda gerçekleştirdiğiniz her eylem karşılıklı bir ödül ve etkileşim ortamına katkıda bulunur. Önde gelen 54 zincir arasında takas yaparken yalnızca benzersiz verimliliğin keyfini çıkarmakla kalmaz, aynı zamanda günlük olarak yerel zincir tokenları kazanma ve gelişen bir topluluğun parçası olma fırsatına da sahip olursunuz. Xenify gerçekten de her iki dünyanın en iyisini sunuyor: zahmetsiz token takasları ve önemli kazanç potansiyeli.
 
@@ -872,7 +872,7 @@ Bir XNF tahsisi için günlük yakma açık artırmasına katılmak üzere vXEN'
 
 İster vXEN ister YSL yakmayı tercih edin, parti başına değer (VB) yakma için seçtiğiniz belirli zincire bağlı olacaktır. Bu değer, Xenify'ın dağıtımı sonrasında belirlenecek ve dinamik olarak zincirin yerel tokenının mevcut fiyatına bağlı olacaktır. Yaktığınız partilerin kümülatif değeri, yakma işlevini gerçekleştirmek için gereken Yakma Ücretinin (BF) belirlenmesinde doğrudan rol oynayacak ve tüm katılımcılar için sorunsuz ve şeffaf bir süreç sağlayacaktır.
 
-Yakılan her parti için sağladığınız tokenlar (vXEN veya YSL) kalıcı olarak dolaşımdan kaldırılır. Yakma ücretinizin %60'ı XNF'in satın alma ve yakma mekanizmaları aracılığıyla protokole ait likidite oluşturmak için kullanılır, %30'u veXNF sahipleri arasında yerel ödüller olarak dağıtılır ve geri kalan %10'u Xenify ekibine gönderilir. Bu yakma mekanizması, XEN ve YSL tokenlarının dolaşımdaki arzını basitçe azaltmanın ötesine geçiyor; Ekosistemimizin büyümesini desteklerken ve aktif katılımcıları ödüllendirirken YSL ve daha geniş XEN topluluklarını tüm zincirlerde birleştiren stratejik bir yaklaşımı bünyesinde barındırıyor.
+Yakılan her parti için sağladığınız tokenlar (vXEN veya YSL) kalıcı olarak dolaşımdan kaldırılır. Yakma ücretinizin %70'ı XNF'in satın alma ve yakma mekanizmaları aracılığıyla protokole ait likidite oluşturmak için kullanılır, %25'u veXNF sahipleri arasında yerel ödüller olarak dağıtılır ve geri kalan %5'u Xenify ekibine gönderilir. Bu yakma mekanizması, XEN ve YSL tokenlarının dolaşımdaki arzını basitçe azaltmanın ötesine geçiyor; Ekosistemimizin büyümesini desteklerken ve aktif katılımcıları ödüllendirirken YSL ve daha geniş XEN topluluklarını tüm zincirlerde birleştiren stratejik bir yaklaşımı bünyesinde barındırıyor.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -904,7 +904,7 @@ Xenify'ın yenilikçi kilitleme modeli, kullanıcıların XNF tokenlarını kili
 
 Xenify, yalnızca zincirler arası işlemleri basitleştirmekle kalmayıp aynı zamanda kullanıcılarını ödüllendiren ve ekosisteminin genişlemesini sağlayan çığır açan bir token takas çözümü sunmaktadır. Xenify, her token takasında %0,5 ücret alarak üç önemli hedefe ulaşabiliyor: platform kullanıcılarını XNF tokenlarıyla ödüllendirmek, veXNF sahiplerine yerel ödüller sağlamak ve protokolün sürekli gelişimini sağlamak.
 
-Şu şekilde çalışır: Bir kullanıcı Xenify'da token takası başlattığında isteğe bağlı %0,5 takas ücreti ödemeyi seçebilir. Bu ücret, gelecekteki büyümeyi teşvik etmek ve kullanıcı katılımını teşvik etmek için stratejik olarak tahsis edilir. XNF'nin konuşlandırıldığı zincirlerde, takas ücretinin %60'ı, XNF'in satın alma ve yakma mekanizmaları yoluyla protokole ait likiditenin çoğaltılması için kullanılacak, %30'u veXNF sahipleri arasında yerel ödüller olarak dağıtılacak ve geri kalan 10'u da dağıtılacak. Ekip tarafından Xenify'ın devam eden gelişimini desteklemek için kullanılan yüzde.
+Şu şekilde çalışır: Bir kullanıcı Xenify'da token takası başlattığında isteğe bağlı %0,5 takas ücreti ödemeyi seçebilir. Bu ücret, gelecekteki büyümeyi teşvik etmek ve kullanıcı katılımını teşvik etmek için stratejik olarak tahsis edilir. XNF'nin konuşlandırıldığı zincirlerde, takas ücretinin %70'ı, XNF'in satın alma ve yakma mekanizmaları yoluyla protokole ait likiditenin çoğaltılması için kullanılacak, %25'u veXNF sahipleri arasında yerel ödüller olarak dağıtılacak ve geri kalan %5'u da dağıtılacak. Ekip tarafından Xenify'ın devam eden gelişimini desteklemek için kullanılan yüzde.
 
 XNF'in kullanıldığı zincirlerde nominal %0,5 takas ücretini ödeyerek, yalnızca işleminizi hızlandırmakla kalmaz, aynı zamanda protokolün günlük darphane döngüsünden bir XNF tahsisini de güvence altına alırsınız. Bu XNF tokenleri 1 yıl süreyle kilitlenir ve takas katılımcıları arasında veXNF olarak dağıtılır. Bu benzersiz ERC-721 değiştirilemez token (NFT), kilitleme süresinin sonunda geri çekilebilecek olan XNF varlıklarınızı temsil edecektir.
 
@@ -1415,7 +1415,7 @@ $$
 
 <br>
 
-Yakma ücreti alındıktan sonra %60'ı, XNF'in satın alma ve yakma mekaniği aracılığıyla protokole ait likidite oluşturmak için kullanılır. Ayrıca bu ücretin %30'u döngü sonunda veXNF sahiplerine dağıtılmak üzere ayrılırken, kalan %10'u takım alır. Ödüllerinizden indirimli miktar olan 0,5025 ETH tahsis edilir, %90'ı (0,45225 ETH) aynı yakma mekaniği aracılığıyla XNF'nin protokole ait likiditesine katkıda bulunur ve %10'u (0,05025 ETH) Xenify ekibine gider. 100 toplu yanmaya katkıda bulunarak döngünün sonunda XNF alırsınız. Üstelik ödülleri döngünün ilk saatinde geri dönüştürerek %25 talep ücretinden tahakkuk eden ETH'nin bir kısmını kazanırsınız.
+Yakma ücreti alındıktan sonra %70'ı, XNF'in satın alma ve yakma mekaniği aracılığıyla protokole ait likidite oluşturmak için kullanılır. Ayrıca bu ücretin %25'u döngü sonunda veXNF sahiplerine dağıtılmak üzere ayrılırken, kalan %5'u takım alır. Ödüllerinizden indirimli miktar olan 0,5025 ETH tahsis edilir, %90'ı (0,45225 ETH) aynı yakma mekaniği aracılığıyla XNF'nin protokole ait likiditesine katkıda bulunur ve %10'u (0,05025 ETH) Xenify ekibine gider. 100 toplu yanmaya katkıda bulunarak döngünün sonunda XNF alırsınız. Üstelik ödülleri döngünün ilk saatinde geri dönüştürerek %25 talep ücretinden tahakkuk eden ETH'nin bir kısmını kazanırsınız.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1435,8 +1435,8 @@ Yakma ücretlerinden, takas ücretlerinden ve yerel ücretlerden elde edilen öd
 
 <p align="center" dir="auto">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/e046f911-b687-4505-b2e0-afeb4be6adc8" class="source-light">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/a99a16c1-770a-456c-b845-2979ecb669a4" class="source-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/89b4aeab-ab5d-42d7-b55b-86c3076bfa9d" class="source-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xenify-io/litepaper/assets/66044824/cb33578b-f8ec-482c-a38c-44a93d1807ce" class="source-dark">
     <img alt="Xenify" src="https://github.com/xenify-io/litepaper/assets/60996729/aff23b45-7f6f-419a-bb6d-3f4828880f0f" style="visibility:visible;max-width:100%;">
   </picture>
 </p>
@@ -1583,7 +1583,7 @@ Xenify, özellikleri ve potansiyeli hakkında sorularınız olabileceğini biliy
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ XNF'nin ilk arzı var mı?
-  - Hayır, Xenify'ın başlangıç kaynağı yok ve XNF tokenlarının ön madenciliği yok. Bunun yerine protokol, kullanıcıları ekosisteme aktif katılımlarından dolayı günlük olarak ödüllendiriyor. Bu, vXEN veya YSL belirteçlerinin doğrudan yakılmasıyla yapılan yakma ücreti katkıları, yerel belirteç katkılarının yanı sıra Xenify toplayıcı aracılığıyla oluşturulan takas ücretleri gibi çeşitli katkılarla elde edilir. Özellikle desteklenen EVM zincirlerinde toplanan yakma ücretleri, takas ücretleri ve yerel ücretlerin %30'u günlük olarak veXNF sahiplerine yönlendiriliyor ve bu da önemli bir uzun vadeli kazanç potansiyeli sağlıyor.
+  - Hayır, Xenify'ın başlangıç kaynağı yok ve XNF tokenlarının ön madenciliği yok. Bunun yerine protokol, kullanıcıları ekosisteme aktif katılımlarından dolayı günlük olarak ödüllendiriyor. Bu, vXEN veya YSL belirteçlerinin doğrudan yakılmasıyla yapılan yakma ücreti katkıları, yerel belirteç katkılarının yanı sıra Xenify toplayıcı aracılığıyla oluşturulan takas ücretleri gibi çeşitli katkılarla elde edilir. Özellikle desteklenen EVM zincirlerinde toplanan yakma ücretleri, takas ücretleri ve yerel ücretlerin %25'u günlük olarak veXNF sahiplerine yönlendiriliyor ve bu da önemli bir uzun vadeli kazanç potansiyeli sağlıyor.
 
   - Bu adil dağıtım sistemini uygulayarak Xenify, tüm kullanıcılar için eşit bir oyun alanı yaratmayı ve tokenlerin birkaç erken benimseyicinin elinde toplanmasını önlemeyi amaçlamaktadır. Bunun yerine protokol, doğrudan somut ödüllere dönüştükleri için sürekli kullanıcı katılımının ve katkılarının önemini vurgulamaktadır. Bu yenilikçi yaklaşım, Xenify'ı topluluğuna değer veren ve onların ekosistemi şekillendirmeye katılımını aktif olarak teşvik eden bir platform olarak öne çıkarmaktadır.
 
@@ -1635,7 +1635,7 @@ Xenify, özellikleri ve potansiyeli hakkında sorularınız olabileceğini biliy
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ◽️ veXNF sahibi yoksa ödüllere ne olur?
-- Tüm kilitlerin süresinin dolması nedeniyle bir döngünün sonunda hiçbir veXNF sahibi yoksa, protokolün tasarımı, protokole ait likiditeyi artırmak için başlangıçta veXNF sahiplerine yönelik olan yerel ödüllerin %30'unu yeniden yönlendirir. Sonuç olarak tahsisin tamamı, söz konusu döngü için XNF'nin satın alma ve yakma mekanizmalarını kullanarak protokolün likiditesine katkıda bulunur.
+- Tüm kilitlerin süresinin dolması nedeniyle bir döngünün sonunda hiçbir veXNF sahibi yoksa, protokolün tasarımı, protokole ait likiditeyi artırmak için başlangıçta veXNF sahiplerine yönelik olan yerel ödüllerin %25'unu yeniden yönlendirir. Sonuç olarak tahsisin tamamı, söz konusu döngü için XNF'nin satın alma ve yakma mekanizmalarını kullanarak protokolün likiditesine katkıda bulunur.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
