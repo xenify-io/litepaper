@@ -1129,7 +1129,7 @@ Le protocole calcule votre part du XNF quotidien alloué aux contributions de fr
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
