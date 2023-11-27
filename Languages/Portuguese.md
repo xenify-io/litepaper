@@ -75,7 +75,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 - Metade do fornecimento diário de XNF é distribuído aos participantes dos leilões de queima diários, dividido igualmente entre os leilões de queima YSL e vXEN. Por exemplo, se 1 lote YSL e 10.000 lotes vXEN forem queimados em um ciclo, o usuário que queimou o único lote YSL receberia 25% do fornecimento diário de XNF, enquanto os queimadores vXEN dividiriam os 25% restantes com base em seu queimar contribuições.
 
-- No leilão de ETH, os participantes recebem 40% do fornecimento diário de XNF como recompensas veXNF, que ficam bloqueadas por um ano antes de se tornarem exigíveis. Essas recompensas, uma vez reivindicadas, aumentam o poder aquisitivo do participante para ganhos futuros de ETH. Os participantes do leilão de Swap recebem os 10% restantes do fornecimento de XNF como recompensas veXNF, sujeitos ao mesmo bloqueio exigível de um ano, aumentando seu poder de ganho ao reivindicar.
+- No leilão de ETH, os participantes recebem 45% do fornecimento diário de XNF como recompensas veXNF, que ficam bloqueadas por um ano antes de se tornarem exigíveis. Essas recompensas, uma vez reivindicadas, aumentam o poder aquisitivo do participante para ganhos futuros de ETH. Os participantes do leilão de Swap recebem os 5% restantes do fornecimento de XNF como recompensas veXNF, sujeitos ao mesmo bloqueio exigível de um ano, aumentando seu poder de ganho ao reivindicar.
 
 <br>
 
@@ -173,7 +173,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 <br>
 
-- XNF tem fornecimento máximo de 22,6 milhões de tokens. A distribuição ocorre por meio de quatro leilões diários. A cada dia, uma certa porcentagem dos tokens XNF é alocada aos participantes do leilão: 25% para o leilão de queima YSL e outros 25% para os participantes do leilão de queima vXEN. Além disso, 50% do fornecimento diário de XNF é reservado para recompensas veXNF, sendo essas recompensas bloqueadas por um ano antes da distribuição aos participantes do Leilão ETH (40%) e do Leilão de Swap (10%).
+- XNF tem fornecimento máximo de 22,6 milhões de tokens. A distribuição ocorre por meio de quatro leilões diários. A cada dia, uma certa porcentagem dos tokens XNF é alocada aos participantes do leilão: 25% para o leilão de queima YSL e outros 25% para os participantes do leilão de queima vXEN. Além disso, 50% do fornecimento diário de XNF é reservado para recompensas veXNF, sendo essas recompensas bloqueadas por um ano antes da distribuição aos participantes do Leilão ETH (45%) e do Leilão de Swap (5%).
 
 - Xenify emprega um cronograma agressivo de redução pela metade para sua distribuição de tokens. A primeira redução ocorre na marca dos 3 meses, seguida por outra aos 6 meses, e reduções subsequentes aos 12, 24 e 48 meses. Após essas cinco reduções iniciais, há três reduções adicionais, cada uma ocorrendo a cada 48 meses. Essa mecânica de redução pela metade foi projetada para reduzir gradualmente a distribuição diária de tokens XNF.
 
@@ -721,9 +721,9 @@ Com um fornecimento total limitado a 22,6 milhões de tokens XNF, estrategicamen
 
    - 10,500,000 XNF (50%) são distribuídos para queimar os participantes do leilão. Esta alocação será distribuída igualmente, com 50% reservados para queimadores vXEN e os 50% restantes para queimadores YSL. Caso não haja queimadores YSL durante um ciclo, toda a alocação diária de XNF designada para o leilão de queima será distribuída entre os queimadores vXEN e vice-versa.
     
-   - 8,400,000 XNF (40%) são distribuídos aos usuários que contribuem com tokens nativos para participar do leilão diário. Esses tokens XNF serão distribuídos entre os participantes na forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 9,450,000 XNF (45%) são distribuídos aos usuários que contribuem com tokens nativos para participar do leilão diário. Esses tokens XNF serão distribuídos entre os participantes na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
-   - 2,100,000 XNF (10%) são distribuídos aos usuários que participam de swaps em cadeias EVM suportadas. Esses tokens XNF serão distribuídos entre os participantes do swap na forma de veXNF, com um período de bloqueio associado de 1 ano.
+   - 1,050,000 XNF (5%) são distribuídos aos usuários que participam de swaps em cadeias EVM suportadas. Esses tokens XNF serão distribuídos entre os participantes do swap na forma de veXNF, com um período de bloqueio associado de 1 ano.
 
 - **100,000 XNF atribuídos para estabelecer o pool de liquidez Uniswap V3:** Para capacitar um ecossistema robusto, 100,000 XNF serão reservados para inicializar a liquidez de propriedade do protocolo no lançamento. Esta iniciativa permitirá que nossa comunidade negocie XNF perfeitamente desde o início. Para facilitar isso, a maioria das taxas geradas a partir da participação no primeiro dia (incluindo taxas de swap, taxas nativas e taxas de queima) serão utilizadas para estabelecer um pool de liquidez Uniswap V3 no final do ciclo.
 
@@ -858,7 +858,7 @@ Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do 
 
 O processo de cunhagem de XNF na Xenify foi meticulosamente estruturado para recompensar os utilizadores que se envolvem ativamente e contribuem para o crescimento do protocolo. Esta iniciativa assegura uma distribuição equitativa dos tokens XNF e promove um protocolo genuinamente descentralizado e orientado para a comunidade. O modelo de incentivos da Xenify é cuidadosamente elaborado, oferecendo recompensas proporcionais aos utilizadores que intensificam o seu envolvimento com a plataforma. Esta abordagem impulsiona uma maior participação, uma vez que os utilizadores podem adquirir tokens XNF recém-criados em relação à sua atividade na plataforma.
 
-A distribuição de tokens XNF segue ciclos de um dia, iniciando com um pool de recompensa de 20.000 tokens XNF. Esta alocação diária é dividida de quatro maneiras: 25% é distribuído aos usuários que queimam vXEN, 25% é distribuído aos usuários que queimam YSL, 40% é distribuído aos contribuintes de tokens nativos e os 10% restantes são distribuídos entre os contribuintes da taxa de troca da plataforma. Esta afetação diária estender-se-á igualmente a todas as outras cadeias de implementação futuras. Através da implementação de um modelo de redução pela metade, a quantidade diária de cunhagem diminui gradualmente, culminando na distribuição completa do total de 22,6 milhões de tokens XNF no mês 2461.
+A distribuição de tokens XNF segue ciclos de um dia, iniciando com um pool de recompensa de 20.000 tokens XNF. Esta alocação diária é dividida de quatro maneiras: 25% é distribuído aos usuários que queimam vXEN, 25% é distribuído aos usuários que queimam YSL, 45% é distribuído aos contribuintes de tokens nativos e os 5% restantes são distribuídos entre os contribuintes da taxa de troca da plataforma. Esta afetação diária estender-se-á igualmente a todas as outras cadeias de implementação futuras. Através da implementação de um modelo de redução pela metade, a quantidade diária de cunhagem diminui gradualmente, culminando na distribuição completa do total de 22,6 milhões de tokens XNF no mês 2461.
 
 Os usuários são ainda mais incentivados por meio do mecanismo de bloqueio do protocolo, que lhes permite acumular recompensas na forma de tokens nativos específicos da cadeia, como ETH no Arbitrum. Essas recompensas são geradas a partir de diversas atividades dentro do Xenify, especificamente de taxas de queima, taxas de swap e taxas nativas. Nosso modelo exclusivo de incentivo de três níveis incentiva os usuários a usar o Xenify para ganhar XNF, ao mesmo tempo que recompensa aqueles que bloqueiam seus tokens XNF para ganhar recompensas nativas. Isto funciona como um volante, impulsionando o crescimento a longo prazo da Xenify, ao mesmo tempo que cultiva um sistema de recompensa vibrante e sustentável que incentiva uma base de utilizadores cada vez maior.
 
@@ -1102,7 +1102,7 @@ $$
 
 ## ⚡️ Cenário 2: O utilizador queima-se durante a Hora-24 de um ciclo
 
-Agora, digamos que você decida queimar 10.000 lotes durante a última hora do ciclo diário no Arbitrum, onde o valor por lote é definido em 0,01 ETH. Tendo em conta que o Coeficiente de Lote (BC) durante a última hora de um ciclo é 0 e o Coeficiente de Tempo (TC) durante a última hora é 100%, o protocolo determinará a sua Taxa de Queima (BF) como 100 ETH.
+Agora, digamos que você decida queimar 10,000 lotes durante a última hora do ciclo diário no Arbitrum, onde o valor por lote é definido em 0.01 ETH. Tendo em conta que o Coeficiente de Lote (BC) durante a última hora de um ciclo é 0 e o Coeficiente de Tempo (TC) durante a última hora é 100%, o protocolo determinará a sua Taxa de Queima (BF) como 100 ETH.
 
 <br>
 
@@ -1112,15 +1112,15 @@ $$
 
 <br>
 
-A comparação destes cenários realça as vantagens da queima de lotes na primeira hora em relação à última hora. A poupança máxima de 75% só é possível se queimar 10.000 lotes durante a primeira hora do ciclo diário. Este mecanismo de taxa de queima ponderada pelo tempo atenua as práticas injustas e aumenta a equidade, recompensando os utilizadores que executam queimas maiores no início do ciclo com maiores descontos.
+A comparação destes cenários realça as vantagens da queima de lotes na primeira hora em relação à última hora. A poupança máxima de 75% só é possível se queimar 10,000 lotes durante a primeira hora do ciclo diário. Este mecanismo de taxa de queima ponderada pelo tempo atenua as práticas injustas e aumenta a equidade, recompensando os utilizadores que executam queimas maiores no início do ciclo com maiores descontos.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Distribuição do ciclo XNF
 
-A Xenify adota uma abordagem estratégica para alocar tokens XNF todos os dias, concentrando-se em recompensar quatro grupos principais de participantes nos ecossistemas de todas as cadeias EVM em que opera. Esses grupos são reconhecidos por meio de uma porcentagem predeterminada do total de tokens emitidos diariamente: 25% são concedidos aos usuários que queimam tokens vXEN, outros 25% para aqueles que queimam tokens YSL, uma parcela maior de 40% para contribuidores de tokens nativos e os 10% finais. para aqueles envolvidos em trocas de tokens.
+A Xenify adota uma abordagem estratégica para alocar tokens XNF todos os dias, concentrando-se em recompensar quatro grupos principais de participantes nos ecossistemas de todas as cadeias EVM em que opera. Esses grupos são reconhecidos por meio de uma porcentagem predeterminada do total de tokens emitidos diariamente: 25% são concedidos aos usuários que queimam tokens vXEN, outros 25% para aqueles que queimam tokens YSL, uma parcela maior de 45% para contribuidores de tokens nativos e os 5% finais. para aqueles envolvidos em trocas de tokens.
 
-Por exemplo, com um volume diário de cunhagem de 20.000 tokens XNF, a distribuição não é dividida igualmente por padrão, dadas as designações de porcentagem variável. Consequentemente, os queimadores de tokens vXEN e os queimadores de tokens YSL garantem, cada um, 5.000 tokens XNF, representando suas respectivas ações de 25%. Os contribuidores de tokens nativos recebem 8.000 tokens XNF, correspondendo a uma alocação de 40%, enquanto os participantes do swap recebem uma parte de 2.000 tokens XNF, perfazendo os 10% restantes. Este processo sistemático de distribuição é uniforme em todas as cadeias de EVM, garantindo recompensas justas e proporcionais para diversas atividades dos usuários.
+Por exemplo, com um volume diário de cunhagem de 20,000 tokens XNF, a distribuição não é dividida igualmente por padrão, dadas as designações de porcentagem variável. Consequentemente, os queimadores de tokens vXEN e os queimadores de tokens YSL garantem, cada um, 5,000 tokens XNF, representando suas respectivas ações de 25%. Os contribuidores de tokens nativos recebem 9,000 tokens XNF, correspondendo a uma alocação de 45%, enquanto os participantes do swap recebem uma parte de 1,000 tokens XNF, perfazendo os 5% restantes. Este processo sistemático de distribuição é uniforme em todas as cadeias de EVM, garantindo recompensas justas e proporcionais para diversas atividades dos usuários.
 
 Para determinar a parcela precisa de tokens XNF que cada usuário recebe diariamente, o protocolo realiza uma série de cálculos precisos que levam em consideração a contribuição individual do usuário para cada um dos grupos de atividades. Após a coleta de dados sobre as atividades do usuário, o protocolo calcula a quantidade merecida de tokens XNF para distribuição a cada participante. Este processo rigoroso garante uma distribuição justa, reconhecendo a participação ativa do usuário na queima de tokens, contribuições de tokens nativos e atividades de troca. Notavelmente, os tokens obtidos a partir de contribuições nativas e taxas de swap são fornecidos como veXNF, reforçando o envolvimento do usuário com benefícios adicionais.
 
