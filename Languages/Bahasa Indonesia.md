@@ -1129,7 +1129,7 @@ Protokol menghitung bagian Anda dari XNF harian yang dialokasikan untuk kontribu
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
@@ -1191,7 +1191,7 @@ Demikian pula, protokol menghitung alokasi swap (SA) Anda untuk sebuah siklus, d
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1228,7 +1228,7 @@ Dengan menggunakan logika yang sama, protokol akan menghitung bagian Anda dari a
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
