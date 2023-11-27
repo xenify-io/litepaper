@@ -75,7 +75,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 - Một nửa nguồn cung cấp XNF hàng ngày được phân phối cho những người tham gia phiên đấu giá đốt hàng ngày, chia đều cho Phiên đấu giá đốt YSL và vXEN. Ví dụ: nếu 1 lô YSL và 10.000 lô vXEN được đốt trong một chu kỳ, người dùng đốt một lô YSL sẽ nhận được đầy đủ 25% nguồn cung XNF hàng ngày, trong khi các ổ ghi vXEN sẽ chia 25% còn lại dựa trên đốt những đóng góp.
 
-- Trong phiên đấu giá ETH, người tham gia nhận được 40% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF, phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Những phần thưởng này, sau khi được nhận, sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Những người tham gia phiên đấu giá Hoán đổi được trao 10% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF, tuân theo cùng mức khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
+- Trong phiên đấu giá ETH, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF, phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Những phần thưởng này, sau khi được nhận, sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Những người tham gia phiên đấu giá Hoán đổi được trao 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF, tuân theo cùng mức khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
 
 <br>
 
@@ -173,7 +173,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 <br>
 
-- XNF có nguồn cung tối đa 22,6 triệu token. Việc phân phối diễn ra thông qua bốn phiên đấu giá hàng ngày. Mỗi ngày, một tỷ lệ phần trăm nhất định của mã thông báo XNF được phân bổ cho những người tham gia đấu giá: 25% cho Phiên đấu giá ghi YSL và 25% khác cho những người tham gia Phiên đấu giá ghi vXEN. Ngoài ra, 50% nguồn cung XNF hàng ngày được dành riêng cho phần thưởng veXNF, với những phần thưởng này sẽ bị khóa trong một năm trước khi phân phối cho những người tham gia Đấu giá ETH (40%) và Đấu giá hoán đổi (10%).
+- XNF có nguồn cung tối đa 22,6 triệu token. Việc phân phối diễn ra thông qua bốn phiên đấu giá hàng ngày. Mỗi ngày, một tỷ lệ phần trăm nhất định của mã thông báo XNF được phân bổ cho những người tham gia đấu giá: 25% cho Phiên đấu giá ghi YSL và 25% khác cho những người tham gia Phiên đấu giá ghi vXEN. Ngoài ra, 50% nguồn cung XNF hàng ngày được dành riêng cho phần thưởng veXNF, với những phần thưởng này sẽ bị khóa trong một năm trước khi phân phối cho những người tham gia Đấu giá ETH (45%) và Đấu giá hoán đổi (5%).
 
 - Xenify áp dụng lịch trình giảm một nửa tích cực để phân phối mã thông báo của mình. Lần giảm đầu tiên diễn ra ở mốc 3 tháng, tiếp theo là lần giảm khác vào lúc 6 tháng và các lần giảm một nửa tiếp theo ở mức 12, 24 và 48 tháng. Sau năm lần giảm một nửa đầu tiên này, có ba lần giảm bổ sung, mỗi lần xảy ra sau mỗi 48 tháng. Cơ chế giảm một nửa này được thiết kế để giảm dần việc phân phối mã thông báo XNF hàng ngày.
 
@@ -721,9 +721,9 @@ Với tổng nguồn cung giới hạn ở mức 22,6 triệu mã thông báo XN
 
 - 10,500,000 XNF (50%) được phân phối để đốt những người tham gia đấu giá. Việc phân bổ này sẽ được phân bổ đồng đều, với 50% dành cho đầu đốt vXEN và 50% còn lại cho đầu đốt YSL. Trong trường hợp không có ổ ghi YSL trong một chu kỳ, toàn bộ phân bổ XNF hàng ngày được chỉ định cho phiên đấu giá đốt sẽ được phân phối giữa các ổ ghi vXEN và ngược lại.
     
-- 8,400,000 XNF (40%) được phân phối cho người dùng đóng góp mã thông báo gốc để tham gia đấu giá hàng ngày. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia dưới dạng veXNF , với thời gian khóa liên quan là 1 năm.
+- 9,450,000 XNF (45%) được phân phối cho người dùng đóng góp mã thông báo gốc để tham gia đấu giá hàng ngày. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia dưới dạng veXNF , với thời gian khóa liên quan là 1 năm.
 
-- 2,100,000 XNF (10%) được phân phối cho người dùng tham gia hoán đổi trên chuỗi EVM được hỗ trợ. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia trao đổi dưới dạng veXNF , với thời hạn khóa liên quan là 1 năm.
+- 1,050,000 XNF (5%) được phân phối cho người dùng tham gia hoán đổi trên chuỗi EVM được hỗ trợ. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia trao đổi dưới dạng veXNF , với thời hạn khóa liên quan là 1 năm.
 
 - **100,000 XNF được chỉ định để thiết lập nhóm thanh khoản Uniswap V3:** Để hỗ trợ một hệ sinh thái mạnh mẽ, 100,000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap khi ra mắt. Sáng kiến này sẽ cho phép cộng đồng của chúng tôi giao dịch XNF một cách liền mạch ngay từ đầu. Để tạo điều kiện thuận lợi cho việc này, phần lớn phí được tạo ra từ việc tham gia ngày đầu tiên (bao gồm phí hoán đổi, phí gốc và phí đốt) sẽ được sử dụng để thiết lập nhóm thanh khoản Uniswap V3 vào cuối chu kỳ.
 
@@ -858,7 +858,7 @@ Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc 
 
 Quy trình khai thác XNF trong Xenify đã được cấu trúc tỉ mỉ để thưởng cho những người dùng tích cực tham gia và đóng góp vào sự phát triển của giao thức. Sáng kiến này đảm bảo phân phối công bằng các token XNF và thúc đẩy một giao thức phi tập trung thực sự và hướng đến cộng đồng. Mô hình khuyến khích của Xenify được xây dựng cẩn thận, mang lại phần thưởng tương xứng cho những người dùng tăng cường tương tác với nền tảng. Cách tiếp cận như vậy sẽ thúc đẩy sự tham gia nhiều hơn, khi người dùng có thể nhận được mã thông báo XNF mới được đúc tương ứng với hoạt động nền tảng của họ.
 
-Việc phân phối mã thông báo XNF tuân theo chu kỳ một ngày, bắt đầu với nhóm phần thưởng là 20.000 mã thông báo XNF. Việc phân bổ hàng ngày này được chia theo bốn cách: 25% được phân phối cho người dùng đốt vXEN , 25% được phân phối cho người dùng đốt YSL, 40% được phân phối cho những người đóng góp mã thông báo gốc và 10% còn lại được phân bổ cho những người đóng góp phí hoán đổi của nền tảng . Việc phân bổ hàng ngày này cũng sẽ mở rộng trên tất cả các chuỗi triển khai khác trong tương lai. Thông qua việc triển khai mô hình giảm một nửa, số lượng khai thác hàng ngày giảm dần, đỉnh điểm là việc phân phối hoàn toàn tổng số 22,6 triệu mã thông báo XNF vào tháng 2461.
+Việc phân phối mã thông báo XNF tuân theo chu kỳ một ngày, bắt đầu với nhóm phần thưởng là 20.000 mã thông báo XNF. Việc phân bổ hàng ngày này được chia theo bốn cách: 25% được phân phối cho người dùng đốt vXEN , 25% được phân phối cho người dùng đốt YSL, 45% được phân phối cho những người đóng góp mã thông báo gốc và 5% còn lại được phân bổ cho những người đóng góp phí hoán đổi của nền tảng . Việc phân bổ hàng ngày này cũng sẽ mở rộng trên tất cả các chuỗi triển khai khác trong tương lai. Thông qua việc triển khai mô hình giảm một nửa, số lượng khai thác hàng ngày giảm dần, đỉnh điểm là việc phân phối hoàn toàn tổng số 22,6 triệu mã thông báo XNF vào tháng 2461.
 
 Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa của giao thức, cho phép họ tích lũy phần thưởng dưới dạng mã thông báo gốc dành riêng cho chuỗi, chẳng hạn như ETH trên Arbitrum. Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify, đặc biệt là từ phí ghi, phí hoán đổi và phí gốc. Mô hình khuyến khích ba tầng độc đáo của chúng tôi khuyến khích người dùng sử dụng Xenify để kiếm XNF, đồng thời thưởng cho những người khóa mã thông báo XNF của họ để kiếm phần thưởng gốc. Điều này hoạt động như một bánh đà, thúc đẩy sự phát triển lâu dài của Xenify đồng thời nuôi dưỡng một hệ thống khen thưởng sôi động và bền vững nhằm khuyến khích cơ sở người dùng ngày càng phát triển.
 
@@ -1102,7 +1102,7 @@ $$
 
 ## ⚡️ Kịch bản 2: Người dùng bị bỏng trong Giờ-24 của chu kỳ
 
-Bây giờ, giả sử bạn quyết định ghi 10.000 lô trong giờ cuối cùng của chu kỳ hàng ngày trên Arbitrum , trong đó giá trị mỗi lô được đặt là 0,01 ETH. Có tính đến Hệ số hàng loạt (BC) trong giờ cuối cùng của chu kỳ là 0 và Hệ số thời gian (TC) trong giờ cuối cùng là 100%, giao thức sẽ xác định Phí ghi (BF) của bạn là 100 ETH.
+Bây giờ, giả sử bạn quyết định ghi 10,000 lô trong giờ cuối cùng của chu kỳ hàng ngày trên Arbitrum , trong đó giá trị mỗi lô được đặt là 0.01 ETH. Có tính đến Hệ số hàng loạt (BC) trong giờ cuối cùng của chu kỳ là 0 và Hệ số thời gian (TC) trong giờ cuối cùng là 100%, giao thức sẽ xác định Phí ghi (BF) của bạn là 100 ETH.
 
 <br>
 
@@ -1112,15 +1112,15 @@ $$
 
 <br>
 
-So sánh các kịch bản này nêu bật lợi ích của việc ghi lô trong giờ đầu tiên so với giờ cuối cùng. Bạn chỉ có thể tiết kiệm tối đa 75% nếu bạn đốt 10.000 mẻ trong giờ đầu tiên của chu kỳ hàng ngày. Cơ chế tính phí ghi theo thời gian này giúp giảm thiểu các hành vi không công bằng và nâng cao tính công bằng, thưởng cho những người dùng thực hiện đốt lớn hơn sớm hơn trong chu kỳ với mức chiết khấu cao hơn.
+So sánh các kịch bản này nêu bật lợi ích của việc ghi lô trong giờ đầu tiên so với giờ cuối cùng. Bạn chỉ có thể tiết kiệm tối đa 75% nếu bạn đốt 10,000 mẻ trong giờ đầu tiên của chu kỳ hàng ngày. Cơ chế tính phí ghi theo thời gian này giúp giảm thiểu các hành vi không công bằng và nâng cao tính công bằng, thưởng cho những người dùng thực hiện đốt lớn hơn sớm hơn trong chu kỳ với mức chiết khấu cao hơn.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⭐️ Phân phối chu kỳ XNF
 
-Xenify áp dụng cách tiếp cận chiến lược để phân bổ mã thông báo XNF mỗi ngày, tập trung vào việc khen thưởng bốn nhóm người tham gia chính trong hệ sinh thái của tất cả các chuỗi EVM mà nó hoạt động. Các nhóm này được công nhận thông qua tỷ lệ phần trăm được xác định trước trong tổng số mã thông báo được đúc hàng ngày: 25% được cấp cho người dùng đốt mã thông báo vXEN, 25% khác cho những người đốt mã thông báo YSL, chia sẻ lớn hơn 40% cho những người đóng góp mã thông báo gốc và 10% cuối cùng. cho những người tham gia vào việc hoán đổi token.
+Xenify áp dụng cách tiếp cận chiến lược để phân bổ mã thông báo XNF mỗi ngày, tập trung vào việc khen thưởng bốn nhóm người tham gia chính trong hệ sinh thái của tất cả các chuỗi EVM mà nó hoạt động. Các nhóm này được công nhận thông qua tỷ lệ phần trăm được xác định trước trong tổng số mã thông báo được đúc hàng ngày: 25% được cấp cho người dùng đốt mã thông báo vXEN, 25% khác cho những người đốt mã thông báo YSL, chia sẻ lớn hơn 45% cho những người đóng góp mã thông báo gốc và 5% cuối cùng. cho những người tham gia vào việc hoán đổi token.
 
-Ví dụ: với khối lượng đúc hàng ngày là 20.000 mã thông báo XNF, việc phân bổ không được chia đều theo mặc định, do có các chỉ định phần trăm thay đổi. Do đó, mỗi công cụ ghi mã thông báo vXEN và công cụ ghi mã thông báo YSL đảm bảo 5.000 mã thông báo XNF, chiếm 25% cổ phần tương ứng của chúng. Những người đóng góp mã thông báo gốc được phân bổ 8.000 mã thông báo XNF, tương ứng với phân bổ 40%, trong khi những người tham gia trao đổi được chia sẻ 2.000 mã thông báo XNF, chiếm 10% còn lại. Quá trình phân phối có hệ thống này được thống nhất trên tất cả các chuỗi EVM, đảm bảo phần thưởng công bằng và tương xứng cho các hoạt động khác nhau của người dùng.
+Ví dụ: với khối lượng đúc hàng ngày là 20,000 mã thông báo XNF, việc phân bổ không được chia đều theo mặc định, do có các chỉ định phần trăm thay đổi. Do đó, mỗi công cụ ghi mã thông báo vXEN và công cụ ghi mã thông báo YSL đảm bảo 5,000 mã thông báo XNF, chiếm 25% cổ phần tương ứng của chúng. Những người đóng góp mã thông báo gốc được phân bổ 9,000 mã thông báo XNF, tương ứng với phân bổ 45%, trong khi những người tham gia trao đổi được chia sẻ 1,000 mã thông báo XNF, chiếm 5% còn lại. Quá trình phân phối có hệ thống này được thống nhất trên tất cả các chuỗi EVM, đảm bảo phần thưởng công bằng và tương xứng cho các hoạt động khác nhau của người dùng.
 
 Để xác định tỷ lệ chia sẻ chính xác của mã thông báo XNF mà mỗi người dùng nhận được từ hoạt động đúc tiền hàng ngày, giao thức sẽ tiến hành một loạt các phép tính chính xác tính đến đóng góp của cá nhân người dùng cho từng nhóm hoạt động. Sau khi thu thập dữ liệu về hoạt động của người dùng, giao thức sẽ tính toán số lượng token XNF xứng đáng để phân phối cho mỗi người tham gia. Quy trình nghiêm ngặt này đảm bảo sự phân phối công bằng bằng cách thừa nhận sự tham gia tích cực của người dùng vào việc đốt mã thông báo, đóng góp mã thông báo gốc và các hoạt động hoán đổi. Đáng chú ý, mã thông báo kiếm được từ đóng góp gốc và phí hoán đổi được cung cấp dưới dạng veXNF, củng cố sự tương tác của người dùng với các lợi ích bổ sung.
 
