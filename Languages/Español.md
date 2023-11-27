@@ -1129,7 +1129,7 @@ El protocolo calcula tu parte del XNF diario asignado a las contribuciones de la
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
@@ -1191,7 +1191,7 @@ Del mismo modo, el protocolo calcula su asignación de intercambio (SA) para un 
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-El proceso para calcular la participación de cada usuario en tokens XNF para actividades de intercambio es meticuloso e implica varios pasos. Primero, el protocolo determina la asignación total para los participantes del swap, que es el 10% del total de tokens XNF distribuidos diariamente. Esta asignación se alinea con la política que asigna el 10% de todos los tokens XNF acuñados diariamente específicamente para usuarios que realizan intercambios.
+El proceso para calcular la participación de cada usuario en tokens XNF para actividades de intercambio es meticuloso e implica varios pasos. Primero, el protocolo determina la asignación total para los participantes del swap, que es el 5% del total de tokens XNF distribuidos diariamente.
 
 Después de reservar la asignación total del swap, el protocolo cuantifica la contribución individual de cada usuario. Compara las tarifas de swap (USF) pagadas por el usuario con el total de las tarifas de swap (TS) cobradas de todos los usuarios. El monto de la tarifa de intercambio del usuario se divide por las tarifas de intercambio totales para calcular su índice de contribución. Este paso es crucial para garantizar que los tokens distribuidos a cada usuario sean proporcionales a su participación específica.
 
@@ -1228,7 +1228,7 @@ Utilizando una lógica similar, el protocolo calculará tu parte de la asignaci�
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
