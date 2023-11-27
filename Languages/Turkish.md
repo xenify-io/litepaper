@@ -1129,7 +1129,7 @@ Protokol, dağıtılan toplam XNF tokenlerini (TD), döngü sırasında yakılan
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
@@ -1191,7 +1191,7 @@ Benzer şekilde, protokol, döngü için dağıtılması planlanan toplam XNF to
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-Takas faaliyetleri için her kullanıcının XNF token payını hesaplama süreci titizdir ve birkaç adım içerir. İlk olarak protokol, günlük olarak dağıtılan toplam XNF tokenlerinin %10'u olan takas katılımcıları için toplam tahsisi belirler. Bu tahsis, günlük olarak basılan tüm XNF tokenlarının %10'unun özellikle takas yapan kullanıcılar için tahsis edildiği politikayla uyumludur.
+Takas faaliyetleri için her kullanıcının XNF token payını hesaplama süreci titizdir ve birkaç adım içerir. İlk olarak protokol, günlük olarak dağıtılan toplam XNF tokenlarının %5'i olan takas katılımcıları için toplam tahsisi belirler.
 
 Toplam takas tahsisi bir kenara bırakıldıktan sonra protokol, her kullanıcının bireysel katkısını ölçer. Kullanıcının ödediği takas ücretlerini (USF), tüm kullanıcılardan toplanan toplam takas ücretleriyle (TS) karşılaştırır. Kullanıcının swap ücreti tutarı, toplam swap ücretine bölünerek katkı payı oranı hesaplanır. Bu adım, her kullanıcıya dağıtılan tokenlerin onların özel katılımlarıyla orantılı olmasını sağlamak için çok önemlidir.
 
@@ -1228,7 +1228,7 @@ Benzer bir mantık kullanan protokol, döngü için dağıtılması planlanan to
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
