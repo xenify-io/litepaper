@@ -1129,7 +1129,7 @@ Giao thức tính toán phần XNF hàng ngày của bạn được phân bổ c
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
@@ -1191,7 +1191,7 @@ Tương tự, giao thức tính toán phân bổ hoán đổi (SA) của bạn c
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-Quá trình tính toán phần chia sẻ token XNF của mỗi người dùng cho các hoạt động hoán đổi rất tỉ mỉ và bao gồm một số bước. Đầu tiên, giao thức xác định tổng phân bổ cho những người tham gia trao đổi, chiếm 10% tổng số mã thông báo XNF được phân phối hàng ngày. Việc phân bổ này phù hợp với chính sách dành riêng 10% tổng số token XNF được đúc hàng ngày dành riêng cho người dùng thực hiện giao dịch hoán đổi.
+Quá trình tính toán phần chia sẻ token XNF của mỗi người dùng cho các hoạt động hoán đổi rất tỉ mỉ và bao gồm một số bước. Đầu tiên, giao thức xác định tổng phân bổ cho những người tham gia trao đổi, chiếm 5% tổng số mã thông báo XNF được phân phối hàng ngày.
 
 Sau khi dành tổng phân bổ hoán đổi, giao thức sẽ định lượng mức đóng góp của từng người dùng. Nó so sánh phí hoán đổi đã trả (USF) của người dùng với tổng phí hoán đổi (TS) được thu từ tất cả người dùng. Số tiền phí hoán đổi của người dùng được chia cho tổng phí hoán đổi để tính tỷ lệ đóng góp của họ. Bước này rất quan trọng để đảm bảo rằng số token được phân phối cho mỗi người dùng tỷ lệ thuận với mức độ tham gia cụ thể của họ.
 
@@ -1228,7 +1228,7 @@ Bằng cách sử dụng logic tương tự, giao thức sẽ tính toán phần
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
