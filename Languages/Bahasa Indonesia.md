@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-Proses penghitungan bagian token XNF setiap pengguna untuk aktivitas pertukaran sangat teliti dan melibatkan beberapa langkah. Pertama, protokol menentukan total alokasi peserta swap, yaitu 10% dari total token XNF yang didistribusikan setiap hari. Alokasi ini sejalan dengan kebijakan yang mengalokasikan 10% dari seluruh token XNF yang dicetak setiap hari khusus untuk pengguna yang melakukan pertukaran.
+Proses penghitungan bagian token XNF setiap pengguna untuk aktivitas pertukaran sangat teliti dan melibatkan beberapa langkah. Pertama, protokol menentukan total alokasi peserta swap, yaitu 5% dari total token XNF yang didistribusikan setiap hari.
 
 Setelah mengesampingkan total alokasi swap, protokol menghitung kontribusi individu setiap pengguna. Ini membandingkan biaya swap yang dibayarkan pengguna (USF) dengan total biaya swap (TS) yang dikumpulkan dari semua pengguna. Jumlah biaya swap pengguna dibagi dengan total biaya swap untuk menghitung rasio kontribusi mereka. Langkah ini penting untuk memastikan bahwa token yang didistribusikan ke setiap pengguna sebanding dengan keterlibatan spesifik mereka.
 
