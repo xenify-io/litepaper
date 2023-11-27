@@ -1191,7 +1191,7 @@ De même, le protocole calcule votre allocation de swap (SA) pour un cycle, en p
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-Le processus de calcul de la part de jetons XNF de chaque utilisateur pour les activités d'échange est méticuleux et comporte plusieurs étapes. Premièrement, le protocole détermine l'allocation totale pour les participants au swap, qui représente 10% du total des jetons XNF distribués quotidiennement. Cette allocation est conforme à la politique qui réserve 10% de tous les jetons XNF émis quotidiennement spécifiquement aux utilisateurs qui effectuent des échanges.
+Le processus de calcul de la part de jetons XNF de chaque utilisateur pour les activités d'échange est méticuleux et comporte plusieurs étapes. Premièrement, le protocole détermine l'allocation totale pour les participants au swap, qui représente 5 % du total des jetons XNF distribués quotidiennement.
 
 Après avoir mis de côté l’allocation totale de swap, le protocole quantifie la contribution individuelle de chaque utilisateur. Il compare les frais de swap payés par l'utilisateur (USF) au total des frais de swap (TS) collectés auprès de tous les utilisateurs. Le montant des frais de swap de l'utilisateur est divisé par le total des frais de swap pour calculer son ratio de contribution. Cette étape est cruciale pour garantir que les tokens distribués à chaque utilisateur sont proportionnels à son implication spécifique.
 
@@ -1228,7 +1228,7 @@ Utilisant une logique similaire, le protocole calculera votre part de l'allocati
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
