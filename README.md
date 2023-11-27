@@ -1129,7 +1129,7 @@ The protocol calculates your share of the daily XNF allocated to the vXEN burn f
 <br>
 
 $$
-XBA = (TD \times 10\\%) \times (BB \div TB)
+XBA = (TD \times 25\\%) \times (BB \div TB)
 $$
 
 <br>
@@ -1191,7 +1191,7 @@ Similarly, the protocol calculates your swap allocation (SA) for a cycle, by tak
 <br>
 
 $$
-SA = (TD \times 10\\%) \times (USF \div TSF)
+SA = (TD \times 5\\%) \times (USF \div TSF)
 $$
 
 <br>
@@ -1217,7 +1217,7 @@ $$
  
 <br>
 
-The process for calculating each user's share of XNF tokens for swap activities is meticulous and involves several steps. First, the protocol determines the total allocation for swap participants, which is 10% of the total XNF tokens distributed daily. This allocation aligns with the policy that earmarks 10% of all daily minted XNF tokens specifically for users who perform swaps.
+The process for calculating each user's share of XNF tokens for swap activities is meticulous and involves several steps. First, the protocol determines the total allocation for swap participants, which is 5% of the total XNF tokens distributed daily.
 
 After setting aside the total swap allocation, the protocol quantifies each user's individual contribution. It compares the user's paid swap fees (USF) against the total of swap fees (TS) collected from all users. The user's swap fee amount is divided by the total swap fees to calculate their contribution ratio. This step is crucial for ensuring that the tokens distributed to each user are proportional to their specific involvement.
 
@@ -1228,7 +1228,7 @@ Utilising a similar logic, the protocol will calculate your share of the native 
 <br>
 
 $$
-NA = (TD \times 10\\%) \times (UNC \div TNC)
+NA = (TD \times 45\\%) \times (UNC \div TNC)
 $$
 
 <br>
