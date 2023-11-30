@@ -71,9 +71,9 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Dalam lelang pembakaran harian di Arbitrum, peserta memiliki opsi untuk membakar vXEN dan YSL. Seorang pengguna dapat memilih untuk membakar 1 hingga 10.000 batch. Untuk memperoleh satu batch, pengguna memerlukan minimal 0,01 YSL atau 10.000.000 vXEN. Pada akhir siklus, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran, berdasarkan jumlah batch yang dibakar.
+- Dalam lelang pembakaran harian di Arbitrum, peserta memiliki opsi untuk membakar vXEN dan YSL. Seorang pengguna dapat memilih untuk membakar 1 hingga 10,000 batch. Untuk memperoleh satu batch, pengguna memerlukan minimal 0.01 YSL atau 10,000,000 vXEN. Pada akhir siklus, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran, berdasarkan jumlah batch yang dibakar.
 
-- Dalam lelang ETH harian, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF. Hadiah ini dikunci selama satu tahun sebelum dapat diklaim. Setelah diklaim, hadiah ini meningkatkan kekuatan penghasilan peserta untuk penghasilan ETH di masa depan. Biaya asli sebesar 0,01 ETH berlaku per batch untuk lelang burn dan ETH.
+- Dalam lelang ETH harian, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF. Hadiah ini dikunci selama satu tahun sebelum dapat diklaim. Setelah diklaim, hadiah ini meningkatkan kekuatan penghasilan peserta untuk penghasilan ETH di masa depan. Biaya asli sebesar 0.01 ETH berlaku per batch untuk lelang burn dan ETH.
 
 - Peserta lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF. Hadiah ini tunduk pada kunci klaim yang sama selama satu tahun, sehingga meningkatkan kekuatan penghasilannya setelah diklaim.
 
