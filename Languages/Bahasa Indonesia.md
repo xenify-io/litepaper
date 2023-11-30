@@ -71,11 +71,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Dalam lelang pembakaran harian di Arbitrum, peserta memiliki opsi untuk membakar vXEN dan YSL. Seorang pengguna dapat memilih untuk membakar 1 hingga 10,000 batch. Untuk memperoleh satu batch, pengguna memerlukan minimal 0.01 YSL atau 10,000,000 vXEN. Pada akhir siklus, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran, berdasarkan jumlah batch yang dibakar.
+- Dalam lelang pembakaran harian di Arbitrum, pengguna dapat membakar 1 hingga 10,000 batch. Setiap kumpulan pembakaran YSL sama dengan 0.1 YSL, dan setiap kumpulan pembakaran vXEN setara dengan 10,000,000 vXEN. Biaya asli sebesar 0.01 ETH berlaku per batch untuk lelang burn dan ETH.
 
-- Dalam lelang ETH harian, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF. Hadiah ini dikunci selama satu tahun sebelum dapat diklaim. Setelah diklaim, hadiah ini meningkatkan kekuatan penghasilan peserta untuk penghasilan ETH di masa depan. Biaya asli sebesar 0.01 ETH berlaku per batch untuk lelang burn dan ETH.
+- Setengah dari pasokan XNF harian didistribusikan kepada peserta lelang pembakaran harian, dibagi rata antara Lelang Pembakaran YSL dan vXEN. Misalnya, jika 1 batch YSL dan 10,000 batch vXEN dibakar dalam satu siklus, pengguna yang membakar satu batch YSL akan menerima 25% penuh dari pasokan XNF harian, sedangkan pembakar vXEN akan membagi 25% sisanya berdasarkan pada mereka membakar kontribusi.
 
-- Peserta lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF. Hadiah ini tunduk pada kunci klaim yang sama selama satu tahun, sehingga meningkatkan kekuatan penghasilannya setelah diklaim.
+- Dalam lelang ETH, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF, yang dikunci selama satu tahun sebelum dapat diklaim. Hadiah ini, setelah diklaim, akan meningkatkan kekuatan pendapatan peserta untuk pendapatan ETH di masa depan. Peserta dalam lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF, yang tunduk pada kunci klaim satu tahun yang sama, sehingga meningkatkan kekuatan penghasilan mereka saat melakukan klaim.
 
 <br>
 
