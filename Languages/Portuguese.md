@@ -71,11 +71,11 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 <br>
 
-- Nos leilões diários de queima do Arbitrum, os usuários podem queimar de 1 a 10.000 lotes. Cada lote de gravação YSL equivale a 0,1 YSL e cada lote de gravação vXEN equivale a 10.000.000 vXEN. Uma taxa nativa de 0,01 ETH se aplica por lote para leilões de queima e de ETH.
+- No leilão de queima diária no Arbitrum, os participantes têm a opção de queimar vXEN e YSL. Um usuário pode optar por gravar de 1 a 10,000 lotes. Para adquirir um único lote, o usuário precisará de no mínimo 0.01 YSL ou 10,000,000 vXEN. Ao final do ciclo, 50% do fornecimento de XNF é distribuído aos participantes do leilão de queima, com base na quantidade de lotes queimados.
 
-- Metade do fornecimento diário de XNF é distribuído aos participantes dos leilões de queima diários, dividido igualmente entre os leilões de queima YSL e vXEN. Por exemplo, se 1 lote YSL e 10.000 lotes vXEN forem queimados em um ciclo, o usuário que queimou o único lote YSL receberia 25% do fornecimento diário de XNF, enquanto os queimadores vXEN dividiriam os 25% restantes com base em seu queimar contribuições.
+- No leilão diário de ETH, os participantes recebem 45% do fornecimento diário de XNF como recompensas de veXNF. Essas recompensas ficam bloqueadas por um ano antes de serem exigíveis. Uma vez reivindicadas, essas recompensas aumentam o poder de ganho do participante para ganhos futuros de ETH. Uma taxa nativa de 0,01 ETH se aplica por lote tanto para os leilões de queima quanto para os leilões de ETH.
 
-- No leilão de ETH, os participantes recebem 45% do fornecimento diário de XNF como recompensas veXNF, que ficam bloqueadas por um ano antes de se tornarem exigíveis. Essas recompensas, uma vez reivindicadas, aumentam o poder aquisitivo do participante para ganhos futuros de ETH. Os participantes do leilão de Swap recebem os 5% restantes do fornecimento de XNF como recompensas veXNF, sujeitos ao mesmo bloqueio exigível de um ano, aumentando seu poder de ganho ao reivindicar.
+- Os participantes do leilão de Swap recebem os 5% restantes do fornecimento de XNF como recompensas veXNF. Essas recompensas estão sujeitas ao mesmo bloqueio exigível de um ano, aumentando seu poder de ganho no momento da reivindicação.
 
 <br>
 
