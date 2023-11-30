@@ -71,11 +71,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- En las subastas de quema diarias en Arbitrum, los usuarios pueden quemar de 1 a 10,000 lotes. Cada lote de grabación de YSL equivale a 0,1 YSL y cada lote de grabación de vXEN equivale a 10 000 000 de vXEN. Se aplica una tarifa nativa de 0,01 ETH por lote tanto para las subastas de quema como para las de ETH.
+- En la subasta de quema diaria en Arbitrum, los participantes tienen la opción de quemar vXEN e YSL. Un usuario puede optar por grabar entre 1 y 10.000 lotes. Para adquirir un solo lote, un usuario necesitará un mínimo de 0,01 YSL o 10.000.000 vXEN. Al final del ciclo, el 50% del suministro de XNF se distribuye a los participantes de la subasta de quema, en función de la cantidad de lotes quemados.
 
-- La mitad del suministro diario de XNF se distribuye a los participantes de las subastas de quema diarias, dividido en partes iguales entre las subastas de quema de YSL y vXEN. Por ejemplo, si se queman 1 lote de YSL y 10 000 lotes de vXEN en un ciclo, el usuario que quemó el único lote de YSL recibiría un 25% completo del suministro diario de XNF, mientras que los quemadores de vXEN dividirían el 25% restante en función de su quemar contribuciones.
+- En la subasta diaria de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF. Estas recompensas están bloqueadas durante un año antes de ser reclamables. Una vez reclamadas, estas recompensas aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Se aplica una tarifa nativa de 0,01 ETH por lote tanto para la subasta de quema como para la de ETH.
 
-- En la subasta de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF, que están bloqueadas durante un año antes de que sean reclamables. Estas recompensas, una vez reclamadas, aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Los participantes en la subasta de Swap reciben el 5% restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
+- Los participantes en la subasta Swap reciben el 5% restante del suministro de XNF como recompensas veXNF. Estas recompensas están sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al momento de reclamarlas.
 
 <br>
 
