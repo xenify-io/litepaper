@@ -71,11 +71,11 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- En la subasta de quema diaria en Arbitrum, los participantes tienen la opción de quemar vXEN e YSL. Un usuario puede optar por grabar entre 1 y 10,000 lotes. Para adquirir un solo lote, un usuario necesitará un mínimo de 0.01 YSL o 10,000,000 vXEN. Al final del ciclo, el 50% del suministro de XNF se distribuye a los participantes de la subasta de quema, en función de la cantidad de lotes quemados.
+- En la subasta de quema diaria en Arbitrum, los participantes tienen la opción de quemar vXEN e YSL. Un usuario puede optar por grabar entre 1 y 10,000 lotes. Para adquirir un solo lote, un usuario necesitará un mínimo de 0.01 YSL o 10,000,000 vXEN. Al final del ciclo, el 50% del suministro de XNF se distribuye a los participantes de la subasta de quema en función de la cantidad de lotes quemados.
 
-- En la subasta diaria de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF. Estas recompensas están bloqueadas durante un año antes de ser reclamables. Una vez reclamadas, estas recompensas aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Se aplica una tarifa nativa de 0.01 ETH por lote tanto para la subasta de quema como para la de ETH.
+- En la subasta diaria de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF, que están bloqueadas durante un año antes de que sean reclamables. Estas recompensas, una vez reclamadas, aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Se aplica una tarifa nativa de 0.01 ETH por lote tanto para las subastas de quema como para las de ETH.
 
-- Los participantes en la subasta Swap reciben el 5% restante del suministro de XNF como recompensas veXNF. Estas recompensas están sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al momento de reclamarlas.
+- Los participantes en la subasta de Swap reciben el 5% restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
 
 <br>
 
@@ -173,7 +173,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- XNF tiene un suministro máximo de 22,6 millones de tokens. La distribución se realiza a través de cuatro subastas diarias. Cada día, un cierto porcentaje de los tokens XNF se asigna a los participantes de la subasta: el 25% a la YSL Burn Auction y otro 25% a los participantes de la vXEN Burn Auction. Además, el 50% del suministro diario de XNF está reservado para recompensas veXNF, y estas recompensas se bloquean durante un año antes de su distribución a los participantes en la subasta ETH (45%) y la subasta Swap (5%).
+- XNF tiene un suministro máximo de 22,6 millones de tokens. La distribución se realiza a través de tres subastas diarias. Cada día, el 50% de los tokens XNF se asignan a los participantes de la subasta. Además, el 50 % del suministro diario de XNF está reservado para recompensas veXNF, y estas recompensas se bloquean durante un año antes de su distribución a los participantes en la subasta ETH (45 %) y la subasta Swap (5 %).
 
 - Xenify emplea un programa agresivo de reducción a la mitad para su distribución de tokens. La primera reducción se produce a los 3 meses, seguida de otra a los 6 meses y reducciones posteriores a la mitad a los 12, 24 y 48 meses. Después de estas cinco reducciones iniciales, hay tres reducciones adicionales, cada una de las cuales ocurre cada 48 meses. Esta mecánica de reducción a la mitad está diseñada para reducir gradualmente la distribución diaria de tokens XNF.
 
@@ -394,11 +394,13 @@ Xenify pone gran énfasis en la equidad y las inversiones a largo plazo. Creemos
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Subastas de quema diaria
+## ✨ Subastas diarias XNF
 
-- En las subastas de quema diarias organizadas en Arbitrum, los usuarios tienen la opción de quemar entre 1 y 10 000 lotes. Un único lote de grabación de YSL representa 0,1 YSL, mientras que un lote de grabación de vXEN corresponde a 10 000 000 de vXEN. Se aplica una tarifa nativa de 0,01 ETH por lote tanto en las subastas de quema como en las de ETH.
+- En la subasta de quema diaria en Arbitrum, los participantes tienen la opción de quemar vXEN e YSL. Un usuario puede optar por grabar entre 1 y 10.000 lotes. Para adquirir un solo lote, un usuario necesitará un mínimo de 0,01 YSL o 10.000.000 vXEN. Al final del ciclo, el 50% del suministro de XNF se distribuye a los participantes de la subasta de quema en función de la cantidad de lotes quemados.
 
-- Todos los días, el 50% del suministro de XNF se distribuye a los participantes en las subastas diarias. La distribución se distribuye equitativamente entre YSL Burn Auction y vXEN Burn Auction. Por ejemplo, si solo se quema 1 lote de YSL y se queman 10 000 lotes de vXEN en un ciclo determinado, el usuario que quemó el único lote de YSL recibiría el 25% completo del suministro diario de XNF, mientras que los quemadores de vXEN compartirían el otro 25% en función de sus respectivos lotes de quema.
+- En la subasta diaria de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF, que están bloqueadas durante un año antes de que sean reclamables. Estas recompensas, una vez reclamadas, aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Se aplica una tarifa nativa de 0,01 ETH por lote tanto para las subastas de quema como para las de ETH.
+
+- Los participantes en la subasta de Swap reciben el 5 % restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -719,7 +721,7 @@ Con una oferta total limitada a 22,6 millones de tokens XNF, divididos estratég
 
 - **21,000,000 XNF asignados para las subastas diarias:** Los usuarios que participen en diversas actividades que impulsen el desarrollo continuo del protocolo tendrán la oportunidad de ganar una parte de los tokens XNF dedicados a las subastas diarias.
 
-  - Se distribuyen 10,500,000 XNF (50%) entre los participantes en la subasta de quemadores. Esta asignación se distribuirá a partes iguales, reservando el 50% para los quemadores vXEN y el 50% restante para los quemadores YSL. En caso de que no haya quemadores YSL durante un ciclo, toda la asignación diaria de XNF designada para la subasta de quemados se distribuirá entre los quemadores vXEN, y viceversa.
+  - Se distribuyen 10.500.000 XNF (50%) a los participantes de la subasta de quema en función de la cantidad de lotes quemados durante cada ciclo.
     
   - Se distribuirán 9,450,000 XNF (45%) entre los usuarios que aporten tokens nativos para participar en la subasta diaria. Estos tokens XNF se distribuirán entre los participantes en forma de veXNF, con un periodo de bloqueo asociado de 1 año.
 
@@ -858,7 +860,7 @@ Al establecer una calle de sentido único, nuestro fondo de liquidez propiedad d
 
 El proceso de acuñación de XNF en Xenify se ha estructurado meticulosamente para recompensar a los usuarios que participan activamente y contribuyen al crecimiento del protocolo. Esta iniciativa garantiza una distribución equitativa de los tokens XNF y fomenta un protocolo genuinamente descentralizado e impulsado por la comunidad. El modelo de incentivos de Xenify está cuidadosamente diseñado, ofreciendo recompensas proporcionales a los usuarios que intensifican su compromiso con la plataforma. Este enfoque fomenta una mayor participación, ya que los usuarios pueden adquirir nuevos tokens XNF en función de su actividad en la plataforma.
 
-La distribución de los tokens XNF sigue ciclos de un día, iniciándose con un fondo de recompensa de 20.000 tokens XNF. Esta asignación diaria se divide en cuatro partes: el 25% se distribuye a los usuarios que queman vXEN, el 25% se distribuye a los usuarios que queman YSL, el 45% se distribuye a los contribuyentes de tokens nativos y el 5% restante se distribuye entre los contribuyentes de la comisión de intercambio de la plataforma. Este reparto diario se extenderá también a todas las demás cadenas de distribución futuras. A través de la implementación de un modelo de reducción a la mitad, la cantidad de acuñación diaria se reduce gradualmente, culminando en la distribución completa del total de 22,6 millones de tokens XNF en el mes 2461.
+La distribución de tokens XNF sigue ciclos de un día y comienza con un fondo de recompensa de 20.000 tokens XNF. Esta asignación diaria se divide de tres maneras: el 50% se distribuye a los usuarios que graban vXEN o YSL, el 45% se distribuye a los contribuyentes de tokens nativos y el 5% restante se distribuye entre los contribuyentes de la tarifa de intercambio de la plataforma. Esta asignación diaria también se extenderá a todas las demás cadenas de implementación futuras. Mediante la implementación de un modelo de reducción a la mitad, la cantidad diaria de acuñación se reduce gradualmente, culminando con la distribución completa del total de 22,6 millones de tokens XNF en el mes 2461.
 
 Los usuarios se ven aún más incentivados a través del mecanismo de bloqueo del protocolo, que les permite acumular recompensas en forma de tokens nativos específicos de la cadena, como ETH en Arbitrum. Estas recompensas se generan a partir de diversas actividades dentro de Xenify, específicamente de tarifas de quema, tarifas de intercambio y tarifas nativas. Nuestro exclusivo modelo de incentivos de tres niveles incita a los usuarios a usar Xenify para ganar XNF, al mismo tiempo que recompensa a quienes bloquean sus tokens XNF para ganar recompensas nativas. Esto opera como un volante, impulsando el crecimiento a largo plazo de Xenify mientras cultiva un sistema de recompensa vibrante y sostenible que incentiva una base de usuarios en constante crecimiento.
 
@@ -868,7 +870,7 @@ Los usuarios se ven aún más incentivados a través del mecanismo de bloqueo de
 
 Xenify permite a los usuarios quemar sin esfuerzo tokens vXEN o YSL directamente desde sus carteras para participar en el ciclo de quema diario. Para adquirir XNF con XEN, tendrá que pasar por un proceso de quema de su variante de token XEN a cambio de vXEN. Tenga en cuenta que la cantidad de vXEN necesaria por lote está fijada en 10.000.000 vXEN, sin embargo, la cantidad de XEN necesaria para obtener un lote variará en función del [relación de quemado](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-vxen---unificando-las-quemaduras) que se aplique a cada variante de XEN. Por ejemplo, si quieres participar en la subasta de quema de Xenify en Arbitrum, necesitarás un mínimo de 10.000.000 XEN para quemar (con un ratio de quema de 1:1), y a cambio recibirás 1 lote de vXEN (10.000.000 vXEN). Esta función de quema posiciona a nuestro protocolo como un actor clave en la capa 1 de quema de tokens XEN. Cada vez que queme sus fichas XEN, su dirección se registrará en el registro de grabación X1 y, a cambio, recibirá vXEN.
 
-Es esencial tener en cuenta que cuando decides quemar tus vXEN para participar en la subasta diaria de quema para una asignación de XNF, se aplica una Tarifa de Quema. Al final del ciclo, recibirá tokens XNF en función de la cantidad de lotes vXEN que haya quemado. Al igual que en el proceso de quema de vXEN, la quema de tokens YSL también conlleva una comisión de quema. La tasa de conversión para adquirir un lote durante el proceso de quema de YSL será fija, siendo 0,1 YSL equivalente a un lote. Al final del ciclo, recibirás tokens XNF en función de la cantidad de lotes YSL que hayas quemado.
+Es esencial tener en cuenta que cuando decide grabar su vXEN para participar en la subasta de grabación diaria para una asignación de XNF, se aplica una tarifa de grabación. De manera similar al proceso de grabación de vXEN, la grabación de sus tokens YSL también genera una tarifa de grabación. La tasa de conversión para adquirir un lote durante el proceso de grabación será fija, siendo un lote equivalente a 0,01 YSL o 10.000.000 vXEN. Al final del ciclo, recibirás tokens XNF según la cantidad total de lotes que quemaste.
 
 Independientemente de si opta por grabar vXEN o YSL, el valor por lote (VB) dependerá de la cadena específica que seleccione para la grabación. Este valor se establecerá en el momento del despliegue de Xenify y se basará dinámicamente en el precio actual del token nativo de la cadena. El valor acumulado de los lotes que queme desempeñará un papel directo en la determinación de la Tarifa de Quemado (BF) necesaria para ejecutar la función de quemado, garantizando un proceso transparente y sin fisuras para todos los participantes.
 
@@ -922,7 +924,7 @@ El protocolo Xenify permite a los usuarios quemar vXEN o tokens YSL para asegura
 
 La fórmula de la tasa de quema está diseñada para tener en cuenta varios factores, como el momento de la quema durante un ciclo, el número de lotes que se queman y su valor asociado. ¿Y lo mejor? Cuantos más lotes queme un usuario, mayor será el descuento del que disfrutará, con un descuento potencial de hasta el 75% para 10.000 lotes durante la primera hora de cada ciclo. Esto crea un incentivo convincente para que los usuarios realicen operaciones de quema más grandes al principio del ciclo.
 
-Ahora, se preguntará, ¿qué es exactamente un lote? Un lote representa un número fijo de fichas, ya sean vXEN o YSL, necesarias para participar en el proceso de grabación. En concreto, un único lote de vXEN equivale a 10.000.000 vXEN, mientras que un único lote de YSL equivale a 0,1 YSL.
+Ahora bien, quizás te preguntes, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o YSL, necesarios para participar en el proceso de grabación. En concreto, un único lote de vXEN equivale a 10,000,000 de vXEN, mientras que un único lote de YSL equivale a 0.01 YSL.
 
 Al implementar este factor en la fórmula de quema, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de lotes que queman. El valor por lote para una cadena se establece cuando se despliega Xenify, y se basará dinámicamente en el precio actual del token nativo de la cadena utilizando la fórmula siguiente:
 
@@ -1118,73 +1120,44 @@ La comparación de estos escenarios pone de manifiesto las ventajas de quemar lo
 
 ## ⭐️ XNF Distribución del ciclo
 
-Xenify adopta un enfoque estratégico para la asignación de tokens XNF todos los días, centrándose en recompensar a cuatro grupos de participantes clave dentro de los ecosistemas de todas las cadenas EVM en las que opera. Estos grupos se reconocen a través de un porcentaje predeterminado del total de tokens acuñados diariamente: el 25% se otorga a los usuarios que queman tokens vXEN, otro 25% a los que queman tokens YSL, una proporción mayor del 45% a los contribuyentes de tokens nativos y el 5% final. a aquellos involucrados en intercambios de tokens.
+enify adopta un enfoque estratégico para la asignación de tokens XNF todos los días, centrándose en recompensar a tres grupos de participantes clave dentro de los ecosistemas de todas las cadenas EVM en las que opera. Estos grupos se reconocen a través de un porcentaje predeterminado del total de tokens acuñados diariamente: el 50% se otorga a los usuarios que queman tokens vXEN o tokens YSL, el 45% a los contribuyentes de tokens nativos y el 5% final a aquellos involucrados en los intercambios de tokens.
 
-Por ejemplo, con un volumen de acuñación diario de 20.000 tokens XNF, la asignación no se divide equitativamente de forma predeterminada, dadas las designaciones de porcentajes variables. En consecuencia, los quemadores de tokens vXEN y YSL aseguran cada uno 5,000 tokens XNF, que representan sus respectivas acciones del 25%. Los contribuyentes de tokens nativos reciben 9,000 tokens XNF, lo que corresponde a una asignación del 45%, mientras que los participantes del swap reciben una parte de 1,000 tokens XNF, lo que constituye el 5% restante. Este proceso de distribución sistemático es uniforme en todas las cadenas de EVM, lo que garantiza recompensas justas y proporcionadas por las diversas actividades de los usuarios.
+Por ejemplo, con un volumen de acuñación diario de 20.000 tokens XNF, la asignación no se divide equitativamente de forma predeterminada, dadas las designaciones de porcentajes variables. En consecuencia, los quemadores de tokens vXEN e YSL aseguran 10,000 tokens XNF, lo que representa una participación del 50%. Los contribuyentes de tokens nativos reciben 9.000 tokens XNF, lo que corresponde a una asignación del 45%, mientras que los participantes del swap reciben una parte de 1.000 tokens XNF, lo que representa el 5% restante. Este proceso de distribución sistemático es uniforme en todas las cadenas de EVM, lo que garantiza recompensas justas y proporcionadas para las diversas actividades de los usuarios.
 
 Para determinar la proporción precisa de tokens XNF que cada usuario recibe de la menta diaria, el protocolo realiza una serie de cálculos precisos que tienen en cuenta la contribución individual del usuario a cada uno de los grupos de actividades. Tras la recopilación de datos sobre las actividades de los usuarios, el protocolo calcula la cantidad merecida de tokens XNF para distribuir a cada participante. Este riguroso proceso garantiza una distribución justa al reconocer la participación activa del usuario en la quema de tokens, las contribuciones de tokens nativos y las actividades de intercambio. En particular, los tokens obtenidos de contribuciones nativas y tarifas de intercambio se proporcionan como veXNF, lo que refuerza la participación del usuario con beneficios adicionales.
 
-El protocolo calcula tu parte del XNF diario asignado a las contribuciones de la tasa de quema vXEN, teniendo en cuenta el total de tokens XNF distribuidos (TD), el número total de lotes vXEN quemados durante el ciclo (TB) y el número de lotes vXEN que has quemado durante el ciclo (BB). A continuación se explica en detalle la fórmula para la asignación de vXEN quemados (XBA):
+El protocolo calcula su parte del XNF diario asignado a las contribuciones de la tarifa de quema, teniendo en cuenta el total de tokens XNF distribuidos (TD), el número total de lotes quemados durante el ciclo (TB) y el número de lotes que quemó durante el ciclo (BB). Aquí se explica en detalle la fórmula para la asignación de grabación (BA) de vXEN:
 
 <br>
 
 $$
-XBA = (TD \times 25\\%) \times (BB \div TB)
-$$
-
-<br>
-
-<table>
-    <tr>
-        <td><strong>XBA</strong><br>(Asignación de quemado)</td>
-        <td>La cantidad de XNF que obtiene un usuario específico en función de los lotes vXEN quemados durante un ciclo.</td>
-    </tr>
-    <tr>
-        <td><strong>TD</strong><br>(Total distribuido)</td>
-        <td>El número total de tokens XNF que se distribuyen entre los usuarios durante un ciclo específico.</td>
-    </tr>
-    <tr>
-        <td><strong>BB</strong><br>(Lotes quemados)</td>
-        <td>El número de lotes vXEN quemados durante un ciclo por el usuario específico cuya contribución a la quema se está calculando.</td>
-    </tr>
-    <tr>
-        <td><strong>TB</strong><br>(Total de lotes)</td>
-        <td>El número combinado de lotes vXEN quemados por todos los usuarios durante un ciclo.</td>
-    </tr>
-</table>
-
-<br>
-
-Así es como funciona: el protocolo calcula la asignación de grabación de vXEN (XBA) del usuario multiplicando primero el total de tokens XNF programados para distribuirse durante el ciclo (TD) por un 25%, ya que el 25% de la menta diaria de XNF se asigna a los participantes que quemar vXEN. Luego calcula la proporción de lotes de vXEN grabados por el usuario específico (BB) con respecto al total de lotes de vXEN grabados por todos los usuarios (TB), lo que da como resultado un valor por lote grabado. Finalmente, el protocolo multiplica estos valores para determinar la asignación de grabación de vXEN individual del usuario para ese ciclo (XBA). El cálculo de la asignación de quema de YSL (YBA) sigue la misma lógica que se describe en la siguiente fórmula:
-
-<br>
-
-$$
-YBA = (TD \times 25\\%) \times (BB \div TB)
+BA = (TD \times 50\\%) \times (BB \div TB)
 $$
 
 <br>
 
 <table>
     <tr>
-        <td><strong>YBA</strong><br>(Asignación de quemado)</td>
-        <td>La cantidad de XNF que obtiene un usuario específico en función de los lotes de YSL quemados durante un ciclo.</td>
+        <td><strong>BA</strong><br>(Asignación de grabación)</td>
+        <td>La cantidad de XNF que obtiene un usuario específico en función de los lotes quemados durante un ciclo.</td>
     </tr>
     <tr>
         <td><strong>TD</strong><br>(Total distribuido)</td>
         <td>El número total de tokens XNF que se distribuyen entre los usuarios durante un ciclo específico.</td>
     </tr>
     <tr>
-        <td><strong>BB</strong><br>(Lotes quemados)</td>
-        <td>El número de lotes YSL quemados durante un ciclo por el usuario específico cuya contribución a la quema se está calculando.</td>
+        <td><strong>BB</strong><br>(lotes quemados)</td>
+        <td>El número de lotes quemados durante un ciclo por el usuario específico cuya contribución a la quema se está calculando.</td>
     </tr>
     <tr>
-        <td><strong>TB</strong><br>(Total de lotes)</td>
-        <td>El número combinado de lotes YSL quemados por todos los usuarios durante un ciclo.</td>
+        <td><strong>TB</strong><br>(lotes totales)</td>
+        <td>El número combinado de lotes quemados por todos los usuarios durante un ciclo.</td>
     </tr>
 </table>
 
 <br>
+
+Así es como funciona: el protocolo calcula la asignación de quema (BA) del usuario multiplicando primero el total de tokens XNF programados para distribuirse durante el ciclo (TD) por 50 %, ya que el 50 % de la menta diaria de XNF se asigna a los participantes que queman. vXEN o YSL. Luego calcula la proporción de lotes quemados por el usuario específico (BB) con respecto al total de lotes quemados por todos los usuarios (TB), lo que da como resultado un valor por lote quemado. Finalmente, el protocolo multiplica estos valores para determinar la asignación de quemado individual del usuario para ese ciclo (BA).
 
 Del mismo modo, el protocolo calcula su asignación de intercambio (SA) para un ciclo, teniendo en cuenta el total de tokens XNF programados para ser distribuidos para el ciclo (TD), el total de comisiones de intercambio pagadas por todos los usuarios durante el ciclo (TSF), y las comisiones de intercambio pagadas por usted durante el ciclo (USF). He aquí la fórmula explicada en detalle:
 
@@ -1405,7 +1378,7 @@ Para aprovechar esta función de reciclaje, asegúrese de tener un saldo suficie
 
 ## ⚡️ Ejemplo de recompensas por reciclaje
 
-Veamos un ejemplo para ilustrar cómo funciona la función de reciclaje. Imagina que eres titular de veXNF en Arbitrum y decides reciclar tu saldo de recompensa de cadena nativa de 1,0 ETH durante la primera hora del ciclo. En primer lugar, el protocolo calcula tu aportación de quema. Dado que el valor del lote es de 0,01 ETH en Arbitrum, tus recompensas de 1,0 ETH equivalen a 100 lotes. Sus 100 lotes se asignarán a la quema vXEN o a la quema YSL, dependiendo de la quema que tenga la contribución más baja. A continuación, tu cuota de quemado se deducirá de las recompensas según la fórmula de la cuota. Reciclar en la hora 1 significa que tu comisión de quemado es de 0,4975 ETH.
+Veamos un ejemplo para ilustrar cómo funciona la función de reciclaje. Imagine que es titular de veXNF en Arbitrum y decide reciclar el saldo de recompensa de su cadena nativa de 1.0 ETH durante la primera hora del ciclo. Primero, el protocolo calcula su contribución a la quema. Dado que el valor del lote es 0.01 ETH en Arbitrum, sus recompensas de 1,0 ETH equivalen a 100 lotes. A continuación, su tarifa por quema se deduce de las recompensas según la fórmula de tarifa. Reciclar en la hora 1 significa que su tarifa de quema es 0.4975 ETH.
 
 <br>
 
@@ -1539,7 +1512,7 @@ A medida que Xenify evoluciona, nuestro objetivo es priorizar los intereses de n
 
 ## ⭐️ Los usuarios acuñan su capital
 
-- Los tokens XNF no se minarán previamente ni se asignarán a inversores o miembros del equipo. En su lugar, los usuarios pueden adquirir tokens XNF participando activamente en el protocolo, ya sea quemando tokens vXEN o YSL, o intercambiando tokens de una cadena compatible. Este enfoque recompensa a los usuarios por sus contribuciones y garantiza una distribución justa de XNF dentro del ecosistema.
+- Los tokens XNF no serán preminados ni asignados a inversores o miembros del equipo. En cambio, los usuarios pueden adquirir tokens XNF interactuando activamente con el protocolo, ya sea quemando tokens vXEN o YSL, participando en la subasta nativa o intercambiando tokens de una cadena compatible. Este enfoque recompensa a los usuarios por sus contribuciones y garantiza una distribución justa de XNF dentro del ecosistema.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1673,7 +1646,7 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 
 ## ◽️ YSL
 
-- YSL ha sido diseñado para ser un token hiperdeflaccionario, combinando escasez cuantificable y utilidad a través de las subastas diarias de Xenify. Con una oferta total fija y un mecanismo de agotamiento incorporado, YSL tiene el potencial de revalorizarse con el tiempo a medida que disminuye la oferta en circulación. YSL logra esto a través de su integración con la subasta diaria de quema de Xenify, que asigna el 25% de los XNF recién acuñados a los usuarios que optan por quemar sus tokens YSL. Esta consistente fuente diaria de demanda para quemar tokens YSL genera una presión deflacionista perpetua, a diferencia de otros tokens deflacionistas que dependen únicamente de la actividad comercial. En resumen, la tokenómica deflacionaria de YSL ofrece una oportunidad intrigante, con escasez codificada, utilidad e impulsores predecibles del crecimiento del valor.
+- YSL ha sido diseñado para ser un token hiperdeflacionario, que combina escasez cuantificable y utilidad a través de las subastas diarias de Xenify. Con un suministro total fijo y un mecanismo de quema incorporado, YSL tiene el potencial de apreciar su valor con el tiempo a medida que disminuye el suministro circulante. YSL logra esto a través de su integración con la subasta de quema diaria de Xenify, que asigna XNF recién creado a los usuarios que optan por quemar sus tokens YSL. Esta constante fuente diaria de demanda de quema de tokens YSL genera una presión deflacionaria perpetua, a diferencia de otros tokens deflacionarios que dependen únicamente de la actividad comercial. En resumen, la tokenómica deflacionaria de YSL ofrece una oportunidad intrigante, con escasez codificada, utilidad e impulsores predecibles de crecimiento del valor.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
