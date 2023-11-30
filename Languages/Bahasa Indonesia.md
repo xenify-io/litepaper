@@ -1136,7 +1136,7 @@ $$
 
 <br>
 
-<tabel>
+<table>
     <tr>
         <td><strong>BA</strong><br>(Alokasi Pembakaran)</td>
         <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch yang dibakar selama satu siklus.    </td>
@@ -1153,7 +1153,7 @@ $$
         <td><strong>TB</strong><br>(Total Batch)</td>
         <td>Jumlah gabungan batch yang dibakar oleh semua pengguna selama satu siklus.</td>
     </tr>
-</tabel>
+</table>
 
 <br>
 
