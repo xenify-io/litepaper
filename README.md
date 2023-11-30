@@ -71,11 +71,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- In the daily burn auctions on Arbitrum, users can burn from 1 to 10,000 batches. Each YSL burn batch equals 0.1 YSL, and each vXEN burn batch is equivalent to 10,000,000 vXEN. A native fee of 0.01 ETH applies per batch for both burn and ETH auctions.
+- In the daily burn auction on Arbitrum, participants have the option to burn vXEN and YSL. A user can opt to burn anywhere from 1 to 10,000 batches. To acquire a single batch, a user will need a minimum of 0.01 YSL, or 10,000,000 vXEN. At the end of the cycle, 50% of the XNF supply is distributed to participants of the burn auction based on the amount of batches burned.
 
-- Half of the daily XNF supply is distributed to participants of the daily burn auctions, split evenly between the YSL and vXEN Burn Auctions. For example, if 1 YSL batch and 10,000 vXEN batches are burned in a cycle, the user who burned the single YSL batch would receive a full 25% of the daily XNF supply, whereas the vXEN burners would divide the remaining 25% based on their burn contributions.
+- In the daily ETH auction, participants receive 45% of the daily XNF supply as veXNF rewards, which are locked for one year before they become claimable. These rewards, once claimed, increase the participant's earning power for future ETH earnings. A native fee of 0.01 ETH applies per batch for both burn and ETH auctions.
 
-- In the ETH auction, participants receive 45% of the daily XNF supply as veXNF rewards, which are locked for one year before they become claimable. These rewards, once claimed, increase the participant's earning power for future ETH earnings. Participants in the Swap auction are awarded the remaining 5% of the XNF supply as veXNF rewards, subject to the same one-year claimable lock, enhancing their earning power upon claiming.
+- Participants in the Swap auction are awarded the remaining 5% of the XNF supply as veXNF rewards, subject to the same one-year claimable lock, enhancing their earning power upon claiming.
 
 <br>
 
@@ -173,7 +173,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- XNF has a maximum supply of 22.6 million tokens. Distribution occurs through four daily auctions. Each day, a certain percentage of the XNF tokens is allocated to auction participants: 25% to the YSL Burn Auction and another 25% to the vXEN Burn Auction participants. Additionally, 50% of the daily XNF supply is reserved for veXNF rewards, with these rewards being locked for one year before distribution to participants in the ETH Auction (45%) and the Swap Auction (5%).
+- XNF has a maximum supply of 22.6 million tokens. Distribution occurs through three daily auctions. Each day, 50% of the XNF tokens are allocated to burn auction participants. Additionally, 50% of the daily XNF supply is reserved for veXNF rewards, with these rewards being locked for one year before distribution to participants in the ETH Auction (45%) and the Swap Auction (5%).
 
 - Xenify employs an aggressive halving schedule for its token distribution. The first reduction takes place at the 3-month mark, followed by another at 6 months, and subsequent halvings at 12, 24, and 48 months. After these initial five halvings, there are three additional reductions, each occurring every 48 months. This halving mechanics is designed to gradually reduce the daily distribution of XNF tokens.
 
@@ -394,11 +394,13 @@ Xenify places great emphasis on equity and long-term investments. We believe in 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Daily Burn Auctions
+## ✨ Daily XNF Auctions
 
-- In the daily burn auctions hosted on Arbitrum, users have the option to burn anywhere from 1 to 10,000 batches. A single YSL burn batch represents 0.1 YSL, while a vXEN burn batch corresponds to 10,000,000 vXEN. A native fee of 0.01 ETH is applied per batch in both burn and ETH auctions.
+- In the daily burn auction on Arbitrum, participants have the option to burn vXEN and YSL. A user can opt to burn anywhere from 1 to 10,000 batches. To acquire a single batch, a user will need a minimum of 0.01 YSL, or 10,000,000 vXEN. At the end of the cycle, 50% of the XNF supply is distributed to participants of the burn auction based on the amount of batches burned.
 
-- Every day, 50% of the XNF supply is distributed to participants in daily burn auctions. The distribution is equally allocated between the YSL Burn Auction and the vXEN Burn Auction. For instance, if only 1 batch of YSL is burned and 10,000 batches of vXEN are burned on a given cycle, the user who burned the single YSL batch would receive the entire 25% of the daily XNF supply, while the vXEN burners would share the other 25% based on their respective burn batches.
+- In the daily ETH auction, participants receive 45% of the daily XNF supply as veXNF rewards, which are locked for one year before they become claimable. These rewards, once claimed, increase the participant's earning power for future ETH earnings. A native fee of 0.01 ETH applies per batch for both burn and ETH auctions.
+
+- Participants in the Swap auction are awarded the remaining 5% of the XNF supply as veXNF rewards, subject to the same one-year claimable lock, enhancing their earning power upon claiming.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -719,7 +721,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **21,000,000 XNF assigned for the daily auctions:** Users who participate in various activities that bolster the ongoing development of the protocol will have the chance to earn a share of the XNF tokens dedicated to the daily auctions.
 
-  - 10,500,000 XNF (50%) is distributed to burn auction participants. This allocation will be distributed equally, with 50% set aside for vXEN burners and the remaining 50% for YSL burners. In the event that there are no YSL burners during a cycle, the entire daily XNF allocation designated for the burn auction will be distributed among vXEN burners, and vice versa.
+  - 10,500,000 XNF (50%) is distributed to the burn auction participants based on the amount of batches burned during each cycle.
     
   - 9,450,000 XNF (45%) is distributed to users that contribute native tokens to participate in the daily auction. These XNF tokens will be distributed among participants in the form of veXNF, with an associated lock period of 1 year.
 
@@ -858,7 +860,7 @@ By establishing a one-way street, our protocol-owned liquidity pool transforms i
 
 The XNF minting process within Xenify has been meticulously structured to reward users who actively engage with and contribute to the protocol's growth. This initiative ensures an equitable distribution of XNF tokens and fosters a genuinely decentralised and community-driven protocol. Xenify's incentive model is carefully crafted, offering proportionate rewards to users who intensify their engagement with the platform. Such an approach propels further participation, as users stand to acquire newly minted XNF tokens relative to their platform activity.
 
-Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split four ways: 25% is distributed to users who burn vXEN, 25% is distributed to users who burn YSL, 45% is distributed to native token contributors, and the remaining 5% is distributed among the platform's swap fee contributors. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
+Distribution of XNF tokens follows one-day cycles, initiating with a reward pool of 20,000 XNF tokens. This daily allocation gets split three ways: 50% is distributed to users who burn vXEN or YSL, 45% is distributed to native token contributors, and the remaining 5% is distributed among the platform's swap fee contributors. This daily allocation will extend across all other future deployment chains as well. Through the implementation of a halving model, the daily minting quantity gradually reduces, culminating in the complete distribution of the total 22.6 million XNF tokens by month 2461.
 
 Users are further incentivised through the protocol's locking mechanism, which allows them to accumulate rewards in the form of chain-specific native tokens, such as ETH on Arbitrum. These rewards are generated from various activities within Xenify, specifically from burn fees, swap fees and native fees. Our unique three-tiered incentive model prompts users to use Xenify to earn XNF, while also rewarding those who lock their XNF tokens to earn native rewards. This operates as a flywheel, propelling Xenify's long-term growth while cultivating a vibrant and sustainable reward system that incentivises an ever-growing user base.
 
@@ -868,7 +870,7 @@ Users are further incentivised through the protocol's locking mechanism, which a
 
 Xenify empowers users to effortlessly burn vXEN or YSL tokens directly from their wallets to participate in the daily burn cycle. To acquire XNF with XEN, you'll need to go through a process of burning your XEN token variant in exchange for vXEN. Please note that the amount of vXEN required per batch is fixed at 10,000,000 vXEN, however, the amount of XEN required to obtain one batch will vary based on the [burn ratio](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns) that applies to each XEN variant. For example, if you want to take part in Xenify's burn auction on Arbitrum, you'll require a minimum of 10,000,000 XEN to burn (with a burn ratio of 1:1), and in return, you'll receive 1 batch of vXEN (10,000,000 vXEN). This burn function positions our protocol as a key player in the layer-1 burning of XEN tokens. Each time you burn your XEN tokens, your address will be logged in the X1 burn record, and in return, you'll receive vXEN.
 
-It's essential to note that when you decide to burn your vXEN to participate in the daily burn auction for an allocation of XNF, a Burn Fee applies. At the end of the cycle, you'll receive XNF tokens based on the amount of vXEN batches you burned. Similar to the vXEN burn process, burning your YSL tokens also incurs a Burn Fee. The conversion rate to acquire one batch during the YSL burn process will be fixed, with 0.1 YSL equivalent to one batch. At the end of the cycle, you'll receive XNF tokens based on the amount of YSL batches you burned.
+It's essential to note that when you decide to burn your vXEN to participate in the daily burn auction for an allocation of XNF, a Burn Fee applies. Similar to the vXEN burn process, burning your YSL tokens also incurs a Burn Fee. The conversion rate to acquire one batch during the burn process will be fixed, with one batch equivalent to 0.01 YSL or 10,000,000 vXEN. At the end of the cycle, you'll receive XNF tokens based on the total amount of batches you burned.
 
 Regardless of whether you opt to burn vXEN or YSL, the value per batch (VB) will be contingent on the specific chain you select for the burn. This value will be established upon Xenify’s deployment, and will be dynamically based on the current price of the chain’s native token. The cumulative value of the batches you burn will play a direct role in determining the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
@@ -922,7 +924,7 @@ The Xenify protocol enables users to burn vXEN or YSL tokens to secure XNF from 
 
 The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates a compelling incentive for users to engage in larger burn operations early in the cycle.
 
-Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.1 YSL. 
+Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.01 YSL. 
 
 By implementing this factor into the burn formula, we ensure that users receive discounts in proportion to the volume of batches they burn. The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
 
@@ -1118,26 +1120,26 @@ Comparing these scenarios highlights the benefits of burning batches in the firs
 
 ## ⭐️ XNF Cycle Distribution
 
-Xenify adopts a strategic approach to allocating XNF tokens each day, focusing on rewarding four key participant groups within the ecosystems of all EVM chains it operates on. These groups are recognized through a predetermined percentage of the total daily minted tokens: 25% is granted to users burning vXEN tokens, another 25% to those burning YSL tokens, a larger share of 45% to native token contributors, and the final 5% to those involved in token swaps.
+Xenify adopts a strategic approach to allocating XNF tokens each day, focusing on rewarding three key participant groups within the ecosystems of all EVM chains it operates on. These groups are recognised through a predetermined percentage of the total daily minted tokens: 50% is granted to users burning either vXEN tokens or YSL tokens, 45% to native token contributors, and the final 5% to those involved in token swaps.
 
-For example, with a daily minting volume of 20,000 XNF tokens, the allotment is not equally split by default, given the variable percentage designations. Consequently, vXEN token burners and YSL token burners each secure 5,000 XNF tokens, representing their respective 25% shares. Native token contributors are apportioned 9,000 XNF tokens, corresponding to a 45% allocation, while swap participants are awarded a share of 1,000 XNF tokens, making up the remaining 5%. This systematic distribution process is uniform across all EVM chains, ensuring fair and proportionate rewards for varied user activities.
+For example, with a daily minting volume of 20,000 XNF tokens, the allotment is not equally split by default, given the variable percentage designations. Consequently, vXEN and YSL token burners secure 10,000 XNF tokens, representing a 50% share. Native token contributors are apportioned 9,000 XNF tokens, corresponding to a 45% allocation, while swap participants are awarded a share of 1,000 XNF tokens, making up the remaining 5%. This systematic distribution process is uniform across all EVM chains, ensuring fair and proportionate rewards for varied user activities.
 
 To determine the precise share of XNF tokens each user receives from the daily mint, the protocol conducts a series of precise calculations that factor in the user's individual contribution to each of the activity pools. Following the collection of data on user activities, the protocol calculates the deserved amount of XNF tokens for distribution to each participant. This rigorous process guarantees a fair distribution by acknowledging the user's active participation in token burns, native token contributions, and swap activities. Notably, tokens earned from native contributions and swap fees are provided as veXNF, reinforcing user engagement with additional benefits.
 
-The protocol calculates your share of the daily XNF allocated to the vXEN burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of vXEN batches burned during the cycle (TB), and the number of vXEN batches you burned during the cycle (BB). Here's the formula for the vXEN burn allocation (XBA) explained in detail:
+The protocol calculates your share of the daily XNF allocated to the burn fee contributions, by taking into account the total XNF tokens distributed (TD), the total number of batches burned during the cycle (TB), and the number of batches you burned during the cycle (BB). Here's the formula for the vXEN burn allocation (BA) explained in detail:
 
 <br>
 
 $$
-XBA = (TD \times 25\\%) \times (BB \div TB)
+BA = (TD \times 50\\%) \times (BB \div TB)
 $$
 
 <br>
 
 <table>
     <tr>
-        <td><strong>XBA</strong><br>(Burn Allocation)</td>
-        <td>The amount of XNF a specific user obtains based on the vXEN batches burned during a cycle.</td>
+        <td><strong>BA</strong><br>(Burn Allocation)</td>
+        <td>The amount of XNF a specific user obtains based on the batches burned during a cycle.</td>
     </tr>
     <tr>
         <td><strong>TD</strong><br>(Total Distributed)</td>
@@ -1145,46 +1147,17 @@ $$
     </tr>
     <tr>
         <td><strong>BB</strong><br>(Batches Burned)</td>
-        <td>The number of vXEN batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
+        <td>The number of batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
     </tr>
     <tr>
         <td><strong>TB</strong><br>(Total Batches)</td>
-        <td>The combined number of vXEN batches burned by all users during a cycle.</td>
+        <td>The combined number of batches burned by all users during a cycle.</td>
     </tr>
 </table>
 
 <br>
 
-Here’s how it works: The protocol calculates the user’s vXEN burn allocation (XBA) by first multiplying the total XNF tokens scheduled to be distributed for the cycle (TD) by 25%, since 25% of the XNF daily mint is allocated to participants who burn vXEN. It then calculates the proportion of vXEN batches burned by the specific user (BB) to the total vXEN batches burned by all users (TB), resulting in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual vXEN burn allocation for that cycle (XBA). The calculation for the YSL burn allocation (YBA) follows the same logic as outlined in the formula below:
-
-<br>
-
-$$
-YBA = (TD \times 25\\%) \times (BB \div TB)
-$$
-
-<br>
-
-<table>
-    <tr>
-        <td><strong>YBA</strong><br>(Burn Allocation)</td>
-        <td>The amount of XNF a specific user obtains based on the YSL batches burned during a cycle.</td>
-    </tr>
-    <tr>
-        <td><strong>TD</strong><br>(Total Distributed)</td>
-        <td>The total number of XNF tokens that are distributed among users during a specific cycle.</td>
-    </tr>
-    <tr>
-        <td><strong>BB</strong><br>(Batches Burned)</td>
-        <td>The number of YSL batches burned during a cycle by the specific user whose burn contribution is being calculated.</td>
-    </tr>
-    <tr>
-        <td><strong>TB</strong><br>(Total Batches)</td>
-        <td>The combined number of YSL batches burned by all users during a cycle.</td>
-    </tr>
-</table>
-
-<br>
+Here’s how it works: The protocol calculates the user’s burn allocation (BA) by first multiplying the total XNF tokens scheduled to be distributed for the cycle (TD) by 50%, since 50% of the XNF daily mint is allocated to participants who burn vXEN or YSL. It then calculates the proportion of batches burned by the specific user (BB) to the total  batches burned by all users (TB), resulting in a value per batch burned. Finally, the protocol multiplies these values to determine the user’s individual burn allocation for that cycle (BA).
 
 Similarly, the protocol calculates your swap allocation (SA) for a cycle, by taking into account the total XNF tokens scheduled to be distributed for the cycle (TD), the total swap fees paid by all users during the cycle (TSF), and the swap fees paid by you during the cycle (USF). Here's the formula explained in detail:
 
@@ -1405,7 +1378,7 @@ To leverage this recycling feature, ensure that you have a sufficient balance of
 
 ## ⚡️ Recycling Rewards Example
 
-Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on Arbitrum, and you decide to recycle your native chain reward balance of 1.0 ETH during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.01 ETH on Arbitrum, your 1.0 ETH rewards equate to 100 batches. Your 100 batches will be allocated to either the vXEN burn or the YSL burn, depending on which burn has the lowest contribution. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.4975 ETH.
+Let's walk through an example to illustrate how the recycling feature works. Imagine you are a veXNF holder on Arbitrum, and you decide to recycle your native chain reward balance of 1.0 ETH during the first hour of the cycle. First, the protocol calculates your burn contribution. Since the batch value is 0.01 ETH on Arbitrum, your 1.0 ETH rewards equate to 100 batches. Next, your burn fee is deducted from the rewards based on the fee formula. Recycling in hour 1 means your burn fee is 0.4975 ETH.
 
 <br>
 
@@ -1539,7 +1512,7 @@ As Xenify evolves, we aim to prioritise our users' interests, fostering transpar
 
 ## ⭐️ Users Mint Their Equity
 
-- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or YSL tokens, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
+- XNF tokens will not be pre-mined or allocated to investors or team members. Instead, users can acquire XNF tokens by actively engaging with the protocol, whether by burning vXEN or YSL tokens, participating in the native auction, or swapping tokens from a supported chain. This approach rewards users for their contributions and guarantees a fair distribution of XNF within the ecosystem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1673,7 +1646,7 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 
 ## ◽️ YSL 
 
-- YSL has been engineered to be a hyper-deflationary token, blending quantifiable scarcity and utility through Xenify’s daily burn auctions. With a fixed total supply and built-in burn mechanism, YSL has the potential to appreciate in value over time as the circulating supply decreases. YSL achieves this through its integration with Xenify’s daily burn auction, which allocates 25% of the newly minted XNF to users who opt to burn their YSL tokens. This consistent daily source of demand for burning YSL tokens generates perpetual deflationary pressure, unlike other deflationary tokens reliant solely on trading activity. In short, YSL’s deflationary tokenomics provides an intriguing opportunity - with codified scarcity, utility, and predictable drivers of value growth.
+- YSL has been engineered to be a hyper-deflationary token, blending quantifiable scarcity and utility through Xenify’s daily burn auctions. With a fixed total supply and built-in burn mechanism, YSL has the potential to appreciate in value over time as the circulating supply decreases. YSL achieves this through its integration with Xenify’s daily burn auction, which allocates newly minted XNF to users who opt to burn their YSL tokens. This consistent daily source of demand for burning YSL tokens generates perpetual deflationary pressure, unlike other deflationary tokens reliant solely on trading activity. In short, YSL’s deflationary tokenomics provides an intriguing opportunity - with codified scarcity, utility, and predictable drivers of value growth.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
