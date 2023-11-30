@@ -71,11 +71,11 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 <br>
 
-- Trong các phiên đấu giá đốt hàng ngày trên Arbitrum, người dùng có thể đốt từ 1 đến 10.000 đợt. Mỗi đợt ghi YSL bằng 0,1 YSL và mỗi đợt ghi vXEN tương đương với 10.000.000 vXEN. Phí gốc 0,01 ETH áp dụng cho mỗi đợt cho cả phiên đấu giá đốt và ETH.
+- Trong phiên đấu giá đốt hàng ngày trên Arbitrum, người tham gia có tùy chọn đốt vXEN và YSL. Người dùng có thể chọn ghi ở bất kỳ đâu từ 1 đến 10,000 lô. Để có được một lô, người dùng sẽ cần tối thiểu 0.01 YSL hoặc 10,000,000 vXEN. Vào cuối chu kỳ, 50% nguồn cung XNF được phân phối cho những người tham gia đấu giá đốt, dựa trên số lượng lô được đốt.
 
-- Một nửa nguồn cung cấp XNF hàng ngày được phân phối cho những người tham gia phiên đấu giá đốt hàng ngày, chia đều cho Phiên đấu giá đốt YSL và vXEN. Ví dụ: nếu 1 lô YSL và 10.000 lô vXEN được đốt trong một chu kỳ, người dùng đốt một lô YSL sẽ nhận được đầy đủ 25% nguồn cung XNF hàng ngày, trong khi các ổ ghi vXEN sẽ chia 25% còn lại dựa trên đốt những đóng góp.
+- Trong phiên đấu giá ETH hàng ngày, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF. Những phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Sau khi được nhận, những phần thưởng này sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Phí gốc 0.01 ETH áp dụng cho mỗi đợt cho cả phiên đấu giá đốt và ETH.
 
-- Trong phiên đấu giá ETH, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF, phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Những phần thưởng này, sau khi được nhận, sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Những người tham gia phiên đấu giá Hoán đổi được trao 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF, tuân theo cùng mức khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
+- Những người tham gia đấu giá Hoán đổi được thưởng 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF. Những phần thưởng này phải tuân theo cùng một khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
 
 <br>
 
