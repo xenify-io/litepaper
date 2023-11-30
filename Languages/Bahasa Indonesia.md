@@ -1131,7 +1131,7 @@ Protokol menghitung bagian Anda dari XNF harian yang dialokasikan untuk kontribu
 <br>
 
 $$
-BA = (TD \kali 50\\%) \kali (BB \div TB)
+BA = (TD \times 50\\%) \times (BB \div TB)
 $$
 
 <br>
