@@ -71,11 +71,11 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 <br>
 
-- Trong phiên đấu giá đốt hàng ngày trên Arbitrum, người tham gia có tùy chọn đốt vXEN và YSL. Người dùng có thể chọn ghi ở bất kỳ đâu từ 1 đến 10,000 lô. Để có được một lô, người dùng sẽ cần tối thiểu 0.01 YSL hoặc 10,000,000 vXEN. Vào cuối chu kỳ, 50% nguồn cung XNF được phân phối cho những người tham gia đấu giá đốt, dựa trên số lượng lô được đốt.
+- Trong phiên đấu giá đốt hàng ngày trên Arbitrum, người tham gia có tùy chọn đốt vXEN và YSL. Người dùng có thể chọn ghi ở bất kỳ đâu từ 1 đến 10.000 lô. Để có được một lô, người dùng sẽ cần tối thiểu 0,01 YSL hoặc 10.000.000 vXEN. Vào cuối chu kỳ, 50% nguồn cung XNF được phân phối cho những người tham gia phiên đấu giá đốt dựa trên số lượng lô được đốt.
 
-- Trong phiên đấu giá ETH hàng ngày, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF. Những phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Sau khi được nhận, những phần thưởng này sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Phí gốc 0.01 ETH áp dụng cho mỗi đợt cho cả phiên đấu giá đốt và ETH.
+- Trong phiên đấu giá ETH hàng ngày, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF, phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Những phần thưởng này, sau khi được nhận, sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Phí gốc 0,01 ETH áp dụng cho mỗi đợt cho cả phiên đấu giá đốt và ETH.
 
-- Những người tham gia đấu giá Hoán đổi được thưởng 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF. Những phần thưởng này phải tuân theo cùng một khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
+- Những người tham gia phiên đấu giá Hoán đổi được trao 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF, tuân theo cùng mức khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
 
 <br>
 
@@ -173,7 +173,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 <br>
 
-- XNF có nguồn cung tối đa 22,6 triệu token. Việc phân phối diễn ra thông qua bốn phiên đấu giá hàng ngày. Mỗi ngày, một tỷ lệ phần trăm nhất định của mã thông báo XNF được phân bổ cho những người tham gia đấu giá: 25% cho Phiên đấu giá ghi YSL và 25% khác cho những người tham gia Phiên đấu giá ghi vXEN. Ngoài ra, 50% nguồn cung XNF hàng ngày được dành riêng cho phần thưởng veXNF, với những phần thưởng này sẽ bị khóa trong một năm trước khi phân phối cho những người tham gia Đấu giá ETH (45%) và Đấu giá hoán đổi (5%).
+- XNF có nguồn cung tối đa 22,6 triệu token. Việc phân phối diễn ra thông qua ba cuộc đấu giá hàng ngày. Mỗi ngày, 50% số token XNF được phân bổ để đốt những người tham gia đấu giá. Ngoài ra, 50% nguồn cung XNF hàng ngày được dành riêng cho phần thưởng veXNF, với những phần thưởng này sẽ bị khóa trong một năm trước khi phân phối cho những người tham gia Đấu giá ETH (45%) và Đấu giá hoán đổi (5%).
 
 - Xenify áp dụng lịch trình giảm một nửa tích cực để phân phối mã thông báo của mình. Lần giảm đầu tiên diễn ra ở mốc 3 tháng, tiếp theo là lần giảm khác vào lúc 6 tháng và các lần giảm một nửa tiếp theo ở mức 12, 24 và 48 tháng. Sau năm lần giảm một nửa đầu tiên này, có ba lần giảm bổ sung, mỗi lần xảy ra sau mỗi 48 tháng. Cơ chế giảm một nửa này được thiết kế để giảm dần việc phân phối mã thông báo XNF hàng ngày.
 
@@ -394,11 +394,13 @@ Xenify rất chú trọng đến vốn chủ sở hữu và đầu tư dài hạ
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Đấu giá đốt hàng ngày
+## ✨ Đấu giá XNF hàng ngày
 
-- Trong các phiên đấu giá ghi hàng ngày được tổ chức trên Arbitrum, người dùng có tùy chọn ghi ở bất kỳ đâu từ 1 đến 10.000 đợt. Một đợt ghi YSL tương ứng với 0,1 YSL, trong khi một đợt ghi vXEN tương ứng với 10.000.000 vXEN. Phí gốc 0,01 ETH được áp dụng cho mỗi đợt trong cả phiên đấu giá đốt và ETH.
+- Trong phiên đấu giá đốt hàng ngày trên Arbitrum, người tham gia có tùy chọn đốt vXEN và YSL. Người dùng có thể chọn ghi ở bất kỳ đâu từ 1 đến 10.000 lô. Để có được một lô, người dùng sẽ cần tối thiểu 0,01 YSL hoặc 10.000.000 vXEN. Vào cuối chu kỳ, 50% nguồn cung XNF được phân phối cho những người tham gia phiên đấu giá đốt dựa trên số lượng lô được đốt.
 
-- Mỗi ngày, 50% nguồn cung XNF được phân phối cho những người tham gia đấu giá đốt hàng ngày. Việc phân bổ được phân bổ đồng đều giữa Phiên đấu giá ghi YSL và Phiên đấu giá ghi vXEN. Ví dụ: nếu chỉ đốt 1 lô YSL và 10.000 lô vXEN được đốt trong một chu kỳ nhất định, thì người dùng đốt một lô YSL sẽ nhận được toàn bộ 25% nguồn cung XNF hàng ngày, trong khi các trình ghi vXEN sẽ chia sẻ 25% còn lại dựa trên đợt đốt tương ứng của họ.
+- Trong phiên đấu giá ETH hàng ngày, người tham gia nhận được 45% nguồn cung XNF hàng ngày dưới dạng phần thưởng veXNF, phần thưởng này bị khóa trong một năm trước khi có thể nhận được. Những phần thưởng này, sau khi được nhận, sẽ tăng khả năng kiếm tiền của người tham gia đối với thu nhập ETH trong tương lai. Phí gốc 0,01 ETH áp dụng cho mỗi đợt cho cả phiên đấu giá đốt và ETH.
+
+- Những người tham gia phiên đấu giá Hoán đổi được trao 5% nguồn cung XNF còn lại dưới dạng phần thưởng veXNF, tuân theo cùng mức khóa có thể yêu cầu trong một năm, nâng cao khả năng kiếm tiền của họ khi yêu cầu.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -719,11 +721,11 @@ Với tổng nguồn cung giới hạn ở mức 22,6 triệu mã thông báo XN
 
 - **21,000,000 XNF được chỉ định cho các cuộc đấu giá hàng ngày:** Người dùng tham gia vào các hoạt động khác nhau nhằm thúc đẩy sự phát triển liên tục của giao thức sẽ có cơ hội kiếm được một phần mã thông báo XNF dành riêng cho các cuộc đấu giá hàng ngày.
 
-- 10,500,000 XNF (50%) được phân phối để đốt những người tham gia đấu giá. Việc phân bổ này sẽ được phân bổ đồng đều, với 50% dành cho đầu đốt vXEN và 50% còn lại cho đầu đốt YSL. Trong trường hợp không có ổ ghi YSL trong một chu kỳ, toàn bộ phân bổ XNF hàng ngày được chỉ định cho phiên đấu giá đốt sẽ được phân phối giữa các ổ ghi vXEN và ngược lại.
+  - 10,500,000 XNF (50%) được phân phối cho những người tham gia đấu giá đốt dựa trên số lượng lô được đốt trong mỗi chu kỳ.
     
-- 9,450,000 XNF (45%) được phân phối cho người dùng đóng góp mã thông báo gốc để tham gia đấu giá hàng ngày. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia dưới dạng veXNF , với thời gian khóa liên quan là 1 năm.
+  - 9,450,000 XNF (45%) được phân phối cho người dùng đóng góp mã thông báo gốc để tham gia đấu giá hàng ngày. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia dưới dạng veXNF , với thời gian khóa liên quan là 1 năm.
 
-- 1,050,000 XNF (5%) được phân phối cho người dùng tham gia hoán đổi trên chuỗi EVM được hỗ trợ. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia trao đổi dưới dạng veXNF , với thời hạn khóa liên quan là 1 năm.
+  - 1,050,000 XNF (5%) được phân phối cho người dùng tham gia hoán đổi trên chuỗi EVM được hỗ trợ. Các mã thông báo XNF này sẽ được phân phối giữa những người tham gia trao đổi dưới dạng veXNF , với thời hạn khóa liên quan là 1 năm.
 
 - **100,000 XNF được chỉ định để thiết lập nhóm thanh khoản Uniswap V3:** Để hỗ trợ một hệ sinh thái mạnh mẽ, 100,000 XNF sẽ được dành cho tính thanh khoản thuộc sở hữu của giao thức bootstrap khi ra mắt. Sáng kiến này sẽ cho phép cộng đồng của chúng tôi giao dịch XNF một cách liền mạch ngay từ đầu. Để tạo điều kiện thuận lợi cho việc này, phần lớn phí được tạo ra từ việc tham gia ngày đầu tiên (bao gồm phí hoán đổi, phí gốc và phí đốt) sẽ được sử dụng để thiết lập nhóm thanh khoản Uniswap V3 vào cuối chu kỳ.
 
@@ -858,7 +860,7 @@ Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc 
 
 Quy trình khai thác XNF trong Xenify đã được cấu trúc tỉ mỉ để thưởng cho những người dùng tích cực tham gia và đóng góp vào sự phát triển của giao thức. Sáng kiến này đảm bảo phân phối công bằng các token XNF và thúc đẩy một giao thức phi tập trung thực sự và hướng đến cộng đồng. Mô hình khuyến khích của Xenify được xây dựng cẩn thận, mang lại phần thưởng tương xứng cho những người dùng tăng cường tương tác với nền tảng. Cách tiếp cận như vậy sẽ thúc đẩy sự tham gia nhiều hơn, khi người dùng có thể nhận được mã thông báo XNF mới được đúc tương ứng với hoạt động nền tảng của họ.
 
-Việc phân phối mã thông báo XNF tuân theo chu kỳ một ngày, bắt đầu với nhóm phần thưởng là 20.000 mã thông báo XNF. Việc phân bổ hàng ngày này được chia theo bốn cách: 25% được phân phối cho người dùng đốt vXEN , 25% được phân phối cho người dùng đốt YSL, 45% được phân phối cho những người đóng góp mã thông báo gốc và 5% còn lại được phân bổ cho những người đóng góp phí hoán đổi của nền tảng . Việc phân bổ hàng ngày này cũng sẽ mở rộng trên tất cả các chuỗi triển khai khác trong tương lai. Thông qua việc triển khai mô hình giảm một nửa, số lượng khai thác hàng ngày giảm dần, đỉnh điểm là việc phân phối hoàn toàn tổng số 22,6 triệu mã thông báo XNF vào tháng 2461.
+Việc phân phối mã thông báo XNF tuân theo chu kỳ một ngày, bắt đầu với nhóm phần thưởng là 20.000 mã thông báo XNF. Việc phân bổ hàng ngày này được chia theo ba cách: 50% được phân phối cho người dùng ghi vXEN hoặc YSL, 45% được phân phối cho những người đóng góp mã thông báo gốc và 5% còn lại được phân phối cho những người đóng góp phí hoán đổi của nền tảng. Việc phân bổ hàng ngày này cũng sẽ mở rộng trên tất cả các chuỗi triển khai khác trong tương lai. Thông qua việc triển khai mô hình giảm một nửa, số lượng khai thác hàng ngày giảm dần, đỉnh điểm là việc phân phối hoàn toàn tổng số 22,6 triệu mã thông báo XNF vào tháng 2461.
 
 Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa của giao thức, cho phép họ tích lũy phần thưởng dưới dạng mã thông báo gốc dành riêng cho chuỗi, chẳng hạn như ETH trên Arbitrum. Những phần thưởng này được tạo ra từ các hoạt động khác nhau trong Xenify, đặc biệt là từ phí ghi, phí hoán đổi và phí gốc. Mô hình khuyến khích ba tầng độc đáo của chúng tôi khuyến khích người dùng sử dụng Xenify để kiếm XNF, đồng thời thưởng cho những người khóa mã thông báo XNF của họ để kiếm phần thưởng gốc. Điều này hoạt động như một bánh đà, thúc đẩy sự phát triển lâu dài của Xenify đồng thời nuôi dưỡng một hệ thống khen thưởng sôi động và bền vững nhằm khuyến khích cơ sở người dùng ngày càng phát triển.
 
@@ -868,7 +870,7 @@ Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa c�
 
 Xenify trao quyền cho người dùng dễ dàng ghi mã thông báo vXEN hoặc YSL trực tiếp từ ví của họ để tham gia vào chu kỳ ghi hàng ngày. Để nhận được XNF bằng XEN, bạn sẽ cần trải qua quá trình ghi biến thể mã thông báo XEN của mình để đổi lấy vXEN . Xin lưu ý rằng lượng vXEN cần thiết cho mỗi lô được cố định ở mức 10.000.000 vXEN , tuy nhiên, lượng XEN cần thiết để có được một lô sẽ thay đổi dựa trên [tỷ lệ ghi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-vxen---th%E1%BB%91ng-nh%E1%BA%A5t-c%C3%A1c-v%E1%BA%BFt-b%E1%BB%8Fng) áp dụng cho từng biến thể XEN. Ví dụ: nếu bạn muốn tham gia đấu giá đốt Xenify trên Arbitrum , bạn sẽ cần tối thiểu 10.000.000 XEN để đốt (với tỷ lệ đốt là 1:1) và đổi lại bạn sẽ nhận được 1 lô vXEN (10.000.000 vXEN ). Chức năng ghi này định vị giao thức của chúng tôi là nhân tố chính trong quá trình ghi mã thông báo XEN lớp 1. Mỗi lần bạn ghi mã thông báo XEN, địa chỉ của bạn sẽ được ghi vào bản ghi ghi X1 và đổi lại, bạn sẽ nhận được vXEN .
 
-Điều quan trọng cần lưu ý là khi bạn quyết định ghi vXEN của mình để tham gia vào phiên đấu giá ghi hàng ngày để phân bổ XNF, Phí ghi sẽ được áp dụng. Vào cuối chu kỳ, bạn sẽ nhận được mã thông báo XNF dựa trên số lô vXEN mà bạn đã đốt. Tương tự như quá trình ghi vXEN , việc đốt mã thông báo YSL của bạn cũng phải chịu Phí đốt. Tỷ lệ chuyển đổi để thu được một lô trong quá trình ghi YSL sẽ được cố định, với 0,1 YSL tương đương với một lô. Vào cuối chu kỳ, bạn sẽ nhận được mã thông báo XNF dựa trên số lượng lô YSL mà bạn đã đốt.
+Điều quan trọng cần lưu ý là khi bạn quyết định ghi vXEN của mình để tham gia vào phiên đấu giá ghi hàng ngày để phân bổ XNF, Phí ghi sẽ được áp dụng. Tương tự như quá trình ghi vXEN, việc đốt mã thông báo YSL của bạn cũng phải chịu Phí đốt. Tỷ lệ chuyển đổi để thu được một lô trong quá trình ghi đĩa sẽ được cố định, với một lô tương đương 0,01 YSL hoặc 10.000.000 vXEN. Vào cuối chu kỳ, bạn sẽ nhận được mã thông báo XNF dựa trên tổng số lô bạn đã đốt.
 
 Bất kể bạn chọn ghi vXEN hay YSL, giá trị mỗi đợt (VB) sẽ phụ thuộc vào chuỗi cụ thể mà bạn chọn để ghi. Giá trị này sẽ được thiết lập khi triển khai Xenify và sẽ linh hoạt dựa trên giá hiện tại của mã thông báo gốc của chuỗi. Giá trị tích lũy của các lô bạn ghi sẽ đóng vai trò trực tiếp trong việc xác định Phí ghi (BF) cần thiết để thực hiện chức năng ghi, đảm bảo quy trình liền mạch và minh bạch cho tất cả người tham gia.
 
@@ -922,7 +924,7 @@ Giao thức Xenify cho phép người dùng ghi mã thông báo vXEN hoặc YSL 
 
 Công thức tính phí ghi được thiết kế để xem xét nhiều yếu tố khác nhau, bao gồm thời gian ghi trong một chu kỳ, số lô được đốt và giá trị liên quan của chúng. Phần tốt nhất? Người dùng đốt càng nhiều lô thì mức giảm giá họ sẽ được hưởng càng lớn, với khả năng tiết kiệm lên tới 75% cho 10.000 lô trong giờ đầu tiên của mỗi chu kỳ. Điều này tạo ra động lực hấp dẫn để người dùng tham gia vào các hoạt động ghi lớn hơn vào đầu chu kỳ.
 
-Bây giờ, bạn có thể thắc mắc, chính xác thì lô là gì? Một lô đại diện cho một số lượng mã thông báo cố định, vXEN hoặc YSL, được yêu cầu để tham gia vào quá trình ghi. Cụ thể, một lô vXEN tương đương với 10.000.000 vXEN , trong khi một lô YSL tương đương với 0,1 YSL.
+Bây giờ, bạn có thể thắc mắc, chính xác thì lô là gì? Một lô đại diện cho một số lượng mã thông báo cố định, vXEN hoặc YSL, được yêu cầu để tham gia vào quá trình ghi. Cụ thể, một lô vXEN tương đương với 10.000.000 vXEN, trong khi một lô YSL tương đương với 0,01 YSL.
 
 Bằng cách triển khai yếu tố này vào công thức ghi, chúng tôi đảm bảo rằng người dùng sẽ nhận được chiết khấu tương ứng với số lượng lô họ đốt. Giá trị mỗi đợt cho chuỗi được thiết lập khi Xenify được triển khai và sẽ tự động dựa trên giá hiện tại của mã thông báo gốc của chuỗi bằng công thức bên dưới:
 
@@ -1118,73 +1120,44 @@ So sánh các kịch bản này nêu bật lợi ích của việc ghi lô trong
 
 ## ⭐️ Phân phối chu kỳ XNF
 
-Xenify áp dụng cách tiếp cận chiến lược để phân bổ mã thông báo XNF mỗi ngày, tập trung vào việc khen thưởng bốn nhóm người tham gia chính trong hệ sinh thái của tất cả các chuỗi EVM mà nó hoạt động. Các nhóm này được công nhận thông qua tỷ lệ phần trăm được xác định trước trong tổng số mã thông báo được đúc hàng ngày: 25% được cấp cho người dùng đốt mã thông báo vXEN, 25% khác cho những người đốt mã thông báo YSL, chia sẻ lớn hơn 45% cho những người đóng góp mã thông báo gốc và 5% cuối cùng. cho những người tham gia vào việc hoán đổi token.
+Xenify áp dụng cách tiếp cận chiến lược để phân bổ mã thông báo XNF mỗi ngày, tập trung vào việc khen thưởng ba nhóm người tham gia chính trong hệ sinh thái của tất cả các chuỗi EVM mà nó hoạt động. Các nhóm này được công nhận thông qua tỷ lệ phần trăm được xác định trước trong tổng số mã thông báo được đúc hàng ngày: 50% được cấp cho người dùng đốt mã thông báo vXEN hoặc mã thông báo YSL, 45% cho những người đóng góp mã thông báo gốc và 5% cuối cùng cho những người tham gia hoán đổi mã thông báo.
 
-Ví dụ: với khối lượng đúc hàng ngày là 20,000 mã thông báo XNF, việc phân bổ không được chia đều theo mặc định, do có các chỉ định phần trăm thay đổi. Do đó, mỗi công cụ ghi mã thông báo vXEN và công cụ ghi mã thông báo YSL đảm bảo 5,000 mã thông báo XNF, chiếm 25% cổ phần tương ứng của chúng. Những người đóng góp mã thông báo gốc được phân bổ 9,000 mã thông báo XNF, tương ứng với phân bổ 45%, trong khi những người tham gia trao đổi được chia sẻ 1,000 mã thông báo XNF, chiếm 5% còn lại. Quá trình phân phối có hệ thống này được thống nhất trên tất cả các chuỗi EVM, đảm bảo phần thưởng công bằng và tương xứng cho các hoạt động khác nhau của người dùng.
+Ví dụ: với khối lượng đúc hàng ngày là 20.000 mã thông báo XNF, việc phân bổ không được chia đều theo mặc định, do có các chỉ định phần trăm thay đổi. Do đó, trình ghi mã thông báo vXEN và YSL đảm bảo 10.000 mã thông báo XNF, chiếm 50% thị phần. Những người đóng góp mã thông báo gốc được phân bổ 9.000 mã thông báo XNF, tương ứng với phân bổ 45%, trong khi những người tham gia trao đổi được thưởng một phần 1.000 mã thông báo XNF, chiếm 5% còn lại. Quá trình phân phối có hệ thống này được thống nhất trên tất cả các chuỗi EVM, đảm bảo phần thưởng công bằng và tương xứng cho các hoạt động khác nhau của người dùng.
 
 Để xác định tỷ lệ chia sẻ chính xác của mã thông báo XNF mà mỗi người dùng nhận được từ hoạt động đúc tiền hàng ngày, giao thức sẽ tiến hành một loạt các phép tính chính xác tính đến đóng góp của cá nhân người dùng cho từng nhóm hoạt động. Sau khi thu thập dữ liệu về hoạt động của người dùng, giao thức sẽ tính toán số lượng token XNF xứng đáng để phân phối cho mỗi người tham gia. Quy trình nghiêm ngặt này đảm bảo sự phân phối công bằng bằng cách thừa nhận sự tham gia tích cực của người dùng vào việc đốt mã thông báo, đóng góp mã thông báo gốc và các hoạt động hoán đổi. Đáng chú ý, mã thông báo kiếm được từ đóng góp gốc và phí hoán đổi được cung cấp dưới dạng veXNF, củng cố sự tương tác của người dùng với các lợi ích bổ sung.
 
-Giao thức tính toán phần XNF hàng ngày của bạn được phân bổ cho khoản đóng góp phí ghi vXEN , bằng cách tính đến tổng số mã thông báo XNF được phân phối (TD), tổng số lô vXEN được đốt trong chu kỳ (TB) và số lô vXEN bạn đã đốt cháy trong chu kỳ (BB). Đây là công thức phân bổ ghi vXEN (XBA) được giải thích chi tiết:
+Giao thức tính toán phần XNF hàng ngày của bạn được phân bổ cho khoản đóng góp phí ghi, bằng cách tính đến tổng số mã thông báo XNF được phân phối (TD), tổng số lô được đốt trong chu kỳ (TB) và số lô bạn đã đốt trong suốt chu kỳ. chu kỳ (BB). Dưới đây là công thức phân bổ ghi vXEN (BA) được giải thích chi tiết:
 
 <br>
 
 $$
-XBA = (TD \times 25\\%) \times (BB \div TB)
-$$
-
-<br>
-
-<table>
-     <tr>
-         <td><strong>XBA</strong><br>(Phân bổ ghi)</td>
-         <td>Lượng XNF mà một người dùng cụ thể nhận được dựa trên các lô vXEN được đốt trong một chu kỳ.</td>
-     </tr>
-     <tr>
-         <td><strong>TD</strong><br>(Tổng số đã phân phối)</td>
-         <td>Tổng số mã thông báo XNF được phân phối giữa những người dùng trong một chu kỳ cụ thể.</td>
-     </tr>
-     <tr>
-         <td><strong>BB</strong><br>(Đã đốt lô)</td>
-         <td>Số lượng lô vXEN được ghi trong một chu kỳ bởi người dùng cụ thể có mức đóng góp ghi đang được tính toán.</td>
-     </tr>
-     <tr>
-         <td><strong>TB</strong><br>(Tổng số đợt)</td>
-         <td>Tổng số lô vXEN được ghi bởi tất cả người dùng trong một chu kỳ.</td>
-     </tr>
-</table>
-
-<br>
-
-Đây là cách hoạt động: Giao thức tính toán phân bổ ghi vXEN (XBA) của người dùng bằng cách trước tiên nhân tổng số mã thông báo XNF được lên lịch phân phối cho chu kỳ (TD) với 25%, vì 25% số tiền XNF đúc hàng ngày được phân bổ cho những người tham gia. ghi vXEN. Sau đó, nó tính toán tỷ lệ các lô vXEN được đốt bởi người dùng cụ thể (BB) trên tổng số lô vXEN được đốt bởi tất cả người dùng (TB), dẫn đến giá trị trên mỗi lô bị đốt. Cuối cùng, giao thức sẽ nhân các giá trị này để xác định mức phân bổ ghi vXEN riêng lẻ của người dùng cho chu kỳ đó (XBA). Việc tính toán phân bổ chi tiêu YSL (YBA) tuân theo logic tương tự như được nêu trong công thức bên dưới:
-
-<br>
-
-$$
-YBA = (TD \times 25\\%) \times (BB \div TB)
+BA = (TD \times 50\\%) \times (BB \div TB)
 $$
 
 <br>
 
 <table>
-     <tr>
-         <td><strong>YBA</strong><br>(Phân bổ ghi)</td>
-         <td>Lượng XNF mà một người dùng cụ thể nhận được dựa trên lô YSL được đốt trong một chu kỳ.</td>
-     </tr>
-     <tr>
-         <td><strong>TD</strong><br>(Tổng số đã phân phối)</td>
-         <td>Tổng số mã thông báo XNF được phân phối giữa những người dùng trong một chu kỳ cụ thể.</td>
-     </tr>
-     <tr>
-         <td><strong>BB</strong><br>(Đã đốt lô)</td>
-         <td>Số lượng lô YSL được đốt trong một chu kỳ bởi người dùng cụ thể có mức đóng góp đốt đang được tính toán.</td>
-     </tr>
-     <tr>
-         <td><strong>TB</strong><br>(Tổng số đợt)</td>
-         <td>Tổng số lô YSL được đốt bởi tất cả người dùng trong một chu kỳ.</td>
-     </tr>
+    <tr>
+        <td><strong>BA</strong><br>(Phân bổ ghi)</td>
+        <td>Lượng XNF mà một người dùng cụ thể nhận được dựa trên số lô được đốt trong một chu kỳ.</td>
+</tr>
+    <tr>
+        <td><strong>TD</strong><br>(Tổng số đã phân phối)</td>
+        <td>Tổng số mã thông báo XNF được phân phối giữa những người dùng trong một chu kỳ cụ thể.</td>
+</tr>
+    <tr>
+        <td><strong>BB</strong><br>(Đã đốt lô)</td>
+        <td>Số lượng lô được đốt trong một chu kỳ bởi người dùng cụ thể có mức đóng góp đốt đang được tính toán.</td>
+</tr>
+    <tr>
+        <td><strong>TB</strong><br>(Tổng số đợt)</td>
+        <td>Tổng số lô được đốt bởi tất cả người dùng trong một chu kỳ.</td>
+</tr>
 </table>
 
 <br>
+
+Đây là cách hoạt động: Giao thức tính toán mức phân bổ đốt (BA) của người dùng trước tiên bằng cách nhân tổng số mã thông báo XNF được lên lịch phân phối cho chu kỳ (TD) với 50%, vì 50% số tiền XNF đúc hàng ngày được phân bổ cho những người tham gia đốt vXEN hoặc YSL. Sau đó, nó tính toán tỷ lệ các lô được đốt bởi người dùng cụ thể (BB) trên tổng số lô được đốt bởi tất cả người dùng (TB), dẫn đến giá trị trên mỗi lô được đốt. Cuối cùng, giao thức nhân các giá trị này để xác định mức phân bổ ghi riêng lẻ của người dùng cho chu kỳ đó (BA).
 
 Tương tự, giao thức tính toán phân bổ hoán đổi (SA) của bạn cho một chu kỳ, bằng cách tính đến tổng số mã thông báo XNF được lên lịch phân phối cho chu kỳ (TD), tổng phí hoán đổi được trả bởi tất cả người dùng trong chu kỳ (TSF) và phí hoán đổi mà bạn thanh toán trong chu kỳ (USF). Đây là công thức được giải thích chi tiết:
 
@@ -1405,7 +1378,7 @@ Nhưng xin chờ chút nữa! Để tri ân sự tham gia tích cực của họ
 
 ## ⚡️ Ví dụ về phần thưởng tái chế
 
-Hãy xem qua một ví dụ để minh họa cách hoạt động của tính năng tái chế. Hãy tưởng tượng bạn là chủ sở hữu veXNF trên Arbitrum và bạn quyết định tái chế số dư phần thưởng chuỗi gốc của mình là 1,0 ETH trong giờ đầu tiên của chu kỳ. Đầu tiên, giao thức sẽ tính toán mức đóng góp đốt cháy của bạn. Vì giá trị lô là 0,01 ETH trên Arbitrum nên phần thưởng 1,0 ETH của bạn tương đương với 100 lô. 100 lô của bạn sẽ được phân bổ cho lần ghi vXEN hoặc lần ghi YSL, tùy thuộc vào lần ghi nào có mức đóng góp thấp nhất. Tiếp theo, phí đốt của bạn sẽ được khấu trừ vào phần thưởng dựa trên công thức tính phí. Tái chế trong giờ 1 có nghĩa là phí đốt của bạn là 0,4975 ETH.
+Hãy xem qua một ví dụ để minh họa cách hoạt động của tính năng tái chế. Hãy tưởng tượng bạn là chủ sở hữu veXNF trên Arbitrum và bạn quyết định tái chế số dư phần thưởng chuỗi gốc của mình là 1,0 ETH trong giờ đầu tiên của chu kỳ. Đầu tiên, giao thức sẽ tính toán mức đóng góp đốt cháy của bạn. Vì giá trị lô là 0,01 ETH trên Arbitrum nên phần thưởng 1,0 ETH của bạn tương đương với 100 lô. Tiếp theo, phí đốt của bạn sẽ được khấu trừ vào phần thưởng dựa trên công thức tính phí. Tái chế trong giờ 1 có nghĩa là phí đốt của bạn là 0,4975 ETH.
 
 <br>
 
@@ -1539,7 +1512,7 @@ Khi Xenify phát triển, chúng tôi hướng tới ưu tiên lợi ích của 
 
 ## ⭐️ Người dùng đúc tiền vốn của họ
 
-- Mã thông báo XNF sẽ không được khai thác trước hoặc phân bổ cho các nhà đầu tư hoặc thành viên nhóm. Thay vào đó, người dùng có thể nhận được mã thông báo XNF bằng cách tích cực tham gia vào giao thức, cho dù bằng cách đốt mã thông báo vXEN hoặc YSL hoặc hoán đổi mã thông báo từ chuỗi được hỗ trợ. Cách tiếp cận này thưởng cho người dùng vì những đóng góp của họ và đảm bảo phân phối XNF công bằng trong hệ sinh thái.
+- Mã thông báo XNF sẽ không được khai thác trước hoặc phân bổ cho các nhà đầu tư hoặc thành viên nhóm. Thay vào đó, người dùng có thể nhận được mã thông báo XNF bằng cách tích cực tham gia vào giao thức, cho dù bằng cách đốt mã thông báo vXEN hoặc YSL, tham gia phiên đấu giá gốc hoặc trao đổi mã thông báo từ chuỗi được hỗ trợ. Cách tiếp cận này thưởng cho người dùng vì những đóng góp của họ và đảm bảo phân phối XNF công bằng trong hệ sinh thái.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1673,7 +1646,7 @@ Chào mừng bạn đến với Bảng thuật ngữ Xenify , nguồn tài nguy�
 
 ## ◽️ YSL
 
-- YSL đã được thiết kế để trở thành một mã thông báo siêu giảm phát, kết hợp giữa sự khan hiếm có thể định lượng và tiện ích thông qua các cuộc đấu giá đốt hàng ngày của Xenify . Với tổng nguồn cung cố định và cơ chế đốt tích hợp, YSL có khả năng tăng giá trị theo thời gian khi nguồn cung lưu thông giảm. YSL đạt được điều này thông qua việc tích hợp với phiên đấu giá đốt hàng ngày của Xenify , phân bổ 25% XNF mới được đúc cho những người dùng chọn đốt mã thông báo YSL của họ. Nguồn nhu cầu đốt token YSL nhất quán hàng ngày này tạo ra áp lực giảm phát vĩnh viễn, không giống như các token giảm phát khác chỉ phụ thuộc vào hoạt động giao dịch. Nói tóm lại, token giảm phát của YSL mang đến một cơ hội hấp dẫn - với sự khan hiếm, tiện ích được hệ thống hóa và các động lực tăng trưởng giá trị có thể dự đoán được.
+- YSL đã được thiết kế để trở thành một mã thông báo siêu giảm phát, kết hợp giữa sự khan hiếm có thể định lượng và tiện ích thông qua các cuộc đấu giá đốt hàng ngày của Xenify. Với tổng nguồn cung cố định và cơ chế đốt tích hợp, YSL có khả năng tăng giá trị theo thời gian khi nguồn cung lưu thông giảm. YSL đạt được điều này thông qua việc tích hợp với phiên đấu giá đốt hàng ngày của Xenify, phân bổ XNF mới được đúc cho những người dùng chọn đốt mã thông báo YSL của họ. Nguồn nhu cầu đốt token YSL nhất quán hàng ngày này tạo ra áp lực giảm phát vĩnh viễn, không giống như các token giảm phát khác chỉ phụ thuộc vào hoạt động giao dịch. Nói tóm lại, token giảm phát của YSL mang đến một cơ hội hấp dẫn - với sự khan hiếm, tiện ích được hệ thống hóa và các động lực tăng trưởng giá trị có thể dự đoán được.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
