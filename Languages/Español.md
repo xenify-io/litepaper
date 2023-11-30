@@ -173,7 +173,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- XNF tiene un suministro máximo de 22,6 millones de tokens. La distribución se realiza a través de tres subastas diarias. Cada día, el 50% de los tokens XNF se asignan a los participantes de la subasta. Además, el 50 % del suministro diario de XNF está reservado para recompensas veXNF, y estas recompensas se bloquean durante un año antes de su distribución a los participantes en la subasta ETH (45 %) y la subasta Swap (5 %).
+- XNF tiene un suministro máximo de 22,6 millones de tokens. La distribución se realiza a través de tres subastas diarias. Cada día, el 50% de los tokens XNF se asignan a los participantes de la subasta. Además, el 50% del suministro diario de XNF está reservado para recompensas veXNF, y estas recompensas se bloquean durante un año antes de su distribución a los participantes en la subasta ETH (45%) y la subasta Swap (5%).
 
 - Xenify emplea un programa agresivo de reducción a la mitad para su distribución de tokens. La primera reducción se produce a los 3 meses, seguida de otra a los 6 meses y reducciones posteriores a la mitad a los 12, 24 y 48 meses. Después de estas cinco reducciones iniciales, hay tres reducciones adicionales, cada una de las cuales ocurre cada 48 meses. Esta mecánica de reducción a la mitad está diseñada para reducir gradualmente la distribución diaria de tokens XNF.
 
@@ -400,7 +400,7 @@ Xenify pone gran énfasis en la equidad y las inversiones a largo plazo. Creemos
 
 - En la subasta diaria de ETH, los participantes reciben el 45% del suministro diario de XNF como recompensas veXNF, que están bloqueadas durante un año antes de que sean reclamables. Estas recompensas, una vez reclamadas, aumentan el poder adquisitivo del participante para futuras ganancias de ETH. Se aplica una tarifa nativa de 0,01 ETH por lote tanto para las subastas de quema como para las de ETH.
 
-- Los participantes en la subasta de Swap reciben el 5 % restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
+- Los participantes en la subasta de Swap reciben el 5% restante del suministro de XNF como recompensas veXNF, sujetas al mismo bloqueo reclamable de un año, lo que mejora su poder adquisitivo al realizar la reclamación.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1157,7 +1157,7 @@ $$
 
 <br>
 
-Así es como funciona: el protocolo calcula la asignación de quema (BA) del usuario multiplicando primero el total de tokens XNF programados para distribuirse durante el ciclo (TD) por 50 %, ya que el 50 % de la menta diaria de XNF se asigna a los participantes que queman. vXEN o YSL. Luego calcula la proporción de lotes quemados por el usuario específico (BB) con respecto al total de lotes quemados por todos los usuarios (TB), lo que da como resultado un valor por lote quemado. Finalmente, el protocolo multiplica estos valores para determinar la asignación de quemado individual del usuario para ese ciclo (BA).
+Así es como funciona: el protocolo calcula la asignación de quema (BA) del usuario multiplicando primero el total de tokens XNF programados para distribuirse durante el ciclo (TD) por 50%, ya que el 50% de la menta diaria de XNF se asigna a los participantes que queman. vXEN o YSL. Luego calcula la proporción de lotes quemados por el usuario específico (BB) con respecto al total de lotes quemados por todos los usuarios (TB), lo que da como resultado un valor por lote quemado. Finalmente, el protocolo multiplica estos valores para determinar la asignación de quemado individual del usuario para ese ciclo (BA).
 
 Del mismo modo, el protocolo calcula su asignación de intercambio (SA) para un ciclo, teniendo en cuenta el total de tokens XNF programados para ser distribuidos para el ciclo (TD), el total de comisiones de intercambio pagadas por todos los usuarios durante el ciclo (TSF), y las comisiones de intercambio pagadas por usted durante el ciclo (USF). He aquí la fórmula explicada en detalle:
 
