@@ -71,11 +71,11 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- Arbitrum'daki günlük yakma müzayedelerinde kullanıcılar 1 ila 10.000 parti arasında yakabilir. Her YSL yazma grubu 0,1 YSL'ye eşittir ve her vXEN yazma grubu 10.000.000 vXEN'e eşdeğerdir. Hem yakma hem de ETH açık artırmaları için parti başına 0,01 ETH tutarında yerel ücret uygulanır.
+- Arbitrum'daki günlük yakma müzayedesinde katılımcılar vXEN ve YSL yakma seçeneğine sahiptir. Bir kullanıcı 1 ila 10,000 parti arasında herhangi bir yerde yakmayı seçebilir. Tek bir parti elde etmek için kullanıcının minimum 0.01 YSL veya 10,000,000 vXEN'e ihtiyacı olacaktır. Döngünün sonunda, yakılan partilerin miktarına bağlı olarak XNF tedarikinin %50'si yakma açık artırması katılımcılarına dağıtılır.
 
-- Günlük XNF tedarikinin yarısı, YSL ve vXEN Yakma Açık Artırmaları arasında eşit olarak paylaştırılarak günlük yakma müzayedelerinin katılımcılarına dağıtılır. Örneğin, bir döngüde 1 YSL grubu ve 10.000 vXEN grubu yakılırsa, tek YSL grubunu yakan kullanıcı günlük XNF tedarikinin tam %25'ini alırken, vXEN yazıcıları kalan %25'i kendi değerlerine göre böler. katkıları yak.
+- Günlük ETH açık artırmasında katılımcılar günlük XNF arzının %45'ini veXNF ödülü olarak alırlar. Bu ödüller talep edilebilir hale gelmeden önce bir yıl süreyle kilitlenir. Bu ödüller, talep edildikten sonra katılımcının gelecekteki ETH kazançları için kazanma gücünü artırır. Hem yakma hem de ETH açık artırmaları için parti başına 0,01 ETH tutarında yerel ücret uygulanır.
 
-- ETH açık artırmasında katılımcılar günlük XNF arzının %45'ını veXNF ödülleri olarak alırlar ve bu ödüller talep edilebilir hale gelmeden önce bir yıl süreyle kilitlenir. Bu ödüller bir kez talep edildiğinde katılımcının gelecekteki ETH kazançları için kazanma gücünü artırır. Swap müzayedesine katılanlar, XNF arzının kalan %5'unu veXNF ödülleri olarak alır; bu, aynı bir yıllık talep edilebilir kilide tabidir ve talep üzerine kazanç güçlerini artırır.
+- Swap müzayedesine katılanlara XNF arzının kalan %5'i veXNF ödülü olarak verilir. Bu ödüller aynı bir yıllık talep edilebilir kilide tabidir ve talep üzerine kazanç güçlerini artırır.
 
 <br>
 
