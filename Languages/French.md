@@ -71,11 +71,11 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 <br>
 
-- Lors des enchères quotidiennes sur Arbitrum, les utilisateurs peuvent graver de 1 à 10 000 lots. Chaque lot de gravure YSL équivaut à 0,1 YSL et chaque lot de gravure vXEN équivaut à 10 000 000 vXEN. Des frais natifs de 0,01 ETH s'appliquent par lot pour les enchères de gravure et d'ETH.
+- Lors de l'enchère de gravure quotidienne sur Arbitrum, les participants ont la possibilité de graver vXEN et YSL. Un utilisateur peut choisir de graver entre 1 et 10,000 lots. Pour acquérir un seul lot, un utilisateur aura besoin d'un minimum de 0.01 YSL ou 10,000,000 de vXEN. A la fin du cycle, 50% de l'offre XNF est distribuée aux participants aux enchères de brûlage, en fonction du nombre de lots brûlés.
 
-- La moitié de l'offre quotidienne de XNF est distribuée aux participants aux enchères quotidiennes de burn, réparties à parts égales entre les enchères YSL et vXEN Burn. Par exemple, si 1 lot YSL et 10 000 lots vXEN sont gravés au cours d'un cycle, l'utilisateur qui a gravé le lot YSL unique recevra 25% de l'approvisionnement quotidien en XNF, tandis que les graveurs vXEN diviseront les 25% restants en fonction de leur brûler les contributions.
+- Lors de l'enchère quotidienne d'ETH, les participants reçoivent 45% de l'offre quotidienne de XNF sous forme de récompenses veXNF. Ces récompenses sont bloquées pendant un an avant de pouvoir être réclamées. Une fois réclamées, ces récompenses augmentent la capacité de gain du participant pour les futurs gains en ETH. Des frais natifs de 0,01 ETH s’appliquent par lot pour les enchères Burn et ETH.
 
-- Lors de l'enchère ETH, les participants reçoivent 45% de l'offre quotidienne de XNF sous forme de récompenses veXNF, qui sont verrouillées pendant un an avant de pouvoir être réclamées. Ces récompenses, une fois réclamées, augmentent la capacité de gain du participant pour les futurs gains en ETH. Les participants à l'enchère Swap reçoivent les 5% restants de l'offre XNF sous forme de récompenses veXNF, sous réserve du même verrouillage d'un an récupérable, améliorant ainsi leur pouvoir de gain lors de la réclamation.
+- Les participants à l'enchère Swap reçoivent les 5 % restants de l'offre XNF sous forme de récompenses veXNF. Ces récompenses sont soumises au même blocage de réclamation d'un an, ce qui améliore leur pouvoir de gain lors de leur réclamation.
 
 <br>
 
