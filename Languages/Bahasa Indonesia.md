@@ -71,11 +71,11 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- Dalam lelang pembakaran harian di Arbitrum, pengguna dapat membakar 1 hingga 10,000 batch. Setiap kumpulan pembakaran YSL sama dengan 0.1 YSL, dan setiap kumpulan pembakaran vXEN setara dengan 10,000,000 vXEN. Biaya asli sebesar 0.01 ETH berlaku per batch untuk lelang burn dan ETH.
+- Dalam lelang pembakaran harian di Arbitrum, peserta memiliki opsi untuk membakar vXEN dan YSL. Seorang pengguna dapat memilih untuk membakar 1 hingga 10.000 batch. Untuk memperoleh satu batch, pengguna memerlukan minimal 0,01 YSL, atau 10.000.000 vXEN. Pada akhir siklus, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran berdasarkan jumlah batch yang dibakar.
 
-- Setengah dari pasokan XNF harian didistribusikan kepada peserta lelang pembakaran harian, dibagi rata antara Lelang Pembakaran YSL dan vXEN. Misalnya, jika 1 batch YSL dan 10,000 batch vXEN dibakar dalam satu siklus, pengguna yang membakar satu batch YSL akan menerima 25% penuh dari pasokan XNF harian, sedangkan pembakar vXEN akan membagi 25% sisanya berdasarkan pada mereka membakar kontribusi.
+- XNF memiliki pasokan maksimum 22,6 juta token. Distribusi terjadi melalui tiga lelang harian. Setiap hari, 50% token XNF dialokasikan untuk membakar peserta lelang. Selain itu, 50% dari pasokan XNF harian dicadangkan untuk hadiah veXNF, dengan hadiah ini dikunci selama satu tahun sebelum didistribusikan kepada peserta Lelang ETH (45%) dan Lelang Swap (5%).
 
-- Dalam lelang ETH, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF, yang dikunci selama satu tahun sebelum dapat diklaim. Hadiah ini, setelah diklaim, akan meningkatkan kekuatan pendapatan peserta untuk pendapatan ETH di masa depan. Peserta dalam lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF, yang tunduk pada kunci klaim satu tahun yang sama, sehingga meningkatkan kekuatan penghasilan mereka saat melakukan klaim.
+- Peserta dalam lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF, yang tunduk pada kunci klaim satu tahun yang sama, sehingga meningkatkan kekuatan penghasilan mereka saat melakukan klaim.
 
 <br>
 
@@ -173,7 +173,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- XNF memiliki pasokan maksimum 22,6 juta token. Distribusi terjadi melalui empat lelang harian. Setiap hari, persentase tertentu dari token XNF dialokasikan kepada peserta lelang: 25% untuk Lelang Pembakaran YSL dan 25% lainnya untuk peserta Lelang Pembakaran vXEN. Selain itu, 50% dari pasokan XNF harian dicadangkan untuk hadiah veXNF, dengan hadiah ini dikunci selama satu tahun sebelum didistribusikan kepada peserta Lelang ETH (45%) dan Lelang Swap (5%).
+- XNF memiliki pasokan maksimum 22,6 juta token. Distribusi terjadi melalui tiga lelang harian. Setiap hari, 50% token XNF dialokasikan untuk membakar peserta lelang. Selain itu, 50% dari pasokan XNF harian dicadangkan untuk hadiah veXNF, dengan hadiah ini dikunci selama satu tahun sebelum didistribusikan kepada peserta Lelang ETH (45%) dan Lelang Swap (5%).
 
 - Xenify menerapkan jadwal separuh yang agresif untuk distribusi tokennya. Pengurangan pertama terjadi pada tanda 3 bulan, diikuti oleh pengurangan berikutnya pada 6 bulan, dan pengurangan separuh berikutnya pada 12, 24, dan 48 bulan. Setelah lima pengurangan awal ini, terdapat tiga pengurangan tambahan, yang masing-masing terjadi setiap 48 bulan. Mekanisme halving ini dirancang untuk secara bertahap mengurangi distribusi harian token XNF.
 
@@ -394,11 +394,13 @@ Xenify sangat menekankan pada ekuitas dan investasi jangka panjang. Kami percaya
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ✨ Lelang Pembakaran Harian
+## ✨ Lelang XNF Harian
 
-- Dalam lelang pembakaran harian yang diselenggarakan di Arbitrum, pengguna memiliki opsi untuk membakar 1 hingga 10.000 batch. Satu batch pembakaran YSL mewakili 0,1 YSL, sedangkan batch pembakaran vXEN setara dengan 10.000.000 vXEN. Biaya asli sebesar 0,01 ETH diterapkan per batch dalam lelang pembakaran dan ETH.
+- Dalam lelang pembakaran harian di Arbitrum, peserta memiliki opsi untuk membakar vXEN dan YSL. Seorang pengguna dapat memilih untuk membakar 1 hingga 10.000 batch. Untuk memperoleh satu batch, pengguna memerlukan minimal 0,01 YSL, atau 10.000.000 vXEN. Pada akhir siklus, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran berdasarkan jumlah batch yang dibakar.
 
-- Setiap hari, 50% pasokan XNF didistribusikan kepada peserta lelang pembakaran harian. Distribusinya dialokasikan secara merata antara Lelang Pembakaran YSL dan Lelang Pembakaran vXEN. Misalnya, jika hanya 1 kumpulan YSL yang dibakar dan 10.000 kumpulan vXEN dibakar pada siklus tertentu, pengguna yang membakar satu kumpulan YSL akan menerima seluruh 25% pasokan XNF harian, sedangkan pembakar vXEN akan berbagi 25% lainnya berdasarkan kelompok pembakaran masing-masing.
+- Dalam lelang ETH harian, peserta menerima 45% pasokan XNF harian sebagai hadiah veXNF, yang dikunci selama satu tahun sebelum dapat diklaim. Hadiah ini, setelah diklaim, akan meningkatkan kekuatan pendapatan peserta untuk pendapatan ETH di masa depan. Biaya asli sebesar 0,01 ETH berlaku per batch untuk lelang burn dan ETH.
+
+- Peserta dalam lelang Swap akan mendapatkan sisa 5% pasokan XNF sebagai hadiah veXNF, yang tunduk pada kunci klaim satu tahun yang sama, sehingga meningkatkan kekuatan penghasilan mereka saat melakukan klaim.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -719,7 +721,7 @@ Dengan total pasokan yang dibatasi pada 22,6 juta token XNF, yang secara strateg
 
 - **21,000,000 XNF ditugaskan untuk lelang harian:** Pengguna yang berpartisipasi dalam berbagai kegiatan yang mendukung pengembangan protokol yang sedang berlangsung akan memiliki kesempatan untuk mendapatkan bagian dari token XNF yang didedikasikan untuk lelang harian.
 
-  - 10,500,000 XNF (50%) didistribusikan kepada peserta lelang burn. Alokasi ini akan didistribusikan secara merata, dengan 50% disisihkan untuk burner vXEN dan 50% sisanya untuk burner YSL. Jika tidak ada pembakar YSL selama satu siklus, seluruh alokasi XNF harian yang ditetapkan untuk lelang bakar akan didistribusikan di antara pembakar vXEN, dan sebaliknya.
+  - 10.500.000 XNF (50%) dibagikan kepada peserta lelang pembakaran berdasarkan jumlah batch yang dibakar pada setiap siklusnya.
     
   - 9,450,000 XNF (45%) didistribusikan kepada pengguna yang menyumbangkan token asli untuk berpartisipasi dalam lelang harian. Token XNF ini akan didistribusikan di antara para peserta dalam bentuk veXNF, dengan periode penguncian terkait selama 1 tahun.
 
@@ -858,7 +860,7 @@ Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berub
 
 Proses pencetakan XNF di dalam Xenify telah disusun dengan cermat untuk memberi penghargaan kepada pengguna yang secara aktif terlibat dan berkontribusi pada pertumbuhan protokol. Inisiatif ini memastikan distribusi token XNF yang adil dan mendorong protokol yang benar-benar terdesentralisasi dan digerakkan oleh komunitas. Model insentif Xenify dibuat dengan hati-hati, menawarkan imbalan yang proporsional kepada pengguna yang mengintensifkan keterlibatan mereka dengan platform. Pendekatan semacam itu mendorong partisipasi lebih lanjut, karena pengguna dapat memperoleh token XNF yang baru dicetak relatif terhadap aktivitas platform mereka.
 
-Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah sebesar 20.000 token XNF. Alokasi harian ini dibagi menjadi empat cara: 25% didistribusikan kepada pengguna yang membakar vXEN, 25% didistribusikan kepada pengguna yang membakar YSL, 45% didistribusikan kepada kontributor token asli, dan 5% sisanya didistribusikan di antara kontributor biaya swap platform. Alokasi harian ini juga akan meluas ke semua rantai penyebaran lainnya di masa mendatang. Melalui penerapan model halving, jumlah pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
+Distribusi token XNF mengikuti siklus satu hari, dimulai dengan kumpulan hadiah sebanyak 20.000 token XNF. Alokasi harian ini dibagi dalam tiga cara: 50% didistribusikan ke pengguna yang menggunakan vXEN atau YSL, 45% didistribusikan ke kontributor token asli, dan 5% sisanya didistribusikan ke kontributor biaya swap platform. Alokasi harian ini juga akan diperluas ke semua rantai penerapan lainnya di masa depan. Melalui penerapan model halving, kuantitas pencetakan harian secara bertahap berkurang, yang berpuncak pada distribusi lengkap dari total 22,6 juta token XNF pada bulan 2461.
 
 Pengguna diberi insentif lebih lanjut melalui mekanisme penguncian protokol, yang memungkinkan mereka mengumpulkan hadiah dalam bentuk token asli khusus rantai, seperti ETH di Arbitrum. Imbalan ini dihasilkan dari berbagai aktivitas dalam Xenify, khususnya dari biaya pembakaran, biaya swap, dan biaya asli. Model insentif tiga tingkat kami yang unik mendorong pengguna untuk menggunakan Xenify untuk mendapatkan XNF, sekaligus memberi penghargaan kepada mereka yang mengunci token XNF mereka untuk mendapatkan hadiah asli. Hal ini berfungsi sebagai roda gila, mendorong pertumbuhan jangka panjang Xenify sambil mengembangkan sistem penghargaan yang dinamis dan berkelanjutan yang memberi insentif pada basis pengguna yang terus berkembang.
 
@@ -868,7 +870,7 @@ Pengguna diberi insentif lebih lanjut melalui mekanisme penguncian protokol, yan
 
 Xenify memberdayakan pengguna untuk dengan mudah membakar token vXEN atau YSL langsung dari dompet mereka untuk berpartisipasi dalam siklus pembakaran harian. Untuk mendapatkan XNF dengan XEN, Anda harus melalui proses pembakaran varian token XEN Anda untuk ditukar dengan vXEN. Harap diperhatikan bahwa jumlah vXEN yang diperlukan per batch ditetapkan sebesar 10.000.000 vXEN, namun, jumlah XEN yang diperlukan untuk mendapatkan satu batch akan bervariasi berdasarkan [rasio pembakaran](https://github.com/xenify-io/litepaper/blob/main/Languages/Bahasa%20Indonesia.md#%EF%B8%8F-vxen---menyatukan-pembakaran) yang berlaku untuk setiap varian XEN. Sebagai contoh, jika Anda ingin mengambil bagian dalam lelang burn Xenify di Arbitrum, Anda memerlukan minimal 10.000.000 XEN untuk dibakar (dengan rasio pembakaran 1:1), dan sebagai gantinya, Anda akan menerima 1 batch vXEN (10.000.000 vXEN). Fungsi pembakaran ini memposisikan protokol kami sebagai pemain kunci dalam pembakaran lapisan-1 token XEN. Setiap kali Anda membakar token XEN, alamat Anda akan dicatat dalam catatan pembakaran X1, dan sebagai gantinya, Anda akan menerima vXEN.
 
-Penting untuk diperhatikan bahwa ketika Anda memutuskan untuk membakar vXEN Anda untuk berpartisipasi dalam lelang pembakaran harian dengan alokasi XNF, maka akan dikenakan Biaya Bakar. Di akhir siklus, Anda akan menerima token XNF berdasarkan jumlah batch vXEN yang Anda bakar. Sama halnya dengan proses pembakaran vXEN, pembakaran token YSL Anda juga akan dikenakan Biaya Pembakaran. Tingkat konversi untuk memperoleh satu batch selama proses pembakaran YSL akan ditetapkan, dengan 0,1 YSL setara dengan satu batch. Di akhir siklus, Anda akan menerima token XNF berdasarkan jumlah batch YSL yang Anda bakar.
+Penting untuk dicatat bahwa ketika Anda memutuskan untuk membakar vXEN Anda untuk berpartisipasi dalam lelang pembakaran harian untuk alokasi XNF, akan dikenakan Biaya Pembakaran. Mirip dengan proses pembakaran vXEN, pembakaran token YSL Anda juga dikenakan Biaya Pembakaran. Tingkat konversi untuk memperoleh satu batch selama proses pembakaran akan ditetapkan, dengan satu batch setara dengan 0,01 YSL atau 10.000.000 vXEN. Di akhir siklus, Anda akan menerima token XNF berdasarkan jumlah total batch yang Anda bakar.
 
 Terlepas dari apakah Anda memilih untuk membakar vXEN atau YSL, nilai per batch (VB) akan bergantung pada rantai tertentu yang Anda pilih untuk pembakaran. Nilai ini akan ditetapkan pada saat penerapan Xenify, dan akan secara dinamis didasarkan pada harga token asli rantai saat ini. Nilai kumulatif dari batch yang Anda bakar akan memainkan peran langsung dalam menentukan Biaya Bakar (BF) yang diperlukan untuk menjalankan fungsi pembakaran, memastikan proses yang lancar dan transparan untuk semua peserta.
 
@@ -922,7 +924,7 @@ Protokol Xenify memungkinkan pengguna untuk membakar token vXEN atau YSL untuk m
 
 Formula biaya pembakaran dirancang untuk mempertimbangkan berbagai faktor, termasuk waktu pembakaran selama siklus, jumlah batch yang dibakar, dan nilai yang terkait. Bagian terbaiknya? Semakin banyak batch yang dibakar pengguna, semakin besar diskon yang akan mereka nikmati, dengan potensi penghematan hingga 75% untuk 10.000 batch selama satu jam pertama setiap siklus. Ini menciptakan insentif yang menarik bagi pengguna untuk terlibat dalam operasi pembakaran yang lebih besar di awal siklus.
 
-Sekarang, Anda mungkin bertanya-tanya, apa sebenarnya yang dimaksud dengan batch? Sebuah batch mewakili sejumlah token, baik vXEN maupun YSL, yang diperlukan untuk berpartisipasi dalam proses pembakaran. Secara khusus, satu batch vXEN setara dengan 10.000.000 vXEN, sedangkan satu batch YSL setara dengan 0,1 YSL.
+Sekarang Anda mungkin bertanya-tanya, apa sebenarnya batch itu? Batch mewakili sejumlah token, baik vXEN atau YSL, yang diperlukan untuk berpartisipasi dalam proses pembakaran. Secara khusus, satu batch vXEN setara dengan 10.000.000 vXEN, sedangkan satu batch YSL setara dengan 0,01 YSL.
 
 Dengan menerapkan faktor ini ke dalam rumus pembakaran, kami memastikan bahwa pengguna menerima diskon secara proporsional dengan volume batch yang mereka bakar. Nilai per batch untuk sebuah chain ditetapkan ketika Xenify digunakan, dan akan secara dinamis berdasarkan harga token asli chain saat ini dengan menggunakan rumus di bawah ini:
 
@@ -1118,44 +1120,44 @@ Membandingkan skenario ini menyoroti manfaat pembakaran batch pada jam pertama d
 
 ## ⭐️ Siklus Distribusi XNF
 
-Xenify mengadopsi pendekatan strategis untuk mengalokasikan token XNF setiap hari, dengan fokus memberi penghargaan kepada empat kelompok peserta utama dalam ekosistem semua rantai EVM tempat Xenify beroperasi. Kelompok-kelompok ini diakui melalui persentase yang telah ditentukan dari total token harian yang dicetak: 25% diberikan kepada pengguna yang membakar token vXEN, 25% lagi kepada mereka yang membakar token YSL, bagian yang lebih besar yaitu 45% kepada kontributor token asli, dan 5% terakhir kepada mereka yang terlibat dalam pertukaran token.
+Xenify mengadopsi pendekatan strategis untuk mengalokasikan token XNF setiap hari, dengan fokus memberi penghargaan kepada tiga kelompok peserta utama dalam ekosistem semua rantai EVM tempat Xenify beroperasi. Kelompok-kelompok ini diakui melalui persentase yang telah ditentukan dari total token harian yang dicetak: 50% diberikan kepada pengguna yang membakar token vXEN atau token YSL, 45% kepada kontributor token asli, dan 5% terakhir kepada mereka yang terlibat dalam pertukaran token.
 
-Misalnya, dengan volume pencetakan harian sebesar 20,000 token XNF, penjatahan tidak dibagi rata secara default, mengingat penetapan persentase variabel. Akibatnya, pembakar token vXEN dan pembakar token YSL masing-masing mengamankan 5,000 token XNF, yang mewakili 25% sahamnya masing-masing. Kontributor token asli diberi 9,000 token XNF, sesuai dengan alokasi 45%, sementara peserta swap diberikan bagian 1,000 token XNF, yang merupakan 5% sisanya. Proses distribusi sistematis ini seragam di seluruh rantai EVM, memastikan imbalan yang adil dan proporsional untuk beragam aktivitas pengguna.
+Misalnya, dengan volume pencetakan harian sebesar 20.000 token XNF, penjatahan tidak dibagi rata secara default, mengingat penetapan persentase variabel. Akibatnya, pembakar token vXEN dan YSL mengamankan 10.000 token XNF, mewakili 50% bagian. Kontributor token asli mendapat 9.000 token XNF, sesuai dengan alokasi 45%, sementara peserta swap diberikan bagian 1.000 token XNF, yang merupakan 5% sisanya. Proses distribusi sistematis ini seragam di seluruh rantai EVM, memastikan imbalan yang adil dan proporsional untuk beragam aktivitas pengguna.
 
 Untuk menentukan pembagian token XNF yang tepat yang diterima setiap pengguna dari pencetakan harian, protokol melakukan serangkaian penghitungan tepat yang memperhitungkan kontribusi individu pengguna ke setiap kumpulan aktivitas. Setelah pengumpulan data aktivitas pengguna, protokol menghitung jumlah token XNF yang layak untuk didistribusikan ke setiap peserta. Proses yang ketat ini menjamin distribusi yang adil dengan mengakui partisipasi aktif pengguna dalam pembakaran token, kontribusi token asli, dan aktivitas pertukaran. Khususnya, token yang diperoleh dari kontribusi asli dan biaya swap disediakan sebagai veXNF, sehingga memperkuat keterlibatan pengguna dengan manfaat tambahan.
 
-Protokol menghitung bagian Anda dari XNF harian yang dialokasikan untuk kontribusi biaya pembakaran vXEN, dengan mempertimbangkan total token XNF yang didistribusikan (TD), jumlah total batch vXEN yang dibakar selama siklus (TB), dan jumlah batch vXEN yang Anda bakar selama siklus (BB). Berikut rumus untuk alokasi pembakaran vXEN (XBA) yang dijelaskan secara rinci:
+Protokol menghitung bagian Anda dari XNF harian yang dialokasikan untuk kontribusi biaya pembakaran, dengan memperhitungkan total token XNF yang didistribusikan (TD), jumlah total batch yang dibakar selama siklus (TB), dan jumlah batch yang Anda bakar selama siklus (BB). Berikut rumus alokasi burn (BA) vXEN yang dijelaskan secara detail:
 
 <br>
 
 $$
-XBA = (TD \times 25\\%) \times (BB \div TB)
+BA = (TD \kali 50\\%) \kali (BB \div TB)
 $$
 
 <br>
 
-<table>
+<tabel>
     <tr>
-        <td><strong>XBA</strong><br>(Alokasi Pembakaran)</td>
-        <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch vXEN yang dibakar selama satu siklus.</td>
+        <td><strong>BA</strong><br>(Alokasi Pembakaran)</td>
+        <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch yang dibakar selama satu siklus.    </td>
     </tr>
     <tr>
-        <td><strong>TD</strong><br>(Total Didistribusikan)</td>
+        <td><strong>TD</strong><br>(Jumlah yang Didistribusikan)</td>
         <td>Jumlah total token XNF yang didistribusikan di antara pengguna selama siklus tertentu.</td>
     </tr>
     <tr>
-        <td><strong>BB</strong><br>(Batch yang Dibakar)</td>
-        <td>Jumlah batch vXEN yang dibakar selama siklus oleh pengguna tertentu yang kontribusi pembakarannya sedang dihitung.</td>
+        <td><strong>BB</strong><br>(Batch Terbakar)</td>
+        <td>Jumlah batch yang dibakar selama satu siklus oleh pengguna tertentu yang kontribusi pembakarannya sedang dihitung.</td>
     </tr>
     <tr>
         <td><strong>TB</strong><br>(Total Batch)</td>
-        <td>Jumlah gabungan batch vXEN yang dibakar oleh semua pengguna selama satu siklus.</td>
+        <td>Jumlah gabungan batch yang dibakar oleh semua pengguna selama satu siklus.</td>
     </tr>
-</table>
+</tabel>
 
 <br>
 
-Begini cara kerjanya: Protokol menghitung alokasi pembakaran vXEN (XBA) pengguna dengan terlebih dahulu mengalikan total token XNF yang dijadwalkan untuk didistribusikan untuk siklus (TD) sebesar 25%, karena 25% dari pencetakan harian XNF dialokasikan kepada peserta yang bakar vXEN. Kemudian menghitung proporsi kumpulan vXEN yang dibakar oleh pengguna tertentu (BB) terhadap total kumpulan vXEN yang dibakar oleh semua pengguna (TB), sehingga menghasilkan nilai per kumpulan yang dibakar. Terakhir, protokol mengalikan nilai-nilai ini untuk menentukan alokasi pembakaran vXEN individual pengguna untuk siklus tersebut (XBA). Perhitungan alokasi pembakaran YSL (YBA) mengikuti logika yang sama seperti yang diuraikan dalam rumus di bawah ini:
+Begini cara kerjanya: Protokol menghitung alokasi pembakaran (BA) pengguna dengan terlebih dahulu mengalikan total token XNF yang dijadwalkan untuk didistribusikan untuk siklus (TD) sebesar 50%, karena 50% dari pencetakan harian XNF dialokasikan kepada peserta yang melakukan pembakaran. vXEN atau YSL. Kemudian menghitung proporsi kumpulan yang dibakar oleh pengguna tertentu (BB) terhadap total kumpulan yang dibakar oleh semua pengguna (TB), sehingga menghasilkan nilai per kumpulan yang dibakar. Terakhir, protokol mengalikan nilai-nilai ini untuk menentukan alokasi pembakaran individual pengguna untuk siklus tersebut (BA).
 
 <br>
 
