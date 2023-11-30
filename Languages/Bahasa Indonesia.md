@@ -1159,35 +1159,6 @@ $$
 
 Begini cara kerjanya: Protokol menghitung alokasi pembakaran (BA) pengguna dengan terlebih dahulu mengalikan total token XNF yang dijadwalkan untuk didistribusikan untuk siklus (TD) sebesar 50%, karena 50% dari pencetakan harian XNF dialokasikan kepada peserta yang melakukan pembakaran. vXEN atau YSL. Kemudian menghitung proporsi kumpulan yang dibakar oleh pengguna tertentu (BB) terhadap total kumpulan yang dibakar oleh semua pengguna (TB), sehingga menghasilkan nilai per kumpulan yang dibakar. Terakhir, protokol mengalikan nilai-nilai ini untuk menentukan alokasi pembakaran individual pengguna untuk siklus tersebut (BA).
 
-<br>
-
-$$
-YBA = (TD \times 25\\%) \times (BB \div TB)
-$$
-
-<br>
-
-<table>
-    <tr>
-        <td><strong>YBA</strong><br>(Alokasi Pembakaran)</td>
-        <td>Jumlah XNF yang diperoleh pengguna tertentu berdasarkan batch YSL yang dibakar selama satu siklus.</td>
-    </tr>
-    <tr>
-        <td><strong>TD</strong><br>(Total Didistribusikan)</td>
-        <td>Jumlah total token XNF yang didistribusikan di antara pengguna selama siklus tertentu.</td>
-    </tr>
-    <tr>
-        <td><strong>BB</strong><br>(Batch yang Dibakar)</td>
-        <td>Jumlah batch YSL yang dibakar selama siklus oleh pengguna tertentu yang kontribusi pembakarannya sedang dihitung.</td>
-    </tr>
-    <tr>
-        <td><strong>TB</strong><br>(Total Batch)</td>
-        <td>Jumlah gabungan batch YSL yang dibakar oleh semua pengguna selama satu siklus.</td>
-    </tr>
-</table>
-
-<br>
-
 Demikian pula, protokol menghitung alokasi swap (SA) Anda untuk sebuah siklus, dengan memperhitungkan total token XNF yang dijadwalkan untuk didistribusikan untuk siklus tersebut (TD), total biaya swap yang dibayarkan oleh semua pengguna selama siklus tersebut (TSF), dan biaya swap yang dibayarkan oleh Anda selama siklus tersebut (USF). Berikut adalah rumus yang dijelaskan secara rinci:
 
 <br>
@@ -1407,7 +1378,7 @@ Untuk memanfaatkan fitur daur ulang ini, pastikan Anda memiliki saldo reward ran
 
 ## ⚡️ Contoh Hadiah Daur Ulang
 
-Mari kita lihat sebuah contoh untuk mengilustrasikan cara kerja fitur daur ulang. Bayangkan Anda adalah pemegang veXNF di Arbitrum, dan Anda memutuskan untuk mendaur ulang saldo reward chain asli Anda sebesar 1,0 ETH selama satu jam pertama siklus. Pertama, protokol menghitung kontribusi pembakaran Anda. Karena nilai batch adalah 0,01 ETH di Arbitrum, reward 1,0 ETH Anda setara dengan 100 batch. 100 batch Anda akan dialokasikan ke burn vXEN atau burn YSL, tergantung pada burn mana yang memiliki kontribusi terendah. Selanjutnya, biaya burn Anda akan dipotong dari reward berdasarkan rumus biaya. Daur ulang pada jam ke-1 berarti biaya burn Anda adalah 0,4975 ETH.
+Mari kita lihat contoh untuk mengilustrasikan cara kerja fitur daur ulang. Bayangkan Anda adalah pemegang veXNF di Arbitrum, dan Anda memutuskan untuk mendaur ulang saldo hadiah rantai asli Anda sebesar 1,0 ETH selama jam pertama siklus. Pertama, protokol menghitung kontribusi pembakaran Anda. Karena nilai batch di Arbitrum adalah 0,01 ETH, hadiah 1.0 ETH Anda setara dengan 100 batch. Selanjutnya, biaya pembakaran Anda dipotong dari hadiah berdasarkan rumus biaya. Mendaur ulang dalam jam 1 berarti biaya pembakaran Anda adalah 0.4975 ETH.
 
 <br>
 
@@ -1541,7 +1512,7 @@ Seiring berkembangnya Xenify, kami bertujuan untuk memprioritaskan kepentingan p
 
 ## ⭐️ Pengguna Mencetak Ekuitas Mereka
 
-- Token XNF tidak akan ditambang sebelumnya atau dialokasikan untuk investor atau anggota tim. Sebaliknya, pengguna dapat memperoleh token XNF dengan secara aktif terlibat dengan protokol, baik dengan membakar token vXEN atau YSL, atau menukar token dari rantai yang didukung. Pendekatan ini memberi penghargaan kepada pengguna atas kontribusinya dan menjamin distribusi XNF yang adil di dalam ekosistem.
+- Token XNF tidak akan ditambang atau dialokasikan kepada investor atau anggota tim. Sebaliknya, pengguna dapat memperoleh token XNF dengan secara aktif terlibat dengan protokol, baik dengan membakar token vXEN atau YSL, berpartisipasi dalam lelang asli, atau menukar token dari rantai yang didukung. Pendekatan ini memberikan penghargaan kepada pengguna atas kontribusi mereka dan menjamin distribusi XNF yang adil dalam ekosistem.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1675,7 +1646,7 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 ## ◽️ YSL
 
-- YSL telah direkayasa untuk menjadi token hiper-deflasi, memadukan kelangkaan dan utilitas yang dapat diukur melalui lelang pembakaran harian Xenify. Dengan total pasokan yang tetap dan mekanisme pembakaran bawaan, YSL memiliki potensi untuk meningkat nilainya seiring waktu ketika pasokan yang beredar berkurang. YSL mencapai hal ini melalui integrasinya dengan lelang pembakaran harian Xenify, yang mengalokasikan 25% dari XNF yang baru dicetak untuk pengguna yang memilih untuk membakar token YSL mereka. Sumber permintaan harian yang konsisten untuk membakar token YSL ini menghasilkan tekanan deflasi yang terus-menerus, tidak seperti token deflasi lainnya yang hanya bergantung pada aktivitas perdagangan. Singkatnya, tokenomics deflasi YSL memberikan peluang yang menarik - dengan kelangkaan yang terkodifikasi, utilitas, dan pendorong pertumbuhan nilai yang dapat diprediksi.
+- YSL telah dirancang untuk menjadi token hiper-deflasi, memadukan kelangkaan dan utilitas yang dapat diukur melalui lelang pembakaran harian Xenify. Dengan total pasokan yang tetap dan mekanisme pembakaran bawaan, YSL memiliki potensi untuk terapresiasi nilainya seiring berjalannya waktu seiring dengan berkurangnya pasokan yang beredar. YSL mencapai hal ini melalui integrasinya dengan lelang pembakaran harian Xenify, yang mengalokasikan XNF yang baru dibuat kepada pengguna yang memilih untuk membakar token YSL mereka. Sumber permintaan harian yang konsisten untuk pembakaran token YSL ini menghasilkan tekanan deflasi yang terus-menerus, tidak seperti token deflasi lainnya yang hanya bergantung pada aktivitas perdagangan. Singkatnya, tokenomik deflasi YSL memberikan peluang yang menarik - dengan kelangkaan yang terkodifikasi, utilitas, dan pendorong pertumbuhan nilai yang dapat diprediksi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
