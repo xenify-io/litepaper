@@ -71,11 +71,11 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 <br>
 
-- In the daily burn auctions on Arbitrum, users can burn from 1 to 10,000 batches. Each YSL burn batch equals 0.1 YSL, and each vXEN burn batch is equivalent to 10,000,000 vXEN. A native fee of 0.01 ETH applies per batch for both burn and ETH auctions.
+- In the daily burn auction on Arbitrum, participants have the option to burn vXEN and YSL. A user can opt to burn anywhere from 1 to 10,000 batches. To acquire a single batch, a user will need a minimum of 0.01 YSL or 10,000,000 vXEN. At the end of the cycle, 50% of the XNF supply is distributed to participants of the burn auction, based on the amount of batches burned.
 
-- Half of the daily XNF supply is distributed to participants of the daily burn auctions, split evenly between the YSL and vXEN Burn Auctions. For example, if 1 YSL batch and 10,000 vXEN batches are burned in a cycle, the user who burned the single YSL batch would receive a full 25% of the daily XNF supply, whereas the vXEN burners would divide the remaining 25% based on their burn contributions.
+- In the daily ETH auction, participants receive 45% of the daily XNF supply as veXNF rewards. These rewards are locked for one year before becoming claimable. Once claimed, these rewards increase the participant's earning power for future ETH earnings. A native fee of 0.01 ETH applies per batch for both the burn and ETH auctions.
 
-- In the ETH auction, participants receive 45% of the daily XNF supply as veXNF rewards, which are locked for one year before they become claimable. These rewards, once claimed, increase the participant's earning power for future ETH earnings. Participants in the Swap auction are awarded the remaining 5% of the XNF supply as veXNF rewards, subject to the same one-year claimable lock, enhancing their earning power upon claiming.
+- Participants in the Swap auction are awarded the remaining 5% of the XNF supply as veXNF rewards. These rewards are subject to the same one-year claimable lock, enhancing their earning power upon claiming.
 
 <br>
 
