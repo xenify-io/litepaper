@@ -57,7 +57,7 @@ Dayana Plaz - Kurucu Ortak - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 
 <br>
 
-Zamanı kısıtlı olanlar için bu bölüm, Xenify'ın vizyonunu yönlendiren ve onu diğer platformlardan ayıran temel "Burn-A-Mentals" hakkında genel bir bakış sunmaktadır. Xenify'ın, XNF sahipleri için nasıl benzersiz WETH likidite provizyonu ürettiğini, kullanıcıları token takası ve yakımı için nasıl ödüllendirdiğini ve dolaşımdaki XNF arzını azaltırken değeri artırmak için günlük geri satın alma ve yakma mekanizmasını nasıl dahil ettiğini öğreneceksiniz.
+Zamanı kısıtlı olanlar için bu bölüm, Xenify'ın vizyonunu yönlendiren ve onu diğer platformlardan ayıran temel "Burn-A-Mentals" hakkında genel bir bakış sunmaktadır. Xenify'ın, XNF sahipleri için nasıl eşsiz WETH likidite provizyonu ürettiğini, kullanıcıları token takası ve yakımı için nasıl ödüllendirdiğini ve dolaşımdaki XNF arzını azaltırken değeri artırmak için otomatik bir geri satın alma ve yakma mekanizmasını nasıl içerdiğini öğreneceksiniz.
 
 Ayrıca Xenify'ın ekibe, kuruculara veya yatırımcılara herhangi bir tahsis olmaksızın adil ve şeffaf token dağıtım modelini de keşfedeceksiniz. Ayrıca, Xenify'ın sürekli etkileşim ve katılımdan oluşan olumlu bir geri bildirim döngüsü geliştiren benzersiz oyun teorisine dayalı teşvik yapısı.
 
@@ -121,7 +121,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 - Günlük açık artırmalardan toplanan ETH'nin %70'si, özellikle Uniswap V3'teki WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri alımı için kullanılacak. Daha da önemlisi, geri alınan XNF'nin %100'ü yakılacak. Ek olarak, her günlük döngüde geri dönüştürülen ETH'nin %90'ı, Uniswap'teki aynı WETH-XNF çifti aracılığıyla XNF'nin piyasadan geri satın alınması için kullanılacak ve geri alınan XNF'nin tamamı da yakılacak.
 
-- Protokolümüz içerisindeki yakma mekanizmaları değişmez ve otomatik olacak şekilde tasarlanmıştır. Her günlük açık artırma veya geri dönüşüm faaliyetinden sonra etkinleşirler. Bu yaklaşım, karşı taraf riskini ortadan kaldırır ve üçüncü bir tarafın geri satın alma ve yakma süreçlerini yönetmesi gerektiğinde ortaya çıkabilecek önden yürütme sorunlarının potansiyelini azaltır.
+- Protokolümüz içerisindeki geri satın alma ve yakma mekanizmaları değişmez ve otomatik olacak şekilde tasarlanmıştır. Bir kullanıcı günlük bir müzayedeye katıldığında veya ödülleri geri dönüştürdüğünde, protokol otomatik olarak geri alımı ve yakımı tetikler. Bu yaklaşım, karşı taraf riskini ortadan kaldırır ve üçüncü bir tarafın geri satın alma ve yakma süreçlerini yönetmesi gerektiğinde ortaya çıkabilecek önden yürütme sorunlarının potansiyelini azaltır.
 
 <br>
 
@@ -191,7 +191,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 - Bu mekanizma, başlangıçtaki likiditenin spekülatörler ve likidite keskin nişancıları tarafından sömürülmesini önlemek ve böylece ekosistemimizin temelini güçlendirmek için stratejik olarak tasarlanmıştır. Ancak şunu da belirtelim ki kullanıcılar protokole ait havuza likidite ekleyemiyor; XNF'lerini yalnızca bunun aracılığıyla satabilirler. %1'lik ücret kademesi havuzunun likiditesine yapılacak her türlü ekleme, ekosistemimizin uzun vadeli sürdürülebilirliğine uygun, kontrollü ve güvenli bir süreç takip edilerek protokolün kendisi tarafından gerçekleştirilmelidir.
 
-- Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
+- Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün otomatik geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
 
 <br>
 
@@ -816,7 +816,7 @@ Xenify, bir sonraki büyük hamlesi için bir grup blok zincirini değerlendirer
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB            |
 
 <br>
 
@@ -848,7 +848,7 @@ XNF sahipleri, XNF'lerini protokole ait likidite havuzumuz veya topluluk tarafı
 
 Dikkatlice tasarlanmış bu mekanizma aynı zamanda ilk likidite dağıtımını spekülatörler ve likidite keskin nişancıları tarafından potansiyel sömürüye karşı korumaya hizmet ederek ekosistemimizin bütünlüğünü en başından itibaren sağlamlaştırır. Kullanıcılar protokole ait havuza likidite katkıda bulunma olanağını korurken, bunu yapmayı tercih etmenin geri dönüşüm sözleşmesinden manuel olarak çekilmeyi gerektireceğini belirtmekte fayda var.
 
-Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kararlı kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün günlük geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
+Tek yönlü bir yol oluşturarak, protokole ait likidite havuzumuz deflasyonist bir XNF boşluğuna dönüşüyor. Kullanıcılar tarafından satılan tokenlar dolaşımdan kaybolurken, yeni arzlar yalnızca açık artırmalara aktif katılım yoluyla girebiliyor. Protokolümüz, kısa vadeli spekülatörlerin değil, kendini adamış kullanıcıların çıkarlarını desteklemek için tasarlanmıştır. Protokolümüzün otomatik geri alım ve yakma mekanizmasıyla birleştirilen bu yenilikçi yaklaşım, XNF arzı üzerinde sürekli bir deflasyonist baskı yaratmayı ve aynı zamanda uzun vadeli katılıma dayalı sürdürülebilir bir ekosistemi desteklemeyi hedefliyor.
 
 <br>
 
