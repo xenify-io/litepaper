@@ -57,7 +57,7 @@ Dayana Plaz - Co-Fundadora - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 
 <br>
 
-Para aqueles que têm pouco tempo, esta seção fornece uma visão geral dos principais "Burn-A-Mentals" que impulsionam a visão do Xenify e o diferenciam de outras plataformas. Você aprenderá como o Xenify gera provisionamento de liquidez WETH incomparável para detentores de XNF, recompensa os usuários pela troca e queima de tokens e incorpora um mecanismo diário de recompra e queima para aumentar o valor e, ao mesmo tempo, reduzir o fornecimento circulante de XNF.
+Para aqueles que têm pouco tempo, esta seção fornece uma visão geral dos principais "Burn-A-Mentals" que impulsionam a visão do Xenify e o diferenciam de outras plataformas. Você aprenderá como o Xenify gera provisionamento de liquidez WETH incomparável para detentores de XNF, recompensa os usuários pela troca e queima de tokens e incorpora um mecanismo automatizado de recompra e queima para aumentar o valor e, ao mesmo tempo, reduzir o fornecimento circulante de XNF.
 
 Você também descobrirá o modelo de distribuição de tokens justo e transparente do Xenify, sem alocação para a equipe, fundadores ou investidores. Além disso, a estrutura de incentivos baseada na teoria dos jogos exclusiva do Xenify que cultiva um ciclo de feedback positivo de envolvimento e participação contínuos.
 
@@ -121,7 +121,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 - 70% do ETH arrecadado nos leilões diários será utilizado para a recompra de XNF fora do mercado, especificamente através do par WETH-XNF no Uniswap V3. É importante ressaltar que 100% do XNF recomprado será queimado. Além disso, 90% do ETH reciclado de cada ciclo diário será utilizado para a recompra de XNF do mercado através do mesmo par WETH-XNF no Uniswap, com todo o XNF recomprado também sendo queimado.
 
-- Os mecanismos de gravação em nosso protocolo são projetados para serem imutáveis e automáticos. Eles são ativados após cada leilão diário ou atividade de reciclagem. Esta abordagem elimina o risco de contraparte e mitiga o potencial de problemas iniciais que poderiam surgir se um terceiro fosse obrigado a gerir os processos de recompra e queima.
+- Os mecanismos de recompra e queima dentro do nosso protocolo são projetados para serem imutáveis e automáticos. Sempre que um usuário participa de um leilão diário ou recicla recompensas, o protocolo aciona automaticamente a recompra e a queima. Esta abordagem elimina o risco de contraparte e mitiga o potencial de problemas iniciais que poderiam surgir se um terceiro fosse obrigado a gerir os processos de recompra e queima.
 
 <br>
 
@@ -191,7 +191,7 @@ Em sua essência, o Xenify oferece o melhor dos dois mundos: uma experiência de
 
 - Este mecanismo é estrategicamente concebido para proteger a liquidez inicial de ser explorada por especuladores e atiradores de elite, reforçando assim a base do nosso ecossistema. Contudo, deve-se notar que os usuários não podem adicionar liquidez ao pool de propriedade do protocolo; eles só podem vender seu XNF por meio dele. Quaisquer acréscimos à liquidez do nível de taxa de 1% devem ser conduzidos pelo próprio protocolo, seguindo um processo controlado e seguro que se alinhe com a viabilidade de longo prazo do nosso ecossistema.
 
-- Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do protocolo se transforma em um vácuo deflacionário de XNF. Os tokens vendidos pelos usuários desaparecem de circulação, enquanto novos fornecimentos só podem entrar por meio da participação ativa nos leilões. Nosso protocolo foi projetado para promover os interesses de usuários comprometidos - e não de especuladores de curto prazo. Esta abordagem inovadora, combinada com o mecanismo de recompra e queima do nosso protocolo, visa criar uma pressão deflacionária sustentada sobre o fornecimento de XNF, ao mesmo tempo que promove um ecossistema sustentável baseado no envolvimento a longo prazo.
+- Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do protocolo se transforma em um vácuo deflacionário de XNF. Os tokens vendidos pelos usuários desaparecem de circulação, enquanto novos fornecimentos só podem entrar por meio da participação ativa nos leilões. Nosso protocolo foi projetado para promover os interesses de usuários comprometidos - e não de especuladores de curto prazo. Esta abordagem inovadora, combinada com o mecanismo automatizado de recompra e queima do nosso protocolo, visa criar uma pressão deflacionária sustentada sobre o fornecimento de XNF, ao mesmo tempo que promove um ecossistema sustentável baseado no envolvimento a longo prazo.
 
 <br>
 
@@ -816,7 +816,7 @@ A Xenify está a preparar-se para se tornar grande, avaliando um conjunto de cad
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB            |
 
 <br>
 
@@ -848,7 +848,7 @@ Os detentores de XNF podem vender livremente seu XNF por meio de nosso pool de l
 
 Este mecanismo cuidadosamente concebido também serve para salvaguardar a disponibilização inicial de liquidez contra a potencial exploração por especuladores e atiradores de elite de liquidez, solidificando a integridade do nosso ecossistema desde o início. Vale ressaltar que, embora os usuários mantenham a capacidade de contribuir com liquidez para o pool de propriedade do protocolo, a opção por fazê-lo exigirá a retirada manual do contrato de reciclagem.
 
-Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do protocolo se transforma em um vácuo deflacionário de XNF. Os tokens vendidos pelos usuários desaparecem de circulação, enquanto novos fornecimentos só podem entrar por meio da participação ativa nos leilões. Nosso protocolo foi projetado para promover os interesses de usuários comprometidos - e não de especuladores de curto prazo. Esta abordagem inovadora, combinada com o mecanismo diário de recompra e queima do nosso protocolo, visa criar uma pressão deflacionária sustentada sobre o fornecimento de XNF, ao mesmo tempo que promove um ecossistema sustentável baseado no envolvimento a longo prazo.
+Ao estabelecer uma via de mão única, nosso pool de liquidez de propriedade do protocolo se transforma em um vácuo deflacionário de XNF. Os tokens vendidos pelos usuários desaparecem de circulação, enquanto novos fornecimentos só podem entrar por meio da participação ativa nos leilões. Nosso protocolo foi projetado para promover os interesses de usuários comprometidos - e não de especuladores de curto prazo. Esta abordagem inovadora, combinada com o mecanismo automatizado de recompra e queima do nosso protocolo, visa criar uma pressão deflacionária sustentada sobre o fornecimento de XNF, ao mesmo tempo que promove um ecossistema sustentável baseado no envolvimento a longo prazo.
 
 <br>
 
