@@ -57,7 +57,7 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 
 <br>
 
-Đối với những người có thời gian ngắn, phần này cung cấp thông tin tổng quan về "Burn-A-Mentals" cốt lõi thúc đẩy tầm nhìn của Xenify và khiến nó trở nên khác biệt so với các nền tảng khác. Bạn sẽ tìm hiểu cách Xenify tạo ra khả năng cung cấp thanh khoản WETH chưa từng có cho chủ sở hữu XNF, thưởng cho người dùng khi hoán đổi và đốt mã thông báo, đồng thời kết hợp cơ chế mua lại và đốt hàng ngày để tăng giá trị đồng thời giảm nguồn cung XNF lưu hành.
+Đối với những người không có nhiều thời gian, phần này cung cấp thông tin tổng quan về "Burn-A-Mentals" cốt lõi thúc đẩy tầm nhìn của Xenify và khiến nó trở nên khác biệt so với các nền tảng khác. Bạn sẽ tìm hiểu cách Xenify tạo ra khả năng cung cấp thanh khoản WETH chưa từng có cho chủ sở hữu XNF, thưởng cho người dùng khi hoán đổi và đốt mã thông báo, đồng thời kết hợp cơ chế mua lại và đốt tự động để tăng giá trị đồng thời giảm nguồn cung XNF lưu hành.
 
 Bạn cũng sẽ khám phá mô hình phân phối mã thông báo minh bạch và công bằng của Xenify, không phân bổ cho nhóm, người sáng lập hoặc nhà đầu tư. Ngoài ra, cấu trúc khuyến khích dựa trên lý thuyết trò chơi độc đáo của Xenify nhằm nuôi dưỡng vòng phản hồi tích cực về sự tương tác và tham gia liên tục.
 
@@ -121,7 +121,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 - 70% ETH thu được từ các cuộc đấu giá hàng ngày sẽ được sử dụng để mua lại XNF ngoài thị trường, cụ thể là thông qua cặp WETH-XNF trên Uniswap V3. Điều quan trọng là 100% XNF được mua lại sẽ bị đốt cháy. Ngoài ra, 90% ETH được tái chế từ mỗi chu kỳ hàng ngày sẽ được sử dụng để mua lại XNF ngoài thị trường thông qua cùng một cặp WETH-XNF trên Uniswap, đồng thời tất cả XNF mua lại cũng sẽ bị đốt cháy.
 
-- Cơ chế ghi trong giao thức của chúng tôi được thiết kế bất biến và tự động. Chúng kích hoạt sau mỗi hoạt động đấu giá hoặc tái chế hàng ngày. Cách tiếp cận này giúp loại bỏ rủi ro đối tác và giảm thiểu khả năng xảy ra các vấn đề trước mắt có thể phát sinh nếu bên thứ ba được yêu cầu quản lý quy trình mua lại và đốt.
+- Cơ chế mua lại và đốt trong giao thức của chúng tôi được thiết kế để không thay đổi và tự động. Bất cứ khi nào người dùng tham gia đấu giá hàng ngày hoặc tái chế phần thưởng, giao thức sẽ tự động kích hoạt mua lại và đốt. Cách tiếp cận này giúp loại bỏ rủi ro đối tác và giảm thiểu khả năng xảy ra các vấn đề trước mắt có thể phát sinh nếu bên thứ ba được yêu cầu quản lý quy trình mua lại và đốt.
 
 <br>
 
@@ -191,7 +191,7 @@ Về cốt lõi, Xenify mang đến những điều tốt nhất của cả hai 
 
 - Cơ chế này được thiết kế một cách chiến lược để bảo vệ tính thanh khoản ban đầu khỏi bị các nhà đầu cơ và những kẻ săn lùng thanh khoản lợi dụng, từ đó củng cố nền tảng cho hệ sinh thái của chúng ta. Tuy nhiên, cần lưu ý rằng người dùng không thể thêm tính thanh khoản vào nhóm thuộc sở hữu giao thức; họ chỉ có thể bán XNF của mình thông qua nó. Mọi bổ sung vào tính thanh khoản của nhóm mức phí 1% phải được chính giao thức thực hiện, tuân theo quy trình được kiểm soát và an toàn, phù hợp với khả năng tồn tại lâu dài của hệ sinh thái của chúng tôi.
 
-- Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi biến thành chân không XNF giảm phát. Token được người dùng bán sẽ biến mất khỏi lưu thông, trong khi nguồn cung mới chỉ có thể tham gia thông qua việc tham gia tích cực vào các cuộc đấu giá. Giao thức của chúng tôi được thiết kế để thúc đẩy lợi ích của những người dùng đã cam kết - không phải của những nhà đầu cơ ngắn hạn. Cách tiếp cận sáng tạo này, kết hợp với cơ chế mua lại và đốt trong giao thức của chúng tôi, hướng tới việc tạo ra áp lực giảm phát bền vững đối với nguồn cung XNF, đồng thời thúc đẩy một hệ sinh thái bền vững được xây dựng dựa trên sự tham gia lâu dài.
+- Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi biến thành chân không XNF giảm phát. Token được người dùng bán sẽ biến mất khỏi lưu thông, trong khi nguồn cung mới chỉ có thể tham gia thông qua việc tham gia tích cực vào các cuộc đấu giá. Giao thức của chúng tôi được thiết kế để thúc đẩy lợi ích của những người dùng đã cam kết - không phải của những nhà đầu cơ ngắn hạn. Cách tiếp cận sáng tạo này, kết hợp với cơ chế mua lại và đốt tự động trong giao thức của chúng tôi, hướng tới việc tạo ra áp lực giảm phát bền vững đối với nguồn cung XNF, đồng thời thúc đẩy một hệ sinh thái bền vững được xây dựng dựa trên sự tham gia lâu dài.
 
 <br>
 
@@ -816,7 +816,7 @@ Xenify đang sẵn sàng phát triển quy mô lớn, tăng quy mô một loạt
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB            |
 
 <br>
 
@@ -848,7 +848,7 @@ Chủ sở hữu XNF có thể tự do bán XNF của họ thông qua nhóm than
 
 Cơ chế được thiết kế cẩn thận này cũng nhằm mục đích bảo vệ việc triển khai thanh khoản ban đầu khỏi sự khai thác tiềm tàng của các nhà đầu cơ và những kẻ săn lùng thanh khoản, củng cố tính toàn vẹn của hệ sinh thái của chúng tôi ngay từ đầu. Điều đáng nói là mặc dù người dùng vẫn có khả năng đóng góp tính thanh khoản cho nhóm thuộc sở hữu của giao thức, nhưng việc chọn làm như vậy sẽ yêu cầu rút tiền thủ công khỏi hợp đồng tái chế.
 
-Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi biến thành chân không XNF giảm phát. Token được người dùng bán sẽ biến mất khỏi lưu thông, trong khi nguồn cung mới chỉ có thể tham gia thông qua việc tham gia tích cực vào các cuộc đấu giá. Giao thức của chúng tôi được thiết kế để thúc đẩy lợi ích của những người dùng đã cam kết - không phải của những nhà đầu cơ ngắn hạn. Cách tiếp cận sáng tạo này, kết hợp với cơ chế mua lại và đốt hàng ngày trong giao thức của chúng tôi, hướng tới việc tạo ra áp lực giảm phát bền vững đối với nguồn cung XNF, đồng thời thúc đẩy một hệ sinh thái bền vững được xây dựng dựa trên sự tham gia lâu dài.
+Bằng cách thiết lập đường một chiều, nhóm thanh khoản thuộc sở hữu giao thức của chúng tôi biến thành chân không XNF giảm phát. Token được người dùng bán sẽ biến mất khỏi lưu thông, trong khi nguồn cung mới chỉ có thể tham gia thông qua việc tham gia tích cực vào các cuộc đấu giá. Giao thức của chúng tôi được thiết kế để thúc đẩy lợi ích của những người dùng đã cam kết - không phải của những nhà đầu cơ ngắn hạn. Cách tiếp cận sáng tạo này, kết hợp với cơ chế mua lại và đốt tự động trong giao thức của chúng tôi, hướng tới việc tạo ra áp lực giảm phát bền vững đối với nguồn cung XNF, đồng thời thúc đẩy một hệ sinh thái bền vững được xây dựng dựa trên sự tham gia lâu dài.
 
 <br>
 
