@@ -57,7 +57,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 
 <br>
 
-For those short on time, this section provides an overview of the core "Burn-A-Mentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched WETH liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates a daily buyback and burn mechanism to bolster value while reducing the circulating supply of XNF.
+For those short on time, this section provides an overview of the core "Burn-A-Mentals" that drive Xenify's vision and set it apart from other platforms. You'll learn how Xenify generates unmatched WETH liquidity provisioning for XNF holders, rewards users for swapping and burning tokens, and incorporates an automated buyback and burn mechanism to bolster value while reducing the circulating supply of XNF.
 
 You'll also discover Xenify's fair and transparent token distribution model, with no allocation to the team, founders or investors. Plus, Xenify's unique game theory-based incentive structure that cultivates a positive feedback loop of continual engagement and participation.
 
@@ -121,7 +121,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - 70% of the ETH collected from daily auctions will be used for the buyback of XNF off the market, specifically through the WETH-XNF pair on Uniswap V3. Importantly, 100% of the bought-back XNF will be burned. Additionally, 90% of the recycled ETH from each daily cycle will be used for the buyback of XNF off the market via the same WETH-XNF pair on Uniswap, with all the bought-back XNF being burned as well.
 
-- The burning mechanisms within our protocol are designed to be immutable and automatic. They activate after each daily auction or recycling activity. This approach eliminates counterparty risk and mitigates the potential for front-running issues that could arise if a third party were required to manage the buyback and burn processes.
+- The buyback and burn mechanisms within our protocol are designed to be immutable and automatic. Whenever a user engages with a daily auction or recycles rewards, the protocol automatically triggers the buyback and burn. This approach eliminates counterparty risk and mitigates the potential for front-running issues that could arise if a third party were required to manage the buyback and burn processes.
 
 <br>
 
@@ -191,7 +191,7 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 
 - This mechanism is strategically designed to protect the initial liquidity from being exploited by speculators and liquidity snipers, thereby reinforcing the foundation of our ecosystem. However, it should be noted that users cannot add liquidity to the protocol-owned pool; they can only sell their XNF through it. Any additions to the 1% fee tier pool's liquidity must be conducted by the protocol itself, following a controlled and secure process that aligns with our ecosystem's long-term viability.
 
-- By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
+- By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's automated buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
 
 <br>
 
@@ -816,7 +816,7 @@ Xenify is getting ready to go big, sizing up a bunch of blockchains for its next
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB            |
 
 <br>
 
@@ -848,7 +848,7 @@ XNF holders can freely sell their XNF through our protocol-owned liquidity pool 
 
 This carefully devised mechanism also serves to safeguard the initial liquidity deployment against potential exploitation by speculators and liquidity snipers, solidifying the integrity of our ecosystem from the outset. It's worth mentioning that while users retain the ability to contribute liquidity to the protocol-owned pool, opting to do so will require a manual withdrawal from the recycling contract.
 
-By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's daily buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
+By establishing a one-way street, our protocol-owned liquidity pool transforms into a deflationary XNF vacuum. Tokens that are sold by users vanish from circulation, while new supply can only enter through active participation in the auctions. Our protocol is designed to promote the interests of committed users - not short-term speculators. This innovative approach, combined with our protocol's automated buyback and burn mechanism, is geared towards creating a sustained deflationary pressure on the XNF supply, while concurrently fostering a sustainable ecosystem built on long-term engagement.
 
 <br>
 
