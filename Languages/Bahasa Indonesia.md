@@ -57,7 +57,7 @@ Dayana Plaz - Co-Founder - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 
 <br>
 
-Bagi mereka yang memiliki waktu terbatas, bagian ini memberikan ikhtisar inti "Burn-A-Mentals" yang mendorong visi Xenify dan membedakannya dari platform lain. Anda akan mempelajari bagaimana Xenify menghasilkan penyediaan likuiditas WETH yang tak tertandingi untuk pemegang XNF, memberi penghargaan kepada pengguna karena menukar dan membakar token, dan menggabungkan mekanisme pembelian kembali dan pembakaran harian untuk meningkatkan nilai sekaligus mengurangi pasokan XNF yang beredar.
+Bagi mereka yang memiliki waktu terbatas, bagian ini memberikan ikhtisar inti "Burn-A-Mentals" yang mendorong visi Xenify dan membedakannya dari platform lain. Anda akan mempelajari bagaimana Xenify menghasilkan penyediaan likuiditas WETH yang tak tertandingi untuk pemegang XNF, memberi penghargaan kepada pengguna karena menukar dan membakar token, dan menggabungkan mekanisme pembelian kembali dan pembakaran otomatis untuk meningkatkan nilai sekaligus mengurangi pasokan XNF yang beredar.
 
 Anda juga akan menemukan model distribusi token Xenify yang adil dan transparan, tanpa alokasi kepada tim, pendiri, atau investor. Ditambah lagi, struktur insentif berbasis teori permainan unik Xenify yang menumbuhkan umpan balik positif dari keterlibatan dan partisipasi berkelanjutan.
 
@@ -121,7 +121,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 - 70% ETH yang dikumpulkan dari lelang harian akan digunakan untuk pembelian kembali XNF di luar pasar, khususnya melalui pasangan WETH-XNF di Uniswap V3. Yang penting, 100% XNF yang dibeli kembali akan dibakar. Selain itu, 90% ETH daur ulang dari setiap siklus harian akan digunakan untuk pembelian kembali XNF dari pasar melalui pasangan WETH-XNF yang sama di Uniswap, dengan semua XNF yang dibeli kembali juga dibakar.
 
-- Mekanisme pembakaran dalam protokol kami dirancang agar tidak dapat diubah dan otomatis. Mereka aktif setelah setiap aktivitas lelang atau daur ulang harian. Pendekatan ini menghilangkan risiko pihak lawan dan memitigasi potensi masalah yang mungkin timbul jika pihak ketiga diminta untuk mengelola proses pembelian kembali dan pembakaran.
+- Mekanisme pembelian kembali dan pembakaran dalam protokol kami dirancang agar tidak dapat diubah dan otomatis. Setiap kali pengguna terlibat dalam lelang harian atau mendaur ulang hadiah, protokol secara otomatis memicu pembelian kembali dan pembakaran. Pendekatan ini menghilangkan risiko pihak lawan dan memitigasi potensi masalah yang mungkin timbul jika pihak ketiga diminta untuk mengelola proses pembelian kembali dan pembakaran.
 
 <br>
 
@@ -191,7 +191,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 - Mekanisme ini dirancang secara strategis untuk melindungi likuiditas awal agar tidak dieksploitasi oleh spekulan dan penembak jitu likuiditas, sehingga memperkuat fondasi ekosistem kita. Namun, perlu dicatat bahwa pengguna tidak dapat menambahkan likuiditas ke kumpulan milik protokol; mereka hanya dapat menjual XNF mereka melalui itu. Setiap penambahan pada likuiditas kumpulan biaya 1% harus dilakukan oleh protokol itu sendiri, mengikuti proses yang terkendali dan aman yang selaras dengan kelangsungan ekosistem kami dalam jangka panjang.
 
-- Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
+- Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran otomatis protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
 
 <br>
 
@@ -816,7 +816,7 @@ Xenify bersiap-siap untuk menjadi besar, dengan mengumpulkan banyak blockchain u
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH            |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH           |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX           |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB            |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB            |
 
 <br>
 
@@ -848,7 +848,7 @@ Pemegang XNF dapat dengan bebas menjual XNF mereka melalui kumpulan likuiditas m
 
 Mekanisme yang dirancang dengan cermat ini juga berfungsi untuk menjaga penyebaran likuiditas awal terhadap potensi eksploitasi oleh spekulator dan penembak jitu likuiditas, sehingga memperkuat integritas ekosistem kita sejak awal. Perlu disebutkan bahwa meskipun pengguna tetap memiliki kemampuan untuk menyumbangkan likuiditas ke kumpulan milik protokol, memilih untuk melakukannya akan memerlukan penarikan manual dari kontrak daur ulang.
 
-Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran harian protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
+Dengan menetapkan jalan satu arah, kumpulan likuiditas milik protokol kami berubah menjadi kekosongan XNF yang bersifat deflasi. Token yang dijual oleh pengguna hilang dari peredaran, sedangkan pasokan baru hanya dapat masuk melalui partisipasi aktif dalam lelang. Protokol kami dirancang untuk mendukung kepentingan pengguna yang berkomitmen - bukan spekulan jangka pendek. Pendekatan inovatif ini, dikombinasikan dengan mekanisme pembelian kembali dan pembakaran otomatis protokol kami, diarahkan untuk menciptakan tekanan deflasi yang berkelanjutan pada pasokan XNF, sekaligus menumbuhkan ekosistem berkelanjutan yang dibangun berdasarkan keterlibatan jangka panjang.
 
 <br>
 
