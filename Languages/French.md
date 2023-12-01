@@ -57,7 +57,7 @@ Dayana Plaz - Co-fondateur - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 
 <br>
 
-Pour ceux qui disposent de peu de temps, cette section donne un aperçu des principaux « Burn-A-Mentals » qui animent la vision de Xenify et la distinguent des autres plates-formes. Vous découvrirez comment Xenify génère un approvisionnement en liquidité WETH inégalé pour les détenteurs de XNF, récompense les utilisateurs pour l'échange et la gravure de jetons, et intègre un mécanisme quotidien de rachat et de gravure pour renforcer la valeur tout en réduisant l'offre en circulation de XNF.
+Pour ceux qui disposent de peu de temps, cette section donne un aperçu des principaux « Burn-A-Mentals » qui animent la vision de Xenify et la distinguent des autres plates-formes. Vous découvrirez comment Xenify génère un approvisionnement en liquidité WETH inégalé pour les détenteurs de XNF, récompense les utilisateurs pour l'échange et la gravure de jetons, et intègre un mécanisme automatisé de rachat et de gravure pour renforcer la valeur tout en réduisant l'offre en circulation de XNF.
 
 Vous découvrirez également le modèle de distribution de jetons équitable et transparent de Xenify, sans allocation à l'équipe, aux fondateurs ou aux investisseurs. De plus, la structure d'incitation unique de Xenify, basée sur la théorie des jeux, cultive une boucle de rétroaction positive d'engagement et de participation continus.
 
@@ -121,7 +121,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 - 70% des ETH collectés lors des enchères quotidiennes seront utilisés pour le rachat de XNF hors marché, notamment via la paire WETH-XNF sur Uniswap V3. Il est important de noter que 100% des XNF rachetés seront brûlés. De plus, 90% de l'ETH recyclé de chaque cycle quotidien sera utilisé pour le rachat de XNF hors du marché via la même paire WETH-XNF sur Uniswap, tous les XNF rachetés étant également brûlés.
 
-- Les mécanismes de gravure au sein de notre protocole sont conçus pour être immuables et automatiques. Ils s'activent après chaque vente aux enchères ou activité de recyclage quotidienne. Cette approche élimine le risque de contrepartie et atténue les problèmes potentiels qui pourraient survenir si un tiers devait gérer les processus de rachat et de brûlage.
+- Les mécanismes de rachat et de burn au sein de notre protocole sont conçus pour être immuables et automatiques. Chaque fois qu'un utilisateur participe à une vente aux enchères quotidienne ou recycle des récompenses, le protocole déclenche automatiquement le rachat et le brûlage. Cette approche élimine le risque de contrepartie et atténue les problèmes potentiels qui pourraient survenir si un tiers devait gérer les processus de rachat et de brûlage.
 
 <br>
 
@@ -191,7 +191,7 @@ Vous découvrirez également le modèle de distribution de jetons équitable et 
 
 - Ce mécanisme est stratégiquement conçu pour protéger la liquidité initiale contre l'exploitation par les spéculateurs et les tireurs d'élite des liquidités, renforçant ainsi les fondations de notre écosystème. Cependant, il convient de noter que les utilisateurs ne peuvent pas ajouter de liquidités au pool appartenant au protocole ; ils ne peuvent vendre leurs XNF que par son intermédiaire. Tout ajout à la liquidité du pool de frais de 1% doit être effectué par le protocole lui-même, à la suite d'un processus contrôlé et sécurisé qui s'aligne sur la viabilité à long terme de notre écosystème.
 
-- En établissant une voie à sens unique, notre pool de liquidités appartenant au protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme de rachat et de brûlage de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
+- En établissant une voie à sens unique, notre pool de liquidités appartenant au protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme automatisé de rachat et de brûlage de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
 
 <br>
 
@@ -816,7 +816,7 @@ Xenify se prépare à jouer les gros bras, en évaluant un certain nombre de blo
 | Ethereum           | [Uniswap V3](https://app.uniswap.org)                 | eXNF-ETH               |
 | Optimism           | [Uniswap V3](https://app.uniswap.org)                 | opXNF-ETH              |
 | Avalanche          | [Uniswap V3](https://app.uniswap.org)                 | aXNF-AVAX              |
-| BNB Chain          | [PancakeSwap](https://pancakeswap.finance)            | bXNF-BNB               |
+| BNB Chain          | [Uniswap V3](https://app.uniswap.org)                 | bXNF-BNB               |
 
 <br>
 
@@ -848,7 +848,7 @@ Les détenteurs de XNF peuvent vendre librement leurs XNF via notre pool de liqu
 
 Ce mécanisme soigneusement conçu sert également à protéger le déploiement initial de liquidités contre une exploitation potentielle par des spéculateurs et des tireurs d’élite de liquidités, renforçant ainsi l’intégrité de notre écosystème dès le départ. Il convient de mentionner que même si les utilisateurs conservent la possibilité d'apporter des liquidités au pool appartenant au protocole, choisir de le faire nécessitera un retrait manuel du contrat de recyclage.
 
-En établissant une voie à sens unique, notre pool de liquidités appartenant à un protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme de rachat et de brûlage quotidien de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
+En établissant une voie à sens unique, notre pool de liquidités appartenant à un protocole se transforme en un vide XNF déflationniste. Les jetons vendus par les utilisateurs disparaissent de la circulation, tandis que de nouvelles offres ne peuvent entrer que grâce à une participation active aux enchères. Notre protocole est conçu pour promouvoir les intérêts des utilisateurs engagés et non des spéculateurs à court terme. Cette approche innovante, combinée au mécanisme automatisé de rachat et de brûlage de notre protocole, vise à créer une pression déflationniste soutenue sur l'offre de XNF, tout en favorisant simultanément un écosystème durable construit sur un engagement à long terme.
 
 <br>
 
