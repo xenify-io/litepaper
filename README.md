@@ -1786,6 +1786,17 @@ Welcome to the Xenify Glossary, your go-to resource for understanding key terms 
 # ◽️ Contract Addresses
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+## ♦️ XNF
+- [Arbitrum](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ♦️ vXEN
+- [vXEN](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+## ♦️ YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
+
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
  - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
