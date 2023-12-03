@@ -29,7 +29,8 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 - [主要特点](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9)
 - [我们的创始人](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA)
 - [XEN 概览](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-xen-%E6%A6%82%E8%A7%88)
-- [vXEN - 统一燃烧](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-vxen---%E7%BB%9F%E4%B8%80%E7%87%83%E7%83%A7)
+- [vXEN - 跨链 XEN 燃烧]()
+- [vXNF - 跨链 XNF 燃烧]()
 - [桥接 XEN - 统一链](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-%E6%A1%A5%E6%8E%A5-xen---%E7%BB%9F%E4%B8%80%E9%93%BE)
 - [YSL - 超通缩](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-ysl---%E8%B6%85%E9%80%9A%E7%BC%A9)
 - [XNF 和 veXNF 概览](https://github.com/xenify-io/litepaper/blob/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-xnf-%E5%92%8C-vexnf-%E6%A6%82%E8%A7%88)
@@ -465,7 +466,7 @@ XEN 是一个基于自我保管、无信任共识和去中心化原则发起的�
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - 统一燃烧
+# ◽️ vXEN - 跨链 XEN 燃烧
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -495,6 +496,19 @@ XEN 是一个基于自我保管、无信任共识和去中心化原则发起的�
 
 <br>
 
+![行分隔线 - 已填充](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - 跨链 XNF 燃烧
+![行分隔线 - 已填充](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+隆重推出 vXNF，这是 Xenify 开发的创新解决方案，使 Arbitrum 的 XNF 持有者和 BNB Chain 的 bXNF 持有者能够参与Ethereum并赚取 ETH 奖励。与 Arbitrum 和 BNB Chain 用户销毁批量 vXEN 或 YSL 不同，Ethereum销毁拍卖将要求参与者销毁批量 vXNF。
+
+要获得 vXNF，您只需要 Arbitrum 上的 XNF 或 BNB Chain上的 bXNF。当您销毁 XNF 或 bXNF 来获取 vXNF 时，Xenify 的合约会自动销毁您的代币并将等量的 vXNF 铸造到您的Ethereum地址。就是这么简单。一旦您拥有 vXNF 代币，您就可以参与 eXNF 的Ethereum销毁，您可以锁定该拍卖以获得 ETH 奖励。这样，您就可以享受Xenify多链生态系统的好处，并获得跨链奖励。
+
+通过 vXNF，您可以无缝加入 eXNF 的Ethereum每日拍卖，并可以锁定 eXNF 以获得 ETH 奖励。通过为我们多元化的 XNF 用户群提供无障碍参与，vXNF 展示了我们对跨链互操作性和可访问性的承诺。无论您持有 XNF、bXNF 还是即将推出的 eXNF - Xenify 都能让您在一个统一的生态系统中跨多个链获得最大回报。
+ 
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ 桥接 XEN - 统一链
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -534,28 +548,19 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 
 <br>
 
-介绍 YSL - 一种超通胀代币，通过 Xenify 的每日燃烧拍卖，将可量化的稀缺性与现实世界的实用性相结合。YSL 不像传统模式那样仅仅依靠市场活动来减少供应，而是整合了一种独特的机制--Xenify 烧钱拍卖。通过每日拍卖，一部分 YSL 将永久退出流通，从而减少总供应量，并有可能放大价值。更重要的是，YSL 是为信任而设计的，具有不可更改、不可升级的合约，设计完全透明，不会出现不可预见的变化。
+隆重推出 YSL - 一种超级通货紧缩代币，通过 Xenify 的每日销毁拍卖将可量化的稀缺性与现实世界的实用性融为一体。 YSL 不像传统模式那样仅仅依靠市场活动来减少供应，而是集成了一种独特的机制 - Xenify 销毁拍卖。每一批燃烧后，一部分 YSL 就会永久退出流通，从根本上减少总供应量，并可能放大价值。更重要的是，YSL 专为信任而设计，具有不可变、不可升级的合约，旨在完全透明，不会出现不可预测的变化。
 
-新的 YSL 代币在 Arbitrum 上首次亮相，空投快照可在<a href="https://bit.ly/YSLAirdrop2023" target="_blank">此处</a>获取。但 YSL 不会就此止步 - 计划在领先的 EVM 链上进行扩展，如以太坊、BNB、Polygon、Avalanche、Optimism 等，每个链都有自己独特的 YSL 标识符（例如以太坊上的 eYSL）。为了实现不同链之间的互操作性，YSL 采用代币桥，利用 LayerZero OTF 作为主要协议，并以 Axelar 和 Wormhole 作为后备选项。这不仅使持有者能够自由地连接 YSL 参与跨链的 Xenify 销毁拍卖，而且还能够在他们选择的任何对齐的 EVM 链和 DEX 上增加流动性。最棒的是，作为 Arbitrum 空投接收者的 YSL 持有者可以在部署后 90 天内在每条链上领取他们的 YSL 份额。简而言之，YSL 独一无二的通货紧缩代币经济学融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是基于使用的价值增长。
+在 Xenify 成立之前，存在一个名为 YSL.IO 的独立协议，该协议在 BNB 链上开发并具有一系列代币。 每个代币在生态系统中都发挥着特定的作用，该生态系统旨在优化来自 ApeSwap 等 AMM 的收益 LP 的再抵押所获得的奖励 (现在 <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) 和 PancakeSwap。 作为 ApeSwap 的官方合作伙伴，YSL.IO 加入了他们的 BUIDL 计划，并根据 ApeSwap 的链上治理提案成功毕业。 该协议经过精心开发，每次迭代都经过 CertiK 和 PeckShield 等行业领导者的审核。 由于市场变化，根据链上治理提案，社区做出了一项决定，将 YSL.IO 生态系统的代币整合为单一固定上限、不可变的代币。 这一战略举措使 YSL 与 Xenify 开发中的首要原则保持一致，同时确保通过 Xenify Burn 拍卖的实用性。 新的 YSL 代币将仅在 Arbitrum、BNB Chain 和 Polygon 上发布 - 您可以找到可用空投的快照 <a href="https://bit.ly/YSLAirdrop2023" target="_blank">这里</a> . 符合条件的空投接收者需要在部署后 90 天内从每个链中领取自己的 YSL 份额。
 
-以下是我们的部署链及其独特的 YSL 标识的简明分类：
+简而言之，YSL 独一无二的通货紧缩代币经济学融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是基于使用的价值增长。以下是部署链、其独特的 YSL 标识符以及每批次所需的 YSL 数量的详细信息：
 
 <br>
 
-| 数  | 标识符             | 链                    |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+|数量 | 标识符             | 链条                  | YSL 每批次               | 最大供应量               |
+|:----|:------------------|:----------------------|:------------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | -                       |
+| 2   | bYSL              | BNB Chain             | 1.00                    | -                       |
+| 3   | mYSL              | Polygon               | 1.00                    | -                       |
 
 <br>
 
@@ -759,35 +764,35 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 - Arbitrum 是我们的创世部署链。
 
-###  2️⃣ Ethereum (eXNF)
+### 2️⃣ BNB Chain（bXNF）
 
-- 以太坊部署计划在 Arbitrum 部署后 3 个月进行。
+- BNB Chain 已准备好在 Arbitrum 之后进行部署。
 
-###  3️⃣ BNB Chain (bXNF)
+### 3️⃣ Polygon (mXNF)
 
-- BNB Chain 计划在以太坊部署 3 个月后部署。
+- Polygon 设置为跟随 BNB Chain进行部署。
 
-### 4️⃣ Polygon (mXNF)
+### 4️⃣ Ethereum (eXNF)
 
-- Polygon 将在 BNB Chain 部署 3 个月后部署。
+- Ethereum将按照 Polygon 进行部署。
 
-###  5️⃣ Base (cbXNF)
+### 5️⃣ Base (cbXNF)
 
-- 基地部署计划在 Polygon 部署后 3 个月进行。
+- Base将在Ethereum部署后确定。
 
-###  6️⃣ Optimism（opXNF）
+### 6️⃣ Optimism (opXNF)
 
-- 乐观计划将在基地部署 3 个月后推出。
+- Optimism情绪将在基地部署后确定。
 
-###  7️⃣ Avalanche (aXNF)
+### 7️⃣ Avalanche (aXNF)
 
-- 雪崩计划在 "乐观 "号部署 3 个月后进行部署。
+- Avalanche将在乐观部署后确定。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ 加速部署
 
-我们目前的部署间隔时间为 3 个月，旨在将流动性和经济能量/活动集中在一个连锁店，然后再进行扩展。这种重点突出的方法旨在建立可持续增长，而激进的多连锁扩张更适合看涨的市场条件。不过，有必要强调的是，我们可以灵活地加快 BNB Chain、Polygon、Base、Optimism 和 Avalanche 的部署进度。根据市场情况，我们有能力将部署时间表缩短至 1 个月甚至 1 周。这种适应能力使我们能够对市场情况做出战略性的反应，同时确保扩张的可控性和深思熟虑，为整个社区带来最大利益。
+我们的部署时间表旨在在扩张之前将流动性和经济能量/活动集中在一条链上。这种专注的方法旨在建立可持续增长，而不是更适合看涨市场条件的激进多链部署。然而，有必要强调我们的灵活性，以加快我们在 Polygon、Ethereum、Base、Optimism 和 Avalanche 上的部署计划。根据市场情况，我们保留将部署时间缩短至 1 个月甚至 1 周的能力。这种适应性使我们能够对市场状况做出战略性反应，同时确保可控且经过深思熟虑的扩张，从而为整个社区带来最大利益。
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +875,7 @@ XNF 代币的分配遵循一日周期，最初奖励池为 20,000 个 XNF 代币
 
 Xenify 使用户能够毫不费力地直接从钱包中刻录 vXEN 或 YSL 代币，参与每日刻录周期。要使用 XEN 获取 XNF，您需要通过烧毁您的 XEN 代币变体来换取 vXEN。请注意，每批所需的 vXEN 数量固定为 10,000,000 vXEN，但是，获得一批所需的 XEN 数量将根据适用于每个 XEN 变体的 [燃烧比率](https://github.com/xenify-io/litepaper/edit/main/Languages/Simplified%20Chinese.md#%EF%B8%8F-vxen---%E7%BB%9F%E4%B8%80%E7%87%83%E7%83%A7) 而有所不同。例如，如果你想参加 Xenify 在 Arbitrum 上的刻录拍卖，你至少需要 10,000,000 XEN 才能刻录（刻录比为 1:1），作为回报，你将获得一批 vXEN（10,000,000 vXEN）。这种刻录功能将我们的协议定位为 XEN 代币第一层刻录的关键参与者。每次刻录 XEN 代币时，您的地址将被记录在 X1 刻录记录中，作为回报，您将收到 vXEN。
 
-需要注意的是，当您决定销毁 vXEN 以参加每日销毁拍卖以分配 XNF 时，需要支付销毁费用。与 vXEN 燃烧过程类似，燃烧 YSL 代币也会产生燃烧费用。刻录过程中获取一批的转化率是固定的，一批相当于0.01 YSL或10,000,000 vXEN。在周期结束时，您将根据燃烧的批次总量收到 XNF 代币。
+需要注意的是，当您决定销毁 vXEN 以参加每日销毁拍卖以分配 XNF 时，需要支付销毁费用。与 vXEN 燃烧过程类似，燃烧 YSL 代币也会产生燃烧费用。刻录过程中获取一批的转化率将是固定的，一批相当于0.01 YSL（Arbitrum）或10,000,000 vXEN。在周期结束时，您将根据燃烧的批次总量收到 XNF 代币。
 
 无论您选择刻录 vXEN 还是 YSL，每批次 (VB) 的价值都将取决于您选择用于刻录的特定链。该价值将在 Xenify 部署时确定，并将根据链上原生代币的当前价格进行动态调整。您焚烧的批次累计价值将直接决定执行焚烧功能所需的焚烧费 (BF)，确保所有参与者都能享受无缝、透明的流程。
 
@@ -924,7 +929,7 @@ Xenify 提供了一个开创性的代币交换解决方案，不仅简化了跨�
 
 焚烧费用公式的设计考虑了各种因素，包括周期内的焚烧时间、焚烧批次数量及其相关价值。最棒的是什么？用户焚烧的批次越多，享受的折扣就越大，在每个周期的第一个小时内，焚烧 10,000 个批次可节省高达 75% 的费用。这为用户在周期初期进行更大规模的刻录操作提供了强有力的激励。
 
-现在，您可能想知道，批次到底是什么？一批代表参与刻录过程所需的固定数量的代币（vXEN 或 YSL）。具体来说，单批vXEN相当于10,000,000个vXEN，而单批YSL相当于0.01个YSL。
+现在，您可能想知道，批次到底是什么？一批代表参与刻录过程所需的固定数量的代币（vXEN 或 YSL）。具体来说，单批 vXEN 相当于 10,000,000 个 vXEN，单批 YSL 相当于 Arbitrum 上的 0.01 YSL、BNB Chain 上的 1.00 bYSL、Polygon 上的 1.00 mYSL。
 
 通过将这一因素纳入烧钱公式，我们确保用户获得的折扣与他们烧钱的批量成正比。链的每批价值在部署 Xenify 时确定，并将根据链的原生代币的当前价格使用下面的公式动态确定：
 
@@ -1781,6 +1786,17 @@ Xenify 的与众不同之处在于它与 60 个不同聚合商的无缝连接，
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ 合同地址
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+## ️♦️ XNF
+- [Arbitrum](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ♦️ vXEN
+- [vXEN](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+## ♦️ YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
