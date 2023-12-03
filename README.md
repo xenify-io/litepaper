@@ -496,6 +496,19 @@ Here's a concise breakdown of our deployment chains for vXEN:
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - Unifying XNF Holders
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Introducing vXNF, an innovative solution developed by Xenify that enables XNF holders from Arbitrum and bXNF holders from BNB Chain to participate and earn ETH Rewards on Ethereum. In contrast to Arbitrum and BNB Chain, where users burn batches of vXEN or YSL, the Ethereum Burn Auctions will require participants to burn batches of vXNF. 
+
+To get vXNF, you simply need XNF on Arbitrum or bXNF on BNB Chain. When you burn your XNF or bXNF to acquire vXNF, Xenify’s contract automatically burns your tokens and mints an equivalent amount of vXNF to your Ethereum address. It’s that simple. Once you have your vXNF tokens, you can participate in the Ethereum burn auctions for eXNF, which you can lock to earn ETH rewards. This way, you can enjoy the benefits of Xenify’s multi-chain ecosystem and earn rewards across the chains.
+
+With vXNF, you can seamlessly join the Ethereum Daily Auctions for eXNF which can be locked to earn ETH rewards. By enabling frictionless participation for our diverse XNF user base, vXNF demonstrates our commitment to cross-chain interoperability and accessibility. Whether you hold XNF, bXNF, or soon eXNF - Xenify empowers you to maximise rewards across multiple chains in one unified ecosystem.
+
+
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Bridging XEN - Unifying the Chains
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
@@ -534,28 +547,18 @@ Here's a concise breakdown of our deployment chains and wrapped XEN identifiers:
 
 <br>
 
-Introducing YSL - a hyper-deflationary token that blends quantifiable scarcity with real-world utility through Xenify’s daily burn auctions. Rather than solely relying on market activity for supply reduction like traditional models, YSL integrates a unique mechanism - the Xenify burn auctions. With each daily auction, a portion of YSL is permanently removed from circulation, inherently reducing total supply and potentially amplifying value. More importantly, YSL has been engineered for trust and features an immutable, non-upgradable contract designed for full transparency without the potential for unforeseen changes.
+Introducing YSL - a hyper-deflationary token that blends quantifiable scarcity with real-world utility through Xenify’s daily burn auctions. Rather than solely relying on market activity for supply reduction like traditional models, YSL integrates a unique mechanism - the Xenify burn auctions. With each batch burned, a portion of YSL is permanently removed from circulation, inherently reducing total supply and potentially amplifying value. More importantly, YSL has been engineered for trust and features an immutable, non-upgradable contract designed for full transparency without the potential for unforeseen changes.
 
-The new YSL token debuts on Arbitrum, with the snapshot for the airdrop available <a href="https://bit.ly/YSLAirdrop2023" target="_blank">here</a>. But YSL won't stop there - expansion is planned across leading EVM chains like Ethereum, BNB, Polygon, Avalanche, Optimism, and more, each with its own unique YSL identifier (e.g. eYSL on Ethereum). To enable interoperability between different chains, YSL features a token bridge that leverages LayerZero OTF as the primary protocol, with Axelar and Wormhole as fallback options. This not only grants holders the freedom to bridge YSL to participate in Xenify burn auctions across chains but also the ability to add liquidity across any aligned EVM chain and DEX of their choosing. And here’s the best part, YSL holders who were Arbitrum airdrop recipients can claim their share of YSL on every chain within 90 days of its deployment. In short, YSL’s one-of-a-kind deflationary tokenomics fuse scarcity and utility, providing holders with a dynamic token that features codified, usage-based value growth.
+Before the inception of Xenify, existed a separate protocol known as YSL.IO, developed on the BNB Chain and featuring a series of tokens. Each token played a specific role within an ecosystem crafted to optimise rewards derived from the rehypothecation of yield-bearing LPs from AMMs like ApeSwap (now <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) and PancakeSwap. As an official partner of ApeSwap, YSL.IO joined their BUIDL program and successfully graduated following an on-chain governance proposal by ApeSwap. The protocol underwent meticulous development, with each iteration audited by industry leaders such as CertiK and PeckShield. Due to market shifts a community decision was reached to sunset YSL.IO following an on-chain governance proposal. This strategic pivot aimed to consolidate the tokens of the YSL.IO ecosystem into a fixed-cap token, aligning it with the focus on developing Xenify and utilising this new unified YSL token for the Xenify Burn Auctions on Arbitrum and BNB Chain. The new YSL token will only be released on Arbitrum and BNB Chain - and you can find the snapshot for the airdrop available <a href="https://bit.ly/YSLAirdrop2023" target="_blank">here</a>. YSL holders who were Arbitrum airdrop recipients can claim their share of YSL on BNB Chain within 90 days of its deployment. 
 
-Here's a concise breakdown of our deployment chains and their unique YSL identifiers:
+In short, YSL’s one-of-a-kind deflationary tokenomics fuse scarcity and utility, providing holders with a dynamic token that features codified, usage-based value growth. Here's a breakdown of the deployment chains, their unique YSL identifiers, and the amount of YSL required per batch:
 
 <br>
 
-| Num | Identifiers       | Chains                |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+| Num | Identifiers       | Chains                | YSL Per Batch           | 
+|:----|:------------------|:----------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    |
+| 2   | bYSL              | BNB Chain             | 1.00                    |
 
 <br>
 
@@ -870,7 +873,7 @@ Users are further incentivised through the protocol's locking mechanism, which a
 
 Xenify empowers users to effortlessly burn vXEN or YSL tokens directly from their wallets to participate in the daily burn cycle. To acquire XNF with XEN, you'll need to go through a process of burning your XEN token variant in exchange for vXEN. Please note that the amount of vXEN required per batch is fixed at 10,000,000 vXEN, however, the amount of XEN required to obtain one batch will vary based on the [burn ratio](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns) that applies to each XEN variant. For example, if you want to take part in Xenify's burn auction on Arbitrum, you'll require a minimum of 10,000,000 XEN to burn (with a burn ratio of 1:1), and in return, you'll receive 1 batch of vXEN (10,000,000 vXEN). This burn function positions our protocol as a key player in the layer-1 burning of XEN tokens. Each time you burn your XEN tokens, your address will be logged in the X1 burn record, and in return, you'll receive vXEN.
 
-It's essential to note that when you decide to burn your vXEN to participate in the daily burn auction for an allocation of XNF, a Burn Fee applies. Similar to the vXEN burn process, burning your YSL tokens also incurs a Burn Fee. The conversion rate to acquire one batch during the burn process will be fixed, with one batch equivalent to 0.01 YSL or 10,000,000 vXEN. At the end of the cycle, you'll receive XNF tokens based on the total amount of batches you burned.
+It's essential to note that when you decide to burn your vXEN to participate in the daily burn auction for an allocation of XNF, a Burn Fee applies. Similar to the vXEN burn process, burning your YSL tokens also incurs a Burn Fee. The conversion rate to acquire one batch during the burn process will be fixed, with one batch equivalent to 0.01 YSL (Arbitrum) or 10,000,000 vXEN. At the end of the cycle, you'll receive XNF tokens based on the total amount of batches you burned.
 
 Regardless of whether you opt to burn vXEN or YSL, the value per batch (VB) will be contingent on the specific chain you select for the burn. This value will be established upon Xenify’s deployment, and will be dynamically based on the current price of the chain’s native token. The cumulative value of the batches you burn will play a direct role in determining the Burn Fee (BF) required to execute the burn function, ensuring a seamless and transparent process for all participants. 
 
@@ -924,7 +927,7 @@ The Xenify protocol enables users to burn vXEN or YSL tokens to secure XNF from 
 
 The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates a compelling incentive for users to engage in larger burn operations early in the cycle.
 
-Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.01 YSL. 
+Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.01 YSL on Arbitrum and 1.00 YSL on BNB Chain. 
 
 By implementing this factor into the burn formula, we ensure that users receive discounts in proportion to the volume of batches they burn. The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
 
