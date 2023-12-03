@@ -29,7 +29,8 @@
 - [주요 기능](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
 - [창립자](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EC%B0%BD%EB%A6%BD%EC%9E%90)
 - [XEN 개요](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xen-%EA%B0%9C%EC%9A%94)
-- [vXEN - 번 통합](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-vxen---%EB%B2%88-%ED%86%B5%ED%95%A9)
+- [vXEN - 교차 체인 XEN 소각]()
+- [vXNF - 크로스체인 XNF 소각]()
 - [브릿징 XEN - 체인 통합](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-%EB%B8%8C%EB%A6%BF%EC%A7%95-xen---%EC%B2%B4%EC%9D%B8-%ED%86%B5%ED%95%A9)
 - [YSL - 하이퍼 디플레이션](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-ysl---%ED%95%98%EC%9D%B4%ED%8D%BC-%EB%94%94%ED%94%8C%EB%A0%88%EC%9D%B4%EC%85%98)
 - [XNF & veXNF 개요](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-xnf--vexnf-%EA%B0%9C%EC%9A%94)
@@ -465,7 +466,7 @@ XEN을 발행하기 위해 참가자는 이더리움 호환 지갑을 XEN 스마
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - 번 통합
+# ◽️ vXEN - 교차 체인 XEN 소각
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -495,6 +496,19 @@ vXEN의 최적의 교차 체인 브리징을 위해 Xenify는 기본 브리징 �
 
 <br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - 크로스체인 XNF 소각
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Arbitrum의 XNF 보유자와 BNB Chain의 bXNF 보유자가 참여하여 Ethereum에서 ETH 보상을 얻을 수 있도록 Xenify가 개발한 혁신적인 솔루션인 vXNF를 소개합니다. 사용자가 vXEN 또는 YSL 일괄 소각하는 Arbitrum 및 BNB Chain과 달리, Ethereum 소각 경매에서는 참가자가 vXNF 일괄 소각을 요구합니다.
+
+vXNF를 얻으려면 Arbitrum의 XNF 또는 BNB Chain의 bXNF가 필요합니다. vXNF를 획득하기 위해 XNF 또는 bXNF를 소각하면 Xenify의 계약이 자동으로 토큰을 소각하고 동등한 양의 vXNF를 Ethereum 주소로 발행합니다. 그렇게 간단합니다. vXNF 토큰이 있으면 eXNF를 위한 Ethereum 소각에 참여할 수 있으며, 이 경매를 통해 ETH 보상을 얻을 수 있습니다. 이러한 방식으로 Xenify의 다중 체인 생태계의 이점을 누리고 체인 전반에 걸쳐 보상을 얻을 수 있습니다.
+
+vXNF를 사용하면 ETH 보상을 얻기 위해 잠글 수 있는 eXNF용 Ethereum 일일 경매에 원활하게 참여할 수 있습니다. 다양한 XNF 사용자 기반의 원활한 참여를 가능하게 함으로써 vXNF는 체인 간 상호 운용성과 접근성에 대한 우리의 약속을 보여줍니다. XNF, bXNF 또는 곧 eXNF를 보유하든 Xenify는 하나의 통합 생태계에서 여러 체인에 걸쳐 보상을 극대화할 수 있도록 지원합니다.
+ 
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ 브릿징 XEN - 체인 통합
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -534,28 +548,19 @@ Xenify는 획기적인 랩드 XEN 컨트랙트를 통해 XEN 생태계의 차세
 
 <br>
 
-Xenify의 일일 소각 경매를 통해 정량화 가능한 희소성과 실제 유용성을 결합한 하이퍼 디플레이션 토큰인 YSL을 소개합니다. 기존 모델처럼 공급 감소를 위해 시장 활동에만 의존하는 것이 아니라, YSL은 고유한 메커니즘인 제니파이 소각 경매를 통합합니다. 매일 경매를 진행할 때마다 YSL의 일부가 유통에서 영구적으로 제거되어 본질적으로 총 공급량을 줄이고 잠재적으로 가치를 증폭시킵니다. 더 중요한 것은 YSL은 신뢰를 위해 설계되었으며, 예기치 않은 변경 가능성 없이 완전한 투명성을 위해 설계된 불변, 업그레이드 불가 계약이 특징이라는 점입니다.
+Xenify의 일일 소각 경매를 통해 정량화 가능한 희소성과 실제 유용성을 혼합한 하이퍼 디플레이션 토큰인 YSL을 소개합니다. YSL은 기존 모델처럼 공급 감소를 위해 시장 활동에만 의존하는 대신 Xenify 소각 경매라는 고유한 메커니즘을 통합합니다. 각 배치가 소각될 때마다 YSL의 일부가 유통에서 영구적으로 제거되어 본질적으로 총 공급량이 감소하고 잠재적으로 가치가 증폭됩니다. 더 중요한 것은 YSL은 신뢰를 위해 설계되었으며 예측할 수 없는 변경 가능성 없이 완전한 투명성을 위해 설계된 변경 불가능하고 업그레이드 불가능한 계약을 특징으로 한다는 것입니다.
 
-새로운 YSL 토큰이 Arbitrum에 첫선을 보이며 에어드롭 스냅샷을 <a href="https://bit.ly/YSLAirdrop2023" target="_blank">여기</a>에서 확인할 수 있습니다. 그러나 YSL은 거기서 멈추지 않을 것입니다. 각각 고유한 YSL 식별자(예: Ethereum의 eYSL)가 있는 Ethereum, BNB, Polygon, Avalanche, Optimism 등과 같은 주요 EVM 체인 전반에 걸쳐 확장이 계획되어 있습니다. 서로 다른 체인 간의 상호 운용성을 활성화하기 위해 YSL은 Axelar 및 Wormhole을 대체 옵션으로 사용하여 LayerZero OTF를 기본 프로토콜로 활용하는 토큰 브리지를 제공합니다. 이를 통해 보유자는 YSL을 자유롭게 연결하여 체인 전반에 걸쳐 Xenify 소각 경매에 참여할 수 있을 뿐만 아니라 정렬된 EVM 체인 및 선택한 DEX에 유동성을 추가할 수 있습니다. 그리고 가장 좋은 점은 Arbitrum 에어드랍 수령자인 YSL 보유자는 배포 후 90일 이내에 모든 체인에서 YSL 지분을 요청할 수 있다는 것입니다. 간단히 말해서, YSL의 독특한 디플레이션 토큰경제학은 희소성과 유용성을 융합하여 성문화된 사용량 기반 가치 성장을 특징으로 하는 동적 토큰을 보유자에게 제공합니다.
+Xenify가 시작되기 전에는 BNB 체인에서 개발되고 일련의 토큰을 특징으로 하는 YSL.IO라는 별도의 프로토콜이 존재했습니다. 각 토큰은 ApeSwap (현재 <a href="https://ape.bond/bonds" target="_blank)과 같은 AMM의 수익 창출 LP 재가정에서 파생된 보상을 최적화하기 위해 만들어진 생태계 내에서 특정 역할을 수행했습니다. ">ApeBond</a>) 및 PancakeSwap. ApeSwap의 공식 파트너로서 YSL.IO는 BUIDL 프로그램에 참여했으며 ApeSwap의 온체인 거버넌스 제안에 따라 성공적으로 졸업했습니다. 프로토콜은 CertiK 및 PeckShield와 같은 업계 리더의 감사를 통해 세심한 개발을 거쳤습니다. 시장 변화로 인해 YSL.IO 생태계의 토큰을 단일 고정 캡 불변 토큰으로 통합하기 위한 온체인 거버넌스 제안에 따라 커뮤니티 결정이 내려졌습니다. 이러한 전략적 움직임은 YSL을 개발 Xenify에 성문화된 첫 번째 원칙과 일치시키는 동시에 Xenify Burn Auctions를 통해 유틸리티를 보장합니다. 새로운 YSL 토큰은 Arbitrum, BNB Chain 및 Polygon에서만 출시될 예정입니다. <a href="https://bit.ly/YSLAirdrop2023" target="_blank 사용 가능한 에어드롭에 대한 스냅샷을 찾을 수 있습니다. ">여기</a> /// . 적격 에어드롭 수령자는 배포 후 90일 이내에 각 체인에서 YSL 지분을 요청해야 합니다.
 
-다음은 배포 체인과 고유한 YSL 식별자에 대한 간결한 분석입니다:
+간단히 말해서, YSL의 독특한 디플레이션 토큰경제학은 희소성과 유용성을 융합하여 성문화된 사용량 기반 가치 성장을 특징으로 하는 동적 토큰을 보유자에게 제공합니다. 다음은 배포 체인, 고유한 YSL 식별자 및 배치당 필요한 YSL 양에 대한 분석입니다.
 
 <br>
 
-| 숫자| 식별자             | 체인                  |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+| 숫자| 식별자             | 체인                  | 배치당 YSL               | 최대 공급량              |
+|:----|:------------------|:----------------------|:------------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | -                       |
+| 2   | bYSL              | BNB Chain             | 1.00                    | -                       |
+| 3   | mYSL              | Polygon               | 1.00                    | -                       |
 
 <br>
 
@@ -759,35 +764,35 @@ XNF는 제니파이 프로토콜의 생명선이며, 총 2,260만 개의 토큰�
 
 - Arbitrum은 저희의 제네시스 배포 체인입니다.
 
-### 2️⃣ 이더리움(eXNF)
+### 2️⃣ BNB Chain(bXNF)
 
-- 이더리움 배포는 아비트럼 배포 이후 3개월 후로 예정되어 있습니다.
+- BNB Chain은 Arbitrum 이후 배포되도록 설정되었습니다.
 
-### 3️⃣ BNB 체인(bXNF)
+### 3️⃣ Polygon(mXNF)
 
-- BNB 체인 배포는 이더리움 배포 후 3개월 후로 예정되어 있습니다.
+- BNB Chain에 따라 배포되도록 Polygon이 설정됩니다.
 
-### 4️⃣ 폴리곤(mXNF)
+### 4️⃣ Ethereum(eXNF)
 
-- 폴리곤은 BNB 체인 배포 후 3개월 후에 배포될 예정입니다.
+- Ethereum은 Polygon에 따라 배포되도록 설정되었습니다.
 
-### 5️⃣ 베이스(cbXNF)
+### 5️⃣ Base(cbXNF)
 
-- 폴리곤 배포 후 3개월 동안 기본 배포가 계획되어 있습니다.
+- 베이스는 Ethereum 배포에 따라 결정됩니다.
 
-### 6️⃣ 옵티미즘(opXNF)
+### 6️⃣ Optimism(opXNF)
 
-- 옵티미즘은 기본 배포 후 3개월 후에 출시될 예정입니다.
+- 낙관론은 기본 배치에 따라 결정됩니다.
 
-### 7️⃣ 눈사태(aXNF)
+### 7️⃣ Avalanche(aXNF)
 
-- 눈사태는 옵티미즘 배포 후 3개월 후에 배포될 예정입니다.
+- Avalanche는 Optimism 배치에 따라 결정됩니다.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-## ⚙️ 빠른 배포
+## ⚙️ 가속화된 배포
 
-현재 3개월의 배포 주기는 확장하기 전에 하나의 체인에 유동성과 경제적 에너지/활동을 집중하는 것을 목표로 합니다. 이러한 집중적인 접근 방식은 강세 시장 상황에 더 적합한 공격적인 멀티체인 출시보다 지속 가능한 성장을 구축하는 것을 목표로 합니다. 그러나 BNB 체인, 폴리곤, 베이스, 옵티미즘, 애벌랜치에 대한 배포 일정을 앞당길 수 있는 유연성을 강조하는 것이 중요합니다. 시장 상황에 따라 배포 일정을 1개월 또는 단 1주일로 단축할 수 있는 역량을 보유하고 있습니다. 이러한 적응력을 통해 시장 상황에 전략적으로 대응하는 동시에 전체 커뮤니티의 혜택을 극대화할 수 있는 통제되고 신중한 확장을 보장할 수 있습니다.
+우리의 배포 일정은 확장하기 전에 하나의 체인에 유동성과 경제적 에너지/활동을 집중시키는 것을 목표로 합니다. 이러한 집중적 접근 방식은 강세 시장 상황에 더 적합한 공격적인 다중 체인 출시에 비해 지속 가능한 성장을 구축하는 것을 목표로 합니다. 그러나 Polygon, Ethereum, Base, Optimism 및 Avalanche에 대한 배포 일정을 가속화할 수 있는 유연성을 강조하는 것이 중요합니다. 시장 상황에 따라 우리는 배포 일정을 1개월, 심지어 1주까지 단축할 수 있는 능력을 보유하고 있습니다. 이러한 적응성을 통해 우리는 시장 상황에 전략적으로 대응하는 동시에 전체 커뮤니티의 이익을 극대화하는 통제되고 신중한 확장을 보장할 수 있습니다.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +875,7 @@ XNF 토큰의 배포는 1일 주기를 따르며 20,000 XNF 토큰의 보상 풀
 
 제니파이를 통해 사용자는 지갑에서 직접 vXEN 또는 YSL 토큰을 손쉽게 소각하여 일일 소각 주기에 참여할 수 있습니다. XEN으로 XNF를 획득하려면 vXEN과 교환하기 위해 XEN 토큰 변형을 소각하는 과정을 거쳐야 합니다. 배치당 필요한 vXEN의 양은 10,000,000 vXEN으로 고정되어 있지만, 한 배치를 얻는 데 필요한 XEN의 양은 각 XEN 변형에 적용되는 [소각 비율](https://github.com/xenify-io/litepaper/blob/main/Languages/Korean.md#%EF%B8%8F-vxen---%EB%B2%88-%ED%86%B5%ED%95%A9)에 따라 달라질 수 있습니다. 예를 들어, Arbitrum에서 Xenify의 소각 경매에 참여하려면 최소 10,000,000 XEN이 필요하며(소각 비율은 1:1), 그 대가로 1배치(10,000,000 vXEN)의 vXEN을 받게 됩니다. 이 소각 기능을 통해 당사 프로토콜은 XEN 토큰 레이어 1 소각의 핵심 플레이어로 자리매김했습니다. XEN 토큰을 소각할 때마다 귀하의 주소가 X1 소각 기록에 기록되며, 그 대가로 vXEN을 받게 됩니다.
 
-XNF 할당을 위한 일일 소각 경매에 참여하기 위해 vXEN을 소각하기로 결정한 경우 소각 수수료가 적용된다는 점에 유의하는 것이 중요합니다. vXEN 소각 프로세스와 마찬가지로 YSL 토큰 소각 시에도 소각 수수료가 발생합니다. 레코딩 과정 중 하나의 배치를 획득하는 전환율은 고정되며, 하나의 배치는 0.01 YSL 또는 10,000,000 vXEN에 해당합니다. 주기가 끝나면 소각한 총 배치 양을 기준으로 XNF 토큰을 받게 됩니다.
+XNF 할당을 위한 일일 소각 경매에 참여하기 위해 vXEN을 소각하기로 결정한 경우 소각 수수료가 적용된다는 점에 유의하는 것이 중요합니다. vXEN 소각 프로세스와 마찬가지로 YSL 토큰 소각 시에도 소각 수수료가 발생합니다. 레코딩 과정 중 하나의 배치를 획득하는 전환율은 고정되며, 하나의 배치는 0.01 YSL(Arbitrum) 또는 10,000,000 vXEN에 해당합니다. 주기가 끝나면 소각한 총 배치 양을 기준으로 XNF 토큰을 받게 됩니다.
 
 vXEN을 소각하든 YSL을 소각하든 관계없이, 배치당 값(VB)은 소각을 위해 선택한 특정 체인에 따라 달라집니다. 이 값은 Xenify 배포 시 설정되며, 체인의 기본 토큰의 현재 가격을 기반으로 동적으로 결정됩니다. 소각하는 배치의 누적 가치는 소각 기능을 실행하는 데 필요한 소각 수수료(BF)를 결정하는 데 직접적인 역할을 하며, 모든 참여자에게 원활하고 투명한 프로세스를 보장합니다.
 
@@ -924,7 +929,7 @@ XNF가 배포된 체인에서 명목상 0.5%의 스왑 수수료를 지불하면
 
 소각 수수료 공식은 주기 중 소각 타이밍, 소각되는 배치 수, 관련 가치 등 다양한 요소를 고려하도록 설계되었습니다. 가장 좋은 점은? 사용자가 더 많은 배치를 소각할수록 더 큰 할인 혜택을 누릴 수 있으며, 매 주기의 첫 1시간 동안 10,000개의 배치에 대해 최대 75%까지 할인을 받을 수 있습니다. 이는 사용자가 주기 초기에 더 많은 양의 소각 작업에 참여하도록 하는 강력한 인센티브가 됩니다.
 
-이제 배치가 정확히 무엇인지 궁금하실 것입니다. 배치는 소각 프로세스에 참여하는 데 필요한 고정된 수의 토큰(vXEN 또는 YSL)을 나타냅니다. 구체적으로 vXEN 단일 배치는 10,000,000 vXEN에 해당하고, YSL 단일 배치는 0.01 YSL에 해당합니다.
+이제 배치가 정확히 무엇인지 궁금하실 것입니다. 배치는 소각 프로세스에 참여하는 데 필요한 고정된 수의 토큰(vXEN 또는 YSL)을 나타냅니다. 구체적으로 vXEN 단일 배치는 10,000,000 vXEN에 해당하고, YSL 단일 배치는 Arbitrum에서 0.01 YSL, BNB Chain에서 1.00 bYSL, Polygon에서 1.00 mYSL에 해당합니다.
 
 이 요소를 소각 공식에 구현하여 사용자가 소각하는 배치의 양에 비례하여 할인을 받을 수 있도록 합니다. 체인의 배치당 가치는 Xenify가 배포될 때 설정되며, 아래 공식을 사용하여 체인의 네이티브 토큰의 현재 가격을 기반으로 동적으로 결정됩니다:
 
@@ -1781,6 +1786,17 @@ Xenify와 그 기능 및 잠재력에 대해 궁금한 점이 있을 수 있다�
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ 계약 주소
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+## ♦️ XNF
+- [Arbitrum](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ︎♦️ vXEN
+- [vXEN](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+## ♦️ YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
