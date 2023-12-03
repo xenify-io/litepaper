@@ -927,7 +927,7 @@ The Xenify protocol enables users to burn vXEN or YSL tokens to secure XNF from 
 
 The burn fee formula is designed to consider various factors, including the timing of the burn during a cycle, the number of batches being burned, and their associated value. The best part? The more batches a user burns, the greater the discount they'll enjoy, with potential savings of up to 75% off for 10,000 batches during the first hour of every cycle. This creates a compelling incentive for users to engage in larger burn operations early in the cycle.
 
-Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.01 YSL on Arbitrum and 1.00 YSL on BNB Chain. 
+Now, you might wonder, what exactly is a batch? A batch represents a fixed number of tokens, either vXEN or YSL, required to participate in the burn process. Specifically, a single batch of vXEN is equivalent to 10,000,000 vXEN, while a single batch of YSL is equivalent to 0.01 YSL on Arbitrum and 1.00 bYSL on BNB Chain. 
 
 By implementing this factor into the burn formula, we ensure that users receive discounts in proportion to the volume of batches they burn. The value per batch for a chain is established when Xenify is deployed, and will be dynamically based on the current price of the chain’s native token using the formula below:
 
