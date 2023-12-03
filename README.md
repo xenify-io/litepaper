@@ -773,19 +773,19 @@ In the ever-evolving DeFi landscape, bridging the gap between different chains i
 
 ### 4️⃣ Ethereum (eXNF)
 
-- Ethereum deployment is set for deployment following Polygon.
+- Ethereum is set for deployment following Polygon.
 
 ### 5️⃣ Base (cbXNF)
 
-- Base deployment will be determined following the Ethereum.
+- Base will be determined following Ethereum deployment.
 
 ### 6️⃣ Optimism (opXNF)
 
-- Optimism deployment will be determined following Base.
+- Optimism will be determined following Base deployment.
 
 ### 7️⃣ Avalanche (aXNF)
 
-- Avalanche deployment will be determined following the Optimism.
+- Avalanche will be determined following Optimism deployment.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
