@@ -30,7 +30,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
 - [vXNF - Cross-Chain XNF Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxnf---cross-chain-xnf-burns)
-- [vXEN - Unifying the Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns)
+- [vXEN - Unifying XEN Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns)
 - [Bridging XEN - Unifying the Chains](https://github.com/xenify-io/litepaper#%EF%B8%8F-bridging-xen---unifying-the-chains)
 - [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl---hyper-deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
@@ -466,7 +466,7 @@ To mint XEN, participants can connect their Ethereum-compatible wallets to the X
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - Unifying the Burns
+# ◽️ vXEN - Unifying XEN Burns
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
