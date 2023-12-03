@@ -551,6 +551,8 @@ Introducing YSL - a hyper-deflationary token that blends quantifiable scarcity w
 
 Before the inception of Xenify, existed a separate protocol known as YSL.IO, developed on the BNB Chain and featuring a series of tokens. Each token played a specific role within an ecosystem crafted to optimise rewards derived from the rehypothecation of yield-bearing LPs from AMMs like ApeSwap (now <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) and PancakeSwap. As an official partner of ApeSwap, YSL.IO joined their BUIDL program and successfully graduated following an on-chain governance proposal by ApeSwap. The protocol underwent meticulous development, with each iteration audited by industry leaders such as CertiK and PeckShield. Due to market shifts a community decision was reached to sunset YSL.IO following an on-chain governance proposal. This strategic pivot aimed to consolidate the tokens of the YSL.IO ecosystem into a fixed-cap token, aligning it with the focus on developing Xenify and utilising this new unified YSL token for the Xenify Burn Auctions on Arbitrum and BNB Chain. The new YSL token will only be released on Arbitrum and BNB Chain - and you can find the snapshot for the airdrop available <a href="https://bit.ly/YSLAirdrop2023" target="_blank">here</a>. Eligible airdrop recipients will need to claim their share of YSL on Arbitrum and bYSL on BNB Chain within 90 days of its deployment. 
 
+Before the inception of Xenify, existed a separate protocol known as YSL.IO, developed on the BNB Chain and featuring a series of tokens. Each token played a specific role within an ecosystem crafted to optimise rewards derived from the rehypothecation of yield-bearing LPs from AMMs like ApeSwap (now <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) and PancakeSwap. As an official partner of ApeSwap, YSL.IO joined their BUIDL program and successfully graduated following an on-chain governance proposal by ApeSwap. The protocol underwent meticulous development, with each iteration audited by industry leaders such as CertiK and PeckShield. Due to market shifts a community decision was reached following an on-chain governance proposal to consolidate the tokens of the YSL.IO ecosystem into a singular fixed-cap immutable token. This strategic move aligned YSL with the first principles codified into the development Xenify, while ensuring utility through the Xenify Burn Auctions held on Arbitrum and BNB Chain. The new YSL token will only be released on Arbitrum and BNB Chain - and you can find the snapshot for the airdrop available <a href="https://bit.ly/YSLAirdrop2023" target="_blank">here</a>. Eligible airdrop recipients will need to claim their share of YSL on Arbitrum and bYSL on BNB Chain within 90 days of its deployment.
+
 In short, YSL’s one-of-a-kind deflationary tokenomics fuse scarcity and utility, providing holders with a dynamic token that features codified, usage-based value growth. Here's a breakdown of the deployment chains, their unique YSL identifiers, and the amount of YSL required per batch:
 
 <br>
@@ -762,35 +764,35 @@ In the ever-evolving DeFi landscape, bridging the gap between different chains i
 
 - Arbitrum is our genesis deployment chain.
 
-### 2️⃣ Ethereum (eXNF)
+### 2️⃣ BNB Chain (bXNF)
 
-- Ethereum deployment is scheduled for 3 months following the Arbitrum deployment.
+- BNB Chain is set for deployment following Arbitrum.
 
-### 3️⃣ BNB Chain (bXNF)
+### 3️⃣ Polygon (mXNF)
 
-- BNB Chain deployment is slated for 3 months after the Ethereum deployment.
+- Polygon is set for deployment following BNB Chain.
 
-### 4️⃣ Polygon (mXNF)
+### 4️⃣ Ethereum (eXNF)
 
-- Polygon is set to be deployed 3 months subsequent to the BNB Chain deployment.
+- Ethereum deployment is set for deployment following Polygon.
 
 ### 5️⃣ Base (cbXNF)
 
-- Base deployment is planned for 3 months post the Polygon deployment.
+- Base deployment will be determined following the Ethereum.
 
 ### 6️⃣ Optimism (opXNF)
 
-- Optimism will be rolled out 3 months following the Base deployment.
+- Optimism deployment will be determined following Base.
 
 ### 7️⃣ Avalanche (aXNF)
 
-- Avalanche is scheduled for deployment 3 months after the Optimism deployment.
+- Avalanche deployment will be determined following the Optimism.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ Accelerated Deployment
 
-Our current 3-month timeline between deployments aims to concentrate liquidity and economic energy/activity on one chain before expanding. This focused approach aims to build sustainable growth versus aggressive multi-chain rollouts better suited to bullish market conditions. However, it's essential to emphasise our flexibility to expedite our deployment schedule on BNB Chain, Polygon, Base, Optimism, and Avalanche. Depending on market conditions, we retain the capability to accelerate our deployment timelines to as short as 1 month or even just 1 week. This adaptability empowers us to respond strategically to market conditions while ensuring a controlled and well-considered expansion that maximises benefits for our entire community.
+Our timeline for deployments aims to concentrate liquidity and economic energy/activity on one chain before expanding. This focused approach aims to build sustainable growth versus aggressive multi-chain rollouts better suited to bullish market conditions. However, it's essential to emphasise our flexibility to expedite our deployment schedule on Polygon, Ethereum, Base, Optimism, and Avalanche. Depending on market conditions, we retain the capability to accelerate our deployment timelines to as short as 1 month or even just 1 week. This adaptability empowers us to respond strategically to market conditions while ensuring a controlled and well-considered expansion that maximises benefits for our entire community.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
