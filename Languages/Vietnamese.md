@@ -29,7 +29,8 @@ Dayana Plaz • Đồng sáng lập • <a href="mailto:dayana@xenify.io">dayana
 - [Các tính năng chính](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-c%C3%A1c-t%C3%ADnh-n%C4%83ng-ch%C3%ADnh)
 - [Người sáng lập của chúng tôi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-ng%C6%B0%E1%BB%9Di-s%C3%A1ng-l%E1%BA%ADp-c%E1%BB%A7a-ch%C3%BAng-t%C3%B4i)
 - [Tổng quan về XEN](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-t%E1%BB%95ng-quan-v%E1%BB%81-xen)
-- [vXEN - Hợp nhất các vết bỏng](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-vxen---th%E1%BB%91ng-nh%E1%BA%A5t-c%C3%A1c-v%E1%BA%BFt-b%E1%BB%8Fng)
+- [vXEN - Đốt XEN chuỗi chéo]()
+- [vXNF - Đốt XNF chuỗi chéo]()
 - [Cầu nối XEN - Hợp nhất các chuỗi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-c%E1%BA%A7u-n%E1%BB%91i-xen---h%E1%BB%A3p-nh%E1%BA%A5t-c%C3%A1c-chu%E1%BB%97i)
 - [YSL - Siêu giảm phát](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-ysl---si%C3%AAu-gi%E1%BA%A3m-ph%C3%A1t)
 - [Tổng quan về XNF & veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-t%E1%BB%95ng-quan-v%E1%BB%81-xnf--vexnf)
@@ -465,7 +466,7 @@ Ngoài khả năng khai thác, XEN còn có một loại tiền điện tử g�
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - Thống nhất các vết bỏng
+# ◽️ vXEN - Đốt XEN chuỗi chéo
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -495,6 +496,19 @@ Dưới đây là bản phân tích ngắn gọn về chuỗi triển khai của
 
 <br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - Đốt XNF chuỗi chéo
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Giới thiệu vXNF, một giải pháp đổi mới do Xenify phát triển cho phép chủ sở hữu XNF từ Arbitrum và chủ sở hữu bXNF từ BNB Chain tham gia và kiếm Phần thưởng ETH trên Ethereum. Ngược lại với Arbitrum và BNB Chain, nơi người dùng đốt các lô vXEN hoặc YSL, Đấu giá đốt Ethereum sẽ yêu cầu người tham gia đốt các lô vXNF.
+
+Để có được vXNF, bạn chỉ cần XNF trên Arbitrum hoặc bXNF trên BNB Chain. Khi bạn ghi XNF hoặc bXNF để có được vXNF, hợp đồng của Xenify sẽ tự động đốt mã thông báo của bạn và đúc một lượng vXNF tương đương vào địa chỉ Ethereum của bạn. Nó đơn giản mà. Sau khi có mã thông báo vXNF, bạn có thể tham gia đốt Ethereum cho eXNF, phiên đấu giá này bạn có thể khóa để kiếm phần thưởng ETH. Bằng cách này, bạn có thể tận hưởng những lợi ích của hệ sinh thái đa chuỗi của Xenify và kiếm được phần thưởng trên các chuỗi.
+
+Với vXNF, bạn có thể tham gia liền mạch Phiên đấu giá hàng ngày của Ethereum cho eXNF, cuộc đấu giá này có thể bị khóa để kiếm phần thưởng ETH. Bằng cách cho phép Base người dùng XNF đa dạng của chúng tôi tham gia dễ dàng, vXNF thể hiện cam kết của chúng tôi về khả năng tương tác và khả năng truy cập xuyên chuỗi. Cho dù bạn nắm giữ XNF, bXNF hay sắp có eXNF - Xenify trao quyền cho bạn để tối đa hóa phần thưởng trên nhiều chuỗi trong một hệ sinh thái thống nhất.
+ 
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Cầu nối XEN - Hợp nhất các chuỗi
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -534,28 +548,19 @@ Dưới đây là bản phân tích ngắn gọn về chuỗi triển khai và m
 
 <br>
 
-Giới thiệu YSL - một mã thông báo siêu giảm phát kết hợp sự khan hiếm có thể định lượng được với tiện ích trong thế giới thực thông qua các cuộc đấu giá đốt hàng ngày của Xenify . Thay vì chỉ dựa vào hoạt động thị trường để giảm nguồn cung như các mô hình truyền thống, YSL tích hợp một cơ chế độc đáo - đấu giá đốt Xenify . Với mỗi phiên đấu giá hàng ngày, một phần YSL sẽ bị loại bỏ vĩnh viễn khỏi lưu thông, điều này làm giảm tổng nguồn cung và có khả năng tăng giá trị. Quan trọng hơn, YSL đã được thiết kế để tạo sự tin cậy và có một hợp đồng bất biến, không thể nâng cấp được thiết kế để mang lại sự minh bạch hoàn toàn mà không có khả năng xảy ra những thay đổi không lường trước được.
+Giới thiệu YSL - một mã thông báo siêu giảm phát kết hợp sự khan hiếm có thể định lượng được với tiện ích trong thế giới thực thông qua các cuộc đấu giá đốt hàng ngày của Xenify. Thay vì chỉ dựa vào hoạt động thị trường để giảm nguồn cung như các mô hình truyền thống, YSL tích hợp một cơ chế độc đáo - đấu giá đốt Xenify. Với mỗi lô bị đốt cháy, một phần YSL sẽ bị loại bỏ vĩnh viễn khỏi lưu thông, về cơ bản làm giảm tổng nguồn cung và có khả năng tăng giá trị. Quan trọng hơn, YSL đã được thiết kế để tạo sự tin cậy và có một hợp đồng bất biến, không thể nâng cấp được thiết kế để đảm bảo tính minh bạch hoàn toàn mà không có khả năng xảy ra những thay đổi khó lường.
 
-Mã thông báo YSL mới ra mắt trên Arbitrum, với ảnh chụp nhanh về đợt airdrop có sẵn <a href="https://bit.ly/YSLAirdrop2023" target="_blank">tại đây</a>. Nhưng YSL sẽ không dừng lại ở đó - việc mở rộng được lên kế hoạch trên các chuỗi EVM hàng đầu như Ethereum, BNB, Polygon, Avalanche, Optimism, v.v., mỗi chuỗi có mã định danh YSL duy nhất của riêng mình (ví dụ: eYSL trên Ethereum). Để kích hoạt khả năng tương tác giữa các chuỗi khác nhau, YSL có một cầu nối mã thông báo tận dụng LayerZero OTF làm giao thức chính, với Axelar và Wormhole làm tùy chọn dự phòng. Điều này không chỉ cấp cho chủ sở hữu quyền tự do kết nối YSL để tham gia đấu giá đốt Xenify trên các chuỗi mà còn có khả năng bổ sung tính thanh khoản trên bất kỳ chuỗi EVM và DEX liên kết nào mà họ lựa chọn. Và đây là phần hay nhất, những người nắm giữ YSL từng là người nhận airdrop Arbitrum có thể yêu cầu phần YSL của họ trên mỗi chuỗi trong vòng 90 ngày kể từ ngày triển khai. Nói tóm lại, hệ thống kinh tế mã thông báo giảm phát có một không hai của YSL kết hợp sự khan hiếm và tiện ích, cung cấp cho chủ sở hữu một mã thông báo động có tính năng tăng trưởng giá trị dựa trên việc sử dụng, được hệ thống hóa.
+Trước khi Xenify ra đời, đã tồn tại một giao thức riêng được gọi là YSL.IO, được phát triển trên BNB Chain và có một loạt mã thông báo. Mỗi mã thông báo đóng một vai trò cụ thể trong hệ sinh thái được tạo ra để mang lại những phần thưởng lạc quan bắt nguồn từ việc tái tạo LP mang lại lợi nhuận từ AMM như ApeSwap (nay là <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) và PancakeSwap. Với tư cách là đối tác chính thức của ApeSwap, YSL.IO đã tham gia chương trình BUIDL của họ và tốt nghiệp thành công theo đề xuất quản trị trên chuỗi của ApeSwap. Giao thức này đã trải qua quá trình phát triển tỉ mỉ, với mỗi lần lặp lại đều được kiểm tra bởi các công ty hàng đầu trong ngành như CertiK và PeckShield. Do sự thay đổi của thị trường, cộng đồng đã đưa ra quyết định sau đề xuất quản trị trên chuỗi nhằm hợp nhất các mã thông báo của hệ sinh thái YSL.IO thành một mã thông báo bất biến có vốn cố định duy nhất. Động thái chiến lược này đã điều chỉnh YSL phù hợp với các nguyên tắc đầu tiên được hệ thống hóa trong quá trình phát triển Xenify, đồng thời đảm bảo tiện ích thông qua Xenify Burn Auctions. Mã thông báo YSL mới sẽ chỉ được phát hành trên Arbitrum, BNB Chain và Polygon - và bạn có thể tìm thấy ảnh chụp nhanh cho đợt airdrop có sẵn <a href="https://bit.ly/YSLAirdrop2023" target="_blank">tại đây</a>. Những người nhận airdrop đủ điều kiện sẽ cần nhận phần YSL của họ từ mỗi chuỗi trong vòng 90 ngày kể từ ngày triển khai.
 
-Dưới đây là bản phân tích ngắn gọn về chuỗi triển khai của chúng tôi và số nhận dạng YSL duy nhất của chúng:
+Nói tóm lại, hệ thống kinh tế mã thông báo giảm phát có một không hai của YSL kết hợp sự khan hiếm và tiện ích, cung cấp cho chủ sở hữu một mã thông báo động có tính năng tăng trưởng giá trị dựa trên việc sử dụng, được hệ thống hóa. Dưới đây là bảng phân tích về chuỗi triển khai, số nhận dạng YSL duy nhất của chúng và số lượng YSL cần thiết cho mỗi lô:
 
 <br>
 
-| Số  | Định danh         | Dây chuyền            |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+| Số  | Định danh         | Dây chuyền            | YSL mỗi đợt             | Nguồn cung tối đa       |
+|:----|:------------------|:----------------------|:------------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | -                       |
+| 2   | bYSL              | BNB Chain             | 1.00                    | -                       |
+| 3   | mYSL              | Polygon               | 1.00                    | -                       |
 
 <br>
 
@@ -759,35 +764,35 @@ DeFi ngày càng phát triển , việc thu hẹp khoảng cách giữa các chu
 
 - Arbitrum là chuỗi triển khai ban đầu của chúng tôi.
 
-### 2️⃣ Ethereum (eXNF)
+### 2️⃣ BNB Chain (bXNF)
 
-- Việc triển khai Ethereum được lên kế hoạch trong 3 tháng sau khi triển khai Arbitrum .
+- BNB Chain được thiết lập để triển khai theo Arbitrum.
 
-### 3️⃣ BNB Chain (bXNF)
+### 3️⃣ Polygon (mXNF)
 
-- Việc triển khai Chuỗi BNB dự kiến sẽ diễn ra trong 3 tháng sau khi triển khai Ethereum.
+- Polygon được thiết lập để triển khai theo BNB Chain.
 
-### 4️⃣ Polygon (mXNF)
+### 4️⃣ Ethereum (eXNF)
 
-- Polygon dự kiến sẽ được triển khai 3 tháng sau khi triển khai Chuỗi BNB.
+- Ethereum được thiết lập để triển khai theo Polygon.
 
 ### 5️⃣ Base (cbXNF)
 
-- Việc triển khai cơ sở được lên kế hoạch trong 3 tháng sau khi triển khai Đa giác.
+- Base sẽ được xác định sau khi triển khai Ethereum.
 
 ### 6️⃣ Optimism (opXNF)
 
-- Sự lạc quan sẽ được triển khai 3 tháng sau khi triển khai Cơ sở.
+- Optimism sẽ được xác định sau khi triển khai Căn cứ.
 
 ### 7️⃣ Avalanche (aXNF)
 
-- Avalanche dự kiến triển khai 3 tháng sau khi triển khai Optimism.
+- Avalanche sẽ được xác định sau khi triển khai Optimism.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ Triển khai nhanh hơn
 
-Khoảng thời gian 3 tháng hiện tại giữa các lần triển khai của chúng tôi nhằm mục đích tập trung thanh khoản và năng lượng/hoạt động kinh tế vào một chuỗi trước khi mở rộng. Cách tiếp cận tập trung này nhằm mục đích xây dựng sự tăng trưởng bền vững so với việc triển khai đa chuỗi tích cực phù hợp hơn với điều kiện thị trường tăng giá. Tuy nhiên, điều cần thiết là phải nhấn mạnh tính linh hoạt của chúng tôi để đẩy nhanh tiến độ triển khai trên Chuỗi BNB, Đa giác, Cơ sở, Lạc quan và Avalanche. Tùy thuộc vào điều kiện thị trường, chúng tôi có khả năng đẩy nhanh tiến độ triển khai của mình xuống chỉ còn 1 tháng hoặc thậm chí chỉ 1 tuần. Khả năng thích ứng này cho phép chúng tôi phản ứng một cách chiến lược với các điều kiện thị trường đồng thời đảm bảo việc mở rộng được kiểm soát và cân nhắc kỹ lưỡng nhằm tối đa hóa lợi ích cho toàn bộ cộng đồng của chúng tôi.
+Tiến trình triển khai của chúng tôi nhằm mục đích tập trung thanh khoản và năng lượng/hoạt động kinh tế vào một chuỗi trước khi mở rộng. Cách tiếp cận tập trung này nhằm mục đích xây dựng sự tăng trưởng bền vững so với việc triển khai đa chuỗi tích cực phù hợp hơn với điều kiện thị trường tăng giá. Tuy nhiên, điều cần thiết là phải nhấn mạnh tính linh hoạt của chúng tôi để đẩy nhanh tiến độ triển khai trên Polygon, Ethereum, Base, Optimism và Avalanche. Tùy thuộc vào điều kiện thị trường, chúng tôi có khả năng đẩy nhanh tiến độ triển khai của mình xuống chỉ còn 1 tháng hoặc thậm chí chỉ 1 tuần. Khả năng thích ứng này cho phép chúng tôi phản ứng một cách chiến lược với các điều kiện thị trường đồng thời đảm bảo việc mở rộng được kiểm soát và cân nhắc kỹ lưỡng nhằm tối đa hóa lợi ích cho toàn bộ cộng đồng của chúng tôi.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +875,7 @@ Người dùng được khuyến khích hơn nữa thông qua cơ chế khóa c�
 
 Xenify trao quyền cho người dùng dễ dàng ghi mã thông báo vXEN hoặc YSL trực tiếp từ ví của họ để tham gia vào chu kỳ ghi hàng ngày. Để nhận được XNF bằng XEN, bạn sẽ cần trải qua quá trình ghi biến thể mã thông báo XEN của mình để đổi lấy vXEN . Xin lưu ý rằng lượng vXEN cần thiết cho mỗi lô được cố định ở mức 10.000.000 vXEN , tuy nhiên, lượng XEN cần thiết để có được một lô sẽ thay đổi dựa trên [tỷ lệ ghi](https://github.com/xenify-io/litepaper/blob/main/Languages/Vietnamese.md#%EF%B8%8F-vxen---th%E1%BB%91ng-nh%E1%BA%A5t-c%C3%A1c-v%E1%BA%BFt-b%E1%BB%8Fng) áp dụng cho từng biến thể XEN. Ví dụ: nếu bạn muốn tham gia đấu giá đốt Xenify trên Arbitrum , bạn sẽ cần tối thiểu 10.000.000 XEN để đốt (với tỷ lệ đốt là 1:1) và đổi lại bạn sẽ nhận được 1 lô vXEN (10.000.000 vXEN ). Chức năng ghi này định vị giao thức của chúng tôi là nhân tố chính trong quá trình ghi mã thông báo XEN lớp 1. Mỗi lần bạn ghi mã thông báo XEN, địa chỉ của bạn sẽ được ghi vào bản ghi ghi X1 và đổi lại, bạn sẽ nhận được vXEN .
 
-Điều quan trọng cần lưu ý là khi bạn quyết định ghi vXEN của mình để tham gia vào phiên đấu giá ghi hàng ngày để phân bổ XNF, Phí ghi sẽ được áp dụng. Tương tự như quá trình ghi vXEN, việc đốt mã thông báo YSL của bạn cũng phải chịu Phí đốt. Tỷ lệ chuyển đổi để thu được một lô trong quá trình ghi đĩa sẽ được cố định, với một lô tương đương 0,01 YSL hoặc 10.000.000 vXEN. Vào cuối chu kỳ, bạn sẽ nhận được mã thông báo XNF dựa trên tổng số lô bạn đã đốt.
+Điều quan trọng cần lưu ý là khi bạn quyết định ghi vXEN của mình để tham gia vào phiên đấu giá ghi hàng ngày để phân bổ XNF, Phí ghi sẽ được áp dụng. Tương tự như quá trình ghi vXEN, việc đốt mã thông báo YSL của bạn cũng phải chịu Phí đốt. Tỷ lệ chuyển đổi để thu được một lô trong quá trình ghi đĩa sẽ được cố định, với một lô tương đương 0,01 YSL (Arbitrum) hoặc 10.000.000 vXEN. Vào cuối chu kỳ, bạn sẽ nhận được mã thông báo XNF dựa trên tổng số lô bạn đã đốt.
 
 Bất kể bạn chọn ghi vXEN hay YSL, giá trị mỗi đợt (VB) sẽ phụ thuộc vào chuỗi cụ thể mà bạn chọn để ghi. Giá trị này sẽ được thiết lập khi triển khai Xenify và sẽ linh hoạt dựa trên giá hiện tại của mã thông báo gốc của chuỗi. Giá trị tích lũy của các lô bạn ghi sẽ đóng vai trò trực tiếp trong việc xác định Phí ghi (BF) cần thiết để thực hiện chức năng ghi, đảm bảo quy trình liền mạch và minh bạch cho tất cả người tham gia.
 
@@ -924,7 +929,7 @@ Giao thức Xenify cho phép người dùng ghi mã thông báo vXEN hoặc YSL 
 
 Công thức tính phí ghi được thiết kế để xem xét nhiều yếu tố khác nhau, bao gồm thời gian ghi trong một chu kỳ, số lô được đốt và giá trị liên quan của chúng. Phần tốt nhất? Người dùng đốt càng nhiều lô thì mức giảm giá họ sẽ được hưởng càng lớn, với khả năng tiết kiệm lên tới 75% cho 10.000 lô trong giờ đầu tiên của mỗi chu kỳ. Điều này tạo ra động lực hấp dẫn để người dùng tham gia vào các hoạt động ghi lớn hơn vào đầu chu kỳ.
 
-Bây giờ, bạn có thể thắc mắc, chính xác thì lô là gì? Một lô đại diện cho một số lượng mã thông báo cố định, vXEN hoặc YSL, được yêu cầu để tham gia vào quá trình ghi. Cụ thể, một lô vXEN tương đương với 10.000.000 vXEN, trong khi một lô YSL tương đương với 0,01 YSL.
+Bây giờ, bạn có thể thắc mắc, chính xác thì lô là gì? Một lô đại diện cho một số lượng mã thông báo cố định, vXEN hoặc YSL, được yêu cầu để tham gia vào quá trình ghi. Cụ thể, một lô vXEN tương đương với 10.000.000 vXEN, trong khi một lô YSL tương đương với 0,01 YSL trên Arbitrum, 1,00 bYSL trên BNB Chain và 1,00 mYSL trên Polygon.
 
 Bằng cách triển khai yếu tố này vào công thức ghi, chúng tôi đảm bảo rằng người dùng sẽ nhận được chiết khấu tương ứng với số lượng lô họ đốt. Giá trị mỗi đợt cho chuỗi được thiết lập khi Xenify được triển khai và sẽ tự động dựa trên giá hiện tại của mã thông báo gốc của chuỗi bằng công thức bên dưới:
 
@@ -1781,6 +1786,17 @@ Chào mừng bạn đến với Bảng thuật ngữ Xenify , nguồn tài nguy�
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Địa chỉ hợp đồng
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+## ♦️ XNF
+- [Arbitrum](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ♦️ vXEN
+- [vXEN](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+## ♦️ YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
