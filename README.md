@@ -30,7 +30,7 @@ Dayana Plaz • Co-Founder • <a href="mailto:dayana@xenify.io">dayana@xenify.i
 - [Our Founders](https://github.com/xenify-io/litepaper#%EF%B8%8F-our-founders)
 - [XEN Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xen-overview)
 - [vXNF - Cross-Chain XNF Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxnf---cross-chain-xnf-burns)
-- [vXEN - Cross-Chain XEN Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---unifying-the-burns)
+- [vXEN - Cross-Chain XEN Burns](https://github.com/xenify-io/litepaper#%EF%B8%8F-vxen---cross-chain-xen-burns)
 - [Bridging XEN - Unifying the Chains](https://github.com/xenify-io/litepaper#%EF%B8%8F-bridging-xen---unifying-the-chains)
 - [YSL - Hyper-Deflationary](https://github.com/xenify-io/litepaper#%EF%B8%8F-ysl---hyper-deflationary)
 - [XNF & veXNF Overview](https://github.com/xenify-io/litepaper#%EF%B8%8F-xnf--vexnf-overview)
