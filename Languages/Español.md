@@ -29,7 +29,8 @@ Dayana Plaz - Cofundador - <a href="mailto:dayana@xenify.io">dayana@xenify.io</a
 - [Características Principales](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-caracter%C3%ADsticas-principales)
 - [Nuestros Fundadores](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-nuestros-fundadores)
 - [Visión general de XEN](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-visi%C3%B3n-general-de-xen)
-- [vXEN - Unificando las Quemaduras](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-vxen---unificando-las-quemaduras)
+[vXEN - Quemaduras XEN entre cadenas]()
+[vXNF - Quemaduras XNF entre cadenas]()
 - [Puente XEN - Unificar las Cadenas](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-puente-xen---unificar-las-cadenas)
 - [YSL - Hiper-Deflación](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-ysl---hiper-deflaci%C3%B3n)
 - [Visión general de XNF y veXNF](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-visi%C3%B3n-general-de-xnf-y-vexnf)
@@ -465,7 +466,7 @@ Para mintear XEN, los participantes pueden conectar sus carteras compatibles con
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - Burns Unificadas
+# ◽️ vXEN - Quemaduras XEN entre cadenas
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -495,6 +496,19 @@ He aquí un desglose conciso de nuestras cadenas de despliegue para vXEN:
 
 <br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - Quemaduras XNF entre cadenas
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Presentamos vXNF, una solución innovadora desarrollada por Xenify que permite a los titulares de XNF de Arbitrum y a los titulares de bXNF de BNB Chain participar y ganar recompensas ETH en Ethereum. A diferencia de Arbitrum y BNB Chain, donde los usuarios queman lotes de vXEN o YSL, las Ethereum Burn Auctions requerirán que los participantes quemen lotes de vXNF.
+
+Para obtener vXNF, simplemente necesita XNF en Arbitrum o bXNF en BNB Chain. Cuando quema su XNF o bXNF para adquirir vXNF, el contrato de Xenify quema automáticamente sus tokens y acuña una cantidad equivalente de vXNF en su dirección de Ethereum. Es así de simple. Una vez que tenga sus tokens vXNF, podrá participar en las quemas de Ethereum para eXNF, cuya subasta puede bloquear para ganar recompensas ETH. De esta manera, podrá disfrutar de los beneficios del ecosistema multicadena de Xenify y ganar recompensas en todas las cadenas.
+
+Con vXNF, puede unirse sin problemas a las subastas diarias de Ethereum para eXNF, que pueden bloquearse para ganar recompensas ETH. Al permitir una participación sin fricciones para nuestra diversa base de usuarios de XNF, vXNF demuestra nuestro compromiso con la interoperabilidad y la accesibilidad entre cadenas. Ya sea que tenga XNF, bXNF o pronto eXNF, Xenify le permite maximizar las recompensas en múltiples cadenas en un ecosistema unificado.
+ 
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Puente XEN - Cadenas Unificadas
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -534,28 +548,19 @@ He aquí un desglose conciso de nuestras cadenas de despliegue e identificadores
 
 <br>
 
-Presentamos YSL, un token hiperdeflaccionario que combina la escasez cuantificable con la utilidad del mundo real a través de las subastas diarias de Xenify. En lugar de depender únicamente de la actividad del mercado para la reducción de la oferta, como los modelos tradicionales, YSL integra un mecanismo único: las subastas burn de Xenify. Con cada subasta diaria, una porción de YSL se retira permanentemente de la circulación, reduciendo inherentemente la oferta total y amplificando potencialmente el valor. Y lo que es más importante, YSL se ha diseñado para la confianza y cuenta con un contrato inmutable y no actualizable diseñado para una total transparencia sin posibilidad de cambios imprevistos.
+Presentamos YSL, un token hiperdeflacionario que combina escasez cuantificable con utilidad en el mundo real a través de las subastas diarias de Xenify. En lugar de depender únicamente de la actividad del mercado para reducir la oferta como los modelos tradicionales, YSL integra un mecanismo único: las subastas de quema de Xenify. Con cada lote quemado, una porción de YSL se retira permanentemente de la circulación, lo que esencialmente reduce el suministro total y potencialmente amplifica el valor. Más importante aún, YSL ha sido diseñado para brindar confianza y presenta un contrato inmutable y no actualizable diseñado para brindar total transparencia sin la posibilidad de cambios impredecibles.
 
-El nuevo token YSL debuta en Arbitrum, con la instantánea del lanzamiento aéreo disponible <a href="https://bit.ly/YSLAirdrop2023" target="_blank">aquí</a>. Pero YSL no se detendrá allí: se planea la expansión a través de las principales cadenas EVM como Ethereum, BNB, Polygon, Avalanche, Optimism y más, cada una con su propio identificador YSL único (por ejemplo, eYSL en Ethereum). Para permitir la interoperabilidad entre diferentes cadenas, YSL presenta un puente de token que aprovecha LayerZero OTF como protocolo principal, con Axelar y Wormhole como opciones alternativas. Esto no solo otorga a los titulares la libertad de unir YSL para participar en subastas de quema de Xenify entre cadenas, sino también la capacidad de agregar liquidez en cualquier cadena EVM alineada y DEX de su elección. Y aquí está la mejor parte: los titulares de YSL que fueron destinatarios del lanzamiento aéreo de Arbitrum pueden reclamar su parte de YSL en cada cadena dentro de los 90 días posteriores a su implementación. En resumen, la tokenómica deflacionaria única en su tipo de YSL fusiona escasez y utilidad, proporcionando a los titulares un token dinámico que presenta un crecimiento de valor codificado y basado en el uso.
+Antes de la creación de Xenify, existía un protocolo separado conocido como YSL.IO, desarrollado en la BNB Chain y que presentaba una serie de tokens. Cada token desempeñó un papel específico dentro de un ecosistema diseñado para recompensas optimistas derivadas de la rehipotecación de LP con rendimiento de AMM como ApeSwap (ahora <a href="https://ape.bond/bonds" target="_blank">ApeBond </a>) y PancakeSwap. Como socio oficial de ApeSwap, YSL.IO se unió a su programa BUIDL y se graduó con éxito tras una propuesta de gobernanza en cadena de ApeSwap. El protocolo se desarrolló meticulosamente y cada iteración fue auditada por líderes de la industria como CertiK y PeckShield. Debido a los cambios del mercado, se llegó a una decisión comunitaria luego de una propuesta de gobernanza en cadena para consolidar los tokens del ecosistema YSL.IO en un token singular e inmutable de capital fijo. Este movimiento estratégico alineó a YSL con los primeros principios codificados en el desarrollo de Xenify, al tiempo que garantiza la utilidad a través de Xenify Burn Auctions. El nuevo token YSL solo se lanzará en Arbitrum, BNB Chain y Polygon, y puedes encontrar la instantánea del lanzamiento aéreo disponible <a href="https://bit.ly/YSLAirdrop2023" target="_blank">aquí < /a>. Los destinatarios elegibles del lanzamiento aéreo deberán reclamar su parte de YSL de cada cadena dentro de los 90 días posteriores a su implementación.
 
-He aquí un desglose conciso de nuestras cadenas de despliegue y sus identificadores exclusivos de YSL:
+En resumen, la tokenómica deflacionaria única en su tipo de YSL fusiona escasez y utilidad, proporcionando a los titulares un token dinámico que presenta un crecimiento de valor codificado y basado en el uso. A continuación se muestra un desglose de las cadenas de implementación, sus identificadores YSL únicos y la cantidad de YSL requerida por lote:
 
 <br>
 
-| Num | Identificadores   | Cadenas               |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+| Núm | Identificadores   | Cadenas               | YSL por lote            | Suministro máximo      |
+|:----|:------------------|:----------------------|:------------------------|------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | -                      |
+| 2   | bYSL              | BNB Chain             | 1.00                    | -                      |
+| 3   | mYSL              | Polygon               | 1.00                    | -                      |
 
 <br>
 
@@ -759,35 +764,35 @@ En el panorama DeFi, en constante evolución, tender puentes entre las diferente
 
 - Arbitrum es nuestra cadena de despliegue de génesis.
 
-### 2️⃣ Ethereum (eXNF)
+### 2️⃣ BNB Chain (bXNF)
 
-- El despliegue de Ethereum está previsto para 3 meses después del despliegue de Arbitrum.
+- BNB Chain está lista para implementarse después de Arbitrum.
 
-### 3️⃣ BNB Chain (bXNF)
+### 3️⃣ Polygon (mXNF)
 
-- El despliegue de la cadena BNB está previsto para 3 meses después del despliegue de Ethereum.
+- Polygon está configurado para implementarse siguiendo la BNB Chain.
 
-### 4️⃣ Polygon (mXNF)
+### 4️⃣ Etereum (eXNF)
 
-- Polygon se desplegará tres meses después del despliegue de la cadena BNB.
+- Ethereum está listo para implementarse después de Polygon.
 
 ### 5️⃣ Base (cbXNF)
 
-- El despliegue de la base está previsto para 3 meses después del despliegue del polígono.
+- Base se determinará después del despliegue de Ethereum.
 
 ### 6️⃣ Optimism (opXNF)
 
-- Optimism se desplegará 3 meses después del despliegue de la Base.
+- Optimism se determinará tras el despliegue de la Base.
 
 ### 7️⃣ Avalanche (aXNF)
 
-- El despliegue de Avalanche está previsto 3 meses después del despliegue de Optimism.
+- Avalanche se determinará después del despliegue de Optimism.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ Despliegue acelerado
 
-Nuestro actual calendario de tres meses entre implantaciones pretende concentrar la liquidez y la energía/actividad económica en una cadena antes de ampliarla. Este enfoque tiene por objeto generar un crecimiento sostenible, frente a los despliegues agresivos de varias cadenas, más adecuados para las condiciones alcistas del mercado. Sin embargo, es esencial subrayar nuestra flexibilidad para acelerar nuestro calendario de despliegue en BNB Chain, Polygon, Base, Optimism y Avalanche. En función de las condiciones del mercado, podemos acelerar nuestros plazos de despliegue hasta un mes o incluso una semana. Esta capacidad de adaptación nos permite responder estratégicamente a las condiciones del mercado al tiempo que garantizamos una expansión controlada y bien meditada que maximiza los beneficios para toda nuestra comunidad.
+Nuestro cronograma de implementación tiene como objetivo concentrar la liquidez y la energía/actividad económica en una cadena antes de expandirse. Este enfoque centrado tiene como objetivo generar un crecimiento sostenible frente a lanzamientos agresivos de múltiples cadenas que se adaptan mejor a las condiciones alcistas del mercado. Sin embargo, es esencial enfatizar nuestra flexibilidad para acelerar nuestro cronograma de implementación en Polygon, Ethereum, Base, Optimism y Avalanche. Dependiendo de las condiciones del mercado, mantenemos la capacidad de acelerar nuestros cronogramas de implementación a tan solo 1 mes o incluso solo 1 semana. Esta adaptabilidad nos permite responder estratégicamente a las condiciones del mercado y al mismo tiempo garantizar una expansión controlada y bien considerada que maximice los beneficios para toda nuestra comunidad.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +875,7 @@ Los usuarios se ven aún más incentivados a través del mecanismo de bloqueo de
 
 Xenify permite a los usuarios quemar sin esfuerzo tokens vXEN o YSL directamente desde sus carteras para participar en el ciclo de quema diario. Para adquirir XNF con XEN, tendrá que pasar por un proceso de quema de su variante de token XEN a cambio de vXEN. Tenga en cuenta que la cantidad de vXEN necesaria por lote está fijada en 10.000.000 vXEN, sin embargo, la cantidad de XEN necesaria para obtener un lote variará en función del [relación de quemado](https://github.com/xenify-io/litepaper/blob/main/Languages/Espa%C3%B1ol.md#%EF%B8%8F-vxen---unificando-las-quemaduras) que se aplique a cada variante de XEN. Por ejemplo, si quieres participar en la subasta de quema de Xenify en Arbitrum, necesitarás un mínimo de 10.000.000 XEN para quemar (con un ratio de quema de 1:1), y a cambio recibirás 1 lote de vXEN (10.000.000 vXEN). Esta función de quema posiciona a nuestro protocolo como un actor clave en la capa 1 de quema de tokens XEN. Cada vez que queme sus fichas XEN, su dirección se registrará en el registro de grabación X1 y, a cambio, recibirá vXEN.
 
-Es esencial tener en cuenta que cuando decide grabar su vXEN para participar en la subasta de grabación diaria para una asignación de XNF, se aplica una tarifa de grabación. De manera similar al proceso de grabación de vXEN, la grabación de sus tokens YSL también genera una tarifa de grabación. La tasa de conversión para adquirir un lote durante el proceso de grabación será fija, siendo un lote equivalente a 0,01 YSL o 10.000.000 vXEN. Al final del ciclo, recibirás tokens XNF según la cantidad total de lotes que quemaste.
+Es importante tener en cuenta que cuando decide grabar su vXEN para participar en la subasta de grabación diaria para una asignación de XNF, se aplica una tarifa de grabación. De manera similar al proceso de grabación de vXEN, la grabación de sus tokens YSL también genera una tarifa de grabación. La tasa de conversión para adquirir un lote durante el proceso de grabación será fija, siendo un lote equivalente a 0.01 YSL (Arbitrum) o 10,000,000 vXEN. Al final del ciclo, recibirás tokens XNF según la cantidad total de lotes que quemaste.
 
 Independientemente de si opta por grabar vXEN o YSL, el valor por lote (VB) dependerá de la cadena específica que seleccione para la grabación. Este valor se establecerá en el momento del despliegue de Xenify y se basará dinámicamente en el precio actual del token nativo de la cadena. El valor acumulado de los lotes que queme desempeñará un papel directo en la determinación de la Tarifa de Quemado (BF) necesaria para ejecutar la función de quemado, garantizando un proceso transparente y sin fisuras para todos los participantes.
 
@@ -924,7 +929,7 @@ El protocolo Xenify permite a los usuarios quemar vXEN o tokens YSL para asegura
 
 La fórmula de la tasa de quema está diseñada para tener en cuenta varios factores, como el momento de la quema durante un ciclo, el número de lotes que se queman y su valor asociado. ¿Y lo mejor? Cuantos más lotes queme un usuario, mayor será el descuento del que disfrutará, con un descuento potencial de hasta el 75% para 10.000 lotes durante la primera hora de cada ciclo. Esto crea un incentivo convincente para que los usuarios realicen operaciones de quema más grandes al principio del ciclo.
 
-Ahora bien, quizás te preguntes, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o YSL, necesarios para participar en el proceso de grabación. En concreto, un único lote de vXEN equivale a 10,000,000 de vXEN, mientras que un único lote de YSL equivale a 0.01 YSL.
+Ahora bien, quizás te preguntes, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o YSL, necesarios para participar en el proceso de grabación. Específicamente, un solo lote de vXEN equivale a 10,000,000 vXEN, mientras que un solo lote de YSL equivale a 0.01 YSL en Arbitrum, 1.00 bYSL en BNB Chain y 1.00 mYSL en Polygon.
 
 Al implementar este factor en la fórmula de quema, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de lotes que queman. El valor por lote para una cadena se establece cuando se despliega Xenify, y se basará dinámicamente en el precio actual del token nativo de la cadena utilizando la fórmula siguiente:
 
@@ -1782,6 +1787,17 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
 # ◽️ Direcciones de Contratos
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
+## ♦️XNF
+- [Árbitro](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ♦️vXEN
+- [vXES](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+##♦️YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
+  
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
  - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
