@@ -29,7 +29,8 @@ Dayana Plaz - Kurucu Ortak - <a href="mailto:dayana@xenify.io">dayana@xenify.io<
 - [Temel Özellikler](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-temel-%C3%B6zellikler)
 - [Kurucularımız](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-kurucular%C4%B1m%C4%B1z)
 - [XEN Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xen-genel-bak%C4%B1%C5%9F)
-- [vXEN - Yanıkların Birleştirilmesi](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-vxen---yan%C4%B1klar%C4%B1n-birle%C5%9Ftirilmesi)
+- [vXEN - Zincirler Arası XEN Yakmaları]()
+- [vXNF - Zincirler Arası XNF Yakmaları]()
 - [XEN'i Köprüleme - Zincirleri Birleştirme](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xeni-k%C3%B6pr%C3%BCleme---zincirleri-birle%C5%9Ftirme)
 - [YSL - Hiper-Deflasyonist](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-ysl---hiper-deflasyonist)
 - [XNF & veXNF Genel Bakış](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-xnf--vexnf-genel-bak%C4%B1%C5%9F)
@@ -465,7 +466,7 @@ Katılımcılar XEN basmak için Ethereum uyumlu cüzdanlarını XEN akıllı s�
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# ◽️ vXEN - Yanıkların Birleştirilmesi
+# ◽️ vXEN - Zincirler Arası XEN Yakmaları
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
@@ -495,6 +496,19 @@ vXEN'in optimum çapraz zincir köprülemesi için Xenify, birincil köprüleme 
 
 <br>
 
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+# ◽️ vXNF - Zincirler Arası XNF Yakmaları
+![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+<br>
+
+Xenify tarafından geliştirilen ve Arbitrum'dan XNF sahiplerinin ve BNB Chain'den bXNF sahiplerinin Ethereum'a katılmasına ve ETH Ödüllerini kazanmasına olanak tanıyan yenilikçi bir çözüm olan vXNF ile tanışın. Kullanıcıların vXEN veya YSL partilerini yaktığı Arbitrum ve BNB Chain'in aksine, Ethereum Burn Auctions, katılımcıların vXNF partilerini yakmasını gerektirecek.
+
+vXNF'yi almak için Arbitrum'da XNF'ye veya BNB Chain'de bXNF'ye ihtiyacınız var. VXNF'yi elde etmek için XNF veya bXNF'nizi yaktığınızda, Xenify'ın sözleşmesi otomatik olarak tokenlarınızı yakar ve Ethereum adresinize eşdeğer miktarda vXNF basar. Bu kadar basit. VXNF belirteçlerinizi aldıktan sonra, ETH ödülleri kazanmak için açık artırmayı kilitleyebileceğiniz eXNF için Ethereum yakma işlemlerine katılabilirsiniz. Bu şekilde Xenify'ın çoklu zincir ekosisteminin avantajlarından yararlanabilir ve zincirler arasında ödüller kazanabilirsiniz.
+
+VXNF ile, ETH ödülleri kazanmak için kilitlenebilen eXNF için Ethereum Günlük Açık Artırmalarına sorunsuz bir şekilde katılabilirsiniz. Çeşitli XNF kullanıcı tabanımız için sorunsuz katılımı mümkün kılan vXNF, zincirler arası birlikte çalışabilirlik ve erişilebilirlik konusundaki kararlılığımızı gösterir. İster XNF, bXNF veya yakında eXNF'e sahip olun - Xenify, tek bir birleşik ekosistemde birden fazla zincirdeki ödülleri en üst düzeye çıkarmanızı sağlar.
+ 
+ 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ XEN'i Köprüleme - Zincirleri Birleştirme
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
@@ -534,28 +548,19 @@ Sarılı XEN yeni zincirlerde kullanılmaya başlandığında, XEN'in kaynakland
 
 <br>
 
-Xenify'ın günlük yakma müzayedeleri aracılığıyla ölçülebilir kıtlığı gerçek dünya faydasıyla harmanlayan hiper deflasyonist bir token olan YSL ile tanışın. Geleneksel modellerde olduğu gibi arzın azaltılması için yalnızca piyasa faaliyetlerine güvenmek yerine, YSL benzersiz bir mekanizmayı entegre eder: Xenify yakma müzayedeleri. Her günlük açık artırmada, YSL'nin bir kısmı dolaşımdan kalıcı olarak kaldırılarak toplam arzı doğal olarak azaltır ve potansiyel olarak değeri artırır. Daha da önemlisi, YSL güven için tasarlanmıştır ve öngörülemeyen değişiklik potansiyeli olmadan tam şeffaflık için tasarlanmış değişmez, yükseltilemez bir sözleşmeye sahiptir.
+Xenify'ın günlük yakma açık artırmaları aracılığıyla ölçülebilir kıtlığı gerçek dünyadaki faydayla harmanlayan hiper-deflasyonist bir token olan YSL ile tanışın. YSL, geleneksel modeller gibi arzın azaltılması için yalnızca piyasa faaliyetlerine güvenmek yerine benzersiz bir mekanizmayı entegre ediyor: Xenify yakma açık artırmaları. Her parti yakıldığında, YSL'nin bir kısmı kalıcı olarak dolaşımdan çıkarılır, bu da esasen toplam arzı azaltır ve potansiyel olarak değeri artırır. Daha da önemlisi, YSL güven için tasarlanmıştır ve öngörülemeyen değişiklik potansiyeli olmadan tam şeffaflık için tasarlanmış, değişmez, yükseltilemeyen bir sözleşmeye sahiptir.
 
-Yeni YSL tokeni Arbitrum'da görücüye çıktı ve airdropun anlık görüntüsüne <a href="https://bit.ly/YSLAirdrop2023" target="_blank">burada</a> ulaşılabilir. Ancak YSL burada bitmeyecek; Ethereum, BNB, Polygon, Avalanche, Optimism ve daha fazlası gibi her biri kendi benzersiz YSL tanımlayıcısına (örneğin Ethereum'da eYSL) sahip önde gelen EVM zincirlerinde genişleme planlanıyor. YSL, farklı zincirler arasında birlikte çalışabilirliği sağlamak için birincil protokol olarak LayerZero OTF'yi kullanan ve geri dönüş seçenekleri olarak Axelar ve Wormhole'u kullanan bir token köprüsüne sahiptir. Bu, sahiplerine yalnızca YSL'yi zincirler arasında Xenify yakma açık artırmalarına katılmak üzere köprüleme özgürlüğünü vermekle kalmıyor, aynı zamanda herhangi bir hizalanmış EVM zincirine ve seçtikleri DEX'e likidite ekleme olanağı da sağlıyor. Ve işin en iyi yanı, Arbitrum airdrop alıcısı olan YSL sahipleri, dağıtımdan sonraki 90 gün içinde her zincirde YSL'den paylarını talep edebilirler. Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomik, kıtlığı ve faydayı birleştirerek sahiplerine kodlanmış, kullanıma dayalı değer artışı sağlayan dinamik bir token sağlıyor.
+Xenify'ın başlangıcından önce, BNB Zinciri üzerinde geliştirilen ve bir dizi token içeren, YSL.IO olarak bilinen ayrı bir protokol vardı. Her token, ApeSwap gibi AMM'lerden getiri sağlayan LP'lerin yeniden hipotezleştirilmesinden elde edilen ödülleri optimize etmek için hazırlanmış bir ekosistem içinde belirli bir rol oynadı (şimdi <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) ve PancakeSwap. ApeSwap'in resmi ortağı olarak YSL.IO, BUIDL programına katıldı ve ApeSwap'in zincir üstü yönetim teklifinin ardından başarıyla mezun oldu. Protokol, her yinelemenin CertiK ve PeckShield gibi endüstri liderleri tarafından denetlenmesiyle titizlikle geliştirildi. Piyasa değişimleri nedeniyle, YSL.IO ekosisteminin tokenlerini tek bir sabit kapaklı, değişmez tokende birleştirmek için zincir üstü yönetim önerisinin ardından bir topluluk kararına varıldı. Bu stratejik hamle, YSL'yi Xenify geliştirmesinde kodlanan ilk ilkelerle uyumlu hale getirirken Xenify Burn Açık Artırmaları aracılığıyla fayda sağladı. Yeni YSL tokeni yalnızca Arbitrum, BNB Chain ve Polygon'da piyasaya sürülecek ve airdropun anlık görüntüsünü mevcut <a href="https://bit.ly/YSLAirdrop2023" target="_blank">burada</a>. Uygun airdrop alıcılarının, dağıtımdan sonraki 90 gün içinde her zincirden YSL paylarını talep etmeleri gerekecek.
 
-İşte dağıtım zincirlerimizin ve benzersiz YSL tanımlayıcılarının kısa bir dökümü:
+Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomik, kıtlığı ve faydayı birleştirerek sahiplerine kodlanmış, kullanıma dayalı değer artışı sağlayan dinamik bir token sağlıyor. Dağıtım zincirlerinin, benzersiz YSL tanımlayıcılarının ve parti başına gereken YSL miktarının dökümünü burada bulabilirsiniz:
 
 <br>
 
-| Num | Tanımlayıcılar    | Zincirler             |
-|:----|:------------------|:----------------------|
-| 1   | YSL               | Arbitrum              |
-| 2   | eYSL              | Ethereum              |
-| 3   | bYSL              | BNB Chain             |
-| 5   | opYSL             | Optimism              |
-| 6   | mbYSL             | Moonbeam              |
-| 7   | zkYSL             | zkSync Era            |
-| 8   | okYSL             | OKT (OKX)             |
-| 9   | aYSL              | Avalanche             |
-| 4   | mYSL              | Polygon               |
-| 10  | fmYSL             | Fantom                |
-| 11  | laYSL             | Linea                 |
-| 12  | cbYSL             | Base                  |
+| Sayı| Tanımlayıcılar    | Zincirler             | Parti Başına YSL        | Maksimum Arz            |
+|:----|:------------------|:----------------------|:------------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | -                       |
+| 2   | bYSL              | BNB Chain             | 1.00                    | -                       |
+| 3   | mYSL              | Polygon               | 1.00                    | -                       |
 
 <br>
 
@@ -759,35 +764,35 @@ Sürekli gelişen DeFi ortamında, farklı zincirler arasındaki boşluğu doldu
 
 - Arbitrum bizim genesis dağıtım zincirimizdir.
 
-### 2️⃣ Ethereum (eXNF)
+### 2️⃣ BNB Chain (bXNF)
 
-- Ethereum dağıtımının Arbitrum dağıtımını takiben 3 ay içinde yapılması planlanmaktadır.
+- BNB Chain, Arbitrum'un ardından konuşlandırılacak şekilde ayarlandı.
 
-### 3️⃣ BNB Chain (bXNF)
+### 3️⃣ Polygon (mXNF)
 
-- BNB Chain dağıtımı, Ethereum dağıtımından 3 ay sonra planlanmaktadır.
+- Polygon, BNB Chain'nin ardından dağıtıma ayarlandı.
 
-### 4️⃣ Poligon (mXNF)
+### 4️⃣ Ethereum (eXNF)
 
-- Poligon, BNB Zinciri'nin konuşlandırılmasından 3 ay sonra konuşlandırılacak.
+- Ethereum, Polygon'un ardından dağıtıma ayarlandı.
 
 ### 5️⃣ Base (cbXNF)
 
-- Üs konuşlandırması, Poligon konuşlandırmasından 3 ay sonra planlanmaktadır.
+- Base, Ethereum dağıtımının ardından belirlenecektir.
 
 ### 6️⃣ Optimism (opXNF)
 
-- İyimserlik, Üssün konuşlandırılmasından 3 ay sonra yaygınlaştırılacaktır.
+- Optimism Üs konuşlandırmasının ardından belirlenecek.
 
 ### 7️⃣ Avalanche (aXNF)
 
-- Avalanche'ın Optimism konuşlandırmasından 3 ay sonra konuşlandırılması planlanmaktadır.
+- Avalanche, Optimism konuşlandırılmasının ardından belirlenecek.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
 ## ⚙️ Hızlandırılmış Dağıtım
 
-Dağıtımlar arasındaki mevcut 3 aylık zaman çizelgemiz, genişlemeden önce likiditeyi ve ekonomik enerjiyi/faaliyeti tek bir zincir üzerinde yoğunlaştırmayı amaçlamaktadır. Bu odaklanmış yaklaşım, yükseliş piyasası koşullarına daha uygun olan agresif çok zincirli dağıtımlara karşı sürdürülebilir büyüme oluşturmayı amaçlamaktadır. Bununla birlikte, BNB Chain, Polygon, Base, Optimism ve Avalanche'deki dağıtım programımızı hızlandırma esnekliğimizi vurgulamak önemlidir. Piyasa koşullarına bağlı olarak, dağıtım zaman çizelgelerimizi 1 ay veya hatta sadece 1 hafta gibi kısa bir süreye kadar hızlandırma kabiliyetimizi koruyoruz. Bu uyarlanabilirlik, tüm topluluğumuz için faydaları en üst düzeye çıkaran kontrollü ve iyi düşünülmüş bir genişleme sağlarken, piyasa koşullarına stratejik olarak yanıt vermemizi sağlıyor.
+Dağıtım zaman çizelgemiz, genişlemeden önce likiditeyi ve ekonomik enerjiyi/faaliyeti tek bir zincirde yoğunlaştırmayı amaçlamaktadır. Bu odaklanmış yaklaşım, yükselişli piyasa koşullarına daha uygun agresif çoklu zincir sunumlarına karşı sürdürülebilir büyüme oluşturmayı amaçlıyor. Ancak Polygon, Ethereum, Base, Optimism ve Avalanche üzerindeki dağıtım planımızı hızlandırma esnekliğimizi vurgulamak önemlidir. Piyasa koşullarına bağlı olarak dağıtım zaman çizelgelerimizi 1 ay, hatta 1 hafta gibi kısa bir süreye kadar hızlandırma yeteneğimizi koruyoruz. Bu uyarlanabilirlik, tüm topluluğumuz için faydaları en üst düzeye çıkaran kontrollü ve iyi düşünülmüş bir genişlemeyi garanti ederken, piyasa koşullarına stratejik olarak yanıt vermemizi sağlar.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -870,7 +875,7 @@ Kullanıcılar, Arbitrum'daki ETH gibi zincire özgü yerel tokenlar biçiminde 
 
 Xenify, kullanıcıların günlük yakma döngüsüne katılmak için vXEN veya YSL tokenlerini doğrudan cüzdanlarından zahmetsizce yakmalarını sağlar. XEN ile XNF elde etmek için, vXEN karşılığında XEN token varyantınızı yakma sürecinden geçmeniz gerekecektir. Parti başına gereken vXEN miktarının 10.000.000 vXEN olarak sabitlendiğini, ancak bir parti elde etmek için gereken XEN miktarının her bir XEN varyantı için geçerli olan [yakma oranına](https://github.com/xenify-io/litepaper/blob/main/Languages/Turkish.md#%EF%B8%8F-vxen---yan%C4%B1klar%C4%B1n-birle%C5%9Ftirilmesi) bağlı olarak değişeceğini lütfen unutmayın. Örneğin, Xenify'ın Arbitrum'daki yakma açık artırmasına katılmak istiyorsanız, yakmak için en az 10.000.000 XEN'e ihtiyacınız olacak (1:1 yakma oranıyla) ve karşılığında 1 parti vXEN (10.000.000 vXEN) alacaksınız. Bu yakma işlevi, protokolümüzü XEN tokenlerinin katman-1 yakılmasında kilit bir oyuncu olarak konumlandırmaktadır. XEN tokenlarınızı her yaktığınızda, adresiniz X1 yakma kaydına kaydedilecek ve karşılığında vXEN alacaksınız.
 
-XNF tahsisi için günlük yakma açık artırmasına katılmak üzere vXEN'inizi yakmaya karar verdiğinizde bir Yakma Ücreti uygulanacağını unutmamanız önemlidir. VXEN yakma işlemine benzer şekilde, YSL belirteçlerinizi yakmak da bir Yakma Ücretine tabidir. Yazma işlemi sırasında bir parti elde etmek için gereken dönüşüm oranı, bir parti 0,01 YSL veya 10.000.000 vXEN'e eşdeğer olacak şekilde sabitlenecektir. Döngünün sonunda, yaktığınız toplam parti miktarına göre XNF jetonları alacaksınız.
+XNF tahsisi için günlük yakma açık artırmasına katılmak üzere vXEN'inizi yakmaya karar verdiğinizde bir Yakma Ücreti uygulanacağını unutmamak önemlidir. VXEN yakma işlemine benzer şekilde, YSL belirteçlerinizi yakmak da bir Yakma Ücretine tabidir. Yazma işlemi sırasında bir parti elde etmek için gereken dönüşüm oranı, bir parti 0,01 YSL (Arbitrum) veya 10.000.000 vXEN'e eşdeğer olacak şekilde sabitlenecektir. Döngünün sonunda, yaktığınız toplam parti miktarına göre XNF jetonları alacaksınız.
 
 İster vXEN ister YSL yakmayı tercih edin, parti başına değer (VB) yakma için seçtiğiniz belirli zincire bağlı olacaktır. Bu değer, Xenify'ın dağıtımı sonrasında belirlenecek ve dinamik olarak zincirin yerel tokenının mevcut fiyatına bağlı olacaktır. Yaktığınız partilerin kümülatif değeri, yakma işlevini gerçekleştirmek için gereken Yakma Ücretinin (BF) belirlenmesinde doğrudan rol oynayacak ve tüm katılımcılar için sorunsuz ve şeffaf bir süreç sağlayacaktır.
 
@@ -924,7 +929,7 @@ Xenify protokolü, kullanıcıların günlük XNF ödül döngüsünden XNF elde
 
 Yakma ücreti formülü, bir döngü sırasında yakmanın zamanlaması, yakılan parti sayısı ve bunların ilgili değeri dahil olmak üzere çeşitli faktörleri dikkate alacak şekilde tasarlanmıştır. En iyi kısmı mı? Bir kullanıcı ne kadar çok parti yakarsa, her döngünün ilk saatinde 10.000 parti için %75'e varan potansiyel tasarrufla o kadar büyük indirimden yararlanacaktır. Bu, kullanıcıların döngünün başlarında daha büyük yakma işlemlerine katılmaları için zorlayıcı bir teşvik oluşturur.
 
-Şimdi, toplu iş tam olarak nedir diye merak edebilirsiniz. Bir grup, yazma işlemine katılmak için gereken vXEN veya YSL gibi sabit sayıda tokenı temsil eder. Spesifik olarak, tek bir vXEN grubu 10.000.000 vXEN'e eşdeğerken, tek bir YSL grubu 0,01 YSL'ye eşdeğerdir.
+Şimdi, toplu iş tam olarak nedir diye merak edebilirsiniz. Bir grup, yazma işlemine katılmak için gereken vXEN veya YSL gibi sabit sayıda tokenı temsil eder. Spesifik olarak, tek bir vXEN grubu 10.000.000 vXEN'e eşdeğerken, tek bir YSL grubu Arbitrum'da 0,01 YSL'ye, BNB Chain'de 1,00 bYSL'ye ve Polygon'da 1,00 mYSL'ye eşdeğerdir.
 
 Bu faktörü yakma formülüne uygulayarak, kullanıcıların yaktıkları partilerin hacmiyle orantılı olarak indirim almalarını sağlıyoruz. Bir zincir için parti başına değer, Xenify konuşlandırıldığında belirlenir ve aşağıdaki formül kullanılarak dinamik olarak zincirin yerel tokenının mevcut fiyatına dayanır:
 
@@ -1781,6 +1786,17 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 # ◽️ Sözleşme Adresleri
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
+
+## ♦️ XNF
+- [Arbitrum](https://arbiscan.io/address/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F)
+
+## ♦️ vXEN
+- [vXEN](https://arbiscan.io/address/0x37bb209B118a22F233DEa252A5D7F56455765b4D)
+
+## ♦️ YSL
+- [Arbitrum](https://arbiscan.io/address/0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7)
+- [BNB Chain](https://bscscan.com/address/0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7)
+
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
