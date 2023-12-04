@@ -550,7 +550,7 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 
 隆重推出 YSL - 一种超级通货紧缩代币，通过 Xenify 的每日销毁拍卖将可量化的稀缺性与现实世界的实用性融为一体。 YSL 不像传统模式那样仅仅依靠市场活动来减少供应，而是集成了一种独特的机制 - Xenify 销毁拍卖。每一批燃烧后，一部分 YSL 就会永久退出流通，从根本上减少总供应量，并可能放大价值。更重要的是，YSL 专为信任而设计，具有不可变、不可升级的合约，旨在完全透明，不会出现不可预测的变化。
 
-在 Xenify 成立之前，存在一个名为 YSL.IO 的独立协议，该协议在 BNB 链上开发并具有一系列代币。 每个代币在生态系统中都发挥着特定的作用，该生态系统旨在优化来自 ApeSwap 等 AMM 的收益 LP 的再抵押所获得的奖励 (现在 <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) 和 PancakeSwap。 作为 ApeSwap 的官方合作伙伴，YSL.IO 加入了他们的 BUIDL 计划，并根据 ApeSwap 的链上治理提案成功毕业。 该协议经过精心开发，每次迭代都经过 CertiK 和 PeckShield 等行业领导者的审核。 由于市场变化，根据链上治理提案，社区做出了一项决定，将 YSL.IO 生态系统的代币整合为单一固定上限、不可变的代币。 这一战略举措使 YSL 与 Xenify 开发中的首要原则保持一致，同时确保通过 Xenify Burn 拍卖的实用性。 新的 YSL 代币将仅在 Arbitrum、BNB Chain 和 Polygon 上发布 - 您可以找到可用空投的快照 <a href="https://bit.ly/YSLAirdrop2023" target="_blank">这里</a> . 符合条件的空投接收者需要在部署后 90 天内领取约 ~141,209 YSL 最大供应量中的份额。
+在 Xenify 成立之前，存在一个名为 YSL.IO 的独立协议，该协议在 BNB 链上开发并具有一系列代币。 每个代币在生态系统中都发挥着特定的作用，该生态系统旨在优化来自 ApeSwap 等 AMM 的收益 LP 的再抵押所获得的奖励 (现在 <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) 和 PancakeSwap。 作为 ApeSwap 的官方合作伙伴，YSL.IO 加入了他们的 BUIDL 计划，并根据 ApeSwap 的链上治理提案成功毕业。 该协议经过精心开发，每次迭代都经过 CertiK 和 PeckShield 等行业领导者的审核。 由于市场变化，根据链上治理提案，社区做出了一项决定，将 YSL.IO 生态系统的代币整合为单一固定上限、不可变的代币。 这一战略举措使 YSL 与 Xenify 开发中的首要原则保持一致，同时确保通过 Xenify Burn 拍卖的实用性。 新的 YSL 代币将仅在 Arbitrum、BNB Chain 和 Polygon 上发布 - 您可以找到可用空投的快照 <a href="https://bit.ly/YSLAirdrop2023" target="_blank">这里</a> . 符合条件的空投接收者需要在部署后 90 天内领取约 ~145,459 YSL 最大供应量中的份额。
 
 简而言之，YSL 独一无二的通货紧缩代币经济学融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是基于使用的价值增长。以下是部署链、其独特的 YSL 标识符以及每批次所需的 YSL 数量的详细信息：
 
@@ -558,9 +558,9 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 
 |数量 | 标识符             | 链条                  | YSL 每批次               | 最大供应量               |
 |:----|:------------------|:----------------------|:------------------------|:------------------------|
-| 1   | YSL               | Arbitrum              | 0.01                    | ~141,209 YSL            |
-| 2   | bYSL              | BNB Chain             | 1.00                    | ~141,209 bYSL           |
-| 3   | mYSL              | Polygon               | 1.00                    | ~141,209 mYSL           |
+| 1   | YSL               | Arbitrum              | 0.01                    | ~145,459 YSL            |
+| 2   | bYSL              | BNB Chain             | 1.00                    | ~145,459 bYSL           |
+| 3   | mYSL              | Polygon               | 1.00                    | ~145,459 mYSL           |
 
 <br>
 
