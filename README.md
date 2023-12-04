@@ -556,11 +556,11 @@ In short, YSL’s one-of-a-kind deflationary tokenomics fuse scarcity and utilit
 
 <br>
 
-| Num | Identifiers       | Chains                | YSL Per Batch           | 
-|:----|:------------------|:----------------------|:------------------------|
-| 1   | YSL               | Arbitrum              | 0.01                    |
-| 2   | bYSL              | BNB Chain             | 1.00                    |
-| 3   | mYSL              | Polygon               | 1.00                    |
+| Num | Identifiers       | Chains                | YSL Per Batch           | Max Supply              |
+|:----|:------------------|:----------------------|:------------------------|:------------------------|
+| 1   | YSL               | Arbitrum              | 0.01                    | ~141,209 YSL            |
+| 2   | bYSL              | BNB Chain             | 1.00                    | ~141,209 YSL            |
+| 3   | mYSL              | Polygon               | 1.00                    | ~141,209 YSL            |
 
 <br>
 
