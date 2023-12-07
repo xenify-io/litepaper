@@ -202,7 +202,7 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 
 <br>
 
-- vXEN memungkinkan peserta dari rantai EVM berbeda dalam ekosistem XEN untuk berpartisipasi dalam lelang pembakaran harian. vXEN dihasilkan dengan membakar token asli XEN dari salah satu dari sepuluh rantai yang didukung di ekosistem XEN. Setiap kali pemegang membakar XEN asli dari salah satu rantai ini, transaksi dicatat dalam catatan pembakaran. Berikut ini adalah daftar rinci rantai EVM yang didukung, masing-masing dengan pengidentifikasi dan rasio yang sesuai untuk satu vXEN:
+- vXEN memungkinkan peserta dari rantai EVM berbeda dalam ekosistem XEN untuk berpartisipasi dalam lelang pembakaran harian. vXEN dihasilkan dengan membakar token asli XEN dari salah satu dari sembilan rantai yang didukung di ekosistem XEN. Setiap kali pemegang membakar XEN asli dari salah satu rantai ini, transaksi dicatat dalam catatan pembakaran. Berikut ini adalah daftar rinci rantai EVM yang didukung, masing-masing dengan pengidentifikasi dan rasio yang sesuai untuk satu vXEN:
 
 <br>
 
@@ -217,7 +217,6 @@ Pada intinya, Xenify menawarkan yang terbaik dari kedua dunia: pengalaman swap y
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 | 
 
 <br>
 
@@ -492,7 +491,6 @@ Berikut ini adalah uraian ringkas tentang rantai penerapan kami untuk vXEN:
 | 7   | 567   | mbXEN            | Moonbeam              |
 | 8   | 667   | fmXEN            | Fantom                |
 | 9   | 680   | okXEN            | OKT (OKX)             |
-| 10  | 3334  | coXEN            | EVMOS                 |
 
 <br>
 
@@ -538,7 +536,6 @@ Berikut ini adalah uraian ringkas tentang rantai penyebaran dan pengidentifikasi
 | 7   | mbXEN            | wmbXEN                      | Moonbeam              |
 | 8   | fmXEN            | wfmXEN                      | Fantom                |
 | 9   | okXEN            | wokXEN                      | OKT (OKX)             |
-| 10  | coXEN            | wcoXEN                      | EVMOS                 |
 
 <br>
 
@@ -550,7 +547,7 @@ Berikut ini adalah uraian ringkas tentang rantai penyebaran dan pengidentifikasi
 
 Memperkenalkan YSL - token hiper-deflasi yang memadukan kelangkaan yang dapat diukur dengan utilitas dunia nyata melalui lelang pembakaran harian Xenify. Daripada hanya mengandalkan aktivitas pasar untuk pengurangan pasokan seperti model tradisional, YSL mengintegrasikan mekanisme unik - lelang pembakaran Xenify. Dengan masing-masingnya batch dibakar, sebagian dari YSL dihapus secara permanen dari peredaran, yang secara inheren mengurangi total pasokan dan berpotensi meningkatkan nilai. Lebih penting lagi, YSL telah dirancang untuk kepercayaan dan menampilkan kontrak yang tidak dapat diubah dan tidak dapat ditingkatkan yang dirancang untuk transparansi penuh tanpa potensi perubahan yang tidak terduga .
 
-Sebelum dimulainya Xenify, ada protokol terpisah yang dikenal sebagai YSL.IO, yang dikembangkan di Rantai BNB dan menampilkan serangkaian token. Setiap token memainkan peran spesifik dalam ekosistem yang dibuat untuk mengoptimalkan imbalan yang diperoleh dari rehypothecation LP yang menghasilkan hasil. dari AMM seperti ApeSwap (sekarang <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) dan PancakeSwap. Sebagai mitra resmi ApeSwap, YSL.IO bergabung dengan program BUIDL mereka dan berhasil lulus mengikuti proposal tata kelola on-chain oleh ApeSwap. Protokol ini mengalami pengembangan yang cermat, dengan setiap iterasi diaudit oleh para pemimpin industri seperti CertiK dan PeckShield. Karena pergeseran pasar, keputusan komunitas diambil setelah proposal tata kelola on-chain untuk dikonsolidasikan token ekosistem YSL.IO menjadi token tunggal dengan kapitalisasi tetap yang tidak dapat diubah. Langkah strategis ini menyelaraskan YSL dengan prinsip pertama yang dikodifikasikan ke dalam pengembangan Xenify, sekaligus memastikan utilitas melalui Xenify Burn Auctions. Token YSL baru hanya akan dirilis di Arbitrum, BNB Chain, dan Polygon - dan Anda dapat menemukan cuplikan untuk airdrop tersebut tersedia <a href="https://bit.ly/YSLAirdrop2023" target="_blank">di sini</a>. Penerima airdrop yang memenuhi syarat harus mengklaim bagian mereka dari ~145,459 pasokan maksimal YSL dari masing-masing airdrop dalam waktu 90 hari setelah penerapannya.
+Sebelum dimulainya Xenify, ada protokol terpisah yang dikenal sebagai YSL.IO, yang dikembangkan di Rantai BNB dan menampilkan serangkaian token. Setiap token memainkan peran spesifik dalam ekosistem yang dibuat untuk mengoptimalkan imbalan yang diperoleh dari rehypothecation LP yang menghasilkan hasil. dari AMM seperti ApeSwap (sekarang <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) dan PancakeSwap. Sebagai mitra resmi ApeSwap, YSL.IO bergabung dengan program BUIDL mereka dan berhasil lulus mengikuti proposal tata kelola on-chain oleh ApeSwap. Protokol ini mengalami pengembangan yang cermat, dengan setiap iterasi diaudit oleh para pemimpin industri seperti CertiK dan PeckShield. Karena pergeseran pasar, keputusan komunitas diambil menyusul proposal tata kelola on-chain untuk mengkonsolidasikan token ekosistem YSL.IO menjadi token tunggal dengan batas tetap yang tidak dapat diubah. Langkah strategis ini menyelaraskan YSL dengan prinsip-prinsip pertama yang dikodifikasikan ke dalam pengembangan Xenify, sekaligus memastikan utilitas melalui Lelang Pembakaran. Token YSL baru akan dirilis di Arbitrum, dan BNB Chain, dengan penerima airdrop yang memenuhi syarat harus mengklaim bagian mereka dari masing-masing token dalam waktu 90 hari setelah penerapannya.
 
 Singkatnya, tokennomics deflasi YSL yang unik menggabungkan kelangkaan dan utilitas, memberikan pemegang token dinamis yang menampilkan pertumbuhan nilai berbasis penggunaan yang terkodifikasi.Berikut rincian rantai penerapan, pengidentifikasi YSL unik mereka, dan jumlahnya YSL diperlukan per batch:
 
@@ -560,7 +557,6 @@ Singkatnya, tokennomics deflasi YSL yang unik menggabungkan kelangkaan dan utili
 |:----|:-------------------|:----------------------|:------------------------|:------------------|
 | 1   | YSL                | Arbitrum              | 0.01                    | ~145,459 YSL      |
 | 2   | bYSL               | BNB Chain             | 1.00                    | ~145,459 bYSL     |
-| 3   | mYSL               | Polygon               | 1.00                    | ~145,459 mYSL     |
 
 <br>
 
@@ -768,13 +764,13 @@ Dalam lanskap DeFi yang terus berkembang, menjembatani kesenjangan antara rantai
 
 - Rantai BNB diatur untuk penerapan setelah Arbitrum.
 
-### 3️⃣ Poligon (mXNF)
+### 3️⃣ Polygon (mXNF)
 
-- Polygon diatur untuk penerapan mengikuti Rantai BNB.
+- Polygon akan ditentukan setelah penerapan BNB Chain.
 
 ### 4️⃣ Ethereum (eXNF)
 
-- Ethereum diatur untuk penerapan mengikuti Polygon.
+- Ethereum akan ditentukan setelah penerapan Polygon.
 
 ### 5️⃣ Basis (cbXNF)
 
@@ -929,7 +925,7 @@ Protokol Xenify memungkinkan pengguna untuk membakar token vXEN atau YSL untuk m
 
 Formula biaya pembakaran dirancang untuk mempertimbangkan berbagai faktor, termasuk waktu pembakaran selama siklus, jumlah batch yang dibakar, dan nilai yang terkait. Bagian terbaiknya? Semakin banyak batch yang dibakar pengguna, semakin besar diskon yang akan mereka nikmati, dengan potensi penghematan hingga 75% untuk 10.000 batch selama satu jam pertama setiap siklus. Ini menciptakan insentif yang menarik bagi pengguna untuk terlibat dalam operasi pembakaran yang lebih besar di awal siklus.
 
-Sekarang, Anda mungkin bertanya-tanya, apa sebenarnya batch itu? Batch mewakili sejumlah token, baik vXEN atau YSL, yang diperlukan untuk berpartisipasi dalam proses pembakaran. Secara khusus, satu batch vXEN setara dengan 10,000,000 vXEN, sedangkan satu batch kumpulan YSL setara dengan 0.01 YSL di Arbitrum, 1.00 bYSL di BNB Chain, dan 1.00 mYSL di Polygon.
+Sekarang Anda mungkin bertanya-tanya, apa sebenarnya batch itu? Batch mewakili sejumlah token, baik vXEN atau YSL, yang diperlukan untuk berpartisipasi dalam proses pembakaran. Secara khusus, satu batch vXEN setara dengan 10,000,000 vXEN, sedangkan satu batch YSL setara dengan 0.01 YSL di Arbitrum, dan 1.00 bYSL di BNB Chain.
 
 Dengan menerapkan faktor ini ke dalam rumus pembakaran, kami memastikan bahwa pengguna menerima diskon secara proporsional dengan volume batch yang mereka bakar. Nilai per batch untuk sebuah chain ditetapkan ketika Xenify digunakan, dan akan secara dinamis berdasarkan harga token asli chain saat ini dengan menggunakan rumus di bawah ini:
 
@@ -1800,7 +1796,6 @@ Selamat datang di Glosarium Xenify, sumber daya utama Anda untuk memahami istila
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
- - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
