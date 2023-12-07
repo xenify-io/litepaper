@@ -202,7 +202,7 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 
 <br>
 
-- vXEN 使来自 XEN 生态系统内不同 EVM 链的参与者能够参与每日销毁拍卖。 vXEN 是通过燃烧 XEN 生态系统中 10 个受支持链中任何一个的 XEN 原生代币而生成的。每当持有者从这些链之一刻录本机 XEN 时，交易就会记录在刻录记录中。以下是支持的 EVM 链的详细列表，每个链都有其对应的标识符和单个 vXEN 的比率：
+- vXEN 使來自 XEN 生態系統內不同 EVM 鏈的參與者能夠參與每日銷毀拍賣。 vXEN 是透過燃燒 XEN 生態系統中九個受支撐鏈中任何一個的 XEN 原生代幣而產生的。每當持有者從這些鏈之一刻錄本機 XEN 時，交易就會記錄在刻錄記錄中。以下是支援的 EVM 鏈的詳細列表，每個鏈都有其對應的識別碼和單個 vXEN 的比率：
 
 <br>
 
@@ -217,7 +217,6 @@ Dayana Plaz - 联合创始人 - <a href="mailto:dayana@xenify.io">dayana@xenify.
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 | 
 
 <br>
 
@@ -492,7 +491,6 @@ XEN 是一个基于自我保管、无信任共识和去中心化原则发起的�
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 |
 
 <br>
 
@@ -538,7 +536,6 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 | 7   | mbXEN       | wmbXEN                 | Moonbeam              |
 | 8   | fmXEN       | wfmXEN                 | Fantom                |
 | 9   | okXEN       | wokXEN                 | OKT (OKX)             |
-| 10  | coXEN       | wcoXEN                 | EVMOS                 |
 
 <br>
 
@@ -550,7 +547,7 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 
 隆重推出 YSL - 一种超级通货紧缩代币，通过 Xenify 的每日销毁拍卖将可量化的稀缺性与现实世界的实用性融为一体。 YSL 不像传统模式那样仅仅依靠市场活动来减少供应，而是集成了一种独特的机制 - Xenify 销毁拍卖。每一批燃烧后，一部分 YSL 就会永久退出流通，从根本上减少总供应量，并可能放大价值。更重要的是，YSL 专为信任而设计，具有不可变、不可升级的合约，旨在完全透明，不会出现不可预测的变化。
 
-在 Xenify 成立之前，存在一个名为 YSL.IO 的独立协议，该协议在 BNB 链上开发并具有一系列代币。 每个代币在生态系统中都发挥着特定的作用，该生态系统旨在优化来自 ApeSwap 等 AMM 的收益 LP 的再抵押所获得的奖励 (现在 <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) 和 PancakeSwap。 作为 ApeSwap 的官方合作伙伴，YSL.IO 加入了他们的 BUIDL 计划，并根据 ApeSwap 的链上治理提案成功毕业。 该协议经过精心开发，每次迭代都经过 CertiK 和 PeckShield 等行业领导者的审核。 由于市场变化，根据链上治理提案，社区做出了一项决定，将 YSL.IO 生态系统的代币整合为单一固定上限、不可变的代币。 这一战略举措使 YSL 与 Xenify 开发中的首要原则保持一致，同时确保通过 Xenify Burn 拍卖的实用性。 新的 YSL 代币将仅在 Arbitrum、BNB Chain 和 Polygon 上发布 - 您可以找到可用空投的快照 <a href="https://bit.ly/YSLAirdrop2023" target="_blank">这里</a> . 符合条件的空投接收者需要在部署后 90 天内领取约 ~145,459 YSL 最大供应量中的份额。
+在 Xenify 成立之前，存在一个名为 YSL.IO 的独立协议，该协议在 BNB 链上开发并具有一系列代币。 每个代币在生态系统中都发挥着特定的作用，该生态系统旨在优化来自 ApeSwap 等 AMM 的收益 LP 的再抵押所获得的奖励 (现在 <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) 和 PancakeSwap。 作為 ApeSwap 的官方合作夥伴，YSL.IO 加入了他們的 BUIDL 計劃，並根據 ApeSwap 的鏈上治理提案成功畢業。該協議經過精心開發，每次迭代都經過 CertiK 和 PeckShield 等行業領導者的審查。由於市場變化，根據鏈上治理提案，社區做出了一項決定，將 YSL.IO 生態系統的代幣整合為單一固定上限、不可變的代幣。這項策略性舉措使 YSL 與 Xenify 開發中的首要原則保持一致，同時確保 Burn 拍賣的實用性。新的 YSL 代幣將在 Arbitrum 和 BNB Chain 上發布，符合條件的空投接收者需要在部署後 90 天內領取各自的份額。
 
 简而言之，YSL 独一无二的通货紧缩代币经济学融合了稀缺性和实用性，为持有者提供了一种动态代币，其特点是基于使用的价值增长。以下是部署链、其独特的 YSL 标识符以及每批次所需的 YSL 数量的详细信息：
 
@@ -560,7 +557,6 @@ Xenify 凭借其改变游戏规则的封装 XEN 合约，为 XEN 生态系统提
 |:----|:------------------|:----------------------|:------------------------|:------------------------|
 | 1   | YSL               | Arbitrum              | 0.01                    | ~145,459 YSL            |
 | 2   | bYSL              | BNB Chain             | 1.00                    | ~145,459 bYSL           |
-| 3   | mYSL              | Polygon               | 1.00                    | ~145,459 mYSL           |
 
 <br>
 
@@ -770,11 +766,11 @@ Xenify 的总供应量上限为 2260 万 XNF 代币，战略性地分为三个�
 
 ### 3️⃣ Polygon (mXNF)
 
-- Polygon 设置为跟随 BNB Chain进行部署。
+- Polygon 將在 BNB Chain 部署後確定。
 
 ### 4️⃣ Ethereum (eXNF)
 
-- Ethereum将按照 Polygon 进行部署。
+- Ethereum 將在 Polygon 部署後確定。
 
 ### 5️⃣ Base (cbXNF)
 
@@ -929,7 +925,7 @@ Xenify 提供了一个开创性的代币交换解决方案，不仅简化了跨�
 
 焚烧费用公式的设计考虑了各种因素，包括周期内的焚烧时间、焚烧批次数量及其相关价值。最棒的是什么？用户焚烧的批次越多，享受的折扣就越大，在每个周期的第一个小时内，焚烧 10,000 个批次可节省高达 75% 的费用。这为用户在周期初期进行更大规模的刻录操作提供了强有力的激励。
 
-现在，您可能想知道，批次到底是什么？一批代表参与刻录过程所需的固定数量的代币（vXEN 或 YSL）。具体来说，单批 vXEN 相当于 10,000,000 个 vXEN，单批 YSL 相当于 Arbitrum 上的 0.01 YSL、BNB Chain 上的 1.00 bYSL、Polygon 上的 1.00 mYSL。
+現在，您可能想知道，批次到底是什麼？一批代表參與刻錄過程所需的固定數量的代幣（vXEN 或 YSL）。具體來說，單批vXEN相當於10,000,000個vXEN，單批YSL在Arbitrum上相當於0.01個YSL，在BNB Chain上相當於1.00個bYSL。
 
 通过将这一因素纳入烧钱公式，我们确保用户获得的折扣与他们烧钱的批量成正比。链的每批价值在部署 Xenify 时确定，并将根据链的原生代币的当前价格使用下面的公式动态确定：
 
@@ -1800,7 +1796,6 @@ Xenify 的与众不同之处在于它与 60 个不同聚合商的无缝连接，
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
- - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
