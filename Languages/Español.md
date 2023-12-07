@@ -202,7 +202,7 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 
 <br>
 
-- vXEN permite a los participantes de diferentes cadenas EVM dentro del ecosistema XEN participar en subastas diarias. vXEN se genera quemando tokens nativos XEN de cualquiera de las diez cadenas admitidas en el ecosistema XEN. Siempre que un titular graba XEN nativo de una de estas cadenas, la transacción se registra en el registro de grabación. La siguiente es una lista detallada de las cadenas EVM admitidas, cada una con su correspondiente identificador y proporción para un único vXEN:
+- vXEN permite a los participantes de diferentes cadenas EVM dentro del ecosistema XEN participar en subastas diarias. vXEN se genera quemando tokens nativos XEN de cualquiera de las nueve cadenas admitidas en el ecosistema XEN. Siempre que un titular graba XEN nativo de una de estas cadenas, la transacción se registra en el registro de grabación. La siguiente es una lista detallada de las cadenas EVM admitidas, cada una con su correspondiente identificador y proporción para un único vXEN:
 
 <br>
 
@@ -217,7 +217,6 @@ En esencia, Xenify ofrece lo mejor de ambos mundos: una experiencia de intercamb
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 |
 
 <br>
 
@@ -492,7 +491,6 @@ He aquí un desglose conciso de nuestras cadenas de despliegue para vXEN:
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 |
 
 <br>
 
@@ -538,7 +536,6 @@ He aquí un desglose conciso de nuestras cadenas de despliegue e identificadores
 | 7   | mbXEN       | wmbXEN                 | Moonbeam              |
 | 8   | fmXEN       | wfmXEN                 | Fantom                |
 | 9   | okXEN       | wokXEN                 | OKT (OKX)             |
-| 10  | coXEN       | wcoXEN                 | EVMOS                 |
 
 <br>
 
@@ -550,7 +547,7 @@ He aquí un desglose conciso de nuestras cadenas de despliegue e identificadores
 
 Presentamos YSL, un token hiperdeflacionario que combina escasez cuantificable con utilidad en el mundo real a través de las subastas diarias de Xenify. En lugar de depender únicamente de la actividad del mercado para reducir la oferta como los modelos tradicionales, YSL integra un mecanismo único: las subastas de quema de Xenify. Con cada lote quemado, una porción de YSL se retira permanentemente de la circulación, lo que esencialmente reduce el suministro total y potencialmente amplifica el valor. Más importante aún, YSL ha sido diseñado para brindar confianza y presenta un contrato inmutable y no actualizable diseñado para brindar total transparencia sin la posibilidad de cambios impredecibles.
 
-Antes de la creación de Xenify, existía un protocolo separado conocido como YSL.IO, desarrollado en la BNB Chain y que presentaba una serie de tokens. Cada token desempeñó un papel específico dentro de un ecosistema diseñado para recompensas optimistas derivadas de la rehipotecación de LP con rendimiento de AMM como ApeSwap (ahora <a href="https://ape.bond/bonds" target="_blank">ApeBond </a>) y PancakeSwap. Como socio oficial de ApeSwap, YSL.IO se unió a su programa BUIDL y se graduó con éxito tras una propuesta de gobernanza en cadena de ApeSwap. El protocolo se desarrolló meticulosamente y cada iteración fue auditada por líderes de la industria como CertiK y PeckShield. Debido a los cambios del mercado, se llegó a una decisión comunitaria luego de una propuesta de gobernanza en cadena para consolidar los tokens del ecosistema YSL.IO en un token singular e inmutable de capital fijo. Este movimiento estratégico alineó a YSL con los primeros principios codificados en el desarrollo de Xenify, al tiempo que garantiza la utilidad a través de Xenify Burn Auctions. El nuevo token YSL solo se lanzará en Arbitrum, BNB Chain y Polygon, y puedes encontrar la instantánea del lanzamiento aéreo disponible <a href="https://bit.ly/YSLAirdrop2023" target="_blank">aquí < /a>. Los destinatarios elegibles del lanzamiento aéreo deberán reclamar su parte del suministro máximo de ~145,459 YSL de cada uno dentro de los 90 días posteriores a su implementación.
+Antes de la creación de Xenify, existía un protocolo separado conocido como YSL.IO, desarrollado en la BNB Chain y que presentaba una serie de tokens. Cada token desempeñó un papel específico dentro de un ecosistema diseñado para recompensas optimistas derivadas de la rehipotecación de LP con rendimiento de AMM como ApeSwap (ahora <a href="https://ape.bond/bonds" target="_blank">ApeBond </a>) y PancakeSwap. Como socio oficial de ApeSwap, YSL.IO se unió a su programa BUIDL y se graduó con éxito tras una propuesta de gobernanza en cadena de ApeSwap. El protocolo se desarrolló meticulosamente y cada iteración fue auditada por líderes de la industria como CertiK y PeckShield. Debido a los cambios del mercado, se llegó a una decisión comunitaria luego de una propuesta de gobernanza en cadena para consolidar los tokens del ecosistema YSL.IO en un token singular e inmutable de capital fijo. Este movimiento estratégico alineó a YSL con los primeros principios codificados en el desarrollo de Xenify, al tiempo que garantiza la utilidad a través de Burn Auctions. El nuevo token YSL se lanzará en Arbitrum y BNB Chain, y los destinatarios elegibles del lanzamiento aéreo deberán reclamar su parte de cada uno dentro de los 90 días posteriores a su implementación.
 
 En resumen, la tokenómica deflacionaria única en su tipo de YSL fusiona escasez y utilidad, proporcionando a los titulares un token dinámico que presenta un crecimiento de valor codificado y basado en el uso. A continuación se muestra un desglose de las cadenas de implementación, sus identificadores YSL únicos y la cantidad de YSL requerida por lote:
 
@@ -560,7 +557,6 @@ En resumen, la tokenómica deflacionaria única en su tipo de YSL fusiona escase
 |:----|:------------------|:----------------------|:------------------------|------------------------|
 | 1   | YSL               | Arbitrum              | 0.01                    | ~145,459 YSL           |
 | 2   | bYSL              | BNB Chain             | 1.00                    | ~145,459 bYSL          |
-| 3   | mYSL              | Polygon               | 1.00                    | ~145,459 mYSL          |
 
 <br>
 
@@ -770,11 +766,11 @@ En el panorama DeFi, en constante evolución, tender puentes entre las diferente
 
 ### 3️⃣ Polygon (mXNF)
 
-- Polygon está configurado para implementarse siguiendo la BNB Chain.
+- Polygon se determinará después del despliegue de la BNB Chain.
 
-### 4️⃣ Etereum (eXNF)
+### 4️⃣ Ethereum (eXNF)
 
-- Ethereum está listo para implementarse después de Polygon.
+- Ethereum se determinará después del despliegue de Polygon.
 
 ### 5️⃣ Base (cbXNF)
 
@@ -929,7 +925,7 @@ El protocolo Xenify permite a los usuarios quemar vXEN o tokens YSL para asegura
 
 La fórmula de la tasa de quema está diseñada para tener en cuenta varios factores, como el momento de la quema durante un ciclo, el número de lotes que se queman y su valor asociado. ¿Y lo mejor? Cuantos más lotes queme un usuario, mayor será el descuento del que disfrutará, con un descuento potencial de hasta el 75% para 10.000 lotes durante la primera hora de cada ciclo. Esto crea un incentivo convincente para que los usuarios realicen operaciones de quema más grandes al principio del ciclo.
 
-Ahora bien, quizás te preguntes, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o YSL, necesarios para participar en el proceso de grabación. Específicamente, un solo lote de vXEN equivale a 10,000,000 vXEN, mientras que un solo lote de YSL equivale a 0.01 YSL en Arbitrum, 1.00 bYSL en BNB Chain y 1.00 mYSL en Polygon.
+Ahora bien, quizás te preguntes, ¿qué es exactamente un lote? Un lote representa una cantidad fija de tokens, ya sea vXEN o YSL, necesarios para participar en el proceso de grabación. Específicamente, un solo lote de vXEN equivale a 10,000,000 vXEN, mientras que un solo lote de YSL equivale a 0.01 YSL en Arbitrum y 1.00 bYSL en BNB Chain.
 
 Al implementar este factor en la fórmula de quema, nos aseguramos de que los usuarios reciban descuentos proporcionales al volumen de lotes que queman. El valor por lote para una cadena se establece cuando se despliega Xenify, y se basará dinámicamente en el precio actual del token nativo de la cadena utilizando la fórmula siguiente:
 
@@ -1800,7 +1796,6 @@ Bienvenido al Glosario de Xenify, tu recurso para entender términos y conceptos
   
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
- - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
