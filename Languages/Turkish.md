@@ -202,7 +202,7 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 
 <br>
 
-- vXEN, XEN ekosistemindeki farklı EVM zincirlerinden katılımcıların günlük yakma açık artırmalarına katılmasına olanak tanır. vXEN, XEN ekosistemindeki desteklenen on zincirden herhangi birindeki XEN yerel belirteçlerinin yakılmasıyla oluşturulur. Bir sahibi bu zincirlerden birinden yerel XEN yaktığında, işlem yakma kaydına kaydedilir. Aşağıda, her biri tek bir vXEN için karşılık gelen tanımlayıcı ve orana sahip, desteklenen EVM zincirlerinin ayrıntılı bir listesi bulunmaktadır:
+- vXEN, XEN ekosistemindeki farklı EVM zincirlerinden katılımcıların günlük yakma açık artırmalarına katılmasına olanak tanır. vXEN, XEN ekosistemindeki desteklenen dokuz zincirden herhangi birindeki XEN yerel belirteçlerinin yakılmasıyla oluşturulur. Bir sahibi bu zincirlerden birinden yerel XEN yaktığında, işlem yakma kaydına kaydedilir. Aşağıda, her biri tek bir vXEN için karşılık gelen tanımlayıcı ve orana sahip, desteklenen EVM zincirlerinin ayrıntılı bir listesi bulunmaktadır:
 
 <br>
 
@@ -217,7 +217,6 @@ Xenify özünde her iki dünyanın da en iyisini sunuyor: önemli kazanç potans
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 | 
 
 <br>
 
@@ -492,7 +491,6 @@ vXEN'in optimum çapraz zincir köprülemesi için Xenify, birincil köprüleme 
 | 7   | 567   | mbXEN       | Moonbeam              |
 | 8   | 667   | fmXEN       | Fantom                |
 | 9   | 680   | okXEN       | OKT (OKX)             |
-| 10  | 3334  | coXEN       | EVMOS                 |
 
 <br>
 
@@ -538,7 +536,6 @@ Sarılı XEN yeni zincirlerde kullanılmaya başlandığında, XEN'in kaynakland
 | 7   | mbXEN       | wmbXEN                 | Moonbeam              |
 | 8   | fmXEN       | wfmXEN                 | Fantom                |
 | 9   | okXEN       | wokXEN                 | OKT (OKX)             |
-| 10  | coXEN       | wcoXEN                 | EVMOS                 |
 
 <br>
 
@@ -550,7 +547,7 @@ Sarılı XEN yeni zincirlerde kullanılmaya başlandığında, XEN'in kaynakland
 
 Xenify'ın günlük yakma açık artırmaları aracılığıyla ölçülebilir kıtlığı gerçek dünyadaki faydayla harmanlayan hiper-deflasyonist bir token olan YSL ile tanışın. YSL, geleneksel modeller gibi arzın azaltılması için yalnızca piyasa faaliyetlerine güvenmek yerine benzersiz bir mekanizmayı entegre ediyor: Xenify yakma açık artırmaları. Her parti yakıldığında, YSL'nin bir kısmı kalıcı olarak dolaşımdan çıkarılır, bu da esasen toplam arzı azaltır ve potansiyel olarak değeri artırır. Daha da önemlisi, YSL güven için tasarlanmıştır ve öngörülemeyen değişiklik potansiyeli olmadan tam şeffaflık için tasarlanmış, değişmez, yükseltilemeyen bir sözleşmeye sahiptir.
 
-Xenify'ın başlangıcından önce, BNB Zinciri üzerinde geliştirilen ve bir dizi token içeren, YSL.IO olarak bilinen ayrı bir protokol vardı. Her token, ApeSwap gibi AMM'lerden getiri sağlayan LP'lerin yeniden hipotezleştirilmesinden elde edilen ödülleri optimize etmek için hazırlanmış bir ekosistem içinde belirli bir rol oynadı (şimdi <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) ve PancakeSwap. ApeSwap'in resmi ortağı olarak YSL.IO, BUIDL programına katıldı ve ApeSwap'in zincir üstü yönetim teklifinin ardından başarıyla mezun oldu. Protokol, her yinelemenin CertiK ve PeckShield gibi endüstri liderleri tarafından denetlenmesiyle titizlikle geliştirildi. Piyasa değişimleri nedeniyle, YSL.IO ekosisteminin tokenlerini tek bir sabit kapaklı, değişmez tokende birleştirmek için zincir üstü yönetim önerisinin ardından bir topluluk kararına varıldı. Bu stratejik hamle, YSL'yi Xenify geliştirmesinde kodlanan ilk ilkelerle uyumlu hale getirirken Xenify Burn Açık Artırmaları aracılığıyla fayda sağladı. Yeni YSL tokeni yalnızca Arbitrum, BNB Chain ve Polygon'da piyasaya sürülecek ve airdropun anlık görüntüsünü mevcut <a href="https://bit.ly/YSLAirdrop2023" target="_blank">burada</a>. Uygun airdrop alıcılarının, dağıtımdan sonraki 90 gün içinde her birinden ~145,459 YSL maksimum arzından paylarını talep etmeleri gerekecek.
+Xenify'ın başlangıcından önce, BNB Zinciri üzerinde geliştirilen ve bir dizi token içeren, YSL.IO olarak bilinen ayrı bir protokol vardı. Her token, ApeSwap gibi AMM'lerden getiri sağlayan LP'lerin yeniden hipotezleştirilmesinden elde edilen ödülleri optimize etmek için hazırlanmış bir ekosistem içinde belirli bir rol oynadı (şimdi <a href="https://ape.bond/bonds" target="_blank">ApeBond</a>) ve PancakeSwap. ApeSwap'in resmi ortağı olarak YSL.IO, BUIDL programına katıldı ve ApeSwap'in zincir üstü yönetim teklifinin ardından başarıyla mezun oldu. Protokol, her yinelemenin CertiK ve PeckShield gibi sektör liderleri tarafından denetlenmesiyle titizlikle geliştirildi. Piyasa değişimleri nedeniyle, YSL.IO ekosisteminin tokenlerini tek bir sabit kapaklı, değişmez tokende birleştirmek için zincir üstü yönetim önerisinin ardından bir topluluk kararına varıldı. Bu stratejik hamle, YSL'yi Xenify'ın geliştirilmesinde kodlanan ilk ilkelerle uyumlu hale getirirken Burn Auctions aracılığıyla fayda sağladı. Yeni YSL tokeni Arbitrum ve BNB Chain'de piyasaya sürülecek ve uygun airdrop alıcılarının, dağıtımından sonraki 90 gün içinde her birinden paylarını talep etmesi gerekecek.
 
 Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomik, kıtlığı ve faydayı birleştirerek sahiplerine kodlanmış, kullanıma dayalı değer artışı sağlayan dinamik bir token sağlıyor. Dağıtım zincirlerinin, benzersiz YSL tanımlayıcılarının ve parti başına gereken YSL miktarının dökümünü burada bulabilirsiniz:
 
@@ -560,7 +557,6 @@ Kısacası, YSL'nin türünün tek örneği olan deflasyonist tokenomik, kıtlı
 |:----|:------------------|:----------------------|:------------------------|:------------------------|
 | 1   | YSL               | Arbitrum              | 0.01                    | ~145,459 YSL            |
 | 2   | bYSL              | BNB Chain             | 1.00                    | ~145,459 bYSL           |
-| 3   | mYSL              | Polygon               | 1.00                    | ~145,459 mYSL           |
 
 <br>
 
@@ -770,11 +766,11 @@ Sürekli gelişen DeFi ortamında, farklı zincirler arasındaki boşluğu doldu
 
 ### 3️⃣ Polygon (mXNF)
 
-- Polygon, BNB Chain'nin ardından dağıtıma ayarlandı.
+- Polygon, BNB Chain dağıtımının ardından belirlenecektir.
 
 ### 4️⃣ Ethereum (eXNF)
 
-- Ethereum, Polygon'un ardından dağıtıma ayarlandı.
+- Ethereum, Polygon dağıtımının ardından belirlenecektir.
 
 ### 5️⃣ Base (cbXNF)
 
@@ -929,7 +925,7 @@ Xenify protokolü, kullanıcıların günlük XNF ödül döngüsünden XNF elde
 
 Yakma ücreti formülü, bir döngü sırasında yakmanın zamanlaması, yakılan parti sayısı ve bunların ilgili değeri dahil olmak üzere çeşitli faktörleri dikkate alacak şekilde tasarlanmıştır. En iyi kısmı mı? Bir kullanıcı ne kadar çok parti yakarsa, her döngünün ilk saatinde 10.000 parti için %75'e varan potansiyel tasarrufla o kadar büyük indirimden yararlanacaktır. Bu, kullanıcıların döngünün başlarında daha büyük yakma işlemlerine katılmaları için zorlayıcı bir teşvik oluşturur.
 
-Şimdi, toplu iş tam olarak nedir diye merak edebilirsiniz. Bir grup, yazma işlemine katılmak için gereken vXEN veya YSL gibi sabit sayıda tokenı temsil eder. Spesifik olarak, tek bir vXEN grubu 10.000.000 vXEN'e eşdeğerken, tek bir YSL grubu Arbitrum'da 0,01 YSL'ye, BNB Chain'de 1,00 bYSL'ye ve Polygon'da 1,00 mYSL'ye eşdeğerdir.
+Şimdi, toplu iş tam olarak nedir diye merak edebilirsiniz. Bir grup, yazma işlemine katılmak için gereken vXEN veya YSL gibi sabit sayıda tokenı temsil eder. Spesifik olarak, tek bir vXEN grubu 10,000,000 vXEN'e eşdeğerken, tek bir YSL grubu Arbitrum'da 0.01 YSL'ye ve BNB Chain'de 1.00 bYSL'ye eşdeğerdir.
 
 Bu faktörü yakma formülüne uygulayarak, kullanıcıların yaktıkları partilerin hacmiyle orantılı olarak indirim almalarını sağlıyoruz. Bir zincir için parti başına değer, Xenify konuşlandırıldığında belirlenir ve aşağıdaki formül kullanılarak dinamik olarak zincirin yerel tokenının mevcut fiyatına dayanır:
 
@@ -1800,7 +1796,6 @@ Xenify ekosistemi ve daha geniş merkezi olmayan finans (DeFi) dünyası için g
 
 ## ♦️ XEN
  - [Base](https://basescan.org/address/0xffcbF84650cE02DaFE96926B37a0ac5E34932fa5)
- - [Evmos](https://escan.live/token/0x2AB0e09e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Fantom](https://ftmscan.com/token/0xeF4B763385838FfFc708000f884026B8c0434275)
  - [Polygon](https://polygonscan.com/token/0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e)
  - [Ethereum](https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8)
