@@ -141,16 +141,16 @@ At its core, Xenify offers the best of both worlds: an ultra-efficient swap expe
 <br>
 
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
-# 💸 XNF Genesis Airdrops
+# 💸 XNF Airdrops
 ![Line Divider - Filled](https://user-images.githubusercontent.com/60996729/233879462-b465c484-4c2f-4cd2-a126-19529e333d64.png)
 
 <br>
 
-- Xenify is initiating a 60-day Genesis airdrop across each chain it operates on. Throughout this phase, 1,500,000 XNF will be distributed to participants. Daily, 25,000 XNF tokens are apportioned based on each participant's contribution through swap fees.
+- Xenify will initiate an airdrop event across each chain it operates on. Throughout this phase, 1,500,000 XNF will be distributed to participants. 
 
-- The airdrop extends to all EVM-compatible chains, ensuring broad inclusivity. Transactions eligible for the airdrop include those originating from or completed on an EVM chain, provided they carry a swap fee.
+- For both the BNB Chain and Arbitrum, our 60-day airdrop events will feature the allocation of 25,000 XNF tokens based on each participant's contribution through swap fees. This extends to swaps conducted across all supported EVM-compatible chains, ensuring widespread inclusivity. To be eligible for the airdrop, transactions must originate from or be completed on an EVM chain, provided participants have opted to pay the 0.5% swap fee.
 
-- After the airdrop ends, recipients will not have immediate access to the XNF tokens, which will be initially locked. These tokens will unlock gradually over 730 days. For example, if you receive 7,300 locked XNF tokens from the airdrop, you can anticipate an unlocking of approximately 10 XNF tokens daily into your wallet.
+- Once an airdrop event concludes, recipients will gain the ability to claim their XNF tokens upon its deployment. These airdropped tokens will unlock gradually over 730 days. For example, if you claim 7,300 locked XNF tokens from the airdrop, you can anticipate an unlocking of approximately 10 XNF tokens daily into your wallet.
 
 <br>
 
@@ -730,7 +730,7 @@ With a total supply capped at 22.6 million XNF tokens, strategically divided int
 
 - **100,000 XNF assigned to establish Uniswap V3 liquidity pool:** To empower a robust ecosystem, 100,000 XNF will be set aside to bootstrap protocol-owned liquidity at launch. This initiative will allow our community to seamlessly trade XNF right from the start. To facilitate this, a majority of the fees generated from day-one participation (including swap fees, native fees, and burn fees) will be utilised to establish an Uniswap V3 liquidity pool at the end of the cycle.
 
-- **1,500,000 XNF assigned as an exclusive airdrop for swap participants:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF for users that perform swaps before the deployment of XNF. The airdrop will take place on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
+- **1,500,000 XNF assigned as an exclusive airdrop:** To encourage engagement, each chain will have an exclusive airdrop of 1,500,000 XNF before deployment. Participants will be able to claim their airdrop on the first day of launch, and will be distributed as locked tokens, gradually unlocking over 730 days.
 
 Drawing inspiration from Bitcoin, Xenify's distribution model adopts the halving principle. As illustrated in the accompanying graph below, following the 7th halving, the rate of Xenify's daily mint allocation stabilises, ensuring a consistent output of 156.25 XNF tokens per day until the maximum supply is reached in month 2461. This innovative strategy has been thoughtfully engineered to ensure an equitable supply distribution centred around long-term user participation, highlighting Xenify's unwavering commitment to fostering a balanced ecosystem and an engaged community. 
 
@@ -884,10 +884,6 @@ For each batch burned, the tokens you provide (vXEN or YSL) are permanently remo
 Xenify is redefining the game with a groundbreaking platform that enables seamless single-click cross-chain transactions across 54 chains, while providing users the exciting opportunity to earn native chain tokens daily. Every time users pay the 0.5% swap fee on chains where XNF has been deployed, they are rewarded with veXNF through daily mint allocation. This unique advantage enables users to enjoy an effortless swapping experience while simultaneously accumulating XNF tokens.
 
 But, the rewards don't stop there. By holding veXNF, users have the opportunity to rake in native chain tokens like BNB, ETH, and MATIC on a daily basis. These native rewards stem from the protocol’s swap fees and burn fees.  As a result, users can not only enjoy the efficiency and competitive rates Xenify offers but also gain access to a dynamic and sustainable reward system that enhances their portfolio.
-
-By participating in token swaps with Xenify, users play a pivotal role in driving the platform's growth. The swap fees generated on chains where XNF has been deployed are distributed among the veXNF holders on that specific chain and utilised for Xenify’s Partner Fee Sharing Programme. For chains where XNF is yet to be deployed, the swap fees are utilised by the team to support promotional efforts and advance the development of Xenify and its affiliated tokens. This fosters greater awareness and wider adoption of the platform, benefiting the entire community.
-
-Moreover, by engaging in swaps on any of the 54 supported chains, users become eligible for an exclusive airdrop of 1,500,000 XNF. Each airdrop event takes place on a chain where XNF is scheduled to be deployed and lasts for 60 days before the launch. All swaps conducted during this period guarantee users a share of the upcoming XNF airdrop. In other words, even though you don’t benefit from a daily XNF allocation when you execute swaps on chains where XNF hasn’t been deployed, you still have the opportunity to be included in an exclusive XNF airdrop.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
@@ -1421,13 +1417,11 @@ On top of rewards generated from burn fees, swap fees and native fees, the proto
 
 <br>
 
-Introducing Xenify's exclusive XNF Airdrop, an initiative aimed at driving user engagement on the platform across multiple EVM chains. To build anticipation for an upcoming launch of XNF on a new chain, a 60-day airdrop event will precede its deployment. As platform users swap tokens, they will be rewarded with a generous allocation of 1,500,000 XNF tokens during this event, providing a fantastic opportunity to benefit from Xenify's growth.
+Introducing Xenify's exclusive XNF airdrop events, an initiative aimed at driving user engagement on the platform across multiple EVM chains. To build anticipation for an upcoming launch of XNF on a new chain, an airdrop event will precede its deployment. Participants will be rewarded with a generous allocation of 1,500,000 XNF tokens during each event, providing a fantastic opportunity to benefit from Xenify's growth.
 
-These 1,500,000 XNF tokens will be initially distributed as locked tokens on the launch day, gradually unlocking over a period of 730 days. For instance, if you receive 7300 locked XNF tokens from the airdrop, you can expect approximately 10 XNF tokens to be unlocked in your wallet each day. Since these tokens will be divided among swap participants based on their daily swap contributions leading up to the launch, the more you swap during the event, the greater your share of the XNF Airdrop will be! Now, we understand your eagerness to earn from those XNF tokens and witness your portfolio flourish. However, there's a small catch – Airdropped XNF tokens cannot be staked until they unlock in your wallet. So, if you're aiming to earn a share of the protocol's native rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native rewards from the initial distribution!
+These 1,500,000 XNF tokens will be initially distributed as locked tokens on the launch day, gradually unlocking over a period of 730 days. For instance, if you receive 7300 locked XNF tokens from the airdrop, you can expect approximately 10 XNF tokens to be unlocked in your wallet each day. Since these tokens will be divided among participants based on their daily contributions leading up to the launch, the more you participate during the event, the greater your share of the XNF Airdrop will be! Now, we understand your eagerness to earn from those XNF tokens and witness your portfolio flourish. However, there's a small catch – Airdropped XNF tokens cannot be staked until they unlock in your wallet. So, if you're aiming to earn a share of the protocol's native rewards, we highly recommend also taking part in the initial burn auction. It's your ticket to earning a portion of the native rewards from the initial distribution!
 
 To ensure fairness and discourage last-minute sniping, a consistent daily allocation of the airdrop will be implemented throughout the event. This guarantees that participants receive a share of the airdrop that reflects their level of engagement. For example, during the 60-day Genesis Airdrop on the BNB Chain, 25,000 XNF tokens will be allocated each day. Your share from the Genesis airdrop will be based on your daily contributions through the swap fee. Imagine being the sole user who swaps on a particular day during the 60-day event – you'll claim an impressive 25,000 XNF from the airdrop! Furthermore, to maintain engagement, contributions made during an event will not carry over to subsequent airdrops. This policy ensures that users who contribute only once are not consistently included in future airdrops, promoting active participation.
-
-During the pre-deployment phase, while the airdrop event is ongoing, the 0.5% swap fee will not be allocated to veXNF holders. Instead, these fees will be utilised as resources to support the protocol's progression and outreach efforts. However, once XNF has been deployed on a specific chain, 100% of the swap fees generated on that chain will be redirected as daily native rewards to veXNF holders. This creates an attractive incentive for actively participating in the ecosystem's growth and allows users to benefit from Xenify's ongoing swap volume.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
